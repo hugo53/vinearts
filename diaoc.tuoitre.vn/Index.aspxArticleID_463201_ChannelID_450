@@ -1,0 +1,676 @@
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head><title>.: Tuổi trẻ Online - Địa ốc :.</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema" />
+		<script src="Tianyon.js" type="text/javascript"></script>
+		<script src="http://www3.tuoitre.com.vn/Calendar/PopCalendar.js" type="text/javascript"></script>
+		<script language="JavaScript" src="http://www3.tuoitre.com.vn/vietuni/js/vietuni.js" type="text/javascript"></script>
+		<link href="Tianyon.css" type="text/css" rel="stylesheet" />
+		<link rel="shortcut icon" href="favicon.ico" />
+	</head>
+	<body style="margin: 0; text-align:center">
+	    <div id="main">
+	        <div id="branding">
+                <div id="leftBranding" style="background-color:#035DA2;">
+                    <a id="logo" href="http://tuoitre.vn" target="_blank"></a>
+                </div>
+                <div id="rigthBranding" style="background-color:#035DA2; padding:0 0 0 0">
+                    <a style="float:left; margin: 20px 0 0 0; padding: 0 0 0 0; display:block;" href="http://diaoc.tuoitre.vn/">
+                        <img src="Images/LogoDiaoc.gif" style="border-style:none;" alt=""/>
+                    </a>
+                    <!--<Cache Time='02/11/2011 7:24:11 CH'>--><div style="display:block; float:right; margin: 20px 10px 0 0; padding: 0 0 0 0">
+<!--a href="http://quangcao.diaoconline.vn/ads/Khuyenmai/Thang5/" target="_blank">
+<img src="http://quangcao.tuoitre.com.vn/service/diaoc/KhuyenmaiT5_445x60.gif" border="0"></a-->
+</div><!--</Cache>-->
+                </div>               
+                <ul id="ulHeader" style="font-family:Arial;width:778px; clear:both; height:25px">
+                    <li style="float:left; vertical-align:middle; border-right-color: White; font-weight:normal">
+                        ISSN 1859 - 1094
+                    </li>
+                    <li><a href="javascript:showWindow('http://chuyentrang.tuoitre.vn/Service/Contact.aspx', false, false, false, false, false, false, true, true, 800, 650, 0, 0);" style="border-right-color:White">Liên hệ</a></li>
+                    <li><a href="http://chuyentrang.tuoitre.vn/Newsletter/" target="_blank">Newsletter</a></li>
+                    <li><a href="http://quangcao.tuoitre.com.vn/Quangcao/" target="_blank">Quảng cáo</a></li>
+                    <li>
+                        <a href="http://mobi.tuoitre.com.vn/" target="_blank">Tuổi Trẻ Mobi</a>
+                    </li>
+                    <li>
+                        <a href="http://tuoitre.vn/Ao-trang/Index.html" target="_blank">Áo trắng</a>
+                    </li>
+                    <li><a href="http://chuyentrang.tuoitre.vn/TTC/" target="_blank">Tuổi Trẻ Cười</a></li>
+                    <li>
+                        <a href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Index.html" target="_blank">Tuổi Trẻ Cuối Tuần</a>
+                    </li>
+                </ul>
+                
+                <div style="clear:both; height:25px; width:778px; background-color:#f5f5f5; background-image: url(Images/ndHeadBgr.gif); background-repeat:repeat-x;">
+                    <h2 style="width:191px; height:25px; padding: 0 0 0 0; margin: 0 0 0 0; margin-left:9px; float:left; font-family:Arial; font-size:12px; line-height:25px; font-weight: normal; color:#616161;">	
+		                <script type="text/javascript">writeTime('2011/11/02 19:25:36')</script>						            
+	                </h2>
+	                <a href="http://tuoitre.vn/Rss/Index.html" target="_blank" style="display:block; float:right; height:25px; width:29px; margin-right:7px; background-image:url(Images/RssIcon.gif); background-repeat:no-repeat; background-position:left top"></a>
+	                
+
+<div style="float:right; width: 288px; height:25px">
+	<form style="margin: 4px 0 0 0;border-style:none; vertical-align:top;" >
+        <input 	value="Tìm kiếm" onblur="if (this.value=='') this.value='Tìm kiếm';" onfocus="if (this.value=='Tìm kiếm') this.value='';"  
+			style="margin-right:5px; margin-bottom:0px; vertical-align:top; background-color:white; border: solid 1px #868b93;font-size:11px; width:165px; color:#555555"
+			type="text" id="txtKeyword" name="SearchQuery" onkeypress="return trapEnterKey(this.value,event);" >
+	    <input type="image" src="Images/SearchIcon.gif" alt="Tìm Kiếm" style="vertical-align:top; margin-top:2px; height:15px; width:19px" name="image"  onclick="searchEngine();">
+	    <select id="cboInputMethodTop" class="cboInputMethodTop" style="margin-bottom:0px" onchange="setTypingMode(this.value * 1)"
+			name="Select1">
+			<option value="0">Off</option>
+			<option value="1">Telex</option>
+			<option value="2">VNI</option>
+		</select>
+	</form>
+</div>
+<script type="text/javascript" language="javascript">
+    /* URL encode / decode */
+    var Url =
+    {
+        // public method for url encoding
+        encode: function(string) {
+            return escape(this._utf8_encode(string));
+        },
+
+        // public method for url decoding
+        decode: function(string) {
+            return this._utf8_decode(unescape(string));
+        },
+
+        // private method for UTF-8 encoding
+        _utf8_encode: function(string) {
+            string = string.replace(/\r\n/g, "\n");
+            var utftext = "";
+
+            for (var n = 0; n < string.length; n++) {
+
+                var c = string.charCodeAt(n);
+
+                if (c < 128) {
+                    utftext += String.fromCharCode(c);
+                }
+                else if ((c > 127) && (c < 2048)) {
+                    utftext += String.fromCharCode((c >> 6) | 192);
+                    utftext += String.fromCharCode((c & 63) | 128);
+                }
+                else {
+                    utftext += String.fromCharCode((c >> 12) | 224);
+                    utftext += String.fromCharCode(((c >> 6) & 63) | 128);
+                    utftext += String.fromCharCode((c & 63) | 128);
+                }
+
+            }
+
+            return utftext;
+        },
+
+        // private method for UTF-8 decoding
+        _utf8_decode: function(utftext) {
+            var string = "";
+            var i = 0;
+            var c = c1 = c2 = 0;
+
+            while (i < utftext.length) {
+
+                c = utftext.charCodeAt(i);
+
+                if (c < 128) {
+                    string += String.fromCharCode(c);
+                    i++;
+                }
+                else if ((c > 191) && (c < 224)) {
+                    c2 = utftext.charCodeAt(i + 1);
+                    string += String.fromCharCode(((c & 31) << 6) | (c2 & 63));
+                    i += 2;
+                }
+                else {
+                    c2 = utftext.charCodeAt(i + 1);
+                    c3 = utftext.charCodeAt(i + 2);
+                    string += String.fromCharCode(((c & 15) << 12) | ((c2 & 63) << 6) | (c3 & 63));
+                    i += 3;
+                }
+            }
+            return string;
+        }
+    }
+    
+
+    function searchEngine() {
+        var url = "http://tuoitre.vn/Tim-kiem/Index.html?keyword=";
+
+        url += Url.encode(document.getElementById("txtKeyword").value) + "&scope=*&channel=-1&from=&to=&page=1";
+        window.open(url, "_blank", "", "");
+    }
+  
+</script>
+
+<script type="text/javascript" language="javascript">
+    function trapEnterKey(chkYM, value, e) {
+        // the purpose of this function is to allow the enter key to
+        // point to the correct button to click.
+        var key;
+
+        if (window.event) {
+            // IE
+            key = window.event.keyCode;
+        }
+        else {
+            // firefox
+            key = e.which;
+        }
+
+        if (key == 13) {
+            var q = value;
+
+            if (q == '') {
+                return false;
+            }
+
+            if ((q.indexOf('AND') == -1) && (q.indexOf('OR') == -1) && (q.indexOf('"') == -1)) {
+                //q = '"' + q + '"';
+                q = q;
+            }
+
+            // endcode
+            q = Url.encode(q);
+
+            var urltto = "http://tuoitre.vn/Tim-kiem/Index.html?scope=*&channel=-1&from=&to=&page=1&keyword=" + q;
+            window.open(urltto, "_blank", "", "");
+
+            event.keyCode = 0;
+
+            return false;
+        }
+
+        return true;
+    }                         
+</script>
+<script language="javascript" type="text/javascript">
+	//setTypingMode(document.getElementById("cboInputMethodTop").selectedIndex);
+	//initTyper(document.getElementById("SearchQueryTop"));
+	//document.getElementById("SearchQueryTop").value = destroyURL(GetPostVariable('SearchQuery', '').replace(/\+/g, ' '));
+</script>
+
+                </div>
+                
+                <div>
+                    
+
+<ul style="float:left; margin: 0 0 0 0; padding: 0 0 0 0; width: 778px; list-style-type:none; background-color: #3e3e3e; border: solid 1px #7c7c7c">
+     
+            <li style="float:left">
+                <a href="http://tuoitre.vn" title="Về Trang Chủ"  style="font-size:13px; font-family:Arial; text-align:center; font-weight:bold; color: White; background-image:url(Images/HomeIcon.gif); display: block; line-height: 20px; width:51px; background-color:#ffa400; border: solid 1px White">
+                    &nbsp;
+                </a>
+            </li>
+            <li style="float:left; border: solid 1px White; margin-left: 1px">
+                <a class="MenuNewa" href="http://diaoc.tuoitre.vn/" style="font-size:13px; font-family:Arial; text-align:center; font-weight:bold; display: block; line-height: 20px; width:96px;">
+                    Trang nhất
+                </a>
+            </li>
+           
+            <li style="float:left; background-color:Green; border: solid 1px White; margin-left: 1px">
+                <a class="MenuNewa" style="font-size:13px; font-family:Arial; text-align:center; font-weight:bold; display: block; line-height: 20px; padding: 0 21px 0 21px" href='Index.aspx?ChannelID=240'>
+                   Tư vấn nhà đất
+                </a>
+                <span style="display:none">
+                    
+                </span>
+            </li>
+           
+            <li style="float:left; background-color:Green; border: solid 1px White; margin-left: 1px">
+                <a class="MenuNewa" style="font-size:13px; font-family:Arial; text-align:center; font-weight:bold; display: block; line-height: 20px; padding: 0 21px 0 21px" href='Index.aspx?ChannelID=450'>
+                   Đô thị
+                </a>
+                <span style="display:none">
+                    
+                </span>
+            </li>
+           
+            <li style="float:left; background-color:Green; border: solid 1px White; margin-left: 1px">
+                <a class="MenuNewa" style="font-size:13px; font-family:Arial; text-align:center; font-weight:bold; display: block; line-height: 20px; padding: 0 21px 0 21px" href='Index.aspx?ChannelID=451'>
+                   Nhà đất
+                </a>
+                <span style="display:none">
+                    
+                </span>
+            </li>
+           
+            <li style="float:left; background-color:Green; border: solid 1px White; margin-left: 1px">
+                <a class="MenuNewa" style="font-size:13px; font-family:Arial; text-align:center; font-weight:bold; display: block; line-height: 20px; padding: 0 21px 0 21px" href='Index.aspx?ChannelID=452'>
+                   Thế giới kiến trúc
+                </a>
+                <span style="display:none">
+                    
+                </span>
+            </li>
+           
+            <li style="float:left; background-color:Green; border: solid 1px White; margin-left: 1px">
+                <a class="MenuNewa" style="font-size:13px; font-family:Arial; text-align:center; font-weight:bold; display: block; line-height: 20px; padding: 0 21px 0 21px" href='Index.aspx?ChannelID=368'>
+                   Không gian sống
+                </a>
+                <span style="display:none">
+                    
+                </span>
+            </li>
+        
+</ul>
+
+                </div>
+	        </div>
+	        <div id="left">
+	            
+
+<script type="text/javascript">
+    function onResponseClick()
+    {
+        showDialog('MailTo.aspx?ArticleID=' + GetPostVariable("ArticleID", null), 350, 420)
+    }
+</script>
+
+<div style="float:left; margin: 7px 0 0 0; padding: 0 0 0 0; width:512px;overflow:hidden;">
+    <h2 style="; margin: 0 0 0 0; padding: 0 0 0 0; font-family:Arial; font-size: 16px; height:20px; border-bottom: solid 1px #898989;">
+        <a style="font-family: Arial; font-size:16px; line-height:20px; text-transform:uppercase; color:#898989" href="Index.aspx?ChannelID=450">Đô thị</a>
+    </h2>
+    <div id="divContent" style="float:left; margin:0 0 0 0; padding: 0 0 0 0; width:512px;">
+        <script>getTimeString('2011/11/02 01:50:01');</script><br><P class=pTitle>Sai phạm quản lý đất đai ở TP Long Xuyên</P>
+<P class=pHead>TT&nbsp;- Ngày 1-11, ông Lê Việt Khoa - chủ nhiệm Ủy ban kiểm tra Tỉnh ủy An Giang - cho biết vừa có quyết định thành lập đoàn kiểm tra dấu hiệu vi phạm đối với những cán bộ đảng viên thuộc Đảng bộ TP Long Xuyên liên quan đến sai phạm về quản lý sử dụng đất và cấp giấy chứng nhận quyền sử dụng đất.</P>
+<P class=pBody>Theo kết luận thanh tra, qua kiểm tra ở 4/5 dự án phát hiện UBND TP Long Xuyên đã chuyển mục đích sử dụng tổng cộng 85.000m2 đất cho gần 40 hộ từ đất nông nghiệp thành đất ở và đất lâu năm khác, dù số diện tích này nằm trong quy hoạch thực hiện một số dự án đã được UBND tỉnh phê duyệt. </P>
+<P class=pBody>Trong danh sách 15 cán bộ đảng viên mà Ủy ban kiểm tra Tỉnh ủy An Giang kiểm tra có dấu hiệu vi phạm có bốn ủy viên thường vụ Thành ủy TP Long Xuyên gồm Huỳnh Giang Sơn (phó chủ tịch UBND TP), Hồ Đăng Chiến (nguyên phó chủ tịch UBND TP, hiện là trưởng Ban dân vận Thành ủy), Ngọc Chi (bí thư Đảng ủy P.Mỹ Long, nguyên trưởng Phòng quản lý đô thị), Nguyễn Thành Tâm (bí thư Đảng ủy P.Mỹ Phước, nguyên trưởng Phòng quản lý đô thị TP).</P>
+<P class=pAuthor>ĐỨC VỊNH</P>
+    </div>
+       <div style="border-top:1px dashed #8F8F8F; clear:both;">
+    </div> 
+    <ul style="float:left; clear:left; width:100%; padding:0 0 0 0; margin:0 0 0 0; list-style-type:none">            
+        
+    </ul>
+    <div style="width:100%; float:left;">
+        <form name="aspnetForm" method="post" action="Index.aspx?ArticleID=463201&amp;ChannelID=450" id="aspnetForm" enctype="multipart/form-data">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExMTgyNDQ5NjYPZBYEAgIPZBYCZg9kFgICAQ8WAh4LXyFJdGVtQ291bnQCBRYKAgEPZBYEZg8VAgMyNDAVVMawIHbhuqVuIG5ow6AgxJHhuqV0ZAIBDxYCHwBmZAICD2QWBGYPFQIDNDUwCsSQw7QgdGjhu4tkAgEPFgIfAGZkAgMPZBYEZg8VAgM0NTELTmjDoCDEkeG6pXRkAgEPFgIfAGZkAgQPZBYEZg8VAgM0NTIZVGjhur8gZ2nhu5tpIGtp4bq/biB0csO6Y2QCAQ8WAh8AZmQCBQ9kFgRmDxUCAzM2OBJLaMO0bmcgZ2lhbiBz4buRbmdkAgEPFgIfAGZkAgMPZBYCZg9kFgZmDxYCHgRUZXh0BagMPHNjcmlwdD5nZXRUaW1lU3RyaW5nKCcyMDExLzExLzAyIDAxOjUwOjAxJyk7PC9zY3JpcHQ+PGJyPjxQIGNsYXNzPXBUaXRsZT5TYWkgcGjhuqFtIHF14bqjbiBsw70gxJHhuqV0IMSRYWkg4bufIFRQIExvbmcgWHV5w6puPC9QPg0KPFAgY2xhc3M9cEhlYWQ+VFQmbmJzcDstIE5nYcyAeSAxLTExLCDDtG5nIEzDqiBWacOqzKN0IEtob2EgLSBjaHXMiSBuaGnDqsyjbSBVzIl5IGJhbiBracOqzIltIHRyYSBUacyJbmggdcyJeSBBbiBHaWFuZyAtIGNobyBiaeG6v3QgduG7q2EgY8OzIHF1ecOqzIF0IMSRacyjbmggdGjDoG5oIGzhuq1wIMSRb8OgbiBracOqzIltIHRyYSBkw6LMgXUgaGnDqsyjdSB2aSBwaGHMo20gxJHDtMyBaSB2xqHMgWkgbmjGsMyDbmcgY8OhbiBi4buZIMSRYcyJbmcgdmnDqm4gdGh1w7TMo2MgxJBhzIluZyBiw7TMoyBUUCBMb25nIFh1ecOqbiBsacOqbiBxdWFuIMSR4bq/biBzYWkgcGjhuqFtIHbhu4EgcXXhuqNuIGzDvSBz4butIGThu6VuZyDEkeG6pXQgdsOgIGPhuqVwIGdp4bqleSBjaOG7qW5nIG5o4bqtbiBxdXnhu4FuIHPhu60gZOG7pW5nIMSR4bqldC48L1A+DQo8UCBjbGFzcz1wQm9keT5UaGVvIGvhur90IGx14bqtbiB0aGFuaCB0cmEsIHF1YSBraeG7g20gdHJhIOG7nyA0LzUgZOG7sSDDoW4gcGjDoXQgaGnhu4duIFVCTkQgVFAgTG9uZyBYdXnDqm4gxJHDoyBjaHV54buDbiBt4bulYyDEkcOtY2ggc+G7rSBk4bulbmcgdOG7lW5nIGPhu5luZyA4NS4wMDBtMiDEkeG6pXQgY2hvIGfhuqduIDQwIGjhu5kgdOG7qyDEkeG6pXQgbsO0bmcgbmdoaeG7h3AgdGjDoG5oIMSR4bqldCDhu58gdsOgIMSR4bqldCBsw6J1IG7Eg20ga2jDoWMsIGTDuSBz4buRIGRp4buHbiB0w61jaCBuw6B5IG7hurFtIHRyb25nIHF1eSBob+G6oWNoIHRo4buxYyBoaeG7h24gbeG7mXQgc+G7kSBk4buxIMOhbiDEkcOjIMSRxrDhu6NjIFVCTkQgdOG7iW5oIHBow6ogZHV54buHdC4gPC9QPg0KPFAgY2xhc3M9cEJvZHk+VHJvbmcgZGFuaCBzw6FjaCAxNSBjw6FuIGLhu5kgxJHhuqNuZyB2acOqbiBtw6Ag4bumeSBiYW4ga2nhu4NtIHRyYSBU4buJbmgg4buneSBBbiBHaWFuZyBraeG7g20gdHJhIGPDsyBk4bqldSBoaeG7h3UgdmkgcGjhuqFtIGPDsyBi4buRbiDhu6d5IHZpw6puIHRoxrDhu51uZyB24bulIFRow6BuaCDhu6d5IFRQIExvbmcgWHV5w6puIGfhu5NtIEh14buzbmggR2lhbmcgU8ahbiAocGjDsyBjaOG7pyB04buLY2ggVUJORCBUUCksIEjhu5MgxJDEg25nIENoaeG6v24gKG5ndXnDqm4gcGjDsyBjaOG7pyB04buLY2ggVUJORCBUUCwgaGnhu4duIGzDoCB0csaw4bufbmcgQmFuIGTDom4gduG6rW4gVGjDoG5oIOG7p3kpLCBOZ+G7jWMgQ2hpIChiw60gdGjGsCDEkOG6o25nIOG7p3kgUC5N4bu5IExvbmcsIG5ndXnDqm4gdHLGsOG7n25nIFBow7JuZyBxdeG6o24gbMO9IMSRw7QgdGjhu4spLCBOZ3V54buFbiBUaMOgbmggVMOibSAoYsOtIHRoxrAgxJDhuqNuZyDhu6d5IFAuTeG7uSBQaMaw4bubYywgbmd1ecOqbiB0csaw4bufbmcgUGjDsm5nIHF1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Z8aw4budaSBkw6JuIHRoYW0gZ2lhIGfDs3Agw70uLk3hu51pIG5nxrDhu51pIGTDom4gZ8OzcCDDvSBxdXkgaG/huqFjaCBUUC5IQ00FMjcvMTBkAgcPZBYCZg8VBQY0NjIyOTcDNDUwoAJUVE8gLSBOZ8OgeSAyNi0xMCwgU+G7nyBYw6J5IGThu7FuZyBUUC5IQ00gxJHDoyBjw7MgYsOhbyBjw6FvIFVCTkQgVFAga+G6v3QgcXXhuqMga2nhu4NtIHRyYSBjw6FjIGNodW5nIGPGsCB0w6FpIMSR4buLbmggY8awIHRyw6puIMSR4buLYSBiw6BuIFRQLkhDTS4gVGhlbyDEkcOzLCBuZ3V5w6puIG5ow6JuIGThuqtuIMSR4bq/biB0w6xuaCB0cuG6oW5nIGPDoWMgY2h1bmcgY8awIHTDoWkgxJHhu4tuaCBjxrAgeHXhu5FuZyBj4bqlcCBuaGFuaCBsw6AgZG8gY2jhuqV0IGzGsOG7o25nIHRoaSBjw7RuZy5CQ2h1bmcgY8awIHh14buRbmcgY+G6pXAgbmhhbmggZG8mbmJzcDt0aGkgY8O0bmcgY2jGsGEgxJHhuqNtIGLhuqNvBTI2LzEwZAIID2QWAmYPFQUGNDYxOTc1AzQ1MJYBVFQgLSAxMiBuxINtIG5heSwgMTUwIGjhu5kgZMOibiB2ZW4gYmnhu4NuIHRo4buLIHRy4bqlbiBW4bqhbiBHacOjLCBodXnhu4duIFbhuqFuIE5pbmggKEtow6FuaCBIw7JhKSBz4buRbmcgdGjhuqVwIHRo4buPbSB0cm9uZyBj4bqjbmggY2jhu50gZGkgZOG7nWkuJTEyIG7Eg20gY2jhu4t1IHF1eSBob+G6oWNoIOKAnHRyZW/igJ0FMjUvMTBkAgkPZBYCZg8VBQY0NjIwMTYDNDUw7gJUVCAtIFRoYW5oIHRyYSBDaMOtbmggcGjhu6cgduG7q2EgY8OzIGPDtG5nIHbEg24gZ+G7rWkgVGjhu6cgdMaw4bubbmcgxJHhu4Egbmdo4buLIGdpYW8gQuG7mSBYw6J5IGThu7FuZyB5w6p1IGPhuqd1IEPDtG5nIHR5IGPhu5UgcGjhuqduIMSR4bqndSB0xrAgcGjDoXQgdHJp4buDbiDEkcO0IHRo4buLIHbDoCBraHUgY8O0bmcgbmdoaeG7h3AgU8O0bmcgxJDDoCAoU3VkaWNvKSB04bqhbSBk4burbmcgdmnhu4djIHRo4buxYyBoaeG7h24gZOG7sSDDoW4gxJHhuqd1IHTGsCBraHUgxJHDtCB0aOG7iyBt4bubaSBOYW0gQW4gS2jDoW5oIGRvIGPDsyBuaOG7r25nIHZpIHBo4bqhbSBjw6FjIHF1eSDEkeG7i25oIGPhu6dhIE5ow6Agbsaw4bubYy5FxJDhu4Egbmdo4buLIHThuqFtIGThu6tuZyBk4buxIMOhbiBraHUgxJHDtCB0aOG7iyBt4bubaSBOYW0gQW4gS2jDoW5oBTI1LzEwZGRKXPIXI6bd9nelGjyijrK6l29K6g==" />
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCgKwtoK2DwKujo7vDQKes8HnAQK9vtWLDwLi8/XjAgLkw8LgDwKpweLXBgL/hbSVDgLQytrXCAKLh5j9DdDJvF7TO6erlnMuZAQ0Jr1R8IOh" />
+  <div style="background-color:#eaf1f9; width:510px; height:380px; background-repeat:repeat; padding:2 0 0 0; margin:0 0 0 0">                
+        <p style="float:left; margin:0; padding:0">
+            <span class="ContactText" style="width:65px; float:left">Họ và tên</span>
+            <input name="_ctl1:contactInline:txtName" type="text" id="_ctl1_contactInline_txtName" class="PanelContent" />&nbsp;&nbsp;        
+            <span class="ContactText" style="width:90px">Địa chỉ Email</span>
+            <input name="_ctl1:contactInline:txtEmail" type="text" id="_ctl1_contactInline_txtEmail" class="PanelContent" />
+        </p>                 
+        <p style="float:left; margin:3px 0 0 0; padding:0 0 0 0">
+            <span class="ContactText" style="width:65px; float:left">Gửi tới&nbsp;&nbsp;&nbsp;&nbsp;</span>
+            <select name="_ctl1:contactInline:cboContact" id="_ctl1_contactInline_cboContact" class="PanelContent">
+	<option value="online@tuoitre.net.vn;tto@tuoitre.com.vn;nguyenhanh@tuoitre.com.vn;ctbd@tuoitre.com.vn">To&#224; soạn</option>
+	<option value="quangcao@tuoitre.com.vn">Ph&#242;ng quảng c&#225;o</option>
+	<option value="phathanh@tuoitre.com.vn">Ph&#242;ng ph&#225;t h&#224;nh</option>
+
+</select>&nbsp;&nbsp;        
+            <span class="ContactText" style="width:90px">Tiêu đề&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+            <input name="_ctl1:contactInline:txtTitle" type="text" id="_ctl1_contactInline_txtTitle" class="PanelContent" />
+        </p>                  
+                
+       <div style="width:502px; float:left; padding:0; margin:0">
+            <p style="float:left; padding-left:3px; padding-top:2px; width: 76px;" class="ContactText">Nội dung</p>
+            <p style="float:right; padding-top:2px; padding-right:10px; width: 220px;">
+                <span class="ContactText">Gõ tiếng Việt</span>							            
+	            <select  id="cboInputMethodContactInline"  style="background-image:url(Skin/Banner/); width:60px; height:19px; font-size:11px; border-color:#b9b9bb; border-width:1px"  onchange="setTypingMode(this.value * 1)"
+                    name="Select1">
+                    <option value="0" selected>Off</option>
+                    <option value="1">Telex</option>
+                    <option value="2">VNI</option>
+                </select> 
+                <a style="color:#003399; font-family:Arial; font-size:13px" href="http://www.tuoitre.com.vn/Tianyon/Index.aspx?ArticleID=29762&amp;ChannelID=67">
+					Hướng dẫn
+	            </a>
+			</p>
+        </div>                
+        <div style="float:left;background-color:#eaf1f9; margin:0 0 0 0; padding:0 0 0 0; width:500px; padding-left:3px;" class="ContactText1">
+             <textarea name="_ctl1:contactInline:txtContent" id="_ctl1_contactInline_txtContent" class="ContactText"></textarea>
+        </div>     
+        <div style="float:left;padding-left:3px; padding-top:8px; width:500px" class="ContactText1">Đính kèm tài liệu</div>                    
+        <p style="float:left; margin:0; padding:0">
+            <span class="ContactText">Tài liệu 1</span>
+            <input name="_ctl1:contactInline:File1" type="file" id="_ctl1_contactInline_File1" style="line-height:10px; padding:0 0 0 0; margin:0 0 0 0" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         
+            <span class="ContactText2">(Tối đa 1MB)</span>&nbsp;&nbsp;&nbsp;
+            <input type="submit" name="_ctl1:contactInline:cmdSend" value="Gửi đi" id="_ctl1_contactInline_cmdSend" /> 
+        </p>               
+        <p style="float:left;margin:0; padding:0">
+            <span class="ContactText">Tài liệu 2</span>
+            <input name="_ctl1:contactInline:File2" type="file" id="_ctl1_contactInline_File2" style="padding:0 0 0 0; margin:0 0 0 0" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      
+            <span class="ContactText2">(Tối đa 1MB) </span>           
+        </p>              
+        <p style="float:left;margin:0; padding:0">
+            <span class="ContactText">Tài liệu 3</span>
+            <input name="_ctl1:contactInline:File3" type="file" id="_ctl1_contactInline_File3" style="padding:0 0 0 0; margin:0 0 0 0" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         
+            <span class="ContactText2">(Tối đa 1MB)</span>            
+        </p>              
+        <p style="float:left;margin:0; padding:0">
+            <span class="ContactText">Tài liệu 4</span>
+            <input name="_ctl1:contactInline:File4" type="file" id="_ctl1_contactInline_File4" style="padding:0 0 0 0; margin:0 0 0 0" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      
+            <span class="ContactText2">(Tối đa 1MB)</span>
+        </p> 
+        <p><input name="_ctl1:contactInline:hidReferrer" type="hidden" id="_ctl1_contactInline_hidReferrer" value="http://diaoc.tuoitre.vn/Index.aspx?ArticleID=463201&amp;ChannelID=450" /></p>       
+    </div>   
+</form>
+<script language="javascript" type="text/javascript">
+    function onContactSubmit()
+    {
+	    alert("Cảm ơn bạn đã gửi thư tới Tuổi Trẻ.");
+    	
+	    return true;
+    }
+    
+     // Form Clearn
+	document.getElementById("_ctl1_contactInline_txtContent").value = "";
+	document.getElementById("_ctl1_contactInline_txtTitle").value = "";	
+    
+    // Set Typing Mode
+    setTypingMode(document.getElementById("cboInputMethodContactInline").selectedIndex);
+	initTyper(document.getElementById("_ctl1_contactInline_txtContent"));
+	initTyper(document.getElementById("_ctl1_contactInline_txtName"));
+	initTyper(document.getElementById("_ctl1_contactInline_txtTitle"));	
+</script>
+    </div>    
+    <!--In Phản hồi Gửi Top-->
+    <div style="float:right" align="right" >	
+        <a href="JavaScript:location.href='PrintView.aspx'+location.search">
+            <img src="Images/print.gif" alt="In bài" width="61px" height="22" border="0" />&nbsp; &nbsp;&nbsp;	  
+        </a>      
+        <a href="#">
+            <img src="images/returnTop.gif" border="0" alt="Về đầu trang" /> 
+        </a>&nbsp; &nbsp;&nbsp;
+        <input onclick="popUpCalendar(this, this, 'dd-mm-yyyy')" type="image" src="images/ViewDay.gif" alt="" />&nbsp;&nbsp;&nbsp;                   
+    </div>
+    <div style="height:5px; width:100%; clear:both"></div>
+    <span class="TopicTitle" style="color:#990000; font-size:12px; letter-spacing:1px">Các tin khác</span>
+    <br />
+    <ul style="float:left; clear:left; width:100%; padding:0 0 0 0; margin:0 0 0 0; list-style-type:none">        
+        
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=463159&ChannelID=450' title='TTO - Phó chủ tịch UBND TP.HCM Nguyễn Hữu Tín yêu cầu thành lập ngay các đoàn kiểm tra đột xuất việc tuân thủ quy hoạch và chất lượng đầu tư xây dựng công viên cây xanh ở một số dự án điển hình tại các quận&nbsp;huyện, báo cáo kết quả cho UBND TP trong 30 ngày.'>
+                        Xử lý nghiêm sử dụng đất công viên cây xanh sai mục đích - <span style="font-size:12px; font-family:Arial; color:#616161"> (01/11)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=462880&ChannelID=450' title='TT&nbsp;- Ngày 30-10, lãnh đạo Công ty cổ phần đầu tư phát triển hạ tầng IDICO cho biết dự kiến giữa tháng 11 sẽ khởi công xây dựng hai cầu vượt tại nút giao quốc lộ 1A với tỉnh lộ 10 và tỉnh lộ 10B có tổng chiều dài 1.482m.'>
+                        Sẽ có 2 cầu vượt trên quốc lộ 1A qua TP.HCM - <span style="font-size:12px; font-family:Arial; color:#616161"> (31/10)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=462651&ChannelID=450' title='TT - Ngày 28-10, Công ty TNHH một thành viên Công trình cầu phà TP.HCM cho biết từ 22g ngày 1-11 đến 5g ngày 2-11 tạm ngưng hoạt động phà Cát Lái (Q.2 - huyện Nhơn Trạch, tỉnh Đồng Nai).'>
+                        &nbsp;Tạm ngưng hoạt động phà Cát Lái - <span style="font-size:12px; font-family:Arial; color:#616161"> (29/10)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=462647&ChannelID=450' title='TT&nbsp;- Ngày 28-10, Công ty cổ phần Đầu tư hạ tầng kỹ thuật TP.HCM đã trình UBND TP.HCM thiết kế cơ sở xây dựng cầu Sài Gòn 2 (Q.Bình Thạnh - Q.2) nằm bên cạnh cầu Sài Gòn hiện hữu.'>
+                        Sẽ khởi công cầu Sài Gòn 2 vào đầu năm 2012 - <span style="font-size:12px; font-family:Arial; color:#616161"> (29/10)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=462654&ChannelID=450' title='TT - Đó là ý kiến được nhiều chuyên gia, nhà khoa học nêu ra tại hội thảo Quy hoạch đô thị và an toàn giao thông do Liên hiệp Các hội khoa học và kỹ thuật Hà Nội cùng Sở GTVT Hà Nội tổ chức hôm qua.'>
+                        Lấy giao thông làm chủ thể trong phát triển đô thị - <span style="font-size:12px; font-family:Arial; color:#616161"> (29/10)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=462371&ChannelID=450' title='TT - Thị trường đất nền Đà Nẵng tiếp tục ảm đạm sau khi lên đỉnh vào cuối năm 2010. Không chỉ đóng băng, giá đất nhiều khu vực đã giảm 10-20% so với năm 2010.'>
+                        Đất nền Đà Nẵng... tuột giá - <span style="font-size:12px; font-family:Arial; color:#616161"> (27/10)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=462352&ChannelID=450' title='TT - Dự kiến trong tháng 11-2011, TP.HCM sẽ tổ chức triển lãm quy hoạch chung xây dựng TP.HCM đến năm 2025 để người dân tham gia góp ý.'>
+                        Mời người dân góp ý quy hoạch TP.HCM - <span style="font-size:12px; font-family:Arial; color:#616161"> (27/10)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=462297&ChannelID=450' title='TTO - Ngày 26-10, Sở Xây dựng TP.HCM đã có báo cáo UBND TP kết quả kiểm tra các chung cư tái định cư trên địa bàn TP.HCM. Theo đó, nguyên nhân dẫn đến tình trạng các chung cư tái định cư xuống cấp nhanh là do chất lượng thi công.'>
+                        Chung cư xuống cấp nhanh do&nbsp;thi công chưa đảm bảo - <span style="font-size:12px; font-family:Arial; color:#616161"> (26/10)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=461975&ChannelID=450' title='TT - 12 năm nay, 150 hộ dân ven biển thị trấn Vạn Giã, huyện Vạn Ninh (Khánh Hòa) sống thấp thỏm trong cảnh chờ di dời.'>
+                        12 năm chịu quy hoạch “treo” - <span style="font-size:12px; font-family:Arial; color:#616161"> (25/10)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=462016&ChannelID=450' title='TT - Thanh tra Chính phủ vừa có công văn gửi Thủ tướng đề nghị giao Bộ Xây dựng yêu cầu Công ty cổ phần đầu tư phát triển đô thị và khu công nghiệp Sông Đà (Sudico) tạm dừng việc thực hiện dự án đầu tư khu đô thị mới Nam An Khánh do có những vi phạm các quy định của Nhà nước.'>
+                        Đề nghị tạm dừng dự án khu đô thị mới Nam An Khánh - <span style="font-size:12px; font-family:Arial; color:#616161"> (25/10)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 24px; padding-left:12px; font-family:Arial; font-size:14px">
+                    &nbsp;
+                </li>
+            
+    </ul> 
+</div>
+<script language="javascript" type="text/javascript" src="Highlight.js"></script>   
+	        </div>
+	        <div id="right">	                 
+	            <!--<Cache Time='02/11/2011 7:24:11 CH'>--><div style="margin: 0 0 0 0; padding: 5px 0 0 0;">
+<!--div style="display:block; margin: 5px 0 0 0; padding:0 0 0 0;">
+	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="260" height="180">
+      <param name="movie" value="http://quangcao.tuoitre.vn/service/diaoc/CTMT_260x120.swf">
+      <param name="quality" value="high">
+      <embed src="http://quangcao.tuoitre.vn/service/diaoc/Klassy_260x180.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="260" height="180"></embed>
+    </object>
+</div>
+<a style="display:block; margin: 5px 0 0 0; padding:0 0 0 0;" href="http://www.diaoconline.vn/ban-tin-doi-tac/" target="_blank">
+<img src="http://quangcao.tuoitre.com.vn/service/diaoc/BanTinDiaOc.gif" border="0">
+</a>
+<a style="display:block; margin: 5px 0 0 0; padding:0 0 0 0;" href="http://map.diaoconline.vn/" target="_blank">
+<img src="http://quangcao.tuoitre.com.vn/service/diaoc/Map_260x120.gif" border="0">
+</a>
+<a style="display:block; margin: 5px 0 0 0; padding:0 0 0 0;" href="http://quangcao.diaoconline.vn/cenodi/hethongdichvu/diaocpr.html" target="_blank">
+<img src="http://quangcao.tuoitre.com.vn/service/diaoc/DiaOcPR_260x120.gif" border="0">
+</a>
+<a style="display:block; margin: 5px 0 0 0; padding:0 0 0 0;" href="http://quangcao.diaoconline.vn/ads/dichvutrongoi/" target="_blank">
+<img src="http://quangcao.tuoitre.com.vn/service/diaoc/dichvutrongoi.gif" border="0">
+</a-->
+
+</div>
+
+
+
+<script language="javascript" type="text/javascript">
+    function ChangeStatus(id)
+    {
+        if(id == 'NewProjectsLink') // Click mouse on NewProjects tab
+        {   
+            document.getElementById('NewProjectsLink').style.backgroundImage = 'url(Images/CenterTabAct.gif)';
+            document.getElementById('SelfIntroducedProjectsLink').style.backgroundImage = 'url(Images/CenterTab.gif)';
+            document.getElementById('SelfIntroducedProjects').style.display = 'none';
+            document.getElementById('NewProjects').style.display = 'block';
+        }
+        else // Click mouse on SelfIntroducedProjects tab
+        {
+            document.getElementById('SelfIntroducedProjectsLink').style.backgroundImage = 'url(Images/CenterTabAct.gif)';
+            document.getElementById('NewProjectsLink').style.backgroundImage = 'url(Images/CenterTab.gif)';
+            document.getElementById('NewProjects').style.display = 'none';
+            document.getElementById('SelfIntroducedProjects').style.display = 'block';
+        }
+    }
+</script>
+<div style="margin-top: 6px; margin-bottom: 10px">
+    <h2 style="width:100%;vertical-align:middle; margin: 0 0 0 0; padding: 0 0 0 0; height: 20px; text-align:center; font-size: 14px; background: White url(Images/AdditionalHeadBgr.gif) repeat-x; background-position:top left">
+        <b style="margin: 0 auto; padding: 0 0 0 0; font-family:Arial; display:block; width: 150px; font-size: 12px; line-height:20px; text-transform:uppercase; color:#616161; background-color: White">Thông tin dịch vụ</b>
+    </h2>
+    <h2 style="font-family: Arial; font-size: 6px; height:21px; margin: 0 0 0 0; padding: 0 0 0 0; background-image:url(Images/GrayPot.gif); background-repeat:repeat-x; background-position: left bottom" >
+        <span id="SelfIntroducedProjectsLink" style="float:left; display: block; height:21px; background-image:url(Images/CenterTabAct.gif); background-repeat:repeat-x; background-position: top left">
+            <span style="float:left; display: block; height:21px; padding-left: 6px; background-image:url(Images/LeftTab.gif); background-repeat:no-repeat; background-position: top left">
+                <span style="float:left; display: block; height:21px; padding-right: 6px; background-image:url(Images/RightTab.gif); background-repeat:no-repeat; background-position: top right">
+                    <a href="javascript:ChangeStatus('SelfIntroducedProjectsLink')" style="display:block; float:left; line-height:21px; padding: 0 5px 0 5px; font-family:Arial; font-size:12px; font-weight:bold; color:#466722; text-transform:uppercase;">
+                        Dự án tự giới thiệu
+                    </a>    
+                </span>
+            </span>
+        </span>
+        <span id="NewProjectsLink" style="float:left; display: block; height:21px; background-image:url(Images/CenterTab.gif); background-repeat:repeat-x; background-position: top left">
+            <span style="float:left; display: block; height:21px; padding-left: 6px; background-image:url(Images/LeftTab.gif); background-repeat:no-repeat; background-position: top left">
+                <span style="float:left; display: block; height:21px; padding-right: 6px; background-image:url(Images/RightTab.gif); background-repeat:no-repeat; background-position: top right">
+                    <a href="javascript:ChangeStatus('NewProjectsLink')" style="display:block; float:left; line-height:21px; padding:0 5px 0 5px; font-family:Arial; font-size:12px; font-weight:bold; color:#466722; text-transform:uppercase">
+                        Dự án mới
+                    </a>
+                </span>
+            </span>
+        </span>
+    </h2>
+    <div id="SelfIntroducedProjects" style="display:block; border: solid 1px #cccccc; border-top-style:none; border-bottom-style:none; background-color:#f0f0f4">
+        
+    </div>
+    <div id="NewProjects" style="display: none; border: solid 1px #cccccc; border-top-style:none; border-bottom-style:none; background-color:#f0f0f4">
+        
+                <h3 style="padding:15px 9px 10px 9px; margin: 0 0 0 0;">
+                    <a style="font-weight:bold; color:Black; font-family:Arial; font-size:12px; text-transform:capitalize" href='http://www.diaoconline.vn/doanhnghiep/duan/chitiet/421/601/' target="_blank">
+                        Dự án bất động sản - Năm Bảy Bảy
+                    </a>
+                </h3>
+                <div style="padding: 0 10px 15px 10px; border-bottom: solid 1px #cccccc; margin: 0 0 0 0; font-size: 12px; font-family:Arial;">
+                    <a style="float:left; margin: 3px 0 0 0" href='http://www.diaoconline.vn/doanhnghiep/duan/chitiet/421/601/' title="Công ty Cổ phần Đầu tư Năm Bảy Bảy" target="_blank">
+                        <img style="width:93px; border: solid 1px #888888" src="http://image.diaoconline.vn/SanPham/2009/06/02_hinhminhhoa.jpg" alt=""/>
+                    </a>  
+                    <p style="float:right; width: 136px; height: 90px; overflow:hidden; margin:0 0 0 0; padding: 0 0 0 0">
+                        Công ty Cổ phần Đầu tư Năm Bảy Bảy đang đầu tư rất nhiều dự án bất động sản trên cả nước, điển hình như: Khu dân cư Trung tâm Thương mại Bắc Phan Thiết; Khu đô thị thương mại ven sông Bạc Liêu, thị xã Bạc Liêu; Khu căn hộ cao tầng Carina Plaza; Khu căn hộ cao tầng City Gate Towers...
+                    </p>
+                    <div style="clear:both; margin: 0 0 0 0; padding: 0 0 0 0"></div>
+                </div>
+            
+                <h3 style="padding:15px 9px 10px 9px; margin: 0 0 0 0;">
+                    <a style="font-weight:bold; color:Black; font-family:Arial; font-size:12px; text-transform:capitalize" href='http://www.diaoconline.vn/doanhnghiep/duan/chitiet/890/517/' target="_blank">
+                        An Bình Tower
+                    </a>
+                </h3>
+                <div style="padding: 0 10px 15px 10px; border-bottom: solid 1px #cccccc; margin: 0 0 0 0; font-size: 12px; font-family:Arial;">
+                    <a style="float:left; margin: 3px 0 0 0" href='http://www.diaoconline.vn/doanhnghiep/duan/chitiet/890/517/' title="Công ty Cổ phần Tập đoàn Thế Kỷ - Cen Group" target="_blank">
+                        <img style="width:93px; border: solid 1px #888888" src="http://image.diaoconline.vn/SanPham/2011/11/02_Diaoconline_AnBinhTower_130x100.jpg" alt=""/>
+                    </a>  
+                    <p style="float:right; width: 136px; height: 90px; overflow:hidden; margin:0 0 0 0; padding: 0 0 0 0">
+                        An Bình Tower tọa lạc tại ngã tư đường 69 Cổ Nhuế và đường quy hoạch nối thẳng với đường Phạm Văn Đồng đang được thi công, tại xã Cổ Nhuế, Từ Liêm, Hà Nội. An Bình Tower có quy mô 24 tầng gồm 2 tầng hầm, 3 tầng văn phòng và dịch vụ thương mại, 21 tầng căn hộ với hai loại diện tích 85 và 100m2/căn hộ sẽ cung cấp cho cư dân ở đây 168 căn hộ tiện nghi.
+                    </p>
+                    <div style="clear:both; margin: 0 0 0 0; padding: 0 0 0 0"></div>
+                </div>
+            
+                <h3 style="padding:15px 9px 10px 9px; margin: 0 0 0 0;">
+                    <a style="font-weight:bold; color:Black; font-family:Arial; font-size:12px; text-transform:capitalize" href='http://www.diaoconline.vn/doanhnghiep/duan/chitiet/241/743/' target="_blank">
+                        Thảo Điền Apartment
+                    </a>
+                </h3>
+                <div style="padding: 0 10px 15px 10px; border-bottom: solid 1px #cccccc; margin: 0 0 0 0; font-size: 12px; font-family:Arial;">
+                    <a style="float:left; margin: 3px 0 0 0" href='http://www.diaoconline.vn/doanhnghiep/duan/chitiet/241/743/' title="Sàn giao dịch Bất động sản Hòa Bình" target="_blank">
+                        <img style="width:93px; border: solid 1px #888888" src="http://image.diaoconline.vn/SanPham/2010/06/17_ThaoDien_130x100.jpg" alt=""/>
+                    </a>  
+                    <p style="float:right; width: 136px; height: 90px; overflow:hidden; margin:0 0 0 0; padding: 0 0 0 0">
+                        Căn hộ cao cấp Thảo Điền tọa lạc tại mặt tiền đường Nguyễn Văn Hưởng, phường Thảo Điền, Quận 2. Dự án được xây dựng trên diện tích 7.137m2 bao gồm 280 căn hộ.
+                    </p>
+                    <div style="clear:both; margin: 0 0 0 0; padding: 0 0 0 0"></div>
+                </div>
+            
+                <h3 style="padding:15px 9px 10px 9px; margin: 0 0 0 0;">
+                    <a style="font-weight:bold; color:Black; font-family:Arial; font-size:12px; text-transform:capitalize" href='http://www.diaoconline.vn/doanhnghiep/duan/chitiet/383/918/' target="_blank">
+                        Vinpearl Hội An Resort & Residences
+                    </a>
+                </h3>
+                <div style="padding: 0 10px 15px 10px; border-bottom: solid 1px #cccccc; margin: 0 0 0 0; font-size: 12px; font-family:Arial;">
+                    <a style="float:left; margin: 3px 0 0 0" href='http://www.diaoconline.vn/doanhnghiep/duan/chitiet/383/918/' title="Công ty Cổ phần Vincom" target="_blank">
+                        <img style="width:93px; border: solid 1px #888888" src="http://image.diaoconline.vn/SanPham/2010/08/23_VinpearlHoiAn_130x100.jpg" alt=""/>
+                    </a>  
+                    <p style="float:right; width: 136px; height: 90px; overflow:hidden; margin:0 0 0 0; padding: 0 0 0 0">
+                        Vinpearl Hội An resort &amp; residences là khu Du lịch sinh thái biển cao cấp với các khu chức năng bố trí linh hoạt gồm khu khách sạn 5 sao và 26 Biệt thự hạng sang với mật độ xây dựng chỉ ở mức trên 20%, đảm bảo sự riêng tư của mỗi chủ biệt thự...
+                    </p>
+                    <div style="clear:both; margin: 0 0 0 0; padding: 0 0 0 0"></div>
+                </div>
+            
+    </div>
+</div>
+
+<div style=" border: 1px solid #cccccc; background-color:#f8f8f8; margin:10px 0 0 0; padding: 0 0 0 0">    
+    <h2 style="margin:0 6px 0 6px; padding:0 0 0 0; line-height: 27px; font-family: Arial; font-size: 12px; font-weight:bold; text-transform:uppercase; color:#466722">Doanh Nghiệp</h2> 
+    
+    
+    <p style="margin:0 0 0 0; padding:0 0 0 0">
+        <span style="float:left; border-style:none; margin:3px 2px 3px 2px; background-color:Transparent;">
+            <a style="display:block; line-height:21px; width:125px; font-family:Arial; font-size: 12px; text-align:center; color: #466722; background-color:#c9e6a8; background-image:url(Images/GreenButton.gif); background-repeat:no-repeat; background-position:top left; float:left" href="http://www.diaoconline.vn/web/sanpham/moigioi/" target="_blank">Môi giới địa ốc</a>
+        </span>
+        <span style="float:right; border-style:none; margin:3px 2px 3px 2px;  background-color:Transparent; ">
+            <a style="display:block; line-height:21px; width:125px; font-family:Arial; font-size: 12px; text-align:center; color: #466722; background-color:#c9e6a8; background-image:url(Images/GreenButton.gif); background-repeat:no-repeat; background-position:top left; float:left" href="http://www.diaoconline.vn/web/sanpham/trangtri/" target="_blank">Trang trí nội thất</a>
+        </span>
+        <span style="float:left; border-style:none; margin:3px 2px 3px 2px; background-color:Transparent;">
+            <a style="display:block; line-height:21px; width:125px; font-family:Arial; font-size: 12px; text-align:center; color: #466722; background-color:#c9e6a8; background-image:url(Images/GreenButton.gif); background-repeat:no-repeat; background-position:top left; float:left" href="http://www.diaoconline.vn/web/sanpham/vatlieu/" target="_blank">Vật liệu xây dựng</a>
+        </span>
+        <span style="float:right; border-style:none; margin:3px 2px 3px 2px;  background-color:Transparent; ">
+            <a style="display:block; line-height:21px; width:125px; font-family:Arial; font-size: 12px; text-align:center; color: #466722; background-color:#c9e6a8; background-image:url(Images/GreenButton.gif); background-repeat:no-repeat; background-position:top left; float:left" href="http://www.diaoconline.vn/web/sanpham/kientruc/" target="_blank">Kiến trúc-Xây dựng</a>
+        </span>
+        <span style="float:left; border-style:none; margin:3px 2px 6px 2px; background-color:Transparent;">
+            <a style="display:block; line-height:21px; width:125px; font-family:Arial; font-size: 12px; text-align:center; color: #466722; background-color:#c9e6a8; background-image:url(Images/GreenButton.gif); background-repeat:no-repeat; background-position:top left; float:left" href="http://www.diaoconline.vn/web/sanpham/dinhgia/" target="_blank">Định giá địa ốc</a>
+        </span>
+        <span style="float:right; border-style:none; margin:3px 2px 6px 2px;  background-color:Transparent; ">
+            <a style="display:block; line-height:21px; width:125px; font-family:Arial; font-size: 12px; text-align:center; color: #466722; background-color:#c9e6a8; background-image:url(Images/GreenButton.gif); background-repeat:no-repeat; background-position:top left; float:left" href="http://www.diaoconline.vn/web/sanpham/taichinh/" target="_blank">Tư vấn-Thiết kế</a>
+        </span>
+    </p>
+    <div style="clear:both; margin:0 0 0 0; padding:0 0 0 0"></div>
+</div>
+<!--</Cache>-->                                                                           
+	        </div>
+	        <div id="bottom">
+				<!--<Cache Time='02/11/2011 7:24:11 CH'>--><div style="display:block; float:right; margin: 5px 0px 5px 0px; padding:0px">
+<div style="margin:0 0 0 0; padding:0; float:left;clear:both;">
+<iframe frameborder="0" width="778px" height="518px" src="http://s.tuoitre.vn/tto/diaoc/raovat.html" marginheight="0" marginwidth="0" scrolling="no"></iframe>
+</div>
+</div>
+
+
+
+
+
+	<!--</Cache>-->
+	            <div id="Footer" style="margin: 0; padding:; float:left; width:780px; height:34px; background-color:#e3f1fd; background-image:url(Images/FooterBgr.gif); background-repeat:repeat-x; background-position:top left">
+    <ul style="margin:0; padding:0; float:left; list-style-type:none;">
+        <li><a href="http://tuoitre.vn" target="_blank"><span style="font-size:11px">&nbsp;Bản quyền &copy; 2003 - 2010 Tuổi Trẻ</span>&nbsp;&nbsp;&nbsp;</a></li>
+        <li><a href="http://tuoitre.vn/Support/unicode.zip"><span style="font-size:11px">&nbsp;&nbsp;Font Unicode</span></a></li>
+        <li><a href="http://quangcao.tuoitre.vn/Bang-gia-quang-cao/Tuoi-Tre-Online/index.html" ><span style="font-size:11px">&nbsp;&nbsp;Bảng Giá Quảng Cáo</span></a></li>
+        <li><a href="http://quangcao.tuoitre.vn/Dat-bao-truc-tuyen/index.html" ><span style="font-size:11px">&nbsp;&nbsp;Đặt Báo</span></a></li>
+        <li><a href="http://tuoitre.vn/So-do-Web/Index.html"><span style="font-size:11px">&nbsp;&nbsp;Sơ Đồ Web</span></a></li>
+        <li><a href="http://tuoitre.vn/Support/support.htm"><span style="font-size:11px">&nbsp;&nbsp;Hướng Dẫn</span></a></li>
+        <li><a href="javascript:showWindow('http://chuyentrang.tuoitre.vn/Service/Contact.aspx', false, false, false, false, false, false, true, true, 800, 650, 0, 0);"><span style="font-size:11px">&nbsp;&nbsp;Liên Hệ</span></a></li>          
+        <li style="margin-left:6px"><a href="http://moore.vn" target="_blank"><span style="font-size:11px">&nbsp;&nbsp;&nbsp;&nbsp;Phát triển bởi Moore Corp.</span></a></li>
+    </ul>    
+</div>
+
+
+	        </div>
+	    </div> 
+	            
+	    
+	    <!-- Google Analytics-->
+        <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+        <script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-6300616-1");
+        pageTracker._trackPageview();
+        } catch(err) {}</script>  
+        
+        <!-- CMS Statistics -->
+        <script language="javascript" type="text/javascript" src="http://statistics.tuoitre.com.vn/TotalStatistics.js"></script>
+        <script language="javascript" type="text/javascript">
+            var paramSta    = "App=DIAOC";
+            var search      = document.location.search;
+            if(search != '')
+            {
+                paramSta = paramSta + "&" + search.replace("?","")
+            }
+            IframeRender(paramSta);
+        </script>           
+	</body>
+</html>

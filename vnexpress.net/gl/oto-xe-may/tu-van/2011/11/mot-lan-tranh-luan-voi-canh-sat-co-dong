@@ -1,0 +1,926 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />		
+		
+		<meta name="robots" content="INDEX,FOLLOW" />
+			
+		<meta name="description" content="Dù đã chuẩn bị rất kỹ, đủ giấy tờ, nhưng em vẫn bị 'tóm' vì lỗi thiếu chứng minh thư nhân dân của chủ xe." />
+			
+		<title>Một lần 'tranh luận' với Cảnh sát cơ động - VnExpress</title>
+		
+		<meta name="keywords" content="ôtô,xe hơi,tư vấn,CSGT,cảnh sát giao thông,cảnh sát cơ động" />	
+		
+		<meta http-equiv="REFRESH" content="3600" />
+		
+		<link rel="stylesheet" href="/Resource/Common/default.css" type="text/css" />	
+		<link href="http://go.polyad.net/style/context/2.css" rel="Stylesheet" style="text/css"> 		
+		
+		<link rel="alternate" type="application/rss+xml" title="VnExpress - RSS" href="/RSS/GL/trang-chu.rss" />
+			
+		
+		<script type="text/javascript" language="javascript" src="/Library/Common/Library.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/Vne.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/FlashMedia.js"></script>						
+        <script type="text/javascript" language="javascript" src="/Library/Common/AjaxRequest.js"></script>
+		<script type="text/javascript" language="javascript" src="/Library/Common/vietUni.js"></script>
+		<script type="text/javascript" language="javascript" src="/Resource/00/ArrMenu.js"></script>        				
+		<script type="text/javascript" language="javaScript">
+			var PAGE_SITE=0;
+			var PAGE_FOLDER=143;	
+			var PAGE_ID=1000541733;	
+			var DOMESTIC_IP=1;	
+			setTypingMode(1);
+				
+			sLoDID=sLoDID.concat('1000541733').concat(',');
+			
+		</script>
+		<script type="text/javascript" language="javascript" src="/Resource/Common/Menu.js"></script>
+		
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-249346-1']);
+		_gaq.push(['_trackPageview']);
+		
+		_gaq.push(['b._setAccount', 'UA-249346-21']);
+		_gaq.push(['b._trackPageview']);
+		
+		_gaq.push(['c._setAccount', 'UA-249346-22']);
+		_gaq.push(['c._trackPageview']);
+		
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	
+		<script src="/Library/Common/jquery-1.6.3.min.js"></script>		
+		
+<script type="text/javascript" src="/library/Common/VNEShowAds.js"></script>
+<script src="/library/common/adlibv1.js" type="text/javascript"></script>
+<script src="/library/common/lib.js" type="text/javascript"></script>
+
+	</head>
+	<body>	
+		
+				
+		<input type="hidden" id="CurrentBrowserWidth" value="" />
+		<input type="hidden" id="ShowBackground" value="1" />
+		<div id="divSlideResultLeft" style="background-repeat:no-repeat;background-position:right top;over-flow:hidden;cursor:pointer;text-align:right;padding:0px;position: fixed!important;position: absolute; /*ie6 and above*/;left: 0px; top: 0px;overflow:hidden;"></div>
+		<div id="divSlideResultRight" style="background-repeat:no-repeat;over-flow:hidden;cursor:pointer;text-align:left;padding:0px;position: fixed!important; position: absolute; /*ie6 and above*/;right: 0px; top: 0px;overflow:hidden;"></div>				
+		
+		<div id="outter">		
+		<div id="divMove" style="width:1000px;">
+		<div class="fpr2">
+			<div id="header">
+				<div id="logoEH" class="logo fl" >
+					
+					<a onfocus="this.blur()" hidefocus="" href="/"><img class="img-logo" src="/Images/blank.gif" alt="" /></a>
+					
+				</div>
+				<div id="topbannerEH" class="topbanner fr">
+					
+					<table border="0" cellpadding="0" cellspacing="0" style="width:100%;">
+						<tr>
+							<td style="vertical-align:middle">
+																
+									<script type="text/javascript" language="javascript">
+										Poly_ShowTopBanner();
+									</script>								
+								
+							</td>                           
+						</tr>
+					</table>				
+					
+				</div>
+			</div>			
+		</div>				
+		<div id="menu">
+	<div class="searchmenu">
+		<div class="fl icone"></div>
+		<div class="drss fl"><a href="/GL/RSS/" class="link-rss lnkrss">RSS<span></span></a></div>
+		<div id="mn-search" class="search fr">
+			<form onsubmit="return CheckValue(document.Search.s);" action="http://search.vnexpress.net/news" id="Search" name="Search">
+				<span class="fl borright"></span>
+				<input type="text" value="Từ khóa tìm kiếm" onfocus="SearchOnFocus(this)" onkeydown="" onkeyup="initTyper(this)" onblur="SearchOnBlur(this)" id="s" name="s" class="txtsearch fl">
+				<img onclick="return CheckValue(document.Search.s);" alt="" src="/images/blank.gif" class="img-search fl">
+				<input type="hidden" value="66FD8EC7-FA76-4A7C-8FE3-DB605B4C9CE0" name="g">
+				<input type="hidden" value="yes" name="butS">
+			</form>
+		</div>
+	</div>
+	<!--[if lte IE 6]><a id="lnkIE6" href="#"><table cellpadding=0 cellspacing=0 style="border: 0; margin: 0; padding: 0; width: 1000px; height: 25px;"><tr><td><![endif]-->
+	<div class="menu">
+		<ul>
+			<li><div class="fl mn-borleft"></div></li>
+			
+			<li>
+				<a href="/"><span class="pmenuL"></span><span class="pmenuM">Trang nhất</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<!--<ul style="padding: 0px; height: 16px">
+					<div class="fl icone"></div>
+					<div class="drss fl"><a href="/GL/RSS/" class="link-rss">RSS <span></span></a></div>
+				</ul>-->
+				<ul class="smenu-home">	
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+					<li class="lnknews24h"><a href="/gl/24h-qua/"></a></li>
+					<li class="ico-ct-wrap">
+						<span class="fl ico-ct"></span>
+						<p class="fl phonect"><span>0123.888.0123</span> (HN) - <span>0129.233.3555</span> (TP.HCM)</p>
+					</li>				
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/video/"><span class="pmenuL"></span><span class="pmenuM">Video</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">													
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/xa-hoi/"><span class="pmenuL"></span><span class="pmenuM">Xã hội</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li><a href="/gl/xa-hoi/giao-duc/">Giáo dục</a></li>
+					<li><a href="/gl/xa-hoi/nhip-dieu-tre/">Nhịp điệu trẻ</a></li>
+					<li><a href="/gl/xa-hoi/du-lich/">Du lịch</a></li>
+					<li><a href="/gl/xa-hoi/co-hoi-du-hoc/">Du học</a></li>												
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/the-gioi/"><span class="pmenuL"></span><span class="pmenuM">Thế giới</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->				
+				<ul class="smenu-other">					
+					<li><a href="/gl/the-gioi/cuoc-song-do-day/">Cuộc sống đó đây</a></li>
+					<li><a href="/gl/the-gioi/anh/">Ảnh</a></li>
+					<li><a href="/gl/the-gioi/nguoi-viet-5-chau/">Người Việt 5 châu</a></li>
+					<li><a href="/gl/the-gioi/phan-tich/">Phân tích</a></li>
+					<li><a href="/gl/the-gioi/tu-lieu/">Tư liệu</a></li>								
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/kinh-doanh/"><span class="pmenuL"></span><span class="pmenuM">Kinh doanh</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->					
+				<ul class="smenu-other">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/gl/ebank/">Ebank</a></li>
+					<li><a href="/gl/kinh-doanh/chung-khoan/">Chứng khoán</a></li>
+					<li><a href="/gl/kinh-doanh/bat-dong-san/">Bất động sản</a></li>
+					<li><a target="_blank" href="http://nhadep.vnexpress.net/gl/nha-dep/">Nhà đẹp</a></li>
+					<li><a href="/gl/kinh-doanh/kinh-nghiem/">Doanh nhân</a></li>
+					<li><a href="/gl/kinh-doanh/quoc-te/">Quốc tế</a></li>
+					<li><a href="/gl/doi-song/mua-sam/">Mua sắm</a></li>
+					<li><a href="/gl/kinh-doanh/doanh-nghiep-viet/">Doanh nghiệp viết</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/van-hoa/"><span class="pmenuL"></span><span class="pmenuM">Văn hóa</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">					
+					<li><a href="/gl/van-hoa/hoa-hau/">Hoa hậu</a></li>
+					<li><a href="/gl/van-hoa/guong-mat-nghe-sy/">Nghệ sỹ</a></li>
+					<li><a href="/gl/van-hoa/am-nhac/">Âm nhạc</a></li>
+					<li><a href="/gl/van-hoa/thoi-trang/">Thời trang</a></li>
+					<li><a href="/gl/van-hoa/san-khau-dien-anh/">Điện ảnh</a></li>
+					<li><a href="/gl/van-hoa/my-thuat/">Mỹ thuật</a></li>
+					<li><a target="_blank" href="http://evan.vnexpress.net/">Văn học</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/the-thao/"><span class="pmenuL"></span><span class="pmenuM">Thể thao</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smsport"><a href="/gl/the-thao/bong-da/">Bóng đá</a></li>
+					<li><a href="/gl/the-thao/tennis/">Tennis</a></li>
+					<li><a href="/gl/the-thao/chan-dung/">Chân dung</a></li>
+					<li><a href="/gl/the-thao/anh-video/">Ảnh - Video</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="http://seagames.vnexpress.net/" target="_blank"><span class="pmenuL"></span><span class="pmenuM">SEA Games 26</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li class="smseagames26"><a href="http://seagames.vnexpress.net/tin/lich-dau/" target="_blank">Lịch đấu</a></li>
+					<li><a href="http://seagames.vnexpress.net/tin/xep-hang/" target="_blank">Bảng xếp hạng</a></li>					
+					<li><a href="http://seagames.vnexpress.net/tin/bong-da/" target="_blank">Bóng đá</a></li>					
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/phap-luat/"><span class="pmenuL"></span><span class="pmenuM">Pháp luật</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smlaw"><a href="/gl/phap-luat/hinh-su/">Hình sự</a></li>
+					<li><a href="/gl/phap-luat/ky-su/">Ký sự</a></li>
+					<li><a href="/gl/phap-luat/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/doi-song/"><span class="pmenuL"></span><span class="pmenuM">Đời sống</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smlife"><a href="/gl/doi-song/cau-chuyen-cuoc-song/">Câu chuyện cuộc sống</a></li>
+					<li><a href="/gl/doi-song/gia-dinh/">Gia đình</a></li>
+					<li><a href="/gl/suc-khoe/">Sức khỏe</a></li>
+					<li><a href="/gl/doi-song/am-thuc/">Ẩm thực</a></li>
+					<li><a href="/gl/suc-khoe/lam-dep/">Làm đẹp</a></li>
+					<li><a href="/gl/doi-song/blog/">Cửa sổ Blog</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/khoa-hoc/"><span class="pmenuL"></span><span class="pmenuM">Khoa học</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smscience"><a href="/gl/khoa-hoc/moi-truong/">Môi trường</a></li>
+					<li><a href="/gl/khoa-hoc/thien-nhien/">Thiên nhiên</a></li>
+					<li><a href="/gl/khoa-hoc/anh/">Ảnh</a></li>
+					<li><a href="/gl/khoa-hoc/ky-thuat-moi/">Công nghệ mới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/vi-tinh/"><span class="pmenuL"></span><span class="pmenuM">Vi tính</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smmicrocalculate"><a href="/gl/vi-tinh/san-pham-moi/">Sản phẩm mới</a></li>
+					<li><a href="/gl/vi-tinh/kinh-nghiem/">Kinh nghiệm</a></li>
+					<li><a href="/gl/vi-tinh/giai-tri/">Giải trí</a></li>
+					<li><a href="/gl/vi-tinh/hoi-dap/">Hỏi đáp</a></li>
+					<li><a href="/gl/vi-tinh/hacker-virus/">Hacker &amp; Virus</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li class="active"><a href="/gl/oto-xe-may/"><span class="pmenuL"></span><span class="pmenuM">Ôtô - Xe máy</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+			
+				<ul class="smenu-other">					
+					<li class="smcar"><a href="/gl/oto-xe-may/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/ban-doc-viet/"><span class="pmenuL"></span><span class="pmenuM">Bạn đọc</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-bdv">					
+					<li><a href="/gl/ban-doc-viet/khoa-hoc/">Khoa học</a></li>						
+					<li><a href="/gl/ban-doc-viet/doi-song/">Đời sống</a></li>
+					<li><a href="/gl/ban-doc-viet/phap-luat/">Pháp luật</a></li>
+					<li><a href="/gl/ban-doc-viet/xa-hoi/">Xã hội</a></li>
+					<li><a href="/gl/ban-doc-viet/kinh-doanh/">Kinh doanh</a></li>
+					<li><a href="/gl/ban-doc-viet/the-thao/">Thể thao</a></li>
+					<li><a href="/gl/ban-doc-viet/van-hoa/">Văn hoá</a></li>
+					<li><a href="/gl/ban-doc-viet/the-gioi/">Thế giới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/ban-doc-viet/tam-su/"><span class="pmenuL"></span><span class="pmenuM">Tâm sự</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other"></ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/rao-vat/"><span class="pmenuL"></span><span class="pmenuM">Rao vặt</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-raovat">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/cuoi/"><span class="pmenuL"></span><span class="pmenuM">Cười</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-bdv">
+					<li><a href="/gl/cuoi/video/">Video</a></li>
+					<li><a href="/gl/cuoi/tieu-pham/">Tiểu phẩm</a></li>						
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+		</ul>
+	</div><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</div>
+
+		<div id="content">			
+			
+			<div class="content-center fl">			
+			<div class="folder-header">
+	<script type="text/javascript" language="javascript">writeFolderTitle(PAGE_FOLDER);</script>
+	<div class="fr">Th&#7913; t&#432;, 2/11/2011, 06:01 GMT+7</div>
+</div>
+<div class="email-print txtr">
+	<script>
+	writeSociable('http://vnexpress.net/gl/oto-xe-may/tu-van/2011/11/mot-lan-tranh-luan-voi-canh-sat-co-dong/','Một+lần+tranh+luận+với+Cảnh+sát+cơ+động','Một+lần+tranh+luận+với+Cảnh+sát+cơ+động','sociable',1000541733);
+	</script>
+<font onClick="return EmailSubject(1000541733)"><img border="0" src="/Images/email.gif" align="bottom">&nbsp;E-mail</font>
+&nbsp;&nbsp;&nbsp;<font onClick="return PrintSubject()"><img border="0" src="/Images/print.gif" align="bottom">&nbsp;B&#7843;n In</font>
+</div>
+
+				<div class="content">
+					<div style="overflow:hidden" cpms_content="true">
+				<H1 class=Title>Một lần 'tranh luận' với Cảnh sát cơ động</H1>
+<H2 class=Lead>Dù đã chuẩn bị rất kỹ, đủ giấy tờ, nhưng em vẫn bị "tóm" vì lỗi thiếu chứng minh thư nhân dân của chủ xe.</H2>
+<P class=Normal>Một tối, em chở bạn gái đi dạo trên bờ hồ. Lang thang được một lúc thấy chán chán, đường thì đông quá nên em phi lên cầu Long Biên chơi. Vừa qua đèn đỏ ở chỗ trạm trung chuyển Long Biên, đi lên cầu, em thấy gần chục chú cơ động đang đứng đầu cầu rùi.</P>
+<P class=Normal>Trong đầu nghĩ không biết đứng làm gì mà đông thế? Vẫn bình tĩnh đi lên cầu đứng chơi một lúc. Tầm 10h hơn một tí em chạy sang bên Gia Lâm rùi về. Đi đến chỗ Ga Long Biên, chỗ xuống cầu ý, từ xa em đã tia thấy màu áo. Chuẩn bị tinh thần, đi đứng bình thường bật xi-nhan đầy đủ. Đi qua chỗ cua một tí, em tưởng là không chú nào hỏi, nhưng không ngờ có một chú cơ động chạy ra chặn xe em, bắt em dừng xe lại.</P>
+<P class=Normal>- Chào. Cho anh kiểm tra giấy tờ.<BR>- Vâng. Anh đợi để em lấy, anh cho em biết em vi phạm lỗi gì?</P>
+<P class=Normal>Anh cơ động im không nói gì. Em đưa đầy đủ giấy tờ. Giấy tờ em không thiếu cái gì, xe em thì gương lược đầy đủ. Lúc tối trước khi đi đã đề phòng rồi. Đi với bạn gái nên cơ động hay hỏi lắm. Còn lấy trong cốp ra hai gương zin lắp vào.</P>
+<P class=Normal>- Nghệ An? Dân Nghệ An các chú là hơi...(anh nói câu gì mà em quên mất rồi)<BR>- Em: Vâng em Nghệ An. Sao anh? <BR>- Em học trường gì. Em có biết là em thiếu giấy tờ gì không? <BR>- Em học xây dựng. Em thiếu gì hả anh? </P>
+<P class=Normal>Bỗng có một anh cơ động khác ở đâu chạy tới phán một câu xanh rờn: "Thôi anh xem thế nào rồi xử tại chỗ cho em nó. Đừng giữ xe em nó làm gì tôi nghiệp".</P>
+<P class=Normal>- Xử phạt gì cơ anh?<BR>- Thôi vậy thì tùy anh đội trưởng giải quyết vậy, anh ấy bảo thế nào thì em cứ làm như vậy nhé.</P>
+<P class=Normal>- Anh cơ động đầu tiên bảo: Em thiếu chứng minh thư nhân dân (CMTND) photo của chủ xe. Theo luật quy định thì xe mượn hay mua lại đều phải có photo CMTND hoặc giấy chuyển nhượng?</P>
+<P class=Normal>- Ơ! Em không biết. Em cứ tưởng là có đầy đủ giấy phép lái xe, đăng kí xe là được chứ?<BR>- Thế em tưởng không biết là không có tội ah?<BR>- Thì người xưa vẫn nói là người không biết thì không có tôi mà?<BR>- Em được học luật rồi đúng không? <BR>- Vâng ạ? <BR>- Em học luật rồi mà không biết điều này à? </P>
+<P class=Normal>Rồi anh ta đọc bộ luật gì đó ý. Khoảng 2 điều (em không biết).</P>
+<P class=Normal>- Em không biết thật mà. Chắc tại em quên. Mà em thấy có đủ giấy tờ chứng minh xe này là xe chính chủ không phải ăn cắp ăn trộm gì rồi mà anh? </P>
+<P class=Normal>- Thế anh hỏi em nhé. Một người để quên giấy tờ xe trong cốp, rồi bị trộm nó lấy mất thì xe đấy vẫn là xe chính chủ hả. Nó có CMTND photo hay là giấy chuyển nhượng đâu?</P>
+<P class=Normal>- Anh! Nhưng theo em được biết, nếu người ta đã bỏ giấy tờ xe thì nhất quyết người ta sẽ bỏ luôn cả giấy phép lái xe và CMTND cùng một chỗ không ai lại bỏ lung tung cả. Và khi đã lấy được giấy tờ xe và CMTND rồi thì photo CMTND là chuyện đơn giản. Xem như người bị mất đã cho không xe mình rồi còn gì nữa? </P>
+<P class=Normal>- Em nói hơi nhiều rồi đấy. Dân Nghệ cứng lắm mà, gan lắm mà. Sĩ với gái à. Thế có chịu nộp phạt không?<BR>- Em có vi phạm gì đâu anh? <BR>- Thôi được trả chú giấy tờ xe với CMTND. Anh giữ bằng lái.</P>
+<P class=Normal>Rồi anh ấy đi tới chỗ mấy anh cơ động khác. Em nghĩ bụng, định xin đây. Trong ví em còn hơn 200.000 thôi, rút đưa cho bạn em 150.000 còn bỏ 50.000 trong ví thôi. Em tiến lại chỗ mấy chú.</P>
+<P class=Normal>- Anh cho em xin lại cái bằng lái? <BR>- Thế không nộp phạt ah? <BR>- Em có còn tiền đâu anh. Mỗi 50.000 trong túi. Đi chơi với bạn gái còn run. Nên đành đưa lên cầu thôi mà anh? <BR>- Thế không chuẩn bị tiền nhà nghỉ à? <BR>- Anh nghĩ ai như anh? Em trong sáng.<BR>- Anh sao? <BR>- Dạ không sao.</P>
+<P class=Normal>Em cười trừ.</P>
+<P class=Normal>- Rắc rối với chú mày lắm rồi đó, thôi cầm lấy đi đi...</P>
+<P class=Normal><STRONG>Hoàng Dũng</STRONG></P>
+			</div>
+			<div class="tag-parent"><img src='/Images/tags.gif' class="tag"><div class="tag-pos"><h3 class="tag-text"><a href='/tag/3551/oto/'>ôtô</a>, <a href='/tag/4801/xe-hoi/'>xe hơi</a>, <a href='/tag/4685/tu-van/'>tư vấn</a>, <a href='/tag/9042/csgt/'>CSGT</a>, <a href='/tag/18946/canh-sat-giao-thong/'>cảnh sát giao thông</a>, <a href='/tag/8037/canh-sat-co-dong/'>cảnh sát cơ động</a></h3></div></div>
+			<div class="box-item" style="margin-top:5px;margin-bottom:5px;">
+			<Table border=0 width="100%" cellpadding=0 cellpadding=0 align=center><tr height=5><td>&nbsp;</td></tr><tr><td><b><a name=aComment><font face=Tahoma style="Font-size:8pt;">&#272;&#7897;c gi&#7843; tr&#7843; l&#7901;i (56) | <a class="Index1" href="/gl/oto-xe-may/tu-van/2011/11/mot-lan-tranh-luan-voi-canh-sat-co-dong/">Quay l&#7841;i ch&#7911; &#273;&#7873;</a></font></a></b></td></tr>	
+						<tr height=18><td><font class=Index0 style="font-weight:normal">1.</font> <a href="/Comment/2011/11/3BB5EFE7/?p=1" class="ForumSubjectLink">Th&#7911; ph&#7841;m l&#224; &#273;&#226;y - ( siphub )</a><font face=Arial style="Font-Size:11px;"> (2/11/2011)</font></td></tr>							
+							
+						<tr height=18><td><font class=Index0 style="font-weight:normal">2.</font> <a href="/Comment/2011/11/3BB5EFEF/?p=1" class="ForumSubjectLink">Chuy&#7879;n th&#432;&#7901;ng ng&#224;y &#7903;...H&#224; N&#7897;i - ( Khoa L&#234; )</a><font face=Arial style="Font-Size:11px;"> (2/11/2011)</font></td></tr>							
+							
+						<tr height=18><td><font class=Index0 style="font-weight:normal">3.</font> <a href="/Comment/2011/11/3BB5EFFB/?p=1" class="ForumSubjectLink">Th&#7853;t l&#224; h&#224;i h&#432;&#7899;c - ( Kim S&#417;n )</a><font face=Arial style="Font-Size:11px;"> (2/11/2011)</font></td></tr>							
+							
+						<tr height=18><td><font class=Index0 style="font-weight:normal">4.</font> <a href="/Comment/2011/11/3BB5F002/?p=1" class="ForumSubjectLink">H&#7871;t bi&#7871;t n&#243;i g&#236; lu&#244;n ! - ( DMinh )</a><font face=Arial style="Font-Size:11px;"> (2/11/2011)</font></td></tr>							
+							
+						<tr height=18><td><font class=Index0 style="font-weight:normal">5.</font> <a href="/Comment/2011/11/3BB5F005/?p=1" class="ForumSubjectLink">T&#244;i c&#361;ng g&#7863;p m&#7897;t l&#7847;n - ( Minh Ho&#7841;t )</a><font face=Arial style="Font-Size:11px;"> (2/11/2011)</font></td></tr>							
+							
+						<tr height=18><td><font class=Index0 style="font-weight:normal">6.</font> <a href="/Comment/2011/11/3BB5F008/?p=1" class="ForumSubjectLink">C&#417; &#273;&#7897;ng - ( &#272;&#7913;c Nguy&#7877;n )</a><font face=Arial style="Font-Size:11px;"> (2/11/2011)</font></td></tr>							
+							
+						<tr height=18><td><font class=Index0 style="font-weight:normal">7.</font> <a href="/Comment/2011/11/3BB5F00D/?p=1" class="ForumSubjectLink">Sai r&#7891;i l&#7841;i c&#242;n c&#227;i - ( &#272;&#224;o &#272;&#236;nh Ho&#224;ng )</a><font face=Arial style="Font-Size:11px;"> (2/11/2011)</font></td></tr>							
+							
+						<tr height=18><td><font class=Index0 style="font-weight:normal">8.</font> <a href="/Comment/2011/11/3BB5F094/?p=1" class="ForumSubjectLink">V&#7873; lu&#7853;t CSC&#272; ko sai - ( L&#234; Trung Hi&#7871;u )</a><font face=Arial style="Font-Size:11px;"> (2/11/2011)</font></td></tr>							
+							
+						<tr height=18><td><font class=Index0 style="font-weight:normal">9.</font> <a href="/Comment/2011/11/3BB5F097/?p=1" class="ForumSubjectLink">C&#7843;nh S&#225;t C&#417; &#272;&#7897;ng - ( ngoctuanvnu )</a><font face=Arial style="Font-Size:11px;"> (2/11/2011)</font></td></tr>							
+							
+						<tr height=18><td><font class=Index0 style="font-weight:normal">10.</font> <a href="/Comment/2011/11/3BB5F0A2/?p=1" class="ForumSubjectLink">B&#7841;n vi&#7871;t b&#224;i &#273;&#7847;y k&#7883;ch t&#237;nh, gay c&#7845;n - ( Lam Nguy&#7877;n )</a><font face=Arial style="Font-Size:11px;"> (2/11/2011)</font></td></tr>							
+							
+						<tr height=18><td><font class=Index0 style="font-weight:normal">11.</font> <a href="/Comment/2011/11/3BB5F0C2/?p=1" class="ForumSubjectLink">M&#7897;t l&#7847;n 'tranh lu&#7853;n' v&#7899;i C&#7843;nh s&#225;t c&#417; &#273;&#7897;ng - ( Nguy&#7877;n Th&#224;nh )</a><font face=Arial style="Font-Size:11px;"> (2/11/2011)</font></td></tr>							
+							
+						<tr height=18><td><font class=Index0 style="font-weight:normal">12.</font> <a href="/Comment/2011/11/3BB5F0C3/?p=1" class="ForumSubjectLink">Ch&#7911; &#273;&#7873; hay - ( Tien Quynh )</a><font face=Arial style="Font-Size:11px;"> (2/11/2011)</font></td></tr>							
+							
+						<tr height=18><td><font class=Index0 style="font-weight:normal">13.</font> <a href="/Comment/2011/11/3BB5F0C6/?p=1" class="ForumSubjectLink">C&#7847;n Ghi &#194;m. - ( &#272;&#7895; &#272;&#7913;c Th&#7885; )</a><font face=Arial style="Font-Size:11px;"> (2/11/2011)</font></td></tr>							
+							
+						<tr height=18><td><font class=Index0 style="font-weight:normal">14.</font> <a href="/Comment/2011/11/3BB5F0D4/?p=1" class="ForumSubjectLink">R&#7855;c r&#7889;i v&#7899;i c&#7843;nh s&#225;t c&#417; &#273;&#7897;ng - ( Nguy&#7877;n H&#7891;ng Long )</a><font face=Arial style="Font-Size:11px;"> (2/11/2011)</font></td></tr>							
+							
+						<tr height=18><td><font class=Index0 style="font-weight:normal">15.</font> <a href="/Comment/2011/11/3BB5F0D9/?p=1" class="ForumSubjectLink">D&#7841;i r&#7891;i - ( Khang Nguyen )</a><font face=Arial style="Font-Size:11px;"> (2/11/2011)</font></td></tr>							
+							
+						<tr height=18><td><font class=Index0 style="font-weight:normal">16.</font> <a href="/Comment/2011/11/3BB5F0E3/?p=1" class="ForumSubjectLink">H&#224;i th&#7853;t - ( uandi1818 )</a><font face=Arial style="Font-Size:11px;"> (2/11/2011)</font></td></tr>							
+							
+						<tr height=18><td><font class=Index0 style="font-weight:normal">17.</font> <a href="/Comment/2011/11/3BB5F0EE/?p=1" class="ForumSubjectLink">Tr&#7843; l&#7901;i Ho&#224;ng D&#361;ng - ( Nguy&#7877;n Ph&#250;c T&#226;m )</a><font face=Arial style="Font-Size:11px;"> (2/11/2011)</font></td></tr>							
+							
+						<tr height=18><td><font class=Index0 style="font-weight:normal">18.</font> <a href="/Comment/2011/11/3BB5F018/?p=1" class="ForumSubjectLink">M&#7897;t l&#7847;n tranh lu&#7853;n v&#7899;i c&#7843;nh s&#225;t c&#417; &#273;&#7897;ng - ( L&#234; Quang Huy )</a><font face=Arial style="Font-Size:11px;"> (2/11/2011)</font></td></tr>							
+							
+						<tr height=18><td><font class=Index0 style="font-weight:normal">19.</font> <a href="/Comment/2011/11/3BB5F01D/?p=1" class="ForumSubjectLink">N&#234;n xem x&#233;t l&#7841;i - ( Nguy&#7877;n Th&#225;i S&#417;n )</a><font face=Arial style="Font-Size:11px;"> (2/11/2011)</font></td></tr>							
+							
+						<tr height=18><td><font class=Index0 style="font-weight:normal">20.</font> <a href="/Comment/2011/11/3BB5F022/?p=1" class="ForumSubjectLink">Kh&#244;ng cho xem h&#236;nh b&#7855;n t&#7889;c &#273;&#7897; - ( Tr&#7847;n &#272;&#7913;c Th&#224;nh )</a><font face=Arial style="Font-Size:11px;"> (2/11/2011)</font></td></tr>							
+						<tr><td><font class="Paging">1</font>, <a href="/gl/oto-xe-may/tu-van/2011/11/mot-lan-tranh-luan-voi-canh-sat-co-dong/?p=2#aComment" class="Paging Red" style="color:#ff0000">2</a>, <a href="/gl/oto-xe-may/tu-van/2011/11/mot-lan-tranh-luan-voi-canh-sat-co-dong/?p=3#aComment" class="Paging Red" style="color:#ff0000">3</a></td></tr></Table>
+<p id=pShow><a class=SForm onclick="ShowFormComment()"><img src="/Images/Y-kien-cua-ban.gif" border="0" style="cursor:pointer" alt="Ý kiến của bạn" /></a></p>
+<div id="dComment" class="dtopitem_all">
+	<form method="post" name="frmComment" id="frmComment" target="_blank" onsubmit="submitForm(this);return false;" action="/service/comment/submit.asp">
+		<div class="adword-hdf">&nbsp;</div>
+		<div class="adword adword-middle" style="padding-top:0px;">					
+			<div class="adword-nav2 fl" style="padding-top:10px; width:476px; background-color:#ffffff">
+				<div style="padding-bottom:5px; overflow:hidden;">
+					<div class="fl" style="width:60%">
+						<input type="text" value="Họ tên" name="txtAddedBy" id="txtAddedBy" style="width:280px;" size="29" onfocus="NameOnFocus(this)" onblur="NameOnBlur(this)" onkeyup="initTyper(this)" class="adword-textbox"">
+					</div>
+					<div class="fr" style="width:180px;">
+						<input type="text" value="Email" name="txtAddedByEmail" id="txtAddedByEmail" style="width:172px" size="29" onfocus="EmailOnFocus(this)" onblur="EmailOnBlur(this)" class="adword-textbox">
+					</div>
+				</div>
+				<div style="padding-bottom:5px; overflow:hidden;">
+					<div class="fl" style="width:60%">
+						<input type="text" value="Tiêu đề" name="txtAddedTitle" id="txtAddedTitle" style="width:280px;" size="29" onfocus="TitleOnFocus(this)" onblur="TitleOnBlur(this)" onkeyup="initTyper(this)" class="adword-textbox"">
+					</div>
+					<div class="fr" style="width:180px;">
+						<input type="text" value="Mã xác nhận" name="txtValidCode" id="txtValidCode" style="width:99px;" size="29" onfocus="ValidateCodeOnFocus(this)" onblur="ValidateCodeOnBlur(this)" onkeyup="initTyper(this)" class="adword-textbox"">
+						<img src="/Service/Vote/securelog/image.asp" name="imgValidCode" id="imgValidCode" style="vertical-align:top; height:20px; padding-top:1px">
+						&nbsp;<img src="/Images/change-image.gif" alt="Thay hình khác" onclick="ChangeImage()" style="vertical-align:top;cursor:pointer; padding-top:1px" />
+					</div>
+				</div>
+				<div style="overflow:hidden;">
+					<div class="fl" style="width:60%">
+						<input type="submit" value="G&#7917;i To&#224; so&#7841;n" name="B1" class="SForm">&nbsp;<input type="button" value="Xo&#225; tr&#7855;ng" name="B2" class="SForm" onclick="InputDefault();">&nbsp;<input type="button" value="&#272;&#243;ng l&#7841;i" class="SForm" onclick="ShowFormComment()">
+						<input type="hidden" name="txtT" id="txtT" value="1000541733" />
+						<input type="hidden" name="txtS" id="txtS" value="0" />
+						<input type="hidden" name="txtF" id="txtF" value="143" />
+						<input type="hidden" name="txtL" id="txtL" value="/gl/oto-xe-may/tu-van/2011/11/mot-lan-tranh-luan-voi-canh-sat-co-dong" />
+					</div>
+					<div class="fl" style="width:40%; text-align:right;">
+						<input type="radio" name="optInput" value="0" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(0)">Off
+						<input type="radio" name="optInput" value="1" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(1)" checked>Telex
+						<input type="radio" name="optInput" value="2" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(2)">VNI
+						<input type="radio" name="optInput" value="3" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(3)">VIQR								
+					</div>
+				</div>				
+			</div>			
+			<div class="adword-nav2 fl" style="padding-top:0px;">
+				<textarea rows="10" name="txtAddedContent" id="txtAddedContent" cols="43" onkeyup="initTyper(this)" class="SForm" style="width: 470px"></textarea>				
+			</div>
+		</div>
+		<div class="adword-ftf">&nbsp;</div>
+	</form>
+</div>
+<script type="text/javascript">
+	var bshow = false;
+	
+	function ShowFormComment()	{
+		if(bshow){
+			gmobj('dComment').style.display="block";
+			gmobj('pShow').style.display="none";
+			bshow=false;
+		}
+		else{
+			gmobj('dComment').style.display="none";
+			gmobj('pShow').style.display="block";
+			bshow=true;
+		}
+	}
+	ShowFormComment();
+	
+	function submitForm(theform){
+		document.frmComment.txtAddedBy.value = Trim(document.frmComment.txtAddedBy.value);
+		if (document.frmComment.txtAddedBy.value == '' || document.frmComment.txtAddedBy.value == 'Họ tên')
+		{
+			alert('Xin hay nhap Ho ten!');
+			document.frmComment.txtAddedBy.focus();
+			return;
+		}
+
+		if ((SEmail = CheckEmailAddress(document.frmComment.txtAddedByEmail.value))=='')
+		{
+			alert('Dia chi Email khong hop le!');
+			document.frmComment.txtAddedByEmail.focus();
+			return;
+		}
+
+		document.frmComment.txtAddedByEmail.value = SEmail;
+
+		document.frmComment.txtAddedTitle.value = Trim(document.frmComment.txtAddedTitle.value);
+		if (document.frmComment.txtAddedTitle.value == '' || document.frmComment.txtAddedTitle.value == 'Tiêu đề')
+		{
+			alert('Xin hay nhap Tieu de!');
+			document.frmComment.txtAddedTitle.focus();
+			return;
+		}
+		
+		document.frmComment.txtValidCode.value = Trim(document.frmComment.txtValidCode.value);
+		if (document.frmComment.txtValidCode.value == '' || document.frmComment.txtValidCode.value == 'Mã xác nhận')
+		{
+			alert('Xin hay nhap Ma xac nhan!');
+			document.frmComment.txtValidCode.focus();
+			return;
+		}
+
+		document.frmComment.txtAddedContent.value = Trim(document.frmComment.txtAddedContent.value);
+		if (document.frmComment.txtAddedContent.value == '')
+		{
+			alert('Xin hay nhap Noi dung!');
+			document.frmComment.txtAddedContent.focus();
+			return;
+		}
+
+		if (!confirm('Gui yeu cau?'))
+			return;
+			
+		var status = AjaxRequest.submit(
+			theform
+			,{
+				'onSuccess':function(req){
+					if(req.responseText=='ValidCode'){
+						alert('Ma xac nhan khong dung!');
+					}
+					else{
+						alert(req.responseText);
+						ResetDefault();
+					}
+				}				
+				,'onError':function(req){
+					alert(req.responseText);
+				}
+			}
+		);
+		return status;
+	}
+	
+	function ChangeImage() {			
+		var ranNum = Math.floor(Math.random() * 5);
+
+		AjaxRequest.get(
+		  {
+			'onSuccess':function(req){
+				gmobj('imgValidCode').src = "/Service/Vote/securelog/image.asp?Code=" + ranNum;						
+			}
+			,'onError':function(req){					
+			}
+		  }
+
+		)
+    }
+	
+	function InputDefault() {
+		document.frmComment.txtAddedBy.value = 'Họ tên';
+		document.frmComment.txtAddedBy.className = 'adword-textbox';
+		document.frmComment.txtAddedByEmail.value = 'Email';
+		document.frmComment.txtAddedByEmail.className = 'adword-textbox';		
+		document.frmComment.txtAddedTitle.value = 'Tiêu đề';
+		document.frmComment.txtAddedTitle.className = 'adword-textbox';
+		document.frmComment.txtValidCode.value = 'Mã xác nhận';		
+		document.frmComment.txtValidCode.className = 'adword-textbox';
+		document.frmComment.txtAddedContent.value = '';
+		document.frmComment.txtAddedContent.focus();
+	}
+	
+	function ResetDefault() {
+		InputDefault();
+		ChangeImage();
+				
+	}
+</script>
+
+			</div>
+			
+			<div style="margin-top:5px;margin-bottom:5px;">							
+				<script language="javascript">					
+					Poly_ShowArticlebanner();										
+				</script>				
+			</div>
+		</div>				
+		<div class="folder-news">
+	<div class="boxnew-header">
+		<div class="boxnew-title fl">Tin mới</div>
+	</div>
+	<div class="boxnew">
+		<ul>
+		<li><a href="/gl/oto-xe-may/2011/11/chery-riich-g6-paramount-limousine-trung-quoc/" class="link-othernews">Chery Riich G6 Paramount - limousine Trung Quốc</a><span style="color: #909090">&nbsp;(02/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/volkswagen-tiguan-chuan-bi-ve-viet-nam/" class="link-othernews">Volkswagen Tiguan chuẩn bị về Việt Nam</a><span style="color: #909090">&nbsp;(02/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/chuong-trinh-lai-thu-grand-livina-cua-nissan/" class="link-othernews">Chương trình lái thử Grand Livina của Nissan</a><span style="color: #909090">&nbsp;(01/11)</span></li>
+		<li><a href="/gl/oto-xe-may/tu-van/2011/11/xin-huong-dan-cach-ket-noi-dien-thoai-voi-xe-hoi/" class="link-othernews">Xin hướng dẫn cách kết nối điện thoại với xe hơi</a><span style="color: #909090">&nbsp;(01/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/audi-q3-bat-ngo-xuat-hien-tai-viet-nam/" class="link-othernews">Audi Q3 bất ngờ xuất hiện tại Việt Nam</a><span style="color: #909090">&nbsp;(01/11)</span></li>
+		</ul>
+	</div>
+</div>
+<div class="folder-news">
+	<div class="othernews-header">
+		<div class="othernews-title fl">C&#225;c tin kh&#225;c</div>
+		<div class="fr txtr" style="margin-bottom:5px;"><label onClick="history.go(-1)" class="Time" style="cursor:pointer">[<B>Tr&#7903; v&#7873;</B>]</label></div>
+	</div>
+	<div class="othernews">
+		<ul>
+		<li><a href="/gl/oto-xe-may/tu-van/2011/11/bat-benh-lai-moi/" class="link-othernews">'Bắt bệnh' lái mới</a><span style="color: #909090">&nbsp;(01/11)</span></li>
+		<li><a href="/gl/oto-xe-may/tu-van/2011/10/xin-tu-van-xe-kia-morning-khong-tra-lai/" class="link-othernews">Xin tư vấn xe Kia Morning không trả lái</a><span style="color: #909090">&nbsp;(31/10)</span></li>
+		<li><a href="/gl/oto-xe-may/tu-van/2011/10/hoc-mot-dang-lai-mot-neo/" class="link-othernews">Học một đằng, lái một nẻo</a><span style="color: #909090">&nbsp;(31/10)</span></li>
+		<li><a href="/gl/oto-xe-may/tu-van/2011/10/gam-xe-on-do-dau/" class="link-othernews">Gầm xe ồn do đâu?</a><span style="color: #909090">&nbsp;(28/10)</span></li>
+		<li><a href="/gl/oto-xe-may/tu-van/2011/10/nguyen-nhan-xe-may-tu-thieu/" class="link-othernews">Nguyên nhân xe máy ‘tự thiêu’</a><span style="color: #909090">&nbsp;(28/10)</span></li>
+		<li><a href="/gl/oto-xe-may/tu-van/2011/10/chon-xe-may-xang-hay-may-dau/" class="link-othernews">Chọn xe máy xăng hay máy dầu?</a><span style="color: #909090">&nbsp;(27/10)</span></li>
+		<li><a href="/gl/oto-xe-may/tu-van/2011/10/xu-ly-the-nao-khi-xay-tai-nan-tren-pho-dong/" class="link-othernews">Xử lý thế nào khi xảy tai nạn trên phố đông</a><span style="color: #909090">&nbsp;(26/10)</span></li>
+		<li><a href="/gl/oto-xe-may/tu-van/2011/10/chon-kinh-deo-mat-phu-hop-khi-lai-xe-oto/" class="link-othernews">Chọn kính đeo mắt phù hợp khi lái xe ôtô</a><span style="color: #909090">&nbsp;(26/10)</span></li>
+		<li><a href="/gl/oto-xe-may/tu-van/2011/10/tay-lai-xe-camry-bi-nang-khi-queo/" class="link-othernews">Tay lái xe Camry bị nặng khi quẹo</a><span style="color: #909090">&nbsp;(25/10)</span></li>
+		<li><a href="/gl/oto-xe-may/tu-van/2011/10/chon-xe-may-cho-nguoi-cao-tuoi/" class="link-othernews">Chọn xe máy cho người cao tuổi</a><span style="color: #909090">&nbsp;(25/10)</span></li>
+		<li><a href="/gl/oto-xe-may/tu-van/2011/10/quen-khong-nha-phanh-tay-xe-gap-hu-hong-gi/" class="link-othernews">Quên không nhả phanh tay, xe gặp hư hỏng gì?</a><span style="color: #909090">&nbsp;(24/10)</span></li>
+		<li><a href="/gl/oto-xe-may/tu-van/2011/10/hyundai-santa-fe-sang-so-co-tieng-u/" class="link-othernews">Hyundai Santa Fe sang số có tiếng ù</a><span style="color: #909090">&nbsp;(22/10)</span></li>
+		<li><a href="/gl/oto-xe-may/tu-van/2011/10/chon-vios-hay-kia-forte/" class="link-othernews">Chọn Vios hay Kia Forte?</a><span style="color: #909090">&nbsp;(21/10)</span></li>
+		<li><a href="/gl/oto-xe-may/tu-van/2011/10/xe-may-chi-duoc-phep-lan-lan-oto-trong-5-met/" class="link-othernews">Xe máy chỉ được phép lấn làn ôtô trong 5 mét?</a><span style="color: #909090">&nbsp;(21/10)</span></li>
+		<li><a href="/gl/oto-xe-may/tu-van/2011/10/dong-co-tiet-kiem-nhien-lieu-nho-giam-ma-sat/" class="link-othernews">Động cơ tiết kiệm nhiên liệu nhờ giảm ma sát</a><span style="color: #909090">&nbsp;(21/10)</span></li>
+		</ul>
+	</div>
+</div>
+
+		</div>
+	<div class="content-left fl">		
+	<div class="linksite-box" style="padding:0px;">
+	<img alt="Link Site" src="/Images/Linksite/site2.gif" usemap="#ctmap" class="img-linksite"/>
+	<map id="ctmap" name="ctmap">
+		<area shape="rect" coords="6,0,72,28" href="http://ngoisao.net/" target="_blank" title="ngoisao.net" />
+		<area shape="rect" coords="83,0,140,28" href="http://sohoa.vnexpress.net/" target="_blank" title="sohoa.vnexpress.net" />		
+		<area shape="rect" coords="152,0,215,28" href="http://gamethu.vnexpress.net/" target="_blank" title="gamethu.vnexpress.net" />
+		<area shape="rect" coords="223,0,296,28" href="http://vieclam.vnexpress.net/" target="_blank" title="viec lam" />
+	</map>
+</div>
+	<div class="box-item">		
+		<script type="text/javascript">
+			cpms_Ap.typ = 2;
+			cpms_Ap.ste = 1;
+			cpms_Ap.reg = 0;
+			cpms_Ap.fol = 143;
+			cpms_Ap.dof = 0;
+			cpms_Ap.wdt = 300;
+			
+			cpms_Ap.itf = 2;
+			
+			cpms_Ap.ShowAd();
+		</script>
+	</div>
+	<Script language="JavaScript">Poly_ShowLogoLeft(2)</Script>
+<TABLE cellSpacing=0 cellPadding=0 width=300 border=0>
+<TR>
+<TD colSpan=3 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD width=1 bgColor=#d5d8de class="BreakLine"><FONT color="#d5d8de"> </FONT></TD>
+<TD width=298>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff border=0>
+<TR>
+<TD colSpan=3 height=5 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD>
+<TD class="Normal" align="center"><B><FONT face=arial color=#8a0000 size=2>Diễn đàn tư vấn</FONT></B></TD>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD colSpan=3 height=5 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR></TABLE></TD>
+<TD width=1 bgColor=#d5d8de class="BreakLine"><FONT color="#d5d8de"> </FONT></TD></TR>
+<TR>
+<TD width=1 bgColor=#d5d8de class="BreakLine"><FONT color="#d5d8de"> </FONT></TD>
+<TD width=298>
+<TABLE cellSpacing=2 cellPadding=1 width="100%" bgColor=#ffffec border=0>
+<TR>
+<TD colSpan=3 height=5 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD>
+<TD colSpan=4>
+<TABLE cellSpacing=0 cellPadding=3 width=288 align=center border=0>
+<TR>
+<TD class="Image">Bạn đặt câu hỏi <A href="/gl/oto-xe-may/tu-van/2004/03/dat-cau-hoi-tu-van/" onClick="return openMeExt(this,0,0,1,0,0,0,0,1,600,520,0,0,0)" class=Image>tại đây</A>. <EM>VnExpress </EM>giữ quyền biên tập. Độc giả có thể chia sẻ kinh nghiệm và những tình huống thú vị khi sử dụng xe.</TD></TR></TABLE></TD>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD>
+<TD class=Normal colSpan=4><FONT size=2><EM>Thành viên nổi bật</EM>:</FONT> </TD>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD>
+<TD class=Normal>
+<A href="/tag/33429/nguyen-phuc-tam/" class="Normal"><IMG border=0 width="80" height="60" src="/Files/Folder/00/8f/Nguyen-Phuc-Tam.jpg"></A></TD>
+<TD class=Normal><A href="/tag/33429/nguyen-phuc-tam/" class="Normal"><FONT color=#800040>Nguyễn Phúc Tâm</FONT></A></TD>
+<TD class=Normal>
+<A href="/tag/33436/ngo-vinh-yen/" class="Normal"><IMG border=0 width="80" height="60" src="/Files/Folder/00/8f/Ngo-Vinh-Yen.jpg"></A></TD>
+<TD class=Normal><A href="/tag/33436/ngo-vinh-yen/" class="Normal"><FONT color=#800040>Ngô Vĩnh Yên</FONT></A></TD>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD>
+<TD class=Normal>
+<A href="/tag/33435/minh-quang/" class="Normal"><IMG border=0 width="80" height="60" src="/Files/Folder/00/8f/Minh-Quang-1.jpg"></A></TD>
+<TD class=Normal><A href="/tag/33435/minh-quang/" class="Normal"><FONT color=#800040>Minh Quang</FONT></A></TD>
+<TD class=Normal>
+<A href="/tag/33440/pvha/" class="Normal"><IMG border=0 width="80" height="60" src="/Files/Folder/00/8f/Pham-Viet-Ha.jpg"></A></TD>
+<TD class=Normal><A href="/tag/33440/pvha/" class="Normal"><FONT color=#800040>P.V.Ha</FONT></A></TD>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD>
+<TD class=Normal>
+<A href="/tag/35814/lam-thai/" class="Normal"><IMG border=0 width="80" height="60" src="/Files/Folder/00/8f/Avatar-1234.jpg"></A></TD>
+<TD class=Normal><A href="/tag/35814/lam-thai/" class="Normal"><FONT color=#800040>Lâm Thái</FONT></A></TD>
+<TD class=Normal>
+<A href="/tag/55797/hoang-duc/" class="Normal"><IMG border=0 width="80" height="60" src="/Files/Folder/00/8f/Minh-Duc.jpg"></A></TD>
+<TD class=Normal><A href="/tag/55797/hoang-duc/" class="Normal"><FONT color=#800040>Hoàng Đức</FONT></A></TD>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD>
+<TD class=Normal>
+<A href="/tag/35854/nguyen-van-liem/" class="Normal"><IMG border=0 width="80" height="60" src="/Files/Folder/00/8f/Avatar_12345.jpg"></A></TD>
+<TD class=Normal><A href="/tag/35854/nguyen-van-liem/" class="Normal"><FONT color=#800040>Nguyễn Văn Liêm</FONT></A></TD>
+<TD class=Normal>
+<A href="/tag/35252/do-van/" class="Normal"><IMG border=0 width="80" height="60" src="/Files/Folder/00/8f/Avatar-1234.jpg"></A></TD>
+<TD class=Normal><A href="/tag/35252/do-van/" class="Normal"><FONT color=#800040>Đỗ Văn</FONT></A></TD>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD>
+<TD class=Normal>
+<A href="/tag/36605/nguyen-thanh-tuan/" class="Normal"><IMG border=0 width="80" height="60" src="/Files/Folder/00/8f/Nguyen-Thanh-Tuan.jpg"></A></TD>
+<TD class=Normal><A href="/tag/36605/nguyen-thanh-tuan/" class="Normal"><FONT color=#800040>Nguyễn Thanh Tuân</FONT></A></TD>
+<TD class=Normal>
+<A href="/tag/36790/trinh-xuan-nguyen/" class="Normal"><IMG border=0 width="80" height="60" src="/Files/Folder/00/8f/Avatar-1234.jpg"></A></TD>
+<TD class=Normal><A href="/tag/36790/trinh-xuan-nguyen/" class="Normal"><FONT color=#800040>Trịnh Xuân Nguyên</FONT></A></TD>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD>
+<TD class=Normal>
+<A href="/tag/37658/long--longhphcm/" class="Normal"><IMG border=0 width="80" height="60" src="/Files/Folder/00/8f/Avatar-1234.jpg"></A></TD>
+<TD class=Normal><A href="/tag/37658/long--longhphcm/" class="Normal"><FONT color=#800040>Long</FONT></A></TD>
+<TD class=Normal>
+<A href="/tag/38887/truong-minh-chau/" class="Normal"><IMG border=0 width="80" height="60" src="/Files/Folder/00/8f/Avatar-1234.jpg"></A></TD>
+<TD class=Normal><A href="/tag/38887/truong-minh-chau/" class="Normal"><FONT color=#800040>Trương Minh Châu</FONT></A></TD>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD>
+<TD class=Normal>
+<A href="/tag/43679/le-van-cuong/" class="Normal"><IMG border=0 width="80" height="60" src="/Files/Folder/00/8f/Avatar-1234.jpg"></A></TD>
+<TD class=Normal><A href="/tag/43679/le-van-cuong/" class="Normal"><FONT color=#800040>Lê Văn Cường</FONT></A></TD>
+<TD class=Normal>
+<A href="/tag/45805/nguyen-viet-ha/" class="Normal"><IMG border=0 width="80" height="60" src="/Files/Folder/00/8f/Avatar-1234.jpg"></A></TD>
+<TD class=Normal><A href="/tag/45805/nguyen-viet-ha/" class="Normal"><FONT color=#800040>Nguyễn <FONT color=#800040>Việt</FONT> Hà</FONT></A></TD>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD>
+<TD class=Normal>
+<IMG border=0 width="80" height="60" src="/Files/Folder/00/8f/Nguyen-Khuong-Ha.jpg"></TD>
+<TD class=Normal><FONT color=#800040>Nguyễn Khương Hạ</FONT></TD>
+<TD class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD>
+<TD class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR></TABLE></TD>
+<TD width=1 bgColor=#d5d8de class="BreakLine"><FONT color="#d5d8de"> </FONT></TD></TR>
+<TR>
+<TD colSpan=3><IMG width="300" height="10" src="/Files/Folder/00/8f/box_bottom1.gif"></TD></TR></TABLE>
+<div class="box-item">
+	<div class="tmp1_hot_header">
+		<div class="tmp1_hot_content">
+			<ul>	<li><a href="/gl/oto-xe-may/tu-van/2011/10/nguyen-nhan-xe-may-tu-thieu/">Nguyên nhân xe máy ‘tự thiêu’</a></li>
+	<li><a href="/gl/oto-xe-may/tu-van/2011/10/chon-xe-may-xang-hay-may-dau/">Chọn xe máy xăng hay máy dầu?</a></li>
+	<li><a href="/gl/oto-xe-may/tu-van/2011/10/quen-khong-nha-phanh-tay-xe-gap-hu-hong-gi/">Quên không nhả phanh tay, xe gặp hư hỏng gì?</a></li>
+	<li><a href="/gl/oto-xe-may/tu-van/2011/10/chon-vios-hay-kia-forte/">Chọn Vios hay Kia Forte?</a></li>
+	<li><a href="/gl/oto-xe-may/tu-van/2011/10/co-nen-mua-toyota-corolla-altis-2011-cu/">Có nên mua Toyota Corolla Altis 2011 cũ?</a></li>
+	<li><a href="/gl/oto-xe-may/tu-van/2011/10/duoi-300-trieu-mua-xe-cu-gi-5-cho/">Dưới 300 triệu mua xe cũ gì 5 chỗ?</a></li>
+	<li><a href="/gl/oto-xe-may/tu-van/2011/10/thu-nhap-45-trieu-moi-thang-nen-mua-xe-gi/">Thu nhập 45 triệu mỗi tháng nên mua xe gì?</a></li>
+	<li><a href="/gl/oto-xe-may/tu-van/2011/10/co-the-kien-csgt-vi-loi-le-thieu-ton-trong/">Có thể kiện CSGT vì lời lẽ thiếu tôn trọng?</a></li>
+	<li><a href="/gl/oto-xe-may/tu-van/2011/10/tai-sao-tai-gia-thich-lai-xe-dem/">Tại sao tài 'già' thích lái xe đêm</a></li>
+	<li><a href="/gl/oto-xe-may/tu-van/2011/10/chon-super-dream-hay-wave-rsx/">Chọn Super Dream hay Wave RSX</a></li>
+</ul>
+		</div>
+	</div>
+</div>
+
+<TABLE cellSpacing=0 cellPadding=0 width=300 border=0>
+<TR>
+<TD colSpan=3><IMG width="300" height="3" src="/Files/Folder/00/8f/box_top1.gif"></TD></TR>
+<TR>
+<TD width=1 bgColor=#d5d8de class="BreakLine"><FONT color="#d5d8de"> </FONT></TD>
+<TD width=298>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff border=0>
+<TR>
+<TD colSpan=3 height=5 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD>
+<TD class="Normal" align="center"><B><FONT face=arial color=#8a0000 size=2>Bài theo chủ đề</FONT></B></TD>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD colSpan=3 height=5 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR></TABLE></TD>
+<TD width=1 bgColor=#d5d8de class="BreakLine"><FONT color="#d5d8de"> </FONT></TD></TR>
+<TR>
+<TD width=1 bgColor=#d5d8de class="BreakLine"><FONT color="#d5d8de"> </FONT></TD>
+<TD width=298>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#e6ecf0 border=0>
+<TR>
+<TD colSpan=3 height=5 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD>
+<TD>
+<TABLE cellSpacing=2 cellPadding=3 width=281 bgColor=#ffffff border=0>
+<TR>
+<TD class=BoxLink bgColor=#c8d5dd>
+<A href="/GL/Topic/?ID=5227" class="BoxLink"><IMG border=1 width="80" height="60" src="/Files/Folder/00/8f/DC_B.jpg"></A></TD>
+<TD bgColor=#c8d5dd class="BoxLink" align="center"><A href="/GL/Topic/?ID=5227" class="BoxLink">Hỏng hóc động cơ  </A></TD>
+<TD class=BoxLink bgColor=#e6ecf0> <A href="/GL/Topic/?ID=3694" class="BoxLink"><IMG border=1 width="80" height="60" src="/Files/Folder/00/8f/xecu_B.jpg"></A></TD>
+<TD bgColor=#e6ecf0 class="BoxLink" align="center">Mua xe<A href="/GL/Topic/?ID=3694" class="BoxLink"> cũ</A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c8d5dd> <A href="/GL/Topic/?ID=5717" class="BoxLink"><IMG border=1 width="80" height="60" src="/Files/Folder/00/8f/Camlai1111.jpg"></A></TD>
+<TD bgColor=#c8d5dd class="Normal" align="center"> <A href="/GL/Topic/?ID=5717" class="BoxLink">Kinh nghiệm cầm lái</A></TD>
+<TD class=BoxLink bgColor=#e6ecf0> <A href="/GL/Topic/?ID=5614" class="BoxLink"><IMG border=1 width="80" height="60" src="/Files/Folder/00/8f/Muaxe1112.jpg"></A></TD>
+<TD bgColor=#e6ecf0 class="Normal" align="center"> <A href="/GL/Topic/?ID=5614" class="BoxLink">Tư vấn mua xe mới</A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c8d5dd>
+<A href="/GL/Topic/?ID=5762" class="Normal"><IMG border=1 width="80" height="60" src="/Files/Folder/00/8f/PH111111.jpg"></A></TD>
+<TD bgColor=#c8d5dd class="Normal" align="center"><A href="/GL/Topic/?ID=5762" class="BoxLink"> Các sự cố phanh</A></TD>
+<TD class=BoxLink bgColor=#e6ecf0>
+<A href="/GL/Topic/?ID=5763" class="BoxLink"><IMG border=1 width="80" height="60" src="/Files/Folder/00/8f/DH1111.jpg"></A></TD>
+<TD bgColor=#e6ecf0 class="Normal" align="center"> <A href="/GL/Topic/?ID=5763" class="BoxLink">Những vấn đề về điều hòa</A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c8d5dd>
+<A href="/GL/Topic/?ID=5767" class="Normal"><IMG border=1 width="80" height="60" src="/Files/Folder/00/8f/Noithat1111.jpg"></A></TD>
+<TD bgColor=#c8d5dd class="Normal" align="center"><A href="/GL/Topic/?ID=5767" class="BoxLink"> Nội, ngoại thất</A></TD>
+<TD class=BoxLink bgColor=#e6ecf0>
+<A href="/GL/Topic/?ID=5766" class="Normal"><IMG border=1 width="80" height="60" src="/Files/Folder/00/8f/Con11111.jpg"></A></TD>
+<TD bgColor=#e6ecf0 class="Normal" align="center"> <A href="/GL/Topic/?ID=5766" class="BoxLink">Côn và hộp số</A></TD></TR></TABLE></TD>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD colSpan=3 height=5 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR></TABLE></TD>
+<TD width=1 bgColor=#d5d8de class="BreakLine"><FONT color="#d5d8de"> </FONT></TD></TR>
+<TR>
+<TD colSpan=3><IMG width="300" height="10" src="/Files/Folder/00/8f/box_bottom1.gif"></TD></TR></TABLE><A href="/GL/Topic/?ID=5717" class=""></A>
+<div class="box-item">
+	<div class="hot fl">
+		<div class="fl"><img src="/Images/Background/hot-topleft.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/hot-topright.gif" alt="" /></div>
+	</div>
+	<div class="fl" id="HotItem143">		<script type="text/javascript" language="javascript">showhotitem(143, 14);</script>
+	</div>
+	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+
+	</div>
+	
+	<div class="content-right fl">		
+		<div class="adv-header">
+			<div class="adv-title fl">				
+				<a href="http://www.fptad.com/lienhe.aspx" target="_blank"><img style="border:0" src="/Images/Background/adv-title.gif" alt="Lien he quang cao" /></a>				
+			</div>
+		</div>
+		<div id="adgroup"  style="display:none;clear:both;"></div>
+	<Script type="text/javascript" language="JavaScript">Poly_ShowAdScrollBanner(2);</Script>
+				</div>
+				
+			</div>
+			
+			<div id="footer">
+				
+				<script type="text/javascript">Poly_ShowFooterBanner();</script>										
+				
+                <div class="fmenu-top">
+                    <div class="fl icone-footer"></div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-home" rel="nofollow" onclick="javascript:setAsHomePage(this)"><span></span>Đặt làm trang chủ</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ct" rel="nofollow" class="link-contact" href="/ContactUs/?id=xemay@vnexpress.net"><span></span>Liên hệ tòa soạn</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ads" rel="nofollow" class="link-contact" href="http://ads.fpt.net/lienhe.aspx" target="_blank"><span></span>Liên hệ quảng cáo</a>
+                    </div>					
+                    <div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">						
+						
+                        <span class="lnkf-hl">Đường dây nóng: 0123.888.0123 (HN) - 0129.233.3555 (TP HCM)<span></span></span>
+						
+                    </div>
+					<div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">
+						 <a rel="nofollow" class="link-contact" href="http://fptad.com/qc/v/vnexpress/2011/phongvienthethao/" target="_blank"><img class="img-search" src="/Images/person.gif" alt="" style="vertical-align:top;" /> VnExpress tuyển dụng </a>
+					</div>					
+                </div>
+                <div class="fmenu-bottom">	
+					<a href="/" class="link-footermenu">Trang chủ</a><i class="sepaf"></i>
+					<a href="/gl/xa-hoi/" class="link-footermenu">Xã hội</a><i class="sepaf"></i>
+					<a href="/gl/the-gioi/" class="link-footermenu">Thế giới</a><i class="sepaf"></i>
+					<a href="/gl/kinh-doanh/" class="link-footermenu">Kinh doanh</a><i class="sepaf"></i>
+					<a href="/gl/van-hoa/" class="link-footermenu">Văn hóa</a><i class="sepaf"></i>
+					<a href="/gl/the-thao/" class="link-footermenu">Thể thao</a><i class="sepaf"></i>
+					<a href="/gl/phap-luat/" class="link-footermenu">Pháp luật</a><i class="sepaf"></i>
+					<a href="/gl/doi-song/" class="link-footermenu">Ðời sống</a><i class="sepaf"></i>
+					<a href="/gl/khoa-hoc/" class="link-footermenu">Khoa học</a><i class="sepaf"></i>
+					<a href="/gl/vi-tinh/" class="link-footermenu">Vi tính</a><i class="sepaf"></i>
+					<a href="/gl/oto-xe-may/" class="link-footermenu">Ôtô - Xe máy</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/" class="link-footermenu">Bạn đọc viết</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/tam-su/" class="link-footermenu">Tâm sự</a><i class="sepaf"></i>
+					<a href="/user/rao-vat/" class="link-footermenu">Rao vặt</a><i class="sepaf"></i>
+					<a href="/gl/cuoi/" class="link-footermenu">Cuời</a>
+					
+                    <script type="text/javascript" language="javascript">
+						//writeFooterMenu();
+						Poly_ShowFixFloatBanner(0);Poly_ShowFixFloatBanner(2);Poly_ShowFixFloatBanner(1);Poly_ShowFixFloatBanner(3);
+						Poly_ShowSlideBanner();Poly_ShowBallonBanner();						
+					</script>
+					
+                    <script type="text/javascript" language="javascript">Poly_ShowPopupUnder();</script>
+					
+                </div>
+                <div class="copyright">
+                    <p><label style="font:bold 11px arial; color:#686E7A;">&#169;&nbsp;Copyright 1997-2011 VnExpress.net</label>, <label style="font:normal 11px arial; color:#686E7A;">All rights reserved <a rel="nofollow" href="/ContactUs/?id=webmaster@vnexpress.net">Contact us</a> - <label onClick="ContactUs()" style="text-decoration:underline;cursor:pointer">Th&#244;ng tin T&#242;a so&#7841;n</label></label</p>
+<p><label style="font:normal 11px arial; color:#686E7A;">&#174;&nbsp;VnExpress gi&#7919; b&#7843;n quy&#7873;n n&#7897;i dung tr&#234;n website n&#224;y.</lable></p>
+
+                </div>
+            </div>
+			</div>
+		</div>		
+		</div>		
+		<script type="text/javascript">
+		<!--//<![CDATA[
+			cpms_Ap.init();
+			cpms_Ap.typ = 1;
+			cpms_Ap.dof = 0;
+			cpms_Ap.ste = 1;
+			cpms_Ap.reg = 0;
+			cpms_Ap.fol = 143;
+			cpms_Ap.pos = 38;
+			cpms_Ap.url = encodeURIComponent(document.location.href);
+			cpms_Ap.show();
+		//]]>-->
+		</script>
+		  	
+		<div style="float:left;">
+			<script type="text/javascript" language="javasript">
+				var strHr = location.href;				
+				if(strHr.substr(0,21)=='http://vnexpress.net/' || strHr.substr(0,27)=='http://ebank.vnexpress.net/' || strHr.substr(0,28)=='http://nhadep.vnexpress.net/'){
+					document.write('<img src="http://180.148.142.10/website/vnexpress/Res.asp?vid=D70A5C1E-C2B2-4FFD-92ED-C8CBBFCC8A4D&ovt=0&vsd=0&pfd=143&pid=1000541733&ref=&iTime=11/2/2011 11:08:26 AM" border=0>');
+					
+				}
+			</script>
+		</div>
+		<script type="text/javascript">
+	var SERVER_ID = 6;
+</script>
+
+
+		<!--<script type="text/javascript" language="javascript" src="/Library/Common/rss.js"></script>-->
+		<script type="text/javascript" src="http://180.148.142.152/Library/VNELibraryNew.js"></script>
+
+<script type="text/javascript" src="http://180.148.142.152/Library/AdLibNew.js"></script>
+		
+<script src="http://180.148.142.152/Vals/1/0/143/Val.js" type="text/javascript"></script>	
+		
+<script type="text/javascript" language="javaScript">checkCookie();</script>
+
+<script type="text/javascript" language="javaScript" src="http://180.148.142.153/script/libMobile.js"></script>     
+
+
+<script type="text/javascript">      
+    Poly_ShowAds();
+</script>
+	
+	</body>			
+</html>

@@ -1,0 +1,994 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />		
+		
+		<meta name="robots" content="INDEX,FOLLOW" />
+			
+		<meta name="description" content="Trong khi giá các loại gạo Thái Lan bán tại Việt Nam vẫn ổn định thì hàng sản xuất trong nước lại có xu hướng đắt lên, khiến không ít người tiêu dùng băn khoăn.> Xuất khẩu gạo sẽ đạt kỷ lục 7 triệu tấn / Nguy cơ sốt giá gạo" />
+			
+		<title>Lũ lụt Thái Lan, gạo Việt Nam tăng giá - VnExpress</title>
+		
+		<meta name="keywords" content="gạo Việt Nam,gạp Thái Lan,gạo xuất khẩu" />	
+		
+		<meta http-equiv="REFRESH" content="3600" />
+		
+		<link rel="stylesheet" href="/Resource/Common/default.css" type="text/css" />	
+		<link href="http://go.polyad.net/style/context/2.css" rel="Stylesheet" style="text/css"> 		
+		
+		<link rel="alternate" type="application/rss+xml" title="VnExpress - RSS" href="/RSS/GL/trang-chu.rss" />
+			
+		
+		<script type="text/javascript" language="javascript" src="/Library/Common/Library.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/Vne.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/FlashMedia.js"></script>						
+        <script type="text/javascript" language="javascript" src="/Library/Common/AjaxRequest.js"></script>
+		<script type="text/javascript" language="javascript" src="/Library/Common/vietUni.js"></script>
+		<script type="text/javascript" language="javascript" src="/Resource/00/ArrMenu.js"></script>        				
+		<script type="text/javascript" language="javaScript">
+			var PAGE_SITE=0;
+			var PAGE_FOLDER=3;	
+			var PAGE_ID=1000594924;	
+			var DOMESTIC_IP=1;	
+			setTypingMode(1);
+				
+			sLoDID=sLoDID.concat('1000594924').concat(',');
+			
+		</script>
+		<script type="text/javascript" language="javascript" src="/Resource/Common/Menu.js"></script>
+		
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-249346-1']);
+		_gaq.push(['_trackPageview']);
+		
+		_gaq.push(['b._setAccount', 'UA-249346-21']);
+		_gaq.push(['b._trackPageview']);
+		
+		_gaq.push(['c._setAccount', 'UA-249346-22']);
+		_gaq.push(['c._trackPageview']);
+		
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	
+		<script src="/Library/Common/jquery-1.6.3.min.js"></script>		
+		
+<script type="text/javascript" src="/library/Common/VNEShowAds.js"></script>
+<script src="/library/common/adlibv1.js" type="text/javascript"></script>
+<script src="/library/common/lib.js" type="text/javascript"></script>
+
+	</head>
+	<body>	
+		
+				
+		<input type="hidden" id="CurrentBrowserWidth" value="" />
+		<input type="hidden" id="ShowBackground" value="1" />
+		<div id="divSlideResultLeft" style="background-repeat:no-repeat;background-position:right top;over-flow:hidden;cursor:pointer;text-align:right;padding:0px;position: fixed!important;position: absolute; /*ie6 and above*/;left: 0px; top: 0px;overflow:hidden;"></div>
+		<div id="divSlideResultRight" style="background-repeat:no-repeat;over-flow:hidden;cursor:pointer;text-align:left;padding:0px;position: fixed!important; position: absolute; /*ie6 and above*/;right: 0px; top: 0px;overflow:hidden;"></div>				
+		
+		<div id="outter">		
+		<div id="divMove" style="width:1000px;">
+		<div class="fpr2">
+			<div id="header">
+				<div id="logoEH" class="logo fl" >
+					
+					<a onfocus="this.blur()" hidefocus="" href="/"><img class="img-logo" src="/Images/blank.gif" alt="" /></a>
+					
+				</div>
+				<div id="topbannerEH" class="topbanner fr">
+					
+					<table border="0" cellpadding="0" cellspacing="0" style="width:100%;">
+						<tr>
+							<td style="vertical-align:middle">
+																
+									<script type="text/javascript" language="javascript">
+										Poly_ShowTopBanner();
+									</script>								
+								
+							</td>                           
+						</tr>
+					</table>				
+					
+				</div>
+			</div>			
+		</div>				
+		<div id="menu">
+	<div class="searchmenu">
+		<div class="fl icone"></div>
+		<div class="drss fl"><a href="/GL/RSS/" class="link-rss lnkrss">RSS<span></span></a></div>
+		<div id="mn-search" class="search fr">
+			<form onsubmit="return CheckValue(document.Search.s);" action="http://search.vnexpress.net/news" id="Search" name="Search">
+				<span class="fl borright"></span>
+				<input type="text" value="Từ khóa tìm kiếm" onfocus="SearchOnFocus(this)" onkeydown="" onkeyup="initTyper(this)" onblur="SearchOnBlur(this)" id="s" name="s" class="txtsearch fl">
+				<img onclick="return CheckValue(document.Search.s);" alt="" src="/images/blank.gif" class="img-search fl">
+				<input type="hidden" value="66FD8EC7-FA76-4A7C-8FE3-DB605B4C9CE0" name="g">
+				<input type="hidden" value="yes" name="butS">
+			</form>
+		</div>
+	</div>
+	<!--[if lte IE 6]><a id="lnkIE6" href="#"><table cellpadding=0 cellspacing=0 style="border: 0; margin: 0; padding: 0; width: 1000px; height: 25px;"><tr><td><![endif]-->
+	<div class="menu">
+		<ul>
+			<li><div class="fl mn-borleft"></div></li>
+			
+			<li>
+				<a href="/"><span class="pmenuL"></span><span class="pmenuM">Trang nhất</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<!--<ul style="padding: 0px; height: 16px">
+					<div class="fl icone"></div>
+					<div class="drss fl"><a href="/GL/RSS/" class="link-rss">RSS <span></span></a></div>
+				</ul>-->
+				<ul class="smenu-home">	
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+					<li class="lnknews24h"><a href="/gl/24h-qua/"></a></li>
+					<li class="ico-ct-wrap">
+						<span class="fl ico-ct"></span>
+						<p class="fl phonect"><span>0123.888.0123</span> (HN) - <span>0129.233.3555</span> (TP.HCM)</p>
+					</li>				
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/video/"><span class="pmenuL"></span><span class="pmenuM">Video</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">													
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/xa-hoi/"><span class="pmenuL"></span><span class="pmenuM">Xã hội</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li><a href="/gl/xa-hoi/giao-duc/">Giáo dục</a></li>
+					<li><a href="/gl/xa-hoi/nhip-dieu-tre/">Nhịp điệu trẻ</a></li>
+					<li><a href="/gl/xa-hoi/du-lich/">Du lịch</a></li>
+					<li><a href="/gl/xa-hoi/co-hoi-du-hoc/">Du học</a></li>												
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/the-gioi/"><span class="pmenuL"></span><span class="pmenuM">Thế giới</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->				
+				<ul class="smenu-other">					
+					<li><a href="/gl/the-gioi/cuoc-song-do-day/">Cuộc sống đó đây</a></li>
+					<li><a href="/gl/the-gioi/anh/">Ảnh</a></li>
+					<li><a href="/gl/the-gioi/nguoi-viet-5-chau/">Người Việt 5 châu</a></li>
+					<li><a href="/gl/the-gioi/phan-tich/">Phân tích</a></li>
+					<li><a href="/gl/the-gioi/tu-lieu/">Tư liệu</a></li>								
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li class="active"><a href="/gl/kinh-doanh/"><span class="pmenuL"></span><span class="pmenuM">Kinh doanh</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+								
+				<ul class="smenu-other">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/gl/ebank/">Ebank</a></li>
+					<li><a href="/gl/kinh-doanh/chung-khoan/">Chứng khoán</a></li>
+					<li><a href="/gl/kinh-doanh/bat-dong-san/">Bất động sản</a></li>
+					<li><a target="_blank" href="http://nhadep.vnexpress.net/gl/nha-dep/">Nhà đẹp</a></li>
+					<li><a href="/gl/kinh-doanh/kinh-nghiem/">Doanh nhân</a></li>
+					<li><a href="/gl/kinh-doanh/quoc-te/">Quốc tế</a></li>
+					<li><a href="/gl/doi-song/mua-sam/">Mua sắm</a></li>
+					<li><a href="/gl/kinh-doanh/doanh-nghiep-viet/">Doanh nghiệp viết</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/van-hoa/"><span class="pmenuL"></span><span class="pmenuM">Văn hóa</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">					
+					<li><a href="/gl/van-hoa/hoa-hau/">Hoa hậu</a></li>
+					<li><a href="/gl/van-hoa/guong-mat-nghe-sy/">Nghệ sỹ</a></li>
+					<li><a href="/gl/van-hoa/am-nhac/">Âm nhạc</a></li>
+					<li><a href="/gl/van-hoa/thoi-trang/">Thời trang</a></li>
+					<li><a href="/gl/van-hoa/san-khau-dien-anh/">Điện ảnh</a></li>
+					<li><a href="/gl/van-hoa/my-thuat/">Mỹ thuật</a></li>
+					<li><a target="_blank" href="http://evan.vnexpress.net/">Văn học</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/the-thao/"><span class="pmenuL"></span><span class="pmenuM">Thể thao</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smsport"><a href="/gl/the-thao/bong-da/">Bóng đá</a></li>
+					<li><a href="/gl/the-thao/tennis/">Tennis</a></li>
+					<li><a href="/gl/the-thao/chan-dung/">Chân dung</a></li>
+					<li><a href="/gl/the-thao/anh-video/">Ảnh - Video</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="http://seagames.vnexpress.net/" target="_blank"><span class="pmenuL"></span><span class="pmenuM">SEA Games 26</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li class="smseagames26"><a href="http://seagames.vnexpress.net/tin/lich-dau/" target="_blank">Lịch đấu</a></li>
+					<li><a href="http://seagames.vnexpress.net/tin/xep-hang/" target="_blank">Bảng xếp hạng</a></li>					
+					<li><a href="http://seagames.vnexpress.net/tin/bong-da/" target="_blank">Bóng đá</a></li>					
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/phap-luat/"><span class="pmenuL"></span><span class="pmenuM">Pháp luật</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smlaw"><a href="/gl/phap-luat/hinh-su/">Hình sự</a></li>
+					<li><a href="/gl/phap-luat/ky-su/">Ký sự</a></li>
+					<li><a href="/gl/phap-luat/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/doi-song/"><span class="pmenuL"></span><span class="pmenuM">Đời sống</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smlife"><a href="/gl/doi-song/cau-chuyen-cuoc-song/">Câu chuyện cuộc sống</a></li>
+					<li><a href="/gl/doi-song/gia-dinh/">Gia đình</a></li>
+					<li><a href="/gl/suc-khoe/">Sức khỏe</a></li>
+					<li><a href="/gl/doi-song/am-thuc/">Ẩm thực</a></li>
+					<li><a href="/gl/suc-khoe/lam-dep/">Làm đẹp</a></li>
+					<li><a href="/gl/doi-song/blog/">Cửa sổ Blog</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/khoa-hoc/"><span class="pmenuL"></span><span class="pmenuM">Khoa học</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smscience"><a href="/gl/khoa-hoc/moi-truong/">Môi trường</a></li>
+					<li><a href="/gl/khoa-hoc/thien-nhien/">Thiên nhiên</a></li>
+					<li><a href="/gl/khoa-hoc/anh/">Ảnh</a></li>
+					<li><a href="/gl/khoa-hoc/ky-thuat-moi/">Công nghệ mới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/vi-tinh/"><span class="pmenuL"></span><span class="pmenuM">Vi tính</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smmicrocalculate"><a href="/gl/vi-tinh/san-pham-moi/">Sản phẩm mới</a></li>
+					<li><a href="/gl/vi-tinh/kinh-nghiem/">Kinh nghiệm</a></li>
+					<li><a href="/gl/vi-tinh/giai-tri/">Giải trí</a></li>
+					<li><a href="/gl/vi-tinh/hoi-dap/">Hỏi đáp</a></li>
+					<li><a href="/gl/vi-tinh/hacker-virus/">Hacker &amp; Virus</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/oto-xe-may/"><span class="pmenuL"></span><span class="pmenuM">Ôtô - Xe máy</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">					
+					<li class="smcar"><a href="/gl/oto-xe-may/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/ban-doc-viet/"><span class="pmenuL"></span><span class="pmenuM">Bạn đọc</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-bdv">					
+					<li><a href="/gl/ban-doc-viet/khoa-hoc/">Khoa học</a></li>						
+					<li><a href="/gl/ban-doc-viet/doi-song/">Đời sống</a></li>
+					<li><a href="/gl/ban-doc-viet/phap-luat/">Pháp luật</a></li>
+					<li><a href="/gl/ban-doc-viet/xa-hoi/">Xã hội</a></li>
+					<li><a href="/gl/ban-doc-viet/kinh-doanh/">Kinh doanh</a></li>
+					<li><a href="/gl/ban-doc-viet/the-thao/">Thể thao</a></li>
+					<li><a href="/gl/ban-doc-viet/van-hoa/">Văn hoá</a></li>
+					<li><a href="/gl/ban-doc-viet/the-gioi/">Thế giới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/ban-doc-viet/tam-su/"><span class="pmenuL"></span><span class="pmenuM">Tâm sự</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other"></ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/rao-vat/"><span class="pmenuL"></span><span class="pmenuM">Rao vặt</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-raovat">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/cuoi/"><span class="pmenuL"></span><span class="pmenuM">Cười</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-bdv">
+					<li><a href="/gl/cuoi/video/">Video</a></li>
+					<li><a href="/gl/cuoi/tieu-pham/">Tiểu phẩm</a></li>						
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+		</ul>
+	</div><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</div>
+
+		<div id="content">			
+			
+			<div class="content-center fl">			
+			<div class="folder-header">
+	<script type="text/javascript" language="javascript">writeFolderTitle(PAGE_FOLDER);</script>
+	<div class="fr">Th&#7913; n&#259;m, 3/11/2011, 09:27 GMT+7</div>
+</div>
+<div class="email-print txtr">
+	<script>
+	writeSociable('http://vnexpress.net/gl/kinh-doanh/2011/11/lu-lut-thai-lan-gao-viet-nam-tang-gia/','Lũ+lụt+Thái+Lan,+gạo+Việt+Nam+tăng+giá','Lũ+lụt+Thái+Lan,+gạo+Việt+Nam+tăng+giá','sociable',1000594924);
+	</script>
+<font onClick="return EmailSubject(1000594924)"><img border="0" src="/Images/email.gif" align="bottom">&nbsp;E-mail</font>
+&nbsp;&nbsp;&nbsp;<font onClick="return PrintSubject()"><img border="0" src="/Images/print.gif" align="bottom">&nbsp;B&#7843;n In</font>
+</div>
+
+				<div class="content">
+					<div style="overflow:hidden" cpms_content="true">
+				<H1 class=Title><FONT color=#6f6f6f><FONT color=#000000>Lũ lụt Thái Lan, gạo Việt Nam tăng giá</FONT></FONT></H1>
+<H2 class=Lead><FONT color=#6f6f6f>Trong khi giá các loại gạo Thái Lan bán tại Việt Nam vẫn ổn định thì hàng sản xuất trong nước lại có xu hướng đắt lên, khiến không ít người tiêu dùng băn khoăn.<BR></FONT>> <A href="/gl/kinh-doanh/2011/09/xuat-khau-gao-se-dat-ky-luc-7-trieu-tan/" class="Lead">Xuất khẩu gạo sẽ đạt kỷ lục 7 triệu tấn</A> / <A href="/gl/kinh-doanh/2011/08/nguy-co-sot-gia-gao/" class="Lead">Nguy cơ sốt giá gạo </A></H2>
+<TABLE cellSpacing=0 cellPadding=3 width=1 align=center border=0>
+<TR>
+<TD><IMG src="/Files/Subject/3b/a3/dd/ec/gao-1.jpg" width=450 height=360 alt="Ảnh: Xuân Ngọc" /></TD></TR>
+<TR>
+<TD class="Image">Một số loại gạo trong nước tăng giá nhẹ trong khi gạo Thái Lan vẫn giữ giá. Ảnh minh họa: <EM>Xuân Ngọc</EM></TD></TR></TABLE>
+<P class=Normal>Trên thị trường tự do, gạo Thái Lan vẫn giữ 19.000 - 20.000 đồng mỗi kg. Còn tại siêu thị, giá khoảng 24.500 đồng.</P>
+<P class=Normal>Nhưng theo khảo sát của <EM>VnExpress.net</EM>, giá một số loại gạo trong nước đang tăng nhẹ từ 200 đồng đến 1.000 đồng mỗi kg. Trong đó, gạo Si dẻo có giá 14.000 đồng, gạo Bắc Hương giá 17.000 đồng, còn tám thơm Điện Biên giá 20.500 đồng mỗi cân... Tại siêu thị, giá cao hơn 1.000-2.000 đồng, <FONT color=#000000>như </FONT>gạo Bắc Hương Hải Hậu giá 19.200 đồng, tám thơm Điện Biên 21.500 đồng, tám thơm Hải Hậu giá 21.000 đồng một kg...</P>
+<P class=Normal>Theo tiểu thương tại nhiều chợ, các loại gạo trong nước như Bắc Hương, Điện Biên vẫn tiêu thụ mạnh, thậm chí còn bán chạy hơn trong thời gian gần đây. Chị Hồng, bán gạo trong chợ Cầu Giấy cho biết, ngay cả khách lâu nay vẫn mua gạo Thái, giờ cũng chuyển sang dùng gạo tám Điện Biên, Si Dẻo. "Họ lo Thái Lan lũ lụt, vận chuyển khó, gạo bày bán trên thị trường là hàng cũ. Vì vậy, họ mua vài cân loại ngon trong nước về ăn", chị Hồng nói.</P>
+<P class=Normal>Đại diện một siêu thị tại Hà Nội tiết lộ, gạo trong nước vẫn chiếm tỷ lệ chính trong doanh số tiêu thụ, chủ yếu là Bắc Hương Hải Hậu. Lý do là bởi gạo Thái qua xử lý kỹ nên quá trắng, không nhiều cám, khi nấu trông hạt cơm ngon, đẹp mắt, phù hợp với thị hiếu của một bộ phận người tiêu dùng trẻ tuổi. Còn đa phần khách hàng vẫn chọn gạo quê vì lượng cám nhiều, vị ngọt đậm.</P>
+<P class=Normal>Về việc một số loại gạo Thái vẫn giữ giá, chị Hồng cho hay, khi nghe tin nước này bị lũ lụt, chị cũng đinh ninh nguồn hàng sẽ đắt hơn. Nhưng thực tế, số lượng người mua gạo Thái giảm, gạo nhập về từ đợt trước cũng chưa bán hết nên vẫn giữ giá cũ. Còn chủ kinh doanh trên phố Ngọc Hà lại cho rằng, nhiều loại gạo Thái thực chất là giống lúa của Thái, được trồng tại Việt Nam nên sản phẩm này không bị ảnh hưởng của lũ lụt.</P>
+<P class=Normal>Quay trở lại dùng gạo nội song bác Trinh, sống ở Đội Cấn, Hà Nội tỏ ra không hài lòng khi giá một số loại đột nhiên tăng giá. Bác Trinh vừa mua 10kg gạo tám thơm Điện Biên với giá 205.000 đồng. Bác chia sẻ: "Trước đây tôi dùng gạo Thái Lan, nhưng thấy hàng xóm giới thiệu gạo tám trong nước ngon nên tôi mua về dùng thử. Nhưng tôi không nghĩ gạo tám thơm Điện Biên lại đắt hơn cả gạo Thái".</P>
+<P class=Normal><FONT color=#000000>Trao đổi với <EM>VnExpress.net</EM>, ông Nguyễn Trí Ngọc, Cục trưởng Cục trồng trọt, Bộ Nông nghiệp và Phát triển Nông thôn cho rằng có thể xuất phát từ tâm lý tiêu dùng và thị trường, khi nhiều người quay trở lại dùng gạo quê nên đại lý đã tự ý tăng giá. Ông Ngọc khẳng định nguồn cung trong nước vẫn dồi dào. S</FONT><FONT color=#000000>ản lượng thóc từ đầu năm đến nay đạt 41 triệu tấn, tăng một triệu tấn so với năm 2010.</FONT></P>
+<P class=Normal>Về chỉ tiêu xuất khẩu 7 triệu tấn gạo trong năm 2011, Cục trưởng Nguyễn Trí Ngọc cho biết con số này hoàn toàn có thể đạt được. Khẳng định trên được dựa trên 3 cơ sở: Nguồn cung trong nước đang dồi dào, hợp đồng xuất khẩu đã ký kết và tính đến thời điểm hiện nay, sản lượng xuất ra thế giới đạt 6,5 triệu tấn.</P>
+<P class=Normal>Tuy nhiên, theo ông, để nâng cao đồng loạt chất lượng gạo trong nước ngang như gạo Thái Lan cần có thời gian. Ông Ngọc nói, Việt Nam có 87 triệu người dân nhưng chỉ có 41 triệu ha sản xuất lúa nên phải chọn giống ngắn ngày, năng suất cao để tăng vụ, chất lượng từ khá trở lên. Còn Thái Lan với 66 triệu người dân nhưng diện tích trồng lúa lên đến 10 triệu ha nên chấp nhận được giống dài ngày, chất lượng tốt.  </P>
+<P class=Normal>Song, ông cũng cho hay, trong năm 2011, Việt Nam đã sản xuất 400.000 tấn thóc chất lượng cao. Con số này sẽ tăng lên từ dự án xây dựng khu vực lúa giống tốt với 3.000 ha ở miền Bắc và một triệu ha ở miền Nam. "Việt Nam đã và đang có những loại gạo ngon nổi tiếng như Nàng Thơm Chợ Đào,... không thua kém gì hàng Thái Lan nên người tiêu dùng nên ưu tiện lựa chọn sản phẩm trong nước", ông Nguyễn Trí Ngọc tư vấn.</P>
+<P class=Normal align=right><STRONG>Xuân Ngọc</STRONG></P>
+			</div>
+			<div class="tag-parent"><img src='/Images/tags.gif' class="tag"><div class="tag-pos"><h3 class="tag-text"><a href='/tag/63282/gao-viet-nam/'>gạo Việt Nam</a>, <a href='/tag/72131/gap-thai-lan/'>gạp Thái Lan</a>, <a href='/tag/57694/gao-xuat-khau/'>gạo xuất khẩu</a></h3></div></div>
+			<div style="margin-top:5px;margin-bottom:5px;">							
+				<script language="javascript">					
+					Poly_ShowArticlebanner();										
+				</script>				
+			</div>
+		</div>				
+		<div class="folder-news">
+	<div class="boxnew-header">
+		<div class="boxnew-title fl">Tin mới</div>
+	</div>
+	<div class="boxnew">
+		<ul>
+		<li><a href="/gl/kinh-doanh/2011/11/quang-cao-sexy/" class="link-othernews">Quảng cáo sexy</a><span style="color: #909090">&nbsp;(03/11)</span></li>
+		<li><a href="/gl/kinh-doanh/chung-khoan/2011/11/sme-khang-dinh-khong-thieu-thanh-khoan/" class="link-othernews">SME khẳng định không thiếu thanh khoản</a><span style="color: #909090">&nbsp;(03/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/mot-phi-cong-vietnam-airlines-nghi-dung-bang-lai-gia/" class="link-othernews">Một phi công Vietnam Airlines nghi dùng bằng lái giả</a><span style="color: #909090">&nbsp;(03/11)</span></li>
+		<li><a href="/gl/kinh-doanh/doanh-nghiep-viet/2011/11/con-nguoi-va-van-hoa-doanh-nghiep-o-samsung-vina/" class="link-othernews">Con người và văn hóa doanh nghiệp ở Samsung Vina</a><span style="color: #909090">&nbsp;(03/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/co-phieu-sme-bi-ban-manh/" class="link-othernews">Cổ phiếu SME bị bán mạnh</a><span style="color: #909090">&nbsp;(03/11)</span></li>
+		</ul>
+	</div>
+</div>
+<div class="folder-news">
+	<div class="othernews-header">
+		<div class="othernews-title fl">C&#225;c tin kh&#225;c</div>
+		<div class="fr txtr" style="margin-bottom:5px;"><label onClick="history.go(-1)" class="Time" style="cursor:pointer">[<B>Tr&#7903; v&#7873;</B>]</label></div>
+	</div>
+	<div class="othernews">
+		<ul>
+		<li><a href="/gl/kinh-doanh/2011/11/ban-vang-nhieu-hon-mua/" class="link-othernews">Bán vàng nhiều hơn mua</a><span style="color: #909090">&nbsp;(03/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/de-xuat-tang-phi-truoc-ba-oto-tai-tp-hcm-ha-noi-len-20/" class="link-othernews">Đề xuất tăng phí trước bạ ôtô tại TP HCM - Hà Nội lên 20%</a><span style="color: #909090">&nbsp;(03/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/hon-400-binh-gas-bi-lam-gia/" class="link-othernews">Hơn 400 bình gas bị làm giả</a><span style="color: #909090">&nbsp;(02/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/chi-bao-hiem-tien-gui-cho-ca-nhan-gui-vnd/" class="link-othernews">Chỉ bảo hiểm tiền gửi cho cá nhân gửi VND</a><span style="color: #909090">&nbsp;(02/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/vay-oda-tu-nhat-se-dat-hon/" class="link-othernews">Vay ODA từ Nhật sẽ đắt hơn</a><span style="color: #909090">&nbsp;(02/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/trung-quoc-khong-nen-mua-trai-phieu-de-cuu-chau-au/" class="link-othernews">Trung Quốc không nên mua trái phiếu để cứu châu Âu</a><span style="color: #909090">&nbsp;(02/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/go-kho-cho-4-chiec-may-bay-rieng-ket-tai-cang-bien/" class="link-othernews">Gỡ khó cho 4 chiếc máy bay riêng 'kẹt' tại cảng biển</a><span style="color: #909090">&nbsp;(02/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/chi-600-trieu-dong-de-doi-thuong-hieu-ca-phe-buon-ma-thuot/" class="link-othernews">Chi 600 triệu đồng để đòi thương hiệu cà phê Buôn Ma Thuột</a><span style="color: #909090">&nbsp;(02/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/thanh-tra-viec-mua-ban-usd-trong-ngan-hang/" class="link-othernews">Thanh tra việc mua bán USD trong ngân hàng</a><span style="color: #909090">&nbsp;(02/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/san-so-dep-cho-tai-khoan-ngan-hang/" class="link-othernews">'Săn' số đẹp cho tài khoản ngân hàng</a><span style="color: #909090">&nbsp;(02/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/em-trai-nguyen-duc-chi-tiep-nhan-du-an-rusalka/" class="link-othernews">Em trai Nguyễn Đức Chi tiếp nhận dự án Rusalka</a><span style="color: #909090">&nbsp;(02/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/thuong-hieu-lon-van-an-nen-lam-ra-trong-khung-hoang/" class="link-othernews">Thương hiệu lớn vẫn 'ăn nên làm ra' trong khủng hoảng</a><span style="color: #909090">&nbsp;(02/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/tin-nhan-rac-hu-doa-khach-hang-dung-di-dong/" class="link-othernews">Tin nhắn rác hù dọa khách hàng dùng di động</a><span style="color: #909090">&nbsp;(02/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/gia-vang-phuc-hoi-moc-45-trieu-dong/" class="link-othernews">Giá vàng phục hồi mốc 45 triệu đồng</a><span style="color: #909090">&nbsp;(02/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/ngan-hang-viet-nam-khong-the-pha-san-kieu-my/" class="link-othernews">Ngân hàng Việt Nam không thể phá sản kiểu Mỹ</a><span style="color: #909090">&nbsp;(02/11)</span></li>
+		</ul>
+	</div>
+</div>
+
+		</div>
+	<div class="content-left fl">		
+	<div class="linksite-box" style="padding:0px;">
+	<img alt="Link Site" src="/Images/Linksite/site2.gif" usemap="#ctmap" class="img-linksite"/>
+	<map id="ctmap" name="ctmap">
+		<area shape="rect" coords="6,0,72,28" href="http://ngoisao.net/" target="_blank" title="ngoisao.net" />
+		<area shape="rect" coords="83,0,140,28" href="http://sohoa.vnexpress.net/" target="_blank" title="sohoa.vnexpress.net" />		
+		<area shape="rect" coords="152,0,215,28" href="http://gamethu.vnexpress.net/" target="_blank" title="gamethu.vnexpress.net" />
+		<area shape="rect" coords="223,0,296,28" href="http://vieclam.vnexpress.net/" target="_blank" title="viec lam" />
+	</map>
+</div>
+	<div class="box-item">		
+		<script type="text/javascript">
+			cpms_Ap.typ = 2;
+			cpms_Ap.ste = 1;
+			cpms_Ap.reg = 0;
+			cpms_Ap.fol = 3;
+			cpms_Ap.dof = 0;
+			cpms_Ap.wdt = 300;
+			
+			cpms_Ap.itf = 3;
+			
+			cpms_Ap.ShowAd();
+		</script>
+	</div>
+	<Script language="JavaScript">Poly_ShowLogoLeft(2)</Script><div class="box-item">
+<script type="text/javascript" src="/Library/Common/js/tvsi.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		initvsi();
+	});
+</script>
+<script type='text/javascript' src='/Library/Common/js/data.js'></script>
+<script type='text/javascript' src='/Library/Common/js/jquery.bgiframe.min.js'></script>
+<script src="/Library/Common/js/jquery.autocomplete.js" type="text/javascript"></script>
+<link href="/Library/Common/js/jquery.autocomplete.css" type="text/css" rel="Stylesheet" />
+<style>
+	.light{color:red;}
+	.unlight{color:#000;}
+</style>
+	<div class="fl boxtvsi">
+  <div class="fl tvsis-hp">
+    <div class="fl bl"></div>
+    <div class="fl md">
+      <h3 class="fl head">
+        Tra cứu cổ phiếu
+        <a class="lgtvsismall" href="https://www.tvsi.com.vn/" title="tvsi" target="_blank"></a>
+      </h3>
+      <div class="tvsis fl">
+				<form name="frmsearch" id="frmsearch" method="post" action="http://180.148.142.12/chungkhoan/" target="_blank">
+                    <span class="fl tvsisbr"></span>
+					<input class="fl tvsistxt" type="text" value="Nhập mã chứng khoán cần tìm"  id="iptCode" name="iptCode">
+					<input class="tvsisico" id="btnsubmit" name="btnsubmit" type="submit" value="">
+				</form>
+      </div>
+    </div>
+    <div class="fl br"></div>
+  </div>
+
+  <div class="fl box-dbtt">
+    <div class="fl hr"></div>
+    <ul class="fl dbttab">
+      <li class="sp">
+        <span class="fl bl"></span>
+        <span class="fl md">Diễn biến thị trường</span>
+        <span class="fl br"></span>
+      </li>
+      <li>
+        <a class="nor active" rel="dbtthose" title="HOSE">HOSE</a>
+      </li>
+      <li>
+        <a class="nor" rel="dbtthnx" title="HNX">HNX</a>
+      </li>
+    </ul>
+    <div class="fl ctdbtt">
+      <div class="fl dbtthose">
+        <div class="fl chrwrap">
+          <p class="fl chr chrdd hide">
+            <img src="/Images/Stock/ChartHO1.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+          <p class="fl chr chrmm">
+            <img src="/Images/Stock/ChartHO2.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+          <p class="fl chr chrqq hide">
+            <img src="/Images/Stock/ChartHO3.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+          <p class="fl chr chryy hide">
+            <img src="/Images/Stock/ChartHO4.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+          <p class="fl chr chrall hide">
+            <img src="/Images/Stock/ChartHO5.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+        </div>
+        <ul class="fl navview">
+          <li class="sp">Xem theo</li>
+          <li>
+            <a rel="chrdd" title="Ngày">
+              ngày <i></i>
+            </a>
+          </li>
+          <li>
+            <a class="active" rel="chrmm" title="Tháng">
+              tháng <i></i>
+            </a>
+          </li>
+          <li>
+            <a rel="chrqq" title="Quý">
+              quý <i></i>
+            </a>
+          </li>
+          <li>
+            <a rel="chryy" title="Năm">
+              năm <i></i>
+            </a>
+          </li>
+          <li>
+            <a rel="chrall" title="Tất cả">tất cả</a>
+          </li>
+        </ul>
+        <div class="fl tvsichg">
+          <div class="fl bl"></div>
+          <div class="fl md">
+            <p>
+              Thay đổi: <span>0.65</span><span class="updown"><i class="up"></i>0.16%</span>
+            </p>
+            <p class="c2">
+              Thay đổi từ đầu năm: <span>-21.01%</span>
+            </p>
+            <p>
+              Tổng KLGD: <span>27,773,402(cp)</span>
+            </p>
+            <p class="c2">
+              Tổng GTGD: <span>460(tỷ)</span>
+            </p>
+          </div>
+
+          <div class="fl br"></div>
+        </div>
+      </div>
+
+      <div class="fl dbtthnx hide">
+        <div class="fl chrwrap">
+          <p class="fl chr chrdd hide">
+            <img src="/Images/Stock/ChartHA1.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+          <p class="fl chr chrmm">
+            <img src="/Images/Stock/ChartHA2.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+          <p class="fl chr chrqq hide">
+            <img src="/Images/Stock/ChartHA3.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+          <p class="fl chr chryy hide">
+            <img src="/Images/Stock/ChartHA4.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+          <p class="fl chr chrall hide">
+            <img src="/Images/Stock/ChartHA5.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+        </div>
+        <ul class="fl navview">
+          <li class="sp">Xem theo</li>
+          <li>
+            <a rel="chrdd" title="Ngày">
+              ngày <i></i>
+            </a>
+          </li>
+          <li>
+            <a  class="active" rel="chrmm" title="Tháng">
+              tháng <i></i>
+            </a>
+          </li>
+          <li>
+            <a rel="chrqq" title="Quý">
+              quý <i></i>
+            </a>
+          </li>
+          <li>
+            <a rel="chryy" title="Năm">
+              năm <i></i>
+            </a>
+          </li>
+          <li>
+            <a rel="chrall" title="Tất cả">tất cả</a>
+          </li>
+        </ul>
+        <div class="fl tvsichg">
+          <div class="fl bl"></div>
+          <div class="fl md">
+            <p>
+              Thay đổi: <span>-0.73</span><span class="updown"><i class="down"></i>-1.09%</span>
+            </p>
+            <p class="c2">
+              Thay đổi từ đầu năm: <span>-63.07%</span>
+            </p>
+            <p>
+              Tổng KLGD: <span>27,103,510(cp)</span>
+            </p>
+            <p class="c2">
+              Tổng GTGD: <span>286(tỷ)</span>
+            </p>
+          </div>
+
+          <div class="fl br"></div>
+        </div>
+      </div>
+	   <map name="planetmap" id="planetmap">
+			<area coords="0,25,292,197" shape="rect" href="http://180.148.142.12/chungkhoan/" target="_blank" alt="Detail">
+		</map>
+    </div>
+  </div>
+</div>
+<script>      
+var autocompleteTextId = "iptCode";
+var tradeCenterIndex = "1";
+var suggestionWidth = 250;       
+function  ApplyStockAutoComplete(){
+	$('#' + autocompleteTextId).flushCache();
+	$('#' + autocompleteTextId).autocomplete(stocksymbols[tradeCenterIndex], {
+		minChars: 0,
+		width: suggestionWidth,
+		matchContains: true,
+		autoFill: false,
+		formatItem: function(row, i, max)
+		{
+			return row.s + ': ' + row.n;
+		},
+		formatMatch: function(row, i, max)
+		{
+			return row.s + ' ' + row.n + ' ' + row.t;
+		},
+		formatResult: function(row)
+		{
+			return row.s + '-' + row.n;
+		}
+	});   
+	$('#' + autocompleteTextId).result(function(event, data, formatted) {                             
+		document.frmsearch.submit();
+		return true;	
+	});            
+}        
+function ChangeFloorCode(index) {
+	tradeCenterIndex = index;
+	ApplyStockAutoComplete();
+}   
+
+ChangeFloorCode(-1);        
+</script>
+</div><div class="box-item">
+	<ul class="st-ul">
+		<li class="st-li-hd he37 fl"><img src="/User/ck/Images/ck3.jpg" border="0" usemap="#MapFPTS"/></li>
+		<li class="st-li-hd he22 fl">
+			<ul class="st-ul">
+				<li id="HO" class="st-li-ho fl"><p id="oHO" class="st-act" onClick="ShowStockIndex(0);">HOSE</p></li>
+				<li id="HA" class="st-li-ha2 fl"><p id="oHA" class="st-deact" onClick="ShowStockIndex(1);">HNX</p></li>
+				<li class="st-li-f fl"><img src="/User/ck/Images/bottom.gif" border="0"/></li>
+			</ul>
+		</li>
+		<li class="st-li-hd he31 fl">
+			<ul class="st-ul">
+				<li class="hd-bdl fl">&nbsp;</li>
+				<li class="hd-co fl"><p class="hd-tt">M&#227; CK</p></li>
+				<li class="hd-sp fl">&nbsp;</li>
+				<li class="hd-tc fl"><p class="hd-tt">TC</p></li>
+				<li class="hd-sp fl">&nbsp;</li>
+				<li class="hd-tra fl">
+					<ul class="st-ul">
+						<li class="hd-med fl">Kh&#7899;p l&#7879;nh</li>
+						<li class="hd-sp2 fl">&nbsp;</li>
+						<li class="hd-pra fl">Gi&#225;</li>
+						<li class="hd-sp fl">&nbsp;</li>
+						<li class="hd-pra fl">KL</li>
+					</ul>
+				</li>
+				<li class="hd-sp fl">&nbsp;</li>
+				<li class="hd-ud fl"><p class="hd-tt">+/-</p></li>
+				<li class="hd-bdr fl">&nbsp;</li>
+			</ul>
+		</li>
+		<li class="st-li-hd he191 fl">
+			<ul class="st-ul">
+				<li class="hd-bdl he191 fl">&nbsp;</li>
+				<li class="st-cont he191 fl">
+					<iframe id="ifrmContent" name="ifrmContent" height="191px" width="294px"  src="/User/ck/hcms/HCMStockSmall.asp" noresize border=false frameborder=0 scrolling="no"></iframe>
+				</li>
+				<li class="hd-bdr he191 fl">&nbsp;</li>
+			</ul>
+		</li>
+		<li class="st-li-hd he20 fl">
+			<ul class="st-ul">
+				<li class="hd-bdl he120 fl">&nbsp;</li>
+				<li class="st-cont he20 fl"><p class="st-dt">(B&#7845;m v&#224;o n&#7897;i dung b&#7843;ng &#273;&#7875; xem chi ti&#7871;t)</p></li>				
+				<li class="hd-bdr he120 fl">&nbsp;</li>
+			</ul>
+		</li>
+		<li class="st-li-hd st-ft fl">&nbsp;</li>		
+	</ul>
+</div>
+<map name="MapFPTS" id="MapFPTS"><area shape="rect" coords="234,0,290,40" href="http://fpts.com.vn/" target="_blank" /></map>	
+<script type="text/javascript">		
+	function ShowStockIndex(i){
+		if(i == 0){
+			gmobj('HO').className = 'st-li-ho fl';
+			gmobj('HA').className = 'st-li-ha2 fl';
+			gmobj('oHO').className = 'st-act';
+			gmobj('oHA').className = 'st-deact';
+			gmobj('ifrmContent').src = '/User/ck/hcms/HCMStockSmall.asp';
+		}
+		else{
+			gmobj('HO').className = 'st-li-ho2 fl';
+			gmobj('HA').className = 'st-li-ha fl';
+			gmobj('oHO').className = 'st-deact';
+			gmobj('oHA').className = 'st-act';
+			gmobj('ifrmContent').src = '/User/ck/hns/HNStockSmall.asp';
+		}
+	}
+	ShowStockIndex(0);
+</script>
+<div class="box-item">
+	<a href="http://www.fptad.com/qc/V/vinaphone/2010/04/" target="_blank"><img style="border:0px" src="/Service/OtherBox/Images/Box_tuvan2.jpg" alt="Vinaphone" /></a>
+</div><Script type="text/javascript" language="JavaScript">Poly_ShowLogoLeft2(4)</Script>
+<TABLE border=0 cellSpacing=0 cellPadding=0 width="100%">
+<TR>
+<TD height=5 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD><script language="JavaScript">AddVote(3,1,359657097,'','Có tiền nhàn rỗi, nên đầu tư gì lúc này?','#FF0000','#C0C0C0','100%',5, new Array(new Array('Bất động sản',0,0),new Array('Gửi tiết kiệm tiền đồng',0,1),new Array('Đôla',0,2),new Array('Vàng',0,3),new Array('Kinh doanh, buôn bán',0,4)),'',1)</script><A href="http://www.fptad.com/qc/V/vinaphone/2010/04/" onClick="return openMeExt(this,1,1,1,1,1,0,1,1,300,400,0,0,0)" class=></A></TD></TR>
+<TR>
+<TD height=5 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR></TABLE>
+<TABLE border=0 cellSpacing=1 cellPadding=0 width=296 bgColor=#800040>
+<TR>
+<TD bgColor=#56040a>
+<TABLE border=0 cellSpacing=1 cellPadding=1 width="100%">
+<TR>
+<TD class=BoxLink bgColor=#ffffff colSpan=3>
+<A href="/gl/kinh-doanh/2010/12/3ba235a8/" class="BoxLink"><IMG border=0 width="294" height="58" src="/Files/Folder/00/03/tops.jpg"></A></TD></TR>
+<TR>
+<TD bgColor=#ffffff class="BoxLink" align="center"><STRONG>TOP 100</STRONG></TD>
+<TD bgColor=#ffffff class="BoxLink" align="center"><STRONG>TOP 50 PHỤ NỮ</STRONG></TD>
+<TD bgColor=#ffffff class="BoxLink" align="center"><STRONG>TOP 30 GIA ĐÌNH</STRONG></TD></TR>
+<TR>
+<TD bgColor=#ffffff class="Normal" align="center"> <A href="/Customize/Chung-khoan/Top/2010/Top100/" class="BoxLink">Năm 2010</A></TD>
+<TD bgColor=#ffffff class="Normal" align="center"> <A href="/Customize/Chung-khoan/Top/2010/Top50/" class="BoxLink">Năm 2010</A></TD>
+<TD bgColor=#ffffff class="Normal" align="center"> <A href="/Customize/Chung-khoan/Top/2010/Top30/" class="BoxLink">Năm 2010</A></TD></TR>
+<TR>
+<TD bgColor=#ffffff class="BoxLink" align="center"> <A href="/Customize/Chung-khoan/TOP/2009/Top100/" class="BoxLink">Năm 2009</A></TD>
+<TD bgColor=#ffffff class="BoxLink" align="center"> <A href="/Customize/Chung-khoan/TOP/2009/Top50/" class="BoxLink">Năm 2009</A></TD>
+<TD bgColor=#ffffff class="Normal" align="center"> <A href="/gl/kinh-doanh/2010/01/3ba166ed/" class="BoxLink">Năm 2009</A></TD></TR>
+<TR>
+<TD bgColor=#ffffff class="BoxLink" align="center"> <A href="/gl/kinh-doanh/kinh-nghiem/2009/01/3ba08cca/" class="BoxLink">Năm 2008</A></TD>
+<TD bgColor=#ffffff class="BoxLink" align="center"> <A href="/gl/kinh-doanh/2009/01/3ba08d1c/" class="BoxLink">Năm 2008</A></TD>
+<TD bgColor=#ffffff class="BoxLink" align="center"> <A href="/gl/kinh-doanh/2009/01/3ba08429/" class="BoxLink">Năm 2008</A></TD></TR>
+<TR>
+<TD bgColor=#ffffff class="BoxLink" align="center"> <A href="/gl/kinh-doanh/2008/01/3b9fe9b8/" class="BoxLink">Năm 2007</A></TD>
+<TD bgColor=#ffffff class="BoxLink" align="center">  <A href="/gl/kinh-doanh/2008/01/3b9febb0/" class="BoxLink">Năm 2007</A> </TD>
+<TD class=BoxLink bgColor=#ffffff>
+ </TD></TR>
+<TR>
+<TD bgColor=#ffffff class="BoxLink" align="center"> <A href="/gl/kinh-doanh/2007/01/3b9f294c/" class="BoxLink">Năm 2006</A></TD>
+<TD bgColor=#ffffff class="BoxLink" align="center"> <A href="/gl/kinh-doanh/2007/01/3b9f2aad/" class="BoxLink">Năm 2006</A></TD>
+<TD class=BoxLink bgColor=#ffffff>
+ </TD></TR></TABLE></TD></TR></TABLE>
+<A href="/GL/Topic/?ID=5701" class="Normal"></A>
+<A href="/GL/Topic/?ID=5701" class="Normal"></A>
+<div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(6);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="box-middle1 list-item1 fl" id="ListItem6">
+		<script type="text/javascript" language="javascript">showlistitem(1, 6, 5);</script>
+	</div>	<div class="fl">
+		<div class="fl"><img src="/Images/Background/box-bottomleft1.gif" alt="" /></div>
+		<div class="box-bottomcenter1 fl">&nbsp;</div>
+		<div class="fl"><img src="/Images/Background/box-bottomright1.gif" alt="" /></div>
+	</div>
+</div>
+<div class="box-item">
+<div class="list-item-header fl">
+	<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+	<div class="folder-active2 fl">
+		<script type="text/javascript" language="javascript">writeListItemTitle(8);</script>
+	</div>
+	<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+	<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+</div>
+<div class="box-middle1 list-item fl" id="ListItem8">
+	<script type="text/javascript" language="javascript">showlistitem(2, 8, 4);</script>
+</div>
+	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+<div class="box-item">
+<div class="list-item-header fl">
+	<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+	<div class="folder-active2 fl">
+		<script type="text/javascript" language="javascript">writeListItemTitle(98);</script>
+	</div>
+	<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+	<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+</div>
+<div class="box-middle1 list-item fl" id="ListItem98">
+	<script type="text/javascript" language="javascript">showlistitem(2, 98, 5);</script>
+</div>
+	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+<div class="box-item">
+<div class="list-item-header fl">
+	<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+	<div class="folder-active2 fl">
+		<script type="text/javascript" language="javascript">writeListItemTitle(97);</script>
+	</div>
+	<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+	<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+</div>
+<div class="box-middle1 list-item fl" id="ListItem97">
+	<script type="text/javascript" language="javascript">showlistitem(2, 97, 5);</script>
+</div>
+	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+<div class="box-item">
+	<style type="text/css">
+		.headerR{ background: url(/images/CareerLink/Hot/headerR.gif) top left;height:19px;width:4px;float:left;}
+		.boderTB{ background: url(/images/CareerLink/Hot/boderTB.gif) repeat-x top left; width:292px;float:left;height:19px;}
+		.boderTB h2{color:#FFFFFF;font-size:12px;font-weight:bold;margin:0px;padding-left:5px;padding-top:2px;}
+		.boderTB a{text-decoration:none; color:#FFFFFF}
+		.headerL{ background: url(/images/CareerLink/Hot/headerL.gif) top left;height:19px;width:4px;float:left;}
+
+		.BoderR{ background: url(/images/CareerLink/Hot/BoderR.gif) repeat-y top left;width:4px;float:left;}
+		.BoderLR{ width:292px;float:left;margin-right:4px;margin-left:4px;}
+		.BoderL{ background: url(/images/CareerLink/Hot/BoderL.gif) repeat-y top right;float:left;}
+		.BoderLR span{font-size:12px;font-weight:bold; padding:0px 8px 0px 8px;}
+		.BoderLR span a{text-decoration: none;color:#ec6720;}
+
+		.FooterR{ background: url(/images/CareerLink/Hot/footerR.gif) no-repeat bottom left;height:5px;width:4px;float:left;}
+		.FooterBT{ background: url(/images/CareerLink/Hot/footerBT.gif) repeat-x bottom left; width:292px;float:left;height:5px;}
+		.FooterL{ background: url(/images/CareerLink/Hot/footerL.gif) no-repeat bottom left;height:5px;width:4px;float:left;}
+
+		.FooterA{ background: url(/images/CareerLink/Hot/footerA.gif.gif)  no-repeat bottom left; width:292px;float:left;height:5px;}
+
+		.boderLR_Content{margin:4px;padding:10px;}
+		.boderLR_Content_Logo{background: url(/images/CareerLink/Hot/Logo_work.gif) bottom left no-repeat;height:22px;padding:5px 0px 5px 0px; }		
+		.space_footer{padding:2px 0px 2px 0px;}
+	</style>
+	<div style="width:300px; float: left;background: url(/images/CareerLink/Hot/footerA.gif) no-repeat bottom left;">
+		<div>
+			<div class="headerR"></div>
+			<div class="boderTB">
+				<h2><a target="_blank" href="http://www.careerlink.vn">Việc làm hấp dẫn</a></h2>
+			</div>
+			<div class="headerL"></div>		
+		</div>
+		<div style="width:300px; float: left;margin-bottom:3px;">
+			<div class="BoderR">
+				<div class="BoderL">
+					<div class="BoderLR">
+						<table style="width:292px;">
+							<tr>
+	<td valign="top" style="padding-right: 3px;"><img style="padding-top:2px" src="/images/CareerLink/Hot/iconNext.gif"></td>
+	<td>
+		<a style="text-decoration:none; color:#545454; font-weight:bold; font-family: Arial; font-size:8.5pt" target="_blank" href="http://www.careerlink.vn/tim-viec-lam/interior-leader/129207/">INTERIOR LEADER</a>
+		<span style="color:#ec6720; font-weight:normal; font-family: Arial; font-size:8.5pt">
+		<i><a target="_blank" href="http://www.careerlink.vn/viec-lam-cua/graham-taylor-designs-co-ltd/20997/">Graham Taylor Designs Co. Ltd</a></i></span>
+	</td>
+</tr><tr>
+	<td valign="top" style="padding-right: 3px;"><img style="padding-top:2px" src="/images/CareerLink/Hot/iconNext.gif"></td>
+	<td>
+		<a style="text-decoration:none; color:#545454; font-weight:bold; font-family: Arial; font-size:8.5pt" target="_blank" href="http://www.careerlink.vn/tim-viec-lam/factory-contact-person/134113/">Factory Contact Person</a>
+		<span style="color:#ec6720; font-weight:normal; font-family: Arial; font-size:8.5pt">
+		<i><a target="_blank" href="http://www.careerlink.vn/viec-lam-cua/stargo-enterprises-co-ltd-/40504/">STARGO Enterprises Co. Ltd</a></i></span>
+	</td>
+</tr><tr>
+	<td valign="top" style="padding-right: 3px;"><img style="padding-top:2px" src="/images/CareerLink/Hot/iconNext.gif"></td>
+	<td>
+		<a style="text-decoration:none; color:#545454; font-weight:bold; font-family: Arial; font-size:8.5pt" target="_blank" href="http://www.careerlink.vn/tim-viec-lam/nhan-vien-san-xuat/130748/">Nhân Viên Sản Xuất</a>
+		<span style="color:#ec6720; font-weight:normal; font-family: Arial; font-size:8.5pt">
+		<i><a target="_blank" href="http://www.careerlink.vn/viec-lam-cua/nissho-precision-viet-nam/40391/">Nissho Precision Viet Nam</a></i></span>
+	</td>
+</tr>					
+						</table>	
+						<a href="http://www.careerlink.vn/" target="_blank"><img height="22px" border="0px" style="padding:5px 0px 5px 0px;" alt="viec lam & tuyen dung nhan su" title="viec lam & tuyen dung nhan su" src="/images/CareerLink/Hot/Logo_work.gif" /></a>
+						<div class="space_footer"></div>
+					</div>	
+				</div>
+			</div>
+		</div>
+	</div>
+</div> 
+<A href="/GL/Topic/?ID=5701" class="Normal"><IMG border=0 width="299" height="107" src="/Files/Folder/00/03/thue1.jpg"></A>
+	</div>
+	
+	<div class="content-right fl">		
+		<div class="adv-header">
+			<div class="adv-title fl">				
+				<a href="http://www.fptad.com/lienhe.aspx" target="_blank"><img style="border:0" src="/Images/Background/adv-title.gif" alt="Lien he quang cao" /></a>				
+			</div>
+		</div>
+		<div id="adgroup"  style="display:none;clear:both;"></div>
+	<Script type="text/javascript" language="JavaScript">Poly_ShowAdScrollBanner(2);</Script>
+				</div>
+				
+			</div>
+			
+			<div id="footer">
+				
+				<script type="text/javascript">Poly_ShowFooterBanner();</script>										
+				
+                <div class="fmenu-top">
+                    <div class="fl icone-footer"></div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-home" rel="nofollow" onclick="javascript:setAsHomePage(this)"><span></span>Đặt làm trang chủ</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ct" rel="nofollow" class="link-contact" href="/ContactUs/?id=kinhdoanh@vnexpress.net"><span></span>Liên hệ tòa soạn</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ads" rel="nofollow" class="link-contact" href="http://ads.fpt.net/lienhe.aspx" target="_blank"><span></span>Liên hệ quảng cáo</a>
+                    </div>					
+                    <div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">						
+						
+                        <span class="lnkf-hl">Đường dây nóng: 0123.888.0123 (HN) - 0129.233.3555 (TP HCM)<span></span></span>
+						
+                    </div>
+					<div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">
+						 <a rel="nofollow" class="link-contact" href="http://fptad.com/qc/v/vnexpress/2011/phongvienthethao/" target="_blank"><img class="img-search" src="/Images/person.gif" alt="" style="vertical-align:top;" /> VnExpress tuyển dụng </a>
+					</div>					
+                </div>
+                <div class="fmenu-bottom">	
+					<a href="/" class="link-footermenu">Trang chủ</a><i class="sepaf"></i>
+					<a href="/gl/xa-hoi/" class="link-footermenu">Xã hội</a><i class="sepaf"></i>
+					<a href="/gl/the-gioi/" class="link-footermenu">Thế giới</a><i class="sepaf"></i>
+					<a href="/gl/kinh-doanh/" class="link-footermenu">Kinh doanh</a><i class="sepaf"></i>
+					<a href="/gl/van-hoa/" class="link-footermenu">Văn hóa</a><i class="sepaf"></i>
+					<a href="/gl/the-thao/" class="link-footermenu">Thể thao</a><i class="sepaf"></i>
+					<a href="/gl/phap-luat/" class="link-footermenu">Pháp luật</a><i class="sepaf"></i>
+					<a href="/gl/doi-song/" class="link-footermenu">Ðời sống</a><i class="sepaf"></i>
+					<a href="/gl/khoa-hoc/" class="link-footermenu">Khoa học</a><i class="sepaf"></i>
+					<a href="/gl/vi-tinh/" class="link-footermenu">Vi tính</a><i class="sepaf"></i>
+					<a href="/gl/oto-xe-may/" class="link-footermenu">Ôtô - Xe máy</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/" class="link-footermenu">Bạn đọc viết</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/tam-su/" class="link-footermenu">Tâm sự</a><i class="sepaf"></i>
+					<a href="/user/rao-vat/" class="link-footermenu">Rao vặt</a><i class="sepaf"></i>
+					<a href="/gl/cuoi/" class="link-footermenu">Cuời</a>
+					
+                    <script type="text/javascript" language="javascript">
+						//writeFooterMenu();
+						Poly_ShowFixFloatBanner(0);Poly_ShowFixFloatBanner(2);Poly_ShowFixFloatBanner(1);Poly_ShowFixFloatBanner(3);
+						Poly_ShowSlideBanner();Poly_ShowBallonBanner();						
+					</script>
+					
+                    <script type="text/javascript" language="javascript">Poly_ShowPopupUnder();</script>
+					
+                </div>
+                <div class="copyright">
+                    <p><label style="font:bold 11px arial; color:#686E7A;">&#169;&nbsp;Copyright 1997-2011 VnExpress.net</label>, <label style="font:normal 11px arial; color:#686E7A;">All rights reserved <a rel="nofollow" href="/ContactUs/?id=webmaster@vnexpress.net">Contact us</a> - <label onClick="ContactUs()" style="text-decoration:underline;cursor:pointer">Th&#244;ng tin T&#242;a so&#7841;n</label></label</p>
+<p><label style="font:normal 11px arial; color:#686E7A;">&#174;&nbsp;VnExpress gi&#7919; b&#7843;n quy&#7873;n n&#7897;i dung tr&#234;n website n&#224;y.</lable></p>
+
+                </div>
+            </div>
+			</div>
+		</div>		
+		</div>		
+		<script type="text/javascript">
+		<!--//<![CDATA[
+			cpms_Ap.init();
+			cpms_Ap.typ = 1;
+			cpms_Ap.dof = 0;
+			cpms_Ap.ste = 1;
+			cpms_Ap.reg = 0;
+			cpms_Ap.fol = 3;
+			cpms_Ap.pos = 38;
+			cpms_Ap.url = encodeURIComponent(document.location.href);
+			cpms_Ap.show();
+		//]]>-->
+		</script>
+		  	
+		<div style="float:left;">
+			<script type="text/javascript" language="javasript">
+				var strHr = location.href;				
+				if(strHr.substr(0,21)=='http://vnexpress.net/' || strHr.substr(0,27)=='http://ebank.vnexpress.net/' || strHr.substr(0,28)=='http://nhadep.vnexpress.net/'){
+					document.write('<img src="http://180.148.142.10/website/vnexpress/Res.asp?vid=F89BBE91-F656-4F9D-91A3-334E6EAF2258&ovt=0&vsd=0&pfd=3&pid=1000594924&ref=&iTime=11/3/2011 3:10:04 PM" border=0>');
+					
+				}
+			</script>
+		</div>
+		<script type="text/javascript">
+	var SERVER_ID = 6;
+</script>
+
+
+		<!--<script type="text/javascript" language="javascript" src="/Library/Common/rss.js"></script>-->
+		<script type="text/javascript" src="http://180.148.142.152/Library/VNELibraryNew.js"></script>
+
+<script type="text/javascript" src="http://180.148.142.152/Library/AdLibNew.js"></script>
+		
+<script src="http://180.148.142.152/Vals/1/0/3/Val.js" type="text/javascript"></script>	
+		
+<script type="text/javascript" language="javaScript">checkCookie();</script>
+
+<script type="text/javascript" language="javaScript" src="http://180.148.142.153/script/libMobile.js"></script>     
+
+
+<script type="text/javascript">      
+    Poly_ShowAds();
+</script>
+	
+	</body>			
+</html>

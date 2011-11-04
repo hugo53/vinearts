@@ -1,0 +1,306 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="ctl00_Head1"><title>
+ Gỡ rối quá trình nâng cấp iOS 5 - Thủ thuật - Dân trí
+</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta content="INDEX,FOLLOW" name="robots" /><meta id="ctl00_description" name="DESCRIPTION" content="Dân trí" /><meta name="copyright" content="Công ty cổ phần Truyền Thông Việt Nam - VCCorp" /><meta name="author" content="Công nghệ ChannelVN" /><meta http-equiv="audience" content="General" /><meta name="resource-type" content="Document" /><meta name="distribution" content="Global" /><meta name="revisit-after" content="2 days" /><meta name="GENERATOR" content="Công nghệ ChannelVN" /><meta content="Microsoft Visual Studio 8.0" name="GENERATOR" /><meta content="C#" name="CODE_LANGUAGE" /><meta content="JavaScript" name="vs_defaultClientScript" /><meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema" /><link rel="Shortcut Icon" href="/App_Themes/Default/Images/favico.ico" type="image/x-icon" /><link href="http://dantri3.vcmedia.vn/App_Themes/Default/Styles/main_201110042.css" rel="stylesheet" type="text/css" />
+ <script type="text/javascript" src="http://dantri3.vcmedia.vn/Scripts/dantri_20111026.js"></script>
+ <script type="text/javascript">var log_website = 'dantri_reporting';</script>
+ <script type="text/javascript" src="http://dantri3.vcmedia.vn/Scripts/footer_20_01_2011_1.js"></script>
+ <!--[if IE 9]><link rel="stylesheet" href="http://dantri3.vcmedia.vn/App_Themes/Default/Styles/ie9.css" type="text/css" /><![endif]-->
+ <script type="text/javascript">
+  var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-657017-2']);_gaq.push(['_trackPageview']);(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();
+ </script>
+<meta id="ctl00_metaDes" name="description" content="(D&amp;#226;n tr&amp;#237;) - C&amp;#243; kh&amp;#244;ng &amp;#237;t người d&amp;#249;ng gặp lỗi sau khi n&amp;#226;ng cấp thiết bị của m&amp;#236;nh l&amp;#234;n iOS 5, hay thậm ch&amp;#237; kh&amp;#244;ng thể thực hiện qu&amp;#225; tr&amp;#236;nh n&amp;#226;ng cấp. Dưới đ&amp;#226;y l&amp;#224; một v&amp;#224;i giải ph&amp;#225;p để khắc phục vấn đề n&amp;#224;y." /></head>
+<body>
+ <form name="aspnetForm" method="post" action="/c243/s243-527785/go-roi-qua-trinh-nang-cap-ios-5.htm" id="aspnetForm">
+<div>
+<input type="hidden" name="hidZoneID" id="hidZoneID" value="243" />
+<input type="hidden" name="hidParentZoneID" id="hidParentZoneID" value="243" />
+<input type="hidden" name="FocusMenu" id="FocusMenu" value="243" />
+<input type="hidden" name="hidDistID" id="hidDistID" value="527785" />
+<input type="hidden" name="hidCatID" id="hidCatID" value="243" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMzcxNDc0OTJkZA==" />
+</div>
+
+ <script type="text/javascript" language='javascript'>DantriLog('hidDistID','hidTitle','hidCatID','hidCatName');</script>
+ 
+<div class="header">
+ <div class="clearfix" style="position: relative;">
+ <a href="/" class="logo"><h1>Báo điện tử của báo khuyến học &amp; Dân Trí</h1></a>
+ <div id="div_gdpda" class="div_gdpda"><a href="/?removecookie=true">Giao diện PDA</a></div>
+ <div id="searchbox" class="searchbox">
+  <div class="clearfix">
+ <input type="text" onkeypress="return BBEnterPress();" name="q" id="txtData"/>
+ <input type="submit" value="Tìm kiếm" class="btn" onclick="BBSearch(); return false;" onsubmit="BBSearch(); return false;"/>
+ <input type="hidden" id="dantri" value="1" />
+  </div>
+ </div>
+ <div class="links">
+  <a class="icon-game" href="http://muachung.vn/" target="_blank">Mua chung</a>
+  <a class="icon-ads" href="/c702s702/blog/trang-1.htm">Blog</a>
+  <a class="icon-humane" href="/c167/tam-long-nhan-ai.htm">Tấm lòng nhân ái</a>
+  <a class="icon-tuanbao2" href="http://baogiay.dantri.com.vn" target="_blank">Tuần báo</a>
+  <a class="icon-bussiness" href="http://enbac.com">Mua bán</a>
+  <a class="icon-bexinh" href="http://bexinh.dantri.com.vn" target="_blank">Bé xinh</a>
+  <a class="icon-forum" href="/c673/diendan/trang-1.htm">Diễn đàn dân trí</a>
+  <a class="icon-tienganh" href="http://www.dtinews.vn" target="_blank">English</a>
+ </div>
+ </div>
+</div>
+<div class="top-ads">
+ <div style="margin: 0pt auto; width: 980px;">
+ <script type="text/javascript" src="http://admicro1.vcmedia.vn/ads_codes/ads_box_221.ads"></script>
+ </div>
+</div>
+<div class="nav-wrap">
+ <div class="clearfix"><ul class="nav">
+ <li class="menu-home"><a id="vmenu_home" href="/"><span><b></b></span></a></li>
+ <li><a id="vmenu_728" href="/c728/sukien.htm"><span>Sự kiện</span></a></li>
+ <li><a id="vmenu_20" href="/c20/xa-hoi.htm"><span>Xã hội</span></a></li>
+ <li><a id="vmenu_36" href="/c36/thegioi.htm"><span>Thế giới</span></a></li>
+ <li><a id="vmenu_26" href="/c26/thethao.htm"><span>Thể thao</span></a></li>
+ <li><a id="vmenu_25" href="/c25/giaoduc.htm"><span>Giáo dục</span></a> </li>
+ <li><a id="vmenu_167" href="/c167/tamlongnhanai.htm"><span>Nhân ái</span></a></li>
+ <li><a id="vmenu_76" href="/c76/kinhdoanh.htm"><span>Kinh doanh</span></a></li>
+ <li><a id="vmenu_23" href="/c23/giaitri.htm"><span>Văn hóa</span></a></li>
+ <li><a id="vmenu_170" href="/c170/skphapluat.htm"><span>Pháp luật</span></a></li>
+ <li><a id="vmenu_135" href="/c135/nhipsongtre.htm"><span>Nhịp sống trẻ</span></a></li>
+ <li><a id="vmenu_130" href="/c130/tinhyeu-gioitinh.htm"><span>Tình yêu</span></a></li>
+ <li><a id="vmenu_7" href="/c7/suckhoe.htm"><span>Sức khỏe</span></a></li>
+ <li><a id="vmenu_119" href="/c119/sucmanhso.htm"><span>Sức mạnh số</span></a></li>
+ <li><a id="vmenu_111" href="/c111/otoxemay.htm"><span>Ô tô - Xe máy</span></a></li>
+ <li><a id="vmenu_132" href="/c132/chuyenla.htm"><span>Chuyện lạ</span></a></li>
+ <li class="last"><a id="vmenu_202" href="/c202/diendanbandoc.htm"><span>Bạn đọc</span></a></li>
+ </ul></div>
+ 
+<div class="subnav">
+ <ul class="clearfix" id="ul_submenu"> 
+  
+ </ul> 
+ <div class="fr">
+ <a id="ctl00_Header1_SubMenu1_lnkRss" class="icon-rss2" href="/thuthuat.rss"></a>
+ </div> 
+</div>
+<script type="text/javascript" language="javascript">
+ if(window.location.href.indexOf("/c135") > 0)
+ {
+ var ul_submenu = document.getElementById("ul_submenu");
+ ul_submenu.innerHTML = ul_submenu.innerHTML + "<li><a href='http://missteen.dantri.com.vn'>Miss Teen</a></li>";
+ }
+ 
+</script> 
+</div>
+
+<script type="text/javascript" language="javascript"> 
+ 
+ if(getCookie("browser") == "web")
+ {
+ document.getElementById("div_gdpda").style.display = "block";
+ document.getElementById("searchbox").style.marginLeft = "10px";
+ }
+ CheckFocusMenu();
+</script>
+ 
+<div class="wrapper">
+ <div class="container">
+ <div class="clearfix">
+  <div class="fl wid470" >
+  <div id="ctl00_IDContent_Tin_Chi_Tiet"><div id="ctl00_IDContent_ctl00_divContent">
+ <div class="box26"><span class="fr fon7 mr2">Thứ Bẩy, 15/10/2011 - 01:22</span></div>
+ <p class="detail_subtitle"></p>
+ <div class="fon31 mt1">Gỡ rối quá trình nâng cấp iOS 5</div>
+ <div class="fon33 mt1">(Dân trí) - Có không ít người dùng gặp lỗi sau khi nâng cấp thiết bị của mình lên iOS 5, hay thậm chí không thể thực hiện quá trình nâng cấp. Dưới đây là một vài giải pháp để khắc phục vấn đề này.</div>
+ <div class="fon34 mt3 mr2 fon43"><DIV>Ngay khi iOS 5 vừa được Apple trình làng và giới thiệu, <SPAN style="FONT-STYLE: italic">Dân trí</SPAN> đã giới thiệu với bạn đọc <SPAN style="FONT-WEIGHT: bold"><A href="http://dantri.com.vn/c119/s119-527127/huong-dan-nang-cap-ios-5-cho-cac-thiet-bi-cua-apple.htm">cách thức để cập nhật thiết bị của mình lên phiên bản hệ điều hành mới nhất</A></SPAN>. Tuy nhiên, không ít người dùng đã không thể cập nhật lên phiên bản mới, hoặc gặp lỗi sau khi nâng cấp thành công.</DIV>
+<DIV><BR></DIV>
+<DIV>Nếu gặp vấn đề trong quá trình nâng cấp theo hướng dẫn ở trên, dưới đây là một vài giải pháp thay thế để giúp bạn giải quyết tình huống.</DIV>
+<DIV><BR></DIV>
+<DIV><SPAN style="FONT-STYLE: italic; FONT-WEIGHT: bold">Lưu ý: Sử dụng cách thức này sẽ xóa toàn bộ các ứng dụng và dữ liệu trên thiết bị, đồng thời các thiết lập của thiết bị sẽ khôi phục lại về trạng thái ban đầu (như khi mới xuất xưởng). Do vậy, bạn hãy đãm bảo đã sao lưu toàn bộ thiết lập của thiết bị trước khi thực hiện (cách thức sao lưu và phục hồi dữ liệu sẽ được hướng dẫn ở cuối bài).</SPAN></DIV>
+<DIV><SPAN style="FONT-STYLE: italic; FONT-WEIGHT: bold"><BR></SPAN></DIV>
+<DIV style="TEXT-ALIGN: center"><SPAN style="FONT-STYLE: italic; FONT-WEIGHT: bold">
+<DIV><IMG style="MARGIN: 5px" align=center src="http://dantri4.vcmedia.vn/tI0YUx18mEaF5kMsGHJ/Image/2011/10/iOS-5-upgrade-0_80e4a.jpg" width=340 _fl=""></DIV><BR></SPAN></DIV>
+<DIV><SPAN style="FONT-WEIGHT: bold" class=Apple-style-span>Cách 1: Download trực tiếp firmware từ máy chủ Apple (không thông qua iTunes)</SPAN></DIV>
+<DIV><BR></DIV>
+<DIV>Với lượng người dùng đông đảo và háo hức để được trải nghiệm iOS 5, một trong những vấn đề lớn nhất mà người dùng gặp phải đó là quá trình download và nâng cấp iOS 5 diễn ra khá chậm và mất nhiều thời gian, thậm chí không thể kết nối máy chủ của Apple để download.</DIV>
+<DIV><BR></DIV>
+<DIV>Để khắc phục vấn đề này, bạn có thể download trực tiếp file firmware cập nhật dành cho các sản phẩm của Apple tại <SPAN style="FONT-WEIGHT: bold"><A href="http://soft4all.info/free-software-download/download-ios-5-firmware-directly-from-apple%E2%80%99s-servers/">đây</A></SPAN> (download phiên bản tương ứng cho thiết bị bạn đang sở hữu).</DIV>
+<DIV><BR></DIV>
+<DIV><SPAN style="FONT-STYLE: italic">Lưu ý: Nếu máy tính đang sử dụng phần mềm hỗ trợ download Internet Download Manager (IDM), khi download file firmware này, IDM sẽ tự động chuyển đổi định dạng file thành.zip. Trong trường hợp này, bạn chuyển đổi lại định dạng của file về .ipsw, hoặc sử dụng cách download thông thường mà không sử dụng IDM.</SPAN></DIV>
+<DIV><BR></DIV>
+<DIV style="TEXT-ALIGN: center">
+<DIV><IMG style="MARGIN: 5px" align=center src="http://dantri4.vcmedia.vn/tI0YUx18mEaF5kMsGHJ/Image/2011/10/iOS-5-upgrade-1_2be8c.JPG" width=450 _fl=""></DIV><BR></DIV>
+<DIV>Sau khi hoàn tất download, kết nối thiết bị với máy tính, rồi kích hoạt phần mềm iTunes </DIV>
+<DIV><BR></DIV>
+<DIV><SPAN style="FONT-STYLE: italic">Lưu ý: bạn phải sử dụng iTunes phiên bản mới nhất. Nếu chưa có, download tại <SPAN style="FONT-WEIGHT: bold"><A href="http://soft4all.info/free-software-download/itunes-your-music-movies-tv-shows-apps-and-more/">đây</A></SPAN> (phiên bản dành cho Windows 32-bit và 64-bit) hoặc tại <SPAN style="FONT-WEIGHT: bold"><A href="http://htwares.com/mac/audio-video/other/apple-itunes/">đây</A></SPAN> (phiên bản dành cho Mac OS)</SPAN></DIV>
+<DIV><BR></DIV>
+<DIV>Từ giao diện iTunes, nhấn phím <SPAN style="FONT-STYLE: italic">Alt </SPAN>(đối với máy tính sử dụng Windows) hoặc phím <SPAN style="FONT-STYLE: italic">Options</SPAN> (đối với máy tính Mac) trên bàn phím và nhấn vào nút <SPAN style="FONT-STYLE: italic">Restore </SPAN>tại mục <SPAN style="FONT-STYLE: italic">Devices</SPAN> trên giao diện của iTunes. </DIV>
+<DIV><BR></DIV>
+<DIV>Sau đó, từ hộp thoại hiện ra, tìm đến vị trí lưu file mà bạn đã download được ở trên rồi chọn file firmware đã download được. Quá trình cập nhật và nâng cấp iOS 5 sẽ được diễn ra tiếp theo.</DIV>
+<DIV><BR></DIV>
+<DIV><SPAN style="FONT-WEIGHT: bold">Cách 2: Nâng cấp thiết bị lên iOS 5 thông qua chế độ DFU</SPAN></DIV>
+<DIV><BR></DIV>
+<DIV>Nếu sử dụng cách thức cập nhật trực tiếp thông qua iTunes như đã hướng dẫn ở trên vẫn không thành công, bạn có thể thử nghiệm nâng cấp hệ điều hành của các thiết bị sử dụng iOS thông qua chế độ DFU.</DIV>
+<DIV><BR></DIV>
+<DIV><SPAN style="FONT-WEIGHT: bold">DFU</SPAN> (Device Firmware Upgrade) là chế độ cho phép thay đổi firmware cho thiết bị sử dụng iOS, theo đó, bạn có thể nâng cấp hoặc hạ cấp phiên bản firmware trên thiết bị sử dụng iOS. Đồng nghĩa với việc bạn cũng có thể nâng cấp thiết bị lên iOS 5 thông qua chế độ này.</DIV>
+<DIV><BR></DIV>
+<DIV>Để sử dụng chế độ này, việc đầu tiên bạn vẫn phải download những file firmware tương ứng đã giới thiệu ở trên. Tiếp theo, thực hiện theo các bước sau để truy cập vào chế độ DFU của thiết bị:</DIV>
+<DIV><BR></DIV>
+<DIV>- Kết nối thiết bị với máy tính thông qua cáp kết nối. Kích hoạt phần mềm iTunes trên máy tính.</DIV>
+<DIV><BR></DIV>
+<DIV>- Nhấn đồng thời cả nút power (nút nguồn tắt/mở máy) và nút Home cho đến khi thiết bị tắt.</DIV>
+<DIV><BR></DIV>
+<DIV>- Sau khi thiết bị đã tắt, nhanh chóng bỏ tay ra khỏi nút power nhưng vẫn tiếp tục nhấn nút Home trong khoảng 10 giây. </DIV>
+<DIV><BR></DIV>
+<DIV>- Tiếp tục giữ nút Home cho đến khi iTunes thông báo rằng thiết bị đã kết nối và đang ở chế độ khôi phục (Recovery Mode).</DIV>
+<DIV><BR></DIV>
+<DIV style="TEXT-ALIGN: center"><SPAN style="FONT-FAMILY: Tahoma; FONT-SIZE: 10pt">
+<DIV><IMG style="MARGIN: 5px" align=center src="http://dantri4.vcmedia.vn/tI0YUx18mEaF5kMsGHJ/Image/2011/10/iOS-5-upgrade-2_17e90.jpg" width=450 _fl=""></DIV></SPAN></DIV>
+<DIV style="TEXT-ALIGN: center"><SPAN style="FONT-FAMILY: Tahoma; FONT-SIZE: 10pt">Hộp thoại của iTunes hiện ra thông báo thiết bị kết nối đang ở chế độ khôi phục</SPAN></DIV>
+<DIV><BR></DIV>
+<DIV>- Cuối cùng, nhấn nút <SPAN style="FONT-STYLE: italic">Restore </SPAN>trên mục <SPAN style="FONT-STYLE: italic">Devices</SPAN> của iTunes, sau đó tìm đến file firmware đã download được và thực hiện theo các bước hướng dẫn.</DIV>
+<DIV><BR></DIV>
+<DIV><SPAN style="FONT-STYLE: italic">Lưu ý: khi thiết bị ở chế độ DFU, màn hình sẽ hoàn toàn màu đen. Trong trường hợp trên màn hình xuất hiện logo của Apple, hay logo đang kết nối với iTunes hay bất kỳ thông điệp nào, đồng nghĩa với việc bạn đang không ở chế độ DFU, mà đang ở chế độ khôi phục thông thường. Trong trường hợp có bất kỳ chi tiết nào xuất hiện trên màn hình, bạn hãy thực hiện lại các bước như hướng dẫn để truy cập vào chế độ DFU.</SPAN></DIV>
+<DIV><SPAN style="FONT-STYLE: italic"><BR></SPAN></DIV>
+<DIV>Để dễ tưởng tượng, bạn có thể thực hiện theo hướng dẫn của đoạn video dưới đây để truy cập vào chế độ DFU trên thiết bị:</DIV>
+<DIV><BR></DIV>
+<DIV style="TEXT-ALIGN: center"><IFRAME height=259 src="http://www.youtube.com/embed/ofpinyGlQ8I?rel=0" frameBorder=0 width=450 allowfullscreen=""></IFRAME></DIV>
+<DIV><BR></DIV>
+<DIV><SPAN style="FONT-WEIGHT: bold">Lưu ý: quá trình cập nhật và nâng cấp iOS 5 đôi khi không thành công trong những lần tiến hành đầu tiên, nhưng theo nhiều người dùng trên các trang web và diễn đàn công nghệ, họ đã thực hiện thành công sau 1 vài lần. Do vậy, nếu bạn gặp lỗi trong quá trình nâng cấp hoặc không nâng cấp thành công trong những lần đầu tiên, hãy thử lại 1 vài lần trước khi quyết định… bỏ cuộc.</SPAN></DIV>
+<DIV><BR></DIV>
+<DIV><SPAN style="FONT-WEIGHT: bold">Hướng dẫn sao lưu và phục hồi dữ liệu trên thiết bị sử dụng iOS:</SPAN></DIV>
+<DIV><BR></DIV>
+<DIV><SPAN style="FONT-STYLE: italic">Thực hiện theo các bước sau để sao lưu dữ liệu trên thiết bị iOS:</SPAN></DIV>
+<DIV><BR></DIV>
+<DIV>- Kết nối thiết bị với máy tính. Kích hoạt phần mềm iTunes.</DIV>
+<DIV><BR></DIV>
+<DIV>- Kích chuột phải vào thiết bị của bạn tại mục Devices từ menu bên trái, chọn Back Up. Quá trình sẽ tự động sao lưu dữ liệu trên thiết bị sử dụng.</DIV>
+<DIV><BR></DIV>
+<DIV><SPAN style="FONT-STYLE: italic">Sau khi nâng cấp thiết bị lên iOS 5, bạn thực hiện theo các bước sau để khôi phục lại dữ liệu đã sao lưu:</SPAN></DIV>
+<DIV><BR></DIV>
+<DIV>- Kết nối thiết bị với máy tính, kích hoạt phần mềm iTunes.</DIV>
+<DIV><BR></DIV>
+<DIV>- Kích chuột phải vào thiết bị hiện ra tại mục Devices từ menu bên trái, chọn Restore from Backup để phục hồi lại những dữ liệu đã được iTunes sao lưu từ trước.</DIV>
+<DIV><BR></DIV>
+<DIV>Mặc định, iTunes sẽ sao lưu toàn bộ các dữ liệu trên thiết bị, bao gồm các thiết lập của máy, tin nhắn, dữ liệu… </DIV>
+<DIV><BR></DIV>
+<DIV><SPAN style="FONT-STYLE: italic">Trong trường hợp cần phục hồi lại các dữ liệu như nhạc, phim ảnh, ứng dụng… </SPAN>trên thiết bị, bạn kết nối thiết bị với máy tính, nhấn chọn thiết bị tại Devices ở menu bên trái. Bây giờ, ở mục bên phải, bạn nhấn nút Sync ở góc dưới bên phải. Chờ cho đến khi quá trình phục hồi dữ liệu hoàn tất.</DIV>
+<DIV><BR></DIV>
+<DIV style="TEXT-ALIGN: center">
+<DIV><IMG style="MARGIN: 5px" align=center src="http://dantri4.vcmedia.vn/tI0YUx18mEaF5kMsGHJ/Image/2011/10/iOS-5-upgrade-3_33b61.jpg" width=450 _fl=""></DIV><BR></DIV>
+<DIV><SPAN style="FONT-WEIGHT: bold">Khôi phục các ứng dụng nếu bị mất trên iOS 5 bằng iCloud:</SPAN></DIV>
+<DIV><BR></DIV>
+<DIV>Trong một vài trường hợp, sau khi cập nhật thành công lên iOS 5 và tiến hành quá trình khôi phục lại dữ liệu, mọi dữ liệu trên máy như danh sách liên lạc, tin nhắn… đều phục hồi thành công, tuy nhiên các ứng dụng cài đặt trên máy lại biến mất hoàn toàn.</DIV>
+<DIV><BR></DIV>
+<DIV>Nếu chẳng may rơi vào trường hợp này, bạn có thể khôi phục lại các ứng dụng đã mua từ App Store bằng công cụ iCloud, công cụ “mới tinh” trên iOS 5 mà không cần phải tốn tiền mua lại chúng.</DIV>
+<DIV><BR></DIV>
+<DIV><SPAN style="FONT-STYLE: italic">Thực hiện theo các bước sau để thực hiện điều này:</SPAN></DIV>
+<DIV><BR></DIV>
+<DIV>- Truy cập vào mục App Store trên thiết bị. </DIV>
+<DIV><BR></DIV>
+<DIV>- Nhấn vào nút Updates. Tại đây, sẽ có thêm tùy chọn “Purchased”.</DIV>
+<DIV><BR></DIV>
+<DIV style="TEXT-ALIGN: center">
+<DIV><IMG style="MARGIN: 5px" align=center src="http://dantri4.vcmedia.vn/tI0YUx18mEaF5kMsGHJ/Image/2011/10/iOS-5-upgrade-4_50176.jpg" width=450 _fl=""></DIV><BR></DIV>
+<DIV>- Tại đây, bạn sẽ thấy toàn bộ các ứng dụng mà mình đã mua và cài đặt từ trước. Bạn có thể download lại những ứng dụng này và cài đặt lên thiết bị của mình mà không cần tốn tiền để mua lại chúng.</DIV>
+<DIV><BR></DIV>
+<DIV><SPAN style="FONT-STYLE: italic">Trên đây là một vài cách thức khác để bạn có thể nâng cấp thiết bị của mình lên phiên bản mới nhất của iOS, cũng như một vài lưu ý trước khi tiến hành. Hy vọng, với những bước hướng dẫn này, bạn sẽ sớm có cơ hội trải nghiệm những tính năng mới nhất của iOS 5 trên thiết bị của mình.</SPAN></DIV>
+<DIV><BR></DIV>
+<DIV style="TEXT-ALIGN: right"><SPAN style="FONT-WEIGHT: bold">Phạm Thế Quang Huy</SPAN></DIV><input type='hidden' value='/c25s243/thuthuat/trang-1.htm' id='hidNextUsing'/></div>
+ <div style="text-align:center; padding-top:5px" id="div_tamlongnhanai"></div>
+ <div style="text-align:center; padding-top:5px"><script type="text/javascript" src="http://admicro1.vcmedia.vn/ads_codes/ads_box_230.ads"></script></div>
+ <div class="emailprint">
+ <ul>
+  <li><a href="javascript:;" onclick="share_facebook();" style="margin-right: 2px"><img src="http://dantri3.vcmedia.vn/App_Themes/Default/Images/facebook1.gif" alt="Share on Facebook" border="0" style="height:20px;padding-top:4px;vertical-align:top;width:20px"/> </a></li>
+  <li><a href="javascript:;" onclick="share_twitter();" style="margin-right: 2px"><img src="http://dantri3.vcmedia.vn/App_Themes/Default/Images/twitter1.gif" alt="Share on Twitter" border="0" style="height:20px;padding-top:4px;vertical-align:top;width:20px"/></a></li>
+  <li><a href="javascript:;" onclick="share_google();" style="margin-right: 2px"><img src="http://dantri3.vcmedia.vn/App_Themes/Default/Images/google1.gif" alt="Share on Google" border="0" style="height:20px;padding-top:4px;vertical-align:top;width:20px"/></a></li>
+  <li><a href="javascript:;" onclick="share_buzz();"><img src="http://dantri3.vcmedia.vn/App_Themes/Default/Images/buzz1.gif" alt="Share on Buzz" border="0" style="height:20px;padding-top:4px;vertical-align:top;width:20px"/></a></li>
+  <li><a class="dt-print" href="javascript:;" onclick="return OpenPrint();"><span>in</span></a></li>
+  <li><a class="dt-respond" href="javascript:;" onclick="ShowHideComment();return false;"><span>Xem phản hồi</span></a></li>
+  <li><a class="dt-respond" href="javascript:;" onclick="ShowHideSendComment();return false;"><span>Gửi phản hồi</span></a></li>
+ </ul>
+ </div>
+ <div class="neo-dtcontent" id="divComment" style="display: none;">
+ 
+ <input type='hidden' id='hidSendComment' value='http://comment.dantri.com.vn/default.aspx?newsid=334575'/><input type='hidden' id='hidViewComment' value='http://comment.dantri.com.vn/ListReplyComment.aspx?newsid=334575'/>
+ <iframe height="670" id="ifViewComment" frameborder="0" width="460" scrolling="no" class="IframeComment"></iframe>
+ </div>
+ <div class="neo-dtcontent" id="divSendComment" style="display: none;">
+ <iframe height="250" id="ifSendComment" frameborder="0" width="460" scrolling="no" class="IframeComment"></iframe>
+ </div>
+ <script type="text/javascript" language="javascript">ShowHideSendComment();</script>
+</div>
+<input type='hidden' value='Gỡ rối qu&#225; tr&#236;nh n&#226;ng cấp iOS 5' id='hidTitle'/><input type='hidden' value='Thủ thuật' id='hidCatName'/>
+<div id="ctl00_IDContent_ctl00_divEvent"></div></div>
+  <div id="ctl00_IDContent_divTinMoi">
+<div class="box20 mt5 clearfix">
+ <div class="fon40">Các bài mới</div>
+ <ul class="ul12 ml2 mt2 mb2">
+ <li ><a href="/c243/s243-532493/hoa-trang-cho-desktop-don-halloween.htm">“Hoá trang” cho desktop đón Halloween (30/10)</a> </li><li ><a href="/c243/s243-532416/chrome-15-chinh-thuc-khong-doi-thu.htm">Chrome 15 chính thức “không đối thủ” (29/10)</a> </li><li ><a href="/c243/s243-531437/bo-giao-dien-tuyet-dep-danh-cho-windows-7-don-halloween.htm">Bộ giao diện tuyệt đẹp dành cho Windows 7 đón Halloween (26/10)</a> </li><li ><a href="/c243/s243-530315/thu-vi-voi-phan-mem-doc-noi-dung-van-ban-bang-tieng-viet.htm">Thú vị với phần mềm đọc nội dung văn bản bằng tiếng Việt (23/10)</a> </li><li ><a href="/c243/s243-529395/che-giau-du-lieu-rieng-tu-theo-cach-cuc-doc.htm">Che giấu dữ liệu riêng tư theo cách “cực độc” (20/10)</a> </li><li ><a href="/c243/s243-528054/thu-gian-voi-chu-meo-dang-yeu-tren-desktop.htm">Thư giãn với chú mèo đáng yêu trên desktop (16/10)</a> </li><li ><a href="/c243/s243-528047/dieu-gi-tao-nen-firefox-90-sieu-toc.htm">Điều gì tạo nên Firefox 9.0 "siêu tốc"? (16/10)</a> </li>
+ </ul>
+</div></div>
+  <div id="ctl00_IDContent_divTinDaDang">
+<div class="box21 mt5 clearfix">
+ <div class="fon39">Các bài đã đăng</div>
+ <ul class="ul11 ml2 mt2">
+ <li ><a href="/c25/s243-527129/huong-dan-nang-cap-ios-5-cho-cac-thiet-bi-cua-apple.htm">Hướng dẫn nâng cấp iOS 5 cho các thiết bị của Apple (13/10)</a> </li><li ><a href="/c25/s243-526873/thanh-cong-cu-dep-an-tuong-danh-cho-windows.htm">Thanh công cụ đẹp ấn tượng dành cho Windows (12/10)</a> </li><li ><a href="/c25/s243-525488/desktop-lang-man-voi-bo-hinh-nen-la-thu.htm">Desktop lãng mạn với bộ hình nền “lá thu” (9/10)</a> </li><li ><a href="/c25/s243-525229/nhung-ly-do-de-khong-the-bo-qua-firefox-70.htm">Những lý do để không thể bỏ qua Firefox 7.0 (7/10)</a> </li><li ><a href="/c25/s243-523903/firefox-8-len-doi-firefox-10-bat-ngo-lo-dien.htm">Firefox 8 “lên đời”, Firefox 10 bất ngờ lộ diện (3/10)</a> </li><li ><a href="/c25/s243-523157/ban-quyen-mien-phi-9-thang-goi-bao-mat-avira-security-suite.htm">Bản quyền miễn phí 9 tháng gói bảo mật Avira Security Suite (1/10)</a> </li><li ><a href="/c25/s243-522299/firefox-70-but-pha-kha-nang-quan-ly-bo-nho.htm">Firefox 7.0 "bứt phá" khả năng quản lý bộ nhớ (28/9)</a> </li><li ><a href="/c25/s243-521087/thu-gian-voi-bo-suu-tap-vat-nuoi-tren-desktop.htm">Thư giãn với bộ sưu tập vật nuôi trên desktop (25/9)</a> </li><li ><a href="/c25/s243-520472/tao-hieu-ung-de-hinh-anh-dep-mat-va-an-tuong-hon.htm">Tạo hiệu ứng để hình ảnh đẹp mắt và ấn tượng hơn (24/9)</a> </li><li ><a href="/c25/s243-520125/go-roi-ve-qua-trinh-cai-dat-windows-8.htm">“Gỡ rối” về quá trình cài đặt Windows 8 (21/9)</a> </li>
+ </ul>
+</div></div>
+  
+  <div class="clearfix mt2">
+   <input class="btn-view-tomorrow" type="button" onclick="YesterDayDate();"
+   value="Bài ngày hôm trước" id="Button3" />
+   <input class="btn-view-month" type="button" onclick="displayCalendar(this,'dd-mm-yyyy',this);"
+   value="Xem bài theo ngày tháng &raquo;" id="Button1" />
+   <input class="btn-view-tomorrow" type="button" onclick="TomorowDate();"
+   value="Bài ngày hôm sau" id="Button2" />
+  </div>
+  </div>
+  <div class="fl wid310 box5 admicro">
+  <div align='center' class='ic-ads' style='float:left;'><div name='column' style='padding-bottom:5px;float:left;width:300px' align='center'><script type="text/javascript" src="http://admicro1.vcmedia.vn/ads_codes/ads_box_401.ads"></script></div></div><div align='center' class='ic-ads' style='float:left;'><div name='column' style='padding-bottom:5px;float:left;width:305px' align='center'><script type="text/javascript" src="http://admicro1.vcmedia.vn/ads_codes/ads_box_226.ads"></script></div></div><DIV></DIV><div align='center' class='ic-ads' style='float:left;'><div name='column' style='padding-bottom:5px;float:left;width:310px;' align='center'><script type="text/javascript" src="http://admicro1.vcmedia.vn/ads_codes/ads_box_227.ads"></script></div></div><div align='center' class='ic-ads' style='float:left;'><div name='column' style='padding-bottom:5px;float:left;width:300px' align='center'><div id="VoteJS"></div>
+<script type="text/javascript" language="javascript">
+ var divVote = new VoteJS('VoteJS'); 
+ divVote.Innit();
+ divVote.LoadData();   
+</script></div></div><div align='center' class='ic-ads' style='float:left;'><div name='column' style='padding-bottom:5px;float:left;width:300px;' align='center'><script type="text/javascript" src="http://admicro1.vcmedia.vn/ads_codes/ads_box_345.ads"></script></div></div>  
+  </div>
+  
+  <div class="fr pt5" style="padding-right: 10px; width: 180px;">
+  <div align='center' class='dantri-div-bottom' style='float:left;'><div name='column' style='padding-bottom:5px;float:left;width:180px; padding-top:5px;' align='center'><script type="text/javascript" src="http://admicro1.vcmedia.vn/ads_codes/ads_box_228.ads"></script></div></div><div align='center' class='dantri-div-bottom' style='float:left;'><div name='column' style='padding-bottom:5px;float:left;width:180px;' align='center'><script type="text/javascript" src="http://admicro1.vcmedia.vn/ads_codes/ads_box_366.ads"></script></div></div>  
+  </div>
+ </div>
+ 
+ </div> 
+</div>
+<div id="share_zone_221_giaitri_append" style="display:none">
+ <script type="text/javascript" language="javascript" src="http://admicro1.vcmedia.vn/ads_codes/share_zone_221_giaitri_dantri.js"></script>
+</div>
+<div style="display: none;" id="share_zone_226_giaitri_append">
+<script type="text/javascript" src="http://admicro1.vcmedia.vn/ads_codes/share_zone_226_giaitri.js" language="javascript"></script>
+</div>
+
+ 
+<div class="footer box19">
+ <div class="fr mb1 mt2">
+ <a href="javascript:void(0)" class="icon-rss3">&nbsp;&nbsp;&nbsp;</a> | <a href="mailto:dantri@dantri.com.vn" title="Góp ý - Liên hệ">Góp ý - Liên hệ</a> | <a href="/setupuni.exe" title="Font Unicode">Font Unicode</a>&nbsp;&nbsp;&nbsp;<span class="dat_trang_chu"><a href="javascript:setHomepage();" onmouseover="dat_trang_chu_over(this);" onmouseout="dat_trang_chu_out(this)"><img src="http://dantri3.vcmedia.vn/App_Themes/Default/Images/dat_trang_chu1.jpg" border="0">&nbsp;&nbsp;Đặt Dân trí làm trang chủ</a> </span> &nbsp;&nbsp;&nbsp;&nbsp;<a href="#" class="fon19">[ Back to top ]</a>
+ </div>
+ <div class="clear line2"></div>
+ <div class="clearfix">
+ <div class="fon17 mt1">
+  <a href="/c728/sukien.htm">Sự kiện</a> | <a href="/c20/xa-hoi.htm">Xã hội</a> | <a href="/c36/thegioi.htm">Thế giới</a> | <a href="/c26/thethao.htm">Thể thao</a> | <a href="/c25/giaoduc.htm">Giáo dục</a> | <a href="/c167/tamlongnhanai.htm">Nhân ái</a> | <a href="/c76/kinhdoanh.htm">Kinh doanh</a> | <a href="/c23/giaitri.htm">Văn hóa</a> | <a href="/c170/skphapluat.htm">Pháp luật</a> | <a href="/c135/nhipsongtre.htm">Nhịp sống trẻ</a> | <a href="/c130/tinhyeu-gioitinh.htm">Tình yêu</a> | <a href="/c7/suckhoe.htm">Sức khỏe</a> | <a href="/c119/cong-nghe.htm">Sức mạnh số</a> | <a href="/c111/otoxemay.htm">Ô tô Xe máy</a> | <a href="/c132/chuyenla.htm">Chuyện lạ</a> | <a href="/c202/diendanbandoc.htm">Bạn đọc</a>
+ </div>
+ </div>
+ <div class="box8 fon18 lh18" style="margin-top: 11px;">
+ Giấy phép hoạt động báo điện tử Dân trí trên Internet số 1050/GP - BTTTT Hà Nội, ngày 15-07-2008.<br>
+ Tòa soạn: Số 2 (nhà 48) Giảng Võ, Quận Đống Đa, Hà Nội<br/>
+ Điện thoại: 04-3736-6491.  Fax: 04-3736-6490<br/>
+ Email: <a href="mailto:info@dantri.com.vn" title="Gửi email tới Dân Trí">info@dantri.com.vn</a>. 
+ Website: <a href="http://www.dantri.com.vn" title="Xem trang Dân Trí">http://www.dantri.com.vn</a>
+ </div>
+
+</div>
+ <script type="text/javascript" src="http://admicro1.vcmedia.vn/ads_codes/ads_box_369.ads"></script>
+ </form>
+</body>
+</html>
