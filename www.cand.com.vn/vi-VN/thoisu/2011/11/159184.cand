@@ -1,0 +1,1624 @@
+
+<HTML>
+	<HEAD>
+		<title id="StoryTitle">CAND Online | Luật Gi&#225; chưa cụ thể - Luat Gia chua cu the</title>
+		<meta id="description" content="Uy ban Tai chinh - Ngan sach cho rang, Du thao Luat Gia chua dam bao tinh cu the, nhieu noi dung quan trong duoc giao Chinh phu, Bo Tai chinh quy dinh bang van ban duoi luat. Co toi 10/51 dieu, khoan giao Chinh phu hoac Bo Tai chinh huong dan thi hanh. 
+
+">
+		</meta>
+		<meta id="refresher" http-equiv="REFRESH" content="600">
+		</meta>
+		<meta content="JavaScript" name="vs_defaultClientScript">
+		<meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema">
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta content="INDEX,FOLLOW" name="robots">
+		<LINK href="/images/CAND/logo_icon.ico" rel="shortcut icon">
+		<script language="JavaScript" src="/JScripts/PopCalendar.js" type="text/javascript"></script>
+		<style>.quest_zone { FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; COLOR: #006; PADDING-TOP: 4px; FONT-FAMILY: Arial, verdana, Georgia, Times }
+	.asker_name { FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; COLOR: gray; PADDING-TOP: 4px; FONT-FAMILY: Arial, verdana, Georgia, Times }
+	.text_box1 { FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; COLOR: #000000; PADDING-TOP: 4px; FONT-FAMILY: Arial, verdana, Georgia, Times }
+	.image_desc { FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; COLOR: #000000; PADDING-TOP: 4px; FONT-FAMILY: Times, verdana, Georgia, Arial }
+		</style>
+		<script language="JavaScript">
+			function setVisibility(evt,id, visibility,obj)
+			{
+				updatebox(evt,id,obj);
+				document.getElementById(id).style.display = visibility;
+			}
+			function updatebox(evt,id,obj)
+			{
+				 mouseX=evt.pageX?evt.pageX:evt.clientX;//
+				 mouseY=evt.pageY?evt.pageY:evt.clientY;//
+				 document.getElementById(id).style.left=mouseX+document.body.scrollLeft;
+				 document.getElementById(id).style.top=mouseY+document.body.scrollTop;
+			}
+		</script>
+	</HEAD>
+	<body>
+		<form name="StoryPg" method="post" action="Story.aspx?ID=159184&amp;culture=vi-vn" id="StoryPg">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjUwMjkyNzkwZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgURRmVlZGJhY2sxJGJ0blNlbmQFE1NlYXJjaGVzMSRidG5TdWJtaXSv8PAeb57TfcDMByZ6jgKwz6GdeA==" />
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBwKcoJenDQKzs/e9DwLrxLWhCAK8jPXcDQKJ9r6xBQL6/e6yBwLh3qCFCeHJN64Hywk0yAbbdiJftoqWoX+M" />
+			<TABLE id="Table5" cellSpacing="0" cellPadding="0" width="1000" align="center" bgColor="#ffffff"
+				border="0">
+				<TBODY>
+					<TR>
+						<TD>
+<LINK href="/JScripts/CAND.CSS" type="text/css" rel="stylesheet">
+<script language="javascript" src="/JScripts/cookieUtility.js"></script>
+<script language="javascript" src="/JScripts/personalize.js"></script>
+<script language="JavaScript" src="/JScripts/adFlash.js"></script>
+<script language="javascript" src="/JScripts/mylib.js"></script>
+<table cellSpacing="0" cellPadding="0" width="100%" bgColor="#ffffff" border="0" id="Table2">
+	<TR>
+		<TD align="center">
+			<TABLE cellSpacing="0" cellPadding="0" width="100%" border="0" id="Table3">
+				<TR height="50">
+					<TD vAlign="top" width="194" bgColor="#cbe2e9">
+						<a id="Header_lnkHomePage" href="http://www.cand.com.vn">
+							<IMG src="/Images/header_candonline228x50.gif" border="0"></a></TD>
+					<TD align="right" width="100%" background="/Images/CAND/bg_head.gif" bgColor="#cbe2e9"
+						height="50">
+						</TD>
+				</TR>
+				<TR>
+					<TD vAlign="middle" align="left" width="194" bgColor="black"><IMG src="/Images/header_sologon229x16.gif"></TD>
+					<TD align="right" width="100%" bgColor="black" height="18">
+<table id="Table1" cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td>
+			<span id="Header_ctlPersonalizeText_lblWelcome"><font color="White">Chào bạn!</font></span></td>
+		<td></td>
+		<td></td>
+		<td>&nbsp;&nbsp;</td>
+		<td>
+			<script>
+        var mydate=new Date()
+        var year=mydate.getYear()
+        if (year < 1000)
+					year+=1900
+        var day=mydate.getDay()
+        var month=mydate.getMonth()
+        var daym=mydate.getDate()
+        if (daym<10)
+					daym="0"+daym
+        var dhour=mydate.getHours()
+        var dmin=mydate.getMinutes()
+        if (dmin<10)
+					dmin="0"+dmin
+        if (dhour<10)
+					dhour="0"+dhour
+        var dayarray=new Array("Ch&#7911; Nh&#7853;t","Th&#7913; Hai","Th&#7913; Ba","Th&#7913; T&#432;","Th&#7913; N&#259;m","Th&#7913; S&#225;u","Th&#7913; B&#7843;y")
+        var montharray=new Array("01","02","03","04","05","06","07","08","09","10","11","12")
+                document.write("<font color=white><b> "+dhour+":"+dmin+" "+daym+"/"+montharray[month]+"/"+year+"</b></font>")
+			</script>
+		</td>
+		<td>&nbsp;&nbsp;</td>
+	</tr>
+</table>
+</TD>
+				</TR>
+			</TABLE>
+		</TD>
+	</TR>
+	<TR>
+		<TD align="center" width="1000" background="/Images/header_background24x6.gif" bgColor="#ac051f"
+			height="24">
+			<TABLE id="Table1" style="WIDTH: 100%; HEIGHT: 24px" height="24" cellSpacing="0" cellPadding="0"
+				width="100%" align="right" background="/Images/header_background24x6.gif" border="0">
+				<TR>
+					<TD style="WIDTH: 223px" width="223" height="24"></TD>
+					<TD style="WIDTH: 100px" width="100" height="24">
+						<img src='/rpc/counter.aspx?ckey=All_view&rand=1666292402' width=0 height=0 border=0 alt=''></TD>
+					<TD style="WIDTH: 120px" align="center" width="120" height="24"><a id="Header_lnkCAND" href="http://ca.cand.com.vn">
+							<img height="24" alt="" src="/Images/header_title_cand113x24.gif" width="113" border="0"></a></TD>
+					<TD style="WIDTH: 12px" width="10" height="24"><IMG src="/Images/header_linedoc12x24.gif"></TD>
+					<TD style="WIDTH: 120px" align="center" width="120" height="24"><a id="Header_lnkANTG" href="http://antg.cand.com.vn">
+							<img height="24" alt="" src="/Images/header_title_antg102x24.gif" width="102" border="0"></a></TD>
+					<TD style="WIDTH: 12px" width="10" height="24"><IMG src="/Images/header_linedoc12x24.gif"></TD>
+					<TD style="WIDTH: 120px" align="center" width="120" height="24"><a id="Header_lnkANTGCT" href="http://antgct.cand.com.vn">
+							<img height="24" alt="" src="/Images/header_title_antgct105x24.gif" width="105" border="0"></a></TD>
+					<TD style="WIDTH: 12px" width="10" height="24"><IMG src="/Images/header_linedoc12x24.gif"></TD>
+					<TD style="WIDTH: 120px" align="center" width="120" height="24"><a id="Header_lnkVNCA" href="http://vnca.cand.com.vn">
+							<img height="24" alt="" src="/Images/header_title_vnca112x24.gif" width="112" border="0"></a></TD>
+					<TD style="WIDTH: 12px" width="10" height="24"><IMG src="/Images/header_linedoc12x24.gif"></TD>
+					<TD style="WIDTH: 120px" align="center" width="120" height="24"><a href="http://www.cand.com.vn/vi-VN/cstc.cand">
+							<img height="24" alt="" src="/Images/header_title_cstc115x24.gif" width="115" border="0"></a></TD>
+					<TD style="WIDTH: 12px" width="10" height="24"><IMG src="/Images/header_linedoc12x24.gif"></TD>
+					<!--
+					<TD align="right" width="106" height="24"><a id="Header_lnkCANDTV">
+							<img height="24" alt="" src="/Images/header_thcand106x24.gif" width="106" border="0"></a></TD>
+					-->
+				</TR>
+			</TABLE>
+		</TD>
+	</TR>
+	<TR>
+		<TD style="HEIGHT: 1px" align="center" bgColor="#ac051f"><script language="JavaScript" src="/JScripts/CAND_new.JS"></script>
+<table class="navgrid" height="26" cellSpacing="0" cellPadding="0" width="100%" align="left" border="0" bgColor="#ac051f">
+	<tr bgColor="#ac051f">
+		<td height="26" align="center">
+		<A href="/" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Trang chủ</FONT></A>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<A href="/vi-VN/thoisu.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Thời sự</FONT></A>&nbsp;&nbsp|&nbsp;&nbsp;
+		<A href="/vi-VN/xahoi.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Xã hội</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/quocte.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Quốc tế</FONT></A>&nbsp;&nbsp;|&nbsp&nbsp;
+		<A href="/vi-VN/kinhte.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Kinh tế</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/vanhoa.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Văn hoá</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/phapluat.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Pháp luật</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/nguoinoitieng.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Người nổi tiếng</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/nhanai.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Nhịp cầu nhân ái</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/trongmatdan.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Công an trong lòng dân</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/toiphama-z.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Tội phạm từ A-Z</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/clips.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Video Clip</FONT></A>
+		</td>
+	</tr>
+</table></TD>
+	</TR>
+</table>
+<link href="/JScripts/cand_new.css" rel="stylesheet" media="screen">
+</TD>
+					</TR>
+					<TR>
+						<TD>
+							<TABLE id="Table6" cellSpacing="0" cellPadding="0" width="1000" align="left" bgColor="white"
+								border="0">
+								<TBODY>
+									<TR vAlign="top">
+										<TD class="left_columms" style="PADDING-TOP: 10px" vAlign="top" width="800">
+											<table cellSpacing="0" cellPadding="0" width="100%" align="center" border="0">
+												<TBODY>
+													<TR>
+														<TD style="PADDING-BOTTOM: 6px; HEIGHT: 20px; paddint-top: 6px" align="center">
+															<TABLE id="Table11" style="PADDING-BOTTOM: 10px" cellSpacing="0" cellPadding="0" width="780"
+																border="0">
+																<TR>
+																	<TD style="WIDTH: 500px" width="500"></TD>
+																</TR>
+																<TR>
+																	<TD style="WIDTH: 500px; HEIGHT: 34px" vAlign="top" align="left" width="100%" background="/Images/back_line.gif"><span id="Path1_lbPath" class="cm_title">Thời sự&nbsp;</span>
+</TD>
+																</TR>
+																<TR>
+																	<TD style="WIDTH: 500px" width="500"></TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR>
+														<TD class="home_subtitle" style="HEIGHT: 7px" align="center"></TD>
+													</TR>
+													<TR>
+														<TD style="HEIGHT: 328px" vAlign="top" align="center">
+															<TABLE id="Table12" height="19" cellSpacing="0" cellPadding="0" width="780" border="0">
+																<TR>
+																	<TD style="PADDING-RIGHT: 6px" vAlign="top" align="center" width="780">
+																		<DIV align="left">
+																			<TABLE cellSpacing="0" cellPadding="0" align="left" border="0">
+																				<TR>
+																					<TD style="HEIGHT: 1px">
+																						<TABLE cellSpacing="0" cellPadding="0" border="0">
+																							<TR>
+																								<TD></TD>
+																							</TR>
+																							<TR>
+																								<TD class="pic_explain"></TD>
+																							</TR>
+																						</TABLE>
+																					</TD>
+																				</TR>
+																				<TR>
+																					<TD style="HEIGHT: 10px"></TD>
+																				</TR>
+																				<TR>
+																					<TD></TD>
+																				</TR>
+																			</TABLE>
+																			<DIV align="left"><B></B></DIV>
+																			<DIV align="left"><span id="lbHeadline" class="main_title">Luật Giá chưa cụ thể</span></DIV>
+																			<DIV align="left">
+																				<DIV align="left"><span id="lbDate" class="time_zone">08:55:41 04/11/2011</span></DIV>
+																				<DIV align="left"><span id="lbAuthor1" class="author"><a href='http://ca.cand.com.vn/News/huuuoc/index.html' target=_blank></a></span></DIV>
+																			</DIV>
+																		</DIV>
+																		<DIV align="left"><span class="main_abstract">Ủy ban Tài chính - Ngân sách cho rằng, Dự thảo Luật Giá chưa đảm bảo tính cụ thể, nhiều nội dung quan trọng được giao Chính phủ, Bộ Tài chính quy định bằng văn bản dưới luật. Có tới 10/51 điều, khoản giao Chính phủ hoặc Bộ Tài chính hướng dẫn thi hành. 
+
+</span></DIV>
+																		<DIV align="left"><span id="lbContinue" class="time_zone"></span><span id="lbBody" class="main_content"><P><B><FONT size=2>Quy định rõ hơn trách nhiệm của tổ chức bảo hiểm tiền gửi</FONT></B></P>
+<P><FONT size=2>Sáng 3/11, Quốc hội làm việc tại tổ, thảo luận về Dự án Luật Bảo hiểm tiền gửi và Dự án Luật Tài nguyên nước (sửa đổi).</FONT></P>
+<P><FONT size=2>Đại biểu Quốc hội ở các đoàn: Vĩnh Phúc, Đắk Lắk, Nghệ An, Hà Tĩnh, Bắc Ninh, Quảng Nam, Trà Vinh... cơ bản thống nhất về sự cần thiết ban hành Luật Bảo hiểm tiền gửi nhằm góp phần hoàn thiện khung pháp lý về hoạt động bảo hiểm tiền gửi, khắc phục những bất cập hiện nay và bảo đảm sự đồng bộ với hệ thống pháp luật chung cũng như tiệm cận với thông lệ quốc tế về bảo hiểm tiền gửi.</FONT></P>
+<P>
+<TABLE style="WIDTH: 20px; HEIGHT: 20px" border=0 rules=none cellSpacing=2 cellPadding=0 frame=void align=center>
+<TBODY>
+<TR>
+<TD><IMG border=0 src="http://www.cand.com.vn/Uploaded_ANTGCT/anhtu1/nguyenbinh/4_dai2291-450.jpg"></TD></TR>
+<TR>
+<TD><FONT color=#808080>Đại biểu Quốc hội các tỉnh Hà Giang, Bình Phước, Hậu Giang, Cà Mau thảo luận tại tổ.</FONT></TD></TR></TBODY></TABLE></P>
+<P><FONT size=2>Theo đại biểu Phan Văn Quý (Nghệ An), mặc dù Nghị định về bảo hiểm tiền gửi đã được thi hành trong 12 năm nhưng thực tế có ít người dân và tổ chức tham gia do chưa quen và chưa hiểu hết loại hình bảo hiểm này. Đại biểu cho rằng, trong nền kinh tế thị trường, đi đôi với tái cấu trúc nền kinh tế, ban hành Luật Bảo hiểm tiền gửi là cần thiết, giúp cho hoạt động bảo hiểm tiền gửi hiệu quả hơn, bảo vệ quyền lợi của người gửi tiền và góp phần duy trì sự ổn định của hệ thống ngân hàng, tránh những bất ổn có thể xảy ra. </FONT></P>
+<P><FONT size=2>Đề cập đối tượng điều chỉnh của Luật, hầu hết các đại biểu nhất trí quy định chỉ bảo hiểm tiền gửi của cá nhân, không bảo hiểm tiền gửi của tổ chức bởi mục tiêu lớn nhất của bảo hiểm tiền gửi là bảo vệ số đông người gửi tiền nhỏ lẻ, không có điều kiện tham gia sản xuất - kinh doanh, không có điều kiện tiếp cận thông tin tham gia gửi tiền tại các tổ chức tín dụng. Chính sách bảo hiểm tiền gửi nên hướng tới bảo vệ số đông người gửi tiền nhỏ lẻ, trường hợp tổ chức tín dụng gặp rủi ro thì họ vẫn nhận được một khoản tiền gửi tối thiểu. Tuy nhiên, đại biểu Trần Quốc Tuấn (Trà Vinh) đề nghị xem xét đưa vào 3 đối tượng được bảo hiểm tiền gửi: Cá nhân; tổ hợp tác và doanh nghiệp siêu nhỏ (có số lao động dưới 10 người). </FONT></P>
+<P><FONT size=2>Liên quan đến quản lý nhà nước về bảo hiểm tiền gửi và mô hình tổ chức bảo hiểm tiền gửi, đại biểu Phan Văn Quý (Nghệ An) và một số đại biểu khác cho rằng, hệ thống tài chính ngân hàng của nước ta có điểm khác biệt so với các nước. Cần thể hiện sự đặc thù này trong quan điểm xây dựng Luật nhưng việc vận dụng phải thực sự nhuần nhuyễn. </FONT></P>
+<P><FONT size=2>Nhiều đại biểu tán thành với thẩm tra của Ủy ban Kinh tế, tiếp tục giữ quy định hiện hành về tổ chức bảo hiểm tiền gửi; theo đó Bảo hiểm tiền gửi Việt Nam do Thủ tướng Chính phủ thành lập và giao Ngân hàng Nhà nước Việt Nam quản lý hoạt động nhằm đảm bảo vị thế độc lập tương đối của Bảo hiểm tiền gửi Việt Nam và tăng lòng tin người gửi tiền. Tuy vậy, cần có cơ chế xử lý minh bạch, rõ ràng, nếu không, dễ dẫn tới khó quy trách nhiệm.</FONT></P>
+<P><FONT size=2>Quy định vai trò, vị trí của tổ chức bảo hiểm tiền gửi như thế nào để có một vị thế độc lập tương đối, có đủ thẩm quyền và năng lực tài chính để thực hiện chính sách bảo hiểm tiền gửi hiệu quả, minh bạch, khách quan, phù hợp với cơ chế thị trường định hướng xã hội chủ nghĩa là quan tâm của các đại biểu Nguyễn Văn Phúc (Hà Tĩnh), Nguyễn Văn Chiến (Bắc Ninh)... </FONT></P>
+<P><B><FONT size=2>Tôn trọng quyền tự định giá của các tổ chức, cá nhân sản xuất, kinh doanh</FONT></B></P>
+<P><FONT size=2>Chiều 3/11, Quốc hội làm việc tại hội trường, nghe Tờ trình của Chính phủ về các dự án: Luật Quảng cáo; Luật Giá; Luật Giám định tư pháp; Luật Xử lý vi phạm hành chính. Phó Chủ tịch Quốc hội Uông Chu Lưu điều hành phiên họp. </FONT></P>
+<P><FONT size=2>Dự án Luật Giá được xây dựng xuất phát từ yêu cầu phải tiếp tục đổi mới phương thức quản lý giá, khắc phục những bất cập hiện tại để quản lý giá phù hợp với cơ chế kinh tế thị trường; bảo đảm khuyến khích cạnh tranh về giá.</FONT></P>
+<P><FONT size=2>Việc xây dựng Luật Giá nhằm tạo ra cơ chế để giá cả phát huy những tác động tích cực của nó đối với nền kinh tế như: kích thích sản xuất phát triển, đổi mới công nghệ, tiến bộ kỹ thuật, đổi mới quản lý, tăng năng suất, hạ giá thành sản phẩm, phân bổ và sử dụng có hiệu quả nguồn lực của đất nước… Đồng thời, khắc phục, hạn chế những khuyết tật, tác động bất lợi của nó đến nền kinh tế. </FONT></P>
+<P><FONT size=2>Luật bảo đảm được sự can thiệp của Nhà nước về giá phù hợp với vai trò, chức năng của Nhà nước trong cơ chế kinh tế thị trường.</FONT></P>
+<P><FONT size=2>Thẩm tra dự án Luật, Ủy ban Tài chính - Ngân sách cho rằng, việc ban hành Luật Giá là cần thiết. So với Pháp lệnh Giá hiện hành, dự thảo luật đã được hoàn thiện một bước, chi tiết hơn một số nội dung như: quyền và nghĩa vụ của tổ chức, cá nhân trong hoạt động về giá; điều tiết giá của Nhà nước, thẩm định giá. Tuy nhiên, so với mục tiêu ban hành, Dự thảo Luật chưa làm rõ được bước tiến mới về chất thông qua việc nâng Pháp lệnh thành luật. </FONT></P>
+<P><FONT size=2>Ủy ban cho rằng, Dự thảo Luật chưa đảm bảo tính cụ thể, nhiều nội dung quan trọng được giao Chính phủ, Bộ Tài chính quy định bằng văn bản dưới luật. Có tới 10/51 điều, khoản giao Chính phủ hoặc Bộ Tài chính hướng dẫn thi hành. 5/61 điều dẫn chiếu việc áp dụng quy định pháp luật liên quan, trong đó bao gồm các nội dung căn bản như: căn cứ định giá; phương pháp định giá; hàng hóa dịch vụ phải áp dụng biện pháp bình ổn giá, hàng hóa dịch vụ do Nhà nước định giá; trình tự, thủ tục cấp giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá. Đây là những vấn đề cốt yếu, mang tính chính sách của một dự án Luật cần được quy định cụ thể theo quy định tại Luật Ban hành văn bản quy phạm pháp luật. </FONT></P>
+<P><FONT size=2>Ngoài ra, một số nội dung của dự thảo Luật còn mang định tính. Việc quy định chung chung sẽ dẫn đến cách hiểu và áp dụng khác nhau, đặc biệt sẽ dẫn đến việc Nhà nước tiếp tục can thiệp quá sâu vào quy luật vận hành của giá cả, thị trường. Ủy ban đề nghị rà soát, cụ thể hóa tối đa trong Luật những nội dung chưa được quy định chi tiết. </FONT></P>
+<P><B><FONT size=2>Giám định pháp y Công an đang phát huy hiệu quả</FONT></B></P>
+<P><FONT size=2>Thẩm tra Dự án Luật giám định tư pháp, Chủ nhiệm Ủy ban tư pháp Nguyễn Văn Hiện cho rằng, mở rộng quyền yêu cầu giám định tư pháp của đương sự cần phải đưa vào luật. Theo dự thảo, tổ chức giám định pháp y công lập về pháp y bao gồm: Viện Pháp y quốc gia thuộc Bộ Y tế; Trung tâm giám định pháp y&nbsp; tỉnh, thành phố trực thuộc Trung ương (thuộc ngành Y tế) ; Viện Pháp y Quân đội (thuộc Bộ Quốc phòng); Trung tâm giám định pháp y thuộc Viện Khoa học hình sự - Bộ Công an. Theo đó, hệ thống tổ chức giám định pháp y không còn giám định viên pháp y thuộc Phòng Kỹ thuật hình sự Công an tỉnh, thành phố trực thuộc Trung ương như quy định hiện hành.</FONT></P>
+<P><FONT size=2>Về vấn đề này có 2 luồng ý kiến: Một là, cải cách tư pháp theo hướng rút gọn đầu mối. Thứ 2, cần căn cứ vào kết quả tổng kết thực tiễn. Nhiều năm qua hoạt động giám định pháp y của đội ngũ giám định viên pháp y Công an cấp tỉnh, thành phố đang phát huy hiệu quả phục vụ đắc lực cho hoạt động tố tụng, nhất là việc điều tra, khám phá các vụ án phức tạp, nghiêm trọng và không có vướng mắc&nbsp; lớn về tổ chức Nhà nước. Hơn nữa, theo quy định dự thảo, Bộ Công an và Bộ Quốc phòng vẫn có tổ chức giám định pháp y. Đề nghị giữ quy định giám định viên pháp y tại tổ chức giám định kỹ thuật hình sự Công an cấp tỉnh như hiện nay</FONT><img src='/Images/reddot.gif'></P></span></DIV>
+																	</TD>
+																</TR>
+															</TABLE>
+															<BR>
+														</TD>
+													</TR>
+													<TR>
+														<TD style="HEIGHT: 40px" align="center">
+															<P align="center">
+																<TABLE id="Table10" height="19" cellSpacing="0" cellPadding="0" width="780" border="0">
+																	<TR>
+																		<TD align="center" width="780">
+																			<DIV align="right"><span id="lbAuthor2" class="source">Nhóm PVTS</span><br>
+</DIV>
+																		</TD>
+																	</TR>
+																</TABLE>
+															</P>
+														</TD>
+													</TR>
+													<TR>
+														<TD vAlign="top" align="center">
+															<TABLE cellSpacing="0" cellPadding="3" width="780" bgColor="#faf5ed" border="0">
+																<TR>
+																	<TD></TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR class="event">
+														<TD style="PADDING-BOTTOM: 10px" align="center"><div id="pnEvent">
+	
+																
+															
+</div></TD>
+													</TR>
+													<TR>
+														<TD align="center">
+															<TABLE id="Table8" height="19" cellSpacing="0" cellPadding="0" width="780" bgColor="#f1f1f1"
+																border="0">
+																<TR>
+																	<TD align="center" width="580">
+																		<DIV align="center"><IMG height="12" alt="" hspace="4" src="/images/temp.gif" width="14" border="0">
+																			<a id="lnkAddToFavorite2" href="javascript:addFavouriteStory('159184','Luật Giá chưa cụ thể','/vi-VN/thoisu/2011/11/159184.cand'); alert('Tin đã được thêm vào danh sách');">Lưu lại để đọc</a>&nbsp;|<IMG height="12" alt="" hspace="4" src="/images/email.gif" width="14" border="0"><A href='javascript:showDialog("/InfoPages/Email4Friend.aspx?new_url=http://www.cand.com.vn/vi-VN/thoisu/2011/11/159184.cand",450,350)'  Email4Friend.aspxnew_url='http:/"' InfoPages new_url='http:/"' Email4Friend.aspx  Email4Friend.aspx new_url='http:/"'???????????????????????????????????????????????????????>Email 
+																				của bài này</A> |<IMG height="12" alt="" hspace="4" src="/images/contact.gif" width="14" border="0"><A href='javascript:showDialog("/InfoPages/Republish.aspx?ID=159184",550,350)'  InfoPages Republish.aspxID Republish.aspx  ID Republish.aspx Republish.aspx??????????????????????????????????????????????????????????????????????????????????????????????????????????????>Liên 
+																				hệ đăng bài này</A> |<IMG height="12" alt="" hspace="4" src="/images/print.gif" width="14" border="0"><A href='/News/PrintView.aspx?ID=159184' target=_blank >In 
+																				bài này</A>&nbsp;</A>&nbsp;
+																		</DIV>
+																	</TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR>
+														<TD style="PADDING-BOTTOM: 6px" align="center"></TD>
+													</TR>
+													<TR>
+														<TD style="HEIGHT: 42px" align="center">
+															<TABLE id="Table9" height="19" cellSpacing="0" cellPadding="0" width="780" border="0">
+																<TR>
+																	<TD align="center" width="780">
+																		<DIV align="center">
+<p>
+	<div id="Feedback1_pnlContent">
+	
+		<TABLE id="Table3" cellSpacing="0" cellPadding="0" width="100%" align="center" border="0">
+			<TR height="4">
+				<TD height="4">
+					<SCRIPT language="JavaScript1.2" src="/jscripts/vietuni.js" type="text/javascript"></SCRIPT>
+					<SCRIPT language="JavaScript1.2"> setTypingMode(4); </SCRIPT>
+					<SCRIPT language="JavaScript">
+					function gf(p_el) {	}function lf(p_el) {	}
+					</SCRIPT>
+				</TD>
+			</TR>
+			<TR>
+				<TD vAlign="top">
+					<TABLE id="Table5" cellSpacing="0" cellPadding="0" width="100%" bgColor="#f1f1f1" border="0">
+						<TR>
+							<TD>
+								<DIV align="center">
+									<TABLE id="Table6" cellSpacing="0" cellPadding="0" width="100%" border="0">
+										<TR>
+											<TD>
+												<TABLE id="Table7" cellSpacing="0" cellPadding="0" width="100%" bgColor="#f1f1f1" border="0">
+													<TR height="24">
+														<TD align="center" bgColor="#407080"><B><FONT color="white">Ý kiến của bạn</FONT></B></TD>
+													</TR>
+													<TR>
+														<TD>
+															<TABLE id="Table8" cellSpacing="0" cellPadding="1" width="100%" border="0">
+																<TR>
+																	<TD class="TitleFront" align="right" width="100">Tên của bạn:</TD>
+																	<TD>
+																		<input name="Feedback1$txtName" type="text" id="Feedback1_txtName" class="tbflat" onkeyup="telexingVietUC(this,event);" />
+																		&nbsp;</TD>
+																<TR>
+																	<TD class="TitleFront" align="right" width="100">Email:</TD>
+																	<TD>
+																		<input name="Feedback1$txtEmail" type="text" id="Feedback1_txtEmail" class="tbflat" />
+																		
+																		
+																		</TD>
+																</TR>
+																<TR>
+																	<TD class="TitleFront" align="right" width="100">Tiêu đề:</TD>
+																	<TD>
+																		<input name="Feedback1$txtHeadLine" type="text" id="Feedback1_txtHeadLine" class="tbflat" onkeyup="telexingVietUC(this,event);" />
+																		&nbsp;</TD>
+																</TR>
+																<TR>
+																	<TD style="PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px" align="right" colSpan="2">
+																		<INPUT onfocus="setTypingMode(0);" type="radio" value="OFF" name="switch">Tắt bộ gõ
+																		<INPUT onfocus="setTypingMode(1)" type="radio" CHECKED value="TELEX" name="switch">Tự động
+																		<INPUT onfocus="setTypingMode(1)" type="radio" value="TELEX" name="switch">Telex
+																		<INPUT onfocus="setTypingMode(2)" type="radio" value="VNI" name="switch">VNI <INPUT onfocus="setTypingMode(3)" type="radio" value="VIQR" name="switch">VIQR</TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR>
+														<TD style="PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px" colSpan="2">
+															<textarea name="Feedback1$txtContent" rows="8" cols="20" id="Feedback1_txtContent" class="tbflat1" onkeyup="telexingVietUC(this,event);"></textarea>
+															<span id="Feedback1_lblID"><input type=hidden name=ID value=159184></span>
+															&nbsp;</TD>
+													</TR>
+												</TABLE>
+												</TD>
+										</TR>
+										<TR>
+											<TD style="PADDING-RIGHT: 5px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px">
+												<TABLE width="100%">
+													<TR>
+														<TD><IMG style="CURSOR: hand" onclick="window.scrollTo(0,0)" src="/Images/Gotop.gif" border="0">
+														</TD>
+														<TD align="right">
+															<input type="image" name="Feedback1$btnSend" id="Feedback1_btnSend" DESIGNTIMEDRAGDROP="89" src="/Images/btnSend55x24.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;Feedback1$btnSend&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" border="0" /></TD>
+													</TR>
+												</TABLE>
+											</TD>
+										</TR>
+									</TABLE>
+								</DIV>
+							</TD>
+						</TR>
+					</TABLE>
+				</TD>
+			</TR>
+		</TABLE>
+	
+</div></p>
+</DIV>
+																	</TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR>
+														<TD align="center">
+															<TABLE id="Table7" cellSpacing="0" cellPadding="0" width="780" border="0">
+																<TR>
+																	<TD style="HEIGHT: 18px"></TD>
+																	<TD style="HEIGHT: 18px" vAlign="top" align="right"></TD>
+																</TR>
+																<TR>
+																	<TD style="HEIGHT: 18px"><p align=left><input type=button style="width:140; background-Color: white; color: #003143; font-size: 11px; font-family: Arial, Verdana, Tahoma; Cursor:hand; Border:none; Font-Weight:bold" value="Xem bài theo ngày tháng" onclick="popUpCalendar(this, this, 'dd-mm-yyyy',119, 'vi')"><img src='/Images/detail_2.gif'></p></TD>
+																	<TD style="HEIGHT: 18px" vAlign="top" align="right"><a id="AnotherStory" href="/vi-VN/thoisu.cand"><b>Xem tiếp</b>&nbsp;<img src='/images/detail.gif' border=0></a></TD>
+																</TR>
+																<TR>
+																	<TD colSpan="2"><b>Các bài mới:</b><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159316.cand">Dừng những dự án khai thác khoáng sản không đảm bảo yêu cầu</a> <span class='time_Zone'>(06/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159309.cand">Phó Chủ tịch nước Nguyễn Thị Doan dự lễ kỷ niệm 80 năm thành lập Trường THPT chuyên Lam Sơn (Thanh Hóa)</a> <span class='time_Zone'>(06/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159247.cand">Hội thảo khoa học lần thứ 3 về biển Đông</a> <span class='time_Zone'>(05/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159246.cand">Xây TT huấn luyện quốc gia phòng, chống khủng bố tại Quảng Ninh</a> <span class='time_Zone'>(05/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159241.cand">Đoàn đại biểu cấp cao Bộ Công an Việt Nam hội đàm với Bộ Cảnh sát Nam Phi</a> <span class='time_Zone'>(05/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159280.cand">Đẩy mạnh công tác phòng, chống tội phạm rửa tiền</a> <span class='time_Zone'>(05/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159216.cand">Kiến nghị giãn giờ học với giờ đi làm của công chức</a> <span class='time_Zone'>(04/11)</span><BR></TD>
+																</TR>
+																<TR>
+																	<TD colSpan="2"><b>Các bài đã đăng:</b><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159174.cand">Hội đàm giữa 2 Đoàn đại biểu cấp cao Bộ Công an Việt Nam và Bộ Nội vụ Vương quốc Campuchia</a> <span class='time_Zone'>(04/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159140.cand">Bế mạc Kỳ họp Đại hội đồng Interpol lần thứ 80</a> <span class='time_Zone'>(03/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159145.cand">Diễn văn bế mạc của Bộ trưởng Bộ Công an Việt Nam tại Kỳ họp Đại hội đồng Interpol 80</a> <span class='time_Zone'>(03/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159150.cand">Sai phạm hơn 1,48 tỷ đồng chỉ bị "xử lý kỷ luật hành chính"</a> <span class='time_Zone'>(03/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159151.cand">Đề nghị ban hành bộ chuẩn quốc gia giáo dục đại học</a> <span class='time_Zone'>(03/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159097.cand">Thứ trưởng Lê Quý Vương dự tổng kết thực hiện NQ liên tịch số 01 tại Hà Nam</a> <span class='time_Zone'>(03/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159094.cand">Thủ tướng Nguyễn Tấn Dũng kết thúc tốt đẹp chuyến thăm chính thức Nhật Bản</a> <span class='time_Zone'>(03/11)</span><BR></TD>
+																</TR>
+																<TR>
+																	<TD style="HEIGHT: 2px" colSpan="2">&nbsp;</TD>
+																</TR>
+																<TR>
+																	<TD colSpan="2">
+																		<HR color="lightgrey" SIZE="1">
+																		<TABLE id="Table3" cellSpacing="0" cellPadding="0" width="100%" border="0">
+																			<TR>
+																				<TD style="WIDTH: 465px" vAlign="top" align="left" width="465"></TD>
+																				<TD align="right"><FONT face="Verdana"><IMG style="CURSOR: hand" onclick="window.scrollTo(0,0)" alt="" src="/Images/Gotop.gif"
+																							stye="Cursor:hand"></FONT></TD>
+																			</TR>
+																		</TABLE>
+																	</TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR>
+														<TD align="center" height="5">
+															<P>&nbsp;</P>
+														</TD>
+													</TR>
+													<TR>
+														<TD></TD>
+													</TR>
+												</TBODY>
+											</table>
+										</TD>
+										<TD class="leftright_columms" vAlign="top" width="200"><TABLE cellSpacing="0" cellPadding="0" width="100%" border="0">
+												<TR>
+													<TD bgColor="#7bb6c8">
+<script language="javascript" src="/JScripts/vietuni.js"></script>
+<script>setTypingMode(4);</script>
+<table width="160" border="0" cellspacing="0" cellpadding="2" bgcolor="#7ab4c7" style="HEIGHT: 20px">
+	<tr style="HEIGHT:30px">
+		<td align="left">
+			<font color="#7ab4c7" style="PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px">
+				<input class="tbflat2" type="text" name="SearchPhrase" onkeyup="telexingVietUC(this,event);"
+					onfocus="if (this.value=='Tìm kiếm') this.value='';" onblur="if (this.value=='') this.value='Tìm kiếm';"
+					border="0" value='Tìm kiếm' size="20"></font>
+		</td>
+		<TD vAlign="middle" align="left">
+			<input type="image" name="Searches1$btnSubmit" id="Searches1_btnSubmit" title="Tìm kiếm" src="/Images/content_searhc_button19x18.gif" border="0" /></TD>
+	</tr>
+</table>
+<INPUT type="hidden" value="0" name="SearchMessage"> <INPUT type="hidden" value="phrase" name="andor">
+</TD>
+												</TR>
+												<TR>
+													<TD>
+</TD>
+												</TR>
+												<TR>
+													<TD>
+<TABLE id="Table1" cellSpacing="0" cellPadding="0" width="200" border="0">
+	
+	<TR>
+		<TD class="rightside_cell">
+			<DIV align="center">
+				
+<TABLE id="Table1" cellSpacing="0" cellPadding="0" width="100%" border="1" style="BORDER-COLLAPSE:collapse" bordercolor="#9a9a9a">
+	<TR>
+		<TD vAlign="top">
+			<TABLE id="Table2" cellSpacing="0" cellPadding="0" width="100%" border="0">
+				<TBODY>
+					<TR height="20">
+						<TD height="20">
+							<img id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_imgBanner" src="/Images/top10_CANDONLINE_Title.gif" width="200" border="0" /></TD>
+					</TR>
+					<TR>
+						<TD style="PADDING-TOP: 2px">
+							<DIV style="OVERFLOW-Y: auto; WIDTH: 200px; HEIGHT: 250px">
+								
+										<table width="100%" border="0" cellspacing="2" cellpadding="0">
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl01_lblSTT"><b>1.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl01_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/toiphama-z/2011/11/159328.cand">Xóa đường dây ma túy họ hàng phức tạp nhất TP HCM</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl02_lblSTT"><b>2.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl02_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/quocte/2011/11/159325.cand">Trò chơi chủ quyền trong giấc mơ dân tộc </a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl03_lblSTT"><b>3.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl03_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/phapluat/2011/11/159331.cand">Đàn em của Minh "đen" trong vụ chém 3 người ở Bình Dương đã sa lưới</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl04_lblSTT"><b>4.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl04_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/xahoi/2011/11/159334.cand">Tử vong vì qua đường sắt không quan sát</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl05_lblSTT"><b>5.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl05_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/toiphama-z/2011/11/159326.cand">Đòi nợ tiền không được, gây trọng án</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl06_lblSTT"><b>6.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl06_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/xahoi/2011/11/159332.cand">Một "bà thầy" bất đắc dĩ</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl07_lblSTT"><b>7.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl07_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/phapluat/2011/11/159330.cand">Con nợ đều là nữ quái "chân yếu, tay mềm"</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl08_lblSTT"><b>8.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl08_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/xahoi/2011/11/159333.cand">Lũ cuốn trôi 4 người khi đang băng qua đường</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl09_lblSTT"><b>9.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl09_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/toiphama-z/2011/11/159329.cand">Bắt giữ 52 tấn quặng đất quý hiếm không có giấy tờ hợp lệ</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl10_lblSTT"><b>10.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl10_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/toiphama-z/2011/11/159327.cand">Các "Hiệp sĩ" Bình Dương bắt kẻ giết người đang trốn truy nã</a></td>
+										</tr>
+									
+			</TABLE>
+			</DIV>
+		</TD>
+	</TR>
+	<TR>
+		<TD height="7">
+			<img src="/images/top10_bottom_back.gif" width="200"></TD>
+	</TR>
+</TABLE>
+</TD></TR></TBODY></TABLE>
+</DIV>
+		</TD>
+	</TR>
+	<TR>
+		<TD class="rightside_cell"></TD>
+	</TR>
+	<TR>
+		<TD style="HEIGHT: 0px">
+			
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<TD style="PADDING-BOTTOM: 2px;" align="center" bgColor="#ac051f" height="25">
+					<span id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl00_lbTieudiem" class="tieudiem_title">TIÊU ĐIỂM</span></TD>
+			</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="159216" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Kiến nghị giãn giờ học với giờ đi làm của công chức
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								2:36, 04/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Về phương án điều chỉnh mới được TP Hà Nội đề xuất trình Chính phủ, Phó Chánh Văn phòng Bộ Giáo dục và Đào tạo Nguyễn Đình Mạnh cho biết ủng hộ phương án điều chỉnh giờ làm của Hà Nội. Ông Mạnh góp ý thêm: “Hà Nội cũng cần cân nhắc xem xét thêm giờ học của học sinh, sinh viên bởi phương án đưa ra khá sát với giờ làm của công chức, viên chức”. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/11/159216.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'159216', 'inline');"
+											onMouseOut="setVisibility(event,'159216', 'none');" >
+											Kiến nghị giãn giờ học với giờ đi làm của công chức
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/11/159216.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl01_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\thanhbinh1/5_thay2291-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id159174" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Hội đàm giữa 2 Đoàn đại biểu cấp cao Bộ Công an Việt Nam và Bộ Nội vụ Vương quốc Campuchia
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								7:55, 04/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Đồng chí Trần Đại Quang, Ủy viên Bộ Chính trị, Bí thư Đảng ủy Công an TW, Bộ trưởng Bộ Công an nhận Huân chương Hữu nghị cấp Sena do Quốc vương Campuchia tặng . 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/11/159174.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id159174', 'inline');"
+											onMouseOut="setVisibility(event,'id159174', 'none');" >
+											Hội đàm giữa 2 Đoàn đại biểu cấp cao Bộ Công an Việt Nam và Bộ Nội vụ Vương quốc Campuchia
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/11/159174.cand'>
+											Hội đàm giữa 2 Đoàn đại biểu cấp cao Bộ Công an Việt Nam và Bộ Nội vụ Vương quốc Campuchia
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/thoisu/2011/11/159174.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl02_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTGCT\anhtu1\nguyenbinh/2_ngai2291-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="159140" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Bế mạc Kỳ họp Đại hội đồng Interpol lần thứ 80
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								4:31, 03/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Tại phiên bế mạc, Chủ tịch Interpol Khoo Boon Hui phát biểu, đánh giá cao vai trò chủ nhà của Việt Nam trong tổ chức Đại hội đồng Interpol 80. Chủ tịch Khoo Boon Hui bày tỏ: “Chúng tôi cảm nhận được sự thân thiện, lòng mến khách của người dân Việt Nam, có cảm giác như đang ở trong ngôi nhà ấm áp của mình…”. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/11/159140.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'159140', 'inline');"
+											onMouseOut="setVisibility(event,'159140', 'none');" >
+											Bế mạc Kỳ họp Đại hội đồng Interpol lần thứ 80
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/11/159140.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl03_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTGCT\anhtu1\nguyenbinh/bemac2290-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id159094" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Thủ tướng Nguyễn Tấn Dũng kết thúc tốt đẹp chuyến thăm chính thức Nhật Bản
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								8:24, 03/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Tiếp tục chương trình chuyến thăm chính thức Nhật Bản, trưa 2/11, tại Hoàng cung Nhật Bản ở thủ đô Tokyo, Thủ tướng Nguyễn Tấn Dũng và phu nhân đã hội kiến Nhà vua Nhật Bản Akihito và Hoàng hậu Michiko. 
+
+
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/11/159094.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id159094', 'inline');"
+											onMouseOut="setVisibility(event,'id159094', 'none');" >
+											Thủ tướng Nguyễn Tấn Dũng kết thúc tốt đẹp chuyến thăm chính thức Nhật Bản
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/11/159094.cand'>
+											Thủ tướng Nguyễn Tấn Dũng kết thúc tốt đẹp chuyến thăm chính thức Nhật Bản
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/thoisu/2011/11/159094.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl04_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTGCT\anhtu1\nguyenbinh/1_thu2290-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="159036" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Lãnh đạo Bộ Công an tiếp các Trưởng đoàn Cảnh sát các nước thành viên Interpol
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								9:26, 02/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Ngày 1/11, lãnh đạo Bộ Công an đã có các cuộc tiếp song phương Trưởng đoàn Cảnh sát các nước thành viên Interpol tham dự Kỳ họp Đại hội đồng Interpol 80. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/11/159036.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'159036', 'inline');"
+											onMouseOut="setVisibility(event,'159036', 'none');" >
+											Lãnh đạo Bộ Công an tiếp các Trưởng đoàn Cảnh sát các nước thành viên Interpol
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/11/159036.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl05_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTGCT\anhtu1\nguyenbinh/3_dchieu2289-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id158915" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Hợp tác có hiệu quả với Cảnh sát các nước thành viên In-tơ-pôn trong phòng chống tội phạm
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								8:29, 31/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								"Nhìn lại 20 năm hợp tác quốc tế về phòng, chống tội phạm có tổ chức xuyên quốc gia, lực lượng Cảnh sát Việt Nam đã thu được những kết quả quan trọng, góp phần giữ gìn trật tự an toàn xã hội, nâng cao vị trí, vai trò và hiệu quả hoạt động của In-tơ-pôn. Những kết quả đó đã khẳng định đường lối đối ngoại đúng đắn của Đảng và Nhà nước ta trên lĩnh vực bảo đảm an ANTT trong thời kỳ hội nhập" - <STRONG>GS.TS Trần Đại Quang, Ủy viên Bộ Chính trị, Bộ trưởng Bộ Công an</STRONG>. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158915.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id158915', 'inline');"
+											onMouseOut="setVisibility(event,'id158915', 'none');" >
+											Hợp tác có hiệu quả với Cảnh sát các nước thành viên In-tơ-pôn trong phòng chống tội phạm
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158915.cand'>
+											Hợp tác có hiệu quả với Cảnh sát các nước thành viên In-tơ-pôn trong phòng chống tội phạm
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158915.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl06_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTGCT\anhtu1\nguyenbinh/1_bo2287-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="158895" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Chủ tịch nước thăm, làm việc với Nhà máy E112, Bộ Công an
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								8:58, 30/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Ngày 29/10, đồng chí Trương Tấn Sang, Ủy viên Bộ Chính trị, Chủ tịch nước, Chủ tịch Hội đồng Quốc phòng và An ninh đã đến thăm và làm việc với Nhà máy cơ khí, vũ khí và quang học nghiệp vụ (Nhà máy E112) thuộc Tổng cục Hậu cần - Kỹ thuật Bộ Công an. 
+
+
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158895.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'158895', 'inline');"
+											onMouseOut="setVisibility(event,'158895', 'none');" >
+											Chủ tịch nước thăm, làm việc với Nhà máy E112, Bộ Công an
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158895.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl07_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTGCT\anhtu1\nguyenbinh/1_chu2286-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id158704" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Phấn đấu đưa kim ngạch thương mại Việt Nam - Philippines lên mức 3 tỷ USD
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								9:02, 27/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Chủ tịch nước Trương Tấn Sang và Tổng thống Philippines Benigno S. Aquino III nhất trí phấn đấu đưa kim ngạch thương mại lên mức 3 tỷ USD hoặc hơn vào năm 2016 và tăng cường đầu tư lẫn nhau vào các lĩnh vực mà hai nước có thế mạnh.
+
+
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158704.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id158704', 'inline');"
+											onMouseOut="setVisibility(event,'id158704', 'none');" >
+											Phấn đấu đưa kim ngạch thương mại Việt Nam - Philippines lên mức 3 tỷ USD
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158704.cand'>
+											Phấn đấu đưa kim ngạch thương mại Việt Nam - Philippines lên mức 3 tỷ USD
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158704.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl08_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTGCT\anhtu1\nguyenbinh/1_tong2283-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="158647" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Làm rõ nguyên nhân và các nhóm giải pháp phòng, chống tội phạm
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								8:16, 26/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Theo Bộ trưởng Trần Đại Quang, công tác phòng ngừa xã hội hiện đã được đổi mới, vận động quần chúng tham gia phòng ngừa, xây dựng và nhân rộng mô hình, điển hình phòng, chống tội phạm... Chất lượng công tác điều tra được nâng lên, phối hợp viện kiểm sát, tòa án tháo gỡ vướng mắc trong tiến hành tố tụng. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158647.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'158647', 'inline');"
+											onMouseOut="setVisibility(event,'158647', 'none');" >
+											Làm rõ nguyên nhân và các nhóm giải pháp phòng, chống tội phạm
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158647.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl09_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTGCT\anhtu1\nguyenbinh/1_dong2282-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id158578" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Thứ trưởng Phạm Quý Ngọ tiếp Đại sứ Hoa Kỳ
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								8:12, 25/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Chiều 24/10, tại Hà Nội, Trung tướng Phạm Quý Ngọ, Ủy viên TW Đảng, Thứ trưởng Bộ Công an đã tiếp ngài David Shear, Đại sứ Hoa Kỳ tại Việt Nam. Cùng dự buổi tiếp có Thiếu tướng Trần Trọng Lượng, Phó Tổng cục trưởng Tổng cục Cảnh sát phòng chống tội phạm và đại diện lãnh đạo các đơn vị chức năng của Bộ Công an. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158578.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id158578', 'inline');"
+											onMouseOut="setVisibility(event,'id158578', 'none');" >
+											Thứ trưởng Phạm Quý Ngọ tiếp Đại sứ Hoa Kỳ
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158578.cand'>
+											Thứ trưởng Phạm Quý Ngọ tiếp Đại sứ Hoa Kỳ
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158578.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl10_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTGCT\anhtu1\nguyenbinh/1_trung2281-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="158526" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Hòa thượng Thích Thanh Tứ đón nhận Huân chương Hồ Chí Minh
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								8:48, 24/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Sáng 23/10, tại Hội trường Học viện Phật giáo Việt Nam (xã Phù Linh, huyện Sóc Sơn, TP Hà Nội) đã long trọng diễn ra lễ trao tặng Huân chương Hồ Chí Minh của Nhà nước cho Hòa thượng Thích Thanh Tứ, Phó Chủ tịch Thường trực Hội đồng trị sự Giáo hội Phật giáo Việt Nam, Ủy viên Đoàn Chủ tịch Ủy ban Trung ương MTTQ Việt Nam. 
+
+
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158526.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'158526', 'inline');"
+											onMouseOut="setVisibility(event,'158526', 'none');" >
+											Hòa thượng Thích Thanh Tứ đón nhận Huân chương Hồ Chí Minh
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158526.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl11_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTGCT\anhtu1\nguyenbinh/2_pho2280-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id158498" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Xây dựng Học viện Chính trị xứng đáng là trung tâm hàng đầu về đào tạo cán bộ và nghiên cứu KHXHNV
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								9:01, 23/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Ngày 22/10, đồng chí Nguyễn Phú Trọng, Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, Bí thư Quân ủy Trung ương đã đến thăm và nói chuyện với cán bộ, học viên, nhân viên Học viện Chính trị (Bộ Quốc phòng), nhân dịp Học viện kỷ niệm 60 năm ngày truyền thống (25/10/1951 - 25/10/2011) và đón nhận Huân chương Sao Vàng - phần thưởng cao quý của Đảng, Nhà nước trao tặng.
+
+
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158498.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id158498', 'inline');"
+											onMouseOut="setVisibility(event,'id158498', 'none');" >
+											Xây dựng Học viện Chính trị xứng đáng là trung tâm hàng đầu về đào tạo cán bộ và nghiên cứu KHXHNV
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158498.cand'>
+											Xây dựng Học viện Chính trị xứng đáng là trung tâm hàng đầu về đào tạo cán bộ và nghiên cứu KHXHNV
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158498.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl12_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTGCT\anhtu1\nguyenbinh/1_tong2279-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="158495" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Công bố quyết định bổ nhiệm Thứ trưởng Bộ Công an và Tổng cục trưởng Tổng cục HC-KT
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								8:48, 23/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Ngày 21/10, Thủ tướng Chính phủ đã ký Quyết định bổ nhiệm đồng chí Trung tướng Trần Việt Tân, Tổng cục trưởng Tổng cục V, giữ chức vụ Thứ trưởng Bộ Công an và bổ nhiệm đồng chí Thiếu tướng Lê Văn Minh, Quyền Tổng cục trưởng Tổng cục Hậu cần - Kỹ thuật (Tổng cục IV), giữ chức vụ Tổng cục trưởng Tổng cục IV. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158495.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'158495', 'inline');"
+											onMouseOut="setVisibility(event,'158495', 'none');" >
+											Công bố quyết định bổ nhiệm Thứ trưởng Bộ Công an và Tổng cục trưởng Tổng cục HC-KT
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158495.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl13_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTGCT\anhtu1\nguyenbinh/1_bo2279-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id158303" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Tổng kết thực hiện Nghị quyết của Bộ Chính trị về công tác quy hoạch, luân chuyển cán bộ lãnh đạo, quản lý trong CAND
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								8:11, 20/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Đồng chí Tô Huy Rứa, Trưởng ban Tổ chức TW, yêu cầu trong thời gian tiếp theo, lực lượng CAND cần xây dựng, bổ nhiệm đội ngũ cán bộ có chuyên môn, trình độ giỏi, bản lĩnh chính trị vững vàng, đáp ứng yêu cầu ngày càng cao của sự nghiệp bảo vệ ANQG, giữ gìn TTATXH, góp phần hoàn thành tốt các nhiệm vụ chính trị được giao…
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158303.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id158303', 'inline');"
+											onMouseOut="setVisibility(event,'id158303', 'none');" >
+											Tổng kết thực hiện Nghị quyết của Bộ Chính trị về công tác quy hoạch, luân chuyển cán bộ lãnh đạo, quản lý trong CAND
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158303.cand'>
+											Tổng kết thực hiện Nghị quyết của Bộ Chính trị về công tác quy hoạch, luân chuyển cán bộ lãnh đạo, quản lý trong CAND
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158303.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl14_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTGCT\anhtu1\nguyenbinh/1_dong2276-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="158265" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Thứ trưởng Phạm Quý Ngọ dự khai giảng tại Trường Trung cấp CSND I 
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								10:41, 19/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Ngày 18/10, trong niềm vui hân hoan ngày nhập trường của các tân sinh viên, Trường Trung cấp CSND I đã tưng bừng tổ chức lễ khai giảng năm học mới. Đến dự có đồng chí Trung tướng Phạm Quý Ngọ, Ủy viên TW Đảng, Thứ trưởng Bộ Công an; các đồng chí lãnh đạo một số Tổng cục, đại diện nhiều Cục, Vụ, Viện, trường CAND cùng toàn thể cán bộ, giảng viên, học viên của nhà trường…
+
+
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158265.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'158265', 'inline');"
+											onMouseOut="setVisibility(event,'158265', 'none');" >
+											Thứ trưởng Phạm Quý Ngọ dự khai giảng tại Trường Trung cấp CSND I 
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158265.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl15_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTGCT\anhtu1\nguyenbinh/3_trung2275-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id158183" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Thủ tướng Nguyễn Tấn Dũng tiếp cựu Thủ tướng Nhật Bản
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								9:54, 17/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Bày tỏ ấn tượng trước những thành tựu mà Việt Nam đạt được, tại buổi tiếp, cựu Thủ tướng Nhật Bản Yukio Hatoyama đánh giá cao tình cảm hữu nghị, sự giúp đỡ quý báu, hiệu quả của Nhà nước và nhân dân Việt Nam đối với Nhật Bản trong trận động đất, sóng thần xảy ra tại Nhật Bản vừa qua. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158183.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id158183', 'inline');"
+											onMouseOut="setVisibility(event,'id158183', 'none');" >
+											Thủ tướng Nguyễn Tấn Dũng tiếp cựu Thủ tướng Nhật Bản
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158183.cand'>
+											Thủ tướng Nguyễn Tấn Dũng tiếp cựu Thủ tướng Nhật Bản
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/158183.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl16_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTGCT\anhtu1\nguyenbinh/1_thu2274-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="157968" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Các đơn vị cần tăng cường kiểm tra, xử lý nghiêm sai phạm
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								8:54, 14/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Phát biểu tại Hội nghị giao ban công tác XDLL CAND cụm thi đua số 1 và 2, Thứ trưởng Bùi Quang Bền yêu cầu lãnh đạo Công an các đơn vị, địa phương cần tăng cường quản lý, giáo dục, rèn luyện, đi kèm với việc chăm lo, đảm bảo đời sống của cán bộ, chiến sĩ mình. Các đơn vị có thẩm quyền cần tăng cường kiểm tra, xử lý sai phạm theo quy định của pháp luật, không bao che, dung túng cho bất cứ ai.
+
+
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/157968.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'157968', 'inline');"
+											onMouseOut="setVisibility(event,'157968', 'none');" >
+											Các đơn vị cần tăng cường kiểm tra, xử lý nghiêm sai phạm
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/157968.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl17_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\anhtu1\anhtu1/3_trung2270-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id157926" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Quy định rõ thời gian trả lời đơn để tránh khiếu nại vượt cấp
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								11:39, 13/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Cơ quan có thẩm quyền cần phải có trách nhiệm trả lời đơn, thư tố cáo, khiếu nại, đảm bảo quyền lợi, lợi ích của dân. Điều này cũng sẽ hạn chế tình trạng khiếu kiện, khiếu nại vượt cấp. 
+
+
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/157926.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id157926', 'inline');"
+											onMouseOut="setVisibility(event,'id157926', 'none');" >
+											Quy định rõ thời gian trả lời đơn để tránh khiếu nại vượt cấp
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/157926.cand'>
+											Quy định rõ thời gian trả lời đơn để tránh khiếu nại vượt cấp
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/157926.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl18_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\anhtu1\anhtu1\nguyenbinh/3_giai2269-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="157820" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Việt Nam coi trọng quan hệ hợp tác toàn diện với Trung Quốc
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								8:18, 12/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Nhận lời mời của Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Trung Quốc, Chủ tịch nước Cộng hòa Nhân dân Trung Hoa Hồ Cẩm Đào, ngày 11/10/2011, Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam Nguyễn Phú Trọng bắt đầu chuyến thăm chính thức nước Cộng hòa Nhân dân Trung Hoa (từ 11 đến 15/10). 
+
+
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/157820.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'157820', 'inline');"
+											onMouseOut="setVisibility(event,'157820', 'none');" >
+											Việt Nam coi trọng quan hệ hợp tác toàn diện với Trung Quốc
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/157820.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl19_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\anhtu1\anhtu1/1_tong2268-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id157757" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Thứ trưởng Thường trực Đặng Văn Hiếu tiếp đoàn Đại biểu Bộ Ngoại giao Vương quốc Anh
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								8:26, 11/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Chiều 10/10, Đoàn đại biểu Bộ Ngoại giao Vương quốc Anh do ngài Anthony Layden, Đặc phái viên Bộ trưởng Bộ Ngoại giao làm Trưởng đoàn đã làm việc với Bộ Công an Việt Nam. Bà Kate Harrisson, Phó Đại sứ Vương quốc Anh tại Việt Nam cùng dự buổi làm việc. 
+
+
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/157757.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id157757', 'inline');"
+											onMouseOut="setVisibility(event,'id157757', 'none');" >
+											Thứ trưởng Thường trực Đặng Văn Hiếu tiếp đoàn Đại biểu Bộ Ngoại giao Vương quốc Anh
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/157757.cand'>
+											Thứ trưởng Thường trực Đặng Văn Hiếu tiếp đoàn Đại biểu Bộ Ngoại giao Vương quốc Anh
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/thoisu/2011/10/157757.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl20_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\anhtu1\anhtu1\anhtu1/3_trung2267-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		</table>
+	
+</TD>
+	</TR>
+	<TR>
+		<TD class="rightside_cell"></TD>
+	</TR>
+	<tr>
+		<td>
+			
+		</td>
+	</tr>
+	<TR>
+		<TD class="rightside_cell" align="center"></TD>
+	</TR>
+</TABLE>
+</TD>
+												</TR>
+												<TR>
+													<TD></TD>
+												</TR>
+											</TABLE>
+										</TD>
+									</TR>
+								</TBODY>
+							</TABLE>
+						</TD>
+					</TR>
+					<TR>
+						<TD>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="leftright_columms">
+	<tr>
+		<td vAlign="bottom" align="left">
+			
+		</td>
+	</tr>
+	<tr>
+		<td class="c_right" bgcolor="#920000" height="25">
+			<div align="center">
+				<a id="Footer_lnkCAND" href="http://ca.cand.com.vn">Công an Nhân dân </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkANTG" href="http://antg.cand.com.vn">An ninh Thế giới </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkANTGCT" href="http://antgct.cand.com.vn">ANTG Cuối tháng </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkVNCA" href="http://vnca.cand.com.vn">Văn nghệ Công An </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkSitemap" href="http://www.cand.com.vn/News/Sitemap.aspx">Sơ đồ Website </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkRSS" href="http://www.cand.com.vn/RSS/Default.aspx">RSS </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkFAQ" href="http://www.cand.com.vn/News/FAQ.aspx">FAQ </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkWeblink" href="http://www.cand.com.vn/News/WebLink.aspx">Liên kết Web</a>
+			</div>
+		</td>
+	</tr>
+	<tr height="36">
+		<td bgcolor="#407080" height="36" style="PADDING-BOTTOM:8px;PADDING-TOP:6px">
+			<!--
+			<div align="center" style="PADDING-BOTTOM:2px"><span id="Footer_lbFooter4" class="footer_title1">Tổng Biên tập: Trung tướng Hữu Ước</span></div>
+			-->
+			<DIV align="center" style="PADDING-BOTTOM:2px">
+				<span id="Footer_lbFooter1" class="footer_title1">Phụ trách Ban Báo CAND Điện tử: Lê Kim Chi</span></DIV>
+			<DIV align="center" style="PADDING-BOTTOM:2px">
+				<span id="Footer_lbFooter2" class="footer_title2">©2007. Báo Công an nhân dân điện tử - CAND Online. All rights reserved.</span>
+			</DIV>
+			<div align="center" style="PADDING-BOTTOM:2px">
+				<span id="Footer_lbFooter3" class="footer_title2">Khi sử dụng lại thông tin từ website này, xin vui lòng ghi rõ nguồn "CAND Online".</span>
+			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+	_uacct = "UA-4763663-1";
+	_udn="cand.com.vn";
+	urchinTracker();
+</script></TD>
+					</TR>
+				</TBODY>
+			</TABLE>
+			<img src='/rpc/counter.aspx?ckey=F_view&cvalue=119&story=159184&rand=1127648757' width=1 height=1 border=0 alt=''></form>
+	</body>
+</HTML>

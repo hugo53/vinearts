@@ -1,0 +1,621 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />		
+		
+		<meta name="robots" content="INDEX,FOLLOW" />
+			
+		<meta name="description" content="Tình yêu trong năm đầu tiên rất quan trọng. Trong thời gian này, các yếu tố chi phối tình yêu dần được hình thành. Cô ấy sẽ dần nhận ra những tính xấu ở bạn dù bạn cố che giấu tới đâu. > 6 lỗi quý ông hay mắc khi 'yêu'" />
+			
+		<title>Lỗi thường gặp khi mới yêu - VnExpress</title>
+		
+		<meta name="keywords" content="yêu,mối quan hệ,tặng quà,hôn nhân,gặp mặt" />	
+		
+		<meta http-equiv="REFRESH" content="3600" />
+		
+		<link rel="stylesheet" href="/Resource/Common/default.css" type="text/css" />	
+		<link href="http://go.polyad.net/style/context/2.css" rel="Stylesheet" style="text/css"> 		
+		
+		<link rel="alternate" type="application/rss+xml" title="VnExpress - RSS" href="/RSS/GL/trang-chu.rss" />
+			
+		
+		<script type="text/javascript" language="javascript" src="/Library/Common/Library.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/Vne.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/FlashMedia.js"></script>						
+        <script type="text/javascript" language="javascript" src="/Library/Common/AjaxRequest.js"></script>
+		<script type="text/javascript" language="javascript" src="/Library/Common/vietUni.js"></script>
+		<script type="text/javascript" language="javascript" src="/Resource/00/ArrMenu.js"></script>        				
+		<script type="text/javascript" language="javaScript">
+			var PAGE_SITE=0;
+			var PAGE_FOLDER=26;	
+			var PAGE_ID=1001305808;	
+			var DOMESTIC_IP=1;	
+			setTypingMode(1);
+				
+			sLoDID=sLoDID.concat('1001305808').concat(',');
+			
+		</script>
+		<script type="text/javascript" language="javascript" src="/Resource/Common/Menu.js"></script>
+		
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-249346-1']);
+		_gaq.push(['_trackPageview']);
+		
+		_gaq.push(['b._setAccount', 'UA-249346-21']);
+		_gaq.push(['b._trackPageview']);
+		
+		_gaq.push(['c._setAccount', 'UA-249346-22']);
+		_gaq.push(['c._trackPageview']);
+		
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	
+		<script src="/Library/Common/jquery-1.6.3.min.js"></script>		
+		
+<script type="text/javascript" src="/library/Common/VNEShowAds.js"></script>
+<script src="/library/common/adlibv1.js" type="text/javascript"></script>
+<script src="/library/common/lib.js" type="text/javascript"></script>
+
+	</head>
+	<body>	
+		
+				
+		<input type="hidden" id="CurrentBrowserWidth" value="" />
+		<input type="hidden" id="ShowBackground" value="1" />
+		<div id="divSlideResultLeft" style="background-repeat:no-repeat;background-position:right top;over-flow:hidden;cursor:pointer;text-align:right;padding:0px;position: fixed!important;position: absolute; /*ie6 and above*/;left: 0px; top: 0px;overflow:hidden;"></div>
+		<div id="divSlideResultRight" style="background-repeat:no-repeat;over-flow:hidden;cursor:pointer;text-align:left;padding:0px;position: fixed!important; position: absolute; /*ie6 and above*/;right: 0px; top: 0px;overflow:hidden;"></div>				
+		
+		<div id="outter">		
+		<div id="divMove" style="width:1000px;">
+		<div class="fpr2">
+			<div id="header">
+				<div id="logoEH" class="logo fl" >
+					
+					<a onfocus="this.blur()" hidefocus="" href="/"><img class="img-logo" src="/Images/blank.gif" alt="" /></a>
+					
+				</div>
+				<div id="topbannerEH" class="topbanner fr">
+					
+					<table border="0" cellpadding="0" cellspacing="0" style="width:100%;">
+						<tr>
+							<td style="vertical-align:middle">
+																
+									<script type="text/javascript" language="javascript">
+										Poly_ShowTopBanner();
+									</script>								
+								
+							</td>                           
+						</tr>
+					</table>				
+					
+				</div>
+			</div>			
+		</div>				
+		<div id="menu">
+	<div class="searchmenu">
+		<div class="fl icone"></div>
+		<div class="drss fl"><a href="/GL/RSS/" class="link-rss lnkrss">RSS<span></span></a></div>
+		<div id="mn-search" class="search fr">
+			<form onsubmit="return CheckValue(document.Search.s);" action="http://search.vnexpress.net/news" id="Search" name="Search">
+				<span class="fl borright"></span>
+				<input type="text" value="Từ khóa tìm kiếm" onfocus="SearchOnFocus(this)" onkeydown="" onkeyup="initTyper(this)" onblur="SearchOnBlur(this)" id="s" name="s" class="txtsearch fl">
+				<img onclick="return CheckValue(document.Search.s);" alt="" src="/images/blank.gif" class="img-search fl">
+				<input type="hidden" value="66FD8EC7-FA76-4A7C-8FE3-DB605B4C9CE0" name="g">
+				<input type="hidden" value="yes" name="butS">
+			</form>
+		</div>
+	</div>
+	<!--[if lte IE 6]><a id="lnkIE6" href="#"><table cellpadding=0 cellspacing=0 style="border: 0; margin: 0; padding: 0; width: 1000px; height: 25px;"><tr><td><![endif]-->
+	<div class="menu">
+		<ul>
+			<li><div class="fl mn-borleft"></div></li>
+			
+			<li>
+				<a href="/"><span class="pmenuL"></span><span class="pmenuM">Trang nhất</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<!--<ul style="padding: 0px; height: 16px">
+					<div class="fl icone"></div>
+					<div class="drss fl"><a href="/GL/RSS/" class="link-rss">RSS <span></span></a></div>
+				</ul>-->
+				<ul class="smenu-home">	
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+					<li class="lnknews24h"><a href="/gl/24h-qua/"></a></li>
+					<li class="ico-ct-wrap">
+						<span class="fl ico-ct"></span>
+						<p class="fl phonect"><span>0123.888.0123</span> (HN) - <span>0129.233.3555</span> (TP.HCM)</p>
+					</li>				
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/video/"><span class="pmenuL"></span><span class="pmenuM">Video</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">													
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/xa-hoi/"><span class="pmenuL"></span><span class="pmenuM">Xã hội</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li><a href="/gl/xa-hoi/giao-duc/">Giáo dục</a></li>
+					<li><a href="/gl/xa-hoi/nhip-dieu-tre/">Nhịp điệu trẻ</a></li>
+					<li><a href="/gl/xa-hoi/du-lich/">Du lịch</a></li>
+					<li><a href="/gl/xa-hoi/co-hoi-du-hoc/">Du học</a></li>												
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/the-gioi/"><span class="pmenuL"></span><span class="pmenuM">Thế giới</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->				
+				<ul class="smenu-other">					
+					<li><a href="/gl/the-gioi/cuoc-song-do-day/">Cuộc sống đó đây</a></li>
+					<li><a href="/gl/the-gioi/anh/">Ảnh</a></li>
+					<li><a href="/gl/the-gioi/nguoi-viet-5-chau/">Người Việt 5 châu</a></li>
+					<li><a href="/gl/the-gioi/phan-tich/">Phân tích</a></li>
+					<li><a href="/gl/the-gioi/tu-lieu/">Tư liệu</a></li>								
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/kinh-doanh/"><span class="pmenuL"></span><span class="pmenuM">Kinh doanh</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->					
+				<ul class="smenu-other">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/gl/ebank/">Ebank</a></li>
+					<li><a href="/gl/kinh-doanh/chung-khoan/">Chứng khoán</a></li>
+					<li><a href="/gl/kinh-doanh/bat-dong-san/">Bất động sản</a></li>
+					<li><a target="_blank" href="http://nhadep.vnexpress.net/gl/nha-dep/">Nhà đẹp</a></li>
+					<li><a href="/gl/kinh-doanh/kinh-nghiem/">Doanh nhân</a></li>
+					<li><a href="/gl/kinh-doanh/quoc-te/">Quốc tế</a></li>
+					<li><a href="/gl/doi-song/mua-sam/">Mua sắm</a></li>
+					<li><a href="/gl/kinh-doanh/doanh-nghiep-viet/">Doanh nghiệp viết</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/van-hoa/"><span class="pmenuL"></span><span class="pmenuM">Văn hóa</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">					
+					<li><a href="/gl/van-hoa/hoa-hau/">Hoa hậu</a></li>
+					<li><a href="/gl/van-hoa/guong-mat-nghe-sy/">Nghệ sỹ</a></li>
+					<li><a href="/gl/van-hoa/am-nhac/">Âm nhạc</a></li>
+					<li><a href="/gl/van-hoa/thoi-trang/">Thời trang</a></li>
+					<li><a href="/gl/van-hoa/san-khau-dien-anh/">Điện ảnh</a></li>
+					<li><a href="/gl/van-hoa/my-thuat/">Mỹ thuật</a></li>
+					<li><a target="_blank" href="http://evan.vnexpress.net/">Văn học</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/the-thao/"><span class="pmenuL"></span><span class="pmenuM">Thể thao</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smsport"><a href="/gl/the-thao/bong-da/">Bóng đá</a></li>
+					<li><a href="/gl/the-thao/tennis/">Tennis</a></li>
+					<li><a href="/gl/the-thao/chan-dung/">Chân dung</a></li>
+					<li><a href="/gl/the-thao/anh-video/">Ảnh - Video</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="http://seagames.vnexpress.net/" target="_blank"><span class="pmenuL"></span><span class="pmenuM">SEA Games 26</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li class="smseagames26"><a href="http://seagames.vnexpress.net/tin/lich-dau/" target="_blank">Lịch đấu</a></li>
+					<li><a href="http://seagames.vnexpress.net/tin/xep-hang/" target="_blank">Bảng xếp hạng</a></li>					
+					<li><a href="http://seagames.vnexpress.net/tin/bong-da/" target="_blank">Bóng đá</a></li>					
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/phap-luat/"><span class="pmenuL"></span><span class="pmenuM">Pháp luật</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smlaw"><a href="/gl/phap-luat/hinh-su/">Hình sự</a></li>
+					<li><a href="/gl/phap-luat/ky-su/">Ký sự</a></li>
+					<li><a href="/gl/phap-luat/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li class="active"><a href="/gl/doi-song/"><span class="pmenuL"></span><span class="pmenuM">Đời sống</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+			
+				<ul class="smenu-other">										
+					<li class="smlife"><a href="/gl/doi-song/cau-chuyen-cuoc-song/">Câu chuyện cuộc sống</a></li>
+					<li><a href="/gl/doi-song/gia-dinh/">Gia đình</a></li>
+					<li><a href="/gl/suc-khoe/">Sức khỏe</a></li>
+					<li><a href="/gl/doi-song/am-thuc/">Ẩm thực</a></li>
+					<li><a href="/gl/suc-khoe/lam-dep/">Làm đẹp</a></li>
+					<li><a href="/gl/doi-song/blog/">Cửa sổ Blog</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/khoa-hoc/"><span class="pmenuL"></span><span class="pmenuM">Khoa học</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smscience"><a href="/gl/khoa-hoc/moi-truong/">Môi trường</a></li>
+					<li><a href="/gl/khoa-hoc/thien-nhien/">Thiên nhiên</a></li>
+					<li><a href="/gl/khoa-hoc/anh/">Ảnh</a></li>
+					<li><a href="/gl/khoa-hoc/ky-thuat-moi/">Công nghệ mới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/vi-tinh/"><span class="pmenuL"></span><span class="pmenuM">Vi tính</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smmicrocalculate"><a href="/gl/vi-tinh/san-pham-moi/">Sản phẩm mới</a></li>
+					<li><a href="/gl/vi-tinh/kinh-nghiem/">Kinh nghiệm</a></li>
+					<li><a href="/gl/vi-tinh/giai-tri/">Giải trí</a></li>
+					<li><a href="/gl/vi-tinh/hoi-dap/">Hỏi đáp</a></li>
+					<li><a href="/gl/vi-tinh/hacker-virus/">Hacker &amp; Virus</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/oto-xe-may/"><span class="pmenuL"></span><span class="pmenuM">Ôtô - Xe máy</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">					
+					<li class="smcar"><a href="/gl/oto-xe-may/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/ban-doc-viet/"><span class="pmenuL"></span><span class="pmenuM">Bạn đọc</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-bdv">					
+					<li><a href="/gl/ban-doc-viet/khoa-hoc/">Khoa học</a></li>						
+					<li><a href="/gl/ban-doc-viet/doi-song/">Đời sống</a></li>
+					<li><a href="/gl/ban-doc-viet/phap-luat/">Pháp luật</a></li>
+					<li><a href="/gl/ban-doc-viet/xa-hoi/">Xã hội</a></li>
+					<li><a href="/gl/ban-doc-viet/kinh-doanh/">Kinh doanh</a></li>
+					<li><a href="/gl/ban-doc-viet/the-thao/">Thể thao</a></li>
+					<li><a href="/gl/ban-doc-viet/van-hoa/">Văn hoá</a></li>
+					<li><a href="/gl/ban-doc-viet/the-gioi/">Thế giới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/ban-doc-viet/tam-su/"><span class="pmenuL"></span><span class="pmenuM">Tâm sự</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other"></ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/rao-vat/"><span class="pmenuL"></span><span class="pmenuM">Rao vặt</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-raovat">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/cuoi/"><span class="pmenuL"></span><span class="pmenuM">Cười</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-bdv">
+					<li><a href="/gl/cuoi/video/">Video</a></li>
+					<li><a href="/gl/cuoi/tieu-pham/">Tiểu phẩm</a></li>						
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+		</ul>
+	</div><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</div>
+
+		<div id="content">			
+			
+			<div class="content-center fl">			
+			<div class="folder-header">
+	<script type="text/javascript" language="javascript">writeFolderTitle(PAGE_FOLDER);</script>
+	<div class="fr">Ch&#7911; nh&#7853;t, 6/11/2011, 07:03 GMT+7</div>
+</div>
+<div class="email-print txtr">
+	<script>
+	writeSociable('http://vnexpress.net/gl/doi-song/gia-dinh/2011/11/loi-thuong-gap-khi-moi-yeu/','Lỗi+thường+gặp+khi+mới+yêu','Lỗi+thường+gặp+khi+mới+yêu','sociable',1001305808);
+	</script>
+<font onClick="return EmailSubject(1001305808)"><img border="0" src="/Images/email.gif" align="bottom">&nbsp;E-mail</font>
+&nbsp;&nbsp;&nbsp;<font onClick="return PrintSubject()"><img border="0" src="/Images/print.gif" align="bottom">&nbsp;B&#7843;n In</font>
+</div>
+
+				<div class="content">
+					<div style="overflow:hidden" cpms_content="true">
+				<H1 class=Title align=left>Lỗi thường gặp khi mới yêu</H1>
+<TABLE cellSpacing=0 cellPadding=3 width=1 align=left border=0>
+<TR>
+<TD><IMG src="/Files/Subject/3b/ae/b6/d0/love1.jpg" width=250 height=195 alt="Ảnh:" /></TD></TR>
+<TR>
+<TD class="Image">Ảnh: <EM>topfreeonlinedatingsites.com.</EM></TD></TR></TABLE><H2 class=Lead>Tình yêu trong năm đầu tiên rất quan trọng. Trong thời gian này, các yếu tố chi phối tình yêu dần được hình thành. Cô ấy sẽ dần nhận ra những tính xấu ở bạn dù bạn cố che giấu tới đâu. <BR>> <A href="/gl/doi-song/2010/11/3ba23355/" class="Lead">6 lỗi quý ông hay mắc khi 'yêu'</A></H2>
+<P class=Normal>Cách cư xử của bạn lúc này đặc biệt quan trọng. Đừng để cô ấy đặt ra những kỳ vọng quá cao và muốn bạn phải thay đổi bản thân để phù hợp với hình mẫu của mình. Và có những sai lầm nam giới không nên mắc phải trong năm đầu tiên hai người yêu nhau.</P>
+<H3 class=SubTitle>Tặng quà dồn dập </H3>
+<P class=Normal>Đàn ông tin rằng nếu tiêu nhiều tiền vì một người phụ nữ sẽ khiến cô ấy thêm yêu mình. Mua thật nhiều quá, quà đắt tiền càng tốt, không bao giờ quên các dịp lễ Tết lớn nhỏ trong năm, không bỏ qua bất cứ dịp nào. Thật sai lầm. Vậy đến lúc bạn khó khăn và không có điều kiện mua những món quà đắt tiền thì sao? Tệ hơn nữa, cô ấy có thể bắt đầu đòi hỏi quà tặng liên tục. Hãy cất ví đi và tặng cô ấy món quà đắt giá nhất: đó chính là bản thân bạn.</P>
+<P class=Normal>Hơn thế, bạn không cần phải chi trả tất cả mọi thứ lớn nhỏ khi hẹn hò. Nếu cô ấy muốn mua vé xem phim hoặc đi chợ nấu ăn thay vì đi nhà hàng, hãy để cô ấy làm. Là người đàn ông lịch lãm và phóng khoáng cũng tốt, nhưng đừng làm hỏng người yêu bằng vật chất.</P>
+<H3 class=SubTitle>Luôn ở bên cô ấy</H3>
+<P class=Normal>Có hai điểm bất lợi nếu bạn dành tất cả thời gian rảnh của mình để ở bên người yêu. Thứ nhất, bạn đã từ bỏ cuộc sống xã hội của mình, đồng nghĩa với việc từ bỏ niềm vui, lợi ích từ các mối quan hệ khác. Nếu không gặp gỡ bạn bè, bạn sẽ dễ căng thẳng. Hãy nhớ, người yêu chưa chắc đã ở bên bạn mãi mãi. Hãy đầu tư khôn ngoan cho cả những mối quan hệ khác nữa.</P>
+<P class=Normal>Thứ hai, bạn đã chiếm hết thời gian riêng tư của cô ấy. Ai cũng cần có không gian và thời gian riêng tư của mình. Ở bên nhau quá nhiều khiến hai bạn phát ngấy lên với nhau.</P>
+<H3 class=SubTitle>Để cô ấy quyết định mọi việc</H3>
+<P class=Normal>Phụ nữ rất ghét đàn ông thụ động, không muốn chịu trách nhiệm bất cứ việc gì và để phụ nữ phải đứng mũi chịu sào mọi chuyện lớn nhỏ. Né tránh trách nhiệm hoặc chần chừ khi đưa ra quyết định chẳng phải là dễ tính, hay tôn trọng, ưu tiên nhường nhịn gì người yêu. Nó chỉ nói lên bạn là người đàn ông không có nghị lực, không mạnh mẽ. Hãy nhanh chóng quyết định hai người sẽ ăn gì, đi đâu và bạn sẽ mặc gì. Đừng nhầm lẫn giữa sự thỏa hiệp và tính lưỡng lự. </P>
+<P class=Normal>Đôi lúc phải học cách nói "Không". Có thể bạn muốn cô ấy vui; có thể bạn muốn làm dịu cơn tức giận của cô ấy; nhưng đây không phải lý do để bạn trở nên dễ lung lay và không quyết đoán. Nếu không đồng ý trong chuyện gì, hãy thể hiện ra. Đừng trở thành con rối cho người khác giật dây. Làm như vậy bạn sẽ đánh mất sự tôn trọng của cô ấy và biến mình thành trò cười.</P>
+<H3 class=SubTitle>Ra mắt bạn bè và gia đình cô ấy quá sớm</H3>
+<P class=Normal>Khi ra mắt bạn bè và gia đình cô ấy, từng nhịp thở, cử chỉ, ngôn từ của bạn sẽ bị quan sát kỹ lưỡng. Áp lực này là không cần thiết. Bạn không phải cố gắng hiểu và lấy thiện cảm của những người này khi bạn còn chưa hiểu rõ cô ấy. Khi hai bạn đã đủ thân thiết, bạn sẽ thấy thoải mái hơn khi đi gặp họ. Và đừng để bạn bè và gia đình cô ấy ảnh hưởng tới mối quan hệ của hai người. Hãy để họ phải học cách yêu quý và chấp nhận bạn khi nhân vật chính là cô ấy đã yêu bạn say đắm. </P>
+<H3 class=SubTitle>Giấu giếm quá khứ </H3>
+<P class=Normal>Cái kim trong bọc sớm muộn cũng có ngày lòi ra. Bạn nên chân thành chia sẻ với cô ấy cả quá khứ và hiện tại của mình. Những sự thật như bạn đã từng kết hôn hoặc có bệnh tật gì chẳng hạn, bạn bắt buộc phải cho cô ấy biết. Dĩ nhiên, những điều này không cần phải nói ngay lập tức, bạn có thể chọn thời điểm thích hợp với cả hai người. </P>
+<H3 class=SubTitle>Tránh mọi tranh luận</H3>
+<P class=Normal>Giao tiếp, đối thoại là cách giải quyết vấn đề hiệu quả, nếu bạn lẩn tránh vấn đề, không muốn nói chuyện, chia sẻ quan điểm, vấn đề sẽ càng trở nên nghiêm trọng. Một cuộc tranh luận nhỏ ngay khi vấn đề mới xuất hiện còn hơn là một trận chiến to về sau. </P>
+<P class=Normal>Tránh đối thoại cũng là một sự thiếu trách nhiệm, tùy tiện với bản thân, đồng thời, bạn đã không cho cô ấy cơ hội hiểu được mong muốn thật sự của bạn là gì. </P>
+<H3 class=SubTitle>Chỉ biết nhận</H3>
+<P class=Normal>Để duy trì sức hấp dẫn của tình yêu, quyến rũ là yếu tố quan trọng hàng đầu và cần được quan tâm dài hơi. Khi đã yêu nhau rồi, đàn ông dễ trở nên thoải mái với bản thân. Bạn bớt đưa cô ấy đi chơi hơn, bớt chăm chút cho vẻ ngoài của mình, bớt ân cần, chu đáo, không còn chăm chú nghe những gì cô ấy nói và vô tình bỏ qua những chi tiết quan trọng trong câu chuyện. Nếu cô ấy thật đặc biệt và quan trọng, bạn hãy thể hiện điều này cho cô ấy biết. Luôn trân trọng cô ấy như khi hai người mới yêu. </P>
+<H3 class=SubTitle>Luôn chủ động khi ‘yêu’</H3>
+<P class=Normal>Đàn ông nên chủ động nếu muốn ‘yêu’ ở ngoài phòng ngủ. Còn lại thì không nên gánh hết trách nhiệm khởi xướng, nhập cuộc lên vai mình. Dỗ ngọt, tán tỉnh để khiêu khích bản năng bên trong cô ấy. Bạn sẽ giúp cô ấy phát hiện ra sự mãnh liệt, nóng bỏng mà thậm chí cô ấy không tin là mình có. Điều này sẽ đem lại sự phong phú, mới mẻ cho tình yêu của hai bạn.</P>
+<H3 class=SubTitle>Tha thứ mọi lỗi lầm </H3>
+<P class=Normal>Cô ấy nên học cách cư xử tốt, đặc biệt khi hai người mới yêu nhau, đừng để thói quen giận dỗi, cáu kỉnh được bám rễ. Một khi đã có những thói quen xấu, cô ấy sẽ ngày càng trở nên khó chịu hơn. Nếu cô ấy làm gì khiến bạn khó chịu, hãy nói ra. Không nên cắn răng chịu đựng những thói quen xấu. Nếu bạn cứ cố gắng kìm nén rồi dễ dàng bỏ qua, mọi chuyện sẽ tích dần lại và như quả bom nổ chậm, nó ẩn chứa nhiều nguy cơ.</P>
+<H3 class=SubTitle>Nói lời yêu quá sớm và quá nhiều</H3>
+<P class=Normal>Ba từ quan trọng nhất này không nên được nói ra quá nhiều, nếu không chúng sẽ trở nên vô nghĩa. Phụ nữ thích được nghe lời yêu, nhưng nếu bạn nói quá thường xuyên sẽ khiến cô ấy thấy thật bình thường và chẳng còn lãng mạn. Hãy nói vào những dịp đặc biệt; hãy để cô ấy phải cố gắng, phải mè nheo một chút mới được nghe. Và chỉ nói khi bạn thực sự muốn. </P>
+<P class=Normal>Duy trì một tình yêu đẹp đòi hỏi cả hai bên phải cố gắng, quan tâm lẫn nhau và quan tâm chính mình. Đừng tạo ra những tiền lệ xấu trong tình yêu bởi nó có thể công phá tình yêu của hai bạn. Hãy luôn thông minh để dẫn tình yêu đi đúng hướng.</P>
+<P class=Normal align=right><STRONG>Hồ Bích Ngọc</STRONG></P>
+ 
+			</div>
+			<div class="tag-parent"><img src='/Images/tags.gif' class="tag"><div class="tag-pos"><h3 class="tag-text"><a href='/tag/1932/yeu/'>yêu</a>, <a href='/tag/24928/moi-quan-he/'>mối quan hệ</a>, <a href='/tag/22919/tang-qua/'>tặng quà</a>, <a href='/tag/6239/hon-nhan/'>hôn nhân</a>, <a href='/tag/38014/gap-mat/'>gặp mặt</a></h3></div></div>
+			<div style="margin-top:5px;margin-bottom:5px;">							
+				<script language="javascript">					
+					Poly_ShowArticlebanner();										
+				</script>				
+			</div>
+		</div>				
+		<div class="folder-news">
+	<div class="boxnew-header">
+		<div class="boxnew-title fl">Tin mới</div>
+	</div>
+	<div class="boxnew">
+		<ul>
+		<li><a href="/gl/doi-song/cau-chuyen-cuoc-song/2011/11/nguoi-phu-nu-mang-bau-lao-vao-mui-xe-lua-cuu-be-tho/" class="link-othernews">Người phụ nữ mang bầu lao vào mũi xe lửa cứu bé thơ</a><span style="color: #909090">&nbsp;(06/11)</span></li>
+		<li><a href="/gl/doi-song/blog/2011/11/tinh-nho-de-quen/" class="link-othernews">Tình nhỏ dễ quên</a><span style="color: #909090">&nbsp;(06/11)</span></li>
+		<li><a href="/gl/doi-song/loi-cua-be/2011/11/khi-con-tin-nhiem-me/" class="link-othernews">Khi con 'tín nhiệm' mẹ</a><span style="color: #909090">&nbsp;(06/11)</span></li>
+		<li><a href="/gl/doi-song/am-thuc/2011/11/man-ma-banh-bot-loc-nhan-tom-xu-hue/" class="link-othernews">Mặn mà bánh bột lọc nhân tôm xứ Huế</a><span style="color: #909090">&nbsp;(06/11)</span></li>
+		<li><a href="/gl/doi-song/blog/2011/11/toi-yeu-em-nhung-nang-no-voi-nguoi-con-gai-khac/" class="link-othernews">Tôi yêu em nhưng nặng nợ với người con gái khác</a><span style="color: #909090">&nbsp;(06/11)</span></li>
+		</ul>
+	</div>
+</div>
+<div class="folder-news">
+	<div class="othernews-header">
+		<div class="othernews-title fl">C&#225;c tin kh&#225;c</div>
+		<div class="fr txtr" style="margin-bottom:5px;"><label onClick="history.go(-1)" class="Time" style="cursor:pointer">[<B>Tr&#7903; v&#7873;</B>]</label></div>
+	</div>
+	<div class="othernews">
+		<ul>
+		<li><a href="/gl/doi-song/gia-dinh/2011/11/an-toan-chay-no-trong-ngoi-nha-cua-ban/" class="link-othernews">An toàn cháy nổ trong ngôi nhà của bạn</a>&nbsp;<img border="0" src="/Images/video2.gif" />&nbsp;
+<span style="color: #909090">&nbsp;(05/11)</span></li>
+		<li><a href="/gl/doi-song/gia-dinh/2011/11/thoi-diem-tot-de-ban-ngo-loi-yeu-nang/" class="link-othernews">Thời điểm tốt để bạn ngỏ lời yêu nàng</a><span style="color: #909090">&nbsp;(05/11)</span></li>
+		<li><a href="/gl/doi-song/gia-dinh/2011/11/moi-lo-teen-loan-ngon-khi-hoc-doi-sat-thu-dau-mung-mu/" class="link-othernews">Mối lo teen loạn ngôn khi học đòi 'Sát thủ đầu mưng mủ'</a><span style="color: #909090">&nbsp;(03/11)</span></li>
+		<li><a href="/gl/doi-song/gia-dinh/2011/11/noi-dau-dang-sau-nhung-moi-tinh-vung-trom/" class="link-othernews">Nỗi đau đằng sau những mối tình vụng trộm</a><span style="color: #909090">&nbsp;(02/11)</span></li>
+		<li><a href="/gl/doi-song/gia-dinh/2011/11/nan-nhan-cua-ngoai-tinh-la-con-tre/" class="link-othernews">'Nạn nhân của ngoại tình là con trẻ'</a><span style="color: #909090">&nbsp;(02/11)</span></li>
+		<li><a href="/gl/doi-song/gia-dinh/2011/10/10-ly-do-khien-nguoi-ta-ngoai-tinh/" class="link-othernews">10 lý do khiến người ta ngoại tình</a><span style="color: #909090">&nbsp;(31/10)</span></li>
+		<li><a href="/gl/doi-song/gia-dinh/2011/10/phap-luat-chua-du-suc-ran-de-nguoi-ngoai-tinh/" class="link-othernews">'Pháp luật chưa đủ sức răn đe người ngoại tình'</a><span style="color: #909090">&nbsp;(30/10)</span></li>
+		<li><a href="/gl/doi-song/gia-dinh/2011/10/tinh-vung-trom-chon-cong-so/" class="link-othernews">Tình vụng trộm chốn công sở</a><span style="color: #909090">&nbsp;(30/10)</span></li>
+		<li><a href="/gl/doi-song/gia-dinh/2011/10/day-tre-cach-su-dung-dong-tien-hieu-qua/" class="link-othernews">Dạy trẻ cách sử dụng đồng tiền hiệu quả</a><span style="color: #909090">&nbsp;(29/10)</span></li>
+		<li><a href="/gl/doi-song/gia-dinh/2011/10/khi-nhung-ong-chong-dang-tin-cung-tro-chung-an-cha/" class="link-othernews">Khi những ông chồng đáng tin cũng trở chứng 'ăn chả'</a><span style="color: #909090">&nbsp;(29/10)</span></li>
+		<li><a href="/gl/doi-song/gia-dinh/2011/10/5-cach-tiet-kiem-sai-lam-moi-nguoi-thuong-mac/" class="link-othernews">5 cách tiết kiệm sai lầm mọi người thường mắc</a><span style="color: #909090">&nbsp;(29/10)</span></li>
+		<li><a href="/gl/doi-song/gia-dinh/2011/10/nhieu-dan-ong-coi-ngoai-tinh-la-chi-so-thanh-dat/" class="link-othernews">Nhiều đàn ông coi ngoại tình là chỉ số thành đạt</a><span style="color: #909090">&nbsp;(28/10)</span></li>
+		<li><a href="/gl/doi-song/gia-dinh/2011/10/ket-cuc-cay-dang-cua-nhung-cuoc-ngoai-tinh/" class="link-othernews">Kết cục cay đắng của những cuộc ngoại tình</a><span style="color: #909090">&nbsp;(28/10)</span></li>
+		<li><a href="/gl/doi-song/gia-dinh/2011/10/danh-con-co-the-bi-phat-den-5-trieu-dong/" class="link-othernews">Đánh con có thể bị phạt đến 5 triệu đồng</a><span style="color: #909090">&nbsp;(24/10)</span></li>
+		<li><a href="/gl/doi-song/gia-dinh/2011/10/co-hoi-lam-bo-giam-nhanh-sau-tuoi-41/" class="link-othernews">Cơ hội làm bố giảm nhanh sau tuổi 41</a><span style="color: #909090">&nbsp;(21/10)</span></li>
+		</ul>
+	</div>
+</div>
+
+		</div>
+	<div class="content-left fl">		
+	<div class="linksite-box" style="padding:0px;">
+	<img alt="Link Site" src="/Images/Linksite/site2.gif" usemap="#ctmap" class="img-linksite"/>
+	<map id="ctmap" name="ctmap">
+		<area shape="rect" coords="6,0,72,28" href="http://ngoisao.net/" target="_blank" title="ngoisao.net" />
+		<area shape="rect" coords="83,0,140,28" href="http://sohoa.vnexpress.net/" target="_blank" title="sohoa.vnexpress.net" />		
+		<area shape="rect" coords="152,0,215,28" href="http://gamethu.vnexpress.net/" target="_blank" title="gamethu.vnexpress.net" />
+		<area shape="rect" coords="223,0,296,28" href="http://vieclam.vnexpress.net/" target="_blank" title="viec lam" />
+	</map>
+</div>
+	<div class="box-item">		
+		<script type="text/javascript">
+			cpms_Ap.typ = 2;
+			cpms_Ap.ste = 1;
+			cpms_Ap.reg = 0;
+			cpms_Ap.fol = 26;
+			cpms_Ap.dof = 0;
+			cpms_Ap.wdt = 300;
+			
+			cpms_Ap.itf = 2;
+			
+			cpms_Ap.ShowAd();
+		</script>
+	</div>
+	<Script language="JavaScript">Poly_ShowLogoLeft(2)</Script><div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(110);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="box-middle1 list-item1 fl" id="ListItem110">
+		<script type="text/javascript" language="javascript">showlistitem(1, 110, 5);</script>
+	</div>	<div class="fl">
+		<div class="fl"><img src="/Images/Background/box-bottomleft1.gif" alt="" /></div>
+		<div class="box-bottomcenter1 fl">&nbsp;</div>
+		<div class="fl"><img src="/Images/Background/box-bottomright1.gif" alt="" /></div>
+	</div>
+</div>
+<div class="box-item">
+<div class="list-item-header fl">
+	<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+	<div class="folder-active2 fl">
+		<script type="text/javascript" language="javascript">writeListItemTitle(148);</script>
+	</div>
+	<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+	<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+</div>
+<div class="box-middle1 list-item fl" id="ListItem148">
+	<script type="text/javascript" language="javascript">showlistitem(2, 148, 4);</script>
+</div>
+	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+<div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(78);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="box-middle1 list-item1 fl" id="ListItem78">
+		<script type="text/javascript" language="javascript">showlistitem(1, 78, 4);</script>
+	</div>	<div class="fl">
+		<div class="fl"><img src="/Images/Background/box-bottomleft1.gif" alt="" /></div>
+		<div class="box-bottomcenter1 fl">&nbsp;</div>
+		<div class="fl"><img src="/Images/Background/box-bottomright1.gif" alt="" /></div>
+	</div>
+</div>
+<div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(35);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="fl" id="ListItem35">
+		<script type="text/javascript" language="javascript">showlistitem(5, 35, 4);</script>
+	</div>
+	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+<div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(151);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="box-middle1 list-item1 fl" id="ListItem151">
+		<script type="text/javascript" language="javascript">showlistitem(1, 151, 5);</script>
+	</div>	<div class="fl">
+		<div class="fl"><img src="/Images/Background/box-bottomleft1.gif" alt="" /></div>
+		<div class="box-bottomcenter1 fl">&nbsp;</div>
+		<div class="fl"><img src="/Images/Background/box-bottomright1.gif" alt="" /></div>
+	</div>
+</div>
+
+	</div>
+	
+	<div class="content-right fl">		
+		<div class="adv-header">
+			<div class="adv-title fl">				
+				<a href="http://www.fptad.com/lienhe.aspx" target="_blank"><img style="border:0" src="/Images/Background/adv-title.gif" alt="Lien he quang cao" /></a>				
+			</div>
+		</div>
+		<div id="adgroup"  style="display:none;clear:both;"></div>
+	<Script type="text/javascript" language="JavaScript">Poly_ShowAdScrollBanner(2);</Script>
+				</div>
+				
+			</div>
+			
+			<div id="footer">
+				
+				<script type="text/javascript">Poly_ShowFooterBanner();</script>										
+				
+                <div class="fmenu-top">
+                    <div class="fl icone-footer"></div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-home" rel="nofollow" onclick="javascript:setAsHomePage(this)"><span></span>Đặt làm trang chủ</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ct" rel="nofollow" class="link-contact" href="/ContactUs/?id=doisong@vnexpress.net"><span></span>Liên hệ tòa soạn</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ads" rel="nofollow" class="link-contact" href="http://ads.fpt.net/lienhe.aspx" target="_blank"><span></span>Liên hệ quảng cáo</a>
+                    </div>					
+                    <div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">						
+						
+                        <span class="lnkf-hl">Đường dây nóng: 0123.888.0123 (HN) - 0129.233.3555 (TP HCM)<span></span></span>
+						
+                    </div>
+					<div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">
+						 <a rel="nofollow" class="link-contact" href="http://fptad.com/qc/v/vnexpress/2011/phongvienthethao/" target="_blank"><img class="img-search" src="/Images/person.gif" alt="" style="vertical-align:top;" /> VnExpress tuyển dụng </a>
+					</div>					
+                </div>
+                <div class="fmenu-bottom">	
+					<a href="/" class="link-footermenu">Trang chủ</a><i class="sepaf"></i>
+					<a href="/gl/xa-hoi/" class="link-footermenu">Xã hội</a><i class="sepaf"></i>
+					<a href="/gl/the-gioi/" class="link-footermenu">Thế giới</a><i class="sepaf"></i>
+					<a href="/gl/kinh-doanh/" class="link-footermenu">Kinh doanh</a><i class="sepaf"></i>
+					<a href="/gl/van-hoa/" class="link-footermenu">Văn hóa</a><i class="sepaf"></i>
+					<a href="/gl/the-thao/" class="link-footermenu">Thể thao</a><i class="sepaf"></i>
+					<a href="/gl/phap-luat/" class="link-footermenu">Pháp luật</a><i class="sepaf"></i>
+					<a href="/gl/doi-song/" class="link-footermenu">Ðời sống</a><i class="sepaf"></i>
+					<a href="/gl/khoa-hoc/" class="link-footermenu">Khoa học</a><i class="sepaf"></i>
+					<a href="/gl/vi-tinh/" class="link-footermenu">Vi tính</a><i class="sepaf"></i>
+					<a href="/gl/oto-xe-may/" class="link-footermenu">Ôtô - Xe máy</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/" class="link-footermenu">Bạn đọc viết</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/tam-su/" class="link-footermenu">Tâm sự</a><i class="sepaf"></i>
+					<a href="/user/rao-vat/" class="link-footermenu">Rao vặt</a><i class="sepaf"></i>
+					<a href="/gl/cuoi/" class="link-footermenu">Cuời</a>
+					
+                    <script type="text/javascript" language="javascript">
+						//writeFooterMenu();
+						Poly_ShowFixFloatBanner(0);Poly_ShowFixFloatBanner(2);Poly_ShowFixFloatBanner(1);Poly_ShowFixFloatBanner(3);
+						Poly_ShowSlideBanner();Poly_ShowBallonBanner();						
+					</script>
+					
+                    <script type="text/javascript" language="javascript">Poly_ShowPopupUnder();</script>
+					
+                </div>
+                <div class="copyright">
+                    <p><label style="font:bold 11px arial; color:#686E7A;">&#169;&nbsp;Copyright 1997-2011 VnExpress.net</label>, <label style="font:normal 11px arial; color:#686E7A;">All rights reserved <a rel="nofollow" href="/ContactUs/?id=webmaster@vnexpress.net">Contact us</a> - <label onClick="ContactUs()" style="text-decoration:underline;cursor:pointer">Th&#244;ng tin T&#242;a so&#7841;n</label></label</p>
+<p><label style="font:normal 11px arial; color:#686E7A;">&#174;&nbsp;VnExpress gi&#7919; b&#7843;n quy&#7873;n n&#7897;i dung tr&#234;n website n&#224;y.</lable></p>
+
+                </div>
+            </div>
+			</div>
+		</div>		
+		</div>		
+		<script type="text/javascript">
+		<!--//<![CDATA[
+			cpms_Ap.init();
+			cpms_Ap.typ = 1;
+			cpms_Ap.dof = 0;
+			cpms_Ap.ste = 1;
+			cpms_Ap.reg = 0;
+			cpms_Ap.fol = 26;
+			cpms_Ap.pos = 38;
+			cpms_Ap.url = encodeURIComponent(document.location.href);
+			cpms_Ap.show();
+		//]]>-->
+		</script>
+		  	
+		<div style="float:left;">
+			<script type="text/javascript" language="javasript">
+				var strHr = location.href;				
+				if(strHr.substr(0,21)=='http://vnexpress.net/' || strHr.substr(0,27)=='http://ebank.vnexpress.net/' || strHr.substr(0,28)=='http://nhadep.vnexpress.net/'){
+					document.write('<img src="http://180.148.142.10/website/vnexpress/Res.asp?vid=B2B3C0CC-ADBA-48F9-84BD-8E50B9F1BEB8&ovt=0&vsd=0&pfd=26&pid=1001305808&ref=&iTime=11/6/2011 9:57:17 PM" border=0>');
+					
+				}
+			</script>
+		</div>
+		<script type="text/javascript">
+	var SERVER_ID = 3;
+</script>
+		<!--<script type="text/javascript" language="javascript" src="/Library/Common/rss.js"></script>-->
+		<script type="text/javascript" src="http://180.148.142.152/Library/VNELibraryNew.js"></script>
+
+<script type="text/javascript" src="http://180.148.142.152/Library/AdLibNew.js"></script>
+		
+<script src="http://180.148.142.152/Vals/1/0/26/Val.js" type="text/javascript"></script>	
+		
+<script type="text/javascript" language="javaScript">checkCookie();</script>
+
+<script type="text/javascript" language="javaScript" src="http://180.148.142.153/script/libMobile.js"></script>     
+
+
+<script type="text/javascript">      
+    Poly_ShowAds();
+</script>
+	
+	</body>			
+</html>

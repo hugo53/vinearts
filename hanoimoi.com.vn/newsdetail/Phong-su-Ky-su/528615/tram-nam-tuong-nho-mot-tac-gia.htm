@@ -1,0 +1,749 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><link href="../../../App_Themes/Hanoimoi/Contact.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/mouseovertabs.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/newscategory.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/newsdetail.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/stylehome.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/thickbox.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/Top_Tip.css" type="text/css" rel="stylesheet" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta http-equiv="refresh" content="600" /><title>
+	
+        Trăm năm tưởng nhớ một tác gia
+</title><link href="/Client/slide/featuredcontentglider.css" rel="stylesheet" type="text/css" /><link href="/Client/jquery.ui.tab/css/flick/jquery-ui-1.7.2.custom.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        body
+        {
+            margin: 0px;
+            padding: 0px 0px 60px;
+            background: #FFFFFF no-repeat fixed center 0px;
+        }
+        .divFixed
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            left: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixed_R
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            right: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixedBg_IE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_RIE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_IE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+        .divFixedBg_RIE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+    </style>
+    <script language="JavaScript" type="text/javascript"> 
+//    function LoadImages(s,c)
+//    {
+//   
+//        s.getAttribute("loi")==null?s.setAttribute("loi","1"):s.setAttribute("loi",eval(s.getAttribute("loi"))+1);
+//        if(eval(s.getAttribute("loi"))>=2){c=c.substr(c.lastIndexOf("=")+1,c.length-c.lastIndexOf("="));
+//        s.onerror=null;s.src="/App_Themes/Default/Images/no_image_"+c+".jpg"}
+//        else s.src=c
+//    }
+     function returnUrl12() {
+            var key = document.getElementById('txt_search')
+	       
+            if (key.value.length != 0) {
+                location= "/NewsSearch.aspx?keyword=" + encodeURIComponent(key.value);
+		return false;	
+            }
+            else {
+                alert("Cần nhập từ khóa để tìm kiếm");
+                document.getElementById('txt_search').focus();
+                return false;
+            }
+        }
+    </script>
+  <link href="/StyleSheets/Poll/style.css" rel="stylesheet" type="text/css" /><link rel="shortcut icon" href="../../../Images/hanoimoi.ico" />
+    <script src="/Scripts/jquery.js" type="text/javascript"></script>
+    <script src="/Scripts/AdsFloat.js" type="text/javascript"></script>
+    <script src="/Client/slide/featuredcontentglider2.js" type="text/javascript"></script>    
+    <script src="/Scripts/jquery.query.js" type="text/javascript"></script>
+    <script src="/Scripts/swfobject.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/Scripts/hanoimoi.js"></script>
+    <script src="/Client/jquery.ui.tab/js/jquery-ui-1.7.2.tab.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/Scripts/thickbox-compressed.js"></script>
+	<script type="text/javascript" src="http://media.adnetwork.vn/js/adnetwork.js"></script>
+    
+    
+   
+
+    <!--###################End Tooltip##########################-->
+    <style type="text/css">
+        .highlight
+        {
+            background: yellow;
+            color: black;
+            text-decoration: none;
+        }
+        #dhtmltooltip
+        {
+            position: absolute;
+            left: -300px;
+            width: 150px;
+            border: 1px solid black;
+            padding: 2px;
+            background-color: lightyellow;
+            visibility: hidden;
+            z-index: 9999 !important; /*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+            filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+        }
+        #dhtmlpointer
+        {
+            position: absolute;
+            left: -300px;
+            z-index: 99999 !important;
+            visibility: hidden;
+        }
+        body
+        {
+            margin: 0px;
+            padding: 0px 0px 60px;
+            background: #FFFFFF url(/Customize/ExtendBanner/bg_tgdd_0410.jpg) no-repeat fixed center 0px;
+        }
+        .divFixed
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            left: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixed_R
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            right: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixedBg_IE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_RIE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_IE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+        .divFixedBg_RIE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+    </style>
+
+    <script type="text/javascript" src="/Scripts/ActiveX_Template.js"></script>
+    
+    
+    </head>
+<body style="margin:0; padding:0;">
+    <form name="aspnetForm" method="post" action="tram-nam-tuong-nho-mot-tac-gia.htm" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJLTk4MjQ1MDU1ZGQGGyMozmIw4NHS6fuo+If3qQtarw==" />
+
+
+<script src="/ScriptResource.axd?d=EqN8dc8s_XUUn6eQfm6n7-wPSZArI30XlfmKIqfRSvAoZAenqal0-S8gzj_fDI0IZFOZKZ6SXxmMw-IxZMRzbw3OVhGxDz1USCL-PCyWy4_B9St4FGZL4S0yHD8VfyKPTO9TOWEJziHi98FX2BgYV1YJYUZp-TJRvQaqxWvHVnNVUQ6-0&amp;t=ffffffffea696f7c" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWFQLnz4fKBgLiydb3BgKA4oCQBQKPs5q3DQKzqrHfCAKIzPeOAQKLwJnaCgLU4dDxBwLhocvvAwLV48O+CwLUpYXRBwLG+9tdAtHP1+4MAvTq4aQDAurX1ecJAvfgtPQMAt3E+90MAtuu0ogPAtO368wBAtiWq7sNAueVloQCzOYPjVE+Ul3tIZWe5mKR6YnTqvs=" />
+        <!-- Quang cao 2 ben trang -->
+    <div id="divResult"></div>
+    
+
+ 
+    <div >
+        
+        <div id="main_body" >
+            <div id="top">
+                <div class="wrapbar" id="dvBanner">
+                    <div class="left_logo">
+                        <a href="#">
+                            <img alt="" src="/images/hanoimoi_logo.png" border="0" /></a>
+                    </div>
+                    <div class="right_adv">
+                       <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" 
+codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="640" height="87" name="wmode">
+    <param name="movie" value="/Uploads/NCC/ads-homepage/netdepnguoithudo.swf">
+                  <param name="quality" value="high">
+                  <param name="wmode" value="transparent">
+                 <embed wmode="transparent" src="/Uploads/NCC/ads-homepage/netdepnguoithudo.swf" allowscriptaccess="always" type="application/x-shockwave-flash" width="640" height="87"></embed>
+</object>
+
+                    </div>
+                </div>
+                <div id="dvTopMenu">
+                    <div class="wrapbar">
+                        <div class="menu_content2">
+                            <div id="mytabsmenu" class="tabsmenuclass">
+                                <ul class="menutop"><li><a href="/index.htm" rel="gotsubmenu[selected]">Trang chủ</a></li><li><a id='Chinh-tri' rel="gotsubmenu" href="/categoryparent/192/Chinh-tri.htm">Chính trị</a></li><li><a id='Xa-hoi' rel="gotsubmenu[selected]" href="/categoryparent/163/Xa-hoi.htm">Xã hội</a></li><li><a id='Kinh-te' rel="gotsubmenu" href="/categoryparent/190/Kinh-te.htm">Kinh tế</a></li><li><a id='The-gioi' rel="gotsubmenu" href="/categoryparent/189/The-gioi.htm">Thế giới</a></li><li><a id='Van-hoa' rel="gotsubmenu" href="/categoryparent/179/Van-hoa.htm">Văn hóa</a></li><li><a id='The-thao' rel="gotsubmenu" href="/categoryparent/170/The-thao.htm">Thể thao</a></li><li><a id='Giao-duc' rel="gotsubmenu" href="/categoryparent/164/Giao-duc.htm">Giáo dục</a></li><li><a id='1000_nam_thang_long' rel="gotsubmenu" href="/categoryparent/204/1000_nam_thang_long.htm">Thăng Long - Hà Nội</a></li><li><a id='Phap-luat' rel="gotsubmenu" href="/categoryparent/175/Phap-luat.htm">Pháp luật</a></li><li><a id='Khoa-hoc' rel="gotsubmenu" href="/categoryparent/100/Khoa-hoc.htm">Khoa học</a></li><li><a id='Doi-song' rel="gotsubmenu" href="/categoryparent/224/Doi-song.htm">Đời sống</a></li></ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="wrapbar">
+                        <div class="menu_boder_left">
+                            <!---->
+                        </div>
+                        <div class="sub_menu_content">
+                            <div id="mysubmenuarea" class="tabsmenucontentclass">
+                                <!--1st link within submenu container should point to the external submenu contents file-->
+                                <a href="/submenucontents.aspx" style="visibility: hidden">
+                                    Sub Menu contents</a>
+                            </div>
+
+                            <script type="text/javascript">
+                                //mouseovertabsmenu.init("tabs_container_id", "submenu_container_id", "bool_hidecontentsmouseout")
+                                mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
+
+                            </script>
+
+                        </div>
+                        <div class="menu_boder_right">
+                            <!---->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+
+<div id="main_wrap">
+        <div class="wrapbar">
+           <div class="left_news_category_box">
+                <div class="left_category_news">
+                    
+
+<script language="javascript" type="text/javascript">
+    $(function() {
+
+        // hides the slickbox as soon as the DOM is ready
+        // (a little sooner than page load)
+        $('#slickbox').hide();
+        $('#sendcomment').hide();
+        // shows the slickbox on clicking the noted link  
+        $('a#slick-show').click(function() {
+            $('#slickbox').show('slow');
+            return false;
+        });
+        $(".btnEmai").click(function() {
+            var pID = $(this).attr("id");
+            var pShortName = $(this).parent().attr("id");
+            tb_show('Kết quả bình luận', '/PrintNews.aspx?newsID=' + pID + '&shortname=' + pShortName + '&no_refresh=1&TB_iframe=true&height=430&width=450&modal=true');
+            return false;
+        });
+        // hides the slickbox on clicking the noted link  
+        $('a#slick-hide').click(function() {
+            $('#slickbox').hide('fast');
+            return false;
+        });
+
+        // toggles the slickbox on clicking the noted link  
+        $('a#slick-toggle').click(function() {
+            $('#slickbox').toggle(400);
+            return false;
+        });
+        // toggles the slickbox on clicking the noted link  
+        $('a#slick-toggle-send').click(function() {
+            $('#sendcomment').toggle(400);
+            return false;
+        });
+        $(".keyword").live('click', function() {
+            location='/NewsSearch.aspx?keyword='+$.trim($(this).html());
+            return false;
+        });
+    });
+</script>
+
+<div class="content_category_news">
+    <div class="content_category_news_title">
+        <a id="ctl00_MainContent_NewsDetailControl_lnkNameCategory"></a>
+        <span class='content_category_news_title_parent'><a href='/categoryparent/163/Xa-hoi.htm' class='parentCatTitle' rel='Xa-hoi' style='font-family:Arial;color:#0066CC;font-weight:bold;font-size:12px;text-transform:uppercase;'>Xã hội</a>&nbsp;>&nbsp;<a style='font-family:Arial;color:#0066CC;font-weight:bold;font-size:11px;text-transform:uppercase;' href='/newscategory/228/Phong-su-Ky-su.htm'>Phóng sự-Ký sự-Tư liệu</a></span>
+    </div>
+    <div class="content_category_news_dot">
+    </div>
+    <br class="clearfloat" />
+    <div class="content_news_detail">
+        <div class="icon_print_email">
+            <a href="#" id="Phong-su-Ky-su">
+                <img src="/images/email.gif" /><span class="btnEmai"
+                    id="528615">Email</span></a><a href="/print/528615/print.htm"><img
+                        src="/images/print.gif" /><span>Print</span></a>
+        </div>
+        <br class="clearfloat" />
+        <div class="content_body_detail">
+            <table id="ctl00_MainContent_NewsDetailControl_rptNewsDetail" cellspacing="0" border="0">
+	<tr>
+		<td>
+                    <div class="subtitle_news_detail" style="color: #808080; font-size: 9pt; font-weight: bold">
+                        Học giả Lê Văn Hòe:
+                    </div>
+                    <div class="title_news_detail">
+                        Trăm năm tưởng nhớ một tác gia&nbsp;
+                    </div>
+                    <div style="float:left;font-size: small; color: Gray">
+                        31/10/2011 06:25
+                    </div>
+                    
+                    <div  style="color:#777777;float:left;padding-left:5px;">
+                           
+                           </div>
+                            
+                    <br class="clearfloat" />
+                    <div class="body">
+                        
+                    </div>
+                    <div class="body_detail">
+                        <p style="text-align: justify"><strong>(HNM) - Giới tr&iacute; thức Việt Nam từ cuối những năm 1920 đến sau ng&agrave;y Thủ đ&ocirc; giải ph&oacute;ng, nhiều người biết đến v&agrave; k&iacute;nh trọng L&ecirc; Văn H&ograve;e với tư c&aacute;ch nh&agrave; văn, nh&agrave; nghi&ecirc;n cứu lịch sử, văn h&oacute;a, nh&agrave; gi&aacute;o c&oacute; nhiều đ&oacute;ng g&oacute;p cho nền văn học v&agrave; gi&aacute;o dục nước nh&agrave;.<br />
+</strong><br />
+T&igrave;m hiểu tiểu sử, d&ugrave; l&agrave; rất sơ lược của &ocirc;ng, người đương thời v&agrave; hậu thế kh&ocirc;ng khỏi ngạc nhi&ecirc;n, k&iacute;nh phục trước một tấm gương ham học, kiến thức uy&ecirc;n th&acirc;m Đ&ocirc;ng T&acirc;y, kim cổ tầm b&aacute;c học của &ocirc;ng. Đặc biệt l&agrave; &ocirc;ng c&oacute; những trước t&aacute;c từ rất sớm, ở tuổi thiếu ni&ecirc;n.<br />
+&nbsp;</p>
+<table border="0" cellspacing="1" cellpadding="5" width="200" align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center"><img alt="" align="middle" width="300" height="407" src="/Uploads/chiennv/2011/10/31/Chan-dung-Hoc-gia.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><span style="color: #0000ff"><span style="font-size: 11px">Học giả L&ecirc; Văn H&ograve;e (1911-1968).</span></span></td>
+        </tr>
+    </tbody>
+</table>
+<p style="text-align: justify"><br />
+L&ecirc; Văn H&ograve;e, b&uacute;t danh V&acirc;n Hạc, sinh ng&agrave;y 1-11-1911 tại l&agrave;ng Mụ ven s&ocirc;ng Đ&aacute;y, th&ocirc;n Mỗ X&aacute;, x&atilde; Ph&uacute; Nam An, huyện Chương Mỹ, H&agrave; Đ&ocirc;ng, sau l&agrave; H&agrave; T&acirc;y, nay l&agrave; H&agrave; Nội trong một gia đ&igrave;nh Nho học. Mới 6 tuổi, &ocirc;ng đ&atilde; được c&aacute;c cụ th&acirc;n sinh cho học chữ H&aacute;n, l&ecirc;n 9 tuổi bắt đầu học tiếng Ph&aacute;p. Th&ocirc;ng minh, học giỏi, &ocirc;ng được v&agrave;o học Trường Bưởi danh tiếng l&uacute;c bấy giờ, nhưng sau cuộc b&atilde;i kh&oacute;a để tang ch&iacute; sỹ Phan Chu Trinh năm 1926, &ocirc;ng đ&atilde; phải th&ocirc;i học, lăn v&agrave;o đời kiếm sống bằng nghề viết văn, l&agrave;m b&aacute;o. Từ đ&oacute; trở đi, vốn kiến thức &ocirc;ng c&oacute; được chủ yếu do kh&ocirc;ng ngừng tự học. C&oacute; thể n&oacute;i L&ecirc; Văn H&ograve;e l&agrave; một trong số rất &iacute;t t&aacute;c gia Việt Nam c&oacute; s&aacute;ch in rất sớm. Năm 1927, l&uacute;c mới 16 tuổi, &ocirc;ng đ&atilde; cho in cuốn s&aacute;ch gi&aacute;o khoa &ldquo;Khai t&acirc;m lu&acirc;n l&yacute;&rdquo;, năm 1930, khi 19 tuổi, &ocirc;ng viết cuốn truyện văn học đầu ti&ecirc;n &ldquo;Bể l&ograve;ng&rdquo;, năm 1931, &ocirc;ng in tập &ldquo;Mảnh hồn thơ&rdquo; thuộc d&ograve;ng văn học l&atilde;ng mạn... Năm 1936, trong phong tr&agrave;o Mặt trận D&acirc;n chủ, &ocirc;ng tham gia Ban Bi&ecirc;n tập B&aacute;o Đời mới, sau đ&oacute; l&agrave;m Chủ b&uacute;t tờ Ngọ b&aacute;o (sau đổi th&agrave;nh Việt b&aacute;o) v&agrave; phụ tr&aacute;ch phần nghi&ecirc;n cứu của tờ Trung Bắc Chủ nhật. Từ năm 1941, &ocirc;ng mở Nh&agrave; xuất bản Quốc học thư x&atilde;, vừa l&agrave;m gi&aacute;m đốc vừa viết s&aacute;ch nghi&ecirc;n cứu văn học v&agrave; lịch sử, bắt đầu thời kỳ s&aacute;ng t&aacute;c quan trọng nhất trong cuộc đời. Quốc học thư x&atilde; l&agrave; nh&agrave; xuất bản c&oacute; uy t&iacute;n thời kỳ n&agrave;y, đ&atilde; từng in ấn, xuất bản nhiều t&aacute;c phẩm của c&aacute;c t&aacute;c gia t&ecirc;n tuổi đương thời như Phạm Quỳnh, Vũ Bằng, Th&agrave;nh Thế Vỹ... Qua Quốc học thư x&atilde;, L&ecirc; Văn H&ograve;e cũng cho in h&agrave;ng loạt t&aacute;c phẩm nghi&ecirc;n cứu, dịch thuật, ph&ecirc; b&igrave;nh văn học v&agrave; lịch sử của m&igrave;nh. Nhiều cuốn trong số đ&oacute; được ng&agrave;nh gi&aacute;o dục đương thời chọn l&agrave;m s&aacute;ch gi&aacute;o khoa, đưa v&agrave;o giảng dạy trong c&aacute;c trường phổ th&ocirc;ng, được dư luận ngợi khen, nhiều tầng lớp độc giả đ&oacute;n đọc. Nhiều t&aacute;c phẩm của &ocirc;ng b&aacute;n hết nhanh, phải t&aacute;i bản nhiều lần để đ&aacute;p ứng nhu cầu của bạn đọc cả nước. Trong những năm th&aacute;ng sống dưới chế độ thực d&acirc;n, L&ecirc; Văn H&ograve;e c&oacute; th&aacute;i độ r&otilde; r&agrave;ng với ch&iacute;nh quyền cai trị, nhiều phen tỏ ra kh&ocirc;ng chịu khuất phục n&ecirc;n đ&atilde; từng bị ch&iacute;nh quyền đương thời g&acirc;y kh&oacute; dễ. Thậm ch&iacute; khi &ocirc;ng được giới văn nghệ sỹ t&iacute;n nhiệm bầu v&agrave;o ban l&atilde;nh đạo Nghiệp đo&agrave;n B&aacute;o giới Bắc kỳ th&igrave; đ&atilde; bị nh&agrave; cầm quyền gạch t&ecirc;n.<br />
+<br />
+Trong thời kỳ Mặt trận Việt Minh, năm 1945, L&ecirc; Văn H&ograve;e l&agrave;m Chủ b&uacute;t tờ Quốc gia xuất bản hằng ng&agrave;y do Trần Huy Liệu l&agrave;m Chủ nhiệm. Quốc gia l&agrave; tờ b&aacute;o c&aacute;ch mạng, c&ocirc;ng khai tuy&ecirc;n truyền ủng hộ Mặt trận Việt Minh, h&ocirc; h&agrave;o đ&aacute;nh đổ thực d&acirc;n, phong kiến. C&aacute;ch mạng Th&aacute;ng T&aacute;m th&agrave;nh c&ocirc;ng, &ocirc;ng được anh em Hội Văn h&oacute;a Cứu quốc t&iacute;n nhiệm cử ra ứng cử v&agrave; tr&uacute;ng cử đại biểu Quốc hội Kh&oacute;a I nước Việt Nam D&acirc;n chủ Cộng h&ograve;a. Sau ng&agrave;y Ph&aacute;p g&acirc;y hấn, To&agrave;n quốc kh&aacute;ng chiến b&ugrave;ng nổ, năm 1946, L&ecirc; Văn H&ograve;e đưa gia đ&igrave;nh tản cư ra v&ugrave;ng tự do. V&igrave; ho&agrave;n cảnh, &ocirc;ng buộc phải đưa gia đ&igrave;nh về H&agrave; Nội kiếm kế sinh nhai, chuy&ecirc;n t&acirc;m v&agrave;o nghề dạy học v&agrave; hoạt động xuất bản. Cuộc kh&aacute;ng chiến chống Ph&aacute;p th&agrave;nh c&ocirc;ng, Thủ đ&ocirc; giải ph&oacute;ng, L&ecirc; Văn H&ograve;e ở lại H&agrave; Nội, kh&ocirc;ng di cư v&agrave;o Nam như nhiều người kh&aacute;c. Từ năm 1954 đến 1964, &ocirc;ng dạy văn học v&agrave; lịch sử ở Trường Alberrt Saraut, sau về dạy ở Trường Tam Hiệp, Thanh Tr&igrave; v&agrave; qua đời ng&agrave;y 13-12-1968 tại nh&agrave; ri&ecirc;ng ở 74 T&ocirc; Hiến Th&agrave;nh, H&agrave; Nội. Tuy chỉ dạy học hơn 10 năm, song &ocirc;ng đ&atilde; để lại trong nhiều thế hệ học tr&ograve; những ấn tượng s&acirc;u sắc v&agrave; niềm vui th&iacute;ch đặc biệt khi được nghe &ocirc;ng giảng về nghệ thuật chữ nghĩa trong những t&aacute;c phẩm văn học kinh điển của nước nh&agrave;, đặc biệt l&agrave; Truyện Kiều của Đại thi h&agrave;o Nguyễn Du.<br />
+<br />
+Từ năm 1927 đến 1954, L&ecirc; Văn H&ograve;e đ&atilde; c&oacute; hơn 30 t&aacute;c phẩm được xuất bản, trong đ&oacute; c&oacute; 5 t&aacute;c phẩm thuộc loại s&aacute;ng t&aacute;c, 7 t&aacute;c phẩm nghi&ecirc;n cứu, ph&ecirc; b&igrave;nh, 15 t&aacute;c phẩm thuộc loại t&agrave;i liệu b&aacute;ch khoa đại từ điển, 2 t&aacute;c phẩm dịch thuật v&agrave; 9 t&aacute;c phẩm s&aacute;ch gi&aacute;o khoa, gồm h&agrave;ng chục ngh&igrave;n trang in. Trong số đ&oacute;, c&oacute; thể n&oacute;i Truyện Kiều ch&uacute; giải l&agrave; t&aacute;c phẩm đồ sộ nhất, bộc lộ vốn tri thức uy&ecirc;n th&acirc;m Đ&ocirc;ng T&acirc;y, kim cổ v&agrave; t&agrave;i năng, học thuật của &ocirc;ng. Nhiều nh&agrave; nghi&ecirc;n cứu v&agrave; học giả t&ecirc;n tuổi nhận x&eacute;t, t&aacute;c giả đ&atilde; rất t&agrave;i t&igrave;nh v&agrave; kỹ lưỡng trong ch&uacute; giải, cẩn trọng v&agrave; tinh vi trong b&igrave;nh luận, nghi&ecirc;m t&uacute;c, kh&aacute;ch quan trong hiệu đ&iacute;nh m&agrave; vẫn b&agrave;y tỏ được r&otilde; r&agrave;ng ch&iacute;nh kiến c&aacute; nh&acirc;n, đồng thuận với nhận thức v&agrave; suy nghĩ của đại đa số độc giả. Truyện Kiều ch&uacute; giải do Quốc học thư x&atilde; ấn h&agrave;nh năm 1952, d&agrave;y 724 trang, ngay khi ra đời đ&atilde; được dư luận học thuật cả nước x&ocirc;n xao đ&oacute;n nhận. B&aacute;o ch&iacute; trong Nam ngo&agrave;i Bắc li&ecirc;n tục đưa tin về t&aacute;c phẩm n&agrave;y, c&oacute; thể kể ra đ&acirc;y một số v&iacute; dụ:<br />
+<br />
+&ldquo;Nh&agrave; văn ki&ecirc;m học giả L&ecirc; Văn H&ograve;e vừa cho xuất bản bộ s&aacute;ch Truyện Kiều ch&uacute; giải d&agrave;y hơn 700 trang, l&agrave; bộ s&aacute;ch bi&ecirc;n khảo c&ocirc;ng phu nhất từ khi c&oacute; chiến sự 1946 đến nay.<br />
+<br />
+Th&ecirc;m Truyện Kiều ch&uacute; giải của L&ecirc; Văn H&ograve;e, người đọc tin chắc rằng sẽ hiểu thấu Truyện Kiều hơn, thưởng thức hết c&aacute;i hay của Truyện Kiều, cũng như đ&ocirc;i khi ph&acirc;n biệt c&aacute;i dở của Truyện Kiều. Hơn nữa, với sự bi&ecirc;n khảo kỹ lưỡng của L&ecirc; Văn H&ograve;e, Truyện Kiều ch&uacute; giải c&oacute; thể d&ugrave;ng l&agrave;m c&ocirc;ng cụ học vấn gi&aacute;o dục, l&agrave;m một kho t&agrave;i liệu v&ocirc; gi&aacute; để phục vụ học đường...&rdquo; (B&aacute;o Giang Sơn số 116, ng&agrave;y 5-6-1953).<br />
+<br />
+&ldquo;&Ocirc;ng L&ecirc; Văn H&ograve;e, một kiện tướng trong văn giới Việt Nam ch&uacute;ng t&ocirc;i tưởng kh&ocirc;ng cần giới thiệu nhiều. Ri&ecirc;ng về Truyện Kiều ch&uacute; giải th&igrave; quả l&agrave; một c&ocirc;ng tr&igrave;nh vĩ đại trong c&ocirc;ng cuộc x&acirc;y đắp văn nghệ nước nh&agrave;. Những lời ch&uacute; giải, b&igrave;nh luận cuối mỗi trang, v&agrave; suốt bảy trăm trang đ&atilde; chứng tỏ sự cố gắng phi thường của t&aacute;c giả...<br />
+<br />
+Truyện Kiều ch&uacute; giải chắc chắn sẽ l&agrave; người bạn cần thiết cho những ai muốn trau dồi Việt ngữ v&agrave; chắc chắn được mọi giới hoan ngh&ecirc;nh&rdquo; (B&aacute;o Th&acirc;n D&acirc;n số 35 ng&agrave;y 5-6-1953).<br />
+<br />
+&ldquo;Đ&oacute; l&agrave; một c&ocirc;ng tr&igrave;nh lớn lao m&agrave; &ocirc;ng đ&atilde; l&agrave;m c&oacute; mục đ&iacute;ch gi&uacute;p mọi người hiểu thấu Truyện Kiều, thưởng thức hết c&aacute;i hay của Truyện Kiều, v&agrave; đưa Truyện Kiều ra l&agrave;m c&ocirc;ng cụ học vấn gi&aacute;o dục c&oacute; lợi &iacute;ch cho giới học đường. <br />
+<br />
+Việc ch&uacute; giải n&agrave;y đ&ograve;i rất nhiều c&ocirc;ng phu, tuy vậy, &ocirc;ng đ&atilde; cố gắng ho&agrave;n th&agrave;nh một c&aacute;ch mỹ m&atilde;n. Với c&aacute;i lương t&acirc;m đ&oacute;, một l&ograve;ng v&igrave; tiền đồ quốc văn, &ocirc;ng cũng đ&aacute;ng được khuyến kh&iacute;ch v&agrave; khen thưởng nhiều rồi vậy...&rdquo; (B&aacute;o Tia S&aacute;ng số 1616 ng&agrave;y 7-6-1953).<br />
+<br />
+&ldquo;Truyện Kiều xưa nay cũng đ&atilde; nhiều nh&agrave; ch&uacute; giải, nhưng muốn kể l&agrave; đầy đủ th&igrave; thật chưa c&oacute; quyển n&agrave;o đầy đủ cả. <br />
+<br />
+Để bổ v&agrave;o chỗ khiếm khuyết xưa nay đ&oacute;, &ocirc;ng L&ecirc; Văn H&ograve;e đ&atilde; để nhiều c&ocirc;ng phu, nhiều thời gian v&agrave;o cuốn s&aacute;ch ch&uacute; giải to lớn n&agrave;y. Ngo&agrave;i phần hiệu đ&iacute;nh, ch&uacute; giải, c&ograve;n th&ecirc;m phần b&igrave;nh luận. B&igrave;nh luận theo một kiến giải mới mẻ, c&oacute; thể coi l&agrave; một ph&aacute;t kiến trong kho t&agrave;ng v&ocirc; gi&aacute; của văn chương Việt Nam. Bao nhi&ecirc;u tr&acirc;n bảo của tiền nh&acirc;n để lại, được L&ecirc; - Qu&acirc;n l&agrave;m người chỉ đạo đưa ta đến tận nơi thưởng thức...&rdquo; (B&aacute;o S&agrave;i G&ograve;n, số 3 ng&agrave;y 22-6-1953)&hellip;<br />
+<br />
+Với một dư luận văn đ&agrave;n khắt khe như thời ấy, tưởng chỉ cần n&ecirc;u mấy dẫn chứng như vậy cũng đủ thấy tầm ảnh hưởng của L&ecirc; Văn H&ograve;e v&agrave; t&aacute;c phẩm của &ocirc;ng với văn giới đương thời.<br />
+<br />
+L&ecirc; Văn H&ograve;e c&oacute; 11 người con, rất nhiều ch&aacute;u, chắt nội, ngoại, tất cả đều phương trưởng, th&agrave;nh đạt, nhiều người nối nghiệp văn chương, b&aacute;o ch&iacute; của cha &ocirc;ng. C&ugrave;ng l&agrave;m việc tại B&aacute;o H&agrave;nộimới c&oacute; L&ecirc; Văn Hiệp, một họa sỹ t&agrave;i hoa đ&atilde; qu&aacute; cố; nh&agrave; b&aacute;o, nh&agrave; văn L&ecirc; Tấn Hiển, hội vi&ecirc;n Hội Nh&agrave; văn Việt Nam, t&aacute;c giả của h&agrave;ng chục tiểu thuyết, kịch bản phim đoạt nhiều giải thưởng; nh&agrave; b&aacute;o, nh&agrave; văn L&ecirc; Ph&uacute;c Hỷ, đang l&agrave; Ph&oacute; Tổng Bi&ecirc;n tập Tạp ch&iacute; T&ograve;a &aacute;n nh&acirc;n d&acirc;n; nh&agrave; b&aacute;o L&ecirc; Ho&agrave;ng Anh, đ&iacute;ch t&ocirc;n của L&ecirc; Văn H&ograve;e, hiện l&agrave; Ph&oacute; ban Thư k&yacute; T&ograve;a soạn, một c&acirc;y b&uacute;t ph&oacute;ng sự, b&igrave;nh luận kh&aacute; vững. <br />
+<br />
+Nh&acirc;n dịp kỷ niệm 191 năm Ng&agrave;y mất của Đại thi h&agrave;o Nguyễn Du, kỷ niệm 100 năm Ng&agrave;y sinh học giả, nh&agrave; văn, nh&agrave; nghi&ecirc;n cứu lịch sử, nh&agrave; gi&aacute;o L&ecirc; Văn H&ograve;e, Nh&agrave; s&aacute;ch Đ&ocirc;ng T&acirc;y đ&atilde; cho t&aacute;i bản cuốn Truyện Kiều ch&uacute; giải, vừa l&agrave; để tưởng nhớ, vừa để t&ocirc;n vinh những cống hiến của L&ecirc; Văn H&ograve;e trong học thuật, nghi&ecirc;n cứu, ph&ecirc; b&igrave;nh v&agrave; s&aacute;ng t&aacute;c, ghi nhận sự đ&oacute;ng g&oacute;p của &ocirc;ng cho nền văn học nước nh&agrave;.<br />
+<br />
+Với những g&igrave; để lại cho hậu thế, nh&agrave; tr&iacute; thức tiến bộ, y&ecirc;u nước L&ecirc; Văn H&ograve;e xứng đ&aacute;ng được hậu thế vinh danh, ghi nhận.</p>
+                    </div>
+                    <div class="author">
+                        <br />
+                        Năng Lực&nbsp;<span style="font-weight: normal; font-style: italic"></span>
+                    </div>
+                    <br class="clearfloat" />
+                </td>
+	</tr>
+</table>
+            
+            
+            
+            <br class="clearfloat" />
+        </div>
+        <div>
+            <span id="ctl00_MainContent_NewsDetailControl_lblDate"></span>
+        </div>
+        <div class="new_detail_adv">
+        <br>
+
+        </div>
+        <div style="padding:5px;">
+        <div style="display:block;">
+            <div class="news_detail_comment">
+                <a style="font-size:12px;text-transform:uppercase;font-weight:bold;font-family:Verdana,Arial;" href="#" id="slick-toggle">Xem phản hồi</a> | <a style="font-size:12px;text-transform:uppercase;font-weight:bold;font-family:Verdana,Arial;" href="#" id="slick-toggle-send">
+                    Gửi phản hồi</a>
+            </div>
+            <div class="content_comment">
+                <div class='content_category_news_title'>Ý KIẾN BẠN ĐỌC(0)</div><br class='clearfloat' /><div id='slickbox'></div>
+                <div id="sendcomment" style="padding-top: 10px">
+                    <div id="contenDiv" class="contenDiv">
+                        <table cellpadding="0" cellspacing="0" border="0" width="470px">
+                            <tr>
+                                <td>
+                                    <input value="Họ và Tên" onfocus="if(this.value=='Họ và Tên') this.value='';" onblur="if(this.value=='') this.value='Họ và Tên';"
+                                        type="text" name="txtName" id="txtName" class="adword-textbox"">
+                                </td>
+                                <td>
+                                    <input type="text" onfocus="if(this.value=='Email') this.value='';" onblur="if(this.value=='') this.value='Email';"
+                                        value="Email" name="txtEmail" id="txtEmail" class="adword-textbox">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="padding-top: 10px;">
+                                    <input type="text" onfocus="if(this.value=='Địa chỉ') this.value='';" onblur="if(this.value=='') this.value='Địa chỉ';"
+                                        value="Địa chỉ" name="txtAddress" id="txtAddress" class="adword-textbox"">
+                                </td>
+                                <td style="padding-top: 10px;">
+                                    <input type="text" onfocus="if(this.value=='Mã an toàn') this.value='';" onblur="if(this.value=='') this.value='Mã an toàn';"
+                                        value="Mã an toàn" name="txtValidCode" id="txtValidCode" class="adword-textbox2">
+                                    <span id="ctl00_MainContent_NewsDetailControl_lblCode" class="lbl_randomtext">TGMEEV</span>
+                                    <div style="display: none;">
+                                        <input name="ctl00$MainContent$NewsDetailControl$txtNewsCode" type="text" value="TGMEEV" id="ctl00_MainContent_NewsDetailControl_txtNewsCode" />
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" style="padding-top: 5px">
+                                    <textarea rows="10" name="txtAddedContent" id="txtAddedContent" cols="46" class="SForm"
+                                        style="width: 470px"></textarea>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2">
+                                    <input type="button" class="bg_button_send_comment2" onclick="getData('/CommentADD.aspx?newsID=528615','contenDiv')"
+                                        value="Gửi ý kiến">
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+    <div class="news_other_main">
+        <div class="content_category_news_title">
+            CÁC TIN KHÁC
+        </div>
+        <br class="clearfloat" />
+        <div class="list_news_other_item">
+            <ul class='category_item_other_main'><li><a href='/newsdetail/Phong-su-Ky-su/528549/cuoi-o-ha-noi-tiep.htm' style='padding-right:5px'>Cưới ở Hà Nội (tiếp)</a><span style='font-size:8pt'>(30/10/2011)</span></li><li><a href='/newsdetail/Phong-su-Ky-su/528453/cuoi-o-ha-noi.htm' style='padding-right:5px'>Cưới ở Hà Nội</a><span style='font-size:8pt'>(29/10/2011)</span></li><li><a href='/newsdetail/Phong-su-Ky-su/528353/hon-hai-chuc-ho-giao-vien-co-nguy-co-mat-nha-dat!-tiep-theo.htm' style='padding-right:5px'>Hơn hai chục hộ giáo viên có nguy cơ mất nhà đất! (tiếp theo)</a><span style='font-size:8pt'>(28/10/2011)</span></li><li><a href='/newsdetail/Phong-su-Ky-su/528243/hon-hai-chuc-ho-giao-vien-co-nguy-co-mat-nha-dat!.htm' style='padding-right:5px'>Hơn hai chục hộ giáo viên có nguy cơ mất nhà đất!</a><span style='font-size:8pt'>(27/10/2011)</span></li><li><a href='/newsdetail/Phong-su-Ky-su/528113/chan-quay-chan-phui.htm' style='padding-right:5px'>Chân “quấy”, chân “phủi”</a><span style='font-size:8pt'>(26/10/2011)</span></li><li><a href='/newsdetail/Phong-su-Ky-su/528019/lang-phi-tu-tam-nhin.htm' style='padding-right:5px'>Lãng phí từ tầm nhìn</a><span style='font-size:8pt'>(25/10/2011)</span></li><li><a href='/newsdetail/Phong-su-Ky-su/527898/nhung-dieu-con-mai.htm' style='padding-right:5px'>Những điều còn mãi</a><span style='font-size:8pt'>(24/10/2011)</span></li><li><a href='/newsdetail/Phong-su-Ky-su/527806/bai-cuoi-tham-lang-lam-nen-huyen-thoai.htm' style='padding-right:5px'>Bài cuối: Thầm lặng làm nên huyền thoại</a><span style='font-size:8pt'>(23/10/2011)</span></li><li><a href='/newsdetail/Phong-su-Ky-su/527770/bai-23-ho-mai-la-anh-hung.htm' style='padding-right:5px'>Bài 23: Họ mãi là anh hùng...</a><span style='font-size:8pt'>(22/10/2011)</span></li><li><a href='/newsdetail/Phong-su-Ky-su/527618/moi-som-mai-tren-tay-to-bao-moi….htm' style='padding-right:5px'>Mỗi sớm mai, trên tay tờ báo mới…</a><span style='font-size:8pt'>(21/10/2011)</span></li><li><a href='/newsdetail/Phong-su-Ky-su/527509/canh-sat-truong-to-dan-pho.htm' style='padding-right:5px'>“Cảnh sát trưởng” tổ dân phố</a><span style='font-size:8pt'>(20/10/2011)</span></li><li><a href='/newsdetail/Phong-su-Ky-su/527390/bai-22-cac-con-cua-ma-hai-tham.htm' style='padding-right:5px'>Bài 22: Các con của má Hai Thắm</a><span style='font-size:8pt'>(19/10/2011)</span></li><li><a href='/newsdetail/Phong-su-Ky-su/527280/bai-21-nhung-ngon-nguon-tao-nen-bien-lon.htm' style='padding-right:5px'>Bài 21: Những ngọn nguồn tạo nên biển lớn</a><span style='font-size:8pt'>(18/10/2011)</span></li></ul>
+        </div>
+        <br class="clearfloat" />
+    </div>
+    <div id="news_search_datetime">
+        <div class="content_category_news_title">
+            XEM THEO NGÀY THÁNG
+        </div>
+        <br class="clearfloat" />
+       <div style="clear:both;float:left;width:100%;text-align:right;margin-top:10px">
+<script type="text/javascript">
+    $(function()
+    {
+        var d=new Date();
+        var currentYear=d.getFullYear();
+        $("select[id$=cboYear]").empty();
+        for(i=currentYear;i>=currentYear-5;i--)
+        {
+            $("select[id$=cboYear]").append("<option value='"+i+"'>"+i+"</option>");
+        }
+    });
+</script>
+Xem tin theo ngày: &nbsp;
+<select name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$cboDay" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_cboDay">
+	<option value="1">1</option>
+	<option value="2">2</option>
+	<option value="3">3</option>
+	<option value="4">4</option>
+	<option value="5">5</option>
+	<option selected="selected" value="6">6</option>
+	<option value="7">7</option>
+	<option value="8">8</option>
+	<option value="9">9</option>
+	<option value="10">10</option>
+	<option value="11">11</option>
+	<option value="12">12</option>
+	<option value="13">13</option>
+	<option value="14">14</option>
+	<option value="15">15</option>
+	<option value="16">16</option>
+	<option value="17">17</option>
+	<option value="18">18</option>
+	<option value="19">19</option>
+	<option value="20">20</option>
+	<option value="21">21</option>
+	<option value="22">22</option>
+	<option value="23">23</option>
+	<option value="24">24</option>
+	<option value="25">25</option>
+	<option value="26">26</option>
+	<option value="27">27</option>
+	<option value="28">28</option>
+	<option value="29">29</option>
+	<option value="30">30</option>
+	<option value="31">31</option>
+</select>
+<select name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$cboMonth" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_cboMonth">
+	<option value="1">Th&#225;ng 1</option>
+	<option value="2">Th&#225;ng 2</option>
+	<option value="3">Th&#225;ng 3</option>
+	<option value="4">Th&#225;ng 4</option>
+	<option value="5">Th&#225;ng 5</option>
+	<option value="6">Th&#225;ng 6</option>
+	<option value="7">Th&#225;ng 7</option>
+	<option value="8">Th&#225;ng 8</option>
+	<option value="9">Th&#225;ng 9</option>
+	<option value="10">Th&#225;ng 10</option>
+	<option selected="selected" value="11">Th&#225;ng 11</option>
+	<option value="12">Th&#225;ng 12</option>
+</select>
+<select name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$cboYear" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_cboYear">
+</select>
+<input type="submit" name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$btnView" value="Xem" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_btnView" />
+<br />
+</div>
+    </div>
+</div>
+
+                </div>
+                <div class="right_category_box">
+                           
+                            <div class="box_adv_newscategory">
+                                <div class="right_content_box_bottom_adv">
+                                <body topmargin="0" leftmargin="0">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#016A99" height="1">
+<tr><td height=1></td></tr>
+</table></body>
+
+                                </div>  
+                            </div>
+                            <div  style="float:right;padding-top:5px;display:none">
+                                   
+                             </div>
+                            <div id="Div1" style="float:right;padding-top:5px">
+                              <div id='box_flow' style='display:block'><div class='box_top_ovan'><!----></div><div class='box_center_ovan'><div class='box_news_event_title'><a href='#' class='content_news_main_link'>Tin mới nhận</a></div><div class='content_ul'><table cellpadding='0' cellspacing='0' border='0'><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Xa-hoi/529284/mercedes-gay-tai-nan-lien-hoan.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails06292011082926IMG_5203.jpg"></a><a class='link_news_focus' href='/newsdetail/Xa-hoi/529284/mercedes-gay-tai-nan-lien-hoan.htm'>Mercedes gây tai nạn liên hoàn</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Phong-su-Ky-su/529223/mot-the-ky-nha-hat-lon-ha-noi.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/11/6/nha-hat-lon.jpg"></a><a  class='link_news_focus' href='/newsdetail/Phong-su-Ky-su/529223/mot-the-ky-nha-hat-lon-ha-noi.htm'>Một thế kỷ Nhà hát Lớn Hà Nội</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Xa-hoi/529217/xoa-so-o-chuot-ma-tuy-lon-nhat-tphcm.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/11/5/trummtuy.jpg"></a><a class='link_news_focus' href='/newsdetail/Xa-hoi/529217/xoa-so-o-chuot-ma-tuy-lon-nhat-tphcm.htm'>Xóa sổ ổ chuột ma túy lớn nhất TP.HCM</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Xa-hoi/529213/đua-2-chau-nho-vu-no-khi-gas-ve-noi-an-nghi-cuoi-cung.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails05232011042311DSC_0837.jpg"></a><a  class='link_news_focus' href='/newsdetail/Xa-hoi/529213/đua-2-chau-nho-vu-no-khi-gas-ve-noi-an-nghi-cuoi-cung.htm'>Đưa 2 cháu nhỏ vụ nổ khí gas về nơi an nghỉ cuối cùng </a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Phong-su-Ky-su/529193/canh-bao-dam-nuoc-mat.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/11/5/anh-2.jpg"></a><a class='link_news_focus' href='/newsdetail/Phong-su-Ky-su/529193/canh-bao-dam-nuoc-mat.htm'>Cảnh báo đẫm nước mắt</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/LS-bandoc/529187/quy-dinh-ve-quang-cao-thuoc-tren-ptth-trang-tin-dien-tu.htm'><img style="display:none" src=""></a><a  class='link_news_focus' href='/newsdetail/LS-bandoc/529187/quy-dinh-ve-quang-cao-thuoc-tren-ptth-trang-tin-dien-tu.htm'>Quy định về quảng cáo thuốc trên PTTH, trang tin điện tử </a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Xa-hoi/529186/net-dep-van-hoa-giao-thong.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/11/5/xep-hang-len-xe.jpg"></a><a class='link_news_focus' href='/newsdetail/Xa-hoi/529186/net-dep-van-hoa-giao-thong.htm'>Nét đẹp văn hóa giao thông </a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Xa-hoi/529166/nguoi-dan-dong-tinh-ung-ho.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/11/5/phodibo.jpg"></a><a  class='link_news_focus' href='/newsdetail/Xa-hoi/529166/nguoi-dan-dong-tinh-ung-ho.htm'>Người dân đồng tình, ủng hộ</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Xa-hoi/529164/ban-ve-tau-tet-nham-thin-cho-ca-nhan-tu-ngay-1511.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/11/5/ve.jpg"></a><a class='link_news_focus' href='/newsdetail/Xa-hoi/529164/ban-ve-tau-tet-nham-thin-cho-ca-nhan-tu-ngay-1511.htm'>Bán vé tàu Tết Nhâm Thìn cho cá nhân từ ngày 15-11 </a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Xa-hoi/529153/benh-nan-y-chua-co-thuoc-giai.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/11/5/Thi-hanh8.jpg"></a><a  class='link_news_focus' href='/newsdetail/Xa-hoi/529153/benh-nan-y-chua-co-thuoc-giai.htm'>Bệnh nan y chưa có thuốc giải </a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Xa-hoi/529105/cong-an-ha-noi-dien-tap-giai-cuu-con-tin.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails04362011023601dtap.jpg"></a><a class='link_news_focus' href='/newsdetail/Xa-hoi/529105/cong-an-ha-noi-dien-tap-giai-cuu-con-tin.htm'>Công an Hà Nội diễn tập giải cứu con tin</a><br class='clearfloat'></div></div></td></table></div></div><div class='box_bottom_ovan'><!----></div></div>
+                            </div>
+                            <div  style="float:right;padding-top:5px">
+                                  <div id='center_box' style='display:block'><div class='box_top_ovan'><!----></div><div class='box_center_ovan'><div class='box_news_event_title'><a href='#' class='content_news_main_link'>Theo dòng sự kiện</a></div><div class='box_news_event_content'><div class='news_event_content'><a href='/newsevent/1781.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=100&height=60&ImgFilePath=/Uploads/image/Flows/Thumbnails/2011/6/Thumbnails01062011070654.jpg">Cuộc thi viết “Chống lãng phí, thực hành tiết kiệm”</a><br class='clearfloat'></div><div class='news_event_content'><a href='/newsevent/2142.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=100&height=60&ImgFilePath=/Uploads/image/Flows/Thumbnails/2011/9/Thumbnails13472011104705.jpg">Tập đoàn Điện lực Việt Nam Cứu thua lỗ viễn thông bằng cách làm... kỳ lạ</a><br class='clearfloat'></div><div class='news_event_content'><a href='/newsevent/1761.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=100&height=60&ImgFilePath=/Uploads/image/Flows/Thumbnails/2011/5/Thumbnails29262011082601.jpg">Thế giới showbiz và văn hóa ứng xử</a><br class='clearfloat'></div></div></div><div class='box_bottom_ovan'><!----></div></div> 
+                             </div>
+                            <div id="box_flow" style="float:right;">
+                              <div id='box_flow' style='display:block'><div class='box_top_ovan'><!----></div><div class='box_center_ovan'><div class='box_news_event_title'><a href='#' class='content_news_main_link'>Tiêu điểm</a></div><div class='content_ul'><table cellpadding='0' cellspacing='0' border='0'><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Phong-su-Ky-su/529223/mot-the-ky-nha-hat-lon-ha-noi.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/11/6/nha-hat-lon.jpg"></a><a class='link_news_focus' href='/newsdetail/Phong-su-Ky-su/529223/mot-the-ky-nha-hat-lon-ha-noi.htm'>Một thế kỷ Nhà hát Lớn Hà Nội</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Phong-su-Ky-su/529193/canh-bao-dam-nuoc-mat.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/11/5/anh-2.jpg"></a><a  class='link_news_focus' href='/newsdetail/Phong-su-Ky-su/529193/canh-bao-dam-nuoc-mat.htm'>Cảnh báo đẫm nước mắt</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Phong-su-Ky-su/529079/mot-tieu-đuong-son-dai-dia-chan-voi-ket-cuc-buon.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails04472011084753no-luc-dua-be-Tam-ra.jpg"></a><a class='link_news_focus' href='/newsdetail/Phong-su-Ky-su/529079/mot-tieu-đuong-son-dai-dia-chan-voi-ket-cuc-buon.htm'>Một tiểu “Đường Sơn đại địa chấn” với kết cục buồn</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Phong-su-Ky-su/529032/phai-minh-bach-tai-san-co-nguon-von-tu-dien.htm'><img style="display:none" src=""></a><a  class='link_news_focus' href='/newsdetail/Phong-su-Ky-su/529032/phai-minh-bach-tai-san-co-nguon-von-tu-dien.htm'>Phải minh bạch tài sản có nguồn vốn từ điện</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Phong-su-Ky-su/528943/can-ham-lich-su-o-khach-san-metropole-ha-noi.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/11/3/anh-3.jpg"></a><a class='link_news_focus' href='/newsdetail/Phong-su-Ky-su/528943/can-ham-lich-su-o-khach-san-metropole-ha-noi.htm'>Căn hầm lịch sử ở khách sạn Metropole Hà Nội</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Phong-su-Ky-su/528739/xe-buyt--con-cung-lam-tat.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/11/1/XB1.jpg"></a><a  class='link_news_focus' href='/newsdetail/Phong-su-Ky-su/528739/xe-buyt--con-cung-lam-tat.htm'>Xe buýt - “con cưng” lắm tật</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Phong-su-Ky-su/528353/hon-hai-chuc-ho-giao-vien-co-nguy-co-mat-nha-dat!-tiep-theo.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/10/28/tt.jpg"></a><a class='link_news_focus' href='/newsdetail/Phong-su-Ky-su/528353/hon-hai-chuc-ho-giao-vien-co-nguy-co-mat-nha-dat!-tiep-theo.htm'>Hơn hai chục hộ giáo viên có nguy cơ mất nhà đất! (tiếp theo)</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Phong-su-Ky-su/528243/hon-hai-chuc-ho-giao-vien-co-nguy-co-mat-nha-dat!.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/vdco/2011/10/27/tt.jpg"></a><a  class='link_news_focus' href='/newsdetail/Phong-su-Ky-su/528243/hon-hai-chuc-ho-giao-vien-co-nguy-co-mat-nha-dat!.htm'>Hơn hai chục hộ giáo viên có nguy cơ mất nhà đất!</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Phong-su-Ky-su/528019/lang-phi-tu-tam-nhin.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/10/25/TRUNGLUONG.jpg"></a><a class='link_news_focus' href='/newsdetail/Phong-su-Ky-su/528019/lang-phi-tu-tam-nhin.htm'>Lãng phí từ tầm nhìn</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Phong-su-Ky-su/527806/bai-cuoi-tham-lang-lam-nen-huyen-thoai.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/10/23/tau-khong-so.jpg"></a><a  class='link_news_focus' href='/newsdetail/Phong-su-Ky-su/527806/bai-cuoi-tham-lang-lam-nen-huyen-thoai.htm'>Bài cuối: Thầm lặng làm nên huyền thoại</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Phong-su-Ky-su/527509/canh-sat-truong-to-dan-pho.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/10/20/ps.jpg"></a><a class='link_news_focus' href='/newsdetail/Phong-su-Ky-su/527509/canh-sat-truong-to-dan-pho.htm'>“Cảnh sát trưởng” tổ dân phố</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Phong-su-Ky-su/527106/mot-thoi-tem-phieu-tiep.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/10/15/baocap.gif"></a><a  class='link_news_focus' href='/newsdetail/Phong-su-Ky-su/527106/mot-thoi-tem-phieu-tiep.htm'>Một thời tem phiếu (tiếp)</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Phong-su-Ky-su/527036/mot-thoi-tem-phieu.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/10/15/baocap.gif"></a><a class='link_news_focus' href='/newsdetail/Phong-su-Ky-su/527036/mot-thoi-tem-phieu.htm'>Một thời tem phiếu</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Phong-su-Ky-su/526664/doanh-nhan-ha-noi-voi-cach-mang.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails12272011062758ps-top.jpg"></a><a  class='link_news_focus' href='/newsdetail/Phong-su-Ky-su/526664/doanh-nhan-ha-noi-voi-cach-mang.htm'>Doanh nhân Hà Nội với cách mạng</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Phong-su-Ky-su/526413/tam-guong-vi-chinh-nghia.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/10/9/ungho.jpg"></a><a class='link_news_focus' href='/newsdetail/Phong-su-Ky-su/526413/tam-guong-vi-chinh-nghia.htm'>Tấm gương vì chính nghĩa</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Phong-su-Ky-su/526182/bai-16-nguyen-ven-mot-tinh-yeu.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/10/7/psu.jpg"></a><a  class='link_news_focus' href='/newsdetail/Phong-su-Ky-su/526182/bai-16-nguyen-ven-mot-tinh-yeu.htm'>Bài 16: Nguyên vẹn một tình yêu</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Phong-su-Ky-su/526053/tuy-tien-trong-chuyen-lo-va-tach--nhap.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/10/6/ps.jpg"></a><a class='link_news_focus' href='/newsdetail/Phong-su-Ky-su/526053/tuy-tien-trong-chuyen-lo-va-tach--nhap.htm'>Tùy tiện trong chuyển lỗ và tách - nhập?</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Phong-su-Ky-su/525948/bai-15-noi-ay-con-in-dau-cac-anh.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/10/5/tau43.jpg"></a><a  class='link_news_focus' href='/newsdetail/Phong-su-Ky-su/525948/bai-15-noi-ay-con-in-dau-cac-anh.htm'>Bài 15: Nơi ấy còn in dấu các anh...</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Phong-su-Ky-su/525810/song-chung-voi-lu.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/10/4/ps.jpg"></a><a class='link_news_focus' href='/newsdetail/Phong-su-Ky-su/525810/song-chung-voi-lu.htm'>Sống chung với lũ</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Phong-su-Ky-su/525611/nhung-ke-ho-trong-xuat-khau-lao-dong.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/10/2/ps.jpg"></a><a  class='link_news_focus' href='/newsdetail/Phong-su-Ky-su/525611/nhung-ke-ho-trong-xuat-khau-lao-dong.htm'>Những kẽ hở trong xuất khẩu lao động</a><br class='clearfloat'></div></div></td></tr></table></div></div><div class='box_bottom_ovan'><!----></div></div>
+                            </div>
+                            <div class="box_video" style="float:right;padding-top:5px">
+                                 
+ <script language="javascript" type="text/javascript">  
+    $(function()
+    {
+        $('.videoTitle').live('click',function() {
+        $(".box_video_bg .title_box_video_pic").load("/Modules/CMS_ARTICLE/ArticleGetTitle.aspx?articleID="+$(this).attr("id")); 
+        $(".video_body").load("/Modules/CMS_ARTICLE/ArticleGetContent.aspx?articleID="+$(this).attr("id")); 
+        var newsID = $(this).attr("id");
+        var data = "{'newsID':'" + newsID +"'}"; //create the JSON data to send to server
+        $.ajax(
+                { //call the Page method using JQuery ajax
+                  type: "POST",
+                  url: "/ShowVideo.aspx/ShowVideoOther",
+                  data: data,
+                  contentType: "application/json; charset=utf-8",
+                  dataType: "json",
+                  success: function(msg)  //show the result
+                  {
+                                     
+                    $(".video_other").fadeOut("fast").html(msg.d).fadeIn("fast");
+                  }
+                });
+        return false;
+        });
+    });
+ </script>
+<div class="box_video_bg">
+    <div class="top_title_video"><a style="color: rgb(0, 102, 204); font-family: Verdana,Times New Roman,Arial,Tahoma; font-size: 9pt; font-weight: bold; text-decoration: none;" href='/categoryparent/196/video.htm'>&nbsp;&nbsp;&nbsp;Video</a></div>
+    <div  class='title_box_video_pic'>Vòng 11 Premiership: QPR 2-3 Man City</div><div class='video_body'><table border="0" cellspacing="1" cellpadding="1" width="200" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <div style="text-align: center" id="player783083-parent">
+            <div style="background-image: url(/FCKeditor/editor/plugins/flvPlayer/flvPlayer.gif); border-bottom-style: none; border-right-style: none; background-color: rgb(220,220,220); width: 292px; background-repeat: no-repeat; background-position: center 50%; border-top-style: none; height: 230px; border-left-style: none; overflow: hidden"><script src="/FCKeditor/editor/plugins/flvPlayer/swfobject.js" type="text/javascript"></script>
+            <div id="player783083">
+            <div><a href="http://www.macromedia.com/go/getflashplayer">Get the Flash Player</a> to see this player.</div>
+            <div style="width: 0px; display: none; height: 0px; visibility: hidden; overflow: hidden" id="player783083-config">url=/Uploads/flash/tuanphong/2011/11/manct3-2QPR.flv iurl=/Uploads/tuanphong/2011/11/6/manct(1).jpg width=292 height=230 loop=false play=false downloadable=false fullscreen=true displayNavigation=true displayDigits=true playlistThumbs=false</div>
+            </div>
+            <script type="text/javascript">
+	var s1 = new SWFObject("/FCKeditor/editor/plugins/flvPlayer/mediaplayer.swf","single","292","230","7");
+	s1.addVariable("width","292");
+	s1.addVariable("height","230");
+	s1.addVariable("autostart","false");
+	s1.addVariable("file","/Uploads/flash/tuanphong/2011/11/manct3-2QPR.flv");
+	s1.addVariable("repeat","false");
+	s1.addVariable("image","/Uploads/tuanphong/2011/11/6/manct(1).jpg");
+	s1.addVariable("showdownload","false");
+	s1.addVariable("link","/Uploads/flash/tuanphong/2011/11/manct3-2QPR.flv");
+	s1.addParam("allowfullscreen","true");
+	s1.addVariable("showdigits","true");
+	s1.addVariable("shownavigation","true");
+	s1.addVariable("logo","");
+	s1.write("player783083");
+</script></div>
+            </div>
+            </td>
+        </tr>
+    </tbody>
+</table></div><br class='clearfloat' /><div class='video_other'><ul class='content_other_action'><li><a href='#' class='videoTitle' id='529010'>Clip: sập nhà vì nổ khí gas, 2 cháu bé tử vong</a></li><li><a href='#' class='videoTitle' id='528983'>Champions League: M.U 2-0 Otelul</a></li><li><a href='#' class='videoTitle' id='528865'>Barca dễ dàng đè bẹp Viktoria Plzen 4-0</a></li></ul></div>
+  </div>
+                            </div>
+                            <div id="box_picture" style="float:right;margin-right:-3px">
+                                 
+<div class="box_picture_bg">
+    <div class="top_title_video">&nbsp;&nbsp;&nbsp;<a href='/categoryparent/195/Anh.htm' style='color:#0066CC;
+font-family:Verdana,Times New Roman,Arial,Tahoma;
+font-size:9pt;
+font-weight:bold;text-decoration:none'>Góc ảnh</a></div>
+    <div class='title_box_video_pic'><a class='blueLink' href='/newsdetail/Anh/529183/soi-dong-oktoberfest-2011-tai-ha-noi.htm'>Sôi động Oktoberfest 2011 tại Hà Nội</a></div><div class='box_pic_content'><a href='/newsdetail/Anh/529183/soi-dong-oktoberfest-2011-tai-ha-noi.htm'><img src='/GetThumbnail.ashx?width=280&height=200&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails05282011072845a2.jpg' /></a></div><div class='box_pic_other'><ul class='content_other_action'><li><a href='/newsdetail/Anh/529015/cong-chieng-tay-nguyen-qua-ong-kinh-nghe-sy.htm'>Cồng chiêng Tây Nguyên qua ống kính nghệ sỹ</a></li><li><a href='/newsdetail/Anh/528802/tham-nhap-can-ham-moi-phat-lo-trong-ks-metropole-ha-noi.htm'>Thâm nhập căn hầm mới phát lộ trong KS Metropole Hà Nội</a></li><li><a href='/newsdetail/Anh/528660/mua-vang.htm'>Mùa vàng</a></li></ul></div>
+ </div>
+                            </div>
+                            <div class="box_adv_newscategory">
+                              <div class="right_content_box_bottom_adv">
+                                <br>
+
+                               </div>  
+                            </div>
+                        </div>
+           </div>
+           <div class="right_news_category_box">
+              <ul class="right_content_box_adv_main">
+                    <li>
+                    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" name="wmode" height="360" width="180">
+    <param name="movie" value="/Uploads/NCC/2011-NBN/ads-homepage/songkhoe180x360.swf">
+                  <param name="quality" value="high">
+                  <param name="wmode" value="transparent">
+                 <embed wmode="transparent" src="/Uploads/NCC/2011-NBN/ads-homepage/songkhoe180x360.swf" allowscriptaccess="always" type="application/x-shockwave-flash" height="360" width="180">
+</object>
+
+                    </li>
+                    <li>
+                    <a href="/newsdetail/Van-hoa/424354/%C4%91on-doc-ha-noi-ngay-nay-so-1-bo-moi.htm">
+<img src="/Uploads/NCC/2011/ads-homepage/HN-Ngaynay.jpg" border="0">
+</a>
+
+                    </li>
+                    <li>
+                    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" name="wmode" height="180" width="180">
+<param name="movie" value="/Uploads/NCC/ads-homepage/4D-homeduhoc_180x180.swf">
+<param name="quality" value="high">
+<param name="wmode" value="transparent">
+<embed wmode="transparent" src="/Uploads/NCC/ads-homepage/4D-homeduhoc_180x180.swf" allowscriptaccess="always" type="application/x-shockwave-flash" height="180" width="180">
+</object>
+
+                    </li>
+                    <li>
+                    <object width="180" height="180" name="wmode" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+    <param value="/Uploads/NCC/ads-homepage/4A-chuyenmuckinhte_180x180.swf" name="movie">
+                  <param value="high" name="quality">
+                  <param value="transparent" name="wmode">
+                 <embed width="180" height="180" type="application/x-shockwave-flash" allowscriptaccess="always" src="/Uploads/NCC/ads-homepage/4A-chuyenmuckinhte_180x180.swf" wmode="transparent">
+</object>
+
+                    </li>
+                 
+                </ul>
+           </div> 
+        </div>
+      </div>
+
+            <div id="footer">
+                <div id="footer_wrap">
+                    <div class="menu">
+                        <div class="tabsmenuclass">
+                            <ul class='menutop'>
+                                <li><a href=''>Trang chủ</a></li>
+                                <li><a href='/contact/contact.htm'>
+                                    <img width='10px' height='11px' style='border: 0px none; float: left; margin-top: 10px;'
+                                        src='/images/icon01.png' />&nbsp;Liên hệ tòa soạn</a></li>
+                                <li><a onclick='setHomepage();' href='javascript:void(0);'>
+                                    <img width='12px' height='9px' style='border: 0px none; float: left; margin-top: 10px;'
+                                        src='/images/icon02.png' />&nbsp;Đặt HNM làm trang chủ</a></li>
+                                <li><a href='/Modules/NewsLetter/NewsLetterRegister.aspx'>
+                                    <img width='12px' height='9px' style='border: 0px none; float: left; margin-top: 10px;'
+                                        src='/images/icon03.png' />&nbsp;Đăng ký nhận tin mới</a></li>
+                                <li>
+                                    <select name="ctl00$ddlWebLink" id="ctl00_ddlWebLink" onchange="window.open(this.value)" style="float: left; margin: 5px 20px 0 180px;">
+	<option value="Liên kết Website">Li&#234;n kết Website</option>
+	<option value="http://www.dangcongsan.vn">B&#225;o Điện tử Đảng CSVN</option>
+	<option value="http://www.nhandan.com.vn">B&#225;o Nh&#226;n D&#226;n</option>
+	<option value="http://www.vietnamplus.vn">TTXVN</option>
+	<option value="http://www.cuocsongvantuoidep.vn">&quot;Cuộc sống vẫn tươi đẹp&quot; tr&#234;n VTV4</option>
+	<option value="http://chinhphu.vn">Website Ch&#237;nh phủ</option>
+	<option value="http://www.na.gov.vn">Quốc hội Việt Nam</option>
+	<option value="http://www.vnexpress.net">VnExpress</option>
+	<option value="http://www.vnn.vn">Vietnamnet</option>
+	<option value="http://tienphong.vn">Tiền Phong</option>
+	<option value="http://www.tuoitre.com.vn">Tuổi trẻ</option>
+	<option value="http://www.anninhthudo.vn">An ninh Thủ đ&#244;</option>
+	<option value="http://www.nld.com.vn">B&#225;o Người Lao Động</option>
+	<option value="http://www.baothuathienhue.vn/">B&#225;o Thừa Thi&#234;n Huế</option>
+	<option value="http://www.baobinhthuan.com.vn">B&#225;o B&#236;nh Thuận</option>
+
+</select>
+                                </li>
+                                <li><a href="#top" style="margin: 0; padding: 0 5px 0 5px; color: white; font-weight: bold">
+                                    Về đầu trang</a> </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="footer_text">
+                        Bản quyền © 2003-2010 Báo Hànộimới - CQCQ: Thành ủy Hà Nội<br/>
+                        Giấy phép số 1123/GP-BTTTT, cấp ngày: 21/7/2011. Tổng biên tập: TÔ QUANG PHÁN<br/>
+                        Địa chỉ: 44 Lê Thái Tổ - Hà Nội . ĐT (04) 38253067 – 39287445 . Fax: (04) 39287445 . Email:<a style='color:blue' href='mailto:webmaster@hanoimoi.com.vn'>webmaster@hanoimoi.com.vn</a><br/>
+                        Ghi rõ nguồn "Báo Hànộimới" khi phát hành lại thông tin từ website này.
+                  </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+
+    <script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12223163-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

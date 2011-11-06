@@ -1,0 +1,726 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><link href="../../../App_Themes/Hanoimoi/Contact.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/mouseovertabs.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/newscategory.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/newsdetail.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/stylehome.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/thickbox.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/Top_Tip.css" type="text/css" rel="stylesheet" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta http-equiv="refresh" content="600" /><title>
+	
+        Vụ bán tin gây chấn động
+</title><link href="/Client/slide/featuredcontentglider.css" rel="stylesheet" type="text/css" /><link href="/Client/jquery.ui.tab/css/flick/jquery-ui-1.7.2.custom.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        body
+        {
+            margin: 0px;
+            padding: 0px 0px 60px;
+            background: #FFFFFF no-repeat fixed center 0px;
+        }
+        .divFixed
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            left: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixed_R
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            right: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixedBg_IE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_RIE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_IE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+        .divFixedBg_RIE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+    </style>
+    <script language="JavaScript" type="text/javascript"> 
+//    function LoadImages(s,c)
+//    {
+//   
+//        s.getAttribute("loi")==null?s.setAttribute("loi","1"):s.setAttribute("loi",eval(s.getAttribute("loi"))+1);
+//        if(eval(s.getAttribute("loi"))>=2){c=c.substr(c.lastIndexOf("=")+1,c.length-c.lastIndexOf("="));
+//        s.onerror=null;s.src="/App_Themes/Default/Images/no_image_"+c+".jpg"}
+//        else s.src=c
+//    }
+     function returnUrl12() {
+            var key = document.getElementById('txt_search')
+	       
+            if (key.value.length != 0) {
+                location= "/NewsSearch.aspx?keyword=" + encodeURIComponent(key.value);
+		return false;	
+            }
+            else {
+                alert("Cần nhập từ khóa để tìm kiếm");
+                document.getElementById('txt_search').focus();
+                return false;
+            }
+        }
+    </script>
+  <link href="/StyleSheets/Poll/style.css" rel="stylesheet" type="text/css" /><link rel="shortcut icon" href="../../../Images/hanoimoi.ico" />
+    <script src="/Scripts/jquery.js" type="text/javascript"></script>
+    <script src="/Scripts/AdsFloat.js" type="text/javascript"></script>
+    <script src="/Client/slide/featuredcontentglider2.js" type="text/javascript"></script>    
+    <script src="/Scripts/jquery.query.js" type="text/javascript"></script>
+    <script src="/Scripts/swfobject.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/Scripts/hanoimoi.js"></script>
+    <script src="/Client/jquery.ui.tab/js/jquery-ui-1.7.2.tab.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/Scripts/thickbox-compressed.js"></script>
+	<script type="text/javascript" src="http://media.adnetwork.vn/js/adnetwork.js"></script>
+    
+    
+   
+
+    <!--###################End Tooltip##########################-->
+    <style type="text/css">
+        .highlight
+        {
+            background: yellow;
+            color: black;
+            text-decoration: none;
+        }
+        #dhtmltooltip
+        {
+            position: absolute;
+            left: -300px;
+            width: 150px;
+            border: 1px solid black;
+            padding: 2px;
+            background-color: lightyellow;
+            visibility: hidden;
+            z-index: 9999 !important; /*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+            filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+        }
+        #dhtmlpointer
+        {
+            position: absolute;
+            left: -300px;
+            z-index: 99999 !important;
+            visibility: hidden;
+        }
+        body
+        {
+            margin: 0px;
+            padding: 0px 0px 60px;
+            background: #FFFFFF url(/Customize/ExtendBanner/bg_tgdd_0410.jpg) no-repeat fixed center 0px;
+        }
+        .divFixed
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            left: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixed_R
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            right: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixedBg_IE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_RIE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_IE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+        .divFixedBg_RIE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+    </style>
+
+    <script type="text/javascript" src="/Scripts/ActiveX_Template.js"></script>
+    
+    
+    </head>
+<body style="margin:0; padding:0;">
+    <form name="aspnetForm" method="post" action="vu-ban-tin-gay-chan-dong.htm" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJLTk4MjQ1MDU1ZGQGGyMozmIw4NHS6fuo+If3qQtarw==" />
+
+
+<script src="/ScriptResource.axd?d=EqN8dc8s_XUUn6eQfm6n7-wPSZArI30XlfmKIqfRSvAoZAenqal0-S8gzj_fDI0IZFOZKZ6SXxmMw-IxZMRzbw3OVhGxDz1USCL-PCyWy4_B9St4FGZL4S0yHD8VfyKPTO9TOWEJziHi98FX2BgYV1YJYUZp-TJRvQaqxWvHVnNVUQ6-0&amp;t=ffffffffea696f7c" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWFQLnz4fKBgLiydb3BgKA4oCQBQKPs5q3DQKzqrHfCAKIzPeOAQKLwJnaCgLU4dDxBwLhocvvAwLV48O+CwLUpYXRBwLG+9tdAtHP1+4MAvTq4aQDAurX1ecJAvfgtPQMAt3E+90MAtuu0ogPAtO368wBAtiWq7sNAueVloQCzOYPjVE+Ul3tIZWe5mKR6YnTqvs=" />
+        <!-- Quang cao 2 ben trang -->
+    <div id="divResult"></div>
+    
+
+ 
+    <div >
+        
+        <div id="main_body" >
+            <div id="top">
+                <div class="wrapbar" id="dvBanner">
+                    <div class="left_logo">
+                        <a href="#">
+                            <img alt="" src="/images/hanoimoi_logo.png" border="0" /></a>
+                    </div>
+                    <div class="right_adv">
+                       <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" 
+codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="640" height="87" name="wmode">
+    <param name="movie" value="/Uploads/NCC/ads-homepage/netdepnguoithudo.swf">
+                  <param name="quality" value="high">
+                  <param name="wmode" value="transparent">
+                 <embed wmode="transparent" src="/Uploads/NCC/ads-homepage/netdepnguoithudo.swf" allowscriptaccess="always" type="application/x-shockwave-flash" width="640" height="87"></embed>
+</object>
+
+                    </div>
+                </div>
+                <div id="dvTopMenu">
+                    <div class="wrapbar">
+                        <div class="menu_content2">
+                            <div id="mytabsmenu" class="tabsmenuclass">
+                                <ul class="menutop"><li><a href="/index.htm" rel="gotsubmenu[selected]">Trang chủ</a></li><li><a id='Chinh-tri' rel="gotsubmenu" href="/categoryparent/192/Chinh-tri.htm">Chính trị</a></li><li><a id='Xa-hoi' rel="gotsubmenu" href="/categoryparent/163/Xa-hoi.htm">Xã hội</a></li><li><a id='Kinh-te' rel="gotsubmenu" href="/categoryparent/190/Kinh-te.htm">Kinh tế</a></li><li><a id='The-gioi' rel="gotsubmenu[selected]" href="/categoryparent/189/The-gioi.htm">Thế giới</a></li><li><a id='Van-hoa' rel="gotsubmenu" href="/categoryparent/179/Van-hoa.htm">Văn hóa</a></li><li><a id='The-thao' rel="gotsubmenu" href="/categoryparent/170/The-thao.htm">Thể thao</a></li><li><a id='Giao-duc' rel="gotsubmenu" href="/categoryparent/164/Giao-duc.htm">Giáo dục</a></li><li><a id='1000_nam_thang_long' rel="gotsubmenu" href="/categoryparent/204/1000_nam_thang_long.htm">Thăng Long - Hà Nội</a></li><li><a id='Phap-luat' rel="gotsubmenu" href="/categoryparent/175/Phap-luat.htm">Pháp luật</a></li><li><a id='Khoa-hoc' rel="gotsubmenu" href="/categoryparent/100/Khoa-hoc.htm">Khoa học</a></li><li><a id='Doi-song' rel="gotsubmenu" href="/categoryparent/224/Doi-song.htm">Đời sống</a></li></ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="wrapbar">
+                        <div class="menu_boder_left">
+                            <!---->
+                        </div>
+                        <div class="sub_menu_content">
+                            <div id="mysubmenuarea" class="tabsmenucontentclass">
+                                <!--1st link within submenu container should point to the external submenu contents file-->
+                                <a href="/submenucontents.aspx" style="visibility: hidden">
+                                    Sub Menu contents</a>
+                            </div>
+
+                            <script type="text/javascript">
+                                //mouseovertabsmenu.init("tabs_container_id", "submenu_container_id", "bool_hidecontentsmouseout")
+                                mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
+
+                            </script>
+
+                        </div>
+                        <div class="menu_boder_right">
+                            <!---->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+
+<div id="main_wrap">
+        <div class="wrapbar">
+           <div class="left_news_category_box">
+                <div class="left_category_news">
+                    
+
+<script language="javascript" type="text/javascript">
+    $(function() {
+
+        // hides the slickbox as soon as the DOM is ready
+        // (a little sooner than page load)
+        $('#slickbox').hide();
+        $('#sendcomment').hide();
+        // shows the slickbox on clicking the noted link  
+        $('a#slick-show').click(function() {
+            $('#slickbox').show('slow');
+            return false;
+        });
+        $(".btnEmai").click(function() {
+            var pID = $(this).attr("id");
+            var pShortName = $(this).parent().attr("id");
+            tb_show('Kết quả bình luận', '/PrintNews.aspx?newsID=' + pID + '&shortname=' + pShortName + '&no_refresh=1&TB_iframe=true&height=430&width=450&modal=true');
+            return false;
+        });
+        // hides the slickbox on clicking the noted link  
+        $('a#slick-hide').click(function() {
+            $('#slickbox').hide('fast');
+            return false;
+        });
+
+        // toggles the slickbox on clicking the noted link  
+        $('a#slick-toggle').click(function() {
+            $('#slickbox').toggle(400);
+            return false;
+        });
+        // toggles the slickbox on clicking the noted link  
+        $('a#slick-toggle-send').click(function() {
+            $('#sendcomment').toggle(400);
+            return false;
+        });
+        $(".keyword").live('click', function() {
+            location='/NewsSearch.aspx?keyword='+$.trim($(this).html());
+            return false;
+        });
+    });
+</script>
+
+<div class="content_category_news">
+    <div class="content_category_news_title">
+        <a id="ctl00_MainContent_NewsDetailControl_lnkNameCategory"></a>
+        <span class='content_category_news_title_parent'><a href='/categoryparent/189/The-gioi.htm' class='parentCatTitle' rel='The-gioi' style='font-family:Arial;color:#0066CC;font-weight:bold;font-size:12px;text-transform:uppercase;'>Thế giới</a>&nbsp;>&nbsp;<a style='font-family:Arial;color:#0066CC;font-weight:bold;font-size:11px;text-transform:uppercase;' href='/newscategory/225/HS-TL.htm'>Hồ sơ tư liệu</a></span>
+    </div>
+    <div class="content_category_news_dot">
+    </div>
+    <br class="clearfloat" />
+    <div class="content_news_detail">
+        <div class="icon_print_email">
+            <a href="#" id="HS-TL">
+                <img src="/images/email.gif" /><span class="btnEmai"
+                    id="523822">Email</span></a><a href="/print/523822/print.htm"><img
+                        src="/images/print.gif" /><span>Print</span></a>
+        </div>
+        <br class="clearfloat" />
+        <div class="content_body_detail">
+            <table id="ctl00_MainContent_NewsDetailControl_rptNewsDetail" cellspacing="0" border="0">
+	<tr>
+		<td>
+                    <div class="subtitle_news_detail" style="color: #808080; font-size: 9pt; font-weight: bold">
+                        
+                    </div>
+                    <div class="title_news_detail">
+                        Vụ bán tin gây chấn động&nbsp;
+                    </div>
+                    <div style="float:left;font-size: small; color: Gray">
+                        16/09/2011 06:59
+                    </div>
+                    
+                    <div  style="color:#777777;float:left;padding-left:5px;">
+                           
+                           </div>
+                            
+                    <br class="clearfloat" />
+                    <div class="body">
+                        
+                    </div>
+                    <div class="body_detail">
+                        <p style="text-align: justify"><strong>(HNM) - Vụ việc Stewart David Nozette, nh&agrave; khoa học, thi&ecirc;n văn học Mỹ v&agrave; từng l&agrave;m việc cho Bộ Năng lượng, Bộ Quốc ph&ograve;ng v&agrave; Cơ quan H&agrave;ng kh&ocirc;ng vũ trụ Mỹ (NASA) thừa nhận tội danh b&aacute;n th&ocirc;ng tin tuyệt mật của Mỹ cho Israel trong phi&ecirc;n x&eacute;t xử của t&ograve;a &aacute;n li&ecirc;n bang tại thủ đ&ocirc; Washington D. C., đ&atilde; g&acirc;y chấn động nước Mỹ.<br />
+<br />
+</strong>
+<table border="0" cellspacing="1" cellpadding="4" width="200" align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center"><img alt="" width="310" height="219" src="/Uploads/tuanphong/2011/9/16/nozette.jpg" /></td>
+        </tr>
+    </tbody>
+</table>
+<br />
+Nh&agrave; khoa học 54 tuổi bị Bộ Tư ph&aacute;p Mỹ theo d&otilde;i khi tập đo&agrave;n phi lợi nhuận ACT do nh&agrave; khoa học n&agrave;y điều h&agrave;nh bị nghi ngờ hoạt động gian lận. Mẻ lưới bắt đầu được giăng v&agrave;o th&aacute;ng 9-2009, thời điểm &ocirc;ng Nozette nhận được những cuộc gọi đầu ti&ecirc;n của một người tự nhận m&igrave;nh l&agrave; nh&acirc;n vi&ecirc;n của Cơ quan T&igrave;nh b&aacute;o Israel (Mossad). Đương nhi&ecirc;n &ocirc;ng n&agrave;y kh&ocirc;ng ngờ đ&oacute; lại l&agrave; một nh&acirc;n vi&ecirc;n Cục Điều tra Li&ecirc;n bang Mỹ (FBI). Trong c&aacute;c cuộc gặp gỡ sau đ&oacute;, nh&agrave; khoa học người Mỹ tiết lộ c&oacute; &yacute; định b&aacute;n tin tức kh&ocirc;ng gian tuyệt mật li&ecirc;n quan đến c&ocirc;ng nghệ vệ tinh, hệ thống cảnh b&aacute;o sớm, một số loại vũ kh&iacute; ph&ograve;ng thủ v&agrave; tấn c&ocirc;ng, th&ocirc;ng tin t&igrave;nh b&aacute;o viễn th&ocirc;ng v&agrave; một số tin tức chiến lược quốc ph&ograve;ng... cho Israel. Trao đổi với đối t&aacute;c tại kh&aacute;ch sạn Mayflower ở trung t&acirc;m Washington, &ocirc;ng Nozette cho biết, Ch&iacute;nh phủ Mỹ đ&atilde; phải chi từ 200 triệu đến gần 1 tỷ USD để thu được những kết quả nghi&ecirc;n cứu trong c&aacute;c lĩnh vực tr&ecirc;n trong khi &ocirc;ng ta chỉ cần 2 triệu USD v&agrave; một cuốn hộ chiếu Israel để c&oacute; thể tẩu tho&aacute;t khi gặp bất trắc. Theo nh&agrave; khoa học, cha mẹ &ocirc;ng l&agrave; người Do Th&aacute;i; v&igrave; thế, &ocirc;ng c&oacute; quyền trở lại đất nước theo luật Israel. C&aacute;c c&ocirc;ng tố vi&ecirc;n cho biết cựu th&agrave;nh vi&ecirc;n NASA cũng đồng &yacute; sẽ cung cấp th&ocirc;ng tin thường xuy&ecirc;n cho Mossad qua một h&ograve;m thư tại bưu điện để đổi lấy tiền. &Ocirc;ng n&agrave;y đ&atilde; nhận được khoảng 20.000 USD cho hai lần thanh to&aacute;n tiền b&aacute;n tin. Khi c&aacute;c bằng chứng đ&atilde; đầy đủ, ng&agrave;y 19-10-2009, FBI quyết định cất lưới v&agrave; Nozette đ&atilde; bị bắt giữ với c&aacute;o buộc b&aacute;n tin tức b&iacute; mật của Mỹ cho nước ngo&agrave;i. <br />
+<br />
+C&oacute; bằng tiến sĩ khoa học kh&ocirc;ng gian tại Học viện Kỹ thuật Masachusset danh gi&aacute;, Nozette c&oacute; thời gian d&agrave;i l&agrave;m việc với c&aacute;c dự &aacute;n của ch&iacute;nh phủ về khoa học v&agrave; vũ trụ tại NASA, Bộ Năng lượng v&agrave; Hội đồng Vũ trụ quốc gia của Nh&agrave; Trắng dưới thời cựu Tổng thống George Bush cha. Nh&agrave; khoa học n&agrave;y c&ograve;n tham gia nhiều chương tr&igrave;nh hạt nh&acirc;n v&agrave; vệ tinh nhạy cảm của Ch&iacute;nh phủ Mỹ v&agrave; được tiếp cận với những th&ocirc;ng tin tuyệt mật cũng như những dự &aacute;n đặc biệt của ch&iacute;nh phủ. Nozette cũng được xem l&agrave; một chuy&ecirc;n gia c&ocirc;ng nghệ quốc ph&ograve;ng khi l&agrave; th&agrave;nh vi&ecirc;n của chương tr&igrave;nh ph&ograve;ng thủ t&ecirc;n lửa thời cựu Tổng thống Ronald Reagan c&oacute; t&ecirc;n gọi &quot;S&aacute;ng kiến quốc ph&ograve;ng chiến lược&quot;. Nh&agrave; khoa học gốc Do Th&aacute;i n&agrave;y cũng đ&atilde; c&oacute; những nghi&ecirc;n cứu t&igrave;m ra bằng chứng về sự hiện diện của nước ở cực Nam mặt trăng. V&igrave; được tiếp cận nhiều th&ocirc;ng tin quan trọng, trong đ&oacute; c&oacute; cả chương tr&igrave;nh t&ecirc;n lửa hạt nh&acirc;n của Mỹ, Tổng Chưởng l&yacute; Eric Holder đ&atilde; y&ecirc;u cầu &aacute;p dụng lệnh hạn chế tiếp cận th&ocirc;ng tin đặc biệt với nghi can Nozette trong thời gian tạm giam. <br />
+<br />
+Với những c&aacute;o buộc li&ecirc;n quan đến tội b&aacute;n b&iacute; mật quốc gia, nh&agrave; khoa học sinh ra tại Chicago bang Ilinois c&oacute; thể phải đối mặt với mức &aacute;n cao nhất l&agrave; tử h&igrave;nh. Nhưng nhờ sự hợp t&aacute;c với c&aacute;c c&ocirc;ng tố vi&ecirc;n trong qu&aacute; tr&igrave;nh điều tra, Nozette nhiều khả năng sẽ nhận mức &aacute;n 13 năm t&ugrave; giam. Phi&ecirc;n x&eacute;t xử tiếp theo sẽ diễn ra v&agrave;o th&aacute;ng 11 tới v&agrave; giới quan s&aacute;t tin rằng nh&agrave; khoa học n&agrave;y sẽ lĩnh &aacute;n m&agrave; kh&ocirc;ng c&oacute; bất kỳ sự kh&aacute;ng c&aacute;o n&agrave;o. Những năm nằm sau song sắt l&agrave; c&aacute;i gi&aacute; m&agrave; một chuy&ecirc;n gia cao cấp như Nozette phải trả khi một c&ocirc;ng d&acirc;n phản bội lại ch&iacute;nh đất nước m&igrave;nh.</p>
+                    </div>
+                    <div class="author">
+                        <br />
+                        Minh Nhật&nbsp;<span style="font-weight: normal; font-style: italic"></span>
+                    </div>
+                    <br class="clearfloat" />
+                </td>
+	</tr>
+</table>
+            
+            
+            
+            <br class="clearfloat" />
+        </div>
+        <div>
+            <span id="ctl00_MainContent_NewsDetailControl_lblDate"></span>
+        </div>
+        <div class="new_detail_adv">
+        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" name="wmode" height="78" width="470">
+<param name="movie" value="/Uploads/NCC/ads-tinbai/8-TheGioi-ThoiSu_478x70.swf">
+<param name="quality" value="high">
+<param name="wmode" value="transparent">
+<embed wmode="transparent" src="/Uploads/NCC/ads-tinbai/8-TheGioi-ThoiSu_478x70.swf" allowscriptaccess="always" type="application/x-shockwave-flash" height="78" width="470">
+</object>
+
+        </div>
+        <div style="padding:5px;">
+        <div style="display:block;">
+            <div class="news_detail_comment">
+                <a style="font-size:12px;text-transform:uppercase;font-weight:bold;font-family:Verdana,Arial;" href="#" id="slick-toggle">Xem phản hồi</a> | <a style="font-size:12px;text-transform:uppercase;font-weight:bold;font-family:Verdana,Arial;" href="#" id="slick-toggle-send">
+                    Gửi phản hồi</a>
+            </div>
+            <div class="content_comment">
+                <div class='content_category_news_title'>Ý KIẾN BẠN ĐỌC(0)</div><br class='clearfloat' /><div id='slickbox'></div>
+                <div id="sendcomment" style="padding-top: 10px">
+                    <div id="contenDiv" class="contenDiv">
+                        <table cellpadding="0" cellspacing="0" border="0" width="470px">
+                            <tr>
+                                <td>
+                                    <input value="Họ và Tên" onfocus="if(this.value=='Họ và Tên') this.value='';" onblur="if(this.value=='') this.value='Họ và Tên';"
+                                        type="text" name="txtName" id="txtName" class="adword-textbox"">
+                                </td>
+                                <td>
+                                    <input type="text" onfocus="if(this.value=='Email') this.value='';" onblur="if(this.value=='') this.value='Email';"
+                                        value="Email" name="txtEmail" id="txtEmail" class="adword-textbox">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="padding-top: 10px;">
+                                    <input type="text" onfocus="if(this.value=='Địa chỉ') this.value='';" onblur="if(this.value=='') this.value='Địa chỉ';"
+                                        value="Địa chỉ" name="txtAddress" id="txtAddress" class="adword-textbox"">
+                                </td>
+                                <td style="padding-top: 10px;">
+                                    <input type="text" onfocus="if(this.value=='Mã an toàn') this.value='';" onblur="if(this.value=='') this.value='Mã an toàn';"
+                                        value="Mã an toàn" name="txtValidCode" id="txtValidCode" class="adword-textbox2">
+                                    <span id="ctl00_MainContent_NewsDetailControl_lblCode" class="lbl_randomtext">BDGLLW</span>
+                                    <div style="display: none;">
+                                        <input name="ctl00$MainContent$NewsDetailControl$txtNewsCode" type="text" value="BDGLLW" id="ctl00_MainContent_NewsDetailControl_txtNewsCode" />
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" style="padding-top: 5px">
+                                    <textarea rows="10" name="txtAddedContent" id="txtAddedContent" cols="46" class="SForm"
+                                        style="width: 470px"></textarea>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2">
+                                    <input type="button" class="bg_button_send_comment2" onclick="getData('/CommentADD.aspx?newsID=523822','contenDiv')"
+                                        value="Gửi ý kiến">
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+    <div class="news_other_main">
+        <div class="content_category_news_title">
+            CÁC TIN KHÁC
+        </div>
+        <br class="clearfloat" />
+        <div class="list_news_other_item">
+            <ul class='category_item_other_main'><li><a href='/newsdetail/HS-TL/523332/huji--thach-thuc-nguy-hiem-tai-nam-á.htm' style='padding-right:5px'>HuJI - thách thức nguy hiểm tại Nam Á</a><span style='font-size:8pt'>(12/09/2011)</span></li><li><a href='/newsdetail/HS-TL/523034/cuoc-thi-nghiem-gay-soc.htm' style='padding-right:5px'>Cuộc thí nghiệm gây sốc</a><span style='font-size:8pt'>(09/09/2011)</span></li><li><a href='/newsdetail/HS-TL/522554/ket-cuc-co-hau-cua-mot-de-tu-bin-laden.htm' style='padding-right:5px'>Kết cục "có hậu" của một đệ tử Bin Laden</a><span style='font-size:8pt'>(05/09/2011)</span></li><li><a href='/newsdetail/HS-TL/522278/nhiem-vu-lich-su-cua-phi-cong-my-ngay-119.htm' style='padding-right:5px'>Nhiệm vụ lịch sử của phi công Mỹ ngày 11/9</a><span style='font-size:8pt'>(01/09/2011)</span></li><li><a href='/newsdetail/HS-TL/521864/cau-am-nha-gaddafi.htm' style='padding-right:5px'>“Cậu ấm” nhà Gaddafi</a><span style='font-size:8pt'>(29/08/2011)</span></li><li><a href='/newsdetail/HS-TL/521042/tay-phi--diem-nong-ma-tuy.htm' style='padding-right:5px'>Tây Phi - điểm nóng ma túy</a><span style='font-size:8pt'>(22/08/2011)</span></li><li><a href='/newsdetail/HS-TL/520787/nguoi-dep-toc-tet-tai-ngo-nha-giam.htm' style='padding-right:5px'>“Người đẹp tóc tết” tái ngộ nhà giam</a><span style='font-size:8pt'>(19/08/2011)</span></li><li><a href='/newsdetail/HS-TL/520302/nu-chua-the-gioi-ngam.htm' style='padding-right:5px'>Nữ chúa thế giới ngầm</a><span style='font-size:8pt'>(15/08/2011)</span></li><li><a href='/newsdetail/HS-TL/520065/bi-mat-kho-vang-lon-nhat-nuoc-my.htm' style='padding-right:5px'>Bí mật kho vàng lớn nhất nước Mỹ</a><span style='font-size:8pt'>(12/08/2011)</span></li><li><a href='/newsdetail/HS-TL/519303/cai-chet-bi-an.htm' style='padding-right:5px'>Cái chết bí ẩn</a><span style='font-size:8pt'>(05/08/2011)</span></li><li><a href='/newsdetail/HS-TL/518837/ben-trong-kho-vang-lon-nhat-the-gioi.htm' style='padding-right:5px'>Bên trong kho vàng lớn nhất thế giới</a><span style='font-size:8pt'>(01/08/2011)</span></li><li><a href='/newsdetail/HS-TL/518750/ca-si-awinehouse-hoi-ket-day-nuoi-tiec.htm' style='padding-right:5px'>Ca sĩ A.Winehouse: Hồi kết đầy nuối tiếc</a><span style='font-size:8pt'>(31/07/2011)</span></li><li><a href='/newsdetail/HS-TL/518528/ke-danh-cap-nen-hoa-binh-na-uy.htm' style='padding-right:5px'>Kẻ đánh cắp nền hòa bình Na Uy</a><span style='font-size:8pt'>(29/07/2011)</span></li></ul>
+        </div>
+        <br class="clearfloat" />
+    </div>
+    <div id="news_search_datetime">
+        <div class="content_category_news_title">
+            XEM THEO NGÀY THÁNG
+        </div>
+        <br class="clearfloat" />
+       <div style="clear:both;float:left;width:100%;text-align:right;margin-top:10px">
+<script type="text/javascript">
+    $(function()
+    {
+        var d=new Date();
+        var currentYear=d.getFullYear();
+        $("select[id$=cboYear]").empty();
+        for(i=currentYear;i>=currentYear-5;i--)
+        {
+            $("select[id$=cboYear]").append("<option value='"+i+"'>"+i+"</option>");
+        }
+    });
+</script>
+Xem tin theo ngày: &nbsp;
+<select name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$cboDay" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_cboDay">
+	<option value="1">1</option>
+	<option value="2">2</option>
+	<option value="3">3</option>
+	<option value="4">4</option>
+	<option value="5">5</option>
+	<option selected="selected" value="6">6</option>
+	<option value="7">7</option>
+	<option value="8">8</option>
+	<option value="9">9</option>
+	<option value="10">10</option>
+	<option value="11">11</option>
+	<option value="12">12</option>
+	<option value="13">13</option>
+	<option value="14">14</option>
+	<option value="15">15</option>
+	<option value="16">16</option>
+	<option value="17">17</option>
+	<option value="18">18</option>
+	<option value="19">19</option>
+	<option value="20">20</option>
+	<option value="21">21</option>
+	<option value="22">22</option>
+	<option value="23">23</option>
+	<option value="24">24</option>
+	<option value="25">25</option>
+	<option value="26">26</option>
+	<option value="27">27</option>
+	<option value="28">28</option>
+	<option value="29">29</option>
+	<option value="30">30</option>
+	<option value="31">31</option>
+</select>
+<select name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$cboMonth" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_cboMonth">
+	<option value="1">Th&#225;ng 1</option>
+	<option value="2">Th&#225;ng 2</option>
+	<option value="3">Th&#225;ng 3</option>
+	<option value="4">Th&#225;ng 4</option>
+	<option value="5">Th&#225;ng 5</option>
+	<option value="6">Th&#225;ng 6</option>
+	<option value="7">Th&#225;ng 7</option>
+	<option value="8">Th&#225;ng 8</option>
+	<option value="9">Th&#225;ng 9</option>
+	<option value="10">Th&#225;ng 10</option>
+	<option selected="selected" value="11">Th&#225;ng 11</option>
+	<option value="12">Th&#225;ng 12</option>
+</select>
+<select name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$cboYear" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_cboYear">
+</select>
+<input type="submit" name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$btnView" value="Xem" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_btnView" />
+<br />
+</div>
+    </div>
+</div>
+
+                </div>
+                <div class="right_category_box">
+                           
+                            <div class="box_adv_newscategory">
+                                <div class="right_content_box_bottom_adv">
+                                <body topmargin="0" leftmargin="0">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#016A99" height="1">
+<tr><td height=1></td></tr>
+</table></body>
+
+                                </div>  
+                            </div>
+                            <div  style="float:right;padding-top:5px;display:none">
+                                   
+                             </div>
+                            <div id="Div1" style="float:right;padding-top:5px">
+                              <div id='box_flow' style='display:block'><div class='box_top_ovan'><!----></div><div class='box_center_ovan'><div class='box_news_event_title'><a href='#' class='content_news_main_link'>Tin mới nhận</a></div><div class='content_ul'><table cellpadding='0' cellspacing='0' border='0'><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/The-gioi/529280/bom-tu-sat-giet-6-nguoi-o-afghanistan.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails06342011073454sodo.gif"></a><a class='link_news_focus' href='/newsdetail/The-gioi/529280/bom-tu-sat-giet-6-nguoi-o-afghanistan.htm'>Bom tự sát giết 6 người ở Afghanistan</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/The-gioi/529279/so-nguoi-chet-vi-lut-o-thai-lan-len-toi-500.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails06302011073023lut.jpg"></a><a  class='link_news_focus' href='/newsdetail/The-gioi/529279/so-nguoi-chet-vi-lut-o-thai-lan-len-toi-500.htm'>Số người chết vì lụt ở Thái Lan lên tới 500</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/The-gioi/529229/khung-hoang-hat-nhan-tai-iran-gia-tang-ap-luc.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/11/6/iran.jpg"></a><a class='link_news_focus' href='/newsdetail/The-gioi/529229/khung-hoang-hat-nhan-tai-iran-gia-tang-ap-luc.htm'>Khủng hoảng hạt nhân tại Iran: Gia tăng áp lực</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/The-gioi/529226/nga-chien-dich-tranh-cu-buoc-vao-giai-doan-nong.htm'><img style="display:none" src=""></a><a  class='link_news_focus' href='/newsdetail/The-gioi/529226/nga-chien-dich-tranh-cu-buoc-vao-giai-doan-nong.htm'>Nga: Chiến dịch tranh cử bước vào giai đoạn “nóng”</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/The-gioi/529225/lu-lut-anh-huong-toi-20000-dn-lam-hang-nghin-nguoi-that-nghiep.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/11/6/thai.jpg"></a><a class='link_news_focus' href='/newsdetail/The-gioi/529225/lu-lut-anh-huong-toi-20000-dn-lam-hang-nghin-nguoi-that-nghiep.htm'>Lũ lụt ảnh hưởng tới 20.000 DN, làm hàng nghìn người thất nghiệp</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/The-gioi/529224/pakistan-ket-toi-7-ke-lien-quan-vu-am-sat-ba-bbhutto.htm'><img style="display:none" src=""></a><a  class='link_news_focus' href='/newsdetail/The-gioi/529224/pakistan-ket-toi-7-ke-lien-quan-vu-am-sat-ba-bbhutto.htm'>Pakistan kết tội 7 kẻ liên quan vụ ám sát bà B.Bhutto</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/The-gioi/529212/colombia-tieu-diet-thu-linh-cap-cao-cua-farc.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/11/5/colombia.jpg"></a><a class='link_news_focus' href='/newsdetail/The-gioi/529212/colombia-tieu-diet-thu-linh-cap-cao-cua-farc.htm'>Colombia tiêu diệt thủ lĩnh cấp cao của FARC</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/The-gioi/529204/no-luc-gia-nhap-lhq-cua-palestine-gan-nhu-bi-bac-bo.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/11/5/cghe.jpg"></a><a  class='link_news_focus' href='/newsdetail/The-gioi/529204/no-luc-gia-nhap-lhq-cua-palestine-gan-nhu-bi-bac-bo.htm'>Nỗ lực gia nhập LHQ của Palestine gần như bị bác bỏ</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/The-gioi/529203/my-coi-iran-con-nguy-hiem-hon-alqaeda.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/11/5/iran.jpg"></a><a class='link_news_focus' href='/newsdetail/The-gioi/529203/my-coi-iran-con-nguy-hiem-hon-alqaeda.htm'>Mỹ coi Iran còn nguy hiểm hơn al-Qaeda</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/The-gioi/529197/thu-tuong-hy-lap-vuot-qua-vong-bo-phieu-tin-nhiem.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails05452011094557hylap.jpg"></a><a  class='link_news_focus' href='/newsdetail/The-gioi/529197/thu-tuong-hy-lap-vuot-qua-vong-bo-phieu-tin-nhiem.htm'>Thủ tướng Hy Lạp vượt qua vòng bỏ phiếu tín nhiệm</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/The-gioi/529191/ám-anh-chua-tan.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/11/5/G20.jpg"></a><a class='link_news_focus' href='/newsdetail/The-gioi/529191/ám-anh-chua-tan.htm'>Ám ảnh chưa tan</a><br class='clearfloat'></div></div></td></table></div></div><div class='box_bottom_ovan'><!----></div></div>
+                            </div>
+                            <div  style="float:right;padding-top:5px">
+                                  <div id='center_box' style='display:block'><div class='box_top_ovan'><!----></div><div class='box_center_ovan'><div class='box_news_event_title'><a href='#' class='content_news_main_link'>Theo dòng sự kiện</a></div><div class='box_news_event_content'><div class='news_event_content'><a href='/newsevent/2301.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=100&height=60&ImgFilePath=/Uploads/image/Flows/Thumbnails/2011/10/Thumbnails21462011094623.jpg">Ông Gaddafi bị giết</a><br class='clearfloat'></div></div></div><div class='box_bottom_ovan'><!----></div></div> 
+                             </div>
+                            <div id="box_flow" style="float:right;">
+                              <div id='box_flow' style='display:block'><div class='box_top_ovan'><!----></div><div class='box_center_ovan'><div class='box_news_event_title'><a href='#' class='content_news_main_link'>Tiêu điểm</a></div><div class='content_ul'><table cellpadding='0' cellspacing='0' border='0'><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/HS-TL/529039/qua-bom-nguyen-tu-b53-cuoi-cung.htm'><img style="display:none" src=""></a><a class='link_news_focus' href='/newsdetail/HS-TL/529039/qua-bom-nguyen-tu-b53-cuoi-cung.htm'>Quả bom nguyên tử B-53 cuối cùng</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/HS-TL/527923/vuong-quoc-l’oreal-doi-chu.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails24522011065241Francoise.jpg"></a><a  class='link_news_focus' href='/newsdetail/HS-TL/527923/vuong-quoc-l’oreal-doi-chu.htm'>“Vương quốc L’Oreal” đổi chủ</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/HS-TL/527197/sieu-canh-sat-sa-nga.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/10/17/csMichel-Neyret.jpg"></a><a class='link_news_focus' href='/newsdetail/HS-TL/527197/sieu-canh-sat-sa-nga.htm'>“Siêu cảnh sát” sa ngã</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/HS-TL/524089/tieu-diet-hang-loat-chi-huy-mang-luoi-khung-bo.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/9/19/alshahri.jpg"></a><a  class='link_news_focus' href='/newsdetail/HS-TL/524089/tieu-diet-hang-loat-chi-huy-mang-luoi-khung-bo.htm'>Tiêu diệt hàng loạt chỉ huy mạng lưới khủng bố</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/HS-TL/523822/vu-ban-tin-gay-chan-dong.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/9/16/nozette.jpg"></a><a class='link_news_focus' href='/newsdetail/HS-TL/523822/vu-ban-tin-gay-chan-dong.htm'>Vụ bán tin gây chấn động</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/HS-TL/522554/ket-cuc-co-hau-cua-mot-de-tu-bin-laden.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/9/5/AtiyahAbdal-Rahman.jpg"></a><a  class='link_news_focus' href='/newsdetail/HS-TL/522554/ket-cuc-co-hau-cua-mot-de-tu-bin-laden.htm'>Kết cục "có hậu" của một đệ tử Bin Laden</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/HS-TL/522278/nhiem-vu-lich-su-cua-phi-cong-my-ngay-119.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/9/Thumbnails01572011015728vu11-9.jpg"></a><a class='link_news_focus' href='/newsdetail/HS-TL/522278/nhiem-vu-lich-su-cua-phi-cong-my-ngay-119.htm'>Nhiệm vụ lịch sử của phi công Mỹ ngày 11/9</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/HS-TL/521864/cau-am-nha-gaddafi.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/8/29/saif.jpg"></a><a  class='link_news_focus' href='/newsdetail/HS-TL/521864/cau-am-nha-gaddafi.htm'>“Cậu ấm” nhà Gaddafi</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/HS-TL/520787/nguoi-dep-toc-tet-tai-ngo-nha-giam.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/8/19/Tymoshenko3.jpg"></a><a class='link_news_focus' href='/newsdetail/HS-TL/520787/nguoi-dep-toc-tet-tai-ngo-nha-giam.htm'>“Người đẹp tóc tết” tái ngộ nhà giam</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/HS-TL/520302/nu-chua-the-gioi-ngam.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/8/15/judy.jpg"></a><a  class='link_news_focus' href='/newsdetail/HS-TL/520302/nu-chua-the-gioi-ngam.htm'>Nữ chúa thế giới ngầm</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/HS-TL/519303/cai-chet-bi-an.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/8/5/younis.jpg"></a><a class='link_news_focus' href='/newsdetail/HS-TL/519303/cai-chet-bi-an.htm'>Cái chết bí ẩn</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/HS-TL/518837/ben-trong-kho-vang-lon-nhat-the-gioi.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/8/1/vnag.jpg"></a><a  class='link_news_focus' href='/newsdetail/HS-TL/518837/ben-trong-kho-vang-lon-nhat-the-gioi.htm'>Bên trong kho vàng lớn nhất thế giới</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/HS-TL/518750/ca-si-awinehouse-hoi-ket-day-nuoi-tiec.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/7/31/amy.jpg"></a><a class='link_news_focus' href='/newsdetail/HS-TL/518750/ca-si-awinehouse-hoi-ket-day-nuoi-tiec.htm'>Ca sĩ A.Winehouse: Hồi kết đầy nuối tiếc</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/HS-TL/518528/ke-danh-cap-nen-hoa-binh-na-uy.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/7/29/hoso.jpg"></a><a  class='link_news_focus' href='/newsdetail/HS-TL/518528/ke-danh-cap-nen-hoa-binh-na-uy.htm'>Kẻ đánh cắp nền hòa bình Na Uy</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/HS-TL/518074/nguoi-hung-đuc-trong-tham-kich-na-uy.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/7/25/gleffe1.jpg"></a><a class='link_news_focus' href='/newsdetail/HS-TL/518074/nguoi-hung-đuc-trong-tham-kich-na-uy.htm'>Người hùng Đức trong thảm kịch Na Uy</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/HS-TL/517935/luanda--thanh-pho-dat-do-nhat-hanh-tinh.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/7/24/Luanda.jpg"></a><a  class='link_news_focus' href='/newsdetail/HS-TL/517935/luanda--thanh-pho-dat-do-nhat-hanh-tinh.htm'>Luanda - Thành phố đắt đỏ nhất hành tinh</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/HS-TL/517239/70-nam-huyen-thoai-cachiusa.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/7/18/katyusha.jpg"></a><a class='link_news_focus' href='/newsdetail/HS-TL/517239/70-nam-huyen-thoai-cachiusa.htm'>70 năm huyền thoại Cachiusa</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/HS-TL/516951/vi-sao-ông-vua-cua-kandahar-bi-am-sat.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/7/15/ahmedwali.jpg"></a><a  class='link_news_focus' href='/newsdetail/HS-TL/516951/vi-sao-ông-vua-cua-kandahar-bi-am-sat.htm'>Vì sao “Ông vua của Kandahar” bị ám sát?</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/HS-TL/516442/vu-nghe-len-gay-chan-dong.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/7/11/nghelen.jpg"></a><a class='link_news_focus' href='/newsdetail/HS-TL/516442/vu-nghe-len-gay-chan-dong.htm'>Vụ nghe lén gây chấn động</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/HS-TL/516197/cu-soc-kep-tren-chinh-truong-phap.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/7/8/Cuu-IMF.jpg"></a><a  class='link_news_focus' href='/newsdetail/HS-TL/516197/cu-soc-kep-tren-chinh-truong-phap.htm'>“Cú sốc kép” trên chính trường Pháp</a><br class='clearfloat'></div></div></td></tr></table></div></div><div class='box_bottom_ovan'><!----></div></div>
+                            </div>
+                            <div class="box_video" style="float:right;padding-top:5px">
+                                 
+ <script language="javascript" type="text/javascript">  
+    $(function()
+    {
+        $('.videoTitle').live('click',function() {
+        $(".box_video_bg .title_box_video_pic").load("/Modules/CMS_ARTICLE/ArticleGetTitle.aspx?articleID="+$(this).attr("id")); 
+        $(".video_body").load("/Modules/CMS_ARTICLE/ArticleGetContent.aspx?articleID="+$(this).attr("id")); 
+        var newsID = $(this).attr("id");
+        var data = "{'newsID':'" + newsID +"'}"; //create the JSON data to send to server
+        $.ajax(
+                { //call the Page method using JQuery ajax
+                  type: "POST",
+                  url: "/ShowVideo.aspx/ShowVideoOther",
+                  data: data,
+                  contentType: "application/json; charset=utf-8",
+                  dataType: "json",
+                  success: function(msg)  //show the result
+                  {
+                                     
+                    $(".video_other").fadeOut("fast").html(msg.d).fadeIn("fast");
+                  }
+                });
+        return false;
+        });
+    });
+ </script>
+<div class="box_video_bg">
+    <div class="top_title_video"><a style="color: rgb(0, 102, 204); font-family: Verdana,Times New Roman,Arial,Tahoma; font-size: 9pt; font-weight: bold; text-decoration: none;" href='/categoryparent/196/video.htm'>&nbsp;&nbsp;&nbsp;Video</a></div>
+    <div  class='title_box_video_pic'>Vòng 11 Premiership: QPR 2-3 Man City</div><div class='video_body'><table border="0" cellspacing="1" cellpadding="1" width="200" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <div style="text-align: center" id="player783083-parent">
+            <div style="background-image: url(/FCKeditor/editor/plugins/flvPlayer/flvPlayer.gif); border-bottom-style: none; border-right-style: none; background-color: rgb(220,220,220); width: 292px; background-repeat: no-repeat; background-position: center 50%; border-top-style: none; height: 230px; border-left-style: none; overflow: hidden"><script src="/FCKeditor/editor/plugins/flvPlayer/swfobject.js" type="text/javascript"></script>
+            <div id="player783083">
+            <div><a href="http://www.macromedia.com/go/getflashplayer">Get the Flash Player</a> to see this player.</div>
+            <div style="width: 0px; display: none; height: 0px; visibility: hidden; overflow: hidden" id="player783083-config">url=/Uploads/flash/tuanphong/2011/11/manct3-2QPR.flv iurl=/Uploads/tuanphong/2011/11/6/manct(1).jpg width=292 height=230 loop=false play=false downloadable=false fullscreen=true displayNavigation=true displayDigits=true playlistThumbs=false</div>
+            </div>
+            <script type="text/javascript">
+	var s1 = new SWFObject("/FCKeditor/editor/plugins/flvPlayer/mediaplayer.swf","single","292","230","7");
+	s1.addVariable("width","292");
+	s1.addVariable("height","230");
+	s1.addVariable("autostart","false");
+	s1.addVariable("file","/Uploads/flash/tuanphong/2011/11/manct3-2QPR.flv");
+	s1.addVariable("repeat","false");
+	s1.addVariable("image","/Uploads/tuanphong/2011/11/6/manct(1).jpg");
+	s1.addVariable("showdownload","false");
+	s1.addVariable("link","/Uploads/flash/tuanphong/2011/11/manct3-2QPR.flv");
+	s1.addParam("allowfullscreen","true");
+	s1.addVariable("showdigits","true");
+	s1.addVariable("shownavigation","true");
+	s1.addVariable("logo","");
+	s1.write("player783083");
+</script></div>
+            </div>
+            </td>
+        </tr>
+    </tbody>
+</table></div><br class='clearfloat' /><div class='video_other'><ul class='content_other_action'><li><a href='#' class='videoTitle' id='529010'>Clip: sập nhà vì nổ khí gas, 2 cháu bé tử vong</a></li><li><a href='#' class='videoTitle' id='528983'>Champions League: M.U 2-0 Otelul</a></li><li><a href='#' class='videoTitle' id='528865'>Barca dễ dàng đè bẹp Viktoria Plzen 4-0</a></li></ul></div>
+  </div>
+                            </div>
+                            <div id="box_picture" style="float:right;margin-right:-3px">
+                                 
+<div class="box_picture_bg">
+    <div class="top_title_video">&nbsp;&nbsp;&nbsp;<a href='/categoryparent/195/Anh.htm' style='color:#0066CC;
+font-family:Verdana,Times New Roman,Arial,Tahoma;
+font-size:9pt;
+font-weight:bold;text-decoration:none'>Góc ảnh</a></div>
+    <div class='title_box_video_pic'><a class='blueLink' href='/newsdetail/Anh/529183/soi-dong-oktoberfest-2011-tai-ha-noi.htm'>Sôi động Oktoberfest 2011 tại Hà Nội</a></div><div class='box_pic_content'><a href='/newsdetail/Anh/529183/soi-dong-oktoberfest-2011-tai-ha-noi.htm'><img src='/GetThumbnail.ashx?width=280&height=200&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails05282011072845a2.jpg' /></a></div><div class='box_pic_other'><ul class='content_other_action'><li><a href='/newsdetail/Anh/529015/cong-chieng-tay-nguyen-qua-ong-kinh-nghe-sy.htm'>Cồng chiêng Tây Nguyên qua ống kính nghệ sỹ</a></li><li><a href='/newsdetail/Anh/528802/tham-nhap-can-ham-moi-phat-lo-trong-ks-metropole-ha-noi.htm'>Thâm nhập căn hầm mới phát lộ trong KS Metropole Hà Nội</a></li><li><a href='/newsdetail/Anh/528660/mua-vang.htm'>Mùa vàng</a></li></ul></div>
+ </div>
+                            </div>
+                            <div class="box_adv_newscategory">
+                              <div class="right_content_box_bottom_adv">
+                                <br>
+
+                               </div>  
+                            </div>
+                        </div>
+           </div>
+           <div class="right_news_category_box">
+              <ul class="right_content_box_adv_main">
+                    <li>
+                    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" name="wmode" height="360" width="180">
+    <param name="movie" value="/Uploads/NCC/2011-NBN/ads-homepage/songkhoe180x360.swf">
+                  <param name="quality" value="high">
+                  <param name="wmode" value="transparent">
+                 <embed wmode="transparent" src="/Uploads/NCC/2011-NBN/ads-homepage/songkhoe180x360.swf" allowscriptaccess="always" type="application/x-shockwave-flash" height="360" width="180">
+</object>
+
+                    </li>
+                    <li>
+                    <a href="/newsdetail/Van-hoa/424354/%C4%91on-doc-ha-noi-ngay-nay-so-1-bo-moi.htm">
+<img src="/Uploads/NCC/2011/ads-homepage/HN-Ngaynay.jpg" border="0">
+</a>
+
+                    </li>
+                    <li>
+                    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" name="wmode" height="180" width="180">
+<param name="movie" value="/Uploads/NCC/ads-homepage/4D-homeduhoc_180x180.swf">
+<param name="quality" value="high">
+<param name="wmode" value="transparent">
+<embed wmode="transparent" src="/Uploads/NCC/ads-homepage/4D-homeduhoc_180x180.swf" allowscriptaccess="always" type="application/x-shockwave-flash" height="180" width="180">
+</object>
+
+                    </li>
+                    <li>
+                    <object width="180" height="180" name="wmode" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+    <param value="/Uploads/NCC/ads-homepage/4A-chuyenmuckinhte_180x180.swf" name="movie">
+                  <param value="high" name="quality">
+                  <param value="transparent" name="wmode">
+                 <embed width="180" height="180" type="application/x-shockwave-flash" allowscriptaccess="always" src="/Uploads/NCC/ads-homepage/4A-chuyenmuckinhte_180x180.swf" wmode="transparent">
+</object>
+
+                    </li>
+                 
+                </ul>
+           </div> 
+        </div>
+      </div>
+
+            <div id="footer">
+                <div id="footer_wrap">
+                    <div class="menu">
+                        <div class="tabsmenuclass">
+                            <ul class='menutop'>
+                                <li><a href=''>Trang chủ</a></li>
+                                <li><a href='/contact/contact.htm'>
+                                    <img width='10px' height='11px' style='border: 0px none; float: left; margin-top: 10px;'
+                                        src='/images/icon01.png' />&nbsp;Liên hệ tòa soạn</a></li>
+                                <li><a onclick='setHomepage();' href='javascript:void(0);'>
+                                    <img width='12px' height='9px' style='border: 0px none; float: left; margin-top: 10px;'
+                                        src='/images/icon02.png' />&nbsp;Đặt HNM làm trang chủ</a></li>
+                                <li><a href='/Modules/NewsLetter/NewsLetterRegister.aspx'>
+                                    <img width='12px' height='9px' style='border: 0px none; float: left; margin-top: 10px;'
+                                        src='/images/icon03.png' />&nbsp;Đăng ký nhận tin mới</a></li>
+                                <li>
+                                    <select name="ctl00$ddlWebLink" id="ctl00_ddlWebLink" onchange="window.open(this.value)" style="float: left; margin: 5px 20px 0 180px;">
+	<option value="Liên kết Website">Li&#234;n kết Website</option>
+	<option value="http://www.dangcongsan.vn">B&#225;o Điện tử Đảng CSVN</option>
+	<option value="http://www.nhandan.com.vn">B&#225;o Nh&#226;n D&#226;n</option>
+	<option value="http://www.vietnamplus.vn">TTXVN</option>
+	<option value="http://www.cuocsongvantuoidep.vn">&quot;Cuộc sống vẫn tươi đẹp&quot; tr&#234;n VTV4</option>
+	<option value="http://chinhphu.vn">Website Ch&#237;nh phủ</option>
+	<option value="http://www.na.gov.vn">Quốc hội Việt Nam</option>
+	<option value="http://www.vnexpress.net">VnExpress</option>
+	<option value="http://www.vnn.vn">Vietnamnet</option>
+	<option value="http://tienphong.vn">Tiền Phong</option>
+	<option value="http://www.tuoitre.com.vn">Tuổi trẻ</option>
+	<option value="http://www.anninhthudo.vn">An ninh Thủ đ&#244;</option>
+	<option value="http://www.nld.com.vn">B&#225;o Người Lao Động</option>
+	<option value="http://www.baothuathienhue.vn/">B&#225;o Thừa Thi&#234;n Huế</option>
+	<option value="http://www.baobinhthuan.com.vn">B&#225;o B&#236;nh Thuận</option>
+
+</select>
+                                </li>
+                                <li><a href="#top" style="margin: 0; padding: 0 5px 0 5px; color: white; font-weight: bold">
+                                    Về đầu trang</a> </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="footer_text">
+                        Bản quyền © 2003-2010 Báo Hànộimới - CQCQ: Thành ủy Hà Nội<br/>
+                        Giấy phép số 1123/GP-BTTTT, cấp ngày: 21/7/2011. Tổng biên tập: TÔ QUANG PHÁN<br/>
+                        Địa chỉ: 44 Lê Thái Tổ - Hà Nội . ĐT (04) 38253067 – 39287445 . Fax: (04) 39287445 . Email:<a style='color:blue' href='mailto:webmaster@hanoimoi.com.vn'>webmaster@hanoimoi.com.vn</a><br/>
+                        Ghi rõ nguồn "Báo Hànộimới" khi phát hành lại thông tin từ website này.
+                  </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+
+    <script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12223163-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
