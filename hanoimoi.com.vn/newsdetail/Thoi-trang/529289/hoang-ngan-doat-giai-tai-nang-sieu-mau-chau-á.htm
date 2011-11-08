@@ -1,0 +1,760 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><link href="../../../App_Themes/Hanoimoi/Contact.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/mouseovertabs.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/newscategory.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/newsdetail.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/stylehome.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/thickbox.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/Top_Tip.css" type="text/css" rel="stylesheet" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta http-equiv="refresh" content="600" /><title>
+	
+        Hoàng Ngân đoạt giải Tài năng Siêu mẫu châu Á
+</title><link href="/Client/slide/featuredcontentglider.css" rel="stylesheet" type="text/css" /><link href="/Client/jquery.ui.tab/css/flick/jquery-ui-1.7.2.custom.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        body
+        {
+            margin: 0px;
+            padding: 0px 0px 60px;
+            background: #FFFFFF no-repeat fixed center 0px;
+        }
+        .divFixed
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            left: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixed_R
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            right: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixedBg_IE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_RIE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_IE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+        .divFixedBg_RIE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+    </style>
+    <script language="JavaScript" type="text/javascript"> 
+//    function LoadImages(s,c)
+//    {
+//   
+//        s.getAttribute("loi")==null?s.setAttribute("loi","1"):s.setAttribute("loi",eval(s.getAttribute("loi"))+1);
+//        if(eval(s.getAttribute("loi"))>=2){c=c.substr(c.lastIndexOf("=")+1,c.length-c.lastIndexOf("="));
+//        s.onerror=null;s.src="/App_Themes/Default/Images/no_image_"+c+".jpg"}
+//        else s.src=c
+//    }
+     function returnUrl12() {
+            var key = document.getElementById('txt_search')
+	       
+            if (key.value.length != 0) {
+                location= "/NewsSearch.aspx?keyword=" + encodeURIComponent(key.value);
+		return false;	
+            }
+            else {
+                alert("Cần nhập từ khóa để tìm kiếm");
+                document.getElementById('txt_search').focus();
+                return false;
+            }
+        }
+    </script>
+  <link href="/StyleSheets/Poll/style.css" rel="stylesheet" type="text/css" /><link rel="shortcut icon" href="../../../Images/hanoimoi.ico" />
+    <script src="/Scripts/jquery.js" type="text/javascript"></script>
+    <script src="/Scripts/AdsFloat.js" type="text/javascript"></script>
+    <script src="/Client/slide/featuredcontentglider2.js" type="text/javascript"></script>    
+    <script src="/Scripts/jquery.query.js" type="text/javascript"></script>
+    <script src="/Scripts/swfobject.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/Scripts/hanoimoi.js"></script>
+    <script src="/Client/jquery.ui.tab/js/jquery-ui-1.7.2.tab.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/Scripts/thickbox-compressed.js"></script>
+	<script type="text/javascript" src="http://media.adnetwork.vn/js/adnetwork.js"></script>
+    
+    
+   
+
+    <!--###################End Tooltip##########################-->
+    <style type="text/css">
+        .highlight
+        {
+            background: yellow;
+            color: black;
+            text-decoration: none;
+        }
+        #dhtmltooltip
+        {
+            position: absolute;
+            left: -300px;
+            width: 150px;
+            border: 1px solid black;
+            padding: 2px;
+            background-color: lightyellow;
+            visibility: hidden;
+            z-index: 9999 !important; /*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+            filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+        }
+        #dhtmlpointer
+        {
+            position: absolute;
+            left: -300px;
+            z-index: 99999 !important;
+            visibility: hidden;
+        }
+        body
+        {
+            margin: 0px;
+            padding: 0px 0px 60px;
+            background: #FFFFFF url(/Customize/ExtendBanner/bg_tgdd_0410.jpg) no-repeat fixed center 0px;
+        }
+        .divFixed
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            left: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixed_R
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            right: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixedBg_IE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_RIE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_IE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+        .divFixedBg_RIE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+    </style>
+
+    <script type="text/javascript" src="/Scripts/ActiveX_Template.js"></script>
+    
+    
+    </head>
+<body style="margin:0; padding:0;">
+    <form name="aspnetForm" method="post" action="hoang-ngan-doat-giai-tai-nang-sieu-mau-chau-á.htm" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJLTk4MjQ1MDU1ZGR85LX3CzigmyyANKIunOmtMpdHwA==" />
+
+
+<script src="/ScriptResource.axd?d=6LJkAoF1-rmHCGfaBErTEDVXk3e139ub85-ZlWgROBAEldIJ-2V9Db2TOmhfPyLDSAVhnsA_e-52cV6O-9KxTI2NzoCeB-i0VCTzYx538fqauZFWMYKlyaj4_VjiggSWbzhpetE6YJcwboOuQsf0T0xPhhWJ9FCxmlvJonrbrTwhP8Ap0&amp;t=ffffffffea696f7c" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWFQLv0e+OBwLiydb3BgKA4oCQBQKPs5q3DQKzqrHfCAKIzPeOAQKLwJnaCgLU4dDxBwLhocvvAwLV48O+CwLUpYXRBwLG+9tdAtHP1+4MAvTq4aQDAurX1ecJAvfgtPQMAt3E+90MAtuu0ogPAtO368wBAtiWq7sNAueVloQCjgDyGEpnUtpVTy/MVoEWs9xPHKs=" />
+        <!-- Quang cao 2 ben trang -->
+    <div id="divResult"></div>
+    
+
+ 
+    <div >
+        
+        <div id="main_body" >
+            <div id="top">
+                <div class="wrapbar" id="dvBanner">
+                    <div class="left_logo">
+                        <a href="#">
+                            <img alt="" src="/images/hanoimoi_logo.png" border="0" /></a>
+                    </div>
+                    <div class="right_adv">
+                       <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" 
+codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="640" height="87" name="wmode">
+    <param name="movie" value="/Uploads/NCC/ads-homepage/netdepnguoithudo.swf">
+                  <param name="quality" value="high">
+                  <param name="wmode" value="transparent">
+                 <embed wmode="transparent" src="/Uploads/NCC/ads-homepage/netdepnguoithudo.swf" allowscriptaccess="always" type="application/x-shockwave-flash" width="640" height="87"></embed>
+</object>
+
+                    </div>
+                </div>
+                <div id="dvTopMenu">
+                    <div class="wrapbar">
+                        <div class="menu_content2">
+                            <div id="mytabsmenu" class="tabsmenuclass">
+                                <ul class="menutop"><li><a href="/index.htm" rel="gotsubmenu[selected]">Trang chủ</a></li><li><a id='Chinh-tri' rel="gotsubmenu" href="/categoryparent/192/Chinh-tri.htm">Chính trị</a></li><li><a id='Xa-hoi' rel="gotsubmenu" href="/categoryparent/163/Xa-hoi.htm">Xã hội</a></li><li><a id='Kinh-te' rel="gotsubmenu" href="/categoryparent/190/Kinh-te.htm">Kinh tế</a></li><li><a id='The-gioi' rel="gotsubmenu" href="/categoryparent/189/The-gioi.htm">Thế giới</a></li><li><a id='Van-hoa' rel="gotsubmenu[selected]" href="/categoryparent/179/Van-hoa.htm">Văn hóa</a></li><li><a id='The-thao' rel="gotsubmenu" href="/categoryparent/170/The-thao.htm">Thể thao</a></li><li><a id='Giao-duc' rel="gotsubmenu" href="/categoryparent/164/Giao-duc.htm">Giáo dục</a></li><li><a id='1000_nam_thang_long' rel="gotsubmenu" href="/categoryparent/204/1000_nam_thang_long.htm">Thăng Long - Hà Nội</a></li><li><a id='Phap-luat' rel="gotsubmenu" href="/categoryparent/175/Phap-luat.htm">Pháp luật</a></li><li><a id='Khoa-hoc' rel="gotsubmenu" href="/categoryparent/100/Khoa-hoc.htm">Khoa học</a></li><li><a id='Doi-song' rel="gotsubmenu" href="/categoryparent/224/Doi-song.htm">Đời sống</a></li></ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="wrapbar">
+                        <div class="menu_boder_left">
+                            <!---->
+                        </div>
+                        <div class="sub_menu_content">
+                            <div id="mysubmenuarea" class="tabsmenucontentclass">
+                                <!--1st link within submenu container should point to the external submenu contents file-->
+                                <a href="/submenucontents.aspx" style="visibility: hidden">
+                                    Sub Menu contents</a>
+                            </div>
+
+                            <script type="text/javascript">
+                                //mouseovertabsmenu.init("tabs_container_id", "submenu_container_id", "bool_hidecontentsmouseout")
+                                mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
+
+                            </script>
+
+                        </div>
+                        <div class="menu_boder_right">
+                            <!---->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+
+<div id="main_wrap">
+        <div class="wrapbar">
+           <div class="left_news_category_box">
+                <div class="left_category_news">
+                    
+
+<script language="javascript" type="text/javascript">
+    $(function() {
+
+        // hides the slickbox as soon as the DOM is ready
+        // (a little sooner than page load)
+        $('#slickbox').hide();
+        $('#sendcomment').hide();
+        // shows the slickbox on clicking the noted link  
+        $('a#slick-show').click(function() {
+            $('#slickbox').show('slow');
+            return false;
+        });
+        $(".btnEmai").click(function() {
+            var pID = $(this).attr("id");
+            var pShortName = $(this).parent().attr("id");
+            tb_show('Kết quả bình luận', '/PrintNews.aspx?newsID=' + pID + '&shortname=' + pShortName + '&no_refresh=1&TB_iframe=true&height=430&width=450&modal=true');
+            return false;
+        });
+        // hides the slickbox on clicking the noted link  
+        $('a#slick-hide').click(function() {
+            $('#slickbox').hide('fast');
+            return false;
+        });
+
+        // toggles the slickbox on clicking the noted link  
+        $('a#slick-toggle').click(function() {
+            $('#slickbox').toggle(400);
+            return false;
+        });
+        // toggles the slickbox on clicking the noted link  
+        $('a#slick-toggle-send').click(function() {
+            $('#sendcomment').toggle(400);
+            return false;
+        });
+        $(".keyword").live('click', function() {
+            location='/NewsSearch.aspx?keyword='+$.trim($(this).html());
+            return false;
+        });
+    });
+</script>
+
+<div class="content_category_news">
+    <div class="content_category_news_title">
+        <a id="ctl00_MainContent_NewsDetailControl_lnkNameCategory"></a>
+        <span class='content_category_news_title_parent'><a href='/categoryparent/179/Van-hoa.htm' class='parentCatTitle' rel='Van-hoa' style='font-family:Arial;color:#0066CC;font-weight:bold;font-size:12px;text-transform:uppercase;'>Văn hóa</a>&nbsp;>&nbsp;<a style='font-family:Arial;color:#0066CC;font-weight:bold;font-size:11px;text-transform:uppercase;' href='/newscategory/191/Thoi-trang.htm'>Thời trang</a></span>
+    </div>
+    <div class="content_category_news_dot">
+    </div>
+    <br class="clearfloat" />
+    <div class="content_news_detail">
+        <div class="icon_print_email">
+            <a href="#" id="Thoi-trang">
+                <img src="/images/email.gif" /><span class="btnEmai"
+                    id="529289">Email</span></a><a href="/print/529289/print.htm"><img
+                        src="/images/print.gif" /><span>Print</span></a>
+        </div>
+        <br class="clearfloat" />
+        <div class="content_body_detail">
+            <table id="ctl00_MainContent_NewsDetailControl_rptNewsDetail" cellspacing="0" border="0">
+	<tr>
+		<td>
+                    <div class="subtitle_news_detail" style="color: #808080; font-size: 9pt; font-weight: bold">
+                        Cuộc thi Supermodel Asian Beauty 2011
+                    </div>
+                    <div class="title_news_detail">
+                        Hoàng Ngân đoạt giải Tài năng Siêu mẫu châu Á&nbsp;<img border='0' align='top'  width='20px' height='14px' src=/images/photo.gif>
+                    </div>
+                    <div style="float:left;font-size: small; color: Gray">
+                        07/11/2011 02:45
+                    </div>
+                    
+                    <div  style="color:#777777;float:left;padding-left:5px;">
+                           
+                           
+                            | Từ khóa :
+                           
+                            <a href="#" style="color:blue;font-size:8pt" class="keyword">Ninh Hoàng Ngân</a>
+                            
+                           ,
+                           
+                            <a href="#" style="color:blue;font-size:8pt" class="keyword"> Siêu mẫu châu Á</a>
+                            </div>
+                            
+                    <br class="clearfloat" />
+                    <div class="body">
+                        
+    <div style="font-weight:bold;color:#800000">Tin liên quan:</div>
+
+<div class='content_ul'><ul class="category_item_other"><li style='background:none'>»&nbsp;<a style='color:#000080' href="/newsdetail/Thoi-trang/529086/hoang-ngan-rang-ro-giua-cac-thi-sinh-sieu-mau-chau-á.htm">Hoàng Ngân rạng rỡ giữa các thí sinh Siêu Mẫu Châu Á &nbsp;<img border='0' align='top'  width='20px' height='14px' src=/images/photo.gif></a></li><li style='background:none'>»&nbsp;<a style='color:#000080' href="/newsdetail/Thoi-trang/528911/ninh-hoang-ngan-du-thi-sieu-mau-chau-á-tai-nhat.htm">Ninh Hoàng Ngân dự thi Siêu mẫu châu Á tại Nhật&nbsp;</a></li></ul></div>
+                    </div>
+                    <div class="body_detail">
+                        <div style="text-align: justify"><strong>(HNMO)- Người đẹp Ninh Ho&agrave;ng Ng&acirc;n đại diện Việt Nam đ&atilde; gi&agrave;nh giải thưởng Talent Award (Giải người mẫu t&agrave;i năng trong phần thi catwalk) trong trang phục Truyền thống &aacute;o d&agrave;i của NTK Tuấn Hải tại Bagus Place - Tokyo - Nhật Bản ng&agrave;y 3/11 vừa qua.<br />
+</strong><br />
+<strong>Kết quả c&aacute;c giải thưởng ch&iacute;nh của cuộc thi:<br />
+</strong>Grand Prix (giải nhất) thuộc về: Tan Ying Ying (Sigapore) <br />
+Asian Beauty Awards: Pornphattra Thaweephanturat (ThaiLand) <br />
+Asian Beauty Awards: Naoko Fukunaga (Japan) <br />
+Special Award: Liu Yen Chi (Taiwan) <br />
+Photogenic award: So Sou (Macau) <br />
+Talent Award: Hoang Ngan (Viet Nam) <br />
+<br />
+<strong>Một số h&igrave;nh ảnh của Ho&agrave;ng Ng&acirc;n tại cuộc thi:</strong><br />
+&nbsp;</div>
+<table border="0" cellspacing="1" cellpadding="4" width="200" align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center"><img alt="" align="middle" width="300" height="400" src="/Uploads/tuyetminh/2011/11/7/6-Ngan1.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><img alt="" align="middle" width="325" height="400" src="/Uploads/tuyetminh/2011/11/7/6-Ngan2.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><img alt="" align="middle" width="400" height="300" src="/Uploads/tuyetminh/2011/11/7/6-Ngan.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><img alt="" align="middle" width="275" height="400" src="/Uploads/tuyetminh/2011/11/7/6-Ngan3.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><img alt="" align="middle" width="400" height="288" src="/Uploads/tuyetminh/2011/11/7/6-Ngan4.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><img alt="" align="middle" width="400" height="299" src="/Uploads/tuyetminh/2011/11/7/6-Ngan5.jpg" /></td>
+        </tr>
+    </tbody>
+</table>
+<div style="text-align: justify">&nbsp;</div>
+                    </div>
+                    <div class="author">
+                        <br />
+                        T.Minh&nbsp;<span style="font-weight: normal; font-style: italic">Ảnh do Elite VN cung cấp</span>
+                    </div>
+                    <br class="clearfloat" />
+                </td>
+	</tr>
+</table>
+            
+            
+            
+            <br class="clearfloat" />
+        </div>
+        <div>
+            <span id="ctl00_MainContent_NewsDetailControl_lblDate"></span>
+        </div>
+        <div class="new_detail_adv">
+        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" 
+codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="470" height="78" name="wmode">
+    <param name="movie" value="/Uploads/NCC/2011/ads-homepage/HaLong490.swf">
+                  <param name="quality" value="high">
+                  <param name="wmode" value="transparent">
+                 <embed wmode="transparent" src="/Uploads/NCC/2011/ads-homepage/HaLong490.swf" allowscriptaccess="always" type="application/x-shockwave-flash" width="470" height="78"></embed>
+</object>
+
+        </div>
+        <div style="padding:5px;">
+        <div style="display:block;">
+            <div class="news_detail_comment">
+                <a style="font-size:12px;text-transform:uppercase;font-weight:bold;font-family:Verdana,Arial;" href="#" id="slick-toggle">Xem phản hồi</a> | <a style="font-size:12px;text-transform:uppercase;font-weight:bold;font-family:Verdana,Arial;" href="#" id="slick-toggle-send">
+                    Gửi phản hồi</a>
+            </div>
+            <div class="content_comment">
+                <div class='content_category_news_title'>Ý KIẾN BẠN ĐỌC(0)</div><br class='clearfloat' /><div id='slickbox'></div>
+                <div id="sendcomment" style="padding-top: 10px">
+                    <div id="contenDiv" class="contenDiv">
+                        <table cellpadding="0" cellspacing="0" border="0" width="470px">
+                            <tr>
+                                <td>
+                                    <input value="Họ và Tên" onfocus="if(this.value=='Họ và Tên') this.value='';" onblur="if(this.value=='') this.value='Họ và Tên';"
+                                        type="text" name="txtName" id="txtName" class="adword-textbox"">
+                                </td>
+                                <td>
+                                    <input type="text" onfocus="if(this.value=='Email') this.value='';" onblur="if(this.value=='') this.value='Email';"
+                                        value="Email" name="txtEmail" id="txtEmail" class="adword-textbox">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="padding-top: 10px;">
+                                    <input type="text" onfocus="if(this.value=='Địa chỉ') this.value='';" onblur="if(this.value=='') this.value='Địa chỉ';"
+                                        value="Địa chỉ" name="txtAddress" id="txtAddress" class="adword-textbox"">
+                                </td>
+                                <td style="padding-top: 10px;">
+                                    <input type="text" onfocus="if(this.value=='Mã an toàn') this.value='';" onblur="if(this.value=='') this.value='Mã an toàn';"
+                                        value="Mã an toàn" name="txtValidCode" id="txtValidCode" class="adword-textbox2">
+                                    <span id="ctl00_MainContent_NewsDetailControl_lblCode" class="lbl_randomtext">ZYDZYL</span>
+                                    <div style="display: none;">
+                                        <input name="ctl00$MainContent$NewsDetailControl$txtNewsCode" type="text" value="ZYDZYL" id="ctl00_MainContent_NewsDetailControl_txtNewsCode" />
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" style="padding-top: 5px">
+                                    <textarea rows="10" name="txtAddedContent" id="txtAddedContent" cols="46" class="SForm"
+                                        style="width: 470px"></textarea>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2">
+                                    <input type="button" class="bg_button_send_comment2" onclick="getData('/CommentADD.aspx?newsID=529289','contenDiv')"
+                                        value="Gửi ý kiến">
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+    <div class="news_other_main">
+        <div class="content_category_news_title">
+            CÁC TIN KHÁC
+        </div>
+        <br class="clearfloat" />
+        <div class="list_news_other_item">
+            <ul class='category_item_other_main'><li><a href='/newsdetail/Thoi-trang/529118/thi-sinh-tap-ghi-hinh-duoi-nuoc.htm' style='padding-right:5px'>Thí sinh tập ghi hình dưới nước</a><span style='font-size:8pt'>(04/11/2011)</span></li><li><a href='/newsdetail/Thoi-trang/529086/hoang-ngan-rang-ro-giua-cac-thi-sinh-sieu-mau-chau-á.htm' style='padding-right:5px'>Hoàng Ngân rạng rỡ giữa các thí sinh Siêu Mẫu Châu Á</a><span style='font-size:8pt'>(04/11/2011)</span></li><li><a href='/newsdetail/Thoi-trang/528911/ninh-hoang-ngan-du-thi-sieu-mau-chau-á-tai-nhat.htm' style='padding-right:5px'>Ninh Hoàng Ngân dự thi Siêu mẫu châu Á tại Nhật</a><span style='font-size:8pt'>(02/11/2011)</span></li><li><a href='/newsdetail/Thoi-trang/528716/khai-mac-hoi-cho-thoi-trang-quoc-te-viet-nam-2011.htm' style='padding-right:5px'>Khai mạc Hội chợ Thời trang quốc tế Việt Nam 2011</a><span style='font-size:8pt'>(01/11/2011)</span></li><li><a href='/newsdetail/Thoi-trang/528676/kim-tuyen-phai-noi-loi-chia-tay.htm' style='padding-right:5px'>Kim Tuyền phải nói lời chia tay</a><span style='font-size:8pt'>(31/10/2011)</span></li><li><a href='/newsdetail/Thoi-trang/528438/cac-thi-sinh-se-lot-xac-qua-cac-ban-tay-cua-cac-chuyen-gia.htm' style='padding-right:5px'>Các thí sinh sẽ “lột xác” qua các bàn tay của các chuyên gia</a><span style='font-size:8pt'>(28/10/2011)</span></li><li><a href='/newsdetail/Thoi-trang/528072/trang-suc-sieu-kinh-dien-cua-gioi-quy-toc-chau-âu.htm' style='padding-right:5px'>Trang sức siêu kinh điển của giới quý tộc châu Âu</a><span style='font-size:8pt'>(25/10/2011)</span></li><li><a href='/newsdetail/Thoi-trang/527949/dien-xuat-mot-mau-kikki-le-bat-ngo-bi-loai.htm' style='padding-right:5px'>Diễn xuất một màu, Kikki Lê bất ngờ bị loại</a><span style='font-size:8pt'>(24/10/2011)</span></li><li><a href='/newsdetail/Thoi-trang/527947/giay-tang-cao-nam-caosangvn-mua-1-tang-2-duoc-3.htm' style='padding-right:5px'>Giày tăng cao nam CAOSANG.VN "mua 1 tặng 2 được 3"</a><span style='font-size:8pt'>(24/10/2011)</span></li><li><a href='/newsdetail/Thoi-trang/527858/14-thi-sinh-tap-lam-viec-theo-nhom.htm' style='padding-right:5px'>14 thí sinh tập làm việc theo nhóm</a><span style='font-size:8pt'>(23/10/2011)</span></li><li><a href='/newsdetail/Thoi-trang/527661/4-kieu-toc-ngan-ninh-dang-cho-guong-mat-tron.htm' style='padding-right:5px'>4 kiểu tóc ngắn "nịnh dáng" cho gương mặt tròn</a><span style='font-size:8pt'>(21/10/2011)</span></li><li><a href='/newsdetail/Thoi-trang/527597/tuyet-lan-tiec-vi-lo-hen.htm' style='padding-right:5px'>Tuyết Lan tiếc vì “lỡ hẹn”</a><span style='font-size:8pt'>(20/10/2011)</span></li><li><a href='/newsdetail/Thoi-trang/527438/xu-huong-son-mau-kim-loai-len-ngoi.htm' style='padding-right:5px'>Xu hướng son màu kim loại lên ngôi</a><span style='font-size:8pt'>(19/10/2011)</span></li></ul>
+        </div>
+        <br class="clearfloat" />
+    </div>
+    <div id="news_search_datetime">
+        <div class="content_category_news_title">
+            XEM THEO NGÀY THÁNG
+        </div>
+        <br class="clearfloat" />
+       <div style="clear:both;float:left;width:100%;text-align:right;margin-top:10px">
+<script type="text/javascript">
+    $(function()
+    {
+        var d=new Date();
+        var currentYear=d.getFullYear();
+        $("select[id$=cboYear]").empty();
+        for(i=currentYear;i>=currentYear-5;i--)
+        {
+            $("select[id$=cboYear]").append("<option value='"+i+"'>"+i+"</option>");
+        }
+    });
+</script>
+Xem tin theo ngày: &nbsp;
+<select name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$cboDay" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_cboDay">
+	<option value="1">1</option>
+	<option value="2">2</option>
+	<option value="3">3</option>
+	<option value="4">4</option>
+	<option value="5">5</option>
+	<option value="6">6</option>
+	<option selected="selected" value="7">7</option>
+	<option value="8">8</option>
+	<option value="9">9</option>
+	<option value="10">10</option>
+	<option value="11">11</option>
+	<option value="12">12</option>
+	<option value="13">13</option>
+	<option value="14">14</option>
+	<option value="15">15</option>
+	<option value="16">16</option>
+	<option value="17">17</option>
+	<option value="18">18</option>
+	<option value="19">19</option>
+	<option value="20">20</option>
+	<option value="21">21</option>
+	<option value="22">22</option>
+	<option value="23">23</option>
+	<option value="24">24</option>
+	<option value="25">25</option>
+	<option value="26">26</option>
+	<option value="27">27</option>
+	<option value="28">28</option>
+	<option value="29">29</option>
+	<option value="30">30</option>
+	<option value="31">31</option>
+</select>
+<select name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$cboMonth" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_cboMonth">
+	<option value="1">Th&#225;ng 1</option>
+	<option value="2">Th&#225;ng 2</option>
+	<option value="3">Th&#225;ng 3</option>
+	<option value="4">Th&#225;ng 4</option>
+	<option value="5">Th&#225;ng 5</option>
+	<option value="6">Th&#225;ng 6</option>
+	<option value="7">Th&#225;ng 7</option>
+	<option value="8">Th&#225;ng 8</option>
+	<option value="9">Th&#225;ng 9</option>
+	<option value="10">Th&#225;ng 10</option>
+	<option selected="selected" value="11">Th&#225;ng 11</option>
+	<option value="12">Th&#225;ng 12</option>
+</select>
+<select name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$cboYear" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_cboYear">
+</select>
+<input type="submit" name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$btnView" value="Xem" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_btnView" />
+<br />
+</div>
+    </div>
+</div>
+
+                </div>
+                <div class="right_category_box">
+                           
+                            <div class="box_adv_newscategory">
+                                <div class="right_content_box_bottom_adv">
+                                <body topmargin="0" leftmargin="0">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#016A99" height="1">
+<tr><td height=1></td></tr>
+</table></body>
+
+                                </div>  
+                            </div>
+                            <div  style="float:right;padding-top:5px;display:none">
+                                  
+    <div style="font-weight:bold;color:#800000">Tin liên quan:</div>
+
+<div class='content_ul'><ul class="category_item_other"><li style='background:none'>»&nbsp;<a style='color:#000080' href="/newsdetail/Thoi-trang/529086/hoang-ngan-rang-ro-giua-cac-thi-sinh-sieu-mau-chau-á.htm">Hoàng Ngân rạng rỡ giữa các thí sinh Siêu Mẫu Châu Á &nbsp;<img border='0' align='top'  width='20px' height='14px' src=/images/photo.gif></a></li><li style='background:none'>»&nbsp;<a style='color:#000080' href="/newsdetail/Thoi-trang/528911/ninh-hoang-ngan-du-thi-sieu-mau-chau-á-tai-nhat.htm">Ninh Hoàng Ngân dự thi Siêu mẫu châu Á tại Nhật&nbsp;</a></li></ul></div> 
+                             </div>
+                            <div id="Div1" style="float:right;padding-top:5px">
+                              <div id='box_flow' style='display:block'><div class='box_top_ovan'><!----></div><div class='box_center_ovan'><div class='box_news_event_title'><a href='#' class='content_news_main_link'>Tin mới nhận</a></div><div class='content_ul'><table cellpadding='0' cellspacing='0' border='0'><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Van-hoa/529343/khi-nhac-giao-huong-ra-ngoai-khan-phong.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/11/7/nhacthinphong.jpg"></a><a class='link_news_focus' href='/newsdetail/Van-hoa/529343/khi-nhac-giao-huong-ra-ngoai-khan-phong.htm'>Khi nhạc giao hưởng ra ngoài khán phòng</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Giai-tri/529338/sap-co-phan-4-the-twilight-saga.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuyetminh/2011/9/14/bg_g.jpg"></a><a  class='link_news_focus' href='/newsdetail/Giai-tri/529338/sap-co-phan-4-the-twilight-saga.htm'>Sắp có phần 4 “The Twilight Saga”</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Du-lich/529303/22-ty-dong-cho-festival-hoa-đa-lat-2012.htm'><img style="display:none" src=""></a><a class='link_news_focus' href='/newsdetail/Du-lich/529303/22-ty-dong-cho-festival-hoa-đa-lat-2012.htm'>22 tỷ đồng cho Festival Hoa Đà Lạt 2012 </a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Van-hoa/529288/venezuela-lan-thu-6-dang-quang-hoa-hau-the-gioi.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails07462011084659hh1.jpg"></a><a  class='link_news_focus' href='/newsdetail/Van-hoa/529288/venezuela-lan-thu-6-dang-quang-hoa-hau-the-gioi.htm'>Venezuela lần thứ 6 đăng quang Hoa hậu Thế giới</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Van-hoa/529286/nguoi-dep-ecuador-dang-quang-hhqt-2011.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails072620110126272.jpg"></a><a class='link_news_focus' href='/newsdetail/Van-hoa/529286/nguoi-dep-ecuador-dang-quang-hhqt-2011.htm'>Người đẹp Ecuador đăng quang HHQT 2011</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Van-hoa/529276/xem-truoc-dem-chung-ket-cuoc-thi-hhqt-2011.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails06542011025427sapo.jpg"></a><a  class='link_news_focus' href='/newsdetail/Van-hoa/529276/xem-truoc-dem-chung-ket-cuoc-thi-hhqt-2011.htm'>Xem trước đêm chung kết cuộc thi HHQT 2011</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Giai-tri/529275/cap-doi-hoan-hao-tuan-thu-5-chieu-tro-co-at-giong-hat.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails06572011025732Chi pheo1.jpg"></a><a class='link_news_focus' href='/newsdetail/Giai-tri/529275/cap-doi-hoan-hao-tuan-thu-5-chieu-tro-co-at-giong-hat.htm'>“Cặp đôi hoàn hảo” tuần thứ 5: Chiêu trò có át giọng hát?</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Van-hoa/529274/toi-nay-chung-ket-hoa-hau-the-gioi-va-hoa-hau-quoc-te-2011.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails06332011113356Vy-Diem.jpg"></a><a  class='link_news_focus' href='/newsdetail/Van-hoa/529274/toi-nay-chung-ket-hoa-hau-the-gioi-va-hoa-hau-quoc-te-2011.htm'>Tối nay, chung kết Hoa hậu Thế giới và Hoa hậu Quốc tế 2011</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Van-hoa/529273/26-thi-sinh-hh-dan-toc-vn-khu-vuc-phia-bac-tiep-tuc-binh-chon-cho-vinh-ha-long.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails06082011100821sapo.jpg"></a><a class='link_news_focus' href='/newsdetail/Van-hoa/529273/26-thi-sinh-hh-dan-toc-vn-khu-vuc-phia-bac-tiep-tuc-binh-chon-cho-vinh-ha-long.htm'>26 thí sinh HH Dân tộc VN khu vực phía Bắc tiếp tục bình chọn cho Vịnh Hạ Long</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Thieu-nhi/529261/gia-dinh-toi.htm'><img style="display:none" src=""></a><a  class='link_news_focus' href='/newsdetail/Thieu-nhi/529261/gia-dinh-toi.htm'>Gia đình tôi</a><br class='clearfloat'></div></div></td></tr></table></div></div><div class='box_bottom_ovan'><!----></div></div>
+                            </div>
+                            <div  style="float:right;padding-top:5px">
+                                  <div id='center_box' style='display:none'><div class='box_top_ovan'><!----></div><div class='box_center_ovan'><div class='box_news_event_title'><a href='#' class='content_news_main_link'>Theo dòng sự kiện</a></div><div class='box_news_event_content'></div></div><div class='box_bottom_ovan'><!----></div></div> 
+                             </div>
+                            <div id="box_flow" style="float:right;">
+                              <div id='box_flow' style='display:block'><div class='box_top_ovan'><!----></div><div class='box_center_ovan'><div class='box_news_event_title'><a href='#' class='content_news_main_link'>Tiêu điểm</a></div><div class='content_ul'><table cellpadding='0' cellspacing='0' border='0'><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Thoi-trang/529289/hoang-ngan-doat-giai-tai-nang-sieu-mau-chau-á.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails074520110245096-Ngan1.jpg"></a><a class='link_news_focus' href='/newsdetail/Thoi-trang/529289/hoang-ngan-doat-giai-tai-nang-sieu-mau-chau-á.htm'>Hoàng Ngân đoạt giải Tài năng Siêu mẫu châu Á</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Thoi-trang/529118/thi-sinh-tap-ghi-hinh-duoi-nuoc.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails042920110329034-nuoc.jpg"></a><a  class='link_news_focus' href='/newsdetail/Thoi-trang/529118/thi-sinh-tap-ghi-hinh-duoi-nuoc.htm'>Thí sinh tập ghi hình dưới nước </a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Thoi-trang/529086/hoang-ngan-rang-ro-giua-cac-thi-sinh-sieu-mau-chau-á.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails044420110944514-Ngan2.jpg"></a><a class='link_news_focus' href='/newsdetail/Thoi-trang/529086/hoang-ngan-rang-ro-giua-cac-thi-sinh-sieu-mau-chau-á.htm'>Hoàng Ngân rạng rỡ giữa các thí sinh Siêu Mẫu Châu Á </a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Thoi-trang/528911/ninh-hoang-ngan-du-thi-sieu-mau-chau-á-tai-nhat.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails020520110905382-Hoang-Ngan.jpg"></a><a  class='link_news_focus' href='/newsdetail/Thoi-trang/528911/ninh-hoang-ngan-du-thi-sieu-mau-chau-á-tai-nhat.htm'>Ninh Hoàng Ngân dự thi Siêu mẫu châu Á tại Nhật</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Thoi-trang/528676/kim-tuyen-phai-noi-loi-chia-tay.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails3121201101212931-Kim-Tuyen.jpg"></a><a class='link_news_focus' href='/newsdetail/Thoi-trang/528676/kim-tuyen-phai-noi-loi-chia-tay.htm'>Kim Tuyền phải nói lời chia tay</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Thoi-trang/528438/cac-thi-sinh-se-lot-xac-qua-cac-ban-tay-cua-cac-chuyen-gia.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails2836201104360728-Nextop.jpg"></a><a  class='link_news_focus' href='/newsdetail/Thoi-trang/528438/cac-thi-sinh-se-lot-xac-qua-cac-ban-tay-cua-cac-chuyen-gia.htm'>Các thí sinh sẽ “lột xác” qua các bàn tay của các chuyên gia </a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Thoi-trang/527949/dien-xuat-mot-mau-kikki-le-bat-ngo-bi-loai.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails2435201112352324-next-top-model-3.jpg"></a><a class='link_news_focus' href='/newsdetail/Thoi-trang/527949/dien-xuat-mot-mau-kikki-le-bat-ngo-bi-loai.htm'>Diễn xuất một màu, Kikki Lê bất ngờ bị loại</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Thoi-trang/527858/14-thi-sinh-tap-lam-viec-theo-nhom.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails2315201109153723-Nhom.jpg"></a><a  class='link_news_focus' href='/newsdetail/Thoi-trang/527858/14-thi-sinh-tap-lam-viec-theo-nhom.htm'>14 thí sinh tập làm việc theo nhóm</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Thoi-trang/527661/4-kieu-toc-ngan-ninh-dang-cho-guong-mat-tron.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/10/21/toc1.jpg"></a><a class='link_news_focus' href='/newsdetail/Thoi-trang/527661/4-kieu-toc-ngan-ninh-dang-cho-guong-mat-tron.htm'>4 kiểu tóc ngắn "nịnh dáng" cho gương mặt tròn</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Thoi-trang/527597/tuyet-lan-tiec-vi-lo-hen.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails2046201104464920-Lan4.jpg"></a><a  class='link_news_focus' href='/newsdetail/Thoi-trang/527597/tuyet-lan-tiec-vi-lo-hen.htm'>Tuyết Lan tiếc vì “lỡ hẹn” </a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Thoi-trang/527218/hau-truong-đam-me-cua-đep-fashion-show.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails17362011103620hautruong.jpg"></a><a class='link_news_focus' href='/newsdetail/Thoi-trang/527218/hau-truong-đam-me-cua-đep-fashion-show.htm'>Hậu trường “Đam mê” của Đẹp Fashion Show</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Thoi-trang/527146/ca-tinh-–-yeu-to-can-thiet-cua-mot-top-model.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails1740201112402517-Model.jpg"></a><a  class='link_news_focus' href='/newsdetail/Thoi-trang/527146/ca-tinh-–-yeu-to-can-thiet-cua-mot-top-model.htm'>Cá tính – yếu tố cần thiết của một Top Model</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Thoi-trang/527143/đep-fashion-show-10–bua-tiec-cua-thoi-trang-va-dam-me.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails16232011092309BST-DeVon-Nguyen1.jpg"></a><a class='link_news_focus' href='/newsdetail/Thoi-trang/527143/đep-fashion-show-10–bua-tiec-cua-thoi-trang-va-dam-me.htm'>Đẹp Fashion Show 10–Bữa tiệc của thời trang và đam mê</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Thoi-trang/527069/15-thi-sinh-vui-dua-trong-ngoi-nha-chung.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails1502201103025315-Nhachung3.jpg"></a><a  class='link_news_focus' href='/newsdetail/Thoi-trang/527069/15-thi-sinh-vui-dua-trong-ngoi-nha-chung.htm'>15 thí sinh vui đùa trong ngôi nhà chung</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Thoi-trang/526999/sieu-mau-tuyet-lan-va-hanh-trinh-moi-tai-singapore.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails1445201111451414-Tuyet-Lan.jpg"></a><a class='link_news_focus' href='/newsdetail/Thoi-trang/526999/sieu-mau-tuyet-lan-va-hanh-trinh-moi-tai-singapore.htm'>Siêu mẫu Tuyết Lan và hành trình mới tại Singapore</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Thoi-trang/526128/chiem-nguong-bo-trang-phuc-da-hoi-viet.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails06082011010825sapo.jpg"></a><a  class='link_news_focus' href='/newsdetail/Thoi-trang/526128/chiem-nguong-bo-trang-phuc-da-hoi-viet.htm'>Chiêm ngưỡng bộ trang phục dạ hội Việt </a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Thoi-trang/526047/đep-fashion-show-10-–-mot-chang-duong-dam-me.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails05532011085323IMG_9242.jpg"></a><a class='link_news_focus' href='/newsdetail/Thoi-trang/526047/đep-fashion-show-10-–-mot-chang-duong-dam-me.htm'>Đẹp Fashion Show 10 – một chặng đường đam mê</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Thoi-trang/526003/phuong-mai-va-ngoc-trinh-dung-hang.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails05392011013959Trinh-Mai1.jpg"></a><a  class='link_news_focus' href='/newsdetail/Thoi-trang/526003/phuong-mai-va-ngoc-trinh-dung-hang.htm'>Phương Mai và Ngọc Trinh “đụng hàng”</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Thoi-trang/525993/truong-nam-thanh-dang-dung-thu-2-binh-chon.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails05402011114030sapo.jpg"></a><a class='link_news_focus' href='/newsdetail/Thoi-trang/525993/truong-nam-thanh-dang-dung-thu-2-binh-chon.htm'>Trương Nam Thành đang đứng thứ 2 bình chọn</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Thoi-trang/525788/phuong-mai-khong-lam-nen-bat-ngo.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails030120110401293-Mai.jpg"></a><a  class='link_news_focus' href='/newsdetail/Thoi-trang/525788/phuong-mai-khong-lam-nen-bat-ngo.htm'>Phương Mai không làm nên bất ngờ </a><br class='clearfloat'></div></div></td></tr></table></div></div><div class='box_bottom_ovan'><!----></div></div>
+                            </div>
+                            <div class="box_video" style="float:right;padding-top:5px">
+                                 
+ <script language="javascript" type="text/javascript">  
+    $(function()
+    {
+        $('.videoTitle').live('click',function() {
+        $(".box_video_bg .title_box_video_pic").load("/Modules/CMS_ARTICLE/ArticleGetTitle.aspx?articleID="+$(this).attr("id")); 
+        $(".video_body").load("/Modules/CMS_ARTICLE/ArticleGetContent.aspx?articleID="+$(this).attr("id")); 
+        var newsID = $(this).attr("id");
+        var data = "{'newsID':'" + newsID +"'}"; //create the JSON data to send to server
+        $.ajax(
+                { //call the Page method using JQuery ajax
+                  type: "POST",
+                  url: "/ShowVideo.aspx/ShowVideoOther",
+                  data: data,
+                  contentType: "application/json; charset=utf-8",
+                  dataType: "json",
+                  success: function(msg)  //show the result
+                  {
+                                     
+                    $(".video_other").fadeOut("fast").html(msg.d).fadeIn("fast");
+                  }
+                });
+        return false;
+        });
+    });
+ </script>
+<div class="box_video_bg">
+    <div class="top_title_video"><a style="color: rgb(0, 102, 204); font-family: Verdana,Times New Roman,Arial,Tahoma; font-size: 9pt; font-weight: bold; text-decoration: none;" href='/categoryparent/196/video.htm'>&nbsp;&nbsp;&nbsp;Video</a></div>
+    <div  class='title_box_video_pic'>La Liga: Bilbao 2-2 Barcelona</div><div class='video_body'><table border="0" cellspacing="1" cellpadding="1" width="200" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <div style="text-align: center" id="player534258-parent">
+            <div style="background-image: url(/FCKeditor/editor/plugins/flvPlayer/flvPlayer.gif); border-bottom-style: none; border-right-style: none; background-color: rgb(220,220,220); width: 292px; background-repeat: no-repeat; background-position: center 50%; border-top-style: none; height: 230px; border-left-style: none; overflow: hidden"><script src="/FCKeditor/editor/plugins/flvPlayer/swfobject.js" type="text/javascript"></script>
+            <div id="player534258">
+            <div><a href="http://www.macromedia.com/go/getflashplayer">Get the Flash Player</a> to see this player.</div>
+            <div style="width: 0px; display: none; height: 0px; visibility: hidden; overflow: hidden" id="player534258-config">url=http://www1.bongdaplus.vn/uploaded/duymh/1video/2011_11_07/Bilbao2_2Barrca.flv iurl=/Uploads/tuanphong/2011/11/7/Messi.jpg width=292 height=230 loop=false play=false downloadable=false fullscreen=true displayNavigation=true displayDigits=true playlistThumbs=false</div>
+            </div>
+            <script type="text/javascript">
+	var s1 = new SWFObject("/FCKeditor/editor/plugins/flvPlayer/mediaplayer.swf","single","292","230","7");
+	s1.addVariable("width","292");
+	s1.addVariable("height","230");
+	s1.addVariable("autostart","false");
+	s1.addVariable("file","http://www1.bongdaplus.vn/uploaded/duymh/1video/2011_11_07/Bilbao2_2Barrca.flv");
+	s1.addVariable("repeat","false");
+	s1.addVariable("image","/Uploads/tuanphong/2011/11/7/Messi.jpg");
+	s1.addVariable("showdownload","false");
+	s1.addVariable("link","http://www1.bongdaplus.vn/uploaded/duymh/1video/2011_11_07/Bilbao2_2Barrca.flv");
+	s1.addParam("allowfullscreen","true");
+	s1.addVariable("showdigits","true");
+	s1.addVariable("shownavigation","true");
+	s1.addVariable("logo","");
+	s1.write("player534258");
+</script></div>
+            </div>
+            </td>
+        </tr>
+    </tbody>
+</table></div><br class='clearfloat' /><div class='video_other'><ul class='content_other_action'><li><a href='#' class='videoTitle' id='529272'>Vòng 11 Premiership: QPR 2-3 Man City</a></li><li><a href='#' class='videoTitle' id='529010'>Clip: sập nhà vì nổ khí gas, 2 cháu bé tử vong</a></li><li><a href='#' class='videoTitle' id='528983'>Champions League: M.U 2-0 Otelul</a></li></ul></div>
+  </div>
+                            </div>
+                            <div id="box_picture" style="float:right;margin-right:-3px">
+                                 
+<div class="box_picture_bg">
+    <div class="top_title_video">&nbsp;&nbsp;&nbsp;<a href='/categoryparent/195/Anh.htm' style='color:#0066CC;
+font-family:Verdana,Times New Roman,Arial,Tahoma;
+font-size:9pt;
+font-weight:bold;text-decoration:none'>Góc ảnh</a></div>
+    <div class='title_box_video_pic'><a class='blueLink' href='/newsdetail/Anh/529183/soi-dong-oktoberfest-2011-tai-ha-noi.htm'>Sôi động Oktoberfest 2011 tại Hà Nội</a></div><div class='box_pic_content'><a href='/newsdetail/Anh/529183/soi-dong-oktoberfest-2011-tai-ha-noi.htm'><img src='/GetThumbnail.ashx?width=280&height=200&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails05282011072845a2.jpg' /></a></div><div class='box_pic_other'><ul class='content_other_action'><li><a href='/newsdetail/Anh/529015/cong-chieng-tay-nguyen-qua-ong-kinh-nghe-sy.htm'>Cồng chiêng Tây Nguyên qua ống kính nghệ sỹ</a></li><li><a href='/newsdetail/Anh/528802/tham-nhap-can-ham-moi-phat-lo-trong-ks-metropole-ha-noi.htm'>Thâm nhập căn hầm mới phát lộ trong KS Metropole Hà Nội</a></li><li><a href='/newsdetail/Anh/528660/mua-vang.htm'>Mùa vàng</a></li></ul></div>
+ </div>
+                            </div>
+                            <div class="box_adv_newscategory">
+                              <div class="right_content_box_bottom_adv">
+                                <br>
+
+                               </div>  
+                            </div>
+                        </div>
+           </div>
+           <div class="right_news_category_box">
+              <ul class="right_content_box_adv_main">
+                    <li>
+                    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" name="wmode" height="360" width="180">
+    <param name="movie" value="/Uploads/NCC/2011-NBN/ads-homepage/songkhoe180x360.swf">
+                  <param name="quality" value="high">
+                  <param name="wmode" value="transparent">
+                 <embed wmode="transparent" src="/Uploads/NCC/2011-NBN/ads-homepage/songkhoe180x360.swf" allowscriptaccess="always" type="application/x-shockwave-flash" height="360" width="180">
+</object>
+
+                    </li>
+                    <li>
+                    <a href="/newsdetail/Van-hoa/424354/%C4%91on-doc-ha-noi-ngay-nay-so-1-bo-moi.htm">
+<img src="/Uploads/NCC/2011/ads-homepage/HN-Ngaynay.jpg" border="0">
+</a>
+
+                    </li>
+                    <li>
+                    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" name="wmode" height="180" width="180">
+<param name="movie" value="/Uploads/NCC/ads-homepage/4D-homeduhoc_180x180.swf">
+<param name="quality" value="high">
+<param name="wmode" value="transparent">
+<embed wmode="transparent" src="/Uploads/NCC/ads-homepage/4D-homeduhoc_180x180.swf" allowscriptaccess="always" type="application/x-shockwave-flash" height="180" width="180">
+</object>
+
+                    </li>
+                    <li>
+                    <object width="180" height="180" name="wmode" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+    <param value="/Uploads/NCC/ads-homepage/4A-chuyenmuckinhte_180x180.swf" name="movie">
+                  <param value="high" name="quality">
+                  <param value="transparent" name="wmode">
+                 <embed width="180" height="180" type="application/x-shockwave-flash" allowscriptaccess="always" src="/Uploads/NCC/ads-homepage/4A-chuyenmuckinhte_180x180.swf" wmode="transparent">
+</object>
+
+                    </li>
+                 
+                </ul>
+           </div> 
+        </div>
+      </div>
+
+            <div id="footer">
+                <div id="footer_wrap">
+                    <div class="menu">
+                        <div class="tabsmenuclass">
+                            <ul class='menutop'>
+                                <li><a href=''>Trang chủ</a></li>
+                                <li><a href='/contact/contact.htm'>
+                                    <img width='10px' height='11px' style='border: 0px none; float: left; margin-top: 10px;'
+                                        src='/images/icon01.png' />&nbsp;Liên hệ tòa soạn</a></li>
+                                <li><a onclick='setHomepage();' href='javascript:void(0);'>
+                                    <img width='12px' height='9px' style='border: 0px none; float: left; margin-top: 10px;'
+                                        src='/images/icon02.png' />&nbsp;Đặt HNM làm trang chủ</a></li>
+                                <li><a href='/Modules/NewsLetter/NewsLetterRegister.aspx'>
+                                    <img width='12px' height='9px' style='border: 0px none; float: left; margin-top: 10px;'
+                                        src='/images/icon03.png' />&nbsp;Đăng ký nhận tin mới</a></li>
+                                <li>
+                                    <select name="ctl00$ddlWebLink" id="ctl00_ddlWebLink" onchange="window.open(this.value)" style="float: left; margin: 5px 20px 0 180px;">
+	<option value="Liên kết Website">Li&#234;n kết Website</option>
+	<option value="http://www.dangcongsan.vn">B&#225;o Điện tử Đảng CSVN</option>
+	<option value="http://www.nhandan.com.vn">B&#225;o Nh&#226;n D&#226;n</option>
+	<option value="http://www.vietnamplus.vn">TTXVN</option>
+	<option value="http://www.cuocsongvantuoidep.vn">&quot;Cuộc sống vẫn tươi đẹp&quot; tr&#234;n VTV4</option>
+	<option value="http://chinhphu.vn">Website Ch&#237;nh phủ</option>
+	<option value="http://www.na.gov.vn">Quốc hội Việt Nam</option>
+	<option value="http://www.vnexpress.net">VnExpress</option>
+	<option value="http://www.vnn.vn">Vietnamnet</option>
+	<option value="http://tienphong.vn">Tiền Phong</option>
+	<option value="http://www.tuoitre.com.vn">Tuổi trẻ</option>
+	<option value="http://www.anninhthudo.vn">An ninh Thủ đ&#244;</option>
+	<option value="http://www.nld.com.vn">B&#225;o Người Lao Động</option>
+	<option value="http://www.baothuathienhue.vn/">B&#225;o Thừa Thi&#234;n Huế</option>
+	<option value="http://www.baobinhthuan.com.vn">B&#225;o B&#236;nh Thuận</option>
+
+</select>
+                                </li>
+                                <li><a href="#top" style="margin: 0; padding: 0 5px 0 5px; color: white; font-weight: bold">
+                                    Về đầu trang</a> </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="footer_text">
+                        Bản quyền © 2003-2010 Báo Hànộimới - CQCQ: Thành ủy Hà Nội<br/>
+                        Giấy phép số 1123/GP-BTTTT, cấp ngày: 21/7/2011. Tổng biên tập: TÔ QUANG PHÁN<br/>
+                        Địa chỉ: 44 Lê Thái Tổ - Hà Nội . ĐT (04) 38253067 – 39287445 . Fax: (04) 39287445 . Email:<a style='color:blue' href='mailto:webmaster@hanoimoi.com.vn'>webmaster@hanoimoi.com.vn</a><br/>
+                        Ghi rõ nguồn "Báo Hànộimới" khi phát hành lại thông tin từ website này.
+                  </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+
+    <script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12223163-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

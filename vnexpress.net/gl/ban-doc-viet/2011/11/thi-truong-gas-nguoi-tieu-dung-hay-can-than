@@ -1,0 +1,860 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />		
+		
+		<meta name="robots" content="INDEX,FOLLOW" />
+			
+		<meta name="description" content="Trong 2 năm (2009-2010) tôi đã lăn lộn làm nhân viên chở gas cho 9 cửa hàng gas tại các quận nội thành Hà Nội. Đúc rút 2 năm ấy tôi xin chia sẻ đến quý vị ba vấn đề quan trọng nhất" />
+			
+		<title>Thị trường gas - người tiêu dùng hãy cẩn thận - VnExpress</title>
+		
+		<meta name="keywords" content="gas,thị trường gas,gas lậu" />	
+		
+		<meta http-equiv="REFRESH" content="3600" />
+		
+		<link rel="stylesheet" href="/Resource/Common/default.css" type="text/css" />	
+		<link href="http://go.polyad.net/style/context/2.css" rel="Stylesheet" style="text/css"> 		
+		
+		<link rel="alternate" type="application/rss+xml" title="VnExpress - RSS" href="/RSS/GL/trang-chu.rss" />
+			
+		
+		<script type="text/javascript" language="javascript" src="/Library/Common/Library.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/Vne.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/FlashMedia.js"></script>						
+        <script type="text/javascript" language="javascript" src="/Library/Common/AjaxRequest.js"></script>
+		<script type="text/javascript" language="javascript" src="/Library/Common/vietUni.js"></script>
+		<script type="text/javascript" language="javascript" src="/Resource/00/ArrMenu.js"></script>        				
+		<script type="text/javascript" language="javaScript">
+			var PAGE_SITE=0;
+			var PAGE_FOLDER=109;	
+			var PAGE_ID=1001430368;	
+			var DOMESTIC_IP=1;	
+			setTypingMode(1);
+				
+			sLoDID=sLoDID.concat('1001430368').concat(',');
+			
+		</script>
+		<script type="text/javascript" language="javascript" src="/Resource/Common/Menu.js"></script>
+		
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-249346-1']);
+		_gaq.push(['_trackPageview']);
+		
+		_gaq.push(['b._setAccount', 'UA-249346-21']);
+		_gaq.push(['b._trackPageview']);
+		
+		_gaq.push(['c._setAccount', 'UA-249346-22']);
+		_gaq.push(['c._trackPageview']);
+		
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	
+		<script src="/Library/Common/jquery-1.6.3.min.js"></script>		
+		
+<script type="text/javascript" src="/library/Common/VNEShowAds.js"></script>
+<script src="/library/common/adlibv1.js" type="text/javascript"></script>
+<script src="/library/common/lib.js" type="text/javascript"></script>
+
+	</head>
+	<body>	
+		
+				
+		<input type="hidden" id="CurrentBrowserWidth" value="" />
+		<input type="hidden" id="ShowBackground" value="1" />
+		<div id="divSlideResultLeft" style="background-repeat:no-repeat;background-position:right top;over-flow:hidden;cursor:pointer;text-align:right;padding:0px;position: fixed!important;position: absolute; /*ie6 and above*/;left: 0px; top: 0px;overflow:hidden;"></div>
+		<div id="divSlideResultRight" style="background-repeat:no-repeat;over-flow:hidden;cursor:pointer;text-align:left;padding:0px;position: fixed!important; position: absolute; /*ie6 and above*/;right: 0px; top: 0px;overflow:hidden;"></div>				
+		
+		<div id="outter">		
+		<div id="divMove" style="width:1000px;">
+		<div class="fpr2">
+			<div id="header">
+				<div id="logoEH" class="logo fl" >
+					
+					<a onfocus="this.blur()" hidefocus="" href="/"><img class="img-logo" src="/Images/blank.gif" alt="" /></a>
+					
+				</div>
+				<div id="topbannerEH" class="topbanner fr">
+					
+					<table border="0" cellpadding="0" cellspacing="0" style="width:100%;">
+						<tr>
+							<td style="vertical-align:middle">
+																
+									<script type="text/javascript" language="javascript">
+										Poly_ShowTopBanner();
+									</script>								
+								
+							</td>                           
+						</tr>
+					</table>				
+					
+				</div>
+			</div>			
+		</div>				
+		<div id="menu">
+	<div class="searchmenu">
+		<div class="fl icone"></div>
+		<div class="drss fl"><a href="/GL/RSS/" class="link-rss lnkrss">RSS<span></span></a></div>
+		<div id="mn-search" class="search fr">
+			<form onsubmit="return CheckValue(document.Search.s);" action="http://search.vnexpress.net/news" id="Search" name="Search">
+				<span class="fl borright"></span>
+				<input type="text" value="Từ khóa tìm kiếm" onfocus="SearchOnFocus(this)" onkeydown="" onkeyup="initTyper(this)" onblur="SearchOnBlur(this)" id="s" name="s" class="txtsearch fl">
+				<img onclick="return CheckValue(document.Search.s);" alt="" src="/images/blank.gif" class="img-search fl">
+				<input type="hidden" value="66FD8EC7-FA76-4A7C-8FE3-DB605B4C9CE0" name="g">
+				<input type="hidden" value="yes" name="butS">
+			</form>
+		</div>
+	</div>
+	<!--[if lte IE 6]><a id="lnkIE6" href="#"><table cellpadding=0 cellspacing=0 style="border: 0; margin: 0; padding: 0; width: 1000px; height: 25px;"><tr><td><![endif]-->
+	<div class="menu">
+		<ul>
+			<li><div class="fl mn-borleft"></div></li>
+			
+			<li>
+				<a href="/"><span class="pmenuL"></span><span class="pmenuM">Trang nhất</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<!--<ul style="padding: 0px; height: 16px">
+					<div class="fl icone"></div>
+					<div class="drss fl"><a href="/GL/RSS/" class="link-rss">RSS <span></span></a></div>
+				</ul>-->
+				<ul class="smenu-home">	
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+					<li class="lnknews24h"><a href="/gl/24h-qua/"></a></li>
+					<li class="ico-ct-wrap">
+						<span class="fl ico-ct"></span>
+						<p class="fl phonect"><span>0123.888.0123</span> (HN) - <span>0129.233.3555</span> (TP.HCM)</p>
+					</li>				
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/video/"><span class="pmenuL"></span><span class="pmenuM">Video</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">													
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/xa-hoi/"><span class="pmenuL"></span><span class="pmenuM">Xã hội</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li><a href="/gl/xa-hoi/giao-duc/">Giáo dục</a></li>
+					<li><a href="/gl/xa-hoi/nhip-dieu-tre/">Nhịp điệu trẻ</a></li>
+					<li><a href="/gl/xa-hoi/du-lich/">Du lịch</a></li>
+					<li><a href="/gl/xa-hoi/co-hoi-du-hoc/">Du học</a></li>												
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/the-gioi/"><span class="pmenuL"></span><span class="pmenuM">Thế giới</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->				
+				<ul class="smenu-other">					
+					<li><a href="/gl/the-gioi/cuoc-song-do-day/">Cuộc sống đó đây</a></li>
+					<li><a href="/gl/the-gioi/anh/">Ảnh</a></li>
+					<li><a href="/gl/the-gioi/nguoi-viet-5-chau/">Người Việt 5 châu</a></li>
+					<li><a href="/gl/the-gioi/phan-tich/">Phân tích</a></li>
+					<li><a href="/gl/the-gioi/tu-lieu/">Tư liệu</a></li>								
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/kinh-doanh/"><span class="pmenuL"></span><span class="pmenuM">Kinh doanh</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->					
+				<ul class="smenu-other">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/gl/ebank/">Ebank</a></li>
+					<li><a href="/gl/kinh-doanh/chung-khoan/">Chứng khoán</a></li>
+					<li><a href="/gl/kinh-doanh/bat-dong-san/">Bất động sản</a></li>
+					<li><a target="_blank" href="http://nhadep.vnexpress.net/gl/nha-dep/">Nhà đẹp</a></li>
+					<li><a href="/gl/kinh-doanh/kinh-nghiem/">Doanh nhân</a></li>
+					<li><a href="/gl/kinh-doanh/quoc-te/">Quốc tế</a></li>
+					<li><a href="/gl/doi-song/mua-sam/">Mua sắm</a></li>
+					<li><a href="/gl/kinh-doanh/doanh-nghiep-viet/">Doanh nghiệp viết</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/van-hoa/"><span class="pmenuL"></span><span class="pmenuM">Văn hóa</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">					
+					<li><a href="/gl/van-hoa/hoa-hau/">Hoa hậu</a></li>
+					<li><a href="/gl/van-hoa/guong-mat-nghe-sy/">Nghệ sỹ</a></li>
+					<li><a href="/gl/van-hoa/am-nhac/">Âm nhạc</a></li>
+					<li><a href="/gl/van-hoa/thoi-trang/">Thời trang</a></li>
+					<li><a href="/gl/van-hoa/san-khau-dien-anh/">Điện ảnh</a></li>
+					<li><a href="/gl/van-hoa/my-thuat/">Mỹ thuật</a></li>
+					<li><a target="_blank" href="http://evan.vnexpress.net/">Văn học</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/the-thao/"><span class="pmenuL"></span><span class="pmenuM">Thể thao</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smsport"><a href="/gl/the-thao/bong-da/">Bóng đá</a></li>
+					<li><a href="/gl/the-thao/tennis/">Tennis</a></li>
+					<li><a href="/gl/the-thao/chan-dung/">Chân dung</a></li>
+					<li><a href="/gl/the-thao/anh-video/">Ảnh - Video</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="http://seagames.vnexpress.net/" target="_blank"><span class="pmenuL"></span><span class="pmenuM">SEA Games 26</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li class="smseagames26"><a href="http://seagames.vnexpress.net/tin/lich-dau/" target="_blank">Lịch đấu</a></li>
+					<li><a href="http://seagames.vnexpress.net/tin/xep-hang/" target="_blank">Bảng xếp hạng</a></li>					
+					<li><a href="http://seagames.vnexpress.net/tin/bong-da/" target="_blank">Bóng đá</a></li>					
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/phap-luat/"><span class="pmenuL"></span><span class="pmenuM">Pháp luật</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smlaw"><a href="/gl/phap-luat/hinh-su/">Hình sự</a></li>
+					<li><a href="/gl/phap-luat/ky-su/">Ký sự</a></li>
+					<li><a href="/gl/phap-luat/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/doi-song/"><span class="pmenuL"></span><span class="pmenuM">Đời sống</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smlife"><a href="/gl/doi-song/cau-chuyen-cuoc-song/">Câu chuyện cuộc sống</a></li>
+					<li><a href="/gl/doi-song/gia-dinh/">Gia đình</a></li>
+					<li><a href="/gl/suc-khoe/">Sức khỏe</a></li>
+					<li><a href="/gl/doi-song/am-thuc/">Ẩm thực</a></li>
+					<li><a href="/gl/suc-khoe/lam-dep/">Làm đẹp</a></li>
+					<li><a href="/gl/doi-song/blog/">Cửa sổ Blog</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/khoa-hoc/"><span class="pmenuL"></span><span class="pmenuM">Khoa học</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smscience"><a href="/gl/khoa-hoc/moi-truong/">Môi trường</a></li>
+					<li><a href="/gl/khoa-hoc/thien-nhien/">Thiên nhiên</a></li>
+					<li><a href="/gl/khoa-hoc/anh/">Ảnh</a></li>
+					<li><a href="/gl/khoa-hoc/ky-thuat-moi/">Công nghệ mới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/vi-tinh/"><span class="pmenuL"></span><span class="pmenuM">Vi tính</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smmicrocalculate"><a href="/gl/vi-tinh/san-pham-moi/">Sản phẩm mới</a></li>
+					<li><a href="/gl/vi-tinh/kinh-nghiem/">Kinh nghiệm</a></li>
+					<li><a href="/gl/vi-tinh/giai-tri/">Giải trí</a></li>
+					<li><a href="/gl/vi-tinh/hoi-dap/">Hỏi đáp</a></li>
+					<li><a href="/gl/vi-tinh/hacker-virus/">Hacker &amp; Virus</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/oto-xe-may/"><span class="pmenuL"></span><span class="pmenuM">Ôtô - Xe máy</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">					
+					<li class="smcar"><a href="/gl/oto-xe-may/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li class="active"><a href="/gl/ban-doc-viet/"><span class="pmenuL"></span><span class="pmenuM">Bạn đọc</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->			
+			
+				<ul class="smenu-bdv">					
+					<li><a href="/gl/ban-doc-viet/khoa-hoc/">Khoa học</a></li>						
+					<li><a href="/gl/ban-doc-viet/doi-song/">Đời sống</a></li>
+					<li><a href="/gl/ban-doc-viet/phap-luat/">Pháp luật</a></li>
+					<li><a href="/gl/ban-doc-viet/xa-hoi/">Xã hội</a></li>
+					<li><a href="/gl/ban-doc-viet/kinh-doanh/">Kinh doanh</a></li>
+					<li><a href="/gl/ban-doc-viet/the-thao/">Thể thao</a></li>
+					<li><a href="/gl/ban-doc-viet/van-hoa/">Văn hoá</a></li>
+					<li><a href="/gl/ban-doc-viet/the-gioi/">Thế giới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/ban-doc-viet/tam-su/"><span class="pmenuL"></span><span class="pmenuM">Tâm sự</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other"></ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/rao-vat/"><span class="pmenuL"></span><span class="pmenuM">Rao vặt</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-raovat">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/cuoi/"><span class="pmenuL"></span><span class="pmenuM">Cười</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-bdv">
+					<li><a href="/gl/cuoi/video/">Video</a></li>
+					<li><a href="/gl/cuoi/tieu-pham/">Tiểu phẩm</a></li>						
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+		</ul>
+	</div><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</div>
+
+		<div id="content">			
+			
+			<div class="content-center fl">			
+			<div class="folder-header">
+	<script type="text/javascript" language="javascript">writeFolderTitle(PAGE_FOLDER);</script>
+	<div class="fr">Th&#7913; hai, 7/11/2011, 09:56 GMT+7</div>
+</div>
+<div class="email-print txtr">
+	<script>
+	writeSociable('http://vnexpress.net/gl/ban-doc-viet/2011/11/thi-truong-gas-nguoi-tieu-dung-hay-can-than/','Thị+trường+gas+-+người+tiêu+dùng+hãy+cẩn+thận','Thị+trường+gas+-+người+tiêu+dùng+hãy+cẩn+thận','sociable',1001430368);
+	</script>
+<font onClick="return EmailSubject(1001430368)"><img border="0" src="/Images/email.gif" align="bottom">&nbsp;E-mail</font>
+&nbsp;&nbsp;&nbsp;<font onClick="return PrintSubject()"><img border="0" src="/Images/print.gif" align="bottom">&nbsp;B&#7843;n In</font>
+</div>
+
+				<div class="content">
+					<div style="overflow:hidden" cpms_content="true">
+				<H1 class=Title>Thị trường gas - người tiêu dùng hãy cẩn thận </H1>
+<P class=Normal><FONT>Tôi là người đã từng có 2 năm trong nghề gas tại Hà Nội. Khi được biết thông tin về <A href="/gl/xa-hoi/2011/11/nuoc-mat-hoc-tro-tien-dua-2-be-tu-nan-do-no-khi-gas-1/" class="">vụ nổ gas ngày 3/11</A> ở đường Tạ Quang Bửu, phường Bách Khoa, quận Hai Bà Trưng Hà Nội, khiến cho 2 cháu bị tử tạn, tôi rất đâu xót. Xin chia sẻ đến quý độc giả và người tiêu dùng những thông tin thực tế mà tôi thấy vô cùng quan trọng, về thực trạng kinh doanh và sử dụng gas tại nội thành Hà Nội hiện nay.<BR><BR>Ngày ra trường với khát vọng và ý chí làm giàu tôi đã đi mọi miền đất nước để tìm hướng đi. Khi ở Hà Nội tôi đã tiếp xúc với nghề gas, với mong muốn tìm hiểu để tìm hướng kinh doanh làm giàu. </FONT></P>
+<H2 class=Lead>Trong 2 năm (2009-2010) tôi đã lăn lộn làm nhân viên chở gas cho 9 cửa hàng gas tại các quận nội thành Hà Nội. Đúc rút 2 năm ấy tôi xin chia sẻ đến quý vị ba vấn đề quan trọng nhất:</H2>
+<P class=Normal>1. Đối với các cửa hàng, các hộ kinh doanh gas trong nội thành Hà Nội :<BR><BR>Trong 9 cửa hàng tôi làm có tới 8 cửa hàng nhân viên là những người dân từ quê lên, dân trí thấp, làm ăn chụp giật, tất cả vì các lợi trước mắt mà gây thiệt hại, nguy hại cho người tiêu dùng.</P>
+<P class=Normal><FONT>Cụ thể các vấn đề đó là: <BR><BR>- Tất cả 9 cửa hàng tôi làm, các hộ kinh doanh này đều sang chiết gas trái phép. Họ sang chiết gas từ các bình gas giá thấp sang bình gas giá cao. Họ sử dụng những niêm phong giả giống niêm phong chính hãng bình gas để chụp lên bình gas sang chiết. Mỗi lần sang chiết gas như vậy họ ăn chênh lệch giá 30.000-50.000 đồng/bình. </FONT></P>
+<P class=Normal><FONT>Chính vì lý do đó dẫn tới hiện tượng các bình gas cũ tồn tại ở các cửa hàng không được đổi bình mới từ công ty sản xuất, mà số lượng bình cũ sẽ tồn đọng và luôn được sử dụng quay vòng tại các cửa hàng hay hộ gia đình. Do đó các bình gas này ngày càng xuống cấp, độ an toàn giảm, những gioăng cao su giữ kín gas sẽ hở gây ra hiện tượng hở gas nguy hiển cho người tiêu dùng trong quá trình sử dụng. Đồng thời quá trình sang chiết gas của các hộ kinh doanh này, chủ yếu sử dụng cách làm thủ công đơn giản, không có thiết bị an toàn dẫn đến nguy hiểm cho người sang chiết và thực tế đã chúng minh có nhiều trường hợp cháy nổ tại các của hàng gas mà nguyên nhân chính là sang chiết gas trái phép. <BR><BR>- Tư tưởng kinh doanh chụp giật, đặt lợi ích trước mắt lên hàng đầu từ người chủ hộ kinh doanh, dẫn đến tạo điều kiện cho các nhân viên chở gas của các hộ kinh doanh thường có những hành vi gây thiệt hại và nguy hiểm cho người tiêu dùng. Cụ thể tôi đã chứng kiến tất cả 9 cửa hàng này, gần như toàn bộ số nhân viên khi giao gas cho khách hàng họ thường có những hành vi sai trái sau :</FONT></P>
+<P class=Normal><FONT>+ Khi giao gas: Nắm bắt tâm lý kém hiểu biết về thiết bị sử dụng gas của người tiêu dùng (chủ yếu phụ nữ và người già) nên hay dùng lời lẽ nói những thiết bị gas như van gas, dây gas bị hỏng, có hở mùi để người tiêu dùng phải thay với giá quá cao so với thực tế, trong khi van gas và dây gas vẫn trong thời gian sử dụng tốt. </FONT></P>
+<P class=Normal><FONT>Thậm chí trong quá trình thay gas lợi dụng khi chủ nhà không để ý các nhân viên này còn tạo ra hở gas bằng cách vặn hở gas ở bình hay bẻ van gas, có những nhân viên chuẩn bị cả kim sắt để chọc thủng dây dẫn gas cao su hoặc dùng dao cứa dây để tạo vết nứt. Sau đó họ báo với chủ nhà rằng thiết bị gas bị hỏng và buộc chủ nhà phải thay với giá rất đắt. Một số trường hợp nhân viên cố tình làm hỏng bếp gas của chủ nhà để mang bếp về cửa hàng sửa lấy tiền. Tuy nhiên trong quá trình sửa đã lắp thiếu các chi tiết của bếp, thậm chí một số cố tình lắp thiếu bộ phận cảm ứng nhiệt của bếp điện (có chức năng tự ngắt , đóng đường dẫn gas ), để đơn giản quá trình đốt cháy gas nhưng làm bếp mất đi khả năng tự ngắt an toàn khi xảy ra trong quá trình đun nấu như tràn nước hay gió lùa vào bếp khi bếp đang cháy.<BR><BR>Đặc biệt nguy hiểm hơn khi nhân viên thay gas cố tình làm hỏng thiết bị gas, như trường hợp dùng dao cứa dây cao su để tạo vết nứt nhưng chưa dây chưa rách, tuy nhiên có khi chủ nhà không thay dây như mong muốn, nhân viên đó vẫn để nguyên vết nứt đó ra về, phó mặc cho chủ nhà, dẫn đến nguy cơ tiềm ẩn cháy nổ.<BR><BR>Tôi xin đưa ra ví dụ như với van an toàn của hãng GOLDSUN với giá bán thực tế là 100.000 đồng/chiếc nhân viên và cửa hàng gas có thể bán đủ các mức giá từ 200.000 ~ 400.000 đông/chiếc, thậm chí có nhân viên đã thay van với giá 960.000 đồng/chiếc. Còn dây dẫn gas giá thực tế 20.000-50.000 đồng/chiếc ( chiều dài 1m) thì họ có thể thay từ 100.000đồng~300.000 đồng/chiếc. Tùy theo sự kém hiểu biết của chủ nhà mà nhận viên giao gas hoặc chủ cửa hàng đưa ra những mức giá khác nhau.<BR><BR>Việc tạo ra cơ chế cho nhân viên thay thiết bị gas có 30% hoa hồng khi trừ đi chi phí mà chủ hộ cửa hàng mua thiết bị gas ban đầu đã tạo điều kiện và càng khiến cho các nhân viên này có thêm hành vi sai trái, thiếu đạo đức, gây thiệt hại và nguy hiển cho người tiêu dùng.<BR><BR>Ví dụ như, van gas chủ cửa hàng nhập với giá 50.000đồng/chiếc. Nếu nhân viên thay là 350.000đồng/chiếc, thì nhân viên A sẽ được ( 350.000-50.000)/3 = 100.000 đồng/chiếc. Vậy chủ cửa hàng thực tế sẽ thu ( 350.000 - 100.000 = 250.000 đồng/chiếc (lãi 200.000 đồng/chiếc so với giá bán thực tế lãi 50.000 đồng/chiếc ). </FONT></P>
+<P class=Normal><FONT>- Khi bảo dưỡng gas: Các cửa hàng gas từ khi mọc ra như nấm đã có hình thức bảo dưỡng gas miễn phí cho các hộ gia đình. Nhưng thực tế trong quá trình thực hiện, một số nhân viên của các của hàng gas khi vào nhà dân thường lau chùi bếp rất qua loa, thậm chí không có bảo dưỡng mà chỉ mục đích dán số của cửa hàng mình đè lên số của các của hàng khác để tranh thị phần. Đồng thời một số có hành vi sai trái như làm hỏng van gas, dây gas, để thay lấy tiền hoặc làm mất uy tín cửa hàng gas khác. Thậm chí có những trường hợp nhân viên cửa hàng gas còn trộm cắp tài sản như điện thoại, tiền bạc của người dân mà sau khi những nhân viên này ra về chủ nhà mới phát hiện mất đồ.</FONT></P>
+<P class=Normal><FONT>- Một số các của hàng gas, phương tiện chở gas cũ nát, không an toàn, một số nhân viên chở gas phóng nhanh vượt ẩu gây tai nạn cho người đi đường. Thực tế tôi đã được thấy một tổ dân phố làm đơn lên chính quyền để có biện pháp xử lý cửa hàng gas có nhân viên phóng nhanh vượt ẩu, đi xe gây nguy hiểm cho người dân nơi họ sinh sống.</FONT></P>
+<P class=Normal><FONT>- Một số các của hàng khi tuyển nhân viên mới, không có đào tạo bài bản về những kiến thức sử dụng gas và giải quyết sự cố về gas. Do đó xảy ra một số vụ tai nạn do nhân viên mới không nắm vững kỹ thuật trong quá trình thay gas hay sử lý sự cố dò gas dẫn đến chính nhân viên đó gây ra cháy nổ cho hộ gia đình sử dụng.<BR><BR><STRONG DESIGNTIMESP="7749">2. Trách nhiệm các cơ quan chức năng<BR></STRONG><BR>Tôi nhận thấy sự thiếu trách nhiệm của một số bộ phận cơ quan chức năng quản lý thị trường gas tại nội thành Hà Nội. Tôi trong quá trình làm tại các cửa hàng, khi các chủ hộ kinh doanh giao việc sang chiết gas trái phép cho tôi, tôi đã không đồng tình và xin nghỉ. Tuy nhiên trước sự an toàn của người tiêu dùng tôi đã gọi điện đến quản lý thị trường nơi 3 cửa hàng sang chiết gas trái phép mà tôi biết. Tôi đã cung cấp đầy đủ địa chỉ, thời gian các cửa hàng này thực hiện việc sang chiết. Tuy nhiên tôi đã không thấy sự can thiệp nào của các cơ quan chức năng này. Và theo như tôi biết hiện nay các của hàng này vẫn đang thực hiện việc sang chiết gas trái phép, gây nguy hiểm cho người dân. Tôi rất muốn qua vụ việc nổ gas 3/11 các cơ quan chức năng cần ý thức và nâng cao trách nhiệm với người dân hơn nữa. Phải có cơ chế giám sát thường xuyên đến hoạt động kinh doanh của các hộ kinh doanh gas. Phải thật xử lý mạnh đến các cửa hàng sang chiết gas trái phép , là hiểm họa cho người tiêu dùng. Đồng thời đem đến an toàn cho nhân dân và góp phần làm trong sạch và chuyên nghiệp thị trường kinh doanh gas tại nội thành Hà Nội và trên cả nước.<BR><BR><STRONG DESIGNTIMESP="7754">3- Đối với người tiêu dùng :</STRONG><BR><BR>Tôi thấy chủ yếu người tiêu dùng là chị em phụ nữ , nhưng đa phần chưa thật sự hiểu biết đầy đủ về những thiết bị gas và cách sử dụng gas đúng và an toàn. Tất cả những vụ nổ gas theo tôi biết chủ yếu do người tiêu dùng không hiểu biết về cách sử dụng gas đúng, an toàn và xử lý xự số khi xảy ra rò rỉ gas. Để tránh những thiệt hại về kinh tế và đảm bảo an toàn tính mạng cho gia đình mình và đồng thời bảo vệ mình trước những hộ kinh doanh gas thiếu lương tâm và kinh doanh sai trái. Tôi đề nghị mọi người phải thật sự ý thức và nghiêm túc thực hiện những quy tắc sử dụng gas an toàn và xử lý sự cố dò dỉ gas:<BR><BR>- Khi mua bình gas, phải chọn những bình gas mới, còn nguyên niêm phong cổ bình, đặc biệt đối các hãng gas như Shell, Total, Elf phải lấy gas tại các đại lý chính hãng. Khi thay gas đề nghị nhân viên vặn chặt van an toàn và bình gas, đồng thời phải giám sát chặt chẽ quá trình thay gas của nhân viên.<BR><BR>- Trong quá trình đun nấu sử dụng, phải giám sát thường xuyên, để nếu có xảy ra sự cố còn kịp thời xử lý.</FONT></P>
+<P class=Normal><FONT>- Sau khi sử dụng cần tắt hết bếp ( đặc biệt lưu ý với những bếp điện phải kiểm tra vị trí tắt của công tắc bếp ). Đồng thời khóa van an toàn ngay sau khi ngừng sử dụng.<BR><BR>- Kiểm tra định kỳ dây dẫn gas, van an toàn, các điểm nối dây dẫn gas ở bếp và ở van an toàn bằng quét nước xà phòng. Tuyệt đối không được dùng bật lửa để dò tìm, nếu phát hiện thấy có hiện tượng rạn nứt dây hay hở van gas phải khóa van gas và thông báo cho đại lý hoặc nhà phân phối để thay dây hoặc thay van gas.</FONT></P>
+<P class=Normal><FONT>- Nên sử dụng loại bếp gas có bộ phận cảm ứng nhiệt tự động ngắt gas khi nước tràn hoặc gió lùa làm bếp tắt lửa. Nếu bếp không có bộ phận cảm ứng nhiệt thì khi đun phải thường xuyên chú ý để kịp thời tắt công tắc bếp nếu bếp bị tắt lửa do nước tràn hoặc gió lùa. Chỉ bật lại bếp khi không còn mùi gas trong khu vực bếp.<BR><BR>- Đối với dây gas nên 1 năm thay một lần. Còn van gas, 2 năm thay một lần.<BR><BR>- Xử lý sự cố rò rỉ gas<BR><BR>Thực hiện theo các bước:<BR><BR>+ Bước 1 : Khi phát hiện có mùi gas phải lập tức tắt các nguồn lửa, khoá van bình gas. Tuyệt đối không được đóng hoặc ngắt công tắc điện, quạt điện làm phát sinh tia lửa điện gây cháy nổ khí gas.<BR>+ Bước 2 : Mở thoáng cửa ra vào thông với gian bếp, dùng các dụng cụ thủ công như quạt tay bìa cát tông để quạt đẩy khí gas ra ngoài.<BR>+ Bước 3 : Quét nước xà phòng lên van an toàn và dây dẫn gas để tìm chỗ rò rỉ, tuyệt đối không dùng bật lửa để dò tìm.<BR>+ Bước 4 : Gọi điện cho nhà cung cấp để cùng xử lý sự cố.<BR><BR>Trên đây là những tâm huyết của tôi, mong muốn có ý kiến được đóng góp để trước hết người tiêu dùng có những kiến thức để trong quá trình sử dụng gas được an toàn, đồng thời góp phần xây dựng một thì trường gas an toàn và lành mạnh. Bản thân tôi từ thực trạng gas tại nội thành với những mặt tiêu cực như vậy, tôi đã rất mong muốn xây dựng một công ty sản xuất và phân phối gas chuyên nghiệp lớn nhất Hà Nội để đem đến cho người tiêu dùng một dịch vụ văn minh chuyên nghiệp an toàn, tất cả vì sự an toàn và hài lòng của khách hàng. </FONT></P>
+<P class=Normal><FONT>Hiện tại tôi chưa thể triển khai, do đó tôi mong muốn các công ty phân phối gas, các của hàng và đại lý hãy đặt lương tâm đạo đức và trách nhiệm với xã hội , hãy bỏ cung cách làm ăn chụp giật và cái lợi trước mắt để xây dựng một thị trường gas lành mạnh và thật sự phục vụ vì sự an toàn và hài lòng của người tiêu dùng.</FONT></P>
+<P class=Normal><FONT><STRONG DESIGNTIMESP="7784"> LCL</STRONG></FONT></P>
+			</div>
+			<div class="tag-parent"><img src='/Images/tags.gif' class="tag"><div class="tag-pos"><h3 class="tag-text"><a href='/tag/18508/gas/'>gas</a>, <a href='/tag/35428/thi-truong-gas/'>thị trường gas</a>, <a href='/tag/29437/gas-lau/'>gas lậu</a></h3></div></div>
+			<div class="box-item" style="margin-top:5px;margin-bottom:5px;">
+			
+					<div style="border:1px solid #b7beb6; padding: 2px 3px;">
+						<div style="background-color: #d5d9de; padding: 5px 10px; margin-bottom:13px; font-weight:bold;">									
+							<table cellspacing="0" cellpadding="0" border="0" width="100%">
+								<tr>
+									<td>
+										<a name=aComment>&#221; ki&#7871;n b&#7841;n &#273;&#7885;c (<label style="color:#0033FF">3</label>)</a>
+									</td>
+									<td style="text-align:right; font-family:arial; font-size:11px; font-weight: normal;">
+										S&#7855;p x&#7871;p theo: 
+										<select name="cboOrder" id="cboOrder" onchange="OrderComment(this.value)" style="font-family:arial; font-size:11px; font-weight: normal;">
+											<option value="0" >Mới nhất</option>
+											<option value="1" selected>Cũ nhất</option>
+										</select>									
+									</td>
+								</tr>
+							</table>																		
+						</div>
+						<div style="height:400px; padding:0px 8px; overflow:auto; overflow-x: hidden;">								
+															
+							<div class="comment_ct">
+								<P class=Title>"Hãy là những người tiêu dùng thông thái"</P>
+<P class=Normal>Hội bảo vệ người tiêu dùng sẽ khuyên chúng ta là "Hãy là những người tiêu dùng thông thái" còn họ lập ra hội chỉ chờ có cơ hội đến xin tiền những người vi phạm, người tiêu dùng không nhờ cậy được gì cả. Ở VN nam ta hội gì cũng có, luật gì cũng có, nhưng chỉ là hình thức thôi, thậm trí chỉ là những tổ chức vòi tiền, hoặc dựa vào luật đó để có cớ để chối tội, rũ trách nhiệm thôi. Tất cả các vụ tai nạn xảy ra thì cơ quan chức năng đến chỉ tìm nguyên nhân, quy trách nhiệm, còn các biện pháp phòng ngừa trước và sau khi xảy ra thì không bao giờ có.</P>
+<P class=Normal><I>( Hoàng Mai )</I></P>
+							</div>									
+						
+							<hr />
+														
+							<div class="comment_ct">
+								<P class=Title>Cảm ơn bạn LCL</P>
+<P class=Normal>Cảm ơn bạn LCL với những thông tin của bạn nhưng bạn có thể nói tên cụ thể và chỉ đích danh người trong bài của bạn hay những mẹo, mách nước cho người sử dụng không<BR><BR>VD: Trong 9 cửa hàng bạn làm có tới 8 cửa hàng nhân viên là những người dân từ quê lên, dân trí thấp, làm ăn chụp giật, tất cả vì các lợi trước mắt mà gây thiệt hại, nguy hại cho người tiêu dùng vậy cửa hàng còn lại tên là gì và ở đâu không<BR><BR>Các mánh khóe của nhân viên cửa hàng nhằm gây thiệt hại và tài chính cũng như không đảm bảo an toàn cho người sử dụng thì có cách nào biết và tránh được<BR><BR>Với cơ quan chức năng thì làm sao kiểm tra cũng như chế tài xử phạt với các hành động gây nguy hiểm cho người dân như bạn LCL đã nêu.<BR><BR>Ngoài ra là trách nhiệm của cơ quan chức năng hay của các bên liên quan như bảo hiểm, nhà cung cấp gas nếu như có sự cố xảy ra<BR><BR>Từ vụ nổ gas trên phố Tạ Quang Bửu. Nhiều người mới giật mình với cách mình sử dụng và tiêu thụ gas. Đề nghị các cơ quan như Cục bảo vệ người tiêu dùng ban hành quy định về việc khiếu nại với người tiêu dùng đặc biệt trong lĩnh vực này.<BR><BR>Xin cảm ơn</P>
+<P class=Normal><I>( Nguyễn Ngọc Đăng )</I></P>
+							</div>									
+						
+							<hr />
+														
+							<div class="comment_ct">
+								<P class=Title>Cảm ơn lời chia sẻ thiết thực</P>
+<P class=Normal>Quả là tác giả bài viết là người có tâm với nghề. Thật cảm phục anh và cảm ơn những thông tin và kiến thức Anh chia sẻ. Rất mong Các cơ quan chức năng thực hiện triệt để và nghiêm túc trong vấn đề quản lý các đại lý bán gas. Hỡi những nhà kinh doanh, hãy kinh doanh từ tâm của mình,ông trời sẽ quả báo nếu như các người làm ăn sai trái, vô đạo đức.</P>
+<P class=Normal><I>( Người tiêu dùng )</I></P>
+							</div>									
+						
+						</div>
+						<div style="background-color: #d5d9de; padding: 5px 10px; margin-top:13px; min-height:12px;">
+							
+						</div>
+						<!--<script type="text/javascript" language="javascript" src="/Library/Common/jquery.js"></script>-->
+						<script type="text/javascript" language="javascript">
+							$(document).ready(function(){
+								//$('div.comment_ct p.Title').css('font-size',17);
+							});
+						</script>
+						<script type="text/javascript" language="javascript">
+							function OrderComment(i){
+								setCookie('VOrderComment', '', '', i);
+								location.href = '/gl/ban-doc-viet/2011/11/thi-truong-gas-nguoi-tieu-dung-hay-can-than#aComment';
+							}									
+						</script>
+					</div>
+					
+<p id=pShow><a class=SForm onclick="ShowFormComment()"><img src="/Images/Y-kien-cua-ban.gif" border="0" style="cursor:pointer" alt="Ý kiến của bạn" /></a></p>
+<div id="dComment" class="dtopitem_all">
+	<form method="post" name="frmComment" id="frmComment" target="_blank" onsubmit="submitForm(this);return false;" action="/service/comment/submit.asp">
+		<div class="adword-hdf">&nbsp;</div>
+		<div class="adword adword-middle" style="padding-top:0px;">					
+			<div class="adword-nav2 fl" style="padding-top:10px; width:476px; background-color:#ffffff">
+				<div style="padding-bottom:5px; overflow:hidden;">
+					<div class="fl" style="width:60%">
+						<input type="text" value="Họ tên" name="txtAddedBy" id="txtAddedBy" style="width:280px;" size="29" onfocus="NameOnFocus(this)" onblur="NameOnBlur(this)" onkeyup="initTyper(this)" class="adword-textbox"">
+					</div>
+					<div class="fr" style="width:180px;">
+						<input type="text" value="Email" name="txtAddedByEmail" id="txtAddedByEmail" style="width:172px" size="29" onfocus="EmailOnFocus(this)" onblur="EmailOnBlur(this)" class="adword-textbox">
+					</div>
+				</div>
+				<div style="padding-bottom:5px; overflow:hidden;">
+					<div class="fl" style="width:60%">
+						<input type="text" value="Tiêu đề" name="txtAddedTitle" id="txtAddedTitle" style="width:280px;" size="29" onfocus="TitleOnFocus(this)" onblur="TitleOnBlur(this)" onkeyup="initTyper(this)" class="adword-textbox"">
+					</div>
+					<div class="fr" style="width:180px;">
+						<input type="text" value="Mã xác nhận" name="txtValidCode" id="txtValidCode" style="width:99px;" size="29" onfocus="ValidateCodeOnFocus(this)" onblur="ValidateCodeOnBlur(this)" onkeyup="initTyper(this)" class="adword-textbox"">
+						<img src="/Service/Vote/securelog/image.asp" name="imgValidCode" id="imgValidCode" style="vertical-align:top; height:20px; padding-top:1px">
+						&nbsp;<img src="/Images/change-image.gif" alt="Thay hình khác" onclick="ChangeImage()" style="vertical-align:top;cursor:pointer; padding-top:1px" />
+					</div>
+				</div>
+				<div style="overflow:hidden;">
+					<div class="fl" style="width:60%">
+						<input type="submit" value="G&#7917;i To&#224; so&#7841;n" name="B1" class="SForm">&nbsp;<input type="button" value="Xo&#225; tr&#7855;ng" name="B2" class="SForm" onclick="InputDefault();">&nbsp;<input type="button" value="&#272;&#243;ng l&#7841;i" class="SForm" onclick="ShowFormComment()">
+						<input type="hidden" name="txtT" id="txtT" value="1001430368" />
+						<input type="hidden" name="txtS" id="txtS" value="0" />
+						<input type="hidden" name="txtF" id="txtF" value="109" />
+						<input type="hidden" name="txtL" id="txtL" value="/gl/ban-doc-viet/2011/11/thi-truong-gas-nguoi-tieu-dung-hay-can-than" />
+					</div>
+					<div class="fl" style="width:40%; text-align:right;">
+						<input type="radio" name="optInput" value="0" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(0)">Off
+						<input type="radio" name="optInput" value="1" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(1)" checked>Telex
+						<input type="radio" name="optInput" value="2" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(2)">VNI
+						<input type="radio" name="optInput" value="3" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(3)">VIQR								
+					</div>
+				</div>				
+			</div>			
+			<div class="adword-nav2 fl" style="padding-top:0px;">
+				<textarea rows="10" name="txtAddedContent" id="txtAddedContent" cols="43" onkeyup="initTyper(this)" class="SForm" style="width: 470px"></textarea>				
+			</div>
+		</div>
+		<div class="adword-ftf">&nbsp;</div>
+	</form>
+</div>
+<script type="text/javascript">
+	var bshow = false;
+	
+	function ShowFormComment()	{
+		if(bshow){
+			gmobj('dComment').style.display="block";
+			gmobj('pShow').style.display="none";
+			bshow=false;
+		}
+		else{
+			gmobj('dComment').style.display="none";
+			gmobj('pShow').style.display="block";
+			bshow=true;
+		}
+	}
+	ShowFormComment();
+	
+	function submitForm(theform){
+		document.frmComment.txtAddedBy.value = Trim(document.frmComment.txtAddedBy.value);
+		if (document.frmComment.txtAddedBy.value == '' || document.frmComment.txtAddedBy.value == 'Họ tên')
+		{
+			alert('Xin hay nhap Ho ten!');
+			document.frmComment.txtAddedBy.focus();
+			return;
+		}
+
+		if ((SEmail = CheckEmailAddress(document.frmComment.txtAddedByEmail.value))=='')
+		{
+			alert('Dia chi Email khong hop le!');
+			document.frmComment.txtAddedByEmail.focus();
+			return;
+		}
+
+		document.frmComment.txtAddedByEmail.value = SEmail;
+
+		document.frmComment.txtAddedTitle.value = Trim(document.frmComment.txtAddedTitle.value);
+		if (document.frmComment.txtAddedTitle.value == '' || document.frmComment.txtAddedTitle.value == 'Tiêu đề')
+		{
+			alert('Xin hay nhap Tieu de!');
+			document.frmComment.txtAddedTitle.focus();
+			return;
+		}
+		
+		document.frmComment.txtValidCode.value = Trim(document.frmComment.txtValidCode.value);
+		if (document.frmComment.txtValidCode.value == '' || document.frmComment.txtValidCode.value == 'Mã xác nhận')
+		{
+			alert('Xin hay nhap Ma xac nhan!');
+			document.frmComment.txtValidCode.focus();
+			return;
+		}
+
+		document.frmComment.txtAddedContent.value = Trim(document.frmComment.txtAddedContent.value);
+		if (document.frmComment.txtAddedContent.value == '')
+		{
+			alert('Xin hay nhap Noi dung!');
+			document.frmComment.txtAddedContent.focus();
+			return;
+		}
+
+		if (!confirm('Gui yeu cau?'))
+			return;
+			
+		var status = AjaxRequest.submit(
+			theform
+			,{
+				'onSuccess':function(req){
+					if(req.responseText=='ValidCode'){
+						alert('Ma xac nhan khong dung!');
+					}
+					else{
+						alert(req.responseText);
+						ResetDefault();
+					}
+				}				
+				,'onError':function(req){
+					alert(req.responseText);
+				}
+			}
+		);
+		return status;
+	}
+	
+	function ChangeImage() {			
+		var ranNum = Math.floor(Math.random() * 5);
+
+		AjaxRequest.get(
+		  {
+			'onSuccess':function(req){
+				gmobj('imgValidCode').src = "/Service/Vote/securelog/image.asp?Code=" + ranNum;						
+			}
+			,'onError':function(req){					
+			}
+		  }
+
+		)
+    }
+	
+	function InputDefault() {
+		document.frmComment.txtAddedBy.value = 'Họ tên';
+		document.frmComment.txtAddedBy.className = 'adword-textbox';
+		document.frmComment.txtAddedByEmail.value = 'Email';
+		document.frmComment.txtAddedByEmail.className = 'adword-textbox';		
+		document.frmComment.txtAddedTitle.value = 'Tiêu đề';
+		document.frmComment.txtAddedTitle.className = 'adword-textbox';
+		document.frmComment.txtValidCode.value = 'Mã xác nhận';		
+		document.frmComment.txtValidCode.className = 'adword-textbox';
+		document.frmComment.txtAddedContent.value = '';
+		document.frmComment.txtAddedContent.focus();
+	}
+	
+	function ResetDefault() {
+		InputDefault();
+		ChangeImage();
+		
+		ShowFormComment();
+				
+	}
+</script>
+
+			</div>
+			
+			<div style="margin-top:5px;margin-bottom:5px;">							
+				<script language="javascript">					
+					Poly_ShowArticlebanner();										
+				</script>				
+			</div>
+		</div>				
+		<div class="folder-news">
+	<div class="othernews-header">
+		<div class="othernews-title fl">C&#225;c tin kh&#225;c</div>
+		<div class="fr txtr" style="margin-bottom:5px;"><label onClick="history.go(-1)" class="Time" style="cursor:pointer">[<B>Tr&#7903; v&#7873;</B>]</label></div>
+	</div>
+	<div class="othernews">
+		<ul>
+		<li><a href="/gl/ban-doc-viet/2011/11/ngui-thay-mui-gas-trong-nha-ban-se-lam-gi/" class="link-othernews">Ngửi thấy mùi gas trong nhà, bạn sẽ làm gì?</a>&nbsp;<img border="0" src="/Images/video2.gif" />&nbsp;
+<span style="color: #909090">&nbsp;(05/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/11/kieu-hinh-pham-toi-moi/" class="link-othernews">Kiểu hình phạm tội mới</a><span style="color: #909090">&nbsp;(05/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/11/nhung-van-de-can-giai-dap-khi-su-dung-binh-gas-bep-gas-1/" class="link-othernews">Những vấn đề cần giải đáp khi sử dụng bình gas, bếp gas</a><span style="color: #909090">&nbsp;(04/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/11/dung-do-loi-binh-gas-loi-tai-chinh-ta/" class="link-othernews">Đừng đổ lỗi bình gas, lỗi tại chính ta!</a><span style="color: #909090">&nbsp;(03/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/11/chieu-lua-doanh-nghiep/" class="link-othernews">Chiêu lừa doanh nghiệp</a><span style="color: #909090">&nbsp;(02/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/11/phan-lan-chi-la-viec-tat-yeu-toi-thieu-cua-giao-thong-do-thi/" class="link-othernews">Phân làn chỉ là việc tất yếu tối thiểu của giao thông đô thị</a><span style="color: #909090">&nbsp;(01/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/10/giai-phap-chong-lu-trong-thanh-pho/" class="link-othernews">Giải pháp chống lũ trong thành phố</a><span style="color: #909090">&nbsp;(31/10)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/10/vo-no-nhin-tu-goc-do-tam-ly-va-kinh-te/" class="link-othernews">Vỡ nợ nhìn từ góc độ tâm lý và kinh tế</a><span style="color: #909090">&nbsp;(31/10)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/10/di-tim-loi-giai-cho-bai-toan-ket-xe/" class="link-othernews">Đi tìm lời giải cho bài toán kẹt xe</a><span style="color: #909090">&nbsp;(31/10)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/10/nan-moc-tui-tren-xe-buyt-khong-chi-o-ha-noi/" class="link-othernews">Nạn móc túi trên xe buýt không chỉ ở Hà Nội</a><span style="color: #909090">&nbsp;(30/10)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/10/hieu-the-nao-ve-thoa-thuan-nguyen-tac-giai-quyet-van-de-tren-bien-viet-trung/" class="link-othernews">Hiểu thế nào về thỏa thuận nguyên tắc giải quyết vấn đề trên biển Việt-Trung</a><span style="color: #909090">&nbsp;(29/10)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/10/phong-bi-cac-goc-nhin-1/" class="link-othernews">Phong bì - các góc nhìn</a><span style="color: #909090">&nbsp;(29/10)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/10/trao-giai-cuoc-thi-nhung-doi-tay-ky-dieu/" class="link-othernews">Trao giải cuộc thi 'Những đôi tay kỳ diệu'</a><span style="color: #909090">&nbsp;(28/10)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/10/giai-phap-cho-cac-van-nan-do-thi/" class="link-othernews">Giải pháp cho các vấn nạn đô thị</a><span style="color: #909090">&nbsp;(28/10)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/10/lan-chiem-le-duong-thu-pham-chinh-gay-ket-xe/" class="link-othernews">Lấn chiếm lề đường - thủ phạm chính gây kẹt xe</a><span style="color: #909090">&nbsp;(26/10)</span></li>
+		</ul>
+	</div>
+</div>
+
+		</div>
+	<div class="content-left fl">		
+	<div class="linksite-box" style="padding:0px;">
+	<img alt="Link Site" src="/Images/Linksite/site2.gif" usemap="#ctmap" class="img-linksite"/>
+	<map id="ctmap" name="ctmap">
+		<area shape="rect" coords="6,0,72,28" href="http://ngoisao.net/" target="_blank" title="ngoisao.net" />
+		<area shape="rect" coords="83,0,140,28" href="http://sohoa.vnexpress.net/" target="_blank" title="sohoa.vnexpress.net" />		
+		<area shape="rect" coords="152,0,215,28" href="http://gamethu.vnexpress.net/" target="_blank" title="gamethu.vnexpress.net" />
+		<area shape="rect" coords="223,0,296,28" href="http://vieclam.vnexpress.net/" target="_blank" title="viec lam" />
+	</map>
+</div>
+	<div class="box-item">		
+		<script type="text/javascript">
+			cpms_Ap.typ = 2;
+			cpms_Ap.ste = 1;
+			cpms_Ap.reg = 0;
+			cpms_Ap.fol = 109;
+			cpms_Ap.dof = 0;
+			cpms_Ap.wdt = 300;
+			
+			cpms_Ap.itf = 2;
+			
+			cpms_Ap.ShowAd();
+		</script>
+	</div>
+	<TABLE cellSpacing=0 cellPadding=3 width="100%" bgColor=#dfdfdf border=0>
+<TR>
+<TD><FONT size=2>Bài viết của độc giả trên chuyên mục này không nhất thiết trùng với quan điểm của tòa soạn, và không có nhuận bút.</FONT></TD></TR></TABLE>
+<Script language="JavaScript">Poly_ShowLogoLeft(2)</Script>
+<TABLE cellSpacing=1 width=315 bgColor=#800040 border=0>
+<TR>
+<TD class="BoxTitle" align="center"> Bài viết nhiều ý kiến phản hồi nhất </TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=1 cellPadding=1 width="100%" border=0>
+<TR>
+<TD class=BoxLink bgColor=#ffffff><A href="/gl/ban-doc-viet/2011/10/vi-co-gi-bo-truong-cam-quan-chuc-gtvt-choi-golf/" class="BoxLink"><FONT color=#ff0000><STRONG DESIGNTIMESP="45">Vì cớ gì Bộ trưởng cấm quan chức GTVT chơi golf?</STRONG></FONT></A></TD>
+<TD class=BoxLink align=right bgColor=#ffffff><A href="/gl/ban-doc-viet/2011/10/vi-co-gi-bo-truong-cam-quan-chuc-gtvt-choi-golf/" class="BoxLink"><IMG border=1 width="130" height="100" src="/Files/Folder/00/6d/choi-golf.jpg"></A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#ffffff><A href="/gl/ban-doc-viet/van-hoa/2011/10/cau-cua-mieng-co-gi-ma-khung-khieng/" class="BoxLink"><FONT color=#ff0000><STRONG>Câu cửa miệng có gì mà khụng khiệng</STRONG></FONT></A></TD>
+<TD class=BoxLink align=right bgColor=#ffffff><A href="/gl/ban-doc-viet/van-hoa/2011/10/cau-cua-mieng-co-gi-ma-khung-khieng/" class="BoxLink"><IMG border=1 width="130" height="100" src="/Files/Folder/00/6d/satthu.jpg"></A></TD></TR></TABLE></TD></TR></TABLE>
+<TABLE cellSpacing=0 cellPadding=3 width=311 bgColor=#808000 border=0>
+<TR>
+<TD bgColor=#dfdfdf colSpan=2 class="Normal" align="center"><STRONG DESIGNTIMESP="22255"><FONT face=Verdana color=#800000 size=2>Topic nóng</FONT></STRONG></TD></TR>
+<TR>
+<TD bgColor=#ffffff colSpan=2> <A href="/GL/Topic/?ID=5720" class=""><IMG border=1 width="300" height="82" src="/Files/Folder/00/6d/camxuc1.jpg"></A></TD></TR>
+<TR>
+<TD bgColor=#ffffff class="Image" align="center"><STRONG DESIGNTIMESP="22264">Cảm xúc âm nhạc</STRONG></TD>
+<TD bgColor=#ffffff class="BreakLine"><FONT color="#ffffff"> </FONT></TD></TR>
+<TR>
+<TD bgColor=#ffffff> <A href="/GL/Topic/?ID=5989" class=""><IMG border=1 width="300" height="82" src="/Files/Folder/00/6d/tien.jpg"></A></TD>
+<TD bgColor=#ffffff class="BreakLine"><FONT color="#ffffff"> </FONT></TD></TR>
+<TR>
+<TD bgColor=#ffffff class="Normal" align="center"> <A href="/GL/Topic/?ID=5989" class="Image"><STRONG DESIGNTIMESP="22275">Tôi muốn giàu</STRONG></A></TD>
+<TD bgColor=#ffffff class="BreakLine"><FONT color="#ffffff"> </FONT></TD></TR>
+<TR>
+<TD bgColor=#ffffff> <A href="/GL/Topic/?ID=6213" class=""><IMG border=1 width="300" height="82" src="/Files/Folder/00/6d/kyuc.jpg"></A></TD>
+<TD bgColor=#ffffff class="BreakLine"><FONT color="#ffffff"> </FONT></TD></TR>
+<TR>
+<TD bgColor=#ffffff>
+<P class=Image align=center><STRONG DESIGNTIMESP="22285"> </STRONG><A href="/GL/Topic/?ID=6213" class="Image"><STRONG DESIGNTIMESP="22287">Ký ức Hà Nội</STRONG></A><FONT color=#ff0000></P></FONT></TD>
+<TD bgColor=#ffffff class="BreakLine"><FONT color="#ffffff"> </FONT></TD></TR></TABLE>
+<TABLE cellSpacing=1 width=210 bgColor=#800040 border=0>
+<TR>
+<TD class="BoxTitle" align="center"> <A href="/GL/Topic/?ID=5435" class="Image"><FONT face=Verdana color=#ffffff size=2><STRONG DESIGNTIMESP="29447">Cuộc sống qua ống kính độc giả</STRONG></FONT></A></TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=1 cellPadding=1 width=305 border=0>
+<TR>
+<TD class=BoxLink bgColor=#ffffff><A href="/GL/Topic/?ID=5435" class="BoxLink"><IMG border=1 width="295" height="295" src="/Files/Folder/00/6d/mayanh.jpg"></A></TD></TR></TABLE>
+<P class=Normal align=center><FONT color=#ffffff>Chia sẻ ảnh của bạn </FONT><A href="/ContactUs/?id=bandocviet@vnexpress.net" class="Normal"><FONT color=#ffffff>tại đây</FONT></A></P></TD></TR></TABLE>
+<A href="/GL/Topic/?ID=6632" class="Normal"></A>
+<div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(139);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="fl" id="ListItem139">
+		<script type="text/javascript" language="javascript">showlistitem(3, 139, 4);</script>
+	</div>
+	<div class="box-middle1 list-item fl" style="height:5px;padding-top:0px;padding-bottom:0px;">&nbsp;</div>	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+<div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(125);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="fl" id="ListItem125">
+		<script type="text/javascript" language="javascript">showlistitem(5, 125, 4);</script>
+	</div>
+	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+
+<TABLE cellSpacing=1 cellPadding=0 width=278 bgColor=#808000 border=0>
+<TR>
+<TD class="BoxTitle" align="center"> <FONT face=Verdana size=2>Video</FONT></TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=1 cellPadding=1 width="100%" border=0>
+<TR>
+<TD bgColor=#ffffff class="Normal" align="center"><A href="/gl/ban-doc-viet/2010/10/3ba21aa9/" class="Image"><STRONG DESIGNTIMESP="17151">Vật thể bay lạ ở Hà Nội</STRONG></A></TD>
+<TD bgColor=#ffffff class="Normal" align="center"><A href="/gl/ban-doc-viet/xa-hoi/2010/09/3ba2064a/" class="Image"><STRONG DESIGNTIMESP="17155">Tàu điện xưa</STRONG></A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#ffffff><A href="/gl/ban-doc-viet/2010/10/3ba21aa9/" class="BoxLink"><IMG border=1 width="130" height="100" src="/Files/Folder/00/6d/vat-the-bay-la-hanoi-1.jpg"></A></TD>
+<TD class=BoxLink align=right bgColor=#ffffff>
+<A href="/gl/ban-doc-viet/xa-hoi/2010/09/3ba2064a/" class="Normal"><IMG border=1 width="130" height="100" src="/Files/Folder/00/6d/tau1.jpg"></A></TD></TR></TABLE>
+<TABLE cellSpacing=0 cellPadding=3 width="100%" bgColor=#800000 border=0>
+</TABLE>
+<P class=Normal align=left><FONT face=Verdana color=#ffffff size=1>Chia sẻ clip của bạn </FONT><A href="/ContactUs/?id=bandocviet@vnexpress.net" class="Normal"><FONT face=Verdana color=#ffffff size=1>tại đây</FONT></A> </P></TD></TR></TABLE>
+<TABLE cellSpacing=0 cellPadding=3 width="100%" bgColor=#dfdfdf border=0>
+<TR>
+<TD><STRONG DESIGNTIMESP="18107"></STRONG></TD></TR></TABLE>
+<TABLE cellSpacing=0 cellPadding=3 width=311 bgColor=#dfdfdf border=0>
+</TABLE>
+<div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(132);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="fl" id="ListItem132">
+		<script type="text/javascript" language="javascript">showlistitem(4, 132, 8);</script>
+	</div>
+	<div class="box-middle1 list-item fl" style="height:5px;padding-top:0px;padding-bottom:0px;">&nbsp;</div>	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+ 
+<TABLE cellSpacing=0 cellPadding=0 width=300 border=0>
+</TABLE>
+<TABLE cellSpacing=1 cellPadding=0 width=210 bgColor=#ffffff border=0>
+<TR>
+<TD class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR></TABLE>
+	</div>
+	
+	<div class="content-right fl">		
+		<div class="adv-header">
+			<div class="adv-title fl">				
+				<a href="http://www.fptad.com/lienhe.aspx" target="_blank"><img style="border:0" src="/Images/Background/adv-title.gif" alt="Lien he quang cao" /></a>				
+			</div>
+		</div>
+		<div id="adgroup"  style="display:none;clear:both;"></div>
+	<Script type="text/javascript" language="JavaScript">Poly_ShowAdScrollBanner(2);</Script>
+				</div>
+				
+			</div>
+			
+			<div id="footer">
+				
+				<script type="text/javascript">Poly_ShowFooterBanner();</script>										
+				
+                <div class="fmenu-top">
+                    <div class="fl icone-footer"></div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-home" rel="nofollow" onclick="javascript:setAsHomePage(this)"><span></span>Đặt làm trang chủ</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ct" rel="nofollow" class="link-contact" href="/ContactUs/?id=bandocviet@vnexpress.net"><span></span>Liên hệ tòa soạn</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ads" rel="nofollow" class="link-contact" href="http://ads.fpt.net/lienhe.aspx" target="_blank"><span></span>Liên hệ quảng cáo</a>
+                    </div>					
+                    <div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">						
+						
+                        <span class="lnkf-hl">Đường dây nóng: 0123.888.0123 (HN) - 0129.233.3555 (TP HCM)<span></span></span>
+						
+                    </div>
+					<div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">
+						 <a rel="nofollow" class="link-contact" href="http://fptad.com/qc/v/vnexpress/2011/phongvienthethao/" target="_blank"><img class="img-search" src="/Images/person.gif" alt="" style="vertical-align:top;" /> VnExpress tuyển dụng </a>
+					</div>					
+                </div>
+                <div class="fmenu-bottom">	
+					<a href="/" class="link-footermenu">Trang chủ</a><i class="sepaf"></i>
+					<a href="/gl/xa-hoi/" class="link-footermenu">Xã hội</a><i class="sepaf"></i>
+					<a href="/gl/the-gioi/" class="link-footermenu">Thế giới</a><i class="sepaf"></i>
+					<a href="/gl/kinh-doanh/" class="link-footermenu">Kinh doanh</a><i class="sepaf"></i>
+					<a href="/gl/van-hoa/" class="link-footermenu">Văn hóa</a><i class="sepaf"></i>
+					<a href="/gl/the-thao/" class="link-footermenu">Thể thao</a><i class="sepaf"></i>
+					<a href="/gl/phap-luat/" class="link-footermenu">Pháp luật</a><i class="sepaf"></i>
+					<a href="/gl/doi-song/" class="link-footermenu">Ðời sống</a><i class="sepaf"></i>
+					<a href="/gl/khoa-hoc/" class="link-footermenu">Khoa học</a><i class="sepaf"></i>
+					<a href="/gl/vi-tinh/" class="link-footermenu">Vi tính</a><i class="sepaf"></i>
+					<a href="/gl/oto-xe-may/" class="link-footermenu">Ôtô - Xe máy</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/" class="link-footermenu">Bạn đọc viết</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/tam-su/" class="link-footermenu">Tâm sự</a><i class="sepaf"></i>
+					<a href="/user/rao-vat/" class="link-footermenu">Rao vặt</a><i class="sepaf"></i>
+					<a href="/gl/cuoi/" class="link-footermenu">Cuời</a>
+					
+                    <script type="text/javascript" language="javascript">
+						//writeFooterMenu();
+						Poly_ShowFixFloatBanner(0);Poly_ShowFixFloatBanner(2);Poly_ShowFixFloatBanner(1);Poly_ShowFixFloatBanner(3);
+						Poly_ShowSlideBanner();Poly_ShowBallonBanner();						
+					</script>
+					
+                    <script type="text/javascript" language="javascript">Poly_ShowPopupUnder();</script>
+					
+                </div>
+                <div class="copyright">
+                    <p><label style="font:bold 11px arial; color:#686E7A;">&#169;&nbsp;Copyright 1997-2011 VnExpress.net</label>, <label style="font:normal 11px arial; color:#686E7A;">All rights reserved <a rel="nofollow" href="/ContactUs/?id=webmaster@vnexpress.net">Contact us</a> - <label onClick="ContactUs()" style="text-decoration:underline;cursor:pointer">Th&#244;ng tin T&#242;a so&#7841;n</label></label</p>
+<p><label style="font:normal 11px arial; color:#686E7A;">&#174;&nbsp;VnExpress gi&#7919; b&#7843;n quy&#7873;n n&#7897;i dung tr&#234;n website n&#224;y.</lable></p>
+
+                </div>
+            </div>
+			</div>
+		</div>		
+		</div>		
+		<script type="text/javascript">
+		<!--//<![CDATA[
+			cpms_Ap.init();
+			cpms_Ap.typ = 1;
+			cpms_Ap.dof = 0;
+			cpms_Ap.ste = 1;
+			cpms_Ap.reg = 0;
+			cpms_Ap.fol = 109;
+			cpms_Ap.pos = 38;
+			cpms_Ap.url = encodeURIComponent(document.location.href);
+			cpms_Ap.show();
+		//]]>-->
+		</script>
+		  	
+		<div style="float:left;">
+			<script type="text/javascript" language="javasript">
+				var strHr = location.href;				
+				if(strHr.substr(0,21)=='http://vnexpress.net/' || strHr.substr(0,27)=='http://ebank.vnexpress.net/' || strHr.substr(0,28)=='http://nhadep.vnexpress.net/'){
+					document.write('<img src="http://180.148.142.10/website/vnexpress/Res.asp?vid=D44DB2C5-CE7C-4524-96CA-EB1B2A02B391&ovt=0&vsd=0&pfd=109&pid=1001430368&ref=&iTime=11/7/2011 12:18:35 PM" border=0>');
+					
+				}
+			</script>
+		</div>
+		<script type="text/javascript">
+	var SERVER_ID = 6;
+</script>
+
+
+		<!--<script type="text/javascript" language="javascript" src="/Library/Common/rss.js"></script>-->
+		<script type="text/javascript" src="http://180.148.142.152/Library/VNELibraryNew.js"></script>
+
+<script type="text/javascript" src="http://180.148.142.152/Library/AdLibNew.js"></script>
+		
+<script src="http://180.148.142.152/Vals/1/0/109/Val.js" type="text/javascript"></script>	
+		
+<script type="text/javascript" language="javaScript">checkCookie();</script>
+
+<script type="text/javascript" language="javaScript" src="http://180.148.142.153/script/libMobile.js"></script>     
+
+
+<script type="text/javascript">      
+    Poly_ShowAds();
+</script>
+	
+	</body>			
+</html>

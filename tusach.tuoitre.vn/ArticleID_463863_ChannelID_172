@@ -1,0 +1,1418 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	.: Tu Sach Tuoi Tre :.
+</title><meta name="google-site-verification" content="V5VbkNjNUE07uOlgHS50c4y4EkVvYDzr8m09FNGJ5zw" /><link href="Tusach.css" type="text/css" rel="Stylesheet" rev="Stylesheet" /><link href="MenuTop.css" type="text/css" rel="Stylesheet" rev="stylesheet" />
+
+    <script src="Tusach.js" type="text/javascript"></script>
+
+    <script src="MenuTop.js" type="text/javascript"></script>
+
+    <script language="JavaScript" src="http://www.tuoitre.com.vn/vietuni/js/vietuni.js"
+        type="text/javascript"></script>
+
+</head>
+<body style="margin-left: 0px; margin-top: 0px;">
+    <form name="aspnetForm" method="post" action="ArticleView.aspx?ArticleID=463863&amp;ComponentID=1" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3NTMzMDg4NjUPZBYCZg9kFgICAw9kFghmD2QWAmYPZBYCZg8WAh4LXyFJdGVtQ291bnQCARYCZg9kFgJmDxUDM2h0dHA6Ly9xdWFuZ2Nhby50dW9pdHJlLnZuL1F1YW5nY2FvL0hvbWUvaW5kZXguaHRtbAhWaW5hYm9vay1odHRwOi8vdHVzYWNoLnR1b2l0cmUudm4vSW1hZ2VzL1FDX2hlYWRlci5naWZkAgEPZBYEAgMPFgIfAAIMFhhmD2QWAmYPFQIBMR9UaeG7g3UgVGh1eeG6v3QgLSBUcnV54buHbiBkw6BpZAIBD2QWAmYPFQIBMgpWxINuIGjhu41jZAICD2QWAmYPFQIBMwtUaGnhur91IE5oaWQCAw9kFgJmDxUCATQWUGjDs25nIHPhu7EgLSBLw60gc+G7sWQCBA9kFgJmDxUCATUWTmjhuq10IGvDrSAtIEjhu5NpIGvDrWQCBQ9kFgJmDxUCATYXVOG6oXAgYsO6dCAtIFThuqNuIHbEg25kAgYPZBYCZg8VAgE3HVR1eeG7g24gdOG6rXAgdHJ1eeG7h24gbmfhuq9uZAIHD2QWAmYPFQIBOBJUw6FjIHBo4bqpbSBk4buLY2hkAggPZBYCZg8VAgE5FVThu6cgc8OhY2ggdMOibSBo4buTbmQCCQ9kFgJmDxUCAjEwDFRyw6BvIHBow7puZ2QCCg9kFgJmDxUCAjExD1PDoWNoIGtpbmggdOG6v2QCCw9kFgJmDxUCAjEyElRo4buDIGxv4bqhaSBraMOhY2QCBQ8WAh8AAiAWQGYPZBYEZg8VBAMzNjgBNwrDgm0gbmjhuqFjAzM2OGQCAQ8WAh8AAgcWDmYPZBYCZg8VAgM1MzUeQ8OhYyB0aOG7gyBsb+G6oWkgbmjhuqFjIGtow6FjZAIBD2QWAmYPFQIDNTA1EU5o4bqhYyBkw6JuIHThu5ljZAICD2QWAmYPFQIDNTA3Ck5o4bqhYyBsw71kAgMPZBYCZg8VAgM1MDQSTmjhuqFjIHF14buRYyB04bq/ZAIED2QWAmYPFQIDNTA4Fk5o4bqhYyBzxKksIGNhIHPEqSAuLi5kAgUPZBYCZg8VAgM1MDYVTmjhuqFjIHRp4buBbiBjaGnhur9uZAIGD2QWAmYPFQIDNTAzDE5o4bqhYyB0cuG6u2QCAQ9kFgRmDxUEAzUyMAEwF0LDrSBxdXnhur90IGzDoG0gxJHhurlwAzUyMGQCAQ8WAh8AZmQCAg9kFgRmDxUEAzM1OQEzG0Now61uaCB0cuG7iywgdHJp4bq/dCBo4buNYwMzNTlkAgEPFgIfAAIDFgZmD2QWAmYPFQIDNDU5ElPDoWNoIGNow61uaCB0cuG7i2QCAQ9kFgJmDxUCAzQ2MB1Ucmnhur90IGjhu41jIHBoxrDGoW5nIMSQw7RuZ2QCAg9kFgJmDxUCAzQ2MRtUcmnhur90IGjhu41jIHBoxrDGoW5nIFTDonlkAgMPZBYEZg8VBAMzNjUBMglEdSBs4buLY2gDMzY1ZAIBDxYCHwACAhYEZg9kFgJmDxUCAzQ5MBZEdSBsaWNoIG7GsOG7m2Mgbmdvw6BpZAIBD2QWAmYPFQIDNDg5F0R1IGzhu4tjaCB0cm9uZyBuxrDhu5tjZAIED2QWBGYPFQQDMzczATUhR2lhIMSRw6xuaCwgbnXDtGkgZOG6oXkgY29uIG5o4buPAzM3M2QCAQ8WAh8AAgUWCmYPZBYCZg8VAgM1MTMXSOG6oW5oIHBow7pjIGdpYSDEkcOsbmhkAgEPZBYCZg8VAgM1MjIVTuG7ryBjw7RuZyBnaWEgY2jDoW5oZAICD2QWAmYPFQIDNTE0FU51w7RpIGThuqF5IGNvbiBuaOG7j2QCAw9kFgJmDxUCAzUyMQ9Tw6FjaCBu4bqldSDEg25kAgQPZBYCZg8VAgM1MTIKVMOsbmggecOqdWQCBQ9kFgRmDxUEAzM1NQE4FEtob2EgaOG7jWMgY8ahIGLhuqNuAzM1NWQCAQ8WAh8AAggWEGYPZBYCZg8VAgM0MzkNxJDhu4thIGNo4bqldGQCAQ9kFgJmDxUCAzQzNwpIb8OhIGjhu41jZAICD2QWAmYPFQIDNDQxEUto4bqjbyBj4buVIGjhu41jZAIDD2QWAmYPFQIDNDQyEUzEqW5oIHbhu7FjIGtow6FjZAIED2QWAmYPFQIDNDM4ClNpbmggaOG7jWNkAgUPZBYCZg8VAgM0NDARVGhpw6puIHbEg24gaOG7jWNkAgYPZBYCZg8VAgM0MzULVG/DoW4gaOG7jWNkAgcPZBYCZg8VAgM0MzYJVuG6rXQgbMO9ZAIGD2QWBGYPFQQDMzU2ATkXS2hvYSBo4buNYyBr4bu5IHRodeG6rXQDMzU2ZAIBDxYCHwACCRYSZg9kFgJmDxUCAzQ0Nw9D4bqndSDEkcaw4budbmdkAgEPZBYCZg8VAgM0NDUbQ8ahIGtow60gLSBjaOG6vyB04bqhbyBtw6F5ZAICD2QWAmYPFQIDNDQ4CkThuqd1IGtow61kAgMPZBYCZg8VAgM0NDMoxJBp4buHbiwgxJFp4buHbiB04butLCB04buxIMSR4buZbmcgaG/DoWQCBA9kFgJmDxUCAzQ0NBlL4bu5IHRodeG6rXQgY8O0bmcgbmdo4buHZAIFD2QWAmYPFQIDNDUxEUzEqW5oIHbhu7FjIGtow6FjZAIGD2QWAmYPFQIDNDQ5Dk3DtGkgdHLGsOG7nW5nZAIHD2QWAmYPFQIDNDUwEMOUIHTDtCAtIHhlIG3DoXlkAggPZBYCZg8VAgM0NDYLWMOieSBk4buxbmdkAgcPZBYEZg8VBAMzNjIBNRVLaG9hIGjhu41jIHRo4bqnbiBiw60DMzYyZAIBDxYCHwACBRYKZg9kFgJmDxUCAzQ3NRpCw7NpIHRvw6FuICYgdMaw4bubbmcgc+G7kWQCAQ9kFgJmDxUCAzQ3OAtLaW5oIGThu4tjaGQCAg9kFgJmDxUCAzQ3NxZUaOG6vyBnaeG7m2kga+G7syBs4bqhZAIDD2QWAmYPFQIDNDc5EVbhuqVuIMSR4buBIGtow6FjZAIED2QWAmYPFQIDNDc2E1bEg24gaG/DoSB0w6JtIGxpbmhkAggPZBYEZg8VBAM1MzcBMBRLaG9hIEjhu41jIHjDoyBo4buZaQM1MzdkAgEPFgIfAGZkAgkPZBYEZg8VBAMzNDgCMTAJS2luaCB04bq/AzM0OGQCAQ8WAh8AAgoWFGYPZBYCZg8VAgMzODQbQ2jhu6luZyBraG/DoW4gJiDEkeG6p3UgdMawZAIBD2QWAmYPFQIDMzgxCkvhur8gdG/DoW5kAgIPZBYCZg8VAgMzODAJTWFya2V0aW5nZAIDD2QWAmYPFQIDMzgzEE5nb+G6oWkgdGjGsMahbmdkAgQPZBYCZg8VAgMzODUYTmjDom4gc+G7sSAmIHZp4buHYyBsw6BtZAIFD2QWAmYPFQIDMzg3I05ow6JuIHbhuq10ICYgYsOgaSBo4buNYyBraW5oIGRvYW5oZAIGD2QWAmYPFQIDNDYzJlBow6JuIHTDrWNoICYgbcO0aSB0csaw4budbmcga2luaCB04bq/ZAIHD2QWAmYPFQIDMzc5F1F14bqjbiB0cuG7iyBraW5oIGRvYW5oZAIID2QWAmYPFQIDMzgyGVTDoGkgY2jDrW5oICYgdGnhu4FuIHThu4dkAgkPZBYCZg8VAgMzODYoVsSDbiBi4bqjbiBsdeG6rXQga+G6vyB0b8OhbiB0w6BpIGNow61uaGQCCg9kFgRmDxUEAzM2MAE4F0zhu4tjaCBz4butLCDEkeG7i2EgbMO9AzM2MGQCAQ8WAh8AAggWEGYPZBYCZg8VAgM0NjkIQ2jDonUgw4FkAgEPZBYCZg8VAgM0NjcJQ2jDonUgw4J1ZAICD2QWAmYPFQIDNDY4CkNow6J1IE3hu7lkAgMPZBYCZg8VAgM0NzAJQ2jDonUgUGhpZAIED2QWAmYPFQIDNDY0DFRo4bq/IGdp4bubaWQCBQ9kFgJmDxUCAzQ2NgxUcnVuZyDEkMO0bmdkAgYPZBYCZg8VAgM0NjUMVHJ1bmcgcXXhu5FjZAIHD2QWAmYPFQIDNDYyClZp4buHdCBOYW1kAgsPZBYEZg8VBAMzNjkBMxpN4bu5IHRodeG6rXQsIGtp4bq/biB0csO6YwMzNjlkAgEPFgIfAAIDFgZmD2QWAmYPFQIDNTAxJEPDoWMgbG/huqFpIGjDrG5oIE3hu7kgdGh14bqtdCBraMOhY2QCAQ9kFgJmDxUCAzQ5OQtI4buZaSBo4buNYWQCAg9kFgJmDxUCAzUwMAxLaeG6v24gdHLDumNkAgwPZBYEZg8VBAM1MzgBMBVOZ2hp4buHcCB2dSBiw6FvIGNow60DNTM4ZAIBDxYCHwBmZAIND2QWBGYPFQQDNTMxATMVTmjDoCDhu58sIHbhuq10IG51w7RpAzUzMWQCAQ8WAh8AAgMWBmYPZBYCZg8VAgM1MzQQQ8OieSwgY8OhIGPhuqNuaGQCAQ9kFgJmDxUCAzUzMhdOaMOgIOG7nyAmIG7hu5lpIHRo4bqldGQCAg9kFgJmDxUCAzUzMxZW4bqtdCBudcO0aSB0cm9uZyBuaMOgZAIOD2QWBGYPFQQDMzY0ATMTTsO0bmcgbMOibSBuZ2hp4buHcAMzNjRkAgEPFgIfAAIDFgZmD2QWAmYPFQIDNDg3C0NoxINuIG51w7RpZAIBD2QWAmYPFQIDNDg4DUzDom0gbmdoaeG7h3BkAgIPZBYCZg8VAgM0ODYOVHLhu5NuZyB0cuG7jXRkAg8PZBYEZg8VBAMzNDkBNgxQaMOhcCBsdeG6rXQDMzQ5ZAIBDxYCHwACBhYMZg9kFgJmDxUCAzM5MxZDw6FjIGLhu5kgbHXhuq10IGtow6FjZAIBD2QWAmYPFQIDMzkxEkx14bqtdCDEkeG6pXQgxJFhaWQCAg9kFgJmDxUCAzM4OBVMdeG6rXQgZG9hbmggbmdoaeG7h3BkAgMPZBYCZg8VAgMzOTAiTHXhuq10IGxhbyDEkeG7mW5nLCB0aeG7gW4gbMawxqFuZ2QCBA9kFgJmDxUCAzM5MhJMdeG6rXQgcXXhu5FjIHThur9kAgUPZBYCZg8VAgMzODkVTHXhuq10IHRoxrDGoW5nIG3huqFpZAIQD2QWBGYPFQQDMzcwATQQU8OhY2ggRGFuaCBuaMOibgMzNzBkAgEPFgIfAAIEFghmD2QWAmYPFQIDNTE1FERhbmggbmjDom4gdsSDbiBob8OhZAIBD2QWAmYPFQIDNTE4CUjhu5NpIGvDvWQCAg9kFgJmDxUCAzUxNw9OaMOgIGtob2EgaOG7jWNkAgMPZBYCZg8VAgM1MTYuVHJp4bq/dCBnaWEsIGNow61uaCB0cuG7iyBnaWEsIG5ow6AgcXXDom4gc+G7sWQCEQ9kFgRmDxUEAzM1NwE0EFPDoWNoIGdpw6FvIGtob2EDMzU3ZAIBDxYCHwACBBYIZg9kFgJmDxUCAzQ1MgdD4bqlcCBJZAIBD2QWAmYPFQIDNDUzCEPhuqVwIElJZAICD2QWAmYPFQIDNDU0CUPhuqVwIElJSWQCAw9kFgJmDxUCAzQ1NQzEkOG6oWkgaOG7jWNkAhIPZBYEZg8VBAM1MTkBMBlTw6FjaCBo4buNYyBsw6BtIG5nxrDhu51pAzUxOWQCAQ8WAh8AZmQCEw9kFgRmDxUEAzUyNAEwElPDoWNoIGjhu41jIG5naOG7gQM1MjRkAgEPFgIfAGZkAhQPZBYEZg8VBAMzNTIBNBNTw6FjaCBuZ2/huqFpIG5n4buvAzM1MmQCAQ8WAh8AAgQWCGYPZBYCZg8VAgM0MTMTTmdv4bqhaSBuZ+G7ryBraMOhY2QCAQ9kFgJmDxUCAzQxMAtUaeG6v25nIEFuaGQCAg9kFgJmDxUCAzQxMgtUaeG6v25nIEhvYWQCAw9kFgJmDxUCAzQxMQ1UaeG6v25nIFBow6FwZAIVD2QWBGYPFQQDMzU4ATMRU8OhY2ggdGhhbSBraOG6o28DMzU4ZAIBDxYCHwACAxYGZg9kFgJmDxUCAzQ1NgdD4bqlcCBJZAIBD2QWAmYPFQIDNDU3CEPhuqVwIElJZAICD2QWAmYPFQIDNDU4CUPhuqVwIElJSWQCFg9kFgRmDxUEAzUyNQE1EVPDoWNoIHRoaeG6v3UgbmhpAzUyNWQCAQ8WAh8AAgUWCmYPZBYCZg8VAgM1MjcWS2hvYSBo4buNYyB04buxIG5oacOqbmQCAQ9kFgJmDxUCAzUyNhRLaG9hIGjhu41jIHjDoyBo4buZaWQCAg9kFgJmDxUCAzUyORhN4bu5IHRodeG6rXQsIMOibSBuaOG6oWNkAgMPZBYCZg8VAgM1MjgTU8OhY2ggbmdv4bqhaSBuZ+G7r2QCBA9kFgJmDxUCAzUzMA5UcnV54buHbiB0cmFuaGQCFw9kFgRmDxUEAzM2MQE0EFPDoWNoIHTDtG4gZ2nDoW8DMzYxZAIBDxYCHwACBBYIZg9kFgJmDxUCAzQ3MwtI4buTaSBHacOhb2QCAQ9kFgJmDxUCAzQ3MgxQaOG6rXQgR2nDoW9kAgIPZBYCZg8VAgM0NzESVGhpw6puIENow7phIEdpw6FvZAIDD2QWAmYPFQIDNDc0EFTDtG4gZ2nDoW8ga2jDoWNkAhgPZBYEZg8VBAMzNzIBMxdUw6JtIGzDvSAmIGdp4bubaSB0w61uaAMzNzJkAgEPFgIfAAIDFgZmD2QWAmYPFQIDNTA5HUPhuqltIG5hbmcgdHXhu5VpIG3hu5tpIGzhu5tuZAIBD2QWAmYPFQIDNTExFlF1YW4gaOG7hyBnaeG7m2kgdMOtbmhkAgIPZBYCZg8VAgM1MTAOU2luaCBsw70gaOG7jWNkAhkPZBYEZg8VBAMzNjYBNQpUaOG7gyB0aGFvAzM2NmQCAQ8WAh8AAgUWCmYPZBYCZg8VAgM0OTMKQsOzbmcgxJHDoWQCAQ9kFgJmDxUCAzQ5NBpDw6FjIG3DtG4gdGjhu4MgdGhhbyBraMOhY2QCAg9kFgJmDxUCAzQ5NRdD4budIHZ1YSwgY+G7nSB0xrDhu5tuZ2QCAw9kFgJmDxUCAzQ5MQtUaOG7gyBk4bulY2QCBA9kFgJmDxUCAzQ5MgtWw7UgdGh14bqtdGQCGg9kFgRmDxUEAzM1MAIxMAlUaW4gaOG7jWMDMzUwZAIBDxYCHwACChYUZg9kFgJmDxUCAzM5ORRDxqEgc+G7nyBk4buvIGxp4buHdWQCAQ9kFgJmDxUCAzQwMgvEkOG7kyBo4buNYWQCAg9kFgJmDxUCAzQwMBJI4buHIMSRaeG7gXUgaMOgbmhkAgMPZBYCZg8VAgMzOTgRSW50ZXJuZXQgJiBN4bqhbmdkAgQPZBYCZg8VAgMzOTcoTOG6rXAgdHLDrG5oICYgcGjhuqduIG3hu4FtIOG7qW5nIGThu6VuZ2QCBQ9kFgJmDxUCAzM5NhBM4bqtcCB0csOsbmggd2ViZAIGD2QWAmYPFQIDNDAxDVBo4bqnbiBj4bupbmdkAgcPZBYCZg8VAgM0MDMkU8OhY2ggdGluIGjhu41jIGLhurFuZyBuZ2/huqFpIG5n4buvZAIID2QWAmYPFQIDMzk0E1RpbiBo4buNYyBjxqEgYuG6o25kAgkPZBYCZg8VAgMzOTUVVGluIGjhu41jIHbEg24gcGjDsm5nZAIbD2QWBGYPFQQDMzUxATcMVOG7qyDEkWnhu4NuAzM1MWQCAQ8WAh8AAgcWDmYPZBYCZg8VAgM0MDkRTmfDtG4gbmfhu68ga2jDoWNkAgEPZBYCZg8VAgM0MDQLVGnhur9uZyBBbmhkAgIPZBYCZg8VAgM0MDYLVGnhur9uZyBIb2FkAgMPZBYCZg8VAgM0MDcOVGnhur9uZyBOaOG6rXRkAgQPZBYCZg8VAgM0MDUNVGnhur9uZyBQaMOhcGQCBQ9kFgJmDxUCAzQwOA5UaeG6v25nIFZp4buHdGQCBg9kFgJmDxUCAzUwMhtU4burIMSRaeG7g24gY2h1ecOqbiBuZ8OgbmhkAhwPZBYEZg8VBAMzNjcBMxhWxINuIGhvw6Egbmdo4buHIHRodeG6rXQDMzY3ZAIBDxYCHwACAxYGZg9kFgJmDxUCAzQ5Nw1OaGnhur9wIOG6o25oZAIBD2QWAmYPFQIDNDk2G1PDom4ga2jhuqV1ICYgxJFp4buHbiDhuqNuaGQCAg9kFgJmDxUCAzQ5OAxUaOG7nWkgdHJhbmdkAh0PZBYEZg8VBAMzNTQCMTEZVsSDbiBo4buNYyBuxrDhu5tjIG5nb8OgaQMzNTRkAgEPFgIfAAILFhZmD2QWAmYPFQIDNDMyFVBow6ogYsOsbmggdsSDbiBo4buNY2QCAQ9kFgJmDxUCAzQzMRVQaMOzbmcgc+G7sSwga8O9IHPhu7FkAgIPZBYCZg8VAgM0MzMhU8OhY2ggduG7gSBuaMOibiB24bqtdCB2xINuIGjhu41jZAIDD2QWAmYPFQIDNTM2JFRydXnhu4duIGPhu5UgdMOtY2ggJiB0aOG6p24gdGhv4bqhaWQCBA9kFgJmDxUCAzQyOBZUcnV54buHbiBraeG6v20gaGnhu4dwZAIFD2QWAmYPFQIDNDMwFFRydXnhu4duIGzhu4tjaCBz4butZAIGD2QWAmYPFQIDNDI2D1RydXnhu4duIG5n4bqvbmQCBw9kFgJmDxUCAzQyNRhUcnV54buHbiB0aeG7g3UgdGh1eeG6v3RkAggPZBYCZg8VAgM0MjceVHJ1eeG7h24gdHJpbmggdGjDoW0sIHbhu6Ugw6FuZAIJD2QWAmYPFQIDNDI5GFRydXnhu4duIHZp4buFbiB0xrDhu59uZ2QCCg9kFgJmDxUCAzQzNBtUcnV54buHbiwgdGjGoSBjYSBkw6JuIGdpYW5kAh4PZBYEZg8VBAMzNTMCMTEYVsSDbiBo4buNYyB0cm9uZyBuxrDhu5tjAzM1M2QCAQ8WAh8AAgsWFmYPZBYCZg8VAgM0MjIVUGjDqiBiw6xuaCB2xINuIGjhu41jZAIBD2QWAmYPFQIDNDIwGFBow7NuZyBz4buxLCBrw70gc+G7sS4uLmQCAg9kFgJmDxUCAzQyMyFTw6FjaCB24buBIG5ow6JuIHbhuq10IHbEg24gaOG7jWNkAgMPZBYCZg8VAgM0MjEQVGjGoSAmIE5ow6AgdGjGoWQCBA9kFgJmDxUCAzQyNBxUcnV54buHbiAmIHRoxqEgY2EgZMOibiBnaWFuZAIFD2QWAmYPFQIDNDE3FlRydXnhu4duIGtp4bq/bSBoaeG7h3BkAgYPZBYCZg8VAgM0MTkUVHJ1eeG7h24gbOG7i2NoIHPhu61kAgcPZBYCZg8VAgM0MTUPVHJ1eeG7h24gbmfhuq9uZAIID2QWAmYPFQIDNDE0GFRydXnhu4duIHRp4buDdSB0aHV54bq/dGQCCQ9kFgJmDxUCAzQxNh5UcnV54buHbiB0cmluaCB0aMOhbSwgduG7pSDDoW5kAgoPZBYCZg8VAgM0MTgYVHJ1eeG7h24gdmnhu4VuIHTGsOG7n25nZAIfD2QWBGYPFQQDMzYzATYHWSBo4buNYwMzNjNkAgEPFgIfAAIGFgxmD2QWAmYPFQIDNDg0D0PDoWMga2hvYSBraMOhY2QCAQ9kFgJmDxUCAzQ4MghOaGkga2hvYWQCAg9kFgJmDxUCAzQ4MQpO4buZaSBraG9hZAIDD2QWAmYPFQIDNDgzClPhuqNuIGtob2FkAgQPZBYCZg8VAgM0ODUVWSBo4buNYyBj4buVIHRydXnhu4FuZAIFD2QWAmYPFQIDNDgwGFkgaOG7jWMgdGjGsOG7nW5nIHRo4bupY2QCAg9kFgZmD2QWAmYPFgIfAAIBFgJmD2QWAmYPFQUITWVudUl0ZW0OTWVudUl0ZW1WaXN0ZWQITWVudUl0ZW0ITWVudUl0ZW0ITWVudUl0ZW1kAgEPFgIeBFRleHQFww48c2NyaXB0PmdldFRpbWVTdHJpbmcoJzIwMTEvMTEvMDcgMDQ6MDM6MDAnKTs8L3NjcmlwdD48YnI+PFAgY2xhc3M9cFRpdGxlPlRo4bq/IGdp4bubaSBDPC9QPg0KPFAgY2xhc3M9cEhlYWQ+VFQgLSBDdeG7kW4gdGnhu4N1IHRodXnhur90IGtoaSBjw7JuIOG7nyBk4bqhbmcgYuG6o24gdGjhuqNvIGPDsyB04buxYSBsw6A8RU0+IENvbXB1dGVyLDwvRU0+IHNhdSDEkeG7lWkgdGjDoG5oIDxFTT5UaOG6vyBnaeG7m2kgQyA8L0VNPihOWEIgVHLhurspLiBDIGzDoCBDb21wdXRlciAtIG3DoXkgdMOtbmguIDwvUD4NCjxQIGNsYXNzPXBIZWFkPg0KPFRBQkxFIHN0eWxlPSJCT1JERVItQ09MTEFQU0U6IHNlcGFyYXRlIiBjbGFzcz10TGVnZW5kIGJvcmRlcj0wIGNlbGxTcGFjaW5nPTIgY2VsbFBhZGRpbmc9MCB3aWR0aD00MCBhbGlnbj1jZW50ZXI+DQo8VEJPRFk+DQo8VFI+DQo8VEQ+PElNRyBjbGFzcz1sSW1hZ2Ugb25jbGljaz0icmV0dXJuIHNob3dJbWFnZSh0aGlzLnNyYykiIGJvcmRlcj0xIGhzcGFjZT0wIHNyYz0iaHR0cDovL3BoaWVuYmFuY3UudHVvaXRyZS52bi9UaWFueW9uL0ltYWdlVmlldy5hc3B4P1RodW1ibmFpbElEPTUzMDA1NCIgd2lkdGg9MzUwIEh5cGVybGluaz48L1REPjwvVFI+DQo8VFI+DQo8VEQ+DQo8UCBjbGFzcz10TGVnZW5kPlTDoWMgZ2nhuqMgdsOgIGN14buRbiB0aeG7g3UgdGh1eeG6v3QgxJHhuqd1IHRheSBj4bunYSBtw6xuaCAtIOG6om5oOiBWLlEuJm5ic3A7PC9QPjwvVEQ+PC9UUj48L1RCT0RZPjwvVEFCTEU+PC9QPg0KPFAgY2xhc3M9cEJvZHk+TeG7mXQgdGjhur8gZ2nhu5tpIG7hurFtIHRyb25nIGNoaeG6v2MgbcOheSB0w61uaCwgbmjGsCBt4buZdCDDtCBow6xuaCBjaOG7ryBuaOG6rXQgbmjhu48gYsOpIG5oxrBuZyDEkWkgaG/DoGkga2jDtG5nIGjhur90LiBWw6AsIG3hu5l0IG5nxrDhu51pIHZp4bq/dCB0cuG6uywga2hpIG5n4buTaSB0csaw4bubYyBtw6F5IHTDrW5oIGzDoCBi4bqvdCDEkeG6p3UgaMOgbmggdHLDrG5oIGtp4bq/biB04bqhbyB0aOG6vyBnaeG7m2kgY+G7p2EgbcOsbmguIFZp4bq/dC4gTmjhuqN5IGPDs2MgdOG7qyBtw6F5IHTDrW5oIG7DoHkgxJHhur9uIG3DoXkgdMOtbmgga2jDoWMsIHThu6sgZm9sZGVyICh0aMawIG3hu6VjKSBuw6B5IMSR4bq/biBmb2xkZXIga2jDoWMsIHbDoCB04burbmcgZmlsZSAodOG6rXAgdGluKSBrw6lvIGTDoGkgdOG7qyBt4buZdCDEkeG6v24gY2jhu6tuZyB2w7QgdOG6rW4uPC9QPg0KPFAgY2xhc3M9cEJvZHk+VHJvbmcgKHRyw6puKSBtw6F5IHTDrW5oIGPDtCBnw6FpIMSRYW5nIHZp4bq/dCwgbmjGsG5nIG5nxrDhu51pIG5nb8OgaSBuaMOsbiB2w6BvIGtow7RuZyBiaeG6v3QgY8O0IMSRYW5nIGzDoG0gZ8OsLCDEkWFuZyB2aeG6v3QgZ8OsLiBLaGkgY8O0IGfDoWkgbeG6pXQgdMOtY2gsIG3hu41pIGxpw6puIGvhur90IHRyw6puIG3huqFuZyBi4buLIGdpw6FuIMSRb+G6oW4sIGtow7RuZyBhaSBoaeG7g3UgY2h1eeG7h24gZ8OsOiBjw7QgZ8OhaSBt4bqldCB0w61jaCB0aOG6rXQga2jDtG5nLCZuYnNwOyB0w6xtIGtp4bq/bSBjw7QgYuG6sW5nIGPDoWNoIG7DoG8/IEPDoWMgdHV54bq/biBuaMOibiB24bqtdCB0aG/huqF0IHRyw7RuZyBraMOhIHLhu51pIHLhuqFjLCBuaMawbmcgcuG7k2kgdGjhuqV5IHThuqV0IGPhuqMgYuG7l25nIGxpbmsgKGvhur90IG7hu5FpKSB2w6BvIG5oYXUsIMSRw7MgbMOgIG3hu5l0IHRoYW8gdMOhYyBjw7Mgw70gdGjhu6ljIHZp4bq/dCBt4bubaSBj4bunYSBjw6J5IGLDunQgdHLhursgVsWpIEzhuq1wIE5o4bqtdCAoc2luaCBuxINtIDE5OTApLiA8L1A+DQo8UCBjbGFzcz1wQXV0aG9yPlQuTi5ULjwvUD4NCgkJCQkJCQ0KDQoJCWQCBA8WAh8AZmQCAw9kFgJmD2QWAmYPFgIfAAIBFgJmD2QWAmYPFQMzaHR0cDovL3F1YW5nY2FvLnR1b2l0cmUudm4vUXVhbmdjYW8vSG9tZS9pbmRleC5odG1sBkJvdHRvbS1odHRwOi8vdHVzYWNoLnR1b2l0cmUudm4vSW1hZ2VzL1FDX2Zvb3Rlci5naWZkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRdjdGwwMCRjcGxoQ2VudGVyJGNtZFRvcDY7cAlMBlKx9X/0hiNqidZaQaZi" />
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKoyPfdCALp2O/uBy7tLfCvGaCc1MhnO63wcNhiA56L" />
+    <table cellpadding="0" cellspacing="0" border="0" align="center" style="width: 800px;">
+        <tr>
+            <td colspan="3" style="width: 100%; height: 101px; background-image: url(images/BannerBgr.gif);
+                background-repeat: repeat-x;" valign="middle">
+                <table style="width: 100%;">
+                    <tr>
+                        <td style="width: 195px; height: 98px;">
+                            <a href="http://tuoitre.vn">
+                                <img src="images/logoTTO.gif" alt="Tuoi Tre Online" title="Về trang chủ Tuổi Trẻ"
+                                    style="border-width: 0px;" />
+                            </a>
+                        </td>
+                        <td style="width: 95px; height: 98px;" align="center">
+                            <a href="http://tusach.tuoitre.vn">
+                                <img src="images/logoTusach.gif" alt="Tu Sach Online" title="Về trang chủ Tủ sách"
+                                    style="border-width: 0px;" />
+                            </a>
+                        </td>
+                        <td align="center">
+                            
+		<a href='http://quangcao.tuoitre.vn/Quangcao/Home/index.html' title='Vinabook' target="_blank">
+			<img src='http://tusach.tuoitre.vn/Images/QC_header.gif' border="0" alt="" />
+		</a>
+	
+
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <table cellpadding="0" cellspacing="0" border="0" style="width: 100%; height: 25px;">
+                    <tr>
+                        <td style="width: 160px; height: 25px; padding-left: 5px;" valign="middle">
+                            <span class="HeaderText" style="color: #00599C;">ISSN 1859 - 1094</span>
+                        </td>
+                        <td style="width: 270px;" valign="middle">
+                            <span class="HeaderText">
+                                Thứ Hai, 07/11/2011, 12:13 
+                                (GMT+7)</span>
+                        </td>
+                        <td valign="middle" style="width: 60px;">
+                            <span class="HeaderText"><b>Tìm sách</b></span>
+                        </td>
+                        <td style="width: 210px;">
+                            <input type="text" id="txtKeyword" id="txtKeyWord" style="width: 200px; height: 18px;"
+                                name="SearchQuery" onkeypress="return trapEnterKey(this.value,event);" />
+                        </td>
+                        <td style="width: 22px;">
+                            <input type="image" name="cmdSearch" id="cmdSearch" src="Images/SearchImg.gif" onclick="searchEngine();" />
+                        </td>
+                        <td align="right">
+                            <select name="cboInputMethod" id="cboInputMethod" style="width: 55px; height: 20px;"
+                                onchange="setTypingMode(this.value * 1)">
+                                <option selected="selected" value="0">Off</option>
+                                <option value="1">Telex</option>
+                                <option value="2">VNI</option>
+                            </select>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 165px; background-image: url(images/BgrLeft.gif);
+                background-repeat: repeat-y;">
+                
+<table border ="0" cellpadding="0" cellspacing="0" style=" width:100%">
+    <tr><td style="height: 4px; background-color: White;"></td></tr>
+    <tr>
+        <td style="background-image: url(images/menuTopBgr.gif); background-repeat: no-repeat; height: 7px; width: 165px"></td>
+    </tr>
+    
+    <tr>
+        <td align="center">
+            <div style="height: 12px; text-align: center; padding-top: 3px; font-family: Arial; font-size: 12px; font-weight: bold; color: #272B74;">
+                Thể loại
+            </div>
+            <hr style="width: 145px; border-style: dashed; height: 1px; border-color: #213873;" /> 
+        </td>
+    </tr>
+    <tr>
+        <td>
+            
+            <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('TT', '12')" class="LeftMenuItem">
+                Tủ sách tuổi trẻ   
+            </div>
+            <div id="ItemTT" style="display: block;">
+                
+                        <div onclick="location.href='BookList.aspx?LibraryId=1&GenreId=1'" class="LeftSubMenuItem">
+                            Tiểu Thuyết - Truyện dài   
+                        </div>
+                    
+                        <div onclick="location.href='BookList.aspx?LibraryId=1&GenreId=2'" class="LeftSubMenuItem">
+                            Văn học   
+                        </div>
+                    
+                        <div onclick="location.href='BookList.aspx?LibraryId=1&GenreId=3'" class="LeftSubMenuItem">
+                            Thiếu Nhi   
+                        </div>
+                    
+                        <div onclick="location.href='BookList.aspx?LibraryId=1&GenreId=4'" class="LeftSubMenuItem">
+                            Phóng sự - Kí sự   
+                        </div>
+                    
+                        <div onclick="location.href='BookList.aspx?LibraryId=1&GenreId=5'" class="LeftSubMenuItem">
+                            Nhật kí - Hồi kí   
+                        </div>
+                    
+                        <div onclick="location.href='BookList.aspx?LibraryId=1&GenreId=6'" class="LeftSubMenuItem">
+                            Tạp bút - Tản văn   
+                        </div>
+                    
+                        <div onclick="location.href='BookList.aspx?LibraryId=1&GenreId=7'" class="LeftSubMenuItem">
+                            Tuyển tập truyện ngắn   
+                        </div>
+                    
+                        <div onclick="location.href='BookList.aspx?LibraryId=1&GenreId=8'" class="LeftSubMenuItem">
+                            Tác phẩm dịch   
+                        </div>
+                    
+                        <div onclick="location.href='BookList.aspx?LibraryId=1&GenreId=9'" class="LeftSubMenuItem">
+                            Tủ sách tâm hồn   
+                        </div>
+                    
+                        <div onclick="location.href='BookList.aspx?LibraryId=1&GenreId=10'" class="LeftSubMenuItem">
+                            Trào phúng   
+                        </div>
+                    
+                        <div onclick="location.href='BookList.aspx?LibraryId=1&GenreId=11'" class="LeftSubMenuItem">
+                            Sách kinh tế   
+                        </div>
+                    
+                        <div onclick="location.href='BookList.aspx?LibraryId=1&GenreId=12'" class="LeftSubMenuItem">
+                            Thể loại khác   
+                        </div>
+                    
+            </div>
+            
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('368', '7')" class="LeftMenuItem">
+                        Âm nhạc   
+                    </div>
+                    <div id="Item368" style="display: none;">
+                        
+                                <div onclick="location.href='TTBookList.aspx?catid=535'" class="LeftSubMenuItem">
+                                    Các thể loại nhạc khác   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=505'" class="LeftSubMenuItem">
+                                    Nhạc dân tộc   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=507'" class="LeftSubMenuItem">
+                                    Nhạc lý   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=504'" class="LeftSubMenuItem">
+                                    Nhạc quốc tế   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=508'" class="LeftSubMenuItem">
+                                    Nhạc sĩ, ca sĩ ...   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=506'" class="LeftSubMenuItem">
+                                    Nhạc tiền chiến   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=503'" class="LeftSubMenuItem">
+                                    Nhạc trẻ   
+                                </div>
+                            
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('520', '0')" class="LeftMenuItem">
+                        Bí quyết làm đẹp   
+                    </div>
+                    <div id="Item520" style="display: none;">
+                        
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('359', '3')" class="LeftMenuItem">
+                        Chính trị, triết học   
+                    </div>
+                    <div id="Item359" style="display: none;">
+                        
+                                <div onclick="location.href='TTBookList.aspx?catid=459'" class="LeftSubMenuItem">
+                                    Sách chính trị   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=460'" class="LeftSubMenuItem">
+                                    Triết học phương Đông   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=461'" class="LeftSubMenuItem">
+                                    Triết học phương Tây   
+                                </div>
+                            
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('365', '2')" class="LeftMenuItem">
+                        Du lịch   
+                    </div>
+                    <div id="Item365" style="display: none;">
+                        
+                                <div onclick="location.href='TTBookList.aspx?catid=490'" class="LeftSubMenuItem">
+                                    Du lich nước ngoài   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=489'" class="LeftSubMenuItem">
+                                    Du lịch trong nước   
+                                </div>
+                            
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('373', '5')" class="LeftMenuItem">
+                        Gia đình, nuôi dạy con nhỏ   
+                    </div>
+                    <div id="Item373" style="display: none;">
+                        
+                                <div onclick="location.href='TTBookList.aspx?catid=513'" class="LeftSubMenuItem">
+                                    Hạnh phúc gia đình   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=522'" class="LeftSubMenuItem">
+                                    Nữ công gia chánh   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=514'" class="LeftSubMenuItem">
+                                    Nuôi dạy con nhỏ   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=521'" class="LeftSubMenuItem">
+                                    Sách nấu ăn   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=512'" class="LeftSubMenuItem">
+                                    Tình yêu   
+                                </div>
+                            
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('355', '8')" class="LeftMenuItem">
+                        Khoa học cơ bản   
+                    </div>
+                    <div id="Item355" style="display: none;">
+                        
+                                <div onclick="location.href='TTBookList.aspx?catid=439'" class="LeftSubMenuItem">
+                                    Địa chất   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=437'" class="LeftSubMenuItem">
+                                    Hoá học   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=441'" class="LeftSubMenuItem">
+                                    Khảo cổ học   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=442'" class="LeftSubMenuItem">
+                                    Lĩnh vực khác   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=438'" class="LeftSubMenuItem">
+                                    Sinh học   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=440'" class="LeftSubMenuItem">
+                                    Thiên văn học   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=435'" class="LeftSubMenuItem">
+                                    Toán học   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=436'" class="LeftSubMenuItem">
+                                    Vật lý   
+                                </div>
+                            
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('356', '9')" class="LeftMenuItem">
+                        Khoa học kỹ thuật   
+                    </div>
+                    <div id="Item356" style="display: none;">
+                        
+                                <div onclick="location.href='TTBookList.aspx?catid=447'" class="LeftSubMenuItem">
+                                    Cầu đường   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=445'" class="LeftSubMenuItem">
+                                    Cơ khí - chế tạo máy   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=448'" class="LeftSubMenuItem">
+                                    Dầu khí   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=443'" class="LeftSubMenuItem">
+                                    Điện, điện tử, tự động hoá   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=444'" class="LeftSubMenuItem">
+                                    Kỹ thuật công nghệ   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=451'" class="LeftSubMenuItem">
+                                    Lĩnh vực khác   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=449'" class="LeftSubMenuItem">
+                                    Môi trường   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=450'" class="LeftSubMenuItem">
+                                    Ô tô - xe máy   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=446'" class="LeftSubMenuItem">
+                                    Xây dựng   
+                                </div>
+                            
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('362', '5')" class="LeftMenuItem">
+                        Khoa học thần bí   
+                    </div>
+                    <div id="Item362" style="display: none;">
+                        
+                                <div onclick="location.href='TTBookList.aspx?catid=475'" class="LeftSubMenuItem">
+                                    Bói toán & tướng số   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=478'" class="LeftSubMenuItem">
+                                    Kinh dịch   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=477'" class="LeftSubMenuItem">
+                                    Thế giới kỳ lạ   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=479'" class="LeftSubMenuItem">
+                                    Vấn đề khác   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=476'" class="LeftSubMenuItem">
+                                    Văn hoá tâm linh   
+                                </div>
+                            
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('537', '0')" class="LeftMenuItem">
+                        Khoa Học xã hội   
+                    </div>
+                    <div id="Item537" style="display: none;">
+                        
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('348', '10')" class="LeftMenuItem">
+                        Kinh tế   
+                    </div>
+                    <div id="Item348" style="display: none;">
+                        
+                                <div onclick="location.href='TTBookList.aspx?catid=384'" class="LeftSubMenuItem">
+                                    Chứng khoán & đầu tư   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=381'" class="LeftSubMenuItem">
+                                    Kế toán   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=380'" class="LeftSubMenuItem">
+                                    Marketing   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=383'" class="LeftSubMenuItem">
+                                    Ngoại thương   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=385'" class="LeftSubMenuItem">
+                                    Nhân sự & việc làm   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=387'" class="LeftSubMenuItem">
+                                    Nhân vật & bài học kinh doanh   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=463'" class="LeftSubMenuItem">
+                                    Phân tích & môi trường kinh tế   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=379'" class="LeftSubMenuItem">
+                                    Quản trị kinh doanh   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=382'" class="LeftSubMenuItem">
+                                    Tài chính & tiền tệ   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=386'" class="LeftSubMenuItem">
+                                    Văn bản luật kế toán tài chính   
+                                </div>
+                            
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('360', '8')" class="LeftMenuItem">
+                        Lịch sử, địa lý   
+                    </div>
+                    <div id="Item360" style="display: none;">
+                        
+                                <div onclick="location.href='TTBookList.aspx?catid=469'" class="LeftSubMenuItem">
+                                    Châu Á   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=467'" class="LeftSubMenuItem">
+                                    Châu Âu   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=468'" class="LeftSubMenuItem">
+                                    Châu Mỹ   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=470'" class="LeftSubMenuItem">
+                                    Châu Phi   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=464'" class="LeftSubMenuItem">
+                                    Thế giới   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=466'" class="LeftSubMenuItem">
+                                    Trung Đông   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=465'" class="LeftSubMenuItem">
+                                    Trung quốc   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=462'" class="LeftSubMenuItem">
+                                    Việt Nam   
+                                </div>
+                            
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('369', '3')" class="LeftMenuItem">
+                        Mỹ thuật, kiến trúc   
+                    </div>
+                    <div id="Item369" style="display: none;">
+                        
+                                <div onclick="location.href='TTBookList.aspx?catid=501'" class="LeftSubMenuItem">
+                                    Các loại hình Mỹ thuật khác   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=499'" class="LeftSubMenuItem">
+                                    Hội họa   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=500'" class="LeftSubMenuItem">
+                                    Kiến trúc   
+                                </div>
+                            
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('538', '0')" class="LeftMenuItem">
+                        Nghiệp vu báo chí   
+                    </div>
+                    <div id="Item538" style="display: none;">
+                        
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('531', '3')" class="LeftMenuItem">
+                        Nhà ở, vật nuôi   
+                    </div>
+                    <div id="Item531" style="display: none;">
+                        
+                                <div onclick="location.href='TTBookList.aspx?catid=534'" class="LeftSubMenuItem">
+                                    Cây, cá cảnh   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=532'" class="LeftSubMenuItem">
+                                    Nhà ở & nội thất   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=533'" class="LeftSubMenuItem">
+                                    Vật nuôi trong nhà   
+                                </div>
+                            
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('364', '3')" class="LeftMenuItem">
+                        Nông lâm nghiệp   
+                    </div>
+                    <div id="Item364" style="display: none;">
+                        
+                                <div onclick="location.href='TTBookList.aspx?catid=487'" class="LeftSubMenuItem">
+                                    Chăn nuôi   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=488'" class="LeftSubMenuItem">
+                                    Lâm nghiệp   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=486'" class="LeftSubMenuItem">
+                                    Trồng trọt   
+                                </div>
+                            
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('349', '6')" class="LeftMenuItem">
+                        Pháp luật   
+                    </div>
+                    <div id="Item349" style="display: none;">
+                        
+                                <div onclick="location.href='TTBookList.aspx?catid=393'" class="LeftSubMenuItem">
+                                    Các bộ luật khác   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=391'" class="LeftSubMenuItem">
+                                    Luật đất đai   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=388'" class="LeftSubMenuItem">
+                                    Luật doanh nghiệp   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=390'" class="LeftSubMenuItem">
+                                    Luật lao động, tiền lương   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=392'" class="LeftSubMenuItem">
+                                    Luật quốc tế   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=389'" class="LeftSubMenuItem">
+                                    Luật thương mại   
+                                </div>
+                            
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('370', '4')" class="LeftMenuItem">
+                        Sách Danh nhân   
+                    </div>
+                    <div id="Item370" style="display: none;">
+                        
+                                <div onclick="location.href='TTBookList.aspx?catid=515'" class="LeftSubMenuItem">
+                                    Danh nhân văn hoá   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=518'" class="LeftSubMenuItem">
+                                    Hồi ký   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=517'" class="LeftSubMenuItem">
+                                    Nhà khoa học   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=516'" class="LeftSubMenuItem">
+                                    Triết gia, chính trị gia, nhà quân sự   
+                                </div>
+                            
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('357', '4')" class="LeftMenuItem">
+                        Sách giáo khoa   
+                    </div>
+                    <div id="Item357" style="display: none;">
+                        
+                                <div onclick="location.href='TTBookList.aspx?catid=452'" class="LeftSubMenuItem">
+                                    Cấp I   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=453'" class="LeftSubMenuItem">
+                                    Cấp II   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=454'" class="LeftSubMenuItem">
+                                    Cấp III   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=455'" class="LeftSubMenuItem">
+                                    Đại học   
+                                </div>
+                            
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('519', '0')" class="LeftMenuItem">
+                        Sách học làm người   
+                    </div>
+                    <div id="Item519" style="display: none;">
+                        
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('524', '0')" class="LeftMenuItem">
+                        Sách học nghề   
+                    </div>
+                    <div id="Item524" style="display: none;">
+                        
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('352', '4')" class="LeftMenuItem">
+                        Sách ngoại ngữ   
+                    </div>
+                    <div id="Item352" style="display: none;">
+                        
+                                <div onclick="location.href='TTBookList.aspx?catid=413'" class="LeftSubMenuItem">
+                                    Ngoại ngữ khác   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=410'" class="LeftSubMenuItem">
+                                    Tiếng Anh   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=412'" class="LeftSubMenuItem">
+                                    Tiếng Hoa   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=411'" class="LeftSubMenuItem">
+                                    Tiếng Pháp   
+                                </div>
+                            
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('358', '3')" class="LeftMenuItem">
+                        Sách tham khảo   
+                    </div>
+                    <div id="Item358" style="display: none;">
+                        
+                                <div onclick="location.href='TTBookList.aspx?catid=456'" class="LeftSubMenuItem">
+                                    Cấp I   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=457'" class="LeftSubMenuItem">
+                                    Cấp II   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=458'" class="LeftSubMenuItem">
+                                    Cấp III   
+                                </div>
+                            
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('525', '5')" class="LeftMenuItem">
+                        Sách thiếu nhi   
+                    </div>
+                    <div id="Item525" style="display: none;">
+                        
+                                <div onclick="location.href='TTBookList.aspx?catid=527'" class="LeftSubMenuItem">
+                                    Khoa học tự nhiên   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=526'" class="LeftSubMenuItem">
+                                    Khoa học xã hội   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=529'" class="LeftSubMenuItem">
+                                    Mỹ thuật, âm nhạc   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=528'" class="LeftSubMenuItem">
+                                    Sách ngoại ngữ   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=530'" class="LeftSubMenuItem">
+                                    Truyện tranh   
+                                </div>
+                            
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('361', '4')" class="LeftMenuItem">
+                        Sách tôn giáo   
+                    </div>
+                    <div id="Item361" style="display: none;">
+                        
+                                <div onclick="location.href='TTBookList.aspx?catid=473'" class="LeftSubMenuItem">
+                                    Hồi Giáo   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=472'" class="LeftSubMenuItem">
+                                    Phật Giáo   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=471'" class="LeftSubMenuItem">
+                                    Thiên Chúa Giáo   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=474'" class="LeftSubMenuItem">
+                                    Tôn giáo khác   
+                                </div>
+                            
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('372', '3')" class="LeftMenuItem">
+                        Tâm lý & giới tính   
+                    </div>
+                    <div id="Item372" style="display: none;">
+                        
+                                <div onclick="location.href='TTBookList.aspx?catid=509'" class="LeftSubMenuItem">
+                                    Cẩm nang tuổi mới lớn   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=511'" class="LeftSubMenuItem">
+                                    Quan hệ giới tính   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=510'" class="LeftSubMenuItem">
+                                    Sinh lý học   
+                                </div>
+                            
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('366', '5')" class="LeftMenuItem">
+                        Thể thao   
+                    </div>
+                    <div id="Item366" style="display: none;">
+                        
+                                <div onclick="location.href='TTBookList.aspx?catid=493'" class="LeftSubMenuItem">
+                                    Bóng đá   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=494'" class="LeftSubMenuItem">
+                                    Các môn thể thao khác   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=495'" class="LeftSubMenuItem">
+                                    Cờ vua, cờ tướng   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=491'" class="LeftSubMenuItem">
+                                    Thể dục   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=492'" class="LeftSubMenuItem">
+                                    Võ thuật   
+                                </div>
+                            
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('350', '10')" class="LeftMenuItem">
+                        Tin học   
+                    </div>
+                    <div id="Item350" style="display: none;">
+                        
+                                <div onclick="location.href='TTBookList.aspx?catid=399'" class="LeftSubMenuItem">
+                                    Cơ sở dữ liệu   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=402'" class="LeftSubMenuItem">
+                                    Đồ họa   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=400'" class="LeftSubMenuItem">
+                                    Hệ điều hành   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=398'" class="LeftSubMenuItem">
+                                    Internet & Mạng   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=397'" class="LeftSubMenuItem">
+                                    Lập trình & phần mềm ứng dụng   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=396'" class="LeftSubMenuItem">
+                                    Lập trình web   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=401'" class="LeftSubMenuItem">
+                                    Phần cứng   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=403'" class="LeftSubMenuItem">
+                                    Sách tin học bằng ngoại ngữ   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=394'" class="LeftSubMenuItem">
+                                    Tin học cơ bản   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=395'" class="LeftSubMenuItem">
+                                    Tin học văn phòng   
+                                </div>
+                            
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('351', '7')" class="LeftMenuItem">
+                        Từ điển   
+                    </div>
+                    <div id="Item351" style="display: none;">
+                        
+                                <div onclick="location.href='TTBookList.aspx?catid=409'" class="LeftSubMenuItem">
+                                    Ngôn ngữ khác   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=404'" class="LeftSubMenuItem">
+                                    Tiếng Anh   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=406'" class="LeftSubMenuItem">
+                                    Tiếng Hoa   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=407'" class="LeftSubMenuItem">
+                                    Tiếng Nhật   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=405'" class="LeftSubMenuItem">
+                                    Tiếng Pháp   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=408'" class="LeftSubMenuItem">
+                                    Tiếng Việt   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=502'" class="LeftSubMenuItem">
+                                    Từ điển chuyên ngành   
+                                </div>
+                            
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('367', '3')" class="LeftMenuItem">
+                        Văn hoá nghệ thuật   
+                    </div>
+                    <div id="Item367" style="display: none;">
+                        
+                                <div onclick="location.href='TTBookList.aspx?catid=497'" class="LeftSubMenuItem">
+                                    Nhiếp ảnh   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=496'" class="LeftSubMenuItem">
+                                    Sân khấu & điện ảnh   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=498'" class="LeftSubMenuItem">
+                                    Thời trang   
+                                </div>
+                            
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('354', '11')" class="LeftMenuItem">
+                        Văn học nước ngoài   
+                    </div>
+                    <div id="Item354" style="display: none;">
+                        
+                                <div onclick="location.href='TTBookList.aspx?catid=432'" class="LeftSubMenuItem">
+                                    Phê bình văn học   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=431'" class="LeftSubMenuItem">
+                                    Phóng sự, ký sự   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=433'" class="LeftSubMenuItem">
+                                    Sách về nhân vật văn học   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=536'" class="LeftSubMenuItem">
+                                    Truyện cổ tích & thần thoại   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=428'" class="LeftSubMenuItem">
+                                    Truyện kiếm hiệp   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=430'" class="LeftSubMenuItem">
+                                    Truyện lịch sử   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=426'" class="LeftSubMenuItem">
+                                    Truyện ngắn   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=425'" class="LeftSubMenuItem">
+                                    Truyện tiểu thuyết   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=427'" class="LeftSubMenuItem">
+                                    Truyện trinh thám, vụ án   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=429'" class="LeftSubMenuItem">
+                                    Truyện viễn tưởng   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=434'" class="LeftSubMenuItem">
+                                    Truyện, thơ ca dân gian   
+                                </div>
+                            
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('353', '11')" class="LeftMenuItem">
+                        Văn học trong nước   
+                    </div>
+                    <div id="Item353" style="display: none;">
+                        
+                                <div onclick="location.href='TTBookList.aspx?catid=422'" class="LeftSubMenuItem">
+                                    Phê bình văn học   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=420'" class="LeftSubMenuItem">
+                                    Phóng sự, ký sự...   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=423'" class="LeftSubMenuItem">
+                                    Sách về nhân vật văn học   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=421'" class="LeftSubMenuItem">
+                                    Thơ & Nhà thơ   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=424'" class="LeftSubMenuItem">
+                                    Truyện & thơ ca dân gian   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=417'" class="LeftSubMenuItem">
+                                    Truyện kiếm hiệp   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=419'" class="LeftSubMenuItem">
+                                    Truyện lịch sử   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=415'" class="LeftSubMenuItem">
+                                    Truyện ngắn   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=414'" class="LeftSubMenuItem">
+                                    Truyện tiểu thuyết   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=416'" class="LeftSubMenuItem">
+                                    Truyện trinh thám, vụ án   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=418'" class="LeftSubMenuItem">
+                                    Truyện viễn tưởng   
+                                </div>
+                            
+                    </div> 
+                
+                    <div onmouseover="this.style.color='#FF4419'" onmouseout="this.style.color='#272B74'" onclick="Expand('363', '6')" class="LeftMenuItem">
+                        Y học   
+                    </div>
+                    <div id="Item363" style="display: none;">
+                        
+                                <div onclick="location.href='TTBookList.aspx?catid=484'" class="LeftSubMenuItem">
+                                    Các khoa khác   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=482'" class="LeftSubMenuItem">
+                                    Nhi khoa   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=481'" class="LeftSubMenuItem">
+                                    Nội khoa   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=483'" class="LeftSubMenuItem">
+                                    Sản khoa   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=485'" class="LeftSubMenuItem">
+                                    Y học cổ truyền   
+                                </div>
+                            
+                                <div onclick="location.href='TTBookList.aspx?catid=480'" class="LeftSubMenuItem">
+                                    Y học thường thức   
+                                </div>
+                            
+                    </div> 
+                
+            <hr style="width: 145px; border-style: dashed; height: 1px; border-color: #213873;" /> 
+        </td>
+    </tr>
+</table>
+
+<!-- hiden -->
+<table border ="0" cellpadding="0" cellspacing="0" style="width:100%; display:none;">
+    <tr>
+        <td style="padding-bottom: 10px; padding-top: 10px;" align="center">
+            <img src="Images/logoVNB.gif" alt="" />
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+            <div style="width: 148px; height: 19px; background-color: #5A8ED6; padding-top: 4px; padding-left: 10px;" class="MenuLeftHeader">
+                Sách bán chạy
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td align="left" style="padding-left: 10px; padding-top: 20px;" valign="top">
+            
+        </td>
+    </tr>
+    <tr><td style="height: 15px;"></td></tr>
+    <tr>
+        <td align="left">
+            <div style="width: 148px; height: 19px; background-color: #5A8ED6; padding-top: 4px; padding-left: 10px;" class="MenuLeftHeader">
+                Sách mới
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-left: 10px; padding-top: 20px;" valign="top">
+            
+        </td>
+    </tr>
+    <tr>
+        <td style="height: 100%;">
+            <!-- Advertisement -->
+        </td>
+    </tr>
+</table>
+
+<script type="text/javascript">
+cols = document.getElementsByTagName('div');
+function Expand(id, count)
+{
+    if (count == '0')
+    {
+        //location.href = 'vinabooklist.aspx?catid=' + id;
+	location.href = 'booklist.aspx?catid=' + id;
+        return;
+    }
+    // hide all MenuItem
+    iLength = cols.length;
+    for (i = 0; i < iLength; i++)
+    {
+        if (cols[i].id.indexOf('Item') != -1)
+        {
+            cols[i].style.display = 'none';
+        }
+    }
+    if (document.getElementById('Item' + id))
+        document.getElementById('Item' + id).style.display = 'block';
+}
+</script>
+            </td>
+            <td valign="top" style="width: 591px; height: 100%;">
+                <table cellpadding="0" cellspacing="0" border="0" style="width: 100%; height: 100%;">
+                    <tr>
+                        <td style="height: 4px; width: 591px;">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="background-color: #182052; height: 7px;">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="height: 100%;" valign="top">
+                            
+    
+    <table width="100%" height="20px" cellpadding="0" cellspacing="0">
+        <tr>
+            <td style="height: 55px; padding-left: 10px;" valign="middle" align="center">
+                
+        <ul class="MenuTop" id="MenuTop">
+            <li class="liMenuItem">
+                <a href="http://tusach.tuoitre.com.vn">
+                    <img src="Images/iconHome.gif" alt="Về trang chủ" style="border-width: 0px;"/> 
+                </a>
+            </li>
+            <li class="liMenuItem">
+                <div class=MenuItem onmouseover="ClearClassName(this)">
+                     <a href="index.aspx">Trang chủ</a>
+                </div>
+            </li>
+             <li class="liMenuItem">
+                <div class=MenuItemVisted onmouseover="dropdownmenu(this, event, Tusachtuoitre, '120px');ClearClassName(this)" onmouseout="delayhidemenu()" >
+                    <a href="booklist.aspx?LibraryID=1" >Tủ sách tuổi trẻ</a>
+                </div>
+            </li>
+             <li class="liMenuItem">
+                <div class=MenuItem onmouseover="dropdownmenu(this, event, Docsachgiupban, '130px');ClearClassName(this)" onmouseout="delayhidemenu()" >
+                   <a href="booklist.aspx?LibraryID=2">Đọc sách giúp bạn</a>
+                </div>
+            </li>
+              <li class="liMenuItem">
+                <div class=MenuItem onmouseover="ClearClassName(this)" >
+                    <a href="ArticleList.aspx?ChannelID=172">Thế giới sách</a>
+                </div>
+            </li>
+             <li class="liMenuItem">
+                <div class=MenuItem onmouseover="ClearClassName(this)" >
+                    <a href="ArticleList.aspx?ChannelID=446">Quà tặng</a>
+                </div>
+            </li>
+        </ul>
+    
+
+
+            </td>
+        </tr>
+        <tr>
+            <td id="content-body" style="text-align:justify; padding-left:10px; padding-right: 15px;" align="left">
+                <script>getTimeString('2011/11/07 04:03:00');</script><br><P class=pTitle>Thế giới C</P>
+<P class=pHead>TT - Cuốn tiểu thuyết khi còn ở dạng bản thảo có tựa là<EM> Computer,</EM> sau đổi thành <EM>Thế giới C </EM>(NXB Trẻ). C là Computer - máy tính. </P>
+<P class=pHead>
+<TABLE style="BORDER-COLLAPSE: separate" class=tLegend border=0 cellSpacing=2 cellPadding=0 width=40 align=center>
+<TBODY>
+<TR>
+<TD><IMG class=lImage onclick="return showImage(this.src)" border=1 hspace=0 src="http://phienbancu.tuoitre.vn/Tianyon/ImageView.aspx?ThumbnailID=530054" width=350 Hyperlink></TD></TR>
+<TR>
+<TD>
+<P class=tLegend>Tác giả và cuốn tiểu thuyết đầu tay của mình - Ảnh: V.Q.&nbsp;</P></TD></TR></TBODY></TABLE></P>
+<P class=pBody>Một thế giới nằm trong chiếc máy tính, như một ô hình chữ nhật nhỏ bé nhưng đi hoài không hết. Và, một người viết trẻ, khi ngồi trước máy tính là bắt đầu hành trình kiến tạo thế giới của mình. Viết. Nhảy cóc từ máy tính này đến máy tính khác, từ folder (thư mục) này đến folder khác, và từng file (tập tin) kéo dài từ một đến chừng vô tận.</P>
+<P class=pBody>Trong (trên) máy tính cô gái đang viết, nhưng người ngoài nhìn vào không biết cô đang làm gì, đang viết gì. Khi cô gái mất tích, mọi liên kết trên mạng bị gián đoạn, không ai hiểu chuyện gì: cô gái mất tích thật không,&nbsp; tìm kiếm cô bằng cách nào? Các tuyến nhân vật thoạt trông khá rời rạc, nhưng rồi thấy tất cả bỗng link (kết nối) vào nhau, đó là một thao tác có ý thức viết mới của cây bút trẻ Vũ Lập Nhật (sinh năm 1990). </P>
+<P class=pAuthor>T.N.T.</P>
+						
+
+		
+            </td>
+        </tr>
+        <tr>
+            <td style="height: 15px; padding-left:10px; padding-right: 15px;">
+                <hr style="height: 1px;" />
+            </td>
+        </tr>
+        <tr>
+            <td align="center" style="height: 30px; vertical-align: top;"> 
+                <input type="image" name="ctl00$cplhCenter$cmdTop" id="ctl00_cplhCenter_cmdTop" title="Về đầu trang" src="Images/top.gif" onclick="var link=location.href;if (link.indexOf('#')==-1) {location.href=link+'#';} else {location.href=link;};return false;" border="0" />
+                <span style="height: 100%; vertical-align: top;">&nbsp;Về đầu trang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+            </td>
+        </tr>
+        <tr>
+            <td align="left" style="display:none; padding-left: 10px; padding-right: 15px;">
+                                
+                
+                        <span class="relative-title-articles">Tin bài liên quan:<br /></span>        
+                    
+                        <a class="viewall-link" href="ArticleList.aspx?TopicID=-1">*Xem tất cả...</a>
+                    
+            </td>     
+        </tr>
+    </table>
+
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td valign="top" style="width: 49px; background-image: url(images/rightBgr.gif);
+                background-repeat: repeat-y;">
+                <table cellpadding="0" cellspacing="0" border="0" style="width: 49px; height: 634px;
+                    background-image: url(images/rightBgrTop.gif); background-repeat: no-repeat;">
+                    <tr>
+                        <td style="width: 18px; height: 100%;">
+                        </td>
+                        <td style="width: 31px;" valign="top">
+                            <div style="width: 22px; height: 100px; margin-top: 40px; cursor: pointer;" onclick="location.href='booklist.aspx?LibraryID=1'">
+                            </div>
+                            <div style="width: 22px; height: 120px; margin-top: 20px; cursor: pointer;" onclick="location.href='booklist.aspx?LibraryID=2'">
+                            </div>
+                            <div style="width: 22px; height: 95px; margin-top: 25px; cursor: pointer;" onclick="location.href='ArticleList.aspx?ChannelID=172'">
+                            </div>
+                            <div style="width: 22px; height: 60px; margin-top: 25px; cursor: pointer;" onclick="location.href='ArticleList.aspx?ChannelID=446'">
+                            </div>
+                            <div style="width: 22px; height: 100px; margin-top: 20px; cursor: pointer;">
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="height: 49px;">
+                <table cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;">
+                    <tr>
+                        <td style="width: 165px; height: 28px; background-image: url(images/BgrLeft.gif);
+                            background-repeat: repeat-y;">
+                        </td>
+                        <td style="width: 590px;">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" style="height: 21px; background-image: url(images/plhBottomBgr.gif);
+                            background-repeat: repeat-x;">
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td valign="top" style="width: 49px; background-image: url(images/rightBgrBottom.gif);
+                background-repeat: no-repeat;">
+            </td>
+        </tr>
+        <!-- Bottom -->
+        <tr>
+            <td style="padding-top: 10px;" valign="top" colspan="3">
+                
+		<a href='http://quangcao.tuoitre.vn/Quangcao/Home/index.html' title='Bottom' target="_blank">
+			<img src='http://tusach.tuoitre.vn/Images/QC_footer.gif' border="0" alt="" />
+		</a>
+	
+
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <table cellpadding="0" cellspacing="0" border="0" style="width: 100%; height: 32px;">
+                    <tr>
+                        <td style="width: 160px; height: 32px">
+                            <a href="http://www.tuoitre.com.vn" target="_blank" class="LinkBottom">Copyright&nbsp;&copy;&nbsp;2009
+                                Tuổi Trẻ</a>
+                        </td>
+                        <td style="width: 90px;" align="center">
+                            <a href="http://www.tuoitre.com.vn/unicode.zip" target="_blank" class="LinkBottom">Font
+                                Unicode </a>
+                        </td>
+                        <td style="width: 130px;" align="center">
+                            <a href="http://quangcao.tuoitre.vn/Bang-gia-quang-cao/Tuoi-Tre-Online/index.html" target="_blank"
+                                class="LinkBottom">Bảng giá Quảng cáo </a>
+                        </td>
+                        <td style="width: 70px;" align="center">
+                            <a href=" http://quangcao.tuoitre.vn/Dat-bao-truc-tuyen/index.html" target="_blank"
+                                class="LinkBottom">Đặt Báo </a>
+                        </td>
+                        <td style="width: 70px;" align="center">
+                            <a href="#" target="_blank" class="LinkBottom">Sơ đồ Web </a>
+                        </td>
+                        <td style="width: 70px;" align="center">
+                            <a href="http://www.tuoitre.com.vn/Support/support.htm" target="_blank" class="LinkBottom">
+                                Hướng dẫn </a>
+                        </td>
+                        <td style="width: 70px;" align="center">
+                            <a href="http://www.tuoitre.com.vn/Tianyon/Index.aspx?ContactID=" target="_blank"
+                                class="LinkBottom">Liên hệ </a>
+                        </td>
+                        <td align="right">
+                            <a href="http://moore.vn" target="_blank" class="LinkBottom">Power By Moore Corp.</a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    </form>
+
+    <script type="text/javascript" language="javascript">
+    /* URL encode / decode */
+    var Url =
+    {
+        // public method for url encoding
+        encode: function(string) {
+            return escape(this._utf8_encode(string));
+        },
+
+        // public method for url decoding
+        decode: function(string) {
+            return this._utf8_decode(unescape(string));
+        },
+
+        // private method for UTF-8 encoding
+        _utf8_encode: function(string) {
+            string = string.replace(/\r\n/g, "\n");
+            var utftext = "";
+
+            for (var n = 0; n < string.length; n++) {
+
+                var c = string.charCodeAt(n);
+
+                if (c < 128) {
+                    utftext += String.fromCharCode(c);
+                }
+                else if ((c > 127) && (c < 2048)) {
+                    utftext += String.fromCharCode((c >> 6) | 192);
+                    utftext += String.fromCharCode((c & 63) | 128);
+                }
+                else {
+                    utftext += String.fromCharCode((c >> 12) | 224);
+                    utftext += String.fromCharCode(((c >> 6) & 63) | 128);
+                    utftext += String.fromCharCode((c & 63) | 128);
+                }
+
+            }
+
+            return utftext;
+        },
+
+        // private method for UTF-8 decoding
+        _utf8_decode: function(utftext) {
+            var string = "";
+            var i = 0;
+            var c = c1 = c2 = 0;
+
+            while (i < utftext.length) {
+
+                c = utftext.charCodeAt(i);
+
+                if (c < 128) {
+                    string += String.fromCharCode(c);
+                    i++;
+                }
+                else if ((c > 191) && (c < 224)) {
+                    c2 = utftext.charCodeAt(i + 1);
+                    string += String.fromCharCode(((c & 31) << 6) | (c2 & 63));
+                    i += 2;
+                }
+                else {
+                    c2 = utftext.charCodeAt(i + 1);
+                    c3 = utftext.charCodeAt(i + 2);
+                    string += String.fromCharCode(((c & 15) << 12) | ((c2 & 63) << 6) | (c3 & 63));
+                    i += 3;
+                }
+            }
+            return string;
+        }
+    }
+
+
+    function searchEngine() {
+        var url = "http://tuoitre.vn/Tim-kiem/Index.html?keyword=";
+
+        url += Url.encode(document.getElementById("txtKeyword").value) + "&scope=*&channel=-1&from=&to=&page=1";
+        window.open(url, "_blank", "", "");
+    }
+  
+    </script>
+
+    <script type="text/javascript" language="javascript">
+    function trapEnterKey(value, e) {
+        // the purpose of this function is to allow the enter key to
+        // point to the correct button to click.
+        var key;
+
+        if (window.event) {
+            // IE
+            key = window.event.keyCode;
+        }
+        else {
+            // firefox
+            key = e.which;
+        }
+
+        if (key == 13) {
+            var q = value;
+
+            if (q == '') {
+                return false;
+            }
+
+            if ((q.indexOf('AND') == -1) && (q.indexOf('OR') == -1) && (q.indexOf('"') == -1)) {
+                //q = '"' + q + '"';
+                q = q;
+            }
+
+            // endcode
+            q = Url.encode(q);
+
+            var urltto = "http://tuoitre.vn/Tim-kiem/Index.html?scope=*&channel=-1&from=&to=&page=1&keyword=" + q;
+            window.open(urltto, "_blank", "", "");
+
+            event.keyCode = 0;
+
+            return false;
+        }
+
+        return true;
+    }                         
+    </script>
+
+    <!-- Google Analytics: tusach.tuoitre.com.vn -->
+
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+
+    <script type="text/javascript">
+        try {
+            var pageTracker = _gat._getTracker("UA-6334499-1");
+            pageTracker._trackPageview();
+        } catch(err) {}
+    </script>
+
+    <!-- CMS Statistics -->
+
+    <script language="javascript" type="text/javascript" src="http://statistics.tuoitre.com.vn/TotalStatistics.js"></script>
+
+    <script language="javascript" type="text/javascript">
+        var paramSta    = "App=TUSACH";
+        var search      = document.location.search;
+        if(search != '')
+        {
+            paramSta = paramSta + "&" + search.replace("?","")
+        }
+        IframeRender(paramSta);
+    </script>
+
+</body>
+
+<script type="text/javascript">
+	setTypingMode(document.getElementById("cboInputMethod").selectedIndex);
+	initTyper(document.getElementById("txtKeyWord"));
+	//document.SearchSubmit.KeyWord.value = destroyURL(GetPostVariable('txtKeyWord', '').replace(/\+/g, ' '));
+</script>
+
+</html>
