@@ -1,0 +1,601 @@
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head><title>.: Tuổi trẻ Online - Địa ốc :.</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema" />
+		<script src="Tianyon.js" type="text/javascript"></script>
+		<script src="http://www3.tuoitre.com.vn/Calendar/PopCalendar.js" type="text/javascript"></script>
+		<script language="JavaScript" src="http://www3.tuoitre.com.vn/vietuni/js/vietuni.js" type="text/javascript"></script>
+		<link href="Tianyon.css" type="text/css" rel="stylesheet" />
+		<link rel="shortcut icon" href="favicon.ico" />
+	</head>
+	<body style="margin: 0; text-align:center">
+	    <div id="main">
+	        <div id="branding">
+                <div id="leftBranding" style="background-color:#035DA2;">
+                    <a id="logo" href="http://tuoitre.vn" target="_blank"></a>
+                </div>
+                <div id="rigthBranding" style="background-color:#035DA2; padding:0 0 0 0">
+                    <a style="float:left; margin: 20px 0 0 0; padding: 0 0 0 0; display:block;" href="http://diaoc.tuoitre.vn/">
+                        <img src="Images/LogoDiaoc.gif" style="border-style:none;" alt=""/>
+                    </a>
+                    <!--<Cache Time='11/11/2011 11:12:15 CH'>--><div style="display:block; float:right; margin: 20px 10px 0 0; padding: 0 0 0 0">
+<iframe frameborder="0" width="445px" height="60px" src="http://quangcao.tuoitre.com.vn/service/diaoc/topdiaoc.htm" marginheight="0" marginwidth="0" scrolling="no"></iframe>
+</div><!--</Cache>-->
+                </div>               
+                <ul id="ulHeader" style="font-family:Arial;width:778px; clear:both; height:25px">
+                    <li style="float:left; vertical-align:middle; border-right-color: White; font-weight:normal">
+                        ISSN 1859 - 1094
+                    </li>
+                    <li><a href="javascript:showWindow('http://chuyentrang.tuoitre.vn/Service/Contact.aspx', false, false, false, false, false, false, true, true, 800, 650, 0, 0);" style="border-right-color:White">Liên hệ</a></li>
+                    <li><a href="http://chuyentrang.tuoitre.vn/Newsletter/" target="_blank">Newsletter</a></li>
+                    <li><a href="http://quangcao.tuoitre.com.vn/Quangcao/" target="_blank">Quảng cáo</a></li>
+                    <li>
+                        <a href="http://mobi.tuoitre.com.vn/" target="_blank">Tuổi Trẻ Mobi</a>
+                    </li>
+                    <li>
+                        <a href="http://tuoitre.vn/Ao-trang/Index.html" target="_blank">Áo trắng</a>
+                    </li>
+                    <li><a href="http://chuyentrang.tuoitre.vn/TTC/" target="_blank">Tuổi Trẻ Cười</a></li>
+                    <li>
+                        <a href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Index.html" target="_blank">Tuổi Trẻ Cuối Tuần</a>
+                    </li>
+                </ul>
+                
+                <div style="clear:both; height:25px; width:778px; background-color:#f5f5f5; background-image: url(Images/ndHeadBgr.gif); background-repeat:repeat-x;">
+                    <h2 style="width:191px; height:25px; padding: 0 0 0 0; margin: 0 0 0 0; margin-left:9px; float:left; font-family:Arial; font-size:12px; line-height:25px; font-weight: normal; color:#616161;">	
+		                <script type="text/javascript">writeTime('2011/11/11 23:14:29')</script>						            
+	                </h2>
+	                <a href="http://tuoitre.vn/Rss/Index.html" target="_blank" style="display:block; float:right; height:25px; width:29px; margin-right:7px; background-image:url(Images/RssIcon.gif); background-repeat:no-repeat; background-position:left top"></a>
+	                
+
+<div style="float:right; width: 288px; height:25px">
+	<form style="margin: 4px 0 0 0;border-style:none; vertical-align:top;" >
+        <input 	value="Tìm kiếm" onblur="if (this.value=='') this.value='Tìm kiếm';" onfocus="if (this.value=='Tìm kiếm') this.value='';"  
+			style="margin-right:5px; margin-bottom:0px; vertical-align:top; background-color:white; border: solid 1px #868b93;font-size:11px; width:165px; color:#555555"
+			type="text" id="txtKeyword" name="SearchQuery" onkeypress="return trapEnterKey(this.value,event);" >
+	    <input type="image" src="Images/SearchIcon.gif" alt="Tìm Kiếm" style="vertical-align:top; margin-top:2px; height:15px; width:19px" name="image"  onclick="searchEngine();">
+	    <select id="cboInputMethodTop" class="cboInputMethodTop" style="margin-bottom:0px" onchange="setTypingMode(this.value * 1)"
+			name="Select1">
+			<option value="0">Off</option>
+			<option value="1">Telex</option>
+			<option value="2">VNI</option>
+		</select>
+	</form>
+</div>
+<script type="text/javascript" language="javascript">
+    /* URL encode / decode */
+    var Url =
+    {
+        // public method for url encoding
+        encode: function(string) {
+            return escape(this._utf8_encode(string));
+        },
+
+        // public method for url decoding
+        decode: function(string) {
+            return this._utf8_decode(unescape(string));
+        },
+
+        // private method for UTF-8 encoding
+        _utf8_encode: function(string) {
+            string = string.replace(/\r\n/g, "\n");
+            var utftext = "";
+
+            for (var n = 0; n < string.length; n++) {
+
+                var c = string.charCodeAt(n);
+
+                if (c < 128) {
+                    utftext += String.fromCharCode(c);
+                }
+                else if ((c > 127) && (c < 2048)) {
+                    utftext += String.fromCharCode((c >> 6) | 192);
+                    utftext += String.fromCharCode((c & 63) | 128);
+                }
+                else {
+                    utftext += String.fromCharCode((c >> 12) | 224);
+                    utftext += String.fromCharCode(((c >> 6) & 63) | 128);
+                    utftext += String.fromCharCode((c & 63) | 128);
+                }
+
+            }
+
+            return utftext;
+        },
+
+        // private method for UTF-8 decoding
+        _utf8_decode: function(utftext) {
+            var string = "";
+            var i = 0;
+            var c = c1 = c2 = 0;
+
+            while (i < utftext.length) {
+
+                c = utftext.charCodeAt(i);
+
+                if (c < 128) {
+                    string += String.fromCharCode(c);
+                    i++;
+                }
+                else if ((c > 191) && (c < 224)) {
+                    c2 = utftext.charCodeAt(i + 1);
+                    string += String.fromCharCode(((c & 31) << 6) | (c2 & 63));
+                    i += 2;
+                }
+                else {
+                    c2 = utftext.charCodeAt(i + 1);
+                    c3 = utftext.charCodeAt(i + 2);
+                    string += String.fromCharCode(((c & 15) << 12) | ((c2 & 63) << 6) | (c3 & 63));
+                    i += 3;
+                }
+            }
+            return string;
+        }
+    }
+    
+
+    function searchEngine() {
+        var url = "http://tuoitre.vn/Tim-kiem/Index.html?keyword=";
+
+        url += Url.encode(document.getElementById("txtKeyword").value) + "&scope=*&channel=-1&from=&to=&page=1";
+        window.open(url, "_blank", "", "");
+    }
+  
+</script>
+
+<script type="text/javascript" language="javascript">
+    function trapEnterKey(chkYM, value, e) {
+        // the purpose of this function is to allow the enter key to
+        // point to the correct button to click.
+        var key;
+
+        if (window.event) {
+            // IE
+            key = window.event.keyCode;
+        }
+        else {
+            // firefox
+            key = e.which;
+        }
+
+        if (key == 13) {
+            var q = value;
+
+            if (q == '') {
+                return false;
+            }
+
+            if ((q.indexOf('AND') == -1) && (q.indexOf('OR') == -1) && (q.indexOf('"') == -1)) {
+                //q = '"' + q + '"';
+                q = q;
+            }
+
+            // endcode
+            q = Url.encode(q);
+
+            var urltto = "http://tuoitre.vn/Tim-kiem/Index.html?scope=*&channel=-1&from=&to=&page=1&keyword=" + q;
+            window.open(urltto, "_blank", "", "");
+
+            event.keyCode = 0;
+
+            return false;
+        }
+
+        return true;
+    }                         
+</script>
+<script language="javascript" type="text/javascript">
+	//setTypingMode(document.getElementById("cboInputMethodTop").selectedIndex);
+	//initTyper(document.getElementById("SearchQueryTop"));
+	//document.getElementById("SearchQueryTop").value = destroyURL(GetPostVariable('SearchQuery', '').replace(/\+/g, ' '));
+</script>
+
+                </div>
+                
+                <div>
+                    
+
+<ul style="float:left; margin: 0 0 0 0; padding: 0 0 0 0; width: 778px; list-style-type:none; background-color: #3e3e3e; border: solid 1px #7c7c7c">
+     
+            <li style="float:left">
+                <a href="http://tuoitre.vn" title="Về Trang Chủ"  style="font-size:13px; font-family:Arial; text-align:center; font-weight:bold; color: White; background-image:url(Images/HomeIcon.gif); display: block; line-height: 20px; width:51px; background-color:#ffa400; border: solid 1px White">
+                    &nbsp;
+                </a>
+            </li>
+            <li style="float:left; border: solid 1px White; margin-left: 1px">
+                <a class="MenuNewa" href="http://diaoc.tuoitre.vn/" style="font-size:13px; font-family:Arial; text-align:center; font-weight:bold; display: block; line-height: 20px; width:96px;">
+                    Trang nhất
+                </a>
+            </li>
+           
+            <li style="float:left; background-color:Green; border: solid 1px White; margin-left: 1px">
+                <a class="MenuNewa" style="font-size:13px; font-family:Arial; text-align:center; font-weight:bold; display: block; line-height: 20px; padding: 0 21px 0 21px" href='Index.aspx?ChannelID=240'>
+                   Tư vấn nhà đất
+                </a>
+                <span style="display:none">
+                    
+                </span>
+            </li>
+           
+            <li style="float:left; background-color:Green; border: solid 1px White; margin-left: 1px">
+                <a class="MenuNewa" style="font-size:13px; font-family:Arial; text-align:center; font-weight:bold; display: block; line-height: 20px; padding: 0 21px 0 21px" href='Index.aspx?ChannelID=450'>
+                   Đô thị
+                </a>
+                <span style="display:none">
+                    
+                </span>
+            </li>
+           
+            <li style="float:left; background-color:Green; border: solid 1px White; margin-left: 1px">
+                <a class="MenuNewa" style="font-size:13px; font-family:Arial; text-align:center; font-weight:bold; display: block; line-height: 20px; padding: 0 21px 0 21px" href='Index.aspx?ChannelID=451'>
+                   Nhà đất
+                </a>
+                <span style="display:none">
+                    
+                </span>
+            </li>
+           
+            <li style="float:left; background-color:Green; border: solid 1px White; margin-left: 1px">
+                <a class="MenuNewa" style="font-size:13px; font-family:Arial; text-align:center; font-weight:bold; display: block; line-height: 20px; padding: 0 21px 0 21px" href='Index.aspx?ChannelID=452'>
+                   Thế giới kiến trúc
+                </a>
+                <span style="display:none">
+                    
+                </span>
+            </li>
+           
+            <li style="float:left; background-color:Green; border: solid 1px White; margin-left: 1px">
+                <a class="MenuNewa" style="font-size:13px; font-family:Arial; text-align:center; font-weight:bold; display: block; line-height: 20px; padding: 0 21px 0 21px" href='Index.aspx?ChannelID=368'>
+                   Không gian sống
+                </a>
+                <span style="display:none">
+                    
+                </span>
+            </li>
+        
+</ul>
+
+                </div>
+	        </div>
+	        <div id="left">
+	            
+
+<script type="text/javascript">
+    function onResponseClick()
+    {
+        showDialog('MailTo.aspx?ArticleID=' + GetPostVariable("ArticleID", null), 350, 420)
+    }
+</script>
+
+<div style="float:left; margin: 7px 0 0 0; padding: 0 0 0 0; width:512px;overflow:hidden;">
+    <h2 style="; margin: 0 0 0 0; padding: 0 0 0 0; font-family:Arial; font-size: 16px; height:20px; border-bottom: solid 1px #898989;">
+        <a style="font-family: Arial; font-size:16px; line-height:20px; text-transform:uppercase; color:#898989" href="Index.aspx?ChannelID=204">Địa ốc</a>
+    </h2>
+    <div id="divContent" style="float:left; margin:0 0 0 0; padding: 0 0 0 0; width:512px;">
+        <script>getTimeString('2011/11/11 07:18:00');</script><br><P class=pTitle>Giấy tờ giả “lọt cửa” công chứng </P>
+<P class=pHead>TT - Hầu hết người dân khi giao dịch về nhà đất đều tin tưởng vào bản hợp đồng được các công chứng viên xác nhận tính chân thực của những giấy tờ liên quan. Tuy nhiên, thực tế cho thấy không ít trường hợp ngay cả công chứng viên cũng bị qua mặt.</P>
+<OBJECT id=winMediaPlayerID codeBase=http://activex.microsoft.com/activex/controls/mplayer/en/nsmp2inf.cab#Version=6,4,5,715 type=application/x-oleobject height=45 standby="Loading Microsoft Windows Media Player components..." width=250 classid=CLSID:6BF52A52-394A-11D3-B153-00C04F79FAA6 name=winMediaPlayer><PARAM NAME="URL" VALUE="http://media.tuoitre.com.vn/Stream/audio/2011/thang11/11-11/Giay_to_gia.mp3"><PARAM NAME="rate" VALUE="1"><PARAM NAME="balance" VALUE="0"><PARAM NAME="currentPosition" VALUE="0"><PARAM NAME="defaultFrame" VALUE="0"><PARAM NAME="playCount" VALUE="999"><PARAM NAME="autoStart" VALUE="0"><PARAM NAME="currentMarker" VALUE="0"><PARAM NAME="invokeURLs" VALUE="-1"><PARAM NAME="baseURL" VALUE=""><PARAM NAME="volume" VALUE="50"><PARAM NAME="mute" VALUE="0"><PARAM NAME="uiMode" VALUE="full"><PARAM NAME="stretchToFit" VALUE="-1"><PARAM NAME="windowlessVideo" VALUE="0"><PARAM NAME="enabled" VALUE="-1"><PARAM NAME="enableContextMenu" VALUE="0"><PARAM NAME="fullScreen" VALUE="0"><PARAM NAME="SAMIStyle" VALUE=""><PARAM NAME="SAMILang" VALUE=""><PARAM NAME="SAMIFilename" VALUE=""><PARAM NAME="captioningID" VALUE=""><PARAM NAME="enableErrorDialogs" VALUE="0"><PARAM NAME="_cx" VALUE="6615"><PARAM NAME="_cy" VALUE="1191">
+<EMBED type="application/x-mplayer2" id="wmpEmbed" pluginspage="http://www.microsoft.com/Windows/MediaPlayer/" src="http://media.tuoitre.com.vn/Stream/audio/2011/thang11/11-11/Giay_to_gia.mp3" name="MediaPlayerTV" height="45" width="250" AutoSize="1" AutoStart="0" ClickToPlay="1" DisplaySize="1" EnableContextMenu="0" EnableFullScreenControls="1" EnableTracker="1" Mute="0" PlayCount="999" ShowControls="1" ShowAudioControls="1" ShowDisplay="0" ShowGotoBar="0" ShowPositionControls="1" ShowStatusBar="1" ShowTracker="1">
+</EMBED></OBJECT>
+<P class=pBody>
+<TABLE class=tLegend style="BORDER-COLLAPSE: separate" cellSpacing=2 cellPadding=0 width=40 align=center border=0>
+<TBODY>
+<TR>
+<TD><IMG class=lImage onclick="return showImage(this.src)" hspace=0 src="ImageView.aspx?ThumbnailID=530945" border=1 Hyperlink></TD></TR>
+<TR>
+<TD>Ngũ Cẩm Liên - người làm giả hồ sơ qua mặt công chứng viên nhiều lần - Ảnh: Gia Minh</TD></TR></TBODY></TABLE></P>
+<P class=pBody>Bà T.N. (66 tuổi, ngụ đường Phó Đức Chính, P.Nguyễn Thái Bình, Q.1, TP.HCM) có đơn gửi cơ quan điều tra Công an Q.1 tố cáo việc mình bán căn nhà đang ở cho cô hàng xóm là Ngũ Cẩm Liên (27 tuổi, ngụ Q.1), nhưng không hiểu sao phải đi rất nhiều lần tới các phòng công chứng, ký giấy bán, ủy quyền hết lần này tới lần khác.</P>
+<P class=pInterTitle>Một căn nhà qua 5 lần công chứng</P>
+<P class=pBody>Theo lời kể của bà T.N., vào tháng 9-2009 bà có ý định bán căn nhà đang ở. Liên là hàng xóm, hỏi mua và hứa sẽ để lại một phòng cho bà ở không tính tiền. Bà T.N. đồng ý bán cho Liên với giá 3 tỉ đồng, nhưng chỉ thỏa thuận miệng chứ chưa làm giấy tờ và giao tiền. Tháng 9-2010, Liên nói cần tiền làm ăn, nhờ bà T.N. ký hồ sơ cầm cố căn nhà để vay tiền. </P>
+<P class=pBody>Tuy nhiên, khi đưa bà T.N. tới văn phòng công chứng Sài Gòn, Liên đã “phù phép” để bà T.N. ký hợp đồng bán căn nhà cùng quyền sử dụng đất cho bà D.C.M. (ngụ Q.11) để Liên nhận tổng cộng 4 tỉ đồng. Về mặt pháp lý, lúc này căn nhà đã thuộc sở hữu của bà M. nhưng bà M. chưa sử dụng mà vẫn để cho bà T.N. ở.</P>
+<P class=pBody>Tiếp sau đó, Liên làm giả bộ sổ hồng cùng các giấy tờ liên quan tới căn nhà, nói với bà T.N. là do bà M. không có tiền trả nên phải bán cho người khác.</P>
+<P class=pBody>Ngày 4-1-2010, Liên dùng bộ hồ sơ giả này đề nghị bà T.N. tới văn phòng công chứng Gia Định làm hợp đồng bán cho ông L.A.D. (ngụ Q.1) và lấy được của ông D. tổng cộng 4 tỉ đồng. Cũng bằng thủ đoạn tương tự, Liên tiếp tục lừa bà T.N. ký hợp đồng ủy quyền, hợp đồng bán nhà ba lần nữa tại văn phòng công chứng Chợ Lớn, phòng công chứng số 2 và văn phòng công chứng Bến Thành. Toàn bộ những lần công chứng trên, Liên đều sử dụng giấy tờ giả, nhờ bà T.N. ký hoặc Liên tự ký và được các công chứng viên chứng thực. Trong đó, riêng văn phòng công chứng Bến Thành công chứng tới hai lần trong hai ngày liền nhau vào tháng 2-2011. Qua đó, Liên đã chiếm đoạt của nhiều người khoảng 20 tỉ đồng.</P>
+<P class=pBody>Vụ việc chỉ bị phát hiện khi bà T.N. chủ động tố cáo Liên có dấu hiệu lừa đảo và cơ quan điều tra vào cuộc làm rõ. Trước khi thực hiện hàng loạt vụ lừa đảo vừa nêu, Liên từng làm giả giấy tờ nhà đất để thế chấp vay mượn tiền của nhiều người, đã bị Cơ quan cảnh sát điều tra Công an Q.1 khởi tố, cho tại ngoại về hành vi làm giả con dấu, tài liệu của cơ quan tổ chức.</P>
+<P class=pBody>Liên đang bị Cơ quan điều tra Công an TP.HCM bắt tạm giam về hành vi lừa đảo chiếm đoạt tài sản và làm giả con dấu, tài liệu của cơ quan, tổ chức. Sau khi Liên bị bắt giam, còn nhiều người khác tiếp tục tới cơ quan điều tra tố cáo về hành vi của Liên bằng thủ đoạn tương tự. Theo lời khai của Liên, do thấy làm giả giấy tờ, qua mặt các công chứng viên quá dễ nên đã liên tục làm giả giấy tờ để đi lừa lấy tiền tiêu xài.</P>
+<P class=pInterTitle>Xác nhận trước, làm đơn sau vẫn công chứng</P>
+<P class=pBody>Ngày 25-10-2010, văn phòng công chứng Sài Gòn có công chứng hợp đồng chuyển nhượng quyền sử dụng đất của một lô đất tại xã Vĩnh Lộc A, huyện Bình Chánh, TP.HCM. Người đứng tên chủ quyền đất là bà Nguyễn Thị Mỹ (47 tuổi, ngụ Q.12, TP.HCM, là người độc thân, có giấy xác nhận của chính quyền địa phương kèm theo), người nhận chuyển nhượng là ông Đ.N.H. (ngụ Q.3). Ngay sau khi ký hợp đồng tại văn phòng công chứng Sài Gòn, được công chứng viên chứng thực, ông H. giao cho bà Mỹ 250 triệu đồng và sau đó bà này biến mất. Tìm về lô đất vừa mua thì ông H. “tá hỏa” phát hiện đất đó của người khác nên vội vàng trình báo cơ quan điều tra.</P>
+<P class=pBody>Cơ quan điều tra vào cuộc, xác định lô đất này thực chất là của một người dân tại Bình Chánh. Đầu tháng 10-2010, chủ lô đất nộp sổ hồng cho cán bộ địa chính của xã để làm thủ tục đổi sổ. Ngày 19-10-2010, trụ sở UBND xã bị kẻ gian đột nhập, lấy đi nhiều sổ hồng, sổ đỏ trong đó có bộ hồ sơ về lô đất mà sau đó bị làm giả, bán cho ông H.. Về hộ khẩu và CMND bà Mỹ sử dụng cũng được xác định là bị làm giả, địa chỉ ghi trong hộ khẩu ở Q.12 không có người tên Mỹ, số CMND bà Mỹ sử dụng thực chất là của người khác. </P>
+<P class=pBody>Điều đáng nói trong vụ việc này là toàn bộ giấy tờ có liên quan tới hợp đồng chuyển nhượng đều được làm giả, trong đó giấy xác nhận độc thân của bà Mỹ do UBND P.Thạnh Xuân cấp ghi sai về ngày tháng. Đơn xin xác nhận của bà Mỹ ký ngày 20-10-2010, nhưng ngày UBND P.Thạnh Xuân xác nhận lại là 10-9-2010, trước đó hơn một tháng nhưng không bị phát hiện.</P>
+<P class=pBody>
+<TABLE style="BORDER-COLLAPSE: separate" borderColor=#ecf2fe cellSpacing=5 borderColorDark=#456ae1 cellPadding=5 width="96%" align=center borderColorLight=#4792d9 border=0>
+<TBODY>
+<TR>
+<TD vAlign=center bgColor=#cfe6f9>
+<P class=pInterTitle>Lừa hụt tại văn phòng công chứng</P>
+<P class=pBody>Bà B.T.K.D. (44 tuổi, ngụ Q.10, TP.HCM) thông qua người môi giới biết được bà Nguyễn Lệ Hoa (46 tuổi) đang cần bán gấp một lô đất tại P.10, Q.6 vì đang kẹt tiền nợ. Giá trị thật của lô đất khoảng 2,7 tỉ đồng, nhưng rao bán chỉ... 2 tỉ đồng. Bà D. đã thận trọng, tới Phòng tài nguyên - môi trường quận, Công ty phát triển nhà Bình Phú và một công ty dịch vụ để kiểm tra hồ sơ về lô đất và được xác nhận thông tin về lô đất đúng nhưng không nói rõ tên chủ lô đất. Hai bên hẹn nhau tới văn phòng công chứng trung tâm để ký hợp đồng, thỏa thuận là ngay sau khi hợp đồng được ký, có chứng thực sẽ giao đủ tiền.</P>
+<P class=pBody>Tại phòng công chứng, qua kiểm tra công chứng viên phát hiện hồ sơ “có vấn đề”, đề nghị bà D. ra nói khéo để giữ chân các đối tượng chờ công an tới. Bà D. quay ra thì các đối tượng đã cao chạy xa bay vì biết có nguy cơ bị lộ. Một công chứng viên cho biết toàn bộ hồ sơ liên quan tới lô đất bị làm giả, riêng CMND, hộ khẩu thì chưa xác định chính xác. </P></TD></TR></TBODY></TABLE></P>
+<P class=pAuthor>GIA MINH</P>
+    </div>
+       <div style="border-top:1px dashed #8F8F8F; clear:both;">
+    </div> 
+    <ul style="float:left; clear:left; width:100%; padding:0 0 0 0; margin:0 0 0 0; list-style-type:none">            
+        
+    </ul>
+    <div style="width:100%; float:left;">
+        <form name="aspnetForm" method="post" action="Index.aspx?ArticleID=464463&amp;ChannelID=204" id="aspnetForm" enctype="multipart/form-data">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExMTgyNDQ5NjYPZBYEAgIPZBYCZg9kFgICAQ8WAh4LXyFJdGVtQ291bnQCBRYKAgEPZBYEZg8VAgMyNDAVVMawIHbhuqVuIG5ow6AgxJHhuqV0ZAIBDxYCHwBmZAICD2QWBGYPFQIDNDUwCsSQw7QgdGjhu4tkAgEPFgIfAGZkAgMPZBYEZg8VAgM0NTELTmjDoCDEkeG6pXRkAgEPFgIfAGZkAgQPZBYEZg8VAgM0NTIZVGjhur8gZ2nhu5tpIGtp4bq/biB0csO6Y2QCAQ8WAh8AZmQCBQ9kFgRmDxUCAzM2OBJLaMO0bmcgZ2lhbiBz4buRbmdkAgEPFgIfAGZkAgMPZBYCZg9kFgZmDxYCHgRUZXh0BblPPHNjcmlwdD5nZXRUaW1lU3RyaW5nKCcyMDExLzExLzExIDA3OjE4OjAwJyk7PC9zY3JpcHQ+PGJyPjxQIGNsYXNzPXBUaXRsZT5HaeG6pXkgdOG7nSBnaeG6oyDigJxs4buNdCBj4butYeKAnSBjw7RuZyBjaOG7qW5nIDwvUD4NCjxQIGNsYXNzPXBIZWFkPlRUIC0gSOG6p3UgaOG6v3QgbmfGsOG7nWkgZMOibiBraGkgZ2lhbyBk4buLY2ggduG7gSBuaMOgIMSR4bqldCDEkeG7gXUgdGluIHTGsOG7n25nIHbDoG8gYuG6o24gaOG7o3AgxJHhu5NuZyDEkcaw4bujYyBjw6FjIGPDtG5nIGNo4bupbmcgdmnDqm4geMOhYyBuaOG6rW4gdMOtbmggY2jDom4gdGjhu7FjIGPhu6dhIG5o4buvbmcgZ2nhuqV5IHThu50gbGnDqm4gcXVhbi4gVHV5IG5oacOqbiwgdGjhu7FjIHThur8gY2hvIHRo4bqleSBraMO0bmcgw610IHRyxrDhu51uZyBo4bujcCBuZ2F5IGPhuqMgY8O0bmcgY2jhu6luZyB2acOqbiBjxaluZyBi4buLIHF1YSBt4bq3dC48L1A+DQo8T0JKRUNUIGlkPXdpbk1lZGlhUGxheWVySUQgY29kZUJhc2U9aHR0cDovL2FjdGl2ZXgubWljcm9zb2Z0LmNvbS9hY3RpdmV4L2NvbnRyb2xzL21wbGF5ZXIvZW4vbnNtcDJpbmYuY2FiI1ZlcnNpb249Niw0LDUsNzE1IHR5cGU9YXBwbGljYXRpb24veC1vbGVvYmplY3QgaGVpZ2h0PTQ1IHN0YW5kYnk9IkxvYWRpbmcgTWljcm9zb2Z0IFdpbmRvd3MgTWVkaWEgUGxheWVyIGNvbXBvbmVudHMuLi4iIHdpZHRoPTI1MCBjbGFzc2lkPUNMU0lEOjZCRjUyQTUyLTM5NEEtMTFEMy1CMTUzLTAwQzA0Rjc5RkFBNiBuYW1lPXdpbk1lZGlhUGxheWVyPjxQQVJBTSBOQU1FPSJVUkwiIFZBTFVFPSJodHRwOi8vbWVkaWEudHVvaXRyZS5jb20udm4vU3RyZWFtL2F1ZGlvLzIwMTEvdGhhbmcxMS8xMS0xMS9HaWF5X3RvX2dpYS5tcDMiPjxQQVJBTSBOQU1FPSJyYXRlIiBWQUxVRT0iMSI+PFBBUkFNIE5BTUU9ImJhbGFuY2UiIFZBTFVFPSIwIj48UEFSQU0gTkFNRT0iY3VycmVudFBvc2l0aW9uIiBWQUxVRT0iMCI+PFBBUkFNIE5BTUU9ImRlZmF1bHRGcmFtZSIgVkFMVUU9IjAiPjxQQVJBTSBOQU1FPSJwbGF5Q291bnQiIFZBTFVFPSI5OTkiPjxQQVJBTSBOQU1FPSJhdXRvU3RhcnQiIFZBTFVFPSIwIj48UEFSQU0gTkFNRT0iY3VycmVudE1hcmtlciIgVkFMVUU9IjAiPjxQQVJBTSBOQU1FPSJpbnZva2VVUkxzIiBWQUxVRT0iLTEiPjxQQVJBTSBOQU1FPSJiYXNlVVJMIiBWQUxVRT0iIj48UEFSQU0gTkFNRT0idm9sdW1lIiBWQUxVRT0iNTAiPjxQQVJBTSBOQU1FPSJtdXRlIiBWQUxVRT0iMCI+PFBBUkFNIE5BTUU9InVpTW9kZSIgVkFMVUU9ImZ1bGwiPjxQQVJBTSBOQU1FPSJzdHJldGNoVG9GaXQiIFZBTFVFPSItMSI+PFBBUkFNIE5BTUU9IndpbmRvd2xlc3NWaWRlbyIgVkFMVUU9IjAiPjxQQVJBTSBOQU1FPSJlbmFibGVkIiBWQUxVRT0iLTEiPjxQQVJBTSBOQU1FPSJlbmFibGVDb250ZXh0TWVudSIgVkFMVUU9IjAiPjxQQVJBTSBOQU1FPSJmdWxsU2NyZWVuIiBWQUxVRT0iMCI+PFBBUkFNIE5BTUU9IlNBTUlTdHlsZSIgVkFMVUU9IiI+PFBBUkFNIE5BTUU9IlNBTUlMYW5nIiBWQUxVRT0iIj48UEFSQU0gTkFNRT0iU0FNSUZpbGVuYW1lIiBWQUxVRT0iIj48UEFSQU0gTkFNRT0iY2FwdGlvbmluZ0lEIiBWQUxVRT0iIj48UEFSQU0gTkFNRT0iZW5hYmxlRXJyb3JEaWFsb2dzIiBWQUxVRT0iMCI+PFBBUkFNIE5BTUU9Il9jeCIgVkFMVUU9IjY2MTUiPjxQQVJBTSBOQU1FPSJfY3kiIFZBTFVFPSIxMTkxIj4NCjxFTUJFRCB0eXBlPSJhcHBsaWNhdGlvbi94LW1wbGF5ZXIyIiBpZD0id21wRW1iZWQiIHBsdWdpbnNwYWdlPSJodHRwOi8vd3d3Lm1pY3Jvc29mdC5jb20vV2luZG93cy9NZWRpYVBsYXllci8iIHNyYz0iaHR0cDovL21lZGlhLnR1b2l0cmUuY29tLnZuL1N0cmVhbS9hdWRpby8yMDExL3RoYW5nMTEvMTEtMTEvR2lheV90b19naWEubXAzIiBuYW1lPSJNZWRpYVBsYXllclRWIiBoZWlnaHQ9IjQ1IiB3aWR0aD0iMjUwIiBBdXRvU2l6ZT0iMSIgQXV0b1N0YXJ0PSIwIiBDbGlja1RvUGxheT0iMSIgRGlzcGxheVNpemU9IjEiIEVuYWJsZUNvbnRleHRNZW51PSIwIiBFbmFibGVGdWxsU2NyZWVuQ29udHJvbHM9IjEiIEVuYWJsZVRyYWNrZXI9IjEiIE11dGU9IjAiIFBsYXlDb3VudD0iOTk5IiBTaG93Q29udHJvbHM9IjEiIFNob3dBdWRpb0NvbnRyb2xzPSIxIiBTaG93RGlzcGxheT0iMCIgU2hvd0dvdG9CYXI9IjAiIFNob3dQb3NpdGlvbkNvbnRyb2xzPSIxIiBTaG93U3RhdHVzQmFyPSIxIiBTaG93VHJhY2tlcj0iMSI+DQo8L0VNQkVEPjwvT0JKRUNUPg0KPFAgY2xhc3M9cEJvZHk+DQo8VEFCTEUgY2xhc3M9dExlZ2VuZCBzdHlsZT0iQk9SREVSLUNPTExBUFNFOiBzZXBhcmF0ZSIgY2VsbFNwYWNpbmc9MiBjZWxsUGFkZGluZz0wIHdpZHRoPTQwIGFsaWduPWNlbnRlciBib3JkZXI9MD4NCjxUQk9EWT4NCjxUUj4NCjxURD48SU1HIGNsYXNzPWxJbWFnZSBvbmNsaWNrPSJyZXR1cm4gc2hvd0ltYWdlKHRoaXMuc3JjKSIgaHNwYWNlPTAgc3JjPSJJbWFnZVZpZXcuYXNweD9UaHVtYm5haWxJRD01MzA5NDUiIGJvcmRlcj0xIEh5cGVybGluaz48L1REPjwvVFI+DQo8VFI+DQo8VEQ+TmfFqSBD4bqpbSBMacOqbiAtIG5nxrDhu51pIGzDoG0gZ2nhuqMgaOG7kyBzxqEgcXVhIG3hurd0IGPDtG5nIGNo4bupbmcgdmnDqm4gbmhp4buBdSBs4bqnbiAtIOG6om5oOiBHaWEgTWluaDwvVEQ+PC9UUj48L1RCT0RZPjwvVEFCTEU+PC9QPg0KPFAgY2xhc3M9cEJvZHk+QsOgIFQuTi4gKDY2IHR14buVaSwgbmfhu6UgxJHGsOG7nW5nIFBow7MgxJDhu6ljIENow61uaCwgUC5OZ3V54buFbiBUaMOhaSBCw6xuaCwgUS4xLCBUUC5IQ00pIGPDsyDEkcahbiBn4butaSBjxqEgcXVhbiDEkWnhu4F1IHRyYSBDw7RuZyBhbiBRLjEgdOG7kSBjw6FvIHZp4buHYyBtw6xuaCBiw6FuIGPEg24gbmjDoCDEkWFuZyDhu58gY2hvIGPDtCBow6BuZyB4w7NtIGzDoCBOZ8WpIEPhuqltIExpw6puICgyNyB0deG7lWksIG5n4bulIFEuMSksIG5oxrBuZyBraMO0bmcgaGnhu4N1IHNhbyBwaOG6o2kgxJFpIHLhuqV0IG5oaeG7gXUgbOG6p24gdOG7m2kgY8OhYyBwaMOybmcgY8O0bmcgY2jhu6luZywga8O9IGdp4bqleSBiw6FuLCDhu6d5IHF1eeG7gW4gaOG6v3QgbOG6p24gbsOgeSB04bubaSBs4bqnbiBraMOhYy48L1A+DQo8UCBjbGFzcz1wSW50ZXJUaXRsZT5N4buZdCBjxINuIG5ow6AgcXVhIDUgbOG6p24gY8O0bmcgY2jhu6luZzwvUD4NCjxQIGNsYXNzPXBCb2R5PlRoZW8gbOG7nWkga+G7gyBj4bunYSBiw6AgVC5OLiwgdsOgbyB0aMOhbmcgOS0yMDA5IGLDoCBjw7Mgw70gxJHhu4tuaCBiw6FuIGPEg24gbmjDoCDEkWFuZyDhu58uIExpw6puIGzDoCBow6BuZyB4w7NtLCBo4buPaSBtdWEgdsOgIGjhu6lhIHPhur0gxJHhu4MgbOG6oWkgbeG7mXQgcGjDsm5nIGNobyBiw6Ag4bufIGtow7RuZyB0w61uaCB0aeG7gW4uIELDoCBULk4uIMSR4buTbmcgw70gYsOhbiBjaG8gTGnDqm4gduG7m2kgZ2nDoSAzIHThu4kgxJHhu5NuZywgbmjGsG5nIGNo4buJIHRo4buPYSB0aHXhuq1uIG1p4buHbmcgY2jhu6kgY2jGsGEgbMOgbSBnaeG6pXkgdOG7nSB2w6AgZ2lhbyB0aeG7gW4uIFRow6FuZyA5LTIwMTAsIExpw6puIG7Ds2kgY+G6p24gdGnhu4FuIGzDoG0gxINuLCBuaOG7nSBiw6AgVC5OLiBrw70gaOG7kyBzxqEgY+G6p20gY+G7kSBjxINuIG5ow6AgxJHhu4MgdmF5IHRp4buBbi4gPC9QPg0KPFAgY2xhc3M9cEJvZHk+VHV5IG5oacOqbiwga2hpIMSRxrBhIGLDoCBULk4uIHThu5tpIHbEg24gcGjDsm5nIGPDtG5nIGNo4bupbmcgU8OgaSBHw7JuLCBMacOqbiDEkcOjIOKAnHBow7kgcGjDqXDigJ0gxJHhu4MgYsOgIFQuTi4ga8O9IGjhu6NwIMSR4buTbmcgYsOhbiBjxINuIG5ow6AgY8O5bmcgcXV54buBbiBz4butIGThu6VuZyDEkeG6pXQgY2hvIGLDoCBELkMuTS4gKG5n4bulIFEuMTEpIMSR4buDIExpw6puIG5o4bqtbiB04buVbmcgY+G7mW5nIDQgdOG7iSDEkeG7k25nLiBW4buBIG3hurd0IHBow6FwIGzDvSwgbMO6YyBuw6B5IGPEg24gbmjDoCDEkcOjIHRodeG7mWMgc+G7nyBo4buvdSBj4bunYSBiw6AgTS4gbmjGsG5nIGLDoCBNLiBjaMawYSBz4butIGThu6VuZyBtw6AgduG6q24gxJHhu4MgY2hvIGLDoCBULk4uIOG7ny48L1A+DQo8UCBjbGFzcz1wQm9keT5UaeG6v3Agc2F1IMSRw7MsIExpw6puIGzDoG0gZ2nhuqMgYuG7mSBz4buVIGjhu5NuZyBjw7luZyBjw6FjIGdp4bqleSB04budIGxpw6puIHF1YW4gdOG7m2kgY8SDbiBuaMOgLCBuw7NpIHbhu5tpIGLDoCBULk4uIGzDoCBkbyBiw6AgTS4ga2jDtG5nIGPDsyB0aeG7gW4gdHLhuqMgbsOqbiBwaOG6o2kgYsOhbiBjaG8gbmfGsOG7nWkga2jDoWMuPC9QPg0KPFAgY2xhc3M9cEJvZHk+TmfDoHkgNC0xLTIwMTAsIExpw6puIGTDuW5nIGLhu5kgaOG7kyBzxqEgZ2nhuqMgbsOgeSDEkeG7gSBuZ2jhu4sgYsOgIFQuTi4gdOG7m2kgdsSDbiBwaMOybmcgY8O0bmcgY2jhu6luZyBHaWEgxJDhu4tuaCBsw6BtIGjhu6NwIMSR4buTbmcgYsOhbiBjaG8gw7RuZyBMLkEuRC4gKG5n4bulIFEuMSkgdsOgIGzhuqV5IMSRxrDhu6NjIGPhu6dhIMO0bmcgRC4gdOG7lW5nIGPhu5luZyA0IHThu4kgxJHhu5NuZy4gQ8WpbmcgYuG6sW5nIHRo4bunIMSRb+G6oW4gdMawxqFuZyB04buxLCBMacOqbiB0aeG6v3AgdOG7pWMgbOG7q2EgYsOgIFQuTi4ga8O9IGjhu6NwIMSR4buTbmcg4buneSBxdXnhu4FuLCBo4bujcCDEkeG7k25nIGLDoW4gbmjDoCBiYSBs4bqnbiBu4buvYSB04bqhaSB2xINuIHBow7JuZyBjw7RuZyBjaOG7qW5nIENo4bujIEzhu5tuLCBwaMOybmcgY8O0bmcgY2jhu6luZyBz4buRIDIgdsOgIHbEg24gcGjDsm5nIGPDtG5nIGNo4bupbmcgQuG6v24gVGjDoG5oLiBUb8OgbiBi4buZIG5o4buvbmcgbOG6p24gY8O0bmcgY2jhu6luZyB0csOqbiwgTGnDqm4gxJHhu4F1IHPhu60gZOG7pW5nIGdp4bqleSB04budIGdp4bqjLCBuaOG7nSBiw6AgVC5OLiBrw70gaG/hurdjIExpw6puIHThu7Ega8O9IHbDoCDEkcaw4bujYyBjw6FjIGPDtG5nIGNo4bupbmcgdmnDqm4gY2jhu6luZyB0aOG7sWMuIFRyb25nIMSRw7MsIHJpw6puZyB2xINuIHBow7JuZyBjw7RuZyBjaOG7qW5nIELhur9uIFRow6BuaCBjw7RuZyBjaOG7qW5nIHThu5tpIGhhaSBs4bqnbiB0cm9uZyBoYWkgbmfDoHkgbGnhu4FuIG5oYXUgdsOgbyB0aMOhbmcgMi0yMDExLiBRdWEgxJHDsywgTGnDqm4gxJHDoyBjaGnhur9tIMSRb+G6oXQgY+G7p2Egbmhp4buBdSBuZ8aw4budaSBraG/huqNuZyAyMCB04buJIMSR4buTbmcuPC9QPg0KPFAgY2xhc3M9cEJvZHk+VuG7pSB2aeG7h2MgY2jhu4kgYuG7iyBwaMOhdCBoaeG7h24ga2hpIGLDoCBULk4uIGNo4bunIMSR4buZbmcgdOG7kSBjw6FvIExpw6puIGPDsyBk4bqldSBoaeG7h3UgbOG7q2EgxJHhuqNvIHbDoCBjxqEgcXVhbiDEkWnhu4F1IHRyYSB2w6BvIGN14buZYyBsw6BtIHLDtS4gVHLGsOG7m2Mga2hpIHRo4buxYyBoaeG7h24gaMOgbmcgbG/huqF0IHbhu6UgbOG7q2EgxJHhuqNvIHbhu6thIG7DqnUsIExpw6puIHThu6tuZyBsw6BtIGdp4bqjIGdp4bqleSB04budIG5ow6AgxJHhuqV0IMSR4buDIHRo4bq/IGNo4bqlcCB2YXkgbcaw4bujbiB0aeG7gW4gY+G7p2Egbmhp4buBdSBuZ8aw4budaSwgxJHDoyBi4buLIEPGoSBxdWFuIGPhuqNuaCBzw6F0IMSRaeG7gXUgdHJhIEPDtG5nIGFuIFEuMSBraOG7n2kgdOG7kSwgY2hvIHThuqFpIG5nb+G6oWkgduG7gSBow6BuaCB2aSBsw6BtIGdp4bqjIGNvbiBk4bqldSwgdMOgaSBsaeG7h3UgY+G7p2EgY8ahIHF1YW4gdOG7lSBjaOG7qWMuPC9QPg0KPFAgY2xhc3M9cEJvZHk+TGnDqm4gxJFhbmcgYuG7iyBDxqEgcXVhbiDEkWnhu4F1IHRyYSBDw7RuZyBhbiBUUC5IQ00gYuG6r3QgdOG6oW0gZ2lhbSB24buBIGjDoG5oIHZpIGzhu6thIMSR4bqjbyBjaGnhur9tIMSRb+G6oXQgdMOgaSBz4bqjbiB2w6AgbMOgbSBnaeG6oyBjb24gZOG6pXUsIHTDoGkgbGnhu4d1IGPhu6dhIGPGoSBxdWFuLCB04buVIGNo4bupYy4gU2F1IGtoaSBMacOqbiBi4buLIGLhuq90IGdpYW0sIGPDsm4gbmhp4buBdSBuZ8aw4budaSBraMOhYyB0aeG6v3AgdOG7pWMgdOG7m2kgY8ahIHF1YW4gxJFp4buBdSB0cmEgdOG7kSBjw6FvIHbhu4EgaMOgbmggdmkgY+G7p2EgTGnDqm4gYuG6sW5nIHRo4bunIMSRb+G6oW4gdMawxqFuZyB04buxLiBUaGVvIGzhu51pIGtoYWkgY+G7p2EgTGnDqm4sIGRvIHRo4bqleSBsw6BtIGdp4bqjIGdp4bqleSB04budLCBxdWEgbeG6t3QgY8OhYyBjw7RuZyBjaOG7qW5nIHZpw6puIHF1w6EgZOG7hSBuw6puIMSRw6MgbGnDqm4gdOG7pWMgbMOgbSBnaeG6oyBnaeG6pXkgdOG7nSDEkeG7gyDEkWkgbOG7q2EgbOG6pXkgdGnhu4FuIHRpw6p1IHjDoGkuPC9QPg0KPFAgY2xhc3M9cEludGVyVGl0bGU+WMOhYyBuaOG6rW4gdHLGsOG7m2MsIGzDoG0gxJHGoW4gc2F1IHbhuqtuIGPDtG5nIGNo4bupbmc8L1A+DQo8UCBjbGFzcz1wQm9keT5OZ8OgeSAyNS0xMC0yMDEwLCB2xINuIHBow7JuZyBjw7RuZyBjaOG7qW5nIFPDoGkgR8OybiBjw7MgY8O0bmcgY2jhu6luZyBo4bujcCDEkeG7k25nIGNodXnhu4NuIG5oxrDhu6NuZyBxdXnhu4FuIHPhu60gZOG7pW5nIMSR4bqldCBj4bunYSBt4buZdCBsw7QgxJHhuqV0IHThuqFpIHjDoyBWxKluaCBM4buZYyBBLCBodXnhu4duIELDrG5oIENow6FuaCwgVFAuSENNLiBOZ8aw4budaSDEkeG7qW5nIHTDqm4gY2jhu6cgcXV54buBbiDEkeG6pXQgbMOgIGLDoCBOZ3V54buFbiBUaOG7iyBN4bu5ICg0NyB0deG7lWksIG5n4bulIFEuMTIsIFRQLkhDTSwgbMOgIG5nxrDhu51pIMSR4buZYyB0aMOibiwgY8OzIGdp4bqleSB4w6FjIG5o4bqtbiBj4bunYSBjaMOtbmggcXV54buBbiDEkeG7i2EgcGjGsMahbmcga8OobSB0aGVvKSwgbmfGsOG7nWkgbmjhuq1uIGNodXnhu4NuIG5oxrDhu6NuZyBsw6Agw7RuZyDEkC5OLkguIChuZ+G7pSBRLjMpLiBOZ2F5IHNhdSBraGkga8O9IGjhu6NwIMSR4buTbmcgdOG6oWkgdsSDbiBwaMOybmcgY8O0bmcgY2jhu6luZyBTw6BpIEfDsm4sIMSRxrDhu6NjIGPDtG5nIGNo4bupbmcgdmnDqm4gY2jhu6luZyB0aOG7sWMsIMO0bmcgSC4gZ2lhbyBjaG8gYsOgIE3hu7kgMjUwIHRyaeG7h3UgxJHhu5NuZyB2w6Agc2F1IMSRw7MgYsOgIG7DoHkgYmnhur9uIG3huqV0LiBUw6xtIHbhu4EgbMO0IMSR4bqldCB24burYSBtdWEgdGjDrCDDtG5nIEguIOKAnHTDoSBo4buPYeKAnSBwaMOhdCBoaeG7h24gxJHhuqV0IMSRw7MgY+G7p2EgbmfGsOG7nWkga2jDoWMgbsOqbiB24buZaSB2w6BuZyB0csOsbmggYsOhbyBjxqEgcXVhbiDEkWnhu4F1IHRyYS48L1A+DQo8UCBjbGFzcz1wQm9keT5DxqEgcXVhbiDEkWnhu4F1IHRyYSB2w6BvIGN14buZYywgeMOhYyDEkeG7i25oIGzDtCDEkeG6pXQgbsOgeSB0aOG7sWMgY2jhuqV0IGzDoCBj4bunYSBt4buZdCBuZ8aw4budaSBkw6JuIHThuqFpIELDrG5oIENow6FuaC4gxJDhuqd1IHRow6FuZyAxMC0yMDEwLCBjaOG7pyBsw7QgxJHhuqV0IG7hu5lwIHPhu5UgaOG7k25nIGNobyBjw6FuIGLhu5kgxJHhu4thIGNow61uaCBj4bunYSB4w6MgxJHhu4MgbMOgbSB0aOG7pyB04bulYyDEkeG7lWkgc+G7lS4gTmfDoHkgMTktMTAtMjAxMCwgdHLhu6Ugc+G7nyBVQk5EIHjDoyBi4buLIGvhursgZ2lhbiDEkeG7mXQgbmjhuq1wLCBs4bqleSDEkWkgbmhp4buBdSBz4buVIGjhu5NuZywgc+G7lSDEkeG7jyB0cm9uZyDEkcOzIGPDsyBi4buZIGjhu5Mgc8ahIHbhu4EgbMO0IMSR4bqldCBtw6Agc2F1IMSRw7MgYuG7iyBsw6BtIGdp4bqjLCBiw6FuIGNobyDDtG5nIEguLiBW4buBIGjhu5kga2jhuql1IHbDoCBDTU5EIGLDoCBN4bu5IHPhu60gZOG7pW5nIGPFqW5nIMSRxrDhu6NjIHjDoWMgxJHhu4tuaCBsw6AgYuG7iyBsw6BtIGdp4bqjLCDEkeG7i2EgY2jhu4kgZ2hpIHRyb25nIGjhu5kga2jhuql1IOG7nyBRLjEyIGtow7RuZyBjw7MgbmfGsOG7nWkgdMOqbiBN4bu5LCBz4buRIENNTkQgYsOgIE3hu7kgc+G7rSBk4bulbmcgdGjhu7FjIGNo4bqldCBsw6AgY+G7p2EgbmfGsOG7nWkga2jDoWMuIDwvUD4NCjxQIGNsYXNzPXBCb2R5PsSQaeG7gXUgxJHDoW5nIG7Ds2kgdHJvbmcgduG7pSB2aeG7h2MgbsOgeSBsw6AgdG/DoG4gYuG7mSBnaeG6pXkgdOG7nSBjw7MgbGnDqm4gcXVhbiB04bubaSBo4bujcCDEkeG7k25nIGNodXnhu4NuIG5oxrDhu6NuZyDEkeG7gXUgxJHGsOG7o2MgbMOgbSBnaeG6oywgdHJvbmcgxJHDsyBnaeG6pXkgeMOhYyBuaOG6rW4gxJHhu5ljIHRow6JuIGPhu6dhIGLDoCBN4bu5IGRvIFVCTkQgUC5UaOG6oW5oIFh1w6JuIGPhuqVwIGdoaSBzYWkgduG7gSBuZ8OgeSB0aMOhbmcuIMSQxqFuIHhpbiB4w6FjIG5o4bqtbiBj4bunYSBiw6AgTeG7uSBrw70gbmfDoHkgMjAtMTAtMjAxMCwgbmjGsG5nIG5nw6B5IFVCTkQgUC5UaOG6oW5oIFh1w6JuIHjDoWMgbmjhuq1uIGzhuqFpIGzDoCAxMC05LTIwMTAsIHRyxrDhu5tjIMSRw7MgaMahbiBt4buZdCB0aMOhbmcgbmjGsG5nIGtow7RuZyBi4buLIHBow6F0IGhp4buHbi48L1A+DQo8UCBjbGFzcz1wQm9keT4NCjxUQUJMRSBzdHlsZT0iQk9SREVSLUNPTExBUFNFOiBzZXBhcmF0ZSIgYm9yZGVyQ29sb3I9I2VjZjJmZSBjZWxsU3BhY2luZz01IGJvcmRlckNvbG9yRGFyaz0jNDU2YWUxIGNlbGxQYWRkaW5nPTUgd2lkdGg9Ijk2JSIgYWxpZ249Y2VudGVyIGJvcmRlckNvbG9yTGlnaHQ9IzQ3OTJkOSBib3JkZXI9MD4NCjxUQk9EWT4NCjxUUj4NCjxURCB2QWxpZ249Y2VudGVyIGJnQ29sb3I9I2NmZTZmOT4NCjxQIGNsYXNzPXBJbnRlclRpdGxlPkzhu6thIGjhu6V0IHThuqFpIHbEg24gcGjDsm5nIGPDtG5nIGNo4bupbmc8L1A+DQo8UCBjbGFzcz1wQm9keT5Cw6AgQi5ULksuRC4gKDQ0IHR14buVaSwgbmfhu6UgUS4xMCwgVFAuSENNKSB0aMO0bmcgcXVhIG5nxrDhu51pIG3DtGkgZ2nhu5tpIGJp4bq/dCDEkcaw4bujYyBiw6AgTmd1eeG7hW4gTOG7hyBIb2EgKDQ2IHR14buVaSkgxJFhbmcgY+G6p24gYsOhbiBn4bqlcCBt4buZdCBsw7QgxJHhuqV0IHThuqFpIFAuMTAsIFEuNiB2w6wgxJFhbmcga+G6uXQgdGnhu4FuIG7hu6MuIEdpw6EgdHLhu4sgdGjhuq10IGPhu6dhIGzDtCDEkeG6pXQga2hv4bqjbmcgMiw3IHThu4kgxJHhu5NuZywgbmjGsG5nIHJhbyBiw6FuIGNo4buJLi4uIDIgdOG7iSDEkeG7k25nLiBCw6AgRC4gxJHDoyB0aOG6rW4gdHLhu41uZywgdOG7m2kgUGjDsm5nIHTDoGkgbmd1ecOqbiAtIG3DtGkgdHLGsOG7nW5nIHF14bqtbiwgQ8O0bmcgdHkgcGjDoXQgdHJp4buDbiBuaMOgIELDrG5oIFBow7ogdsOgIG3hu5l0IGPDtG5nIHR5IGThu4tjaCB24bulIMSR4buDIGtp4buDbSB0cmEgaOG7kyBzxqEgduG7gSBsw7QgxJHhuqV0IHbDoCDEkcaw4bujYyB4w6FjIG5o4bqtbiB0aMO0bmcgdGluIHbhu4EgbMO0IMSR4bqldCDEkcO6bmcgbmjGsG5nIGtow7RuZyBuw7NpIHLDtSB0w6puIGNo4bunIGzDtCDEkeG6pXQuIEhhaSBiw6puIGjhurluIG5oYXUgdOG7m2kgdsSDbiBwaMOybmcgY8O0bmcgY2jhu6luZyB0cnVuZyB0w6JtIMSR4buDIGvDvSBo4bujcCDEkeG7k25nLCB0aOG7j2EgdGh14bqtbiBsw6AgbmdheSBzYXUga2hpIGjhu6NwIMSR4buTbmcgxJHGsOG7o2Mga8O9LCBjw7MgY2jhu6luZyB0aOG7sWMgc+G6vSBnaWFvIMSR4bunIHRp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" />
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCgLlxaO0BQKujo7vDQKes8HnAQK9vtWLDwLi8/XjAgLkw8LgDwKpweLXBgL/hbSVDgLQytrXCAKLh5j9DY6g+4R3sLlHoCbYtXY25AzP2DiG" />
+  <div style="background-color:#eaf1f9; width:510px; height:380px; background-repeat:repeat; padding:2 0 0 0; margin:0 0 0 0">                
+        <p style="float:left; margin:0; padding:0">
+            <span class="ContactText" style="width:65px; float:left">Họ và tên</span>
+            <input name="_ctl1:contactInline:txtName" type="text" id="_ctl1_contactInline_txtName" class="PanelContent" />&nbsp;&nbsp;        
+            <span class="ContactText" style="width:90px">Địa chỉ Email</span>
+            <input name="_ctl1:contactInline:txtEmail" type="text" id="_ctl1_contactInline_txtEmail" class="PanelContent" />
+        </p>                 
+        <p style="float:left; margin:3px 0 0 0; padding:0 0 0 0">
+            <span class="ContactText" style="width:65px; float:left">Gửi tới&nbsp;&nbsp;&nbsp;&nbsp;</span>
+            <select name="_ctl1:contactInline:cboContact" id="_ctl1_contactInline_cboContact" class="PanelContent">
+	<option value="online@tuoitre.net.vn;tto@tuoitre.com.vn;nguyenhanh@tuoitre.com.vn;ctbd@tuoitre.com.vn">To&#224; soạn</option>
+	<option value="quangcao@tuoitre.com.vn">Ph&#242;ng quảng c&#225;o</option>
+	<option value="phathanh@tuoitre.com.vn">Ph&#242;ng ph&#225;t h&#224;nh</option>
+
+</select>&nbsp;&nbsp;        
+            <span class="ContactText" style="width:90px">Tiêu đề&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+            <input name="_ctl1:contactInline:txtTitle" type="text" id="_ctl1_contactInline_txtTitle" class="PanelContent" />
+        </p>                  
+                
+       <div style="width:502px; float:left; padding:0; margin:0">
+            <p style="float:left; padding-left:3px; padding-top:2px; width: 76px;" class="ContactText">Nội dung</p>
+            <p style="float:right; padding-top:2px; padding-right:10px; width: 220px;">
+                <span class="ContactText">Gõ tiếng Việt</span>							            
+	            <select  id="cboInputMethodContactInline"  style="background-image:url(Skin/Banner/); width:60px; height:19px; font-size:11px; border-color:#b9b9bb; border-width:1px"  onchange="setTypingMode(this.value * 1)"
+                    name="Select1">
+                    <option value="0" selected>Off</option>
+                    <option value="1">Telex</option>
+                    <option value="2">VNI</option>
+                </select> 
+                <a style="color:#003399; font-family:Arial; font-size:13px" href="http://www.tuoitre.com.vn/Tianyon/Index.aspx?ArticleID=29762&amp;ChannelID=67">
+					Hướng dẫn
+	            </a>
+			</p>
+        </div>                
+        <div style="float:left;background-color:#eaf1f9; margin:0 0 0 0; padding:0 0 0 0; width:500px; padding-left:3px;" class="ContactText1">
+             <textarea name="_ctl1:contactInline:txtContent" id="_ctl1_contactInline_txtContent" class="ContactText"></textarea>
+        </div>     
+        <div style="float:left;padding-left:3px; padding-top:8px; width:500px" class="ContactText1">Đính kèm tài liệu</div>                    
+        <p style="float:left; margin:0; padding:0">
+            <span class="ContactText">Tài liệu 1</span>
+            <input name="_ctl1:contactInline:File1" type="file" id="_ctl1_contactInline_File1" style="line-height:10px; padding:0 0 0 0; margin:0 0 0 0" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         
+            <span class="ContactText2">(Tối đa 1MB)</span>&nbsp;&nbsp;&nbsp;
+            <input type="submit" name="_ctl1:contactInline:cmdSend" value="Gửi đi" id="_ctl1_contactInline_cmdSend" /> 
+        </p>               
+        <p style="float:left;margin:0; padding:0">
+            <span class="ContactText">Tài liệu 2</span>
+            <input name="_ctl1:contactInline:File2" type="file" id="_ctl1_contactInline_File2" style="padding:0 0 0 0; margin:0 0 0 0" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      
+            <span class="ContactText2">(Tối đa 1MB) </span>           
+        </p>              
+        <p style="float:left;margin:0; padding:0">
+            <span class="ContactText">Tài liệu 3</span>
+            <input name="_ctl1:contactInline:File3" type="file" id="_ctl1_contactInline_File3" style="padding:0 0 0 0; margin:0 0 0 0" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         
+            <span class="ContactText2">(Tối đa 1MB)</span>            
+        </p>              
+        <p style="float:left;margin:0; padding:0">
+            <span class="ContactText">Tài liệu 4</span>
+            <input name="_ctl1:contactInline:File4" type="file" id="_ctl1_contactInline_File4" style="padding:0 0 0 0; margin:0 0 0 0" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      
+            <span class="ContactText2">(Tối đa 1MB)</span>
+        </p> 
+        <p><input name="_ctl1:contactInline:hidReferrer" type="hidden" id="_ctl1_contactInline_hidReferrer" value="http://diaoc.tuoitre.vn/Index.aspx?ArticleID=464463&amp;ChannelID=204" /></p>       
+    </div>   
+</form>
+<script language="javascript" type="text/javascript">
+    function onContactSubmit()
+    {
+	    alert("Cảm ơn bạn đã gửi thư tới Tuổi Trẻ.");
+    	
+	    return true;
+    }
+    
+     // Form Clearn
+	document.getElementById("_ctl1_contactInline_txtContent").value = "";
+	document.getElementById("_ctl1_contactInline_txtTitle").value = "";	
+    
+    // Set Typing Mode
+    setTypingMode(document.getElementById("cboInputMethodContactInline").selectedIndex);
+	initTyper(document.getElementById("_ctl1_contactInline_txtContent"));
+	initTyper(document.getElementById("_ctl1_contactInline_txtName"));
+	initTyper(document.getElementById("_ctl1_contactInline_txtTitle"));	
+</script>
+    </div>    
+    <!--In Phản hồi Gửi Top-->
+    <div style="float:right" align="right" >	
+        <a href="JavaScript:location.href='PrintView.aspx'+location.search">
+            <img src="Images/print.gif" alt="In bài" width="61px" height="22" border="0" />&nbsp; &nbsp;&nbsp;	  
+        </a>      
+        <a href="#">
+            <img src="images/returnTop.gif" border="0" alt="Về đầu trang" /> 
+        </a>&nbsp; &nbsp;&nbsp;
+        <input onclick="popUpCalendar(this, this, 'dd-mm-yyyy')" type="image" src="images/ViewDay.gif" alt="" />&nbsp;&nbsp;&nbsp;                   
+    </div>
+    <div style="height:5px; width:100%; clear:both"></div>
+    <span class="TopicTitle" style="color:#990000; font-size:12px; letter-spacing:1px">Các tin khác</span>
+    <br />
+    <ul style="float:left; clear:left; width:100%; padding:0 0 0 0; margin:0 0 0 0; list-style-type:none">        
+        
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=464493&ChannelID=204' title='TT - Chiều 10-11, Ban quản lý đầu tư - xây dựng khu đô thị mới Thủ Thiêm (TP.HCM) gặp gỡ một số cơ quan báo chí, cung cấp thông tin liên quan đến việc thực hiện kết luận của chủ tịch UBND TP về thu hồi chứng nhận đầu tư dự án công viên phần mềm Thủ Thiêm (Tuổi Trẻ 10-11).'>
+                        Chưa thu được tiền thuê đất - <span style="font-size:12px; font-family:Arial; color:#616161"> (11/11)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=464327&ChannelID=204' title='TT - Các ngân hàng (NH) đang ráo riết việc thu nợ để giảm dư nợ tín dụng bất động sản (BĐS) theo đúng tiến độ, nhưng nhiều doanh nghiệp BĐS thậm chí không xoay đủ tiền để trả lãi vay do thị trường ế ẩm.'>
+                        Gán nợ cho ngân hàng - <span style="font-size:12px; font-family:Arial; color:#616161"> (10/11)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=464321&ChannelID=204' title='TT - Theo Sở Xây dựng TP.HCM, toàn TP hiện có khoảng 160 nhà bị nghiêng, lún nhưng đến nay chỉ có 14 căn đã và đang được xử lý, gia cố. Số còn lại chủ nhà chưa có kế hoạch...'>
+                        Thiếu tiền xử lý nhà nghiêng, lún - <span style="font-size:12px; font-family:Arial; color:#616161"> (10/11)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=464215&ChannelID=204' title='TT - Ngày 8-11, theo thông tin từ Công ty CP Địa ốc dầu khí (PVL), đợt bốc thăm mua căn hộ dự án PetroVietnam Landmark dự kiến tổ chức ngày 8-11 đã thất bại do số người tham gia không đủ số lượng tối thiểu theo quy định.'>
+                        Đợt đấu giá căn hộ “bán tháo” thất bại - <span style="font-size:12px; font-family:Arial; color:#616161"> (09/11)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=464211&ChannelID=204' title='TT - Ngày 8-11 tại Sở Ngoại vụ TP.HCM, khu đất số 3-5 Lê Văn Hưu, quận 1 đã được Chính phủ VN bàn giao cho Chính phủ CHLB Đức để xây dựng dự án Ngôi nhà Đức.'>
+                        Xây dựng Ngôi nhà Đức tại TP.HCM - <span style="font-size:12px; font-family:Arial; color:#616161"> (09/11)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=463505&ChannelID=204' title='TT - Ngày 3-11, tại TP.HCM, Bộ Xây dựng tổ chức cho các sở, ngành chức năng ở các tỉnh, thành phía Nam góp ý dự thảo nghị định đầu tiên về cấp phép xây dựng (CPXD).'>
+                        Không nên “cải lùi” thủ tục - <span style="font-size:12px; font-family:Arial; color:#616161"> (04/11)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=463504&ChannelID=204' title='TT - Chúng tôi mua đất của Công ty cổ phần Đầu tư kinh doanh nhà trong dự án khu dân cư Bình Lợi, P.13, Q.Bình Thạnh (TP.HCM) từ năm 1998. Năm 2000, chúng tôi xây nhà ở nhưng đến nay vẫn chưa được cấp giấy chứng nhận quyền sử dụng đất. Chúng tôi liên hệ, thúc giục nhiều lần nhưng công ty cứ hẹn hoài. Người dân không có giấy chứng nhận quyền sử dụng đất nên không thể thực hiện các giao dịch về nhà, đất.'>
+                        Mua đất 12 năm chưa có chủ quyền? - <span style="font-size:12px; font-family:Arial; color:#616161"> (04/11)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=463350&ChannelID=204' title='TT - Theo thông báo của Công ty CP Địa ốc dầu khí (PVL) về việc tổ chức bốc thăm mua 15 căn hộ dự án PetroVietnam Landmark (Q.2, TP.HCM), khách hàng có nhu cầu mua căn hộ phải đăng ký và nộp khoản tiền cọc 500 triệu đồng. Theo đó, từ ngày 2 đến 7-11, khách hàng đăng ký nhu cầu và đặt tiền cọc để đảm bảo tham gia chương trình bốc thăm mua căn hộ, thời gian tổ chức bốc thăm dự kiến vào ngày 8-11.'>
+                        Khách hàng phải... bốc thăm và đấu giá - <span style="font-size:12px; font-family:Arial; color:#616161"> (03/11)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=463168&ChannelID=204' title='TT - Chủ tịch UBND tỉnh Khánh Hòa Nguyễn Chiến Thắng vừa có kết luận về việc thanh lý dự án Rusalka và triển khai các bước tiếp theo theo chỉ đạo của Thủ tướng Chính phủ.'>
+                        Rusalka có chủ mới - <span style="font-size:12px; font-family:Arial; color:#616161"> (02/11)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=463015&ChannelID=204' title='TT - Miếng đất 200m2 mặt tiền đường trị giá hàng tỉ đồng bị một doanh nghiệp lấn chiếm nhưng hiện chưa có cơ quan nào nhận xử lý vụ việc chỉ vì một “tội”: đó là đất công.'>
+                        Đất công không xót - <span style="font-size:12px; font-family:Arial; color:#616161"> (01/11)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 24px; padding-left:12px; font-family:Arial; font-size:14px">
+                    &nbsp;
+                </li>
+            
+    </ul> 
+</div>
+<script language="javascript" type="text/javascript" src="Highlight.js"></script>   
+	        </div>
+	        <div id="right">	                 
+	            <!--<Cache Time='11/11/2011 11:12:15 CH'>-->
+
+<div style="margin: 0 0 0 0; padding: 5px 0 0 0;">
+
+<div style="display:block; margin: 5px 0 0 0; padding:0 0 0 0;">
+	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="260" height="120">
+      <param name="movie" value="http://quangcao.tuoitre.vn/service/diaoc/phatdat.swf">
+      <param name="quality" value="high">
+      <embed src="http://quangcao.tuoitre.vn/service/diaoc/phatdat.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="260" height="120"></embed>
+    </object>
+</div>
+
+<div style="display:block; margin: 5px 0 0 0; padding:0 0 0 0;">
+	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="260" height="120">
+      <param name="movie" value="http://quangcao.tuoitre.vn/service/diaoc/caltavil.swf">
+      <param name="quality" value="high">
+      <embed src="http://quangcao.tuoitre.vn/service/diaoc/caltavil.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="260" height="120"></embed>
+    </object>
+</div>
+
+<div style="display:block; margin: 5px 0 0 0; padding:0 0 0 0;">
+	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="260" height="120">
+      <param name="movie" value="http://quangcao.tuoitre.vn/service/diaoc/datxanh.swf">
+      <param name="quality" value="high">
+      <embed src="http://quangcao.tuoitre.vn/service/diaoc/datxanh.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="260" height="120"></embed>
+    </object>
+</div>
+
+
+<a style="display:block; margin: 5px 0 0 0; padding:0 0 0 0;" href="http://kienxay.com" target="_blank">
+<img src="http://quangcao.tuoitre.vn/service/diaoc/kx.jpg" border="0">
+</a>
+
+<div style="display:block; margin: 5px 0 0 0; padding:0 0 0 0;">
+	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="260" height="120">
+      <param name="movie" value="http://quangcao.tuoitre.vn/service/diaoc/datxanh2.swf">
+      <param name="quality" value="high">
+      <embed src="http://quangcao.tuoitre.vn/service/diaoc/datxanh2.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="260" height="120"></embed>
+    </object>
+</div>
+
+<!--a style="display:block; margin: 5px 0 0 0; padding:0 0 0 0;" href="http://quangcao.diaoconline.vn/ads/vanphong2/" target="_blank">
+<img src="http://quangcao.tuoitre.vn/service/diaoc/VPTTO_260x120.gif" border="0"></a>
+
+<a style="display:block; margin: 5px 0 0 0; padding:0 0 0 0;" href="http://www.diaoconline.vn/ban-tin-doi-tac/" target="_blank">
+<img src="http://quangcao.tuoitre.vn/service/diaoc/BanTinDiaOc.gif" border="0"></a>
+
+<a style="display:block; margin: 5px 0 0 0; padding:0 0 0 0;" href="http://quangcao.diaoconline.vn/ads/dichvutrongoi/" target="_blank">
+<img src="http://quangcao.tuoitre.vn/service/diaoc/dichvutrongoi.gif" border="0"></a>
+
+<a style="display:block; margin: 5px 0 0 0; padding:0 0 0 0;" href="http://map.diaoconline.vn/" target="_blank">
+<img src="http://quangcao.tuoitre.vn/service/diaoc/Map_260x120.gif" border="0"></a-->
+
+</div>
+<!--div style="margin: 0 0 0 0; padding: 5px 0 0 0;">
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="260" height="180">
+    <param name="movie" value="http://quangcao.tuoitre.com.vn/service/diaoc/bizPage.swf">
+    <param name="quality" value="high">
+    <embed src="http://quangcao.tuoitre.com.vn/service/diaoc/bizPage.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="260" height="180"></embed>
+  </object>
+</div--><!--</Cache>-->                                                                           
+	        </div>
+	        <div id="bottom">
+				<!--<Cache Time='11/11/2011 11:12:15 CH'>--><div style="display:block; float:right; margin: 5px 0px 5px 0px; padding:0px">
+<div style="margin:0 0 0 0; padding:0; float:left;clear:both;">
+<iframe frameborder="0" width="778px" height="518px" src="http://s.tuoitre.vn/tto/diaoc/raovat.html" marginheight="0" marginwidth="0" scrolling="no"></iframe>
+</div>
+</div>
+
+
+
+
+
+	<!--</Cache>-->
+	            <div id="Footer" style="margin: 0; padding:; float:left; width:780px; height:34px; background-color:#e3f1fd; background-image:url(Images/FooterBgr.gif); background-repeat:repeat-x; background-position:top left">
+    <ul style="margin:0; padding:0; float:left; list-style-type:none;">
+        <li><a href="http://tuoitre.vn" target="_blank"><span style="font-size:11px">&nbsp;Bản quyền &copy; 2003 - 2010 Tuổi Trẻ</span>&nbsp;&nbsp;&nbsp;</a></li>
+        <li><a href="http://tuoitre.vn/Support/unicode.zip"><span style="font-size:11px">&nbsp;&nbsp;Font Unicode</span></a></li>
+        <li><a href="http://quangcao.tuoitre.vn/Bang-gia-quang-cao/Tuoi-Tre-Online/index.html" ><span style="font-size:11px">&nbsp;&nbsp;Bảng Giá Quảng Cáo</span></a></li>
+        <li><a href="http://quangcao.tuoitre.vn/Dat-bao-truc-tuyen/index.html" ><span style="font-size:11px">&nbsp;&nbsp;Đặt Báo</span></a></li>
+        <li><a href="http://tuoitre.vn/So-do-Web/Index.html"><span style="font-size:11px">&nbsp;&nbsp;Sơ Đồ Web</span></a></li>
+        <li><a href="http://tuoitre.vn/Support/support.htm"><span style="font-size:11px">&nbsp;&nbsp;Hướng Dẫn</span></a></li>
+        <li><a href="javascript:showWindow('http://chuyentrang.tuoitre.vn/Service/Contact.aspx', false, false, false, false, false, false, true, true, 800, 650, 0, 0);"><span style="font-size:11px">&nbsp;&nbsp;Liên Hệ</span></a></li>          
+        <li style="margin-left:6px"><a href="http://moore.vn" target="_blank"><span style="font-size:11px">&nbsp;&nbsp;&nbsp;&nbsp;Phát triển bởi Moore Corp.</span></a></li>
+    </ul>    
+</div>
+
+
+	        </div>
+	    </div> 
+	            
+	    
+	    <!-- Google Analytics-->
+        <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+        <script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-6300616-1");
+        pageTracker._trackPageview();
+        } catch(err) {}</script>  
+        
+        <!-- CMS Statistics -->
+        <script language="javascript" type="text/javascript" src="http://statistics.tuoitre.com.vn/TotalStatistics.js"></script>
+        <script language="javascript" type="text/javascript">
+            var paramSta    = "App=DIAOC";
+            var search      = document.location.search;
+            if(search != '')
+            {
+                paramSta = paramSta + "&" + search.replace("?","")
+            }
+            IframeRender(paramSta);
+        </script>           
+	</body>
+</html>

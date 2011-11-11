@@ -1,0 +1,1007 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />		
+		
+		<meta name="robots" content="INDEX,FOLLOW" />
+			
+		<meta name="description" content="Sáng nay, trên báo VnExpress, tôi được biết các phương án của Bộ Giao thông Vận tải UBND thành phố Hà Nội đưa ra nhằm giảm thiểu ùn tắc giao thông ở các thành phố lớn. Nhìn vào những phương án trên, tôi nghĩ cần phải tạo ra một phương án đột phá hơn nữa mới có thể thay đổi tình trạng giao thông tồi tệ như hiện nay ở Hà Nội và thành phố Hồ Chí Minh." />
+			
+		<title>Điều chỉnh thời gian làm việc - tại sao không bỏ luôn giờ nghỉ trưa? - VnExpress</title>
+		
+		<meta name="keywords" content="giờ làm việc,bệnh viên,trường học,cơ quan nhà nước" />	
+		
+		<meta http-equiv="REFRESH" content="3600" />
+		
+		<link rel="stylesheet" href="/Resource/Common/default.css" type="text/css" />	
+		<link href="http://go.polyad.net/style/context/2.css" rel="Stylesheet" style="text/css"> 		
+		
+		<link rel="alternate" type="application/rss+xml" title="VnExpress - RSS" href="/RSS/GL/trang-chu.rss" />
+			
+		
+		<script type="text/javascript" language="javascript" src="/Library/Common/Library.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/Vne.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/FlashMedia.js"></script>						
+        <script type="text/javascript" language="javascript" src="/Library/Common/AjaxRequest.js"></script>
+		<script type="text/javascript" language="javascript" src="/Library/Common/vietUni.js"></script>
+		<script type="text/javascript" language="javascript" src="/Resource/00/ArrMenu.js"></script>        				
+		<script type="text/javascript" language="javaScript">
+			var PAGE_SITE=0;
+			var PAGE_FOLDER=109;	
+			var PAGE_ID=1002160633;	
+			var DOMESTIC_IP=1;	
+			setTypingMode(1);
+				
+			sLoDID=sLoDID.concat('1002160633').concat(',');
+			
+		</script>
+		<script type="text/javascript" language="javascript" src="/Resource/Common/Menu.js"></script>
+		
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-249346-1']);
+		_gaq.push(['_trackPageview']);
+		
+		_gaq.push(['b._setAccount', 'UA-249346-21']);
+		_gaq.push(['b._trackPageview']);
+		
+		_gaq.push(['c._setAccount', 'UA-249346-22']);
+		_gaq.push(['c._trackPageview']);
+		
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	
+		<script src="/Library/Common/jquery-1.6.3.min.js"></script>		
+		
+<script type="text/javascript" src="/library/Common/VNEShowAds.js"></script>
+<script src="/library/common/adlibv1.js" type="text/javascript"></script>
+<script src="/library/common/lib.js" type="text/javascript"></script>
+
+	</head>
+	<body>	
+		
+				
+		<input type="hidden" id="CurrentBrowserWidth" value="" />
+		<input type="hidden" id="ShowBackground" value="1" />
+		<div id="divSlideResultLeft" style="background-repeat:no-repeat;background-position:right top;over-flow:hidden;cursor:pointer;text-align:right;padding:0px;position: fixed!important;position: absolute; /*ie6 and above*/;left: 0px; top: 0px;overflow:hidden;"></div>
+		<div id="divSlideResultRight" style="background-repeat:no-repeat;over-flow:hidden;cursor:pointer;text-align:left;padding:0px;position: fixed!important; position: absolute; /*ie6 and above*/;right: 0px; top: 0px;overflow:hidden;"></div>				
+		
+		<div id="outter">		
+		<div id="divMove" style="width:1000px;">
+		<div class="fpr2">
+			<div id="header">
+				<div id="logoEH" class="logo fl" >
+					
+					<a onfocus="this.blur()" hidefocus="" href="/"><img class="img-logo" src="/Images/blank.gif" alt="" /></a>
+					
+				</div>
+				<div id="topbannerEH" class="topbanner fr">
+					
+					<table border="0" cellpadding="0" cellspacing="0" style="width:100%;">
+						<tr>
+							<td style="vertical-align:middle">
+																
+									<script type="text/javascript" language="javascript">
+										Poly_ShowTopBanner();
+									</script>								
+								
+							</td>                           
+						</tr>
+					</table>				
+					
+				</div>
+			</div>			
+		</div>				
+		<div id="menu">
+	<div class="searchmenu">
+		<div class="fl icone"></div>
+		<div class="drss fl"><a href="/GL/RSS/" class="link-rss lnkrss">RSS<span></span></a></div>
+		<div id="mn-search" class="search fr">
+			<form onsubmit="return CheckValue(document.Search.s);" action="http://search.vnexpress.net/news" id="Search" name="Search">
+				<span class="fl borright"></span>
+				<input type="text" value="Từ khóa tìm kiếm" onfocus="SearchOnFocus(this)" onkeydown="" onkeyup="initTyper(this)" onblur="SearchOnBlur(this)" id="s" name="s" class="txtsearch fl">
+				<img onclick="return CheckValue(document.Search.s);" alt="" src="/images/blank.gif" class="img-search fl">
+				<input type="hidden" value="66FD8EC7-FA76-4A7C-8FE3-DB605B4C9CE0" name="g">
+				<input type="hidden" value="yes" name="butS">
+			</form>
+		</div>
+	</div>
+	<!--[if lte IE 6]><a id="lnkIE6" href="#"><table cellpadding=0 cellspacing=0 style="border: 0; margin: 0; padding: 0; width: 1000px; height: 25px;"><tr><td><![endif]-->
+	<div class="menu">
+		<ul>
+			<li><div class="fl mn-borleft"></div></li>
+			
+			<li>
+				<a href="/"><span class="pmenuL"></span><span class="pmenuM">Trang nhất</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<!--<ul style="padding: 0px; height: 16px">
+					<div class="fl icone"></div>
+					<div class="drss fl"><a href="/GL/RSS/" class="link-rss">RSS <span></span></a></div>
+				</ul>-->
+				<ul class="smenu-home">	
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+					<li class="lnknews24h"><a href="/gl/24h-qua/"></a></li>
+					<li class="ico-ct-wrap">
+						<span class="fl ico-ct"></span>
+						<p class="fl phonect"><span>0123.888.0123</span> (HN) - <span>0129.233.3555</span> (TP.HCM)</p>
+					</li>				
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/video/"><span class="pmenuL"></span><span class="pmenuM">Video</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">													
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/xa-hoi/"><span class="pmenuL"></span><span class="pmenuM">Xã hội</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li><a href="/gl/xa-hoi/giao-duc/">Giáo dục</a></li>
+					<li><a href="/gl/xa-hoi/nhip-dieu-tre/">Nhịp điệu trẻ</a></li>
+					<li><a href="/gl/xa-hoi/du-lich/">Du lịch</a></li>
+					<li><a href="/gl/xa-hoi/co-hoi-du-hoc/">Du học</a></li>												
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/the-gioi/"><span class="pmenuL"></span><span class="pmenuM">Thế giới</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->				
+				<ul class="smenu-other">					
+					<li><a href="/gl/the-gioi/cuoc-song-do-day/">Cuộc sống đó đây</a></li>
+					<li><a href="/gl/the-gioi/anh/">Ảnh</a></li>
+					<li><a href="/gl/the-gioi/nguoi-viet-5-chau/">Người Việt 5 châu</a></li>
+					<li><a href="/gl/the-gioi/phan-tich/">Phân tích</a></li>
+					<li><a href="/gl/the-gioi/tu-lieu/">Tư liệu</a></li>								
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/kinh-doanh/"><span class="pmenuL"></span><span class="pmenuM">Kinh doanh</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->					
+				<ul class="smenu-other">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/gl/ebank/">Ebank</a></li>
+					<li><a href="/gl/kinh-doanh/chung-khoan/">Chứng khoán</a></li>
+					<li><a href="/gl/kinh-doanh/bat-dong-san/">Bất động sản</a></li>
+					<li><a target="_blank" href="http://nhadep.vnexpress.net/gl/nha-dep/">Nhà đẹp</a></li>
+					<li><a href="/gl/kinh-doanh/kinh-nghiem/">Doanh nhân</a></li>
+					<li><a href="/gl/kinh-doanh/quoc-te/">Quốc tế</a></li>
+					<li><a href="/gl/doi-song/mua-sam/">Mua sắm</a></li>
+					<li><a href="/gl/kinh-doanh/doanh-nghiep-viet/">Doanh nghiệp viết</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/van-hoa/"><span class="pmenuL"></span><span class="pmenuM">Văn hóa</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">					
+					<li><a href="/gl/van-hoa/hoa-hau/">Hoa hậu</a></li>
+					<li><a href="/gl/van-hoa/guong-mat-nghe-sy/">Nghệ sỹ</a></li>
+					<li><a href="/gl/van-hoa/am-nhac/">Âm nhạc</a></li>
+					<li><a href="/gl/van-hoa/thoi-trang/">Thời trang</a></li>
+					<li><a href="/gl/van-hoa/san-khau-dien-anh/">Điện ảnh</a></li>
+					<li><a href="/gl/van-hoa/my-thuat/">Mỹ thuật</a></li>
+					<li><a target="_blank" href="http://evan.vnexpress.net/">Văn học</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/the-thao/"><span class="pmenuL"></span><span class="pmenuM">Thể thao</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smsport"><a href="/gl/the-thao/bong-da/">Bóng đá</a></li>
+					<li><a href="/gl/the-thao/tennis/">Tennis</a></li>
+					<li><a href="/gl/the-thao/chan-dung/">Chân dung</a></li>
+					<li><a href="/gl/the-thao/anh-video/">Ảnh - Video</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="http://seagames.vnexpress.net/" target="_blank"><span class="pmenuL"></span><span class="pmenuM">SEA Games 26</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li class="smseagames26"><a href="http://seagames.vnexpress.net/tin/lich-dau/" target="_blank">Lịch đấu</a></li>
+					<li><a href="http://seagames.vnexpress.net/tin/xep-hang/" target="_blank">Bảng xếp hạng</a></li>					
+					<li><a href="http://seagames.vnexpress.net/tin/bong-da/" target="_blank">Bóng đá</a></li>					
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/phap-luat/"><span class="pmenuL"></span><span class="pmenuM">Pháp luật</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smlaw"><a href="/gl/phap-luat/hinh-su/">Hình sự</a></li>
+					<li><a href="/gl/phap-luat/ky-su/">Ký sự</a></li>
+					<li><a href="/gl/phap-luat/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/doi-song/"><span class="pmenuL"></span><span class="pmenuM">Đời sống</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smlife"><a href="/gl/doi-song/cau-chuyen-cuoc-song/">Câu chuyện cuộc sống</a></li>
+					<li><a href="/gl/doi-song/gia-dinh/">Gia đình</a></li>
+					<li><a href="/gl/suc-khoe/">Sức khỏe</a></li>
+					<li><a href="/gl/doi-song/am-thuc/">Ẩm thực</a></li>
+					<li><a href="/gl/suc-khoe/lam-dep/">Làm đẹp</a></li>
+					<li><a href="/gl/doi-song/blog/">Cửa sổ Blog</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/khoa-hoc/"><span class="pmenuL"></span><span class="pmenuM">Khoa học</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smscience"><a href="/gl/khoa-hoc/moi-truong/">Môi trường</a></li>
+					<li><a href="/gl/khoa-hoc/thien-nhien/">Thiên nhiên</a></li>
+					<li><a href="/gl/khoa-hoc/anh/">Ảnh</a></li>
+					<li><a href="/gl/khoa-hoc/ky-thuat-moi/">Công nghệ mới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/vi-tinh/"><span class="pmenuL"></span><span class="pmenuM">Vi tính</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smmicrocalculate"><a href="/gl/vi-tinh/san-pham-moi/">Sản phẩm mới</a></li>
+					<li><a href="/gl/vi-tinh/kinh-nghiem/">Kinh nghiệm</a></li>
+					<li><a href="/gl/vi-tinh/giai-tri/">Giải trí</a></li>
+					<li><a href="/gl/vi-tinh/hoi-dap/">Hỏi đáp</a></li>
+					<li><a href="/gl/vi-tinh/hacker-virus/">Hacker &amp; Virus</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/oto-xe-may/"><span class="pmenuL"></span><span class="pmenuM">Ôtô - Xe máy</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">					
+					<li class="smcar"><a href="/gl/oto-xe-may/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li class="active"><a href="/gl/ban-doc-viet/"><span class="pmenuL"></span><span class="pmenuM">Bạn đọc</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->			
+			
+				<ul class="smenu-bdv">					
+					<li><a href="/gl/ban-doc-viet/khoa-hoc/">Khoa học</a></li>						
+					<li><a href="/gl/ban-doc-viet/doi-song/">Đời sống</a></li>
+					<li><a href="/gl/ban-doc-viet/phap-luat/">Pháp luật</a></li>
+					<li><a href="/gl/ban-doc-viet/xa-hoi/">Xã hội</a></li>
+					<li><a href="/gl/ban-doc-viet/kinh-doanh/">Kinh doanh</a></li>
+					<li><a href="/gl/ban-doc-viet/the-thao/">Thể thao</a></li>
+					<li><a href="/gl/ban-doc-viet/van-hoa/">Văn hoá</a></li>
+					<li><a href="/gl/ban-doc-viet/the-gioi/">Thế giới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/ban-doc-viet/tam-su/"><span class="pmenuL"></span><span class="pmenuM">Tâm sự</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other"></ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/rao-vat/"><span class="pmenuL"></span><span class="pmenuM">Rao vặt</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-raovat">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/cuoi/"><span class="pmenuL"></span><span class="pmenuM">Cười</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-bdv">
+					<li><a href="/gl/cuoi/video/">Video</a></li>
+					<li><a href="/gl/cuoi/tieu-pham/">Tiểu phẩm</a></li>						
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+		</ul>
+	</div><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</div>
+
+		<div id="content">			
+			
+			<div class="content-center fl">			
+			<div class="folder-header">
+	<script type="text/javascript" language="javascript">writeFolderTitle(PAGE_FOLDER);</script>
+	<div class="fr">Th&#7913; s&#225;u, 11/11/2011, 10:18 GMT+7</div>
+</div>
+<div class="email-print txtr">
+	<script>
+	writeSociable('http://vnexpress.net/gl/ban-doc-viet/2011/11/dieu-chinh-thoi-gian-lam-viec-tai-sao-khong-bo-luon-gio-nghi-trua/','Điều+chỉnh+thời+gian+làm+việc+-+tại+sao+không+bỏ+luôn+giờ+nghỉ+trưa?','Điều+chỉnh+thời+gian+làm+việc+-+tại+sao+không+bỏ+luôn+giờ+nghỉ+trưa?','sociable',1002160633);
+	</script>
+<font onClick="return EmailSubject(1002160633)"><img border="0" src="/Images/email.gif" align="bottom">&nbsp;E-mail</font>
+&nbsp;&nbsp;&nbsp;<font onClick="return PrintSubject()"><img border="0" src="/Images/print.gif" align="bottom">&nbsp;B&#7843;n In</font>
+</div>
+
+				<div class="content">
+					<div style="overflow:hidden" cpms_content="true">
+				<H1 class=Title>Điều chỉnh thời gian làm việc - tại sao không bỏ luôn giờ nghỉ trưa?</H1>
+<H2 class=Lead>Sáng nay, trên báo VnExpress, tôi được biết các phương án của Bộ Giao thông Vận tải UBND thành phố Hà Nội đưa ra nhằm giảm thiểu ùn tắc giao thông ở các thành phố lớn. Nhìn vào những phương án trên, tôi nghĩ cần phải tạo ra một phương án đột phá hơn nữa mới có thể thay đổi tình trạng giao thông tồi tệ như hiện nay ở Hà Nội và thành phố Hồ Chí Minh.</H2>
+<P class=Normal><FONT>Gia đình tôi sống ở thành phố Hồ Chí Minh, từ lâu chúng tôi đã phải theo phương án này: Bữa sáng, tùy theo mỗi người, có thể ăn ở nhà hoặc ở ngoài. Bữa trưa mọi người tự do ăn uống ở ngoài, ở cơ quan. Bữa tối mới là bữa ăn gia đình. </FONT></P>
+<P class=Normal><FONT>Theo tôi biết thì hầu hết những gia đình lao động công chức cũng như lao động phổ thông đều theo phương án 1 bữa cơm chung một ngày là bữa tối. Như vậy tại sao chúng ta không gọn nhẹ bữa ăn trưa và bỏ luôn giờ nghỉ trưa đối với một số ngành nghề để thu hẹp thời gian ở công sở lại. </FONT></P>
+<P class=Normal><FONT>Trên ý tưởng này, tôi đề xuất phương án thay đổi thời gian làm việc cho một số nhóm như sau:</FONT></P>
+<P class=Normal><FONT>Đối với các trường Trung học Phổ thông và Đại học: Thời gian bắt đầu làm việc là 9h. Từ cấp học này trở lên, giáo viên không thể lên lớp 8 tiếng một ngày. Thường thì họ chỉ lên lớp 4h/ ngày thì việc bố trí giờ giấc ăn trưa hay nghỉ ngơi không quan trọng đối với họ. Hơn nữa, nghỉ trưa là một chuyện rất xa xỉ đối với đại đa số các quốc gia trên thế giới. Do vậy chúng ta cũng nên theo họ bỏ luôn thời gian nghỉ trưa. Đối tượng học sinh, sinh viên ở cấp học này có thể tự đi học nên không ảnh hưởng gì tới việc làm của người khác.</FONT></P>
+<P class=Normal><FONT>Nhóm thứ hai là các cửa hàng, siêu thị, bách hóa: Thời gian mở cửa là 10h sáng và đóng cửa là 10 hoặc 11h đêm. Những người nào có nhu cầu mua bán sớm hơn có thể vào chợ hoặc những cửa hàng bán 24 giờ/ ngày.</FONT></P>
+<P class=Normal><FONT>Nhóm thứ 3: các bệnh viện sẽ khám bệnh 3 ca/ ngày từ 6h sáng đến 6h chiều. Không có thời gian nghỉ trưa. Những trường hợp trực, cấp cứu vẫn làm việc như trước. Mỗi ngày, bác sĩ chỉ nên khám tối đa là 1 ca cũng là quá sức rồi. Bệnh nhân tự họ sẽ sắp xếp, Còn các bác sĩ, nhân viên y tế tùy theo ca trực của mình mà sắp xếp giờ ăn cho phù hợp.</FONT></P>
+<P class=Normal><FONT>Nhóm thứ 4: cơ quan nhà nước các cấp làm việc từ 8h0 sáng đến 4h30 chiều và không có giờ nghỉ trưa. Buổi trưa họ sẽ phải thay phiên nhau đi ăn trưa nhưng không quá 30 phút. </FONT></P>
+<P class=Normal><FONT>Nhóm thứ 5: Các hệ thống tài chính, ngân hàng, bưu điện: làm việc từ 7h30 sáng đến 3h30 chiều, có thể kéo dài đến 4h chiều nhưng 30 phút cuối ngày là công việc nội bộ, không tiếp xúc khách hàng. </FONT></P>
+<P class=Normal><FONT>Những nhóm còn lại có thể bắt đầu làm việc lúc 7h sáng. Những nhóm này vẫn có thời giờ nghỉ trưa như hiện tại và kết thúc vào lúc 5h chiều. </FONT></P>
+<P class=Normal><FONT>Theo tôi, việc bố trí lệch giờ như vậy cũng sẽ giảm bớt khá nhiều những hệ lụy kèm theo như chuyện ăn nhậu vào buổi trưa, hay việc tụ tập ăn uống buổi chiều cũng sẽ giảm bớt. Điều này sẽ tiết kiệm được rất nhiều chi phí cho xã hội. </FONT></P>
+<P class=Normal><FONT><STRONG DESIGNTIMESP="26508">Phạm Thanh Duy</STRONG></FONT></P>
+<script language="JavaScript">AddVote(1002160633,0,374321868,'','Bạn có đồng ý với đề xuất trên của bạn Phạm Thanh Duy','#FF0000','#C0C0C0','100%',2, new Array(new Array('Có',0,0),new Array('Không',0,1)),'',1)</script>
+			</div>
+			<div class="tag-parent"><img src='/Images/tags.gif' class="tag"><div class="tag-pos"><h3 class="tag-text"><a href='/tag/69957/gio-lam-viec/'>giờ làm việc</a>, <a href='/tag/73619/benh-vien/'>bệnh viên</a>, <a href='/tag/2153/truong-hoc/'>trường học</a>, <a href='/tag/51202/co-quan-nha-nuoc/'>cơ quan nhà nước</a></h3></div></div>
+			<div class="box-item" style="margin-top:5px;margin-bottom:5px;">
+			
+					<div style="border:1px solid #b7beb6; padding: 2px 3px;">
+						<div style="background-color: #d5d9de; padding: 5px 10px; margin-bottom:13px; font-weight:bold;">									
+							<table cellspacing="0" cellpadding="0" border="0" width="100%">
+								<tr>
+									<td>
+										<a name=aComment>&#221; ki&#7871;n b&#7841;n &#273;&#7885;c (<label style="color:#0033FF">40</label>)</a>
+									</td>
+									<td style="text-align:right; font-family:arial; font-size:11px; font-weight: normal;">
+										S&#7855;p x&#7871;p theo: 
+										<select name="cboOrder" id="cboOrder" onchange="OrderComment(this.value)" style="font-family:arial; font-size:11px; font-weight: normal;">
+											<option value="0" >Mới nhất</option>
+											<option value="1" selected>Cũ nhất</option>
+										</select>									
+									</td>
+								</tr>
+							</table>																		
+						</div>
+						<div style="height:400px; padding:0px 8px; overflow:auto; overflow-x: hidden;">								
+															
+							<div class="comment_ct">
+								<P class=Title>Không nghỉ trưa</P>
+<P class=Normal>Thế trưa cậu ăn cơm ăn gian vào giờ Nhà nước à?</P>
+<P class=Normal><I>( atp )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Đổi giờ</P>
+<P class=Normal>Châu Âu cách đây 35 năm đã đổi giờ rồi, không thay đổi đc gì cả. Bạn còn hùa theo làm gì ?</P>
+<P class=Normal><I>( N Thường )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Nếu Anh làm được thế thì lên làm bộ trưởng luôn</P>
+<P class=Normal>Nói thì dễ nhưng làm khó lắm anh ơi, Anh cứ thử làm việc xuất 8h và không có chút thời gian nghỉ ngơi nào giữa 8h đó xem, không điên mới lạ</P>
+<P class=Normal><I>( Hieu Tran )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>ý kiến này ko hợp lý lắm</P>
+<P class=Normal>Theo tôi thấy thì ý kiến này ko ổn lắm nghỉ trưa là một điều thiết yếu ảnh hưởng tới sức khỏe nên có 1 tiếng để nghỉ trưa đặc biệt là đối vs những người mang thai hoặc đau ốm , các hệ thống ngân hàng thì nên làm từ 7h30 sáng đến 5h chiều bao gồm nghỉ trưa ko nên để hs sv học quá muộn vì học buổi sáng dễ tiếp thu hơn so vs học chiều còn các cơ quan nhà nc nên làm muộn hơn các ngành khác để có thể đáp ứng đc nhu cầu của người dân</P>
+<P class=Normal><I>( NGOC )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Kém hiểu biết</P>
+<P class=Normal>Bài viết thể hiện sự hiểu biết cực kỳ kém về công việc của hầu như tất cả mọi nghề nghiệp từ giáo viên, giảng viên, bác sĩ đến công chức, ngân hàng, bưu điện.</P>
+<P class=Normal><I>( NT )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Không hiệu quả và thiếu khoa hoc!</P>
+<P class=Normal>Mỗi người đều có ý tưởng và ý kiến riêng, nhưng ý kiến của bạn quá bất hợp lý:<BR>Thứ 1: Nếu không có giờ nghĩ thì hiệu qủa hoạt động sẽ rất kém ( về lâu dài)<BR>Thứ 2: Tôi vẫn thấy có sự trùng giờ với đề xuất của bạn ( giờ về tầm 4g-5g) của đại bộ phận<BR>Thứ 3: Tôi không thấy bất kỳ hiệu quả nào với ý kiến của bạn.<BR>Tôi thấy phương án của TP Hà Nội tương đối tốt.<BR>Và chúng ta nên xây dựng dựa trên nền tảng đó!</P>
+<P class=Normal><I>( Nguyễn Thanh Hồng )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Nếu làm được thì đã làm lâu rồi</P>
+<P class=Normal>Ý kiến này cũng hơi điên điên giống xe biển chẵn biển lẻ. Thời gian nghỉ trưa là thời gian con người tái tạo sức lao động chuẩn bị cho buổi chiều làm việc, thế mà không nghỉ trưa thì quả là dở hơi</P>
+<P class=Normal><I>( Phuong )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Không hợp lý lắm</P>
+<P class=Normal>Việc nghỉ trưa đối với người Việt nam đã trở thành thói quen thường ngày, nhịp sinh học của chúng ta cũng thích nghi với điều đó. Mà theo tôi, thói quen đó được hình thành do chính điều kiện khí hậu của Việt nam. <BR>Đề xuất sáng làm từ 9h, theo tôi cũng không hợp lý với thời tiết mùa hè<BR>Chỗ tôi cũng đang làm 9 tiếng 1 ngày, trưa nghỉ 1 tiếng, có điều hoà đầy đủ mà buổi trưa còn thấy mệt mỏi. Hỏi những nơi không có điều hoà với thời tiết mùa hè làm qua trưa sẽ thế nào?</P>
+<P class=Normal><I>( Thanh nam )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Doi gio lam</P>
+<P class=Normal>Mình đồng ý giảm thời gian nghỉ trưa, Hiện tại các công ty nước ngoài ở Viet Nam áp dụng hinh thức này lâu rồi. Đi làm 8h, trưa ăn cơm nửa tiếng, nghỉ nửa tiếng tại cơ quan. chiều 5h về. Hiệu quả rất cao. <BR>Hiện tại theo quy định làm 7h nhưng 8h mới có mặt ở cơ quan. 16h đã bắt đầu biến mất, rất lãng phí thời gian</P>
+<P class=Normal><I>( Chi Trung )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>đồng ý với ý kiến của bạn</P>
+<P class=Normal>Tôi đồng ý với ý kiến này, vì bản thân Tôi trước đây cũng phải ngủ trưa thì chiều mới làm việc được, sau một thời gian sống ở nước ngoài thì Tôi bỏ luôn được việc nghỉ trưa mà không ảnh hưởng gì đến hiệu quả làm việc buổi chiều. Do đó, chỉ cần bỏ nghỉ trưa khoảng 2 tháng thì mọi người sẽ quen thôi.</P>
+<P class=Normal><I>( Nhung )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>đồng ý với ý kiến của bạn</P>
+<P class=Normal>Tôi đồng ý với ý kiến này, vì bản thân Tôi trước đây cũng phải ngủ trưa thì chiều mới làm việc được, sau một thời gian sống ở nước ngoài thì Tôi bỏ luôn được việc nghỉ trưa mà không ảnh hưởng gì đến hiệu quả làm việc buổi chiều. Do đó, chỉ cần bỏ nghỉ trưa khoảng 2 tháng thì mọi người sẽ quen thôi.</P>
+<P class=Normal><I>( Nhung )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>quá chủ quan</P>
+<P class=Normal>một ý kiến chủ quan đến mức tiêu cực, lấy hoàn cảnh mình ra mà so sánh, áp đặt cho người khác liệu có nên chăng??</P>
+<P class=Normal><I>( nolata )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>vớ vẩn</P>
+<P class=Normal>cái ý kiến này vớ vẩn nhất mà tôi đã từng nghe thấy. Làm cả một buổi sáng có mỗi tí trưa để nghỉ ngơi lại bị cắt mất vả lại chẳng nhẽ vừa làm vừa ăn sao????? </P>
+<P class=Normal><I>( hoàng )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>không được</P>
+<P class=Normal>không lẽ ngày nào cũng là 8h không nghỉ trưa sức nào chịu nổi,nếu tăng tiền lương lên thì làm suốt cũng có động lực.</P>
+<P class=Normal><I>( tieu la )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Điều chỉnh Phương tiện tham gia giao thông</P>
+<P class=Normal>Theo tôi, tại sao cứ can thiệp nhiều vào thay đổi đồng hồ sinh học của mỗi con người. Ở đây tham gia giao thông đang gây ùn tắc là do các phương tiện gây lên. Chính vì vậy ta nên can thiệp trực tiếp, điều chỉnh thời gian các phương tiện tham gia giao thông. Còn ai đi trên phương tiện đó tự khắc phải có kế hoạch điều chỉnh cho phù hợp.</P>
+<P class=Normal><I>( Bình luận )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Ý thức</P>
+<P class=Normal>Kẹt xe đâu chỉ đổi giờ là xong. Ý thức của người dân quá kém cũng la nguyên nhân gây ra kẹt xe.</P>
+<P class=Normal><I>( Khang Gia )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Nên làm việc 6 tiếng/ngày với công chức</P>
+<P class=Normal>Công chức hiện tại thời gian trống rất nhiều, thay vì kéo dài thời gian thì hãy tập trung làm việc. Tôi cá 90% ko cần đến 6h/ngày để giải quyết tất cả công việc. Bộ phận nào nhiều việc thì mới cần làm 8h/ngày còn lại 90% chỉ cần làm 6h/ngày là đủ. Thời gian làm việc từ 9h đến 12h và chiều từ 13h đến 16h. Giải quyết đuợc tắc đuờng, nâng cao hiệu quả làm việc. Hết ý kiến</P>
+<P class=Normal><I>( Misa )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Không nghỉ chưa</P>
+<P class=Normal>tôi đồng tình với ý kiến không nghỉ trưa. Tôi không sống ở VN nhiều, tôi sống ở nước ngoài. Khi còn đi học, cả cấp 2 lẫn cấp 3 và cả đại Học, tôi chưa có biết đến nghỉ chưa là gì, chúng tôi thường có 20 phút để giải lao, trong khi đó, chúng tôi ăn cơm trưa, hoặc ăn uống một thứ gì đó. Khi đi làm, ở các trường ĐH cũng không có nghỉ trưa, họ có được nghỉ khoảng tầm 30 phút để ăn uống, những gì họ thích... khi đi làm ở ngoài, việc nghỉ chưa là tất nhiên là có, và thời gian nghỉ sẽ là 30 phút... Tôi nghĩ nên áp dụng không có thời gian nghỉ trưa là tốt nhất. Mới về VN được chút thời gian, tôi thấy mọi người nhậu nhẹt ở đây "sợ quá", công nhân viên chức, những người đi làm thì "khi ăn chưa, uống rượu nhiều". Tôi tự hỏi, khi họ "Phê phê" thì không biết họ làm việc như thế nào nhỉ. tôi hi vọng VN mình sẽ có cách giải quyêt về vấn đề làm việc.</P>
+<P class=Normal><I>( Long )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Đồng ý</P>
+<P class=Normal>Thật ra việc sắp xếp thời gian ăn trưa ngắn là chuyện hầu hết các nước phát triển đều làm. Dành 45 phút đến 1 tiếng cho nghỉ trưa là phù hợp.</P>
+<P class=Normal><I>( Binh )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Lam Ko nghi trua</P>
+<P class=Normal>Phương án làm ko nghỉ trưa là thất bại hoàn toàn. Tôi là NV.Văn Phòng, thử nghỉ coi làm 8 tiếng mà ko nghỉ trưa, chắc ko sông nổi 1 tuần lễ huống chi cả năm. Ko có ý kiến gì hay ho thì tốt nhất nên im lặng để người khác bàn tính. Hy vọng chuyện này sẽ nhanh chóng có phương pháp tốt đẹp. Thân chào !</P>
+<P class=Normal><I>( Huynh Loc )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+						
+						</div>
+						<div style="background-color: #d5d9de; padding: 5px 10px; margin-top:13px; min-height:12px;">
+							<font class="Paging">1</font>, <a href="/gl/ban-doc-viet/2011/11/dieu-chinh-thoi-gian-lam-viec-tai-sao-khong-bo-luon-gio-nghi-trua/?p=2#aComment" class="Paging Red" style="color:#ff0000">2</a>
+						</div>
+						<!--<script type="text/javascript" language="javascript" src="/Library/Common/jquery.js"></script>-->
+						<script type="text/javascript" language="javascript">
+							$(document).ready(function(){
+								//$('div.comment_ct p.Title').css('font-size',17);
+							});
+						</script>
+						<script type="text/javascript" language="javascript">
+							function OrderComment(i){
+								setCookie('VOrderComment', '', '', i);
+								location.href = '/gl/ban-doc-viet/2011/11/dieu-chinh-thoi-gian-lam-viec-tai-sao-khong-bo-luon-gio-nghi-trua#aComment';
+							}									
+						</script>
+					</div>
+					
+<p id=pShow><a class=SForm onclick="ShowFormComment()"><img src="/Images/Y-kien-cua-ban.gif" border="0" style="cursor:pointer" alt="Ý kiến của bạn" /></a></p>
+<div id="dComment" class="dtopitem_all">
+	<form method="post" name="frmComment" id="frmComment" target="_blank" onsubmit="submitForm(this);return false;" action="/service/comment/submit.asp">
+		<div class="adword-hdf">&nbsp;</div>
+		<div class="adword adword-middle" style="padding-top:0px;">					
+			<div class="adword-nav2 fl" style="padding-top:10px; width:476px; background-color:#ffffff">
+				<div style="padding-bottom:5px; overflow:hidden;">
+					<div class="fl" style="width:60%">
+						<input type="text" value="Họ tên" name="txtAddedBy" id="txtAddedBy" style="width:280px;" size="29" onfocus="NameOnFocus(this)" onblur="NameOnBlur(this)" onkeyup="initTyper(this)" class="adword-textbox"">
+					</div>
+					<div class="fr" style="width:180px;">
+						<input type="text" value="Email" name="txtAddedByEmail" id="txtAddedByEmail" style="width:172px" size="29" onfocus="EmailOnFocus(this)" onblur="EmailOnBlur(this)" class="adword-textbox">
+					</div>
+				</div>
+				<div style="padding-bottom:5px; overflow:hidden;">
+					<div class="fl" style="width:60%">
+						<input type="text" value="Tiêu đề" name="txtAddedTitle" id="txtAddedTitle" style="width:280px;" size="29" onfocus="TitleOnFocus(this)" onblur="TitleOnBlur(this)" onkeyup="initTyper(this)" class="adword-textbox"">
+					</div>
+					<div class="fr" style="width:180px;">
+						<input type="text" value="Mã xác nhận" name="txtValidCode" id="txtValidCode" style="width:99px;" size="29" onfocus="ValidateCodeOnFocus(this)" onblur="ValidateCodeOnBlur(this)" onkeyup="initTyper(this)" class="adword-textbox"">
+						<img src="/Service/Vote/securelog/image.asp" name="imgValidCode" id="imgValidCode" style="vertical-align:top; height:20px; padding-top:1px">
+						&nbsp;<img src="/Images/change-image.gif" alt="Thay hình khác" onclick="ChangeImage()" style="vertical-align:top;cursor:pointer; padding-top:1px" />
+					</div>
+				</div>
+				<div style="overflow:hidden;">
+					<div class="fl" style="width:60%">
+						<input type="submit" value="G&#7917;i To&#224; so&#7841;n" name="B1" class="SForm">&nbsp;<input type="button" value="Xo&#225; tr&#7855;ng" name="B2" class="SForm" onclick="InputDefault();">&nbsp;<input type="button" value="&#272;&#243;ng l&#7841;i" class="SForm" onclick="ShowFormComment()">
+						<input type="hidden" name="txtT" id="txtT" value="1002160633" />
+						<input type="hidden" name="txtS" id="txtS" value="0" />
+						<input type="hidden" name="txtF" id="txtF" value="109" />
+						<input type="hidden" name="txtL" id="txtL" value="/gl/ban-doc-viet/2011/11/dieu-chinh-thoi-gian-lam-viec-tai-sao-khong-bo-luon-gio-nghi-trua" />
+					</div>
+					<div class="fl" style="width:40%; text-align:right;">
+						<input type="radio" name="optInput" value="0" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(0)">Off
+						<input type="radio" name="optInput" value="1" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(1)" checked>Telex
+						<input type="radio" name="optInput" value="2" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(2)">VNI
+						<input type="radio" name="optInput" value="3" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(3)">VIQR								
+					</div>
+				</div>				
+			</div>			
+			<div class="adword-nav2 fl" style="padding-top:0px;">
+				<textarea rows="10" name="txtAddedContent" id="txtAddedContent" cols="43" onkeyup="initTyper(this)" class="SForm" style="width: 470px"></textarea>				
+			</div>
+		</div>
+		<div class="adword-ftf">&nbsp;</div>
+	</form>
+</div>
+<script type="text/javascript">
+	var bshow = false;
+	
+	function ShowFormComment()	{
+		if(bshow){
+			gmobj('dComment').style.display="block";
+			gmobj('pShow').style.display="none";
+			bshow=false;
+		}
+		else{
+			gmobj('dComment').style.display="none";
+			gmobj('pShow').style.display="block";
+			bshow=true;
+		}
+	}
+	ShowFormComment();
+	
+	function submitForm(theform){
+		document.frmComment.txtAddedBy.value = Trim(document.frmComment.txtAddedBy.value);
+		if (document.frmComment.txtAddedBy.value == '' || document.frmComment.txtAddedBy.value == 'Họ tên')
+		{
+			alert('Xin hay nhap Ho ten!');
+			document.frmComment.txtAddedBy.focus();
+			return;
+		}
+
+		if ((SEmail = CheckEmailAddress(document.frmComment.txtAddedByEmail.value))=='')
+		{
+			alert('Dia chi Email khong hop le!');
+			document.frmComment.txtAddedByEmail.focus();
+			return;
+		}
+
+		document.frmComment.txtAddedByEmail.value = SEmail;
+
+		document.frmComment.txtAddedTitle.value = Trim(document.frmComment.txtAddedTitle.value);
+		if (document.frmComment.txtAddedTitle.value == '' || document.frmComment.txtAddedTitle.value == 'Tiêu đề')
+		{
+			alert('Xin hay nhap Tieu de!');
+			document.frmComment.txtAddedTitle.focus();
+			return;
+		}
+		
+		document.frmComment.txtValidCode.value = Trim(document.frmComment.txtValidCode.value);
+		if (document.frmComment.txtValidCode.value == '' || document.frmComment.txtValidCode.value == 'Mã xác nhận')
+		{
+			alert('Xin hay nhap Ma xac nhan!');
+			document.frmComment.txtValidCode.focus();
+			return;
+		}
+
+		document.frmComment.txtAddedContent.value = Trim(document.frmComment.txtAddedContent.value);
+		if (document.frmComment.txtAddedContent.value == '')
+		{
+			alert('Xin hay nhap Noi dung!');
+			document.frmComment.txtAddedContent.focus();
+			return;
+		}
+
+		if (!confirm('Gui yeu cau?'))
+			return;
+			
+		var status = AjaxRequest.submit(
+			theform
+			,{
+				'onSuccess':function(req){
+					if(req.responseText=='ValidCode'){
+						alert('Ma xac nhan khong dung!');
+					}
+					else{
+						alert(req.responseText);
+						ResetDefault();
+					}
+				}				
+				,'onError':function(req){
+					alert(req.responseText);
+				}
+			}
+		);
+		return status;
+	}
+	
+	function ChangeImage() {			
+		var ranNum = Math.floor(Math.random() * 5);
+
+		AjaxRequest.get(
+		  {
+			'onSuccess':function(req){
+				gmobj('imgValidCode').src = "/Service/Vote/securelog/image.asp?Code=" + ranNum;						
+			}
+			,'onError':function(req){					
+			}
+		  }
+
+		)
+    }
+	
+	function InputDefault() {
+		document.frmComment.txtAddedBy.value = 'Họ tên';
+		document.frmComment.txtAddedBy.className = 'adword-textbox';
+		document.frmComment.txtAddedByEmail.value = 'Email';
+		document.frmComment.txtAddedByEmail.className = 'adword-textbox';		
+		document.frmComment.txtAddedTitle.value = 'Tiêu đề';
+		document.frmComment.txtAddedTitle.className = 'adword-textbox';
+		document.frmComment.txtValidCode.value = 'Mã xác nhận';		
+		document.frmComment.txtValidCode.className = 'adword-textbox';
+		document.frmComment.txtAddedContent.value = '';
+		document.frmComment.txtAddedContent.focus();
+	}
+	
+	function ResetDefault() {
+		InputDefault();
+		ChangeImage();
+		
+		ShowFormComment();
+				
+	}
+</script>
+
+			</div>
+			
+			<div style="margin-top:5px;margin-bottom:5px;">							
+				<script language="javascript">					
+					Poly_ShowArticlebanner();										
+				</script>				
+			</div>
+		</div>				
+		<div class="folder-news">
+	<div class="boxnew-header">
+		<div class="boxnew-title fl">Tin mới</div>
+	</div>
+	<div class="boxnew">
+		<ul>
+		<li><a href="/gl/ban-doc-viet/doi-song/2011/11/tu-van-mua-nha-de-song-o-da-nang/" class="link-othernews">Tư vấn mua nhà để sống ở Đà Nẵng</a><span style="color: #909090">&nbsp;(11/11)</span></li>
+		</ul>
+	</div>
+</div>
+<div class="folder-news">
+	<div class="othernews-header">
+		<div class="othernews-title fl">C&#225;c tin kh&#225;c</div>
+		<div class="fr txtr" style="margin-bottom:5px;"><label onClick="history.go(-1)" class="Time" style="cursor:pointer">[<B>Tr&#7903; v&#7873;</B>]</label></div>
+	</div>
+	<div class="othernews">
+		<ul>
+		<li><a href="/gl/ban-doc-viet/2011/11/giai-phap-song-chung-voi-lut/" class="link-othernews">Giải pháp sống chung với lụt</a><span style="color: #909090">&nbsp;(09/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/11/sung-suong-tren-noi-dau-cua-dong-loai/" class="link-othernews">Sung sướng trên nỗi đau của đồng loại</a><span style="color: #909090">&nbsp;(08/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/11/thi-truong-gas-nguoi-tieu-dung-hay-can-than/" class="link-othernews">Thị trường gas - người tiêu dùng hãy cẩn thận</a><span style="color: #909090">&nbsp;(07/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/11/ngui-thay-mui-gas-trong-nha-ban-se-lam-gi/" class="link-othernews">Ngửi thấy mùi gas trong nhà, bạn sẽ làm gì?</a>&nbsp;<img border="0" src="/Images/video2.gif" />&nbsp;
+<span style="color: #909090">&nbsp;(05/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/11/kieu-hinh-pham-toi-moi/" class="link-othernews">Kiểu hình phạm tội mới</a><span style="color: #909090">&nbsp;(05/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/11/nhung-van-de-can-giai-dap-khi-su-dung-binh-gas-bep-gas-1/" class="link-othernews">Những vấn đề cần giải đáp khi sử dụng bình gas, bếp gas</a><span style="color: #909090">&nbsp;(04/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/11/dung-do-loi-binh-gas-loi-tai-chinh-ta/" class="link-othernews">Đừng đổ lỗi bình gas, lỗi tại chính ta!</a><span style="color: #909090">&nbsp;(03/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/11/chieu-lua-doanh-nghiep/" class="link-othernews">Chiêu lừa doanh nghiệp</a><span style="color: #909090">&nbsp;(02/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/11/phan-lan-chi-la-viec-tat-yeu-toi-thieu-cua-giao-thong-do-thi/" class="link-othernews">Phân làn chỉ là việc tất yếu tối thiểu của giao thông đô thị</a><span style="color: #909090">&nbsp;(01/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/10/giai-phap-chong-lu-trong-thanh-pho/" class="link-othernews">Giải pháp chống lũ trong thành phố</a><span style="color: #909090">&nbsp;(31/10)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/10/vo-no-nhin-tu-goc-do-tam-ly-va-kinh-te/" class="link-othernews">Vỡ nợ nhìn từ góc độ tâm lý và kinh tế</a><span style="color: #909090">&nbsp;(31/10)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/10/di-tim-loi-giai-cho-bai-toan-ket-xe/" class="link-othernews">Đi tìm lời giải cho bài toán kẹt xe</a><span style="color: #909090">&nbsp;(31/10)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/10/nan-moc-tui-tren-xe-buyt-khong-chi-o-ha-noi/" class="link-othernews">Nạn móc túi trên xe buýt không chỉ ở Hà Nội</a><span style="color: #909090">&nbsp;(30/10)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/10/hieu-the-nao-ve-thoa-thuan-nguyen-tac-giai-quyet-van-de-tren-bien-viet-trung/" class="link-othernews">Hiểu thế nào về thỏa thuận nguyên tắc giải quyết vấn đề trên biển Việt-Trung</a><span style="color: #909090">&nbsp;(29/10)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/10/phong-bi-cac-goc-nhin-1/" class="link-othernews">Phong bì - các góc nhìn</a><span style="color: #909090">&nbsp;(29/10)</span></li>
+		</ul>
+	</div>
+</div>
+
+		</div>
+	<div class="content-left fl">		
+	<div class="linksite-box" style="padding:0px;">
+	<img alt="Link Site" src="/Images/Linksite/site2.gif" usemap="#ctmap" class="img-linksite"/>
+	<map id="ctmap" name="ctmap">
+		<area shape="rect" coords="6,0,72,28" href="http://ngoisao.net/" target="_blank" title="ngoisao.net" />
+		<area shape="rect" coords="83,0,140,28" href="http://sohoa.vnexpress.net/" target="_blank" title="sohoa.vnexpress.net" />		
+		<area shape="rect" coords="152,0,215,28" href="http://gamethu.vnexpress.net/" target="_blank" title="gamethu.vnexpress.net" />
+		<area shape="rect" coords="223,0,296,28" href="http://vieclam.vnexpress.net/" target="_blank" title="viec lam" />
+	</map>
+</div>
+	<div class="box-item">		
+		<script type="text/javascript">
+			cpms_Ap.typ = 2;
+			cpms_Ap.ste = 1;
+			cpms_Ap.reg = 0;
+			cpms_Ap.fol = 109;
+			cpms_Ap.dof = 0;
+			cpms_Ap.wdt = 300;
+			
+			cpms_Ap.itf = 2;
+			
+			cpms_Ap.ShowAd();
+		</script>
+	</div>
+	<TABLE cellSpacing=0 cellPadding=3 width="100%" bgColor=#dfdfdf border=0>
+<TR>
+<TD><FONT size=2>Bài viết của độc giả trên chuyên mục này không nhất thiết trùng với quan điểm của tòa soạn, và không có nhuận bút.</FONT></TD></TR></TABLE>
+<Script language="JavaScript">Poly_ShowLogoLeft(2)</Script>
+<TABLE cellSpacing=1 width=315 bgColor=#800040 border=0>
+<TR>
+<TD class="BoxTitle" align="center"> Bài viết nhiều ý kiến phản hồi nhất </TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=1 cellPadding=1 width="100%" border=0>
+<TR>
+<TD class=BoxLink bgColor=#ffffff><A href="/gl/ban-doc-viet/2011/10/vi-co-gi-bo-truong-cam-quan-chuc-gtvt-choi-golf/" class="BoxLink"><FONT color=#ff0000><STRONG DESIGNTIMESP="45">Vì cớ gì Bộ trưởng cấm quan chức GTVT chơi golf?</STRONG></FONT></A></TD>
+<TD class=BoxLink align=right bgColor=#ffffff><A href="/gl/ban-doc-viet/2011/10/vi-co-gi-bo-truong-cam-quan-chuc-gtvt-choi-golf/" class="BoxLink"><IMG border=1 width="130" height="100" src="/Files/Folder/00/6d/choi-golf.jpg"></A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#ffffff><A href="/gl/ban-doc-viet/van-hoa/2011/10/cau-cua-mieng-co-gi-ma-khung-khieng/" class="BoxLink"><FONT color=#ff0000><STRONG>Câu cửa miệng có gì mà khụng khiệng</STRONG></FONT></A></TD>
+<TD class=BoxLink align=right bgColor=#ffffff><A href="/gl/ban-doc-viet/van-hoa/2011/10/cau-cua-mieng-co-gi-ma-khung-khieng/" class="BoxLink"><IMG border=1 width="130" height="100" src="/Files/Folder/00/6d/satthu.jpg"></A></TD></TR></TABLE></TD></TR></TABLE>
+<TABLE cellSpacing=0 cellPadding=3 width=311 bgColor=#808000 border=0>
+<TR>
+<TD bgColor=#dfdfdf colSpan=2 class="Normal" align="center"><STRONG DESIGNTIMESP="22255"><FONT face=Verdana color=#800000 size=2>Topic nóng</FONT></STRONG></TD></TR>
+<TR>
+<TD bgColor=#ffffff colSpan=2> <A href="/GL/Topic/?ID=5720" class=""><IMG border=1 width="300" height="82" src="/Files/Folder/00/6d/camxuc1.jpg"></A></TD></TR>
+<TR>
+<TD bgColor=#ffffff class="Image" align="center"><STRONG DESIGNTIMESP="22264">Cảm xúc âm nhạc</STRONG></TD>
+<TD bgColor=#ffffff class="BreakLine"><FONT color="#ffffff"> </FONT></TD></TR>
+<TR>
+<TD bgColor=#ffffff> <A href="/GL/Topic/?ID=5989" class=""><IMG border=1 width="300" height="82" src="/Files/Folder/00/6d/tien.jpg"></A></TD>
+<TD bgColor=#ffffff class="BreakLine"><FONT color="#ffffff"> </FONT></TD></TR>
+<TR>
+<TD bgColor=#ffffff class="Normal" align="center"> <A href="/GL/Topic/?ID=5989" class="Image"><STRONG DESIGNTIMESP="22275">Tôi muốn giàu</STRONG></A></TD>
+<TD bgColor=#ffffff class="BreakLine"><FONT color="#ffffff"> </FONT></TD></TR>
+<TR>
+<TD bgColor=#ffffff> <A href="/GL/Topic/?ID=6213" class=""><IMG border=1 width="300" height="82" src="/Files/Folder/00/6d/kyuc.jpg"></A></TD>
+<TD bgColor=#ffffff class="BreakLine"><FONT color="#ffffff"> </FONT></TD></TR>
+<TR>
+<TD bgColor=#ffffff>
+<P class=Image align=center><STRONG DESIGNTIMESP="22285"> </STRONG><A href="/GL/Topic/?ID=6213" class="Image"><STRONG DESIGNTIMESP="22287">Ký ức Hà Nội</STRONG></A><FONT color=#ff0000></P></FONT></TD>
+<TD bgColor=#ffffff class="BreakLine"><FONT color="#ffffff"> </FONT></TD></TR></TABLE>
+<TABLE cellSpacing=1 width=210 bgColor=#800040 border=0>
+<TR>
+<TD class="BoxTitle" align="center"> <A href="/GL/Topic/?ID=5435" class="Image"><FONT face=Verdana color=#ffffff size=2><STRONG DESIGNTIMESP="29447">Cuộc sống qua ống kính độc giả</STRONG></FONT></A></TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=1 cellPadding=1 width=305 border=0>
+<TR>
+<TD class=BoxLink bgColor=#ffffff><A href="/GL/Topic/?ID=5435" class="BoxLink"><IMG border=1 width="295" height="295" src="/Files/Folder/00/6d/mayanh.jpg"></A></TD></TR></TABLE>
+<P class=Normal align=center><FONT color=#ffffff>Chia sẻ ảnh của bạn </FONT><A href="/ContactUs/?id=bandocviet@vnexpress.net" class="Normal"><FONT color=#ffffff>tại đây</FONT></A></P></TD></TR></TABLE>
+<A href="/GL/Topic/?ID=6632" class="Normal"></A>
+<div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(139);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="fl" id="ListItem139">
+		<script type="text/javascript" language="javascript">showlistitem(3, 139, 4);</script>
+	</div>
+	<div class="box-middle1 list-item fl" style="height:5px;padding-top:0px;padding-bottom:0px;">&nbsp;</div>	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+<div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(125);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="fl" id="ListItem125">
+		<script type="text/javascript" language="javascript">showlistitem(5, 125, 4);</script>
+	</div>
+	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+
+<TABLE cellSpacing=1 cellPadding=0 width=278 bgColor=#808000 border=0>
+<TR>
+<TD class="BoxTitle" align="center"> <FONT face=Verdana size=2>Video</FONT></TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=1 cellPadding=1 width="100%" border=0>
+<TR>
+<TD bgColor=#ffffff class="Normal" align="center"><A href="/gl/ban-doc-viet/2010/10/3ba21aa9/" class="Image"><STRONG DESIGNTIMESP="17151">Vật thể bay lạ ở Hà Nội</STRONG></A></TD>
+<TD bgColor=#ffffff class="Normal" align="center"><A href="/gl/ban-doc-viet/xa-hoi/2010/09/3ba2064a/" class="Image"><STRONG DESIGNTIMESP="17155">Tàu điện xưa</STRONG></A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#ffffff><A href="/gl/ban-doc-viet/2010/10/3ba21aa9/" class="BoxLink"><IMG border=1 width="130" height="100" src="/Files/Folder/00/6d/vat-the-bay-la-hanoi-1.jpg"></A></TD>
+<TD class=BoxLink align=right bgColor=#ffffff>
+<A href="/gl/ban-doc-viet/xa-hoi/2010/09/3ba2064a/" class="Normal"><IMG border=1 width="130" height="100" src="/Files/Folder/00/6d/tau1.jpg"></A></TD></TR></TABLE>
+<TABLE cellSpacing=0 cellPadding=3 width="100%" bgColor=#800000 border=0>
+</TABLE>
+<P class=Normal align=left><FONT face=Verdana color=#ffffff size=1>Chia sẻ clip của bạn </FONT><A href="/ContactUs/?id=bandocviet@vnexpress.net" class="Normal"><FONT face=Verdana color=#ffffff size=1>tại đây</FONT></A> </P></TD></TR></TABLE>
+<TABLE cellSpacing=0 cellPadding=3 width="100%" bgColor=#dfdfdf border=0>
+<TR>
+<TD><STRONG DESIGNTIMESP="18107"></STRONG></TD></TR></TABLE>
+<TABLE cellSpacing=0 cellPadding=3 width=311 bgColor=#dfdfdf border=0>
+</TABLE>
+<div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(132);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="fl" id="ListItem132">
+		<script type="text/javascript" language="javascript">showlistitem(4, 132, 8);</script>
+	</div>
+	<div class="box-middle1 list-item fl" style="height:5px;padding-top:0px;padding-bottom:0px;">&nbsp;</div>	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+ 
+<TABLE cellSpacing=0 cellPadding=0 width=300 border=0>
+</TABLE>
+<TABLE cellSpacing=1 cellPadding=0 width=210 bgColor=#ffffff border=0>
+<TR>
+<TD class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR></TABLE>
+	</div>
+	
+	<div class="content-right fl">		
+		<div class="adv-header">
+			<div class="adv-title fl">				
+				<a href="http://www.fptad.com/lienhe.aspx" target="_blank"><img style="border:0" src="/Images/Background/adv-title.gif" alt="Lien he quang cao" /></a>				
+			</div>
+		</div>
+		<div id="adgroup"  style="display:none;clear:both;"></div>
+	<Script type="text/javascript" language="JavaScript">Poly_ShowAdScrollBanner(2);</Script>
+				</div>
+				
+			</div>
+			
+			<div id="footer">
+				
+				<script type="text/javascript">Poly_ShowFooterBanner();</script>										
+				
+                <div class="fmenu-top">
+                    <div class="fl icone-footer"></div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-home" rel="nofollow" onclick="javascript:setAsHomePage(this)"><span></span>Đặt làm trang chủ</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ct" rel="nofollow" class="link-contact" href="/ContactUs/?id=bandocviet@vnexpress.net"><span></span>Liên hệ tòa soạn</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ads" rel="nofollow" class="link-contact" href="http://ads.fpt.net/lienhe.aspx" target="_blank"><span></span>Liên hệ quảng cáo</a>
+                    </div>					
+                    <div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">						
+						
+                        <span class="lnkf-hl">Đường dây nóng: 0123.888.0123 (HN) - 0129.233.3555 (TP HCM)<span></span></span>
+						
+                    </div>
+					<div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">
+						 <a rel="nofollow" class="link-contact" href="http://fptad.com/qc/v/vnexpress/2011/phongvienthethao/" target="_blank"><img class="img-search" src="/Images/person.gif" alt="" style="vertical-align:top;" /> VnExpress tuyển dụng </a>
+					</div>					
+                </div>
+                <div class="fmenu-bottom">	
+					<a href="/" class="link-footermenu">Trang chủ</a><i class="sepaf"></i>
+					<a href="/gl/xa-hoi/" class="link-footermenu">Xã hội</a><i class="sepaf"></i>
+					<a href="/gl/the-gioi/" class="link-footermenu">Thế giới</a><i class="sepaf"></i>
+					<a href="/gl/kinh-doanh/" class="link-footermenu">Kinh doanh</a><i class="sepaf"></i>
+					<a href="/gl/van-hoa/" class="link-footermenu">Văn hóa</a><i class="sepaf"></i>
+					<a href="/gl/the-thao/" class="link-footermenu">Thể thao</a><i class="sepaf"></i>
+					<a href="/gl/phap-luat/" class="link-footermenu">Pháp luật</a><i class="sepaf"></i>
+					<a href="/gl/doi-song/" class="link-footermenu">Ðời sống</a><i class="sepaf"></i>
+					<a href="/gl/khoa-hoc/" class="link-footermenu">Khoa học</a><i class="sepaf"></i>
+					<a href="/gl/vi-tinh/" class="link-footermenu">Vi tính</a><i class="sepaf"></i>
+					<a href="/gl/oto-xe-may/" class="link-footermenu">Ôtô - Xe máy</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/" class="link-footermenu">Bạn đọc viết</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/tam-su/" class="link-footermenu">Tâm sự</a><i class="sepaf"></i>
+					<a href="/user/rao-vat/" class="link-footermenu">Rao vặt</a><i class="sepaf"></i>
+					<a href="/gl/cuoi/" class="link-footermenu">Cuời</a>
+					
+                    <script type="text/javascript" language="javascript">
+						//writeFooterMenu();
+						Poly_ShowFixFloatBanner(0);Poly_ShowFixFloatBanner(2);Poly_ShowFixFloatBanner(1);Poly_ShowFixFloatBanner(3);
+						Poly_ShowSlideBanner();Poly_ShowBallonBanner();						
+					</script>
+					
+                    <script type="text/javascript" language="javascript">Poly_ShowPopupUnder();</script>
+					
+                </div>
+                <div class="copyright">
+                    <p><label style="font:bold 11px arial; color:#686E7A;">&#169;&nbsp;Copyright 1997-2011 VnExpress.net</label>, <label style="font:normal 11px arial; color:#686E7A;">All rights reserved <a rel="nofollow" href="/ContactUs/?id=webmaster@vnexpress.net">Contact us</a> - <label onClick="ContactUs()" style="text-decoration:underline;cursor:pointer">Th&#244;ng tin T&#242;a so&#7841;n</label></label</p>
+<p><label style="font:normal 11px arial; color:#686E7A;">&#174;&nbsp;VnExpress gi&#7919; b&#7843;n quy&#7873;n n&#7897;i dung tr&#234;n website n&#224;y.</lable></p>
+
+                </div>
+            </div>
+			</div>
+		</div>		
+		</div>		
+		<script type="text/javascript">
+		<!--//<![CDATA[
+			cpms_Ap.init();
+			cpms_Ap.typ = 1;
+			cpms_Ap.dof = 0;
+			cpms_Ap.ste = 1;
+			cpms_Ap.reg = 0;
+			cpms_Ap.fol = 109;
+			cpms_Ap.pos = 38;
+			cpms_Ap.url = encodeURIComponent(document.location.href);
+			cpms_Ap.show();
+		//]]>-->
+		</script>
+		  	
+		<div style="float:left;">
+			<script type="text/javascript" language="javasript">
+				var strHr = location.href;				
+				if(strHr.substr(0,21)=='http://vnexpress.net/' || strHr.substr(0,27)=='http://ebank.vnexpress.net/' || strHr.substr(0,28)=='http://nhadep.vnexpress.net/'){
+					document.write('<img src="http://180.148.142.10/website/vnexpress/Res.asp?vid=14995454-4352-47C5-A6B9-A5B263D9DA6E&ovt=0&vsd=0&pfd=109&pid=1002160633&ref=&iTime=11/11/2011 11:23:52 PM" border=0>');
+					
+				}
+			</script>
+		</div>
+		<script type="text/javascript">
+	var SERVER_ID = 6;
+</script>
+
+
+		<!--<script type="text/javascript" language="javascript" src="/Library/Common/rss.js"></script>-->
+		<script type="text/javascript" src="http://180.148.142.152/Library/VNELibraryNew.js"></script>
+
+<script type="text/javascript" src="http://180.148.142.152/Library/AdLibNew.js"></script>
+		
+<script src="http://180.148.142.152/Vals/1/0/109/Val.js" type="text/javascript"></script>	
+		
+<script type="text/javascript" language="javaScript">checkCookie();</script>
+
+<script type="text/javascript" language="javaScript" src="http://180.148.142.153/script/libMobile.js"></script>     
+
+
+<script type="text/javascript">      
+    Poly_ShowAds();
+</script>
+	
+	</body>			
+</html>
