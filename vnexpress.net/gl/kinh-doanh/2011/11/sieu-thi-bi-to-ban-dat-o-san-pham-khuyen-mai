@@ -1,0 +1,1331 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />		
+		
+		<meta name="robots" content="INDEX,FOLLOW" />
+			
+		<meta name="description" content="Tham gia tháng khuyến mãi, nhiều siêu thị, trung tâm điện máy đều cam kết giảm giá sản phẩm 10-15%. Song, không ít mặt hàng trong diện ưu đãi vẫn có giá cao hơn ngoài thị trường, khiến người tiêu dùng bức xúc.> Siêu thị chạy đua tháng khuyến mãi" />
+			
+		<title>Siêu thị bị 'tố' bán đắt ở sản phẩm khuyến mãi - VnExpress</title>
+		
+		<meta name="keywords" content="tháng khuyến mãi,hàng khuyến mãi,giảm giá" />	
+		
+		<meta http-equiv="REFRESH" content="3600" />
+		
+		<link rel="stylesheet" href="/Resource/Common/default.css" type="text/css" />	
+		<link href="http://go.polyad.net/style/context/2.css" rel="Stylesheet" style="text/css"> 		
+		
+		<link rel="alternate" type="application/rss+xml" title="VnExpress - RSS" href="/RSS/GL/trang-chu.rss" />
+			
+		
+		<script type="text/javascript" language="javascript" src="/Library/Common/Library.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/Vne.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/FlashMedia.js"></script>						
+        <script type="text/javascript" language="javascript" src="/Library/Common/AjaxRequest.js"></script>
+		<script type="text/javascript" language="javascript" src="/Library/Common/vietUni.js"></script>
+		<script type="text/javascript" language="javascript" src="/Resource/00/ArrMenu.js"></script>        				
+		<script type="text/javascript" language="javaScript">
+			var PAGE_SITE=0;
+			var PAGE_FOLDER=3;	
+			var PAGE_ID=1002160405;	
+			var DOMESTIC_IP=1;	
+			setTypingMode(1);
+				
+			sLoDID=sLoDID.concat('1002160405').concat(',');
+			
+		</script>
+		<script type="text/javascript" language="javascript" src="/Resource/Common/Menu.js"></script>
+		
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-249346-1']);
+		_gaq.push(['_trackPageview']);
+		
+		_gaq.push(['b._setAccount', 'UA-249346-21']);
+		_gaq.push(['b._trackPageview']);
+		
+		_gaq.push(['c._setAccount', 'UA-249346-22']);
+		_gaq.push(['c._trackPageview']);
+		
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	
+		<script src="/Library/Common/jquery-1.6.3.min.js"></script>		
+		
+<script type="text/javascript" src="/library/Common/VNEShowAds.js"></script>
+<script src="/library/common/adlibv1.js" type="text/javascript"></script>
+<script src="/library/common/lib.js" type="text/javascript"></script>
+
+	</head>
+	<body>	
+		
+				
+		<input type="hidden" id="CurrentBrowserWidth" value="" />
+		<input type="hidden" id="ShowBackground" value="1" />
+		<div id="divSlideResultLeft" style="background-repeat:no-repeat;background-position:right top;over-flow:hidden;cursor:pointer;text-align:right;padding:0px;position: fixed!important;position: absolute; /*ie6 and above*/;left: 0px; top: 0px;overflow:hidden;"></div>
+		<div id="divSlideResultRight" style="background-repeat:no-repeat;over-flow:hidden;cursor:pointer;text-align:left;padding:0px;position: fixed!important; position: absolute; /*ie6 and above*/;right: 0px; top: 0px;overflow:hidden;"></div>				
+		
+		<div id="outter">		
+		<div id="divMove" style="width:1000px;">
+		<div class="fpr2">
+			<div id="header">
+				<div id="logoEH" class="logo fl" >
+					
+					<a onfocus="this.blur()" hidefocus="" href="/"><img class="img-logo" src="/Images/blank.gif" alt="" /></a>
+					
+				</div>
+				<div id="topbannerEH" class="topbanner fr">
+					
+					<table border="0" cellpadding="0" cellspacing="0" style="width:100%;">
+						<tr>
+							<td style="vertical-align:middle">
+																
+									<script type="text/javascript" language="javascript">
+										Poly_ShowTopBanner();
+									</script>								
+								
+							</td>                           
+						</tr>
+					</table>				
+					
+				</div>
+			</div>			
+		</div>				
+		<div id="menu">
+	<div class="searchmenu">
+		<div class="fl icone"></div>
+		<div class="drss fl"><a href="/GL/RSS/" class="link-rss lnkrss">RSS<span></span></a></div>
+		<div id="mn-search" class="search fr">
+			<form onsubmit="return CheckValue(document.Search.s);" action="http://search.vnexpress.net/news" id="Search" name="Search">
+				<span class="fl borright"></span>
+				<input type="text" value="Từ khóa tìm kiếm" onfocus="SearchOnFocus(this)" onkeydown="" onkeyup="initTyper(this)" onblur="SearchOnBlur(this)" id="s" name="s" class="txtsearch fl">
+				<img onclick="return CheckValue(document.Search.s);" alt="" src="/images/blank.gif" class="img-search fl">
+				<input type="hidden" value="66FD8EC7-FA76-4A7C-8FE3-DB605B4C9CE0" name="g">
+				<input type="hidden" value="yes" name="butS">
+			</form>
+		</div>
+	</div>
+	<!--[if lte IE 6]><a id="lnkIE6" href="#"><table cellpadding=0 cellspacing=0 style="border: 0; margin: 0; padding: 0; width: 1000px; height: 25px;"><tr><td><![endif]-->
+	<div class="menu">
+		<ul>
+			<li><div class="fl mn-borleft"></div></li>
+			
+			<li>
+				<a href="/"><span class="pmenuL"></span><span class="pmenuM">Trang nhất</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<!--<ul style="padding: 0px; height: 16px">
+					<div class="fl icone"></div>
+					<div class="drss fl"><a href="/GL/RSS/" class="link-rss">RSS <span></span></a></div>
+				</ul>-->
+				<ul class="smenu-home">	
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+					<li class="lnknews24h"><a href="/gl/24h-qua/"></a></li>
+					<li class="ico-ct-wrap">
+						<span class="fl ico-ct"></span>
+						<p class="fl phonect"><span>0123.888.0123</span> (HN) - <span>0129.233.3555</span> (TP.HCM)</p>
+					</li>				
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/video/"><span class="pmenuL"></span><span class="pmenuM">Video</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">													
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/xa-hoi/"><span class="pmenuL"></span><span class="pmenuM">Xã hội</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li><a href="/gl/xa-hoi/giao-duc/">Giáo dục</a></li>
+					<li><a href="/gl/xa-hoi/nhip-dieu-tre/">Nhịp điệu trẻ</a></li>
+					<li><a href="/gl/xa-hoi/du-lich/">Du lịch</a></li>
+					<li><a href="/gl/xa-hoi/co-hoi-du-hoc/">Du học</a></li>												
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/the-gioi/"><span class="pmenuL"></span><span class="pmenuM">Thế giới</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->				
+				<ul class="smenu-other">					
+					<li><a href="/gl/the-gioi/cuoc-song-do-day/">Cuộc sống đó đây</a></li>
+					<li><a href="/gl/the-gioi/anh/">Ảnh</a></li>
+					<li><a href="/gl/the-gioi/nguoi-viet-5-chau/">Người Việt 5 châu</a></li>
+					<li><a href="/gl/the-gioi/phan-tich/">Phân tích</a></li>
+					<li><a href="/gl/the-gioi/tu-lieu/">Tư liệu</a></li>								
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li class="active"><a href="/gl/kinh-doanh/"><span class="pmenuL"></span><span class="pmenuM">Kinh doanh</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+								
+				<ul class="smenu-other">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/gl/ebank/">Ebank</a></li>
+					<li><a href="/gl/kinh-doanh/chung-khoan/">Chứng khoán</a></li>
+					<li><a href="/gl/kinh-doanh/bat-dong-san/">Bất động sản</a></li>
+					<li><a target="_blank" href="http://nhadep.vnexpress.net/gl/nha-dep/">Nhà đẹp</a></li>
+					<li><a href="/gl/kinh-doanh/kinh-nghiem/">Doanh nhân</a></li>
+					<li><a href="/gl/kinh-doanh/quoc-te/">Quốc tế</a></li>
+					<li><a href="/gl/doi-song/mua-sam/">Mua sắm</a></li>
+					<li><a href="/gl/kinh-doanh/doanh-nghiep-viet/">Doanh nghiệp viết</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/van-hoa/"><span class="pmenuL"></span><span class="pmenuM">Văn hóa</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">					
+					<li><a href="/gl/van-hoa/hoa-hau/">Hoa hậu</a></li>
+					<li><a href="/gl/van-hoa/guong-mat-nghe-sy/">Nghệ sỹ</a></li>
+					<li><a href="/gl/van-hoa/am-nhac/">Âm nhạc</a></li>
+					<li><a href="/gl/van-hoa/thoi-trang/">Thời trang</a></li>
+					<li><a href="/gl/van-hoa/san-khau-dien-anh/">Điện ảnh</a></li>
+					<li><a href="/gl/van-hoa/my-thuat/">Mỹ thuật</a></li>
+					<li><a target="_blank" href="http://evan.vnexpress.net/">Văn học</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/the-thao/"><span class="pmenuL"></span><span class="pmenuM">Thể thao</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smsport"><a href="/gl/the-thao/bong-da/">Bóng đá</a></li>
+					<li><a href="/gl/the-thao/tennis/">Tennis</a></li>
+					<li><a href="/gl/the-thao/chan-dung/">Chân dung</a></li>
+					<li><a href="/gl/the-thao/anh-video/">Ảnh - Video</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="http://seagames.vnexpress.net/" target="_blank"><span class="pmenuL"></span><span class="pmenuM">SEA Games 26</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li class="smseagames26"><a href="http://seagames.vnexpress.net/tin/lich-dau/" target="_blank">Lịch đấu</a></li>
+					<li><a href="http://seagames.vnexpress.net/tin/xep-hang/" target="_blank">Bảng xếp hạng</a></li>					
+					<li><a href="http://seagames.vnexpress.net/tin/bong-da/" target="_blank">Bóng đá</a></li>					
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/phap-luat/"><span class="pmenuL"></span><span class="pmenuM">Pháp luật</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smlaw"><a href="/gl/phap-luat/hinh-su/">Hình sự</a></li>
+					<li><a href="/gl/phap-luat/ky-su/">Ký sự</a></li>
+					<li><a href="/gl/phap-luat/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/doi-song/"><span class="pmenuL"></span><span class="pmenuM">Đời sống</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smlife"><a href="/gl/doi-song/cau-chuyen-cuoc-song/">Câu chuyện cuộc sống</a></li>
+					<li><a href="/gl/doi-song/gia-dinh/">Gia đình</a></li>
+					<li><a href="/gl/suc-khoe/">Sức khỏe</a></li>
+					<li><a href="/gl/doi-song/am-thuc/">Ẩm thực</a></li>
+					<li><a href="/gl/suc-khoe/lam-dep/">Làm đẹp</a></li>
+					<li><a href="/gl/doi-song/blog/">Cửa sổ Blog</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/khoa-hoc/"><span class="pmenuL"></span><span class="pmenuM">Khoa học</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smscience"><a href="/gl/khoa-hoc/moi-truong/">Môi trường</a></li>
+					<li><a href="/gl/khoa-hoc/thien-nhien/">Thiên nhiên</a></li>
+					<li><a href="/gl/khoa-hoc/anh/">Ảnh</a></li>
+					<li><a href="/gl/khoa-hoc/ky-thuat-moi/">Công nghệ mới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/vi-tinh/"><span class="pmenuL"></span><span class="pmenuM">Vi tính</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smmicrocalculate"><a href="/gl/vi-tinh/san-pham-moi/">Sản phẩm mới</a></li>
+					<li><a href="/gl/vi-tinh/kinh-nghiem/">Kinh nghiệm</a></li>
+					<li><a href="/gl/vi-tinh/giai-tri/">Giải trí</a></li>
+					<li><a href="/gl/vi-tinh/hoi-dap/">Hỏi đáp</a></li>
+					<li><a href="/gl/vi-tinh/hacker-virus/">Hacker &amp; Virus</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/oto-xe-may/"><span class="pmenuL"></span><span class="pmenuM">Ôtô - Xe máy</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">					
+					<li class="smcar"><a href="/gl/oto-xe-may/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/ban-doc-viet/"><span class="pmenuL"></span><span class="pmenuM">Bạn đọc</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-bdv">					
+					<li><a href="/gl/ban-doc-viet/khoa-hoc/">Khoa học</a></li>						
+					<li><a href="/gl/ban-doc-viet/doi-song/">Đời sống</a></li>
+					<li><a href="/gl/ban-doc-viet/phap-luat/">Pháp luật</a></li>
+					<li><a href="/gl/ban-doc-viet/xa-hoi/">Xã hội</a></li>
+					<li><a href="/gl/ban-doc-viet/kinh-doanh/">Kinh doanh</a></li>
+					<li><a href="/gl/ban-doc-viet/the-thao/">Thể thao</a></li>
+					<li><a href="/gl/ban-doc-viet/van-hoa/">Văn hoá</a></li>
+					<li><a href="/gl/ban-doc-viet/the-gioi/">Thế giới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/ban-doc-viet/tam-su/"><span class="pmenuL"></span><span class="pmenuM">Tâm sự</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other"></ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/rao-vat/"><span class="pmenuL"></span><span class="pmenuM">Rao vặt</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-raovat">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/cuoi/"><span class="pmenuL"></span><span class="pmenuM">Cười</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-bdv">
+					<li><a href="/gl/cuoi/video/">Video</a></li>
+					<li><a href="/gl/cuoi/tieu-pham/">Tiểu phẩm</a></li>						
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+		</ul>
+	</div><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</div>
+
+		<div id="content">			
+			
+			<div class="content-center fl">			
+			<div class="folder-header">
+	<script type="text/javascript" language="javascript">writeFolderTitle(PAGE_FOLDER);</script>
+	<div class="fr">Th&#7913; n&#259;m, 10/11/2011, 15:51 GMT+7</div>
+</div>
+<div class="email-print txtr">
+	<script>
+	writeSociable('http://vnexpress.net/gl/kinh-doanh/2011/11/sieu-thi-bi-to-ban-dat-o-san-pham-khuyen-mai/','Siêu+thị+bị+tố+bán+đắt+ở+sản+phẩm+khuyến+mãi','Siêu+thị+bị+tố+bán+đắt+ở+sản+phẩm+khuyến+mãi','sociable',1002160405);
+	</script>
+<font onClick="return EmailSubject(1002160405)"><img border="0" src="/Images/email.gif" align="bottom">&nbsp;E-mail</font>
+&nbsp;&nbsp;&nbsp;<font onClick="return PrintSubject()"><img border="0" src="/Images/print.gif" align="bottom">&nbsp;B&#7843;n In</font>
+</div>
+
+				<div class="content">
+					<div style="overflow:hidden" cpms_content="true">
+				<H1 class=Title>Siêu thị bị 'tố' bán đắt ở sản phẩm khuyến mãi</H1>
+<H2 class=Lead>Tham gia tháng khuyến mãi, nhiều siêu thị, trung tâm điện máy đều cam kết giảm giá sản phẩm 10-15%. Song, không ít mặt hàng trong diện ưu đãi vẫn có giá cao hơn ngoài thị trường, khiến người tiêu dùng bức xúc.<BR>> <A href="/gl/kinh-doanh/2011/11/sieu-thi-chay-dua-thang-khuyen-mai/" class="Lead">Siêu thị chạy đua tháng khuyến mãi</A></H2>
+<TABLE cellSpacing=0 cellPadding=3 width=1 align=center border=0>
+<TR>
+<TD><IMG src="/Files/Subject/3b/bb/c1/15/gia-cao-2.jpg" width=450 height=360 alt="Ảnh: Xuân Ngọc" /></TD></TR>
+<TR>
+<TD class="Image">Một số sản phẩm trong diện khuyến mãi vẫn có giá cao hơn so với thị trường. Ảnh: <EM>Xuân Ngọc</EM></TD></TR></TABLE>
+<P class=Normal>Cuối tuần trước, chị Minh, sống ở Trần Khát Chân, Hà Nội đi mua sắm ở siêu thị gần nhà vì nghe nói có khuyến mãi rất hấp dẫn. Điều khiến chị ngạc nhiên là nhiều sản phẩm trong diện ưu đãi vẫn đắt hơn giá chị thường mua. </P>
+<P class=Normal>Xem một loại tã giấy nổi tiếng của Mỹ, chị Minh thấy đại lý gần nhà bán với giá 145.000 đồng, còn trong siêu thị là 151.200 đồng, giá chưa giảm là 168.000 đồng. “Cũng có một số sản phẩm sau khi giảm giá thì rẻ hơn thật, đặc biệt là gạo. Nhưng vài mặt hàng dù khuyến mãi vẫn đắt hơn ở cửa hàng ngoài”, chị Minh nói.</P>
+<P class=Normal>Vừa khoe chiếc tivi Sony 32'' mới mua với giá ưu đãi 7,6 triệu đồng, anh Hưng (Mỹ Đình, Hà Nội) tiu ngỉu khi biết ông bạn hàng xóm sắm loại giống hệt với giá rẻ hơn 300.000 đồng mà không phải là hàng giảm giá. Anh chia sẻ, nhiều người vẫn quan niệm đồ khuyến mãi là có vấn đề, anh cũng lo vậy. Giờ biết mình vừa mua hàng hạ giá, vừa đắt, anh càng thất vọng.</P>
+<P class=Normal>Thậm chí, một số sản phẩm khuyến mãi còn bị khách “tố” là giảm giá giả. So sánh giá trên mạng về chiếc tủ lạnh Side by Side định mua, anh Thịnh (Lò Đúc, Hà Nội) thấy ở Topcare bán giá rẻ nhất là 56,29 triệu đổng, giá gốc gần 60 triệu đồng. Nhưng theo anh Thịnh, ở nhiều cửa hàng khác, mức giá phổ biến chỉ là 56,59 triệu đồng. “Mình có mua thì thực chất cũng chỉ được giảm được 300.000 đồng chứ chẳng phải vài ba triệu như họ đưa ra”, anh Thịnh nói.</P>
+<TABLE cellSpacing=0 cellPadding=3 width=1 align=center border=0>
+<TR>
+<TD><IMG src="/Files/Subject/3b/bb/c1/15/gia-cao-1.jpg" width=450 height=360 alt="Ảnh: Xuân Ngọc" /></TD></TR>
+<TR>
+<TD class="Image">Người tiêu dùng cân nhắc kỹ về giá cả và chất lượng sản phẩm trước khi mua sắm. Ảnh: <EM>Xuân Ngọc</EM></TD></TR></TABLE>
+<P class=Normal>Khảo sát của <EM>VnExpress.net</EM>, nhiều sản phẩm khác dù đang trong quá trình khuyến mãi vẫn có giá khá đắt so với thị trường. Như dầu gội Dove 675 gr trong siêu thị, giảm từ 89.000 đồng xuống 84.600 đồng, nhưng giá tại các đại lý chỉ bán 82.000 đồng. Máy làm sữa chua loại 6 cốc, sau khi giảm còn 499.000 đồng trong siêu thị, vẫn đắt hơn đến 79.000 đồng so với nhiều cửa hàng. Hay cùng một mã máy ảnh, bán tại cửa hàng trên phố Thái Hà, giá gần 14,3 triệu song ở siêu thị điện máy trên đường Láng, giá lên đến 15,4 triệu, dù đã giảm hơn 4 triệu đồng... </P>
+<P class=Normal>Giải thích về điều này, anh Lê Tùng, Trưởng phòng Marketing của Topcare cho biết, với các siêu thị, hệ thống điện máy lớn, hãng sản xuất luôn có quy định về giá bán lẻ, giá niêm yết để đảm bảo cạnh tranh lành mạnh trên thị trường. Trong khi đó, những cửa hàng nhỏ lại không bị ràng buộc chặt nên có thể hạ giá thấp để thu hút khách.</P>
+<P class=Normal>Theo anh Tùng, khi mua tại các trung tâm điện máy, người tiêu dùng thường được hưởng trọn gói ưu đãi của hãng sản xuất như sản phẩm đi kèm... “Ở một số cửa hàng nhỏ lẻ trên thị trường, quà tặng từ nhà sản xuất có thể được tách bán riêng, rồi họ trừ trực tiếp số tiền đó vào hàng hóa, nhằm hạ giá để cạnh tranh”, anh Tùng nói.</P>
+<P class=Normal>Đồng quan điểm như vậy, anh Lê Việt Chung, đại diện của Công ty cổ phần thế giới số Trần Anh cho biết, các siêu thị điện máy có uy tín luôn có sự kiểm tra, điều chỉnh giá từ nhà cung cấp để đảm bảo không phá vỡ thị trường. Còn cửa hàng nhỏ tránh được điều này của một số hãng do doanh số bán không nhiều.</P>
+<P class=Normal>Anh Chung cũng cho rằng, khi mua sản phẩm tại trung tâm điện máy, khách được hưởng dịch vụ trọn gói như linh kiện đồng bộ, giao nhận tận nơi, lắp đặt, bảo hành. Tại một vài địa chỉ lẻ, giá thành có thể thấp hơn đôi chút, song tất cả những thao tác đó đều bị tính phí hoặc khó khăn khi giải quyết trục trặc sau mua hàng.</P>
+<P class=Normal>“Khách hàng có thể lựa chọn địa chỉ cho mình song nên cân nhắc kỹ về thương hiệu của đơn vị bán cũng như chế độ bảo hành. Bởi sản phẩm không chỉ đơn thuần mang lại lợi ích về giá trị khi mua mà còn ở chất lượng trong quá trình sử dụng và sự hài lòng ở khâu hậu mãi”, anh Chung tư vấn.</P>
+<P class=Normal>Chủ tịch Hiệp hội siêu thị Hà Nội, ông Vũ Vinh Phú cho rằng bên cạnh những khuyến mãi thực sự và có trách nhiệm thì vẫn còn một số ít hàng giảm giá ảo, lỗi mốt. Điều đó như con dao hai lưỡi, ảnh hưởng xấu đến lợi ích của khách hàng và hình ảnh của doanh nghiệp.</P>
+<P class=Normal>Theo ông Phú, mỗi năm mới chỉ có 30-40% các đơn vị đăng ký thực hiện tháng khuyến mãi báo cáo kết quả về Sở Công thương. Điều này chưa thể hiện được hiệu quả của hoạt động. "Bản thân khách hàng nên tỉnh táo để mua được sản phẩm khuyến mãi thực sự. Nhưng các cơ quan chức năng cũng cần quản lý, giám sát chặt để bảo vệ người tiêu dùng", ông Phú nói.</P>
+<P class=Normal align=right><STRONG>Xuân Ngọc</STRONG></P>
+			</div>
+			<div class="tag-parent"><img src='/Images/tags.gif' class="tag"><div class="tag-pos"><h3 class="tag-text"><a href='/tag/6356/thang-khuyen-mai/'>tháng khuyến mãi</a>, <a href='/tag/73417/hang-khuyen-mai/'>hàng khuyến mãi</a>, <a href='/tag/1374/giam-gia/'>giảm giá</a></h3></div></div>
+			<div class="box-item" style="margin-top:5px;margin-bottom:5px;">
+			
+					<div style="border:1px solid #b7beb6; padding: 2px 3px;">
+						<div style="background-color: #d5d9de; padding: 5px 10px; margin-bottom:13px; font-weight:bold;">									
+							<table cellspacing="0" cellpadding="0" border="0" width="100%">
+								<tr>
+									<td>
+										<a name=aComment>&#221; ki&#7871;n b&#7841;n &#273;&#7885;c (<label style="color:#0033FF">16</label>)</a>
+									</td>
+									<td style="text-align:right; font-family:arial; font-size:11px; font-weight: normal;">
+										S&#7855;p x&#7871;p theo: 
+										<select name="cboOrder" id="cboOrder" onchange="OrderComment(this.value)" style="font-family:arial; font-size:11px; font-weight: normal;">
+											<option value="0" >Mới nhất</option>
+											<option value="1" selected>Cũ nhất</option>
+										</select>									
+									</td>
+								</tr>
+							</table>																		
+						</div>
+						<div style="height:400px; padding:0px 8px; overflow:auto; overflow-x: hidden;">								
+															
+							<div class="comment_ct">
+								<P class=Title>Cẩn trọng vẫn hơn</P>
+<P class=Normal>"Nâng giá lên rồi hạ giá xuống một chút" mấy chiêu thức này đã quá cũ nhưng vẫn nhiều người bị lừa, tốt nhất nếu muốn mua một món hàng bạn hãy lên net để dò tìm giá cả, nơi bán, chế độ bảo hành, danh tiếng của cửa hàng, sau đó dò thêm vài cửa hàng khác. Lúc đó bạn mua hàng là tốt nhất.</P>
+<P class=Normal><I>( tienthan )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Đánh Lừa Khách Hàng</P>
+<P class=Normal>Nhiều siêu thị sử dụng "chiêu" tăng giá các mặt hàng lên bằng cách ghi thông tin giá cả khác thay thế vào. Sau đó giảm 20% hay 30% tùy mặt hàng để đánh lừa người mua. Thực chất những hàng đã giảm giá bằng, thậm chí cao hơn giá gốc trước đó.</P>
+<P class=Normal><I>( Linh Vũ )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Siêu thị bị 'tố' bán đắt ở sản phẩm khuyến mãi</P>
+<P class=Normal>Bài báo nói quá đúng. Mang tiếng đang có tháng khuyến mại giảm giá 50% nhưng giá đã giảm bằng giá ngoài thị trường. Phải chăng các siêu thị đang cố tình nâng giá lên để hạ được 50%. Nói như vậy khác gì các siêu thị bắt tay nhau để làm giá. Phải chăng người tiêu dùng Việt Nam lại càng thua thiệt nhiều. ư</P>
+<P class=Normal><I>( Nguyen Tuong Xuan )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Hang giam Gia</P>
+<P class=Normal>Đồng Ý với các mặt hàng Điện Máy thì ở Siêu Thị dịch vụ tốt hơn. Còn các mặt hàng dầu gội đầu thì sao? (dầu gội Dove 675 gr trong siêu thị, giảm từ 89.000 đồng xuống 84.600 đồng, nhưng giá tại các đại lý chỉ bán 82.000 đồng.) <I>( Thanh Tung )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>"Chẳng ai cho không ai bao giờ cả"</P>
+<P class=Normal>Trước khi mua một sản phẩm nào chúng ta cần so sánh vài mẫu hàng của các cửa hàng khác nhau rồi hãy mua nhưng theo kinh nghiệm của tôi thì chẳng ai cho không ai bao giờ cả bán hàng đâu phải làm từ thiện đâu mà cho. Các siêu thị luôn biết lách luật để nâng giá lên rồi tự hạ giá sao cho bằng hoặc cao hơn mặt bằng giá chung là ok. Chúng ta cần bỏ tư duy ăn theo hàng khuyến mãi thì chẳng còn cách nào là bán đúng giá thôi..</P>
+<P class=Normal><I>( thanhminh )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Lợi ích của một nhóm người</P>
+<P class=Normal>Tôi thường xuyên đi siêu thị và thấy hàng "bình ổn" chẳng ổn tí nào. Giá lúc nào cũng cao hơn ở chợ, và một vài tuần lại thấy lên giá? ko hiểu bình ổn là bình ổn cái gì? Có lẽ nó chỉ mang lại lợi ích cho một nhóm người nào đó chứ người tiêu dùng chúng tôi ko nhận thấy lợi ích nào ở đây cả.</P>
+<P class=Normal><I>( yen )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Nâng lên cao rồi giảm xuống tới 45%. Coi chừng...bị...lừa.</P>
+<P class=Normal>Không phải riêng bạn ở trên bị các siêu thị lừa đâu. Ở TP.HCM cũng có vài trung tâm điện máy lớn cũng dùng chiêu này nên người tiêu dùng cần chú ý dọ giá trước khi mua hàng được gọi là...siêu giảm giá. Giảm giá ở các siêu thị và trung tâm điện máy không đúng như thực tế và có thể nói là lừa người tiêu dùng. Tôi đã từng mua một đầu máymà giá in trên tờ quảng cáo chỉ là 5t2 nhưng vào trung tâm điện máy nổi tiếng ở SG này để giá tới 5t6 rồi giảm còn...5t190. Té ra chỉ là giảm đúng có 10.000d so với giá công bố của nhà sản xuất in trên tờ rơi. Hãy cẩn thận với chiêu này và hãy đi vòng vòng dọ giá trước khi tin vào siêu giảm giá hay khuyến mãi của các trung tâm điện máy. Vài lời chia sẻ. <I>( quocan )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>KHUYẾN MẠI GÂY HOANG MANG NGƯỜI TIÊU DÙNG</P>
+<P class=Normal>Doanh nghiệp, đơn vị bán lẻ đang gây hoang mang cho người tiêu dùng, Nhà quản lý thị trường phải vào cuộc ngay, kiểm tra hóa đơn nhập hàng và giá niêm yết giảm giá , nếu vi phạm luật khuyến mại, maketing sẽ xử lý hành chính hay rút giấy phép kinh doanh để đảm bảo thi trường ổn định.<BR>Tôi là người tiêu dùng khi vào siêu thị hay cửa hàng thấy các mặt hàng loạn giá khuyến mại nhưng không biết có thực là giảm giá không.<BR>Nhười tiêu dùng không tin tưởng, lo quá,mất lòng tin quá.Không biết là những nhà quản lý thị trường đâu rồi nhỉ, họ hình như không phải đi mua hàng thì phải nên không thấy tình trạng loạn "giảm giá, khuyến mại "</P>
+<P class=Normal><I>( suny )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>sieu thi nhieu chi phi</P>
+<P class=Normal>do sieu thi nhieu chi phi, con o ngoai mua tan goc ban tan ngon, lay cong lam loi, canh tranh voi sieu thi duoc uu dai, nen gia re hon</P>
+<P class=Normal><I>( doanlinh )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Chiêu kinh doanh thôi!</P>
+<P class=Normal>Mình cũng bị hớ 1 lần rồi. Hồi đầu năm mình cũng mua 1 chiếc máy ép hoa quả giá 750k.Phải bốc thăm trong b/nh người mới được 5 người, giảm giá tới 50%, còn 375k. Mừng ghê! Về nhà khoe vợ, ai ngờ vợ bảo giá bán tại đại lý chỉ có 325k. Cũng vẫn mặt hàng ấy, tem bảo hành ấy Sax.....hài không chịu nổi mấy ông Siêu thị. Giờ mình ko còn tin vào mấy chiêu khuyến mại giảm giá nữa rồi. Giờ thì mình đã hiểu, chiêu này chỉ có ở VN thôi, ở bên nước ngoài mỗi sản phẩm bán ra đều phải đăng kí giá với Bộ Công thương, nếu bán sai giá thì họ bị Quản lý thị trường sờ gáy ngay. Còn mấy ông Siêu thị VN, thích tăng là tăng, thích giảm là giảm. Toàn chiêu thức kinh doanh cả thôi.</P>
+<P class=Normal><I>( Hung )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>giảm sau khi tăng</P>
+<P class=Normal>Chiêu này thường thôi. Tôi gặp hoài. <BR>Giảm 10% sau khi tăng 20%.<BR><BR>Giảm 20% sau khi tăng 40%.<BR><BR>Chiêu này hay sử dụng ở mặt hàng trái cây. Đặc biệt vào những ngày xung quanh ngày rằm.<BR><BR>Còn hàng kim khí điện máy thì khỏi phải bàn, giá ở siêu thị bao giờ cũng đắt hơn ở ngoài. <BR><BR>Hàng ở siêu thị rẻ hơn ở ngoài chỉ tập trung ở một số mặt hàng thiết yếu: bột ngọt, bột giặt, nước mắm, xì dầu, tương ớt, ...<BR><BR>Nên so sánh giá thường xuyên để chọn được giá tốt.</P>
+<P class=Normal><I>( Trần Tâm )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>đừng tham hàng KM</P>
+<P class=Normal>Bà con mình bị các siêu thị lừa rất nhiều nhất là hàng kim khí. Tôi cũng là nạn nhân vì vậy hãy tránh xa và ủng hộ mua từ các công ty vừa và nhỏ vì cũng là hãng chính hãng và giảm được giá thành.</P>
+<P class=Normal><I>( binh )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Lên giá rồi đánh tụt trong chiêu thức khuyến mãi</P>
+<P class=Normal>Hiện nay hầu hết các cửa hàng, siêu thị thi nhau giảm giá đặc biệt nhằm lôi kéo khách hàng. Đây là một chiêu thức thúc cầu, người tiêu dùng có lợi và doanh nghiệp tăng doanh thu, kéo theo lợi nhuận lớn. Tuy nhiên giá trị thực tế thì hoàn toàn trái ngược. Hầu hết họ tăng giá rồi hạ xuống trong chiêu thức khuyến mãi. Tôi lấy ví dụ: Một chiếc quần tây có giá thị trường 250.000 đ / 1 quần. Tuy nhiên họ chấp nhận giảm giá 15%, nhưng giá họ niêm yết trên quần tây đó là 320 rồi giảm 15 % , tức giảm 48 ngàn đồng/quần. Như vậy mặc dù giảm giá nhưng các cửa hàng vẫn bán được với giá trên 270.000 đ . .... Đó là ví dụ minh hoạ, hiện trong nhiều siêu thị vẫn xuất hiện nhưng hạn chế, nhưng tại các cửa hành thì xảy ra rất nhiều vì không có cơ chế kiểm soát của cơ quan có thẩm quyền. Kết luận lại là người tiêu dùng bị lừa, thiệt hại, còn cơ quan chức năng không kiểm soát, được . Lỗi tại đâu ?</P>
+<P class=Normal><I>( Phạm Văn Khiêm )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Giảm giá đến 50%? Quảng cáo đã lỗi thời</P>
+<P class=Normal>Giảm giá tới 50% chỉ có thể: 1, Hàng đã có lỗi ( lỗi kỹ thuật hay lỗi mẫu mã hoặc giá cả không phù hợp với giá trị thật của sản phẩm), người tiêu dùng khônng mua đến hoặc ít người dùng đến. Bán mãi chẳng có ma nào mua, bán vội để giải phóng kho. 2. Hàng cũ, hàng giả (nhái) ở dạng vỏ một đằng ruột một nẻo ăn theo các sản phẩm có uy tín. 3. Tự đưa giá sản phẩm lên trời rồi lại đưa xuống đất để lừa người tiêu dùng mà thôi chứ giảm 50% thì có mà bán nhà đi mà kinh doanh. 4. Tiền nào của đấy thôi, không phải tự dưng mà giảm đâu.</P>
+<P class=Normal><I>( Cao Quang )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>toan nhung tro lua dao</P>
+<P class=Normal>Tôi xin thề chưa bao giờ và cũng không bao giờ mua hàng giảm giá trong siêu thị vì tôi thấy nhiều mặt hàng siêu thị nói là giảm gia tới 30% nhưng khi so sánh với các đại lý vẫn thấy đắt hơn hoặc bằng đặc biệt là hàng điện tử. Theo tôi như thế là người mua hàng bị lừa. Thà cứ mua hàng bình thường dù có đắt một chút nhưng chế độ chăm sóc vẫn hơn mua hàng khuyến mại để rồi có cảm giác như bị lừa vậy</P>
+<P class=Normal><I>( Tran Cong Chat )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Bài Báo Quá Đúng:</P>
+<P class=Normal>Tôi mua một cái tivi 29in tại điện máy với giá trước đây là 4.250.000đ giá trên đã được siêu thị thông báo giảm 22% như trên thông báo chương trình khuyến mãi, 2 ngày sau tôi ghé vào ST điện máy khacs giá ở đây là 3.950.000 đã giảm 2%. Bó tay với nạn lừa đảo</P>
+<P class=Normal><I>( Km Chi )</I></P>
+							</div>									
+						
+						</div>
+						<div style="background-color: #d5d9de; padding: 5px 10px; margin-top:13px; min-height:12px;">
+							
+						</div>
+						<!--<script type="text/javascript" language="javascript" src="/Library/Common/jquery.js"></script>-->
+						<script type="text/javascript" language="javascript">
+							$(document).ready(function(){
+								//$('div.comment_ct p.Title').css('font-size',17);
+							});
+						</script>
+						<script type="text/javascript" language="javascript">
+							function OrderComment(i){
+								setCookie('VOrderComment', '', '', i);
+								location.href = '/gl/kinh-doanh/2011/11/sieu-thi-bi-to-ban-dat-o-san-pham-khuyen-mai#aComment';
+							}									
+						</script>
+					</div>
+					
+<p id=pShow><a class=SForm onclick="ShowFormComment()"><img src="/Images/Y-kien-cua-ban.gif" border="0" style="cursor:pointer" alt="Ý kiến của bạn" /></a></p>
+<div id="dComment" class="dtopitem_all">
+	<form method="post" name="frmComment" id="frmComment" target="_blank" onsubmit="submitForm(this);return false;" action="/service/comment/submit.asp">
+		<div class="adword-hdf">&nbsp;</div>
+		<div class="adword adword-middle" style="padding-top:0px;">					
+			<div class="adword-nav2 fl" style="padding-top:10px; width:476px; background-color:#ffffff">
+				<div style="padding-bottom:5px; overflow:hidden;">
+					<div class="fl" style="width:60%">
+						<input type="text" value="Họ tên" name="txtAddedBy" id="txtAddedBy" style="width:280px;" size="29" onfocus="NameOnFocus(this)" onblur="NameOnBlur(this)" onkeyup="initTyper(this)" class="adword-textbox"">
+					</div>
+					<div class="fr" style="width:180px;">
+						<input type="text" value="Email" name="txtAddedByEmail" id="txtAddedByEmail" style="width:172px" size="29" onfocus="EmailOnFocus(this)" onblur="EmailOnBlur(this)" class="adword-textbox">
+					</div>
+				</div>
+				<div style="padding-bottom:5px; overflow:hidden;">
+					<div class="fl" style="width:60%">
+						<input type="text" value="Tiêu đề" name="txtAddedTitle" id="txtAddedTitle" style="width:280px;" size="29" onfocus="TitleOnFocus(this)" onblur="TitleOnBlur(this)" onkeyup="initTyper(this)" class="adword-textbox"">
+					</div>
+					<div class="fr" style="width:180px;">
+						<input type="text" value="Mã xác nhận" name="txtValidCode" id="txtValidCode" style="width:99px;" size="29" onfocus="ValidateCodeOnFocus(this)" onblur="ValidateCodeOnBlur(this)" onkeyup="initTyper(this)" class="adword-textbox"">
+						<img src="/Service/Vote/securelog/image.asp" name="imgValidCode" id="imgValidCode" style="vertical-align:top; height:20px; padding-top:1px">
+						&nbsp;<img src="/Images/change-image.gif" alt="Thay hình khác" onclick="ChangeImage()" style="vertical-align:top;cursor:pointer; padding-top:1px" />
+					</div>
+				</div>
+				<div style="overflow:hidden;">
+					<div class="fl" style="width:60%">
+						<input type="submit" value="G&#7917;i To&#224; so&#7841;n" name="B1" class="SForm">&nbsp;<input type="button" value="Xo&#225; tr&#7855;ng" name="B2" class="SForm" onclick="InputDefault();">&nbsp;<input type="button" value="&#272;&#243;ng l&#7841;i" class="SForm" onclick="ShowFormComment()">
+						<input type="hidden" name="txtT" id="txtT" value="1002160405" />
+						<input type="hidden" name="txtS" id="txtS" value="0" />
+						<input type="hidden" name="txtF" id="txtF" value="3" />
+						<input type="hidden" name="txtL" id="txtL" value="/gl/kinh-doanh/2011/11/sieu-thi-bi-to-ban-dat-o-san-pham-khuyen-mai" />
+					</div>
+					<div class="fl" style="width:40%; text-align:right;">
+						<input type="radio" name="optInput" value="0" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(0)">Off
+						<input type="radio" name="optInput" value="1" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(1)" checked>Telex
+						<input type="radio" name="optInput" value="2" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(2)">VNI
+						<input type="radio" name="optInput" value="3" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(3)">VIQR								
+					</div>
+				</div>				
+			</div>			
+			<div class="adword-nav2 fl" style="padding-top:0px;">
+				<textarea rows="10" name="txtAddedContent" id="txtAddedContent" cols="43" onkeyup="initTyper(this)" class="SForm" style="width: 470px"></textarea>				
+			</div>
+		</div>
+		<div class="adword-ftf">&nbsp;</div>
+	</form>
+</div>
+<script type="text/javascript">
+	var bshow = false;
+	
+	function ShowFormComment()	{
+		if(bshow){
+			gmobj('dComment').style.display="block";
+			gmobj('pShow').style.display="none";
+			bshow=false;
+		}
+		else{
+			gmobj('dComment').style.display="none";
+			gmobj('pShow').style.display="block";
+			bshow=true;
+		}
+	}
+	ShowFormComment();
+	
+	function submitForm(theform){
+		document.frmComment.txtAddedBy.value = Trim(document.frmComment.txtAddedBy.value);
+		if (document.frmComment.txtAddedBy.value == '' || document.frmComment.txtAddedBy.value == 'Họ tên')
+		{
+			alert('Xin hay nhap Ho ten!');
+			document.frmComment.txtAddedBy.focus();
+			return;
+		}
+
+		if ((SEmail = CheckEmailAddress(document.frmComment.txtAddedByEmail.value))=='')
+		{
+			alert('Dia chi Email khong hop le!');
+			document.frmComment.txtAddedByEmail.focus();
+			return;
+		}
+
+		document.frmComment.txtAddedByEmail.value = SEmail;
+
+		document.frmComment.txtAddedTitle.value = Trim(document.frmComment.txtAddedTitle.value);
+		if (document.frmComment.txtAddedTitle.value == '' || document.frmComment.txtAddedTitle.value == 'Tiêu đề')
+		{
+			alert('Xin hay nhap Tieu de!');
+			document.frmComment.txtAddedTitle.focus();
+			return;
+		}
+		
+		document.frmComment.txtValidCode.value = Trim(document.frmComment.txtValidCode.value);
+		if (document.frmComment.txtValidCode.value == '' || document.frmComment.txtValidCode.value == 'Mã xác nhận')
+		{
+			alert('Xin hay nhap Ma xac nhan!');
+			document.frmComment.txtValidCode.focus();
+			return;
+		}
+
+		document.frmComment.txtAddedContent.value = Trim(document.frmComment.txtAddedContent.value);
+		if (document.frmComment.txtAddedContent.value == '')
+		{
+			alert('Xin hay nhap Noi dung!');
+			document.frmComment.txtAddedContent.focus();
+			return;
+		}
+
+		if (!confirm('Gui yeu cau?'))
+			return;
+			
+		var status = AjaxRequest.submit(
+			theform
+			,{
+				'onSuccess':function(req){
+					if(req.responseText=='ValidCode'){
+						alert('Ma xac nhan khong dung!');
+					}
+					else{
+						alert(req.responseText);
+						ResetDefault();
+					}
+				}				
+				,'onError':function(req){
+					alert(req.responseText);
+				}
+			}
+		);
+		return status;
+	}
+	
+	function ChangeImage() {			
+		var ranNum = Math.floor(Math.random() * 5);
+
+		AjaxRequest.get(
+		  {
+			'onSuccess':function(req){
+				gmobj('imgValidCode').src = "/Service/Vote/securelog/image.asp?Code=" + ranNum;						
+			}
+			,'onError':function(req){					
+			}
+		  }
+
+		)
+    }
+	
+	function InputDefault() {
+		document.frmComment.txtAddedBy.value = 'Họ tên';
+		document.frmComment.txtAddedBy.className = 'adword-textbox';
+		document.frmComment.txtAddedByEmail.value = 'Email';
+		document.frmComment.txtAddedByEmail.className = 'adword-textbox';		
+		document.frmComment.txtAddedTitle.value = 'Tiêu đề';
+		document.frmComment.txtAddedTitle.className = 'adword-textbox';
+		document.frmComment.txtValidCode.value = 'Mã xác nhận';		
+		document.frmComment.txtValidCode.className = 'adword-textbox';
+		document.frmComment.txtAddedContent.value = '';
+		document.frmComment.txtAddedContent.focus();
+	}
+	
+	function ResetDefault() {
+		InputDefault();
+		ChangeImage();
+		
+		ShowFormComment();
+				
+	}
+</script>
+
+			</div>
+			
+			<div style="margin-top:5px;margin-bottom:5px;">							
+				<script language="javascript">					
+					Poly_ShowArticlebanner();										
+				</script>				
+			</div>
+		</div>				
+		<div class="folder-news">
+	<div class="boxnew-header">
+		<div class="boxnew-title fl">Tin mới</div>
+	</div>
+	<div class="boxnew">
+		<ul>
+		<li><a href="/gl/kinh-doanh/2011/11/du-an-ty-usd-bi-thu-hoi-no-gan-mot-trieu-do-tien-thue-dat/" class="link-othernews">Dự án tỷ USD bị thu hồi nợ gần một triệu đô tiền thuê đất</a><span style="color: #909090">&nbsp;(10/11)</span></li>
+		<li><a href="/gl/kinh-doanh/bat-dong-san/2011/11/dia-oc-dau-khi-tran-tinh-viec-dai-ha-gia-du-an/" class="link-othernews">Địa ốc Dầu khí trần tình việc đại hạ giá dự án</a><span style="color: #909090">&nbsp;(10/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/canh-bao-nguy-co-atm-gan-chip-trom-du-lieu/" class="link-othernews">Cảnh báo nguy cơ ATM gắn chip trộm dữ liệu</a>&nbsp;<img border="0" src="/Images/video2.gif" />&nbsp;
+<span style="color: #909090">&nbsp;(10/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/chi-59-300-ty-dong-cho-cai-cach-tien-luong-2012/" class="link-othernews">Chi 59.300 tỷ đồng cho cải cách tiền lương 2012</a><span style="color: #909090">&nbsp;(10/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/vang-mieng-phi-sjc-dua-ha-gia/" class="link-othernews">Vàng miếng phi SJC đua hạ giá</a><span style="color: #909090">&nbsp;(10/11)</span></li>
+		</ul>
+	</div>
+</div>
+<div class="folder-news">
+	<div class="othernews-header">
+		<div class="othernews-title fl">C&#225;c tin kh&#225;c</div>
+		<div class="fr txtr" style="margin-bottom:5px;"><label onClick="history.go(-1)" class="Time" style="cursor:pointer">[<B>Tr&#7903; v&#7873;</B>]</label></div>
+	</div>
+	<div class="othernews">
+		<ul>
+		<li><a href="/gl/kinh-doanh/2011/11/rut-giay-phep-du-an-cong-vien-phan-mem-1-2-ty-usd/" class="link-othernews">Rút giấy phép dự án công viên phần mềm 1,2 tỷ USD</a><span style="color: #909090">&nbsp;(10/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/trung-quoc-se-cam-quang-cao-sua-nhu-nhi/" class="link-othernews">Trung Quốc sẽ cấm quảng cáo sữa nhũ nhi</a><span style="color: #909090">&nbsp;(10/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/chi-100-000-ty-dong-de-tra-no-trong-nam-2012/" class="link-othernews">Chi 100.000 tỷ đồng để trả nợ trong năm 2012</a><span style="color: #909090">&nbsp;(10/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/dan-cong-so-nuoi-mong-kinh-doanh/" class="link-othernews">Dân công sở nuôi mộng kinh doanh</a><span style="color: #909090">&nbsp;(10/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/trinh-thu-tuong-de-an-cau-truc-ngan-hang-trong-thang-11/" class="link-othernews">Trình Thủ tướng đề án cấu trúc ngân hàng trong tháng 11</a><span style="color: #909090">&nbsp;(10/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/gia-vang-giam-250-000-dong/" class="link-othernews">Giá vàng giảm 250.000 đồng</a><span style="color: #909090">&nbsp;(10/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/dai-gia-di-dong-khuyen-mai-tien-trieu-tieu-gia-chi-bac-ty/" class="link-othernews">Đại gia di động khuyến mại tiền triệu, tiểu gia chi bạc tỷ</a><span style="color: #909090">&nbsp;(10/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/nha-dau-tu-to-shiseido-viet-nam-co-tinh-kinh-doanh-lo/" class="link-othernews">Nhà đầu tư tố Shiseido Việt Nam cố tình kinh doanh lỗ</a><span style="color: #909090">&nbsp;(10/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/lai-suat-huy-dong-vang-vuot-3-mot-nam/" class="link-othernews">Lãi suất huy động vàng vượt 3% một năm</a><span style="color: #909090">&nbsp;(09/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/nam-dinh-xu-phat-27-diem-vi-pham-kinh-doanh-ngoai-hoi/" class="link-othernews">Nam Định xử phạt 27 điểm vi phạm kinh doanh ngoại hối</a><span style="color: #909090">&nbsp;(09/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/dua-lam-phat-nam-2012-xuong-duoi-10/" class="link-othernews">Đưa lạm phát năm 2012 xuống dưới 10%</a><span style="color: #909090">&nbsp;(09/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/hang-nhap-khau-thai-lan-tang-gia/" class="link-othernews">Hàng nhập khẩu Thái Lan tăng giá</a><span style="color: #909090">&nbsp;(09/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/hang-khong-dau-dau-voi-hanh-khach-quay/" class="link-othernews">Hàng không đau đầu với hành khách 'quậy'</a><span style="color: #909090">&nbsp;(09/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/hnx-index-lap-day-moi-64-6-diem/" class="link-othernews">HNX-Index lập đáy mới 64,6 điểm</a><span style="color: #909090">&nbsp;(09/11)</span></li>
+		<li><a href="/gl/kinh-doanh/2011/11/gia-vang-nhich-len-46-6-trieu-dong/" class="link-othernews">Giá vàng nhích lên 46,6 triệu đồng</a><span style="color: #909090">&nbsp;(09/11)</span></li>
+		</ul>
+	</div>
+</div>
+
+		</div>
+	<div class="content-left fl">		
+	<div class="linksite-box" style="padding:0px;">
+	<img alt="Link Site" src="/Images/Linksite/site2.gif" usemap="#ctmap" class="img-linksite"/>
+	<map id="ctmap" name="ctmap">
+		<area shape="rect" coords="6,0,72,28" href="http://ngoisao.net/" target="_blank" title="ngoisao.net" />
+		<area shape="rect" coords="83,0,140,28" href="http://sohoa.vnexpress.net/" target="_blank" title="sohoa.vnexpress.net" />		
+		<area shape="rect" coords="152,0,215,28" href="http://gamethu.vnexpress.net/" target="_blank" title="gamethu.vnexpress.net" />
+		<area shape="rect" coords="223,0,296,28" href="http://vieclam.vnexpress.net/" target="_blank" title="viec lam" />
+	</map>
+</div>
+	<div class="box-item">		
+		<script type="text/javascript">
+			cpms_Ap.typ = 2;
+			cpms_Ap.ste = 1;
+			cpms_Ap.reg = 0;
+			cpms_Ap.fol = 3;
+			cpms_Ap.dof = 0;
+			cpms_Ap.wdt = 300;
+			
+			cpms_Ap.itf = 3;
+			
+			cpms_Ap.ShowAd();
+		</script>
+	</div>
+	<Script language="JavaScript">Poly_ShowLogoLeft(2)</Script><div class="box-item">
+<script type="text/javascript" src="/Library/Common/js/tvsi.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		initvsi();
+	});
+</script>
+<script type='text/javascript' src='/Library/Common/js/data.js'></script>
+<script type='text/javascript' src='/Library/Common/js/jquery.bgiframe.min.js'></script>
+<script src="/Library/Common/js/jquery.autocomplete.js" type="text/javascript"></script>
+<link href="/Library/Common/js/jquery.autocomplete.css" type="text/css" rel="Stylesheet" />
+<style>
+	.light{color:red;}
+	.unlight{color:#000;}
+</style>
+	<div class="fl boxtvsi">
+  <div class="fl tvsis-hp">
+    <div class="fl bl"></div>
+    <div class="fl md">
+      <h3 class="fl head">
+        Tra cứu cổ phiếu
+        <a class="lgtvsismall" href="https://www.tvsi.com.vn/" title="tvsi" target="_blank"></a>
+      </h3>
+      <div class="tvsis fl">
+				<form name="frmsearch" id="frmsearch" method="post" action="http://180.148.142.12/chungkhoan/" target="_blank">
+                    <span class="fl tvsisbr"></span>
+					<input class="fl tvsistxt" type="text" value="Nhập mã chứng khoán cần tìm"  id="iptCode" name="iptCode">
+					<input class="tvsisico" id="btnsubmit" name="btnsubmit" type="submit" value="">
+				</form>
+      </div>
+    </div>
+    <div class="fl br"></div>
+  </div>
+
+  <div class="fl box-dbtt">
+    <div class="fl hr"></div>
+    <ul class="fl dbttab">
+      <li class="sp">
+        <span class="fl bl"></span>
+        <span class="fl md">Diễn biến thị trường</span>
+        <span class="fl br"></span>
+      </li>
+      <li>
+        <a class="nor active" rel="dbtthose" title="HOSE">HOSE</a>
+      </li>
+      <li>
+        <a class="nor" rel="dbtthnx" title="HNX">HNX</a>
+      </li>
+    </ul>
+    <div class="fl ctdbtt">
+      <div class="fl dbtthose">
+        <div class="fl chrwrap">
+          <p class="fl chr chrdd hide">
+            <img src="/Images/Stock/ChartHO1.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+          <p class="fl chr chrmm">
+            <img src="/Images/Stock/ChartHO2.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+          <p class="fl chr chrqq hide">
+            <img src="/Images/Stock/ChartHO3.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+          <p class="fl chr chryy hide">
+            <img src="/Images/Stock/ChartHO4.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+          <p class="fl chr chrall hide">
+            <img src="/Images/Stock/ChartHO5.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+        </div>
+        <ul class="fl navview">
+          <li class="sp">Xem theo</li>
+          <li>
+            <a rel="chrdd" title="Ngày">
+              ngày <i></i>
+            </a>
+          </li>
+          <li>
+            <a class="active" rel="chrmm" title="Tháng">
+              tháng <i></i>
+            </a>
+          </li>
+          <li>
+            <a rel="chrqq" title="Quý">
+              quý <i></i>
+            </a>
+          </li>
+          <li>
+            <a rel="chryy" title="Năm">
+              năm <i></i>
+            </a>
+          </li>
+          <li>
+            <a rel="chrall" title="Tất cả">tất cả</a>
+          </li>
+        </ul>
+        <div class="fl tvsichg">
+          <div class="fl bl"></div>
+          <div class="fl md">
+            <p>
+              Thay đổi: <span>-4.97</span><span class="updown"><i class="down"></i>-1.23%</span>
+            </p>
+            <p class="c2">
+              Thay đổi từ đầu năm: <span>-22.6%</span>
+            </p>
+            <p>
+              Tổng KLGD: <span>19,451,876(cp)</span>
+            </p>
+            <p class="c2">
+              Tổng GTGD: <span>404(tỷ)</span>
+            </p>
+          </div>
+
+          <div class="fl br"></div>
+        </div>
+      </div>
+
+      <div class="fl dbtthnx hide">
+        <div class="fl chrwrap">
+          <p class="fl chr chrdd hide">
+            <img src="/Images/Stock/ChartHA1.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+          <p class="fl chr chrmm">
+            <img src="/Images/Stock/ChartHA2.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+          <p class="fl chr chrqq hide">
+            <img src="/Images/Stock/ChartHA3.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+          <p class="fl chr chryy hide">
+            <img src="/Images/Stock/ChartHA4.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+          <p class="fl chr chrall hide">
+            <img src="/Images/Stock/ChartHA5.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+        </div>
+        <ul class="fl navview">
+          <li class="sp">Xem theo</li>
+          <li>
+            <a rel="chrdd" title="Ngày">
+              ngày <i></i>
+            </a>
+          </li>
+          <li>
+            <a  class="active" rel="chrmm" title="Tháng">
+              tháng <i></i>
+            </a>
+          </li>
+          <li>
+            <a rel="chrqq" title="Quý">
+              quý <i></i>
+            </a>
+          </li>
+          <li>
+            <a rel="chryy" title="Năm">
+              năm <i></i>
+            </a>
+          </li>
+          <li>
+            <a rel="chrall" title="Tất cả">tất cả</a>
+          </li>
+        </ul>
+        <div class="fl tvsichg">
+          <div class="fl bl"></div>
+          <div class="fl md">
+            <p>
+              Thay đổi: <span>-0.66</span><span class="updown"><i class="down"></i>-1.02%</span>
+            </p>
+            <p class="c2">
+              Thay đổi từ đầu năm: <span>-64.45%</span>
+            </p>
+            <p>
+              Tổng KLGD: <span>20,999,000(cp)</span>
+            </p>
+            <p class="c2">
+              Tổng GTGD: <span>187(tỷ)</span>
+            </p>
+          </div>
+
+          <div class="fl br"></div>
+        </div>
+      </div>
+	   <map name="planetmap" id="planetmap">
+			<area coords="0,25,292,197" shape="rect" href="http://180.148.142.12/chungkhoan/" target="_blank" alt="Detail">
+		</map>
+    </div>
+  </div>
+</div>
+<script>      
+var autocompleteTextId = "iptCode";
+var tradeCenterIndex = "1";
+var suggestionWidth = 250;       
+function  ApplyStockAutoComplete(){
+	$('#' + autocompleteTextId).flushCache();
+	$('#' + autocompleteTextId).autocomplete(stocksymbols[tradeCenterIndex], {
+		minChars: 0,
+		width: suggestionWidth,
+		matchContains: true,
+		autoFill: false,
+		formatItem: function(row, i, max)
+		{
+			return row.s + ': ' + row.n;
+		},
+		formatMatch: function(row, i, max)
+		{
+			return row.s + ' ' + row.n + ' ' + row.t;
+		},
+		formatResult: function(row)
+		{
+			return row.s + '-' + row.n;
+		}
+	});   
+	$('#' + autocompleteTextId).result(function(event, data, formatted) {                             
+		document.frmsearch.submit();
+		return true;	
+	});            
+}        
+function ChangeFloorCode(index) {
+	tradeCenterIndex = index;
+	ApplyStockAutoComplete();
+}   
+
+ChangeFloorCode(-1);        
+</script>
+</div><div class="box-item">
+	<ul class="st-ul">
+		<li class="st-li-hd he37 fl"><img src="/User/ck/Images/ck3.jpg" border="0" usemap="#MapFPTS"/></li>
+		<li class="st-li-hd he22 fl">
+			<ul class="st-ul">
+				<li id="HO" class="st-li-ho fl"><p id="oHO" class="st-act" onClick="ShowStockIndex(0);">HOSE</p></li>
+				<li id="HA" class="st-li-ha2 fl"><p id="oHA" class="st-deact" onClick="ShowStockIndex(1);">HNX</p></li>
+				<li class="st-li-f fl"><img src="/User/ck/Images/bottom.gif" border="0"/></li>
+			</ul>
+		</li>
+		<li class="st-li-hd he31 fl">
+			<ul class="st-ul">
+				<li class="hd-bdl fl">&nbsp;</li>
+				<li class="hd-co fl"><p class="hd-tt">M&#227; CK</p></li>
+				<li class="hd-sp fl">&nbsp;</li>
+				<li class="hd-tc fl"><p class="hd-tt">TC</p></li>
+				<li class="hd-sp fl">&nbsp;</li>
+				<li class="hd-tra fl">
+					<ul class="st-ul">
+						<li class="hd-med fl">Kh&#7899;p l&#7879;nh</li>
+						<li class="hd-sp2 fl">&nbsp;</li>
+						<li class="hd-pra fl">Gi&#225;</li>
+						<li class="hd-sp fl">&nbsp;</li>
+						<li class="hd-pra fl">KL</li>
+					</ul>
+				</li>
+				<li class="hd-sp fl">&nbsp;</li>
+				<li class="hd-ud fl"><p class="hd-tt">+/-</p></li>
+				<li class="hd-bdr fl">&nbsp;</li>
+			</ul>
+		</li>
+		<li class="st-li-hd he191 fl">
+			<ul class="st-ul">
+				<li class="hd-bdl he191 fl">&nbsp;</li>
+				<li class="st-cont he191 fl">
+					<iframe id="ifrmContent" name="ifrmContent" height="191px" width="294px"  src="/User/ck/hcms/HCMStockSmall.asp" noresize border=false frameborder=0 scrolling="no"></iframe>
+				</li>
+				<li class="hd-bdr he191 fl">&nbsp;</li>
+			</ul>
+		</li>
+		<li class="st-li-hd he20 fl">
+			<ul class="st-ul">
+				<li class="hd-bdl he120 fl">&nbsp;</li>
+				<li class="st-cont he20 fl"><p class="st-dt">(B&#7845;m v&#224;o n&#7897;i dung b&#7843;ng &#273;&#7875; xem chi ti&#7871;t)</p></li>				
+				<li class="hd-bdr he120 fl">&nbsp;</li>
+			</ul>
+		</li>
+		<li class="st-li-hd st-ft fl">&nbsp;</li>		
+	</ul>
+</div>
+<map name="MapFPTS" id="MapFPTS"><area shape="rect" coords="234,0,290,40" href="http://fpts.com.vn/" target="_blank" /></map>	
+<script type="text/javascript">		
+	function ShowStockIndex(i){
+		if(i == 0){
+			gmobj('HO').className = 'st-li-ho fl';
+			gmobj('HA').className = 'st-li-ha2 fl';
+			gmobj('oHO').className = 'st-act';
+			gmobj('oHA').className = 'st-deact';
+			gmobj('ifrmContent').src = '/User/ck/hcms/HCMStockSmall.asp';
+		}
+		else{
+			gmobj('HO').className = 'st-li-ho2 fl';
+			gmobj('HA').className = 'st-li-ha fl';
+			gmobj('oHO').className = 'st-deact';
+			gmobj('oHA').className = 'st-act';
+			gmobj('ifrmContent').src = '/User/ck/hns/HNStockSmall.asp';
+		}
+	}
+	ShowStockIndex(0);
+</script>
+<div class="box-item">
+	<a href="http://www.fptad.com/qc/V/vinaphone/2010/04/" target="_blank"><img style="border:0px" src="/Service/OtherBox/Images/Box_tuvan2.jpg" alt="Vinaphone" /></a>
+</div><Script type="text/javascript" language="JavaScript">Poly_ShowLogoLeft2(4)</Script>
+<TABLE border=0 cellSpacing=0 cellPadding=0 width="100%">
+<TR>
+<TD height=5 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD><script language="JavaScript">AddVote(3,1,359657097,'','Có tiền nhàn rỗi, nên đầu tư gì lúc này?','#FF0000','#C0C0C0','100%',5, new Array(new Array('Bất động sản',0,0),new Array('Gửi tiết kiệm tiền đồng',0,1),new Array('Đôla',0,2),new Array('Vàng',0,3),new Array('Kinh doanh, buôn bán',0,4)),'',1)</script><A href="http://www.fptad.com/qc/V/vinaphone/2010/04/" onClick="return openMeExt(this,1,1,1,1,1,0,1,1,300,400,0,0,0)" class=></A></TD></TR>
+<TR>
+<TD height=5 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR></TABLE>
+<TABLE border=0 cellSpacing=1 cellPadding=0 width=296 bgColor=#800040>
+<TR>
+<TD bgColor=#56040a>
+<TABLE border=0 cellSpacing=1 cellPadding=1 width="100%">
+<TR>
+<TD class=BoxLink bgColor=#ffffff colSpan=3>
+<A href="/gl/kinh-doanh/2010/12/3ba235a8/" class="BoxLink"><IMG border=0 width="294" height="58" src="/Files/Folder/00/03/tops.jpg"></A></TD></TR>
+<TR>
+<TD bgColor=#ffffff class="BoxLink" align="center"><STRONG>TOP 100</STRONG></TD>
+<TD bgColor=#ffffff class="BoxLink" align="center"><STRONG>TOP 50 PHỤ NỮ</STRONG></TD>
+<TD bgColor=#ffffff class="BoxLink" align="center"><STRONG>TOP 30 GIA ĐÌNH</STRONG></TD></TR>
+<TR>
+<TD bgColor=#ffffff class="Normal" align="center"> <A href="/Customize/Chung-khoan/Top/2010/Top100/" class="BoxLink">Năm 2010</A></TD>
+<TD bgColor=#ffffff class="Normal" align="center"> <A href="/Customize/Chung-khoan/Top/2010/Top50/" class="BoxLink">Năm 2010</A></TD>
+<TD bgColor=#ffffff class="Normal" align="center"> <A href="/Customize/Chung-khoan/Top/2010/Top30/" class="BoxLink">Năm 2010</A></TD></TR>
+<TR>
+<TD bgColor=#ffffff class="BoxLink" align="center"> <A href="/Customize/Chung-khoan/TOP/2009/Top100/" class="BoxLink">Năm 2009</A></TD>
+<TD bgColor=#ffffff class="BoxLink" align="center"> <A href="/Customize/Chung-khoan/TOP/2009/Top50/" class="BoxLink">Năm 2009</A></TD>
+<TD bgColor=#ffffff class="Normal" align="center"> <A href="/gl/kinh-doanh/2010/01/3ba166ed/" class="BoxLink">Năm 2009</A></TD></TR>
+<TR>
+<TD bgColor=#ffffff class="BoxLink" align="center"> <A href="/gl/kinh-doanh/kinh-nghiem/2009/01/3ba08cca/" class="BoxLink">Năm 2008</A></TD>
+<TD bgColor=#ffffff class="BoxLink" align="center"> <A href="/gl/kinh-doanh/2009/01/3ba08d1c/" class="BoxLink">Năm 2008</A></TD>
+<TD bgColor=#ffffff class="BoxLink" align="center"> <A href="/gl/kinh-doanh/2009/01/3ba08429/" class="BoxLink">Năm 2008</A></TD></TR>
+<TR>
+<TD bgColor=#ffffff class="BoxLink" align="center"> <A href="/gl/kinh-doanh/2008/01/3b9fe9b8/" class="BoxLink">Năm 2007</A></TD>
+<TD bgColor=#ffffff class="BoxLink" align="center">  <A href="/gl/kinh-doanh/2008/01/3b9febb0/" class="BoxLink">Năm 2007</A> </TD>
+<TD class=BoxLink bgColor=#ffffff>
+ </TD></TR>
+<TR>
+<TD bgColor=#ffffff class="BoxLink" align="center"> <A href="/gl/kinh-doanh/2007/01/3b9f294c/" class="BoxLink">Năm 2006</A></TD>
+<TD bgColor=#ffffff class="BoxLink" align="center"> <A href="/gl/kinh-doanh/2007/01/3b9f2aad/" class="BoxLink">Năm 2006</A></TD>
+<TD class=BoxLink bgColor=#ffffff>
+ </TD></TR></TABLE></TD></TR></TABLE>
+<A href="/GL/Topic/?ID=5701" class="Normal"></A>
+<A href="/GL/Topic/?ID=5701" class="Normal"></A>
+<div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(6);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="box-middle1 list-item1 fl" id="ListItem6">
+		<script type="text/javascript" language="javascript">showlistitem(1, 6, 5);</script>
+	</div>	<div class="fl">
+		<div class="fl"><img src="/Images/Background/box-bottomleft1.gif" alt="" /></div>
+		<div class="box-bottomcenter1 fl">&nbsp;</div>
+		<div class="fl"><img src="/Images/Background/box-bottomright1.gif" alt="" /></div>
+	</div>
+</div>
+<div class="box-item">
+<div class="list-item-header fl">
+	<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+	<div class="folder-active2 fl">
+		<script type="text/javascript" language="javascript">writeListItemTitle(8);</script>
+	</div>
+	<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+	<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+</div>
+<div class="box-middle1 list-item fl" id="ListItem8">
+	<script type="text/javascript" language="javascript">showlistitem(2, 8, 4);</script>
+</div>
+	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+<div class="box-item">
+<div class="list-item-header fl">
+	<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+	<div class="folder-active2 fl">
+		<script type="text/javascript" language="javascript">writeListItemTitle(98);</script>
+	</div>
+	<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+	<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+</div>
+<div class="box-middle1 list-item fl" id="ListItem98">
+	<script type="text/javascript" language="javascript">showlistitem(2, 98, 5);</script>
+</div>
+	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+<div class="box-item">
+<div class="list-item-header fl">
+	<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+	<div class="folder-active2 fl">
+		<script type="text/javascript" language="javascript">writeListItemTitle(97);</script>
+	</div>
+	<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+	<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+</div>
+<div class="box-middle1 list-item fl" id="ListItem97">
+	<script type="text/javascript" language="javascript">showlistitem(2, 97, 5);</script>
+</div>
+	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+<div class="box-item">
+	<style type="text/css">
+		.headerR{ background: url(/images/CareerLink/Hot/headerR.gif) top left;height:19px;width:4px;float:left;}
+		.boderTB{ background: url(/images/CareerLink/Hot/boderTB.gif) repeat-x top left; width:292px;float:left;height:19px;}
+		.boderTB h2{color:#FFFFFF;font-size:12px;font-weight:bold;margin:0px;padding-left:5px;padding-top:2px;}
+		.boderTB a{text-decoration:none; color:#FFFFFF}
+		.headerL{ background: url(/images/CareerLink/Hot/headerL.gif) top left;height:19px;width:4px;float:left;}
+
+		.BoderR{ background: url(/images/CareerLink/Hot/BoderR.gif) repeat-y top left;width:4px;float:left;}
+		.BoderLR{ width:292px;float:left;margin-right:4px;margin-left:4px;}
+		.BoderL{ background: url(/images/CareerLink/Hot/BoderL.gif) repeat-y top right;float:left;}
+		.BoderLR span{font-size:12px;font-weight:bold; padding:0px 8px 0px 8px;}
+		.BoderLR span a{text-decoration: none;color:#ec6720;}
+
+		.FooterR{ background: url(/images/CareerLink/Hot/footerR.gif) no-repeat bottom left;height:5px;width:4px;float:left;}
+		.FooterBT{ background: url(/images/CareerLink/Hot/footerBT.gif) repeat-x bottom left; width:292px;float:left;height:5px;}
+		.FooterL{ background: url(/images/CareerLink/Hot/footerL.gif) no-repeat bottom left;height:5px;width:4px;float:left;}
+
+		.FooterA{ background: url(/images/CareerLink/Hot/footerA.gif.gif)  no-repeat bottom left; width:292px;float:left;height:5px;}
+
+		.boderLR_Content{margin:4px;padding:10px;}
+		.boderLR_Content_Logo{background: url(/images/CareerLink/Hot/Logo_work.gif) bottom left no-repeat;height:22px;padding:5px 0px 5px 0px; }		
+		.space_footer{padding:2px 0px 2px 0px;}
+	</style>
+	<div style="width:300px; float: left;background: url(/images/CareerLink/Hot/footerA.gif) no-repeat bottom left;">
+		<div>
+			<div class="headerR"></div>
+			<div class="boderTB">
+				<h2><a target="_blank" href="http://www.careerlink.vn">Việc làm hấp dẫn</a></h2>
+			</div>
+			<div class="headerL"></div>		
+		</div>
+		<div style="width:300px; float: left;margin-bottom:3px;">
+			<div class="BoderR">
+				<div class="BoderL">
+					<div class="BoderLR">
+						<table style="width:292px;">
+							<tr>
+	<td valign="top" style="padding-right: 3px;"><img style="padding-top:2px" src="/images/CareerLink/Hot/iconNext.gif"></td>
+	<td>
+		<a style="text-decoration:none; color:#545454; font-weight:bold; font-family: Arial; font-size:8.5pt" target="_blank" href="http://www.careerlink.vn/tim-viec-lam/nv-thiet-ke-web-tieng-anh-hoac-tieng-nhat-/132250/">NV Thiết Kế Web (tiếng Anh hoặc tiếng Nhật)</a>
+		<span style="color:#ec6720; font-weight:normal; font-family: Arial; font-size:8.5pt">
+		<i><a target="_blank" href="http://www.careerlink.vn/viec-lam-cua/forval-vietnam-co-ltd/37688/">Forval Vietnam Co., Ltd</a></i></span>
+	</td>
+</tr><tr>
+	<td valign="top" style="padding-right: 3px;"><img style="padding-top:2px" src="/images/CareerLink/Hot/iconNext.gif"></td>
+	<td>
+		<a style="text-decoration:none; color:#545454; font-weight:bold; font-family: Arial; font-size:8.5pt" target="_blank" href="http://www.careerlink.vn/tim-viec-lam/ky-su-bao-tri-tieng-nhat-/135647/">Kỹ Sư Bảo Trì (Tiếng Nhật)</a>
+		<span style="color:#ec6720; font-weight:normal; font-family: Arial; font-size:8.5pt">
+		<i><a target="_blank" href="http://www.careerlink.vn/viec-lam-cua/vpdd-kawata-thailand-co-ltd-tai-tp-hcm/41098/">KAWATA (THAILAND) CO., LTD</a></i></span>
+	</td>
+</tr><tr>
+	<td valign="top" style="padding-right: 3px;"><img style="padding-top:2px" src="/images/CareerLink/Hot/iconNext.gif"></td>
+	<td>
+		<a style="text-decoration:none; color:#545454; font-weight:bold; font-family: Arial; font-size:8.5pt" target="_blank" href="http://www.careerlink.vn/tim-viec-lam/truong-nhom-phat-trien-cac-ung-dung-website-php-mysql/132182/">Trưởng Nhóm Phát Triển Các Ứng Dụng Website PHP-MYSQL</a>
+		<span style="color:#ec6720; font-weight:normal; font-family: Arial; font-size:8.5pt">
+		<i><a target="_blank" href="http://www.careerlink.vn/viec-lam-cua/cong-ty-co-phan-xay-dung-cong-nghe-phuong-dong/37647/">CTy CP XD Công Nghệ Phương Đông</a></i></span>
+	</td>
+</tr>					
+						</table>	
+						<a href="http://www.careerlink.vn/" target="_blank"><img height="22px" border="0px" style="padding:5px 0px 5px 0px;" alt="viec lam & tuyen dung nhan su" title="viec lam & tuyen dung nhan su" src="/images/CareerLink/Hot/Logo_work.gif" /></a>
+						<div class="space_footer"></div>
+					</div>	
+				</div>
+			</div>
+		</div>
+	</div>
+</div> 
+<A href="/GL/Topic/?ID=5701" class="Normal"><IMG border=0 width="299" height="107" src="/Files/Folder/00/03/thue1.jpg"></A>
+	</div>
+	
+	<div class="content-right fl">		
+		<div class="adv-header">
+			<div class="adv-title fl">				
+				<a href="http://www.fptad.com/lienhe.aspx" target="_blank"><img style="border:0" src="/Images/Background/adv-title.gif" alt="Lien he quang cao" /></a>				
+			</div>
+		</div>
+		<div id="adgroup"  style="display:none;clear:both;"></div>
+	<Script type="text/javascript" language="JavaScript">Poly_ShowAdScrollBanner(2);</Script>
+				</div>
+				
+			</div>
+			
+			<div id="footer">
+				
+				<script type="text/javascript">Poly_ShowFooterBanner();</script>										
+				
+                <div class="fmenu-top">
+                    <div class="fl icone-footer"></div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-home" rel="nofollow" onclick="javascript:setAsHomePage(this)"><span></span>Đặt làm trang chủ</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ct" rel="nofollow" class="link-contact" href="/ContactUs/?id=kinhdoanh@vnexpress.net"><span></span>Liên hệ tòa soạn</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ads" rel="nofollow" class="link-contact" href="http://ads.fpt.net/lienhe.aspx" target="_blank"><span></span>Liên hệ quảng cáo</a>
+                    </div>					
+                    <div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">						
+						
+                        <span class="lnkf-hl">Đường dây nóng: 0123.888.0123 (HN) - 0129.233.3555 (TP HCM)<span></span></span>
+						
+                    </div>
+					<div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">
+						 <a rel="nofollow" class="link-contact" href="http://fptad.com/qc/v/vnexpress/2011/phongvienthethao/" target="_blank"><img class="img-search" src="/Images/person.gif" alt="" style="vertical-align:top;" /> VnExpress tuyển dụng </a>
+					</div>					
+                </div>
+                <div class="fmenu-bottom">	
+					<a href="/" class="link-footermenu">Trang chủ</a><i class="sepaf"></i>
+					<a href="/gl/xa-hoi/" class="link-footermenu">Xã hội</a><i class="sepaf"></i>
+					<a href="/gl/the-gioi/" class="link-footermenu">Thế giới</a><i class="sepaf"></i>
+					<a href="/gl/kinh-doanh/" class="link-footermenu">Kinh doanh</a><i class="sepaf"></i>
+					<a href="/gl/van-hoa/" class="link-footermenu">Văn hóa</a><i class="sepaf"></i>
+					<a href="/gl/the-thao/" class="link-footermenu">Thể thao</a><i class="sepaf"></i>
+					<a href="/gl/phap-luat/" class="link-footermenu">Pháp luật</a><i class="sepaf"></i>
+					<a href="/gl/doi-song/" class="link-footermenu">Ðời sống</a><i class="sepaf"></i>
+					<a href="/gl/khoa-hoc/" class="link-footermenu">Khoa học</a><i class="sepaf"></i>
+					<a href="/gl/vi-tinh/" class="link-footermenu">Vi tính</a><i class="sepaf"></i>
+					<a href="/gl/oto-xe-may/" class="link-footermenu">Ôtô - Xe máy</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/" class="link-footermenu">Bạn đọc viết</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/tam-su/" class="link-footermenu">Tâm sự</a><i class="sepaf"></i>
+					<a href="/user/rao-vat/" class="link-footermenu">Rao vặt</a><i class="sepaf"></i>
+					<a href="/gl/cuoi/" class="link-footermenu">Cuời</a>
+					
+                    <script type="text/javascript" language="javascript">
+						//writeFooterMenu();
+						Poly_ShowFixFloatBanner(0);Poly_ShowFixFloatBanner(2);Poly_ShowFixFloatBanner(1);Poly_ShowFixFloatBanner(3);
+						Poly_ShowSlideBanner();Poly_ShowBallonBanner();						
+					</script>
+					
+                    <script type="text/javascript" language="javascript">Poly_ShowPopupUnder();</script>
+					
+                </div>
+                <div class="copyright">
+                    <p><label style="font:bold 11px arial; color:#686E7A;">&#169;&nbsp;Copyright 1997-2011 VnExpress.net</label>, <label style="font:normal 11px arial; color:#686E7A;">All rights reserved <a rel="nofollow" href="/ContactUs/?id=webmaster@vnexpress.net">Contact us</a> - <label onClick="ContactUs()" style="text-decoration:underline;cursor:pointer">Th&#244;ng tin T&#242;a so&#7841;n</label></label</p>
+<p><label style="font:normal 11px arial; color:#686E7A;">&#174;&nbsp;VnExpress gi&#7919; b&#7843;n quy&#7873;n n&#7897;i dung tr&#234;n website n&#224;y.</lable></p>
+
+                </div>
+            </div>
+			</div>
+		</div>		
+		</div>		
+		<script type="text/javascript">
+		<!--//<![CDATA[
+			cpms_Ap.init();
+			cpms_Ap.typ = 1;
+			cpms_Ap.dof = 0;
+			cpms_Ap.ste = 1;
+			cpms_Ap.reg = 0;
+			cpms_Ap.fol = 3;
+			cpms_Ap.pos = 38;
+			cpms_Ap.url = encodeURIComponent(document.location.href);
+			cpms_Ap.show();
+		//]]>-->
+		</script>
+		  	
+		<div style="float:left;">
+			<script type="text/javascript" language="javasript">
+				var strHr = location.href;				
+				if(strHr.substr(0,21)=='http://vnexpress.net/' || strHr.substr(0,27)=='http://ebank.vnexpress.net/' || strHr.substr(0,28)=='http://nhadep.vnexpress.net/'){
+					document.write('<img src="http://180.148.142.10/website/vnexpress/Res.asp?vid=0D3710D3-8278-4E9E-B909-D3DD0F1D035A&ovt=0&vsd=0&pfd=3&pid=1002160405&ref=&iTime=11/11/2011 12:15:34 AM" border=0>');
+					
+				}
+			</script>
+		</div>
+		<script type="text/javascript">
+	var SERVER_ID = 3;
+</script>
+		<!--<script type="text/javascript" language="javascript" src="/Library/Common/rss.js"></script>-->
+		<script type="text/javascript" src="http://180.148.142.152/Library/VNELibraryNew.js"></script>
+
+<script type="text/javascript" src="http://180.148.142.152/Library/AdLibNew.js"></script>
+		
+<script src="http://180.148.142.152/Vals/1/0/3/Val.js" type="text/javascript"></script>	
+		
+<script type="text/javascript" language="javaScript">checkCookie();</script>
+
+<script type="text/javascript" language="javaScript" src="http://180.148.142.153/script/libMobile.js"></script>     
+
+
+<script type="text/javascript">      
+    Poly_ShowAds();
+</script>
+	
+	</body>			
+</html>

