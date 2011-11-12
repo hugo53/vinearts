@@ -1,0 +1,2455 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+ <title id="htmlTitle">Tuổi Trẻ Online - Teen</title>
+    <meta content="Tuoi Tre, Tuoi Tre Online, Tin tuc, Thoi su, Kinh te, Kinh doanh, Chinh tri, Xa hoi, The gioi, The thao, Giao duc, Tuyen sinh, Viec lam, Khoa hoc, Nhip song so, Van hoa, Giai tri, Nhip song tre, Phap luat, Thu vien Phap luat, Nguoi Viet, Nguoi Viet xa que, Song khoe, Ban doc, Ban doc vie, Bao dien tu, CMS, Game, Game Online, Tuoi Tre Cuoi, Ao Trang, Tu sach, Media, TVO"
+        name="description" />
+    <meta content="Tuoi Tre, Tuoi Tre Online, Tin tuc, Thoi su, Kinh te, Kinh doanh, Chinh tri, Xa hoi, The gioi, The thao, Giao duc, Tuyen sinh, Viec lam, Khoa hoc, Nhip song so, Van hoa, Giai tri, Nhip song tre, Phap luat, Thu vien Phap luat, Nguoi Viet, Nguoi Viet xa que, Song khoe, Ban doc, Ban doc vie, Bao dien tu, CMS, Game, Game Online, Tuoi Tre Cuoi, Ao Trang, Tu sach, Media, TVO"
+        name="keywords" />
+<meta name="google-site-verification" content="V5VbkNjNUE07uOlgHS50c4y4EkVvYDzr8m09FNGJ5zw" />
+    <meta content="index, follow" name="Robots" />
+    <meta content="index,follow" name="GOOGLEBOT" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema" />
+    <meta content="Thanhnt" name="developer" />
+    <meta name="author" content="Thanhnt - ntthanh0106@yahoo.com" />
+    <link rel="shortcut icon" href="favicon.ico" />
+    <link rel="stylesheet" href="App_Themes/Default/Tianyon.css" type="text/css" />
+    <link rel="stylesheet" href="App_Themes/Green/GreenStyle.css" type="text/css" />
+
+     <script type="text/javascript" src="Jscript/cjl_cookie.js"></script>
+
+    <script src="Jscript/Tianyon.js" type="text/javascript"></script>
+    
+    <script type="text/javascript" src="Jscript/generic.js"></script>
+
+    <script type="text/javascript" src="Jscript/loader.js"></script>
+
+    <script type="text/javascript" src="Jscript/debug.js"></script>
+    <script type="text/javascript" src="Jscript/jquery-1.3.2.js"></script>
+    <script type="text/javascript" src="Jscript/vietuni.js"></script>
+</head>
+<body>
+ <script language="javascript" type="text/javascript">
+        var cookieUser = new CJL_CookieUtil("TTO_TEEN", 60 * 24 * 7, "/", "");        
+        //Initialize varible Cookies
+        if (!cookieUser.cookieExists()) {
+            cookieUser.setSubValue("keyCookie", "clientCookie");
+        }
+
+        var theme = 'App_Themes/Green/GreenStyle.css';
+
+        //Get value current theme from cookie
+        if (!cookieUser.getSubValue('theme')) {
+            cookieUser.setSubValue('theme', 'App_Themes/Green/GreenStyle.css');
+        }
+        else {
+            theme = cookieUser.getSubValue('theme');
+        }
+
+        var css = document.createElement('link');
+        css.rel = 'stylesheet';
+        css.type = 'text/css';
+        css.href = theme;
+        document.body.appendChild(css);
+        if (debug) {
+            monitor(dynStyles, theme);
+        }
+        cookieUser.setSubValue('theme', theme);
+
+        function setHomepage() {
+            if (document.all) {
+                document.body.style.behavior = 'url(#default#homepage)';
+                document.body.setHomePage('http://teen.tuoitre.com.vn/Index.aspx');
+
+            }
+            else if (window.sidebar) {
+                if (window.netscape) {
+                    try {
+                        netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                    }
+                    catch (e) {
+                    }
+                }
+                var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                prefs.setCharPref('browser.startup.homepage', 'http://teen.tuoitre.com.vn/Index.aspx');
+            }
+        } 
+    </script>
+   
+    <div id="fixMainBdy">
+        <div id="mainBodyContentCter">
+            <div id="mainBodyContentBgBtom">
+                <div id="header">
+                     <div class="bannerNoel">
+                        <div style="width:200px;height:100px;float:left;overflow:hidden;">
+                            <a href="http://www.tuoitre.com.vn">
+                                <img src="Images/Trans.gif" style="cursor: pointer; width:282px;height:100px;border:0px;" />
+                            </a>
+                        </div>
+                        <div class="boxQcTop1" style="display:none;">
+                            <a href="#">
+                                <img src="App_Themes/Green/Images/boxQcaotop.png" style="margin-top:10px;" /></a>
+                            <!-- QC Top -->
+                            
+                        </div>
+                         <div class="boxTitlebarBannerNoel">
+                           <div style="padding-left: 265px; line-height: 32px;font-size:13px;color:#fff;" class="bold floatLeft">
+                                <script type="text/javascript" language="javascript"> writeTime('2011/11/13 01:48:35')</script></div>
+                            <div class="floatRight" style="width: 245px; padding-right: 10px; padding-top: 6px;">
+                                <a style="width:132px;height:20px;float:left;" href="javascript:setHomepage()"></a>                                
+                                <div class="boxChooseSkinNoel" >
+                                    <div style="width: 12px; font-size: 1px; overflow: hidden; float: left; height: 5px;"></div>
+                                     <div style="width: 13px; float: left; margin-top: 3px;">
+                                        <img alt="" src="Images/Trans.gif" style="cursor: pointer; width: 13px; height: 13px;"
+                                            onclick="load_stylesheet('App_Themes/Green/GreenStyle.css')" alt="luc" />
+                                    </div>
+                                     <div style="width: 7px; overflow: hidden; float: left;min-height: 5px;"></div>
+                                    <div style="width: 13px; float: left; margin-top: 4px;">
+                                        <img alt="" src="Images/Trans.gif" style="cursor: pointer; width: 13px; height: 13px;"
+                                             onclick="load_stylesheet('App_Themes/pink/PinkStyle.css')" alt="Hồng" />
+                                    </div>
+                                    <div style="width: 7px;  overflow: hidden; float: left; min-height: 5px;"></div>                                                                        
+                                    <div style="width: 13px; float: left; margin-top: 4px;">
+                                        <img alt="" src="Images/Trans.gif" style="cursor: pointer; width: 13px; height: 13px;"
+                                          onclick="load_stylesheet('App_Themes/Violet/VioletStyle.css')"  alt="Tím" />
+                                    </div>
+                                    <div style="width: 5px; overflow: hidden; float: left; min-height: 5px;"></div>
+                                    <div style="width: 13px; float: left; margin-top: 4px;">
+                                        <img alt="" src="Images/Trans.gif" style="cursor: pointer; width: 13px; height: 13px;"
+                                            onclick="load_stylesheet('App_Themes/Lam/BlueStyle.css')" alt="lam" />
+                                    </div>
+                                    <div style="width: 6px;float: left; min-height: 5px;"></div>
+                                    <div style="width: 13px; float: left; margin-top: 3px;">
+                                        <img alt="" src="Images/Trans.gif" style="cursor: pointer; width: 13px; height: 13px;"
+                                            alt="cam" onclick="load_stylesheet('App_Themes/Orange/orangeStyle.css')" />
+                                    </div>                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                     <form name="Form1" method="post" action="Index.aspx?ArticleID=464529&amp;ChannelID=560" id="Form1" onsubmit="return searchEngine();" enctype="multipart/form-data">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIwMDc1MzQxNjgPZBYCAgIPFgIeB2VuY3R5cGUFE211bHRpcGFydC9mb3JtLWRhdGEWCgIDD2QWAmYPZBYIZg8WAh4EVGV4dAWTLDxwIHN0eWxlPSdwYWRkaW5nOjBweDtmbG9hdDpyaWdodDtwYWRkaW5nLXJpZ2h0OjhweDttYXJnaW4tcmlnaHQ6MTBweDsnPiA8c2NyaXB0PmdldFRpbWVTdHJpbmcoJzIwMTEvMTEvMTEgMTI6MTA6MDAnKTs8L3NjcmlwdD48L3A+PFAgY2xhc3M9cFRpdGxlPkto4bufaSDEkeG7mW5nICLGr+G7m2MgbcahIHhhbmgiPC9QPg0KPFAgY2xhc3M9cEhlYWQ+VFRPIC0gQ8OzIG3hu5FpIGxpw6puIGjhu4cmbmJzcDtuw6BvIGdp4buvYSDDom0gbmjhuqFjIHbDoCBr4bu5IG7Eg25nIHPhu5FuZyBsw6AgdGjhuq9jIG3huq9jIGPhu6dhIGtow7RuZyDDrXQga2jDoW4gZ2nhuqMga2hpIMSR4bq/biB24bubaSBjaMawxqFuZyB0csOsbmggIsav4bubYyBtxqEgeGFuaCIgdsOgbyB04buRaSAxMC0xMSB04bqhaSZuYnNwO1RQLkhDTS48L1A+DQo8UCBjbGFzcz1wQm9keT5Dw6J1IHRy4bqjIGzhu51pIMSRxrDhu6NjIGdp4bqjaSDEkcOhcCBi4bufaSBjaMOtbmggbmjhu69uZyB0w6xuaCBuZ3V54buHbiB2acOqbiBWaeG7h3QgTmFtLCBjw6FjIG5naOG7hyBzxKkgSMOgbiBRdeG7kWMgdsOgIG3hu5l0IGNodXnDqm4gZ2lhIMSR4buLbmggaMaw4bubbmcga+G7uSBuxINuZyBz4buRbmcgY8WpbmcgxJHhur9uIHThu6sgeOG7qSBz4bufIGtpbSBjaGkuJm5ic3A7Jm5ic3A7PC9QPg0KPFAgY2xhc3M9cEhlYWQ+DQo8VEFCTEUgc3R5bGU9IkJPUkRFUi1DT0xMQVBTRTogc2VwYXJhdGUiIGNsYXNzPXRMZWdlbmQgYm9yZGVyPTAgY2VsbFNwYWNpbmc9MiBjZWxsUGFkZGluZz0wIHdpZHRoPTQwIGFsaWduPWNlbnRlcj4NCjxUQk9EWT4NCjxUUj4NCjxURD48SU1HIGNsYXNzPWxJbWFnZSBvbmNsaWNrPSJyZXR1cm4gc2hvd0ltYWdlKHRoaXMuc3JjKSIgYm9yZGVyPTEgaHNwYWNlPTAgc3JjPSJJbWFnZVZpZXcuYXNweD9UaHVtYm5haWxJRD01MzEwMTIiIEh5cGVybGluaz48L1REPjwvVFI+DQo8VFI+DQo8VEQ+DQo8UCBjbGFzcz10TGVnZW5kPkTDoG4gaOG7o3AgeMaw4bubbmcgR3JhY2lhcyDEkeG6v24gdOG7qyBIw6BuIFF14buRYyB0csOsbmggZGnhu4VuIG5oaeG7gXUgdGnhur90IG3hu6VjIHRyb25nIMSRw6ptIGtoYWkgbeG6oWMgdsOgIMSR4bq3YyBiaeG7h3QgZ8OieSDhuqVuIHTGsOG7o25nIHbhu5tpIGNhIGtow7pjIDxFTT5Tw6BpIEfDsm4gxJHhurlwIGzhuq9tPC9FTT4gLSDhuqJuaDogVHJ1bmcgVXnDqm48L1A+PC9URD48L1RSPjwvVEJPRFk+PC9UQUJMRT48L1A+DQo8UCBjbGFzcz1wQm9keT5W4bubaSB0aW5oIHRo4bqnbiAidGnhur9uZyBow6F0IHRoYW5oIGNhbywgdMOibSBo4buTbiB0xrDGoWkgc8OhbmciLCBjw6FjIG5naOG7hyBzxKkgdGh14buZYyBkw6BuIGjhu6NwIHjGsOG7m25nIEdyYWNpYXMgKHRp4bq/bmcgVMOieSBCYW4gTmhhIGPDsyBuZ2jEqWEgbMOgICJD4bqjbSDGoW4iLCBkw6BuIGjhu6NwIHjGsOG7m25nIHThu6tuZyDEkW/huqF0IGdp4bqjaSDEkeG6t2MgYmnhu4d0IGN14buZYyB0aGkgZMOgbiBo4bujcCB4xrDhu5tuZyBxdeG7kWMgdOG6vyBKZWp1IDIwMDksJm5ic3A7Z2nhuqNpIMSR4bq3YyBiaeG7h3QgY3Xhu5ljIHRoaSBkw6BuIGjhu6NwIHjGsOG7m25nIHF14buRYyB04bq/IEJ1c2FuIDIwMTApIMSRw6MgdHLDrG5oIGRp4buFbiBuaGnhu4F1IHTDoWMgcGjhuqltIG7hu5VpIHRp4bq/bmc6IDxFTT5MYSBjaSBkYXJlbWEgbGEgbWFubywgQWghIEplIHZldXggdml2cmUsIEhvdyBncmVhdCB0aG91IGFydC4uLjwvRU0+IMSQ4bq3YyBiaeG7h3QsIGTDoG4gaOG7o3AgeMaw4bubbmcga+G6v3QgdGjDumMgcGjhuqduIHRyw6xuaCBkaeG7hW4gYuG6sW5nIGNhIGtow7pjIDxFTT5Tw6BpIEfDsm4gxJHhurlwIGzhuq9tIDwvRU0+dHJvbmcgc+G7sSBj4buVIHbFqSBuaGnhu4d0IHTDrG5oIGPhu6dhIGtow6FuIGdp4bqjLiA8L1A+DQo8UCBjbGFzcz1wQm9keT5Dw6FjIHNpbmggdmnDqm4gxJHhur9uIHThu6sgTmjhuqFjIHZp4buHbiBUUC5IQ00mbmJzcDt0csOsbmggZGnhu4VuIG5o4buvbmcgdGnhur90IG3hu6VjIGjDsmEgdOG6pXUgxJHhurdjIHPhuq9jLiBDw6FjIHTDrG5oIG5ndXnhu4duIHZpw6puIFZp4buHdCBOYW0gY8WpbmcmbmJzcDtnw7NwIG3hurd0IHbhu5tpIG5o4buvbmcgxJFp4buHdSBuaOG6o3kgdHLhursgdHJ1bmcsIHZ1aSBuaOG7mW4gbWFuZyB0aMO0bmcgxJFp4buHcCB24buBIGN14buZYyBz4buRbmcgbsSDbmcgxJHhu5luZywgdMawxqFpIMSR4bq5cC4gPC9QPg0KPFAgY2xhc3M9cEJvZHk+DQo8VEFCTEUgc3R5bGU9IkJPUkRFUi1DT0xMQVBTRTogc2VwYXJhdGUiIGNsYXNzPXRMZWdlbmQgYm9yZGVyPTAgY2VsbFNwYWNpbmc9MiBjZWxsUGFkZGluZz0wIHdpZHRoPTQwIGFsaWduPWNlbnRlcj4NCjxUQk9EWT4NCjxUUj4NCjxURD48SU1HIGNsYXNzPWxJbWFnZSBvbmNsaWNrPSJyZXR1cm4gc2hvd0ltYWdlKHRoaXMuc3JjKSIgYm9yZGVyPTEgaHNwYWNlPTAgc3JjPSJJbWFnZVZpZXcuYXNweD9UaHVtYm5haWxJRD01MzEwMTUiIEh5cGVybGluaz48L1REPjwvVFI+DQo8VFI+DQo8VEQ+TeG7mXQgxJFp4buHdSBtw7phIHRydXnhu4FuIHRo4buRbmcgSMOgbiBRdeG7kWMgdHJvbmcgY2jGsMahbmcgdHLDrG5oIC0g4bqibmg6IFRydW5nIFV5w6puPC9URD48L1RSPjwvVEJPRFk+PC9UQUJMRT48L1A+DQo8UCBjbGFzcz1wQm9keT4NCjxUQUJMRSBzdHlsZT0iQk9SREVSLUNPTExBUFNFOiBzZXBhcmF0ZSIgY2xhc3M9dExlZ2VuZCBib3JkZXI9MCBjZWxsU3BhY2luZz0yIGNlbGxQYWRkaW5nPTAgd2lkdGg9NDAgYWxpZ249Y2VudGVyPg0KPFRCT0RZPg0KPFRSPg0KPFREPjxJTUcgY2xhc3M9bEltYWdlIG9uY2xpY2s9InJldHVybiBzaG93SW1hZ2UodGhpcy5zcmMpIiBib3JkZXI9MSBoc3BhY2U9MCBzcmM9IkltYWdlVmlldy5hc3B4P1RodW1ibmFpbElEPTUzMTAxNyIgSHlwZXJsaW5rPjwvVEQ+PC9UUj4NCjxUUj4NCjxURD5UaeG6v3QgbeG7pWMgbcO6YSAiMTAgbmfGsOG7nWksIDEwIG3DoHUgc+G6r2MiIC0g4bqibmg6IFRydW5nIFV5w6puPC9URD48L1RSPjwvVEJPRFk+PC9UQUJMRT48L1A+DQo8UCBjbGFzcz1wQm9keT5N4buZdCBu4buZaSBkdW5nIHF1YW4gdHLhu41uZyBj4bunYSBjaMawxqFuZyB0csOsbmggbMOgIHBo4bqnbiBkaeG7hW4gdGh1eeG6v3QgY+G7p2Egw7RuZyBQYXJrIE9jayBTb28gLSBjaHV5w6puIGdpYSB24buBIMSR4buLbmggaMaw4bubbmcga+G7uSBuxINuZyBz4buRbmcsIGNo4bunIHThu4tjaCBo4buZaSDEkeG7k25nIHF14bqjbiB0cuG7iyBUcsaw4budbmcgdHJ1bmcgaOG7jWMgTGluY29sbiwgSMOgbiBRdeG7kWMgLSBuZ8O0aSB0csaw4budbmcgY2h1ecOqbiDEkcOgbyB04bqhbyBuaOG7r25nIGjhu41jIHNpbmggY8OzIHbhuqVuIMSR4buBIHRy4bufIHRow6BuaCBuaOG7r25nIHRow6BuaCB2acOqbiBjw7Mgw61jaCBjaG8gY+G7mW5nIMSR4buTbmcuIDwvUD4NCjxQIGNsYXNzPXBCb2R5Plbhu5tpIGzhu5FpIGRp4buFbiB0aHV54bq/dCBnacOgdSBj4bqjbSB4w7pjLCBzaW5oIMSR4buZbmcsIMO0bmcgUGFyayBPY2sgU29vIGThuqtuIGThuq90IG5nxrDhu51pIG5naGUgxJHhur9uIG5o4buvbmcgbmdoxKkgc3V5IHbhu4EgdmFpIHRyw7IgY+G7p2EgxJHhu4tuaCBoxrDhu5tuZyBr4bu5IG7Eg25nIHPhu5FuZyB24bubaSBuZ8aw4budaSB0cuG6uywgxJHhurdjIGJp4buHdCBsw6Agbmjhu69uZyBuZ8aw4budaSB0cuG6uyDEkWFuZyBzYSDEkcOgIHbDoG8gZ2FtZSBvbmxpbmUsIG1hIHTDunksIGJpYSByxrDhu6N1Li4uPC9QPg0KPFAgY2xhc3M9cEJvZHk+DQo8VEFCTEUgc3R5bGU9IkJPUkRFUi1DT0xMQVBTRTogc2VwYXJhdGUiIGNsYXNzPXRMZWdlbmQgYm9yZGVyPTAgY2VsbFNwYWNpbmc9MiBjZWxsUGFkZGluZz0wIHdpZHRoPTQwIGFsaWduPWNlbnRlcj4NCjxUQk9EWT4NCjxUUj4NCjxURD48SU1HIGNsYXNzPWxJbWFnZSBvbmNsaWNrPSJyZXR1cm4gc2hvd0ltYWdlKHRoaXMuc3JjKSIgYm9yZGVyPTEgaHNwYWNlPTAgc3JjPSJJbWFnZVZpZXcuYXNweD9UaHVtYm5haWxJRD01MzEwMDkiIEh5cGVybGluaz48L1REPjwvVFI+DQo8VFI+DQo8VEQ+DQo8UCBjbGFzcz10TGVnZW5kPsOUbmcgUGFyayBPY2sgU29vLCBDaOG7pyB04buLY2ggSMSQUVQgdHLGsOG7nW5nIFRydW5nIGjhu41jIExpbmNvbG4sJm5ic3A7SMOgbiBRdeG7kWMsIGNodXnDqm4gZ2lhIHbhu4EgxJHhu4tuaCBoxrDhu5tuZyBr4bu5IG7Eg25nIHPhu5FuZywgdHLDsiBjaHV54buHbiB24bubaSBraMOhbiBnaeG6oyB0cm9uZyDEkcOqbSBraGFpIG3huqFjIGNoxrDGoW5nIHRyw6xuaCAtIOG6om5oOiBUcnVuZyBVecOqbjwvUD48L1REPjwvVFI+PC9UQk9EWT48L1RBQkxFPjwvUD4NCjxQIGNsYXNzPXBCb2R5PsOUbmcgUGFyayBPY2sgU29vIGNoaWEgc+G6uzogIktoaSDEkeG6v24gY8OhYyBuxrDhu5tjIMSQw7RuZyBOYW0gw4EgdsOgIMSRxrDhu6NjIG5oaeG7gXUgbmfGsOG7nWkgbeG7nWkgxINuIHPhuqd1IHJpw6puZy4gVMO0aSB04burbmcga2jDtG5nIGNo4buLdSDEkcaw4bujYyBtw7lpIGPhu6dhIGxv4bqhaSB0csOhaSBjw6J5IG7DoHkgbmjGsG5nIG3hu5dpIGzhuqduIG7hur9tIG3hu5l0IMOtdCwgxJHhur9uIG3hu5l0IGzDumMsIHTDtGkga2jDtG5nIG5n4butaSB0aOG6pXkgbcO5aSBow7RpIG7hu69hIG3DoCB0aOG6pXkgduG7iyBz4bqndSByacOqbmcgcuG6pXQgbmdvbi4gVMO0aSBuaOG6rW4gdGjhuqV5LCBjb24gbmfGsOG7nWkgY8WpbmcgZ2nhu5FuZyB0csOhaSBjw6J5LCBraGkgYuG6oW4mbmJzcDtoaeG7g3UgxJHGsOG7o2MgInbhu4siIGPhu6dhIG3hu5dpIG5nxrDhu51pIHRow6wgYuG6oW4gc+G6vSBt4bufIGzDsm5nIGNoaWEgc+G6uyB24bubaSBuZ8aw4budaSDEkcOzIHbDoCBjdeG7mWMgc+G7kW5nIGPhu6dhIGLhuqFuIHPhur0gaOG6oW5oIHBow7pjIGjGoW4ga2hpIGLhuqFuIGJp4bq/dCB5w6p1IHF1w70gbmhp4buBdSBuZ8aw4budaSB4dW5nIHF1YW5oIi48L1A+DQo8UCBjbGFzcz1wQm9keT7DlG5nIG7Ds2kgdGjDqm06ICJUcm9uZyBnacOhbyBk4bulYyB0aGFuaCBuacOqbiBi4buLIHNhIMSRw6AgdsOgbyBnYW1lIG9ubGluZSBjxaluZyB24bqteSwgYuG6o24gdGjDtGkgbeG7l2kgbmfGsOG7nWkgdHLhursgcGjhuqNpIGJp4bq/dCBtw6xuaCDEkWFuZyB54bq/dSBrw6ltIGNo4buXIG7DoG8sIGJp4bq/dCBt4bufIGzDsm5nLCBs4bqvbmcgbmdoZSwgdGluIHTGsOG7n25nIG5o4buvbmcgbmfGsOG7nWkgaMaw4bubbmcgZOG6q24uIEPDsyBuaMawIHbhuq15IGPDoWMgYuG6oW4gbeG7m2kgY8OzIHRo4buDIHTDrG0gbOG6oWkgbmjhu69uZyBnw6wgxJHDoyBt4bqldCB2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" />
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCgLLmP3XCAKy1cy3CQKX0YHfDwLWz8WpBALfkqWADwL//+BxAsm/990OAunRxpoHArac5vIKArCs0fEHSqQKDo8D6CawYMjoNMWx8ARTv4Y=" />
+                    <!-- Menu -->                    
+                    <div class="divMenu">
+                        
+<div class="boxBgMnubar clearFix">
+    <a class="iconHome" href="http://www.tuoitre.com.vn"></a>
+    <ul>
+        <li><a id="mnu_0" href="Index.aspx">Trang nhất</a></li>
+        <li><a id="mnu_561" href="Index.aspx?ChannelID=561">Thế giới Teen</a></li>
+        <li><a href="Index.aspx?ChannelID=565" id="mnu_565">Yêu </a></li>
+        <li><a href="Index.aspx?ChannelID=562" id="mnu_562">Văn học </a></li>
+        <li><a href="Index.aspx?ChannelID=566" id="mnu_566">Giải trí</a></li>
+        <li><a href="Index.aspx?ChannelID=563" id="mnu_563">Sống Hi-tech</a></li>
+        <li><a href="Index.aspx?ChannelID=564" id="mnu_564">Khỏe - Điệu</a></li>
+        <li><a href="Index.aspx?ChannelID=567" id="mnu_567">Nói với Teen</a></li>
+        <li><a href="Index.aspx?ChannelID=568" id="mnu_568">Góc của Teen</a></li>
+    </ul>
+    <div class="floatLeft">
+        <a class="iconRss" href="#">RSS</a></div>
+    <div class="clearFix">
+    </div>
+</div>
+
+                    </div>
+                </div>
+                <div id="colunmLeft" style="overflow:hidden;">
+                    <div id="DivNSSPlcCenter" style="display: none;">
+                        
+
+<style type="text/css">
+    #_ctl0__ctl0_rater_img1
+    {
+   	    margin-top:3px;
+   	}
+   	#_ctl0__ctl0_rater_img2
+    {
+   	    margin-top:3px;
+   	}
+   	#_ctl0__ctl0_rater_img3
+    {
+   	    margin-top:3px;
+   	}
+   	#_ctl0__ctl0_rater_img4
+    {
+   	    margin-top:3px;
+   	}
+   	#_ctl0__ctl0_rater_img5
+    {
+   	    margin-top:3px;
+   	}   
+   	#_ctl0_lblCountRating
+   	{   		
+   		line-height:16px;
+   	}	
+   	#_ctl0_lblRatingValue
+   	{   		
+   		line-height:16px;
+   	}
+</style>
+<script type="text/javascript" language="javascript">
+    function onResponseClick() {
+        showDialog('MailTo.aspx?ArticleID=' + GetPostVariable("ArticleID", null), 350, 420)
+    }
+</script>
+
+
+<div id="boxContentDetails" class="bgMnuSubbaiviet560">
+    <div class="boxMnuDetailsMain" id="MnuSubbaiviet">
+        <div style="padding-left: 35px; display: none;" id="subthegioiteen">
+            <ul>
+                <li><a class="selected" href="Index.aspx?ChannelID=569">Nhịp sống</a></li>
+                <li><a class="gocSantruong" href="Index.aspx?ChannelID=571">Góc sân trường</a></li>
+                <li><a href="Index.aspx?ChannelID=572">Tôi vào đời</a></li>
+                <li><a href="Index.aspx?ChannelID=573">Bốn phương</a></li>
+            </ul>
+        </div>
+        <div style="padding-left: 35px; display: none;" id="subvanhoc">
+            <ul>
+                <li><a class="selected" href="Index.aspx?ChannelID=574">Sáng tác</a></li>
+                <li><a href="Index.aspx?ChannelID=575">Truyện ngắn</a></li>
+                <li><a href="Index.aspx?ChannelID=576" class="malenki">Thơ</a></li>
+                <li><a href="Index.aspx?ChannelID=577" class="gocSantruong">Sách ơi ! mở ra</a></li>
+            </ul>
+        </div>
+        <div style="padding-left: 35px; display: none;" id="subsonghitech">
+            <ul>
+                <li><a class="selected" href="Index.aspx?ChannelID=578">Sành điệu</a></li>
+                <li><a href="Index.aspx?ChannelID=579" class="malenki">Game</a></li>
+                <li><a href="Index.aspx?ChannelID=580">Thế giới số</a></li>
+            </ul>
+        </div>
+        <div style="padding-left: 35px; display: none;" id="subkhoedieu">
+            <ul>
+                <li><a class="gocSantruong" href="Index.aspx?ChannelID=581" style="width: 140px;">Chuyện
+                    chúng mình</a></li>
+                <li><a href="Index.aspx?ChannelID=582">Làm đẹp</a></li>
+                <li><a href="Index.aspx?ChannelID=583">Thời trang</a></li>
+                <li><a href="Index.aspx?ChannelID=584">Khỏe hơn</a></li>
+            </ul>
+        </div>
+        <div style="padding-left: 35px; display: none;" id="subyeu">
+            <ul>
+                <li><a class="gocSantruong" href="Index.aspx?ChannelID=585" style="width: 140px;">Thư
+                    tình trong cặp</a></li>
+                <li><a href="Index.aspx?ChannelID=586">Gửi gió</a></li>
+                <li><a href="Index.aspx?ChannelID=587">Vườn yêu</a></li>
+                <li><a href="Index.aspx?ChannelID=588">Trắc nghiệm</a></li>
+            </ul>
+        </div>
+        <div style="padding-left: 35px; display: none;" id="subgiaitri">
+            <ul>
+                <li><a href="Index.aspx?ChannelID=589" class="malenki" >Sao</a></li>
+                <li><a href="Index.aspx?ChannelID=590" class="malenki">Âm nhạc</a></li>
+                <li><a href="Index.aspx?ChannelID=591" class="malenki">Phim</a></li>
+                <li><a href="Index.aspx?ChannelID=592">Giọng ca vàng</a></li>
+                <li><a href="Index.aspx?ChannelID=593">Điểm hẹn</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="boxContentTextDetails" style="padding-left:20px; padding-right:10px;">
+        
+               
+        <div id="divContent" style="clear: both; background-color: #f9f9f9;margin-top:10px;">
+            <p style='padding:0px;float:right;padding-right:8px;margin-right:10px;'> <script>getTimeString('2011/11/11 12:10:00');</script></p><P class=pTitle>Khởi động "Ước mơ xanh"</P>
+<P class=pHead>TTO - Có mối liên hệ&nbsp;nào giữa âm nhạc và kỹ năng sống là thắc mắc của không ít khán giả khi đến với chương trình "Ước mơ xanh" vào tối 10-11 tại&nbsp;TP.HCM.</P>
+<P class=pBody>Câu trả lời được giải đáp bởi chính những tình nguyện viên Việt Nam, các nghệ sĩ Hàn Quốc và một chuyên gia định hướng kỹ năng sống cũng đến từ xứ sở kim chi.&nbsp;&nbsp;</P>
+<P class=pHead>
+<TABLE style="BORDER-COLLAPSE: separate" class=tLegend border=0 cellSpacing=2 cellPadding=0 width=40 align=center>
+<TBODY>
+<TR>
+<TD><IMG class=lImage onclick="return showImage(this.src)" border=1 hspace=0 src="ImageView.aspx?ThumbnailID=531012" Hyperlink></TD></TR>
+<TR>
+<TD>
+<P class=tLegend>Dàn hợp xướng Gracias đến từ Hàn Quốc trình diễn nhiều tiết mục trong đêm khai mạc và đặc biệt gây ấn tượng với ca khúc <EM>Sài Gòn đẹp lắm</EM> - Ảnh: Trung Uyên</P></TD></TR></TBODY></TABLE></P>
+<P class=pBody>Với tinh thần "tiếng hát thanh cao, tâm hồn tươi sáng", các nghệ sĩ thuộc dàn hợp xướng Gracias (tiếng Tây Ban Nha có nghĩa là "Cảm ơn", dàn hợp xướng từng đoạt giải đặc biệt cuộc thi dàn hợp xướng quốc tế Jeju 2009,&nbsp;giải đặc biệt cuộc thi dàn hợp xướng quốc tế Busan 2010) đã trình diễn nhiều tác phẩm nổi tiếng: <EM>La ci darema la mano, Ah! Je veux vivre, How great thou art...</EM> Đặc biệt, dàn hợp xướng kết thúc phần trình diễn bằng ca khúc <EM>Sài Gòn đẹp lắm </EM>trong sự cổ vũ nhiệt tình của khán giả. </P>
+<P class=pBody>Các sinh viên đến từ Nhạc viện TP.HCM&nbsp;trình diễn những tiết mục hòa tấu đặc sắc. Các tình nguyện viên Việt Nam cũng&nbsp;góp mặt với những điệu nhảy trẻ trung, vui nhộn mang thông điệp về cuộc sống năng động, tươi đẹp. </P>
+<P class=pBody>
+<TABLE style="BORDER-COLLAPSE: separate" class=tLegend border=0 cellSpacing=2 cellPadding=0 width=40 align=center>
+<TBODY>
+<TR>
+<TD><IMG class=lImage onclick="return showImage(this.src)" border=1 hspace=0 src="ImageView.aspx?ThumbnailID=531015" Hyperlink></TD></TR>
+<TR>
+<TD>Một điệu múa truyền thống Hàn Quốc trong chương trình - Ảnh: Trung Uyên</TD></TR></TBODY></TABLE></P>
+<P class=pBody>
+<TABLE style="BORDER-COLLAPSE: separate" class=tLegend border=0 cellSpacing=2 cellPadding=0 width=40 align=center>
+<TBODY>
+<TR>
+<TD><IMG class=lImage onclick="return showImage(this.src)" border=1 hspace=0 src="ImageView.aspx?ThumbnailID=531017" Hyperlink></TD></TR>
+<TR>
+<TD>Tiết mục múa "10 người, 10 màu sắc" - Ảnh: Trung Uyên</TD></TR></TBODY></TABLE></P>
+<P class=pBody>Một nội dung quan trọng của chương trình là phần diễn thuyết của ông Park Ock Soo - chuyên gia về định hướng kỹ năng sống, chủ tịch hội đồng quản trị Trường trung học Lincoln, Hàn Quốc - ngôi trường chuyên đào tạo những học sinh có vấn đề trở thành những thành viên có ích cho cộng đồng. </P>
+<P class=pBody>Với lối diễn thuyết giàu cảm xúc, sinh động, ông Park Ock Soo dẫn dắt người nghe đến những nghĩ suy về vai trò của định hướng kỹ năng sống với người trẻ, đặc biệt là những người trẻ đang sa đà vào game online, ma túy, bia rượu...</P>
+<P class=pBody>
+<TABLE style="BORDER-COLLAPSE: separate" class=tLegend border=0 cellSpacing=2 cellPadding=0 width=40 align=center>
+<TBODY>
+<TR>
+<TD><IMG class=lImage onclick="return showImage(this.src)" border=1 hspace=0 src="ImageView.aspx?ThumbnailID=531009" Hyperlink></TD></TR>
+<TR>
+<TD>
+<P class=tLegend>Ông Park Ock Soo, Chủ tịch HĐQT trường Trung học Lincoln,&nbsp;Hàn Quốc, chuyên gia về định hướng kỹ năng sống, trò chuyện với khán giả trong đêm khai mạc chương trình - Ảnh: Trung Uyên</P></TD></TR></TBODY></TABLE></P>
+<P class=pBody>Ông Park Ock Soo chia sẻ: "Khi đến các nước Đông Nam Á và được nhiều người mời ăn sầu riêng. Tôi từng không chịu được mùi của loại trái cây này nhưng mỗi lần nếm một ít, đến một lúc, tôi không ngửi thấy mùi hôi nữa mà thấy vị sầu riêng rất ngon. Tôi nhận thấy, con người cũng giống trái cây, khi bạn&nbsp;hiểu được "vị" của mỗi người thì bạn sẽ mở lòng chia sẻ với người đó và cuộc sống của bạn sẽ hạnh phúc hơn khi bạn biết yêu quý nhiều người xung quanh".</P>
+<P class=pBody>Ông nói thêm: "Trong giáo dục thanh niên bị sa đà vào game online cũng vậy, bản thôi mỗi người trẻ phải biết mình đang yếu kém chỗ nào, biết mở lòng, lắng nghe, tin tưởng những người hướng dẫn. Có như vậy các bạn mới có thể tìm lại những gì đã mất và trở thành những người đóng góp tích cực cho đất nước".</P>
+<P class=pBody>Chương trình tiếp tục diễn ra miễn phí vào các sáng - tối thứ sáu 11-11 và sáng - tối thứ bảy 12-11 tại nhà hát Bến Thành (6 Mạc Đĩnh Chi, Q.1, TP.HCM).&nbsp;</P>
+<P class=pAuthor>TRUNG UYÊN</P>
+        </div>        
+    </div>
+    <div style="clear:both;"></div>
+    <div class="boxTinkhac" style="margin-top: 0px; padding-top: 5px;padding-left:20px; padding-right:5px;clear:both;">
+     <!-- Tin bài liên quan -->
+            
+    
+    </div>
+    <div style="clear: both; width: 100%;padding-left:20px; padding-right:5px;display:none;">
+        <div style="width: 100%; clear: both; background-image: url(Images/bg_rptRatting.jpg);
+            height: 25px; background-repeat: repeat-x;border-left:solid 1px #ebebeb;border-right:solid 1px #ebebeb;">
+            <div style="width: 110px; float: left;">
+                <span class="txt_Rating" style="line-height: 25px;cursor: text;">Đánh giá bài viết:</span>
+            </div>
+            
+        </div>
+
+      
+    </div>
+    <div style="clear: both; margin-top: 10px;padding-left:20px; padding-right:5px;">
+        <!-- Bookmark; Save, Print, Email -->
+      
+        <div class="boxTextTagdetails" >
+            <div class="paddingLeftR6">
+                <span class="paddingLeftR6 color1">Từ khóa:</span> <span class="paddingLeftR4">
+                     <a class="txt_black_m" style="line-height:28px;" href=http://tuoitre.vn/tag/index.html?t='Giao%2bl%c6%b0u%2b%c3%a2m%2bnh%e1%ba%a1c'>Giao lưu âm nhạc,</a><a class="txt_black_m" style="line-height:28px;" href=http://tuoitre.vn/tag/index.html?t='%c4%91%e1%bb%8bnh%2bh%c6%b0%e1%bb%9bng%2bk%e1%bb%b9%2bn%c4%83ng%2bs%e1%bb%91ng'> định hướng kỹ năng sống,</a><a class="txt_black_m" style="line-height:28px;" href=http://tuoitre.vn/tag/index.html?t='%c6%af%e1%bb%9bc%2bm%c6%a1%2bxanh'> Ước mơ xanh</a>             
+               </span>
+            </div>
+        </div>
+        <div style="clear: both;">
+            
+                
+<div class="boxSendComment" >
+    <div class="titleComment">
+        <span class="paddingLeftR4 fontsize14 bold color3"></span>
+    </div>
+    <div class="padding10">
+        <div class="paddingTb4">
+            <span class="paddingLeftR4">Họ và tên</span> <span>
+             <input name="_ctl0:ContactInline1:txtName" type="text" id="_ctl0_ContactInline1_txtName" class="inputTextComment" />          
+            <span class="paddingLeftR4">Email</span><input name="_ctl0:ContactInline1:txtEmail" type="text" id="_ctl0_ContactInline1_txtEmail" class="inputTextComment" />
+             
+            </span>
+            <span class="paddingLeftR4">Tiêu đề</span><span>
+                <input name="_ctl0:ContactInline1:txtTitle" type="text" value="Khởi động &quot;Ước mơ xanh&quot;" id="_ctl0_ContactInline1_txtTitle" class="inputTextComment" />
+            </span>
+            <div class="clearFix">
+            </div>
+        </div>
+        <div class="paddingTb4">
+            <div class="floatLeft" style="width: 370px;">
+                <div class="paddingTb2">
+                    <div class="paddingTb2 color6 floatLeft">
+                        Đề nghị gõ tiếng Việt có dấu</div>
+                    <div class="floatRight color6">
+                        <a class="color6" target="_blank" href="http://www.tuoitre.com.vn/Tianyon/Index.aspx?ArticleID=29762&amp;ChannelID=67">Hướng dẫn</a></div>
+                    <div class="clearFix">
+                    </div>
+                </div>
+                <div class="paddingTb2">
+                    <textarea name="_ctl0:ContactInline1:txtContent" id="_ctl0_ContactInline1_txtContent" class="inputTextComment"></textarea>    
+                         &nbsp;<br />
+                </div>
+                    
+            </div>
+            <div class="floatLeft paddingLeftR6" style="width: 240px;">
+                <div style="width:100%;overflow-y:auto;height:120px;">
+                    <p>
+                        &nbsp;</p>
+                    <div class="paddingTb2">
+                        Đính kèm tài liệu</div>
+                    <div class="paddingTb2">                    
+                         <input name="_ctl0:ContactInline1:File1" type="file" id="_ctl0_ContactInline1_File1" style="width: 220px;" class="inputTextComment" />
+                    </div>
+                    <div class="paddingTb2 textItanic color7">
+                        (Tối đa 1 MB)</div>
+                    <div class="paddingTb2" onclick="addFile();return false;" style="cursor:pointer;">
+                        Đính kèm <span class="bold color6">3 </span>tệp tài liệu
+                    </div>
+                     <div style="display: none;width:100%;" id="addmoreFile">
+                            <input name="_ctl0:ContactInline1:File2" type="file" id="_ctl0_ContactInline1_File2" style="padding: 0 0 0 0; margin: 0 0 0 0; height: 22px;" />
+                            <input name="_ctl0:ContactInline1:File3" type="file" id="_ctl0_ContactInline1_File3" style="padding: 0 0 0 0; margin: 0 0 0 0; height: 22px;" />
+                            <input name="_ctl0:ContactInline1:File4" type="file" id="_ctl0_ContactInline1_File4" style="padding: 0 0 0 0; margin: 0 0 0 0; height: 22px;" />
+                     </div>
+                 </div>
+                <div class="paddingTb2">
+                    <div class="floatLeft">                      
+                        <input type="reset" value="" class="inputResetBox"  />
+                    </div>
+                    <div class="floatLeft">                     
+                         <a id="_ctl0_ContactInline1_cmdSend" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;_ctl0:ContactInline1:cmdSend&quot;, &quot;&quot;, true, &quot;EmailSendVld&quot;, &quot;&quot;, false, true))">
+                        <div class="inputSendComment" style="border:0px;height:25px;cursor:pointer;float:left;" ></div>
+                        </a>
+                    </div>                        
+                </div>
+            </div>
+            <div class="clearFix">
+            </div>
+        </div>
+    </div>
+</div>
+ <input name="_ctl0:ContactInline1:hidReferrer" type="hidden" id="_ctl0_ContactInline1_hidReferrer" />
+ <div style="width: 570px; display: none;">
+        <div style="width: 225px; float: left; height: 30px; margin-right: 10px;">
+            <span class="ContactText" style="width: 65px; float: left;">Gửi tới</span>
+            <div style="float: right">
+                <select name="_ctl0:ContactInline1:cboContact" id="_ctl0_ContactInline1_cboContact" class="PanelContent">
+	<option value="online@tuoitre.net.vn;tto@tuoitre.com.vn;nguyenhanh@tuoitre.com.vn;ctbd@tuoitre.com.vn">To&#224; soạn</option>
+	<option value="quangcao@tuoitre.com.vn">Ph&#242;ng quảng c&#225;o</option>
+	<option value="phathanh@tuoitre.com.vn">Ph&#242;ng ph&#225;t h&#224;nh</option>
+
+</select>
+            </div>
+        </div>
+    </div>
+
+<script language="javascript" type="text/javascript">  
+    // Set ReferUrl
+    var hidReferrer = document.getElementById("_ctl0_ContactInline1_hidReferrer");
+    hidReferrer.value = window.parent.location.href;
+ 	
+ 	// Add file
+	function addFile()
+	{
+	    var addmoreFile = document.getElementById('addmoreFile');
+	    if (addmoreFile.style.display == "none")
+            addmoreFile.style.display = "block";
+        else
+            addmoreFile.style.display = "none";
+	}
+	
+	function OutlnkButton(e)
+    {
+        e.className='lnkButton';    
+    }
+    
+    function OverlnkButton(e)
+    {
+        e.className='lnkButtonOver';    
+    }
+    
+	function OutlnkButton_reset(e)
+    {
+        e.className='lnkButton_reset';    
+    }
+    
+    function OverlnkButton_reset(e)
+    {
+        e.className='lnkButtonOver_reset';    
+    }
+</script>
+
+  
+        </div>
+        <div class="boxTitleRss">
+            <div class="floatLeft paddingLeftR4" style="width: 200px; float: left;">
+                <a class="LinkRss" href="RssView.aspx?ChannelID=560">RSS</a></div>
+                
+             <div style="width: 60px; float: left;height:23px;">
+                <span style="line-height:28px;">Chia sẻ:</span>   
+            </div>
+            <div style="width: 250px; float: left;height:23px;text-align:left;padding-top:3px;">                                
+                <a id="iFacebook" target="_blank" href="http://www.facebook.com/sharer.php?u=Index.aspx?ArticleID=464529&ChannelID=560&t=Khởi động "Ước mơ xanh"" style="border: 0pt none ; margin: 0pt;" title="Facebook" ><img alt="http://tuoitre.vn/Images/bookmark/facebook_48.png" style="margin:0px;border:0px;width:20px;margin-left:5px;" src="http://tuoitre.vn/Images/bookmark/facebook_48.png" /></a>                
+                <a id="A1" target="_blank" href="http://bookmarks.yahoo.com/toolbar/savebm?u=Index.aspx?ArticleID=464529&ChannelID=560&t=Khởi động "Ước mơ xanh"" style="border: 0pt none ; margin: 0pt;" title="Yahoo" ><img alt="http://tuoitre.vn/Images/bookmark/yahoo.jpg" style="margin:0px;border:0px;width:20px;margin-left:5px;" src="http://tuoitre.vn/Images/bookmark/yahoo.jpg" /></a>                
+                <a id="iTwistthis" target="_blank" href="http://twitthis.com/twit?url='Index.aspx?ArticleID=464529&ChannelID=560'&amp;title='Khởi động "Ước mơ xanh"'" style="border: 0pt none ; margin: 0pt;" title="TwitThis"><img alt="http://tuoitre.vn/Images/bookmark/twitter_48.png" style="margin:0px;border:0px;width:20px;margin-left:5px;" src="http://tuoitre.vn/Images/bookmark/twitter_48.png" /></a>
+                
+                <a id="iGoogle" target="_blank" href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk='Index.aspx?ArticleID=464529&ChannelID=560'&amp;title='Khởi động "Ước mơ xanh"'" style="border: 0pt none ; margin: 0pt;" title="Google"><img alt="http://tuoitre.vn/Images/bookmark/google_48.png" style=" margin:0px;border:0px;width:20px;" src="http://tuoitre.vn/Images/bookmark/google_48.png" /></a>                                            
+                <a id="iMyspace" target="_blank" href="http://www.myspace.com/Modules/PostTo/Pages/?u='Index.aspx?ArticleID=464529&ChannelID=560'&amp;t='Khởi động "Ước mơ xanh"'" style="border: 0pt none ; margin: 0pt;" title="Myspace"><img alt="http://tuoitre.vn/Images/bookmark/myspace_48.png" style="margin:0px;border:0px;width:20px;margin-left:5px;" src="http://tuoitre.vn/Images/bookmark/myspace_48.png" /></a>                
+
+
+            
+            
+                
+            </div>
+            <div class="floatRight paddingLeftR6" style="width: 120px;">
+                <a class="linkMail" href="JavaScript:onResponseClick();">Email</a> <a class="LinkPrint"
+                    href="javascript:location.href='PrintView.aspx'+location.search">In bài</a></div>
+            <div class="clearFix">
+            </div>
+        </div>
+        <div class="boxTintiep" style="margin-top: 0px; padding-top: 5px;">
+            <!-- Tin bài khác -->
+            <div class="paddingBtom10 fontsize14">
+                <span class="txt_black_m" style="text-transform: uppercase;">Các tin khác</span>
+                
+                        <ul>
+                            <li><a style="font-size: 12px;" href='Index.aspx?ArticleID=464204&ChannelID=560'>
+                                50km của vòng xe ước mơ
+                                - (09/11) </a></li>
+                        </ul>
+                    
+                        <ul>
+                            <li><a style="font-size: 12px;" href='Index.aspx?ArticleID=463850&ChannelID=560'>
+                                180 suất học bổng cho học sinh nghèo vượt khó
+                                - (07/11) </a></li>
+                        </ul>
+                    
+                        <ul>
+                            <li><a style="font-size: 12px;" href='Index.aspx?ArticleID=463816&ChannelID=560'>
+                                Khép lại giải thưởng toán học Nguyễn Đình Chung Song
+                                - (06/11) </a></li>
+                        </ul>
+                    
+                        <ul>
+                            <li><a style="font-size: 12px;" href='Index.aspx?ArticleID=463009&ChannelID=560'>
+                                Đưa vào hoạt động khu vui chơi trẻ em ở trung tâm Q.1
+                                - (02/11) </a></li>
+                        </ul>
+                    
+                        <ul>
+                            <li><a style="font-size: 12px;" href='Index.aspx?ArticleID=462701&ChannelID=560'>
+                                Học cách dùng tiền
+                                - (30/10) </a></li>
+                        </ul>
+                    
+                        <ul>
+                            <li><a style="font-size: 12px;" href='Index.aspx?ArticleID=462612&ChannelID=560'>
+                                Vòng loại Hot Vteen tại Hà Nội: Minh Quân và Hương Thảo đi tiếp
+                                - (28/10) </a></li>
+                        </ul>
+                    
+                        <ul>
+                            <li><a style="font-size: 12px;" href='Index.aspx?ArticleID=462438&ChannelID=560'>
+                                “Giúp Harry là giúp người khác”
+                                - (28/10) </a></li>
+                        </ul>
+                    
+                        <ul>
+                            <li><a style="font-size: 12px;" href='Index.aspx?ArticleID=459787&ChannelID=560'>
+                                Cô bạn mộng mơ
+                                - (24/10) </a></li>
+                        </ul>
+                    
+                        <ul>
+                            <li><a style="font-size: 12px;" href='Index.aspx?ArticleID=461770&ChannelID=560'>
+                                Ấn tượng tài năng chung kết Hot Vteen đợt 2
+                                - (23/10) </a></li>
+                        </ul>
+                    
+                        <ul>
+                            <li><a style="font-size: 12px;" href='Index.aspx?ArticleID=461647&ChannelID=560'>
+                                10 tuổi nói 10 thứ tiếng
+                                - (22/10) </a></li>
+                        </ul>
+                    
+            </div>           
+        </div>
+        <div class="paddingTb10">
+            <div class="floatRight" style="width: 110px;text-align:right;">
+               <a class="goHome" href="#"></a>
+            </div>
+            <div class="clearFix">
+            </div>
+        </div>
+    </div>
+    <div class="clearFix">
+    </div>
+</div>
+
+                    </div>
+                    <div id="DivNSSContent" style="display: none;">
+                        <div class="boxSlideNews">
+                            <div class="boxSlideNewsTop">
+                                <div class="boxSlideNewsBtom">
+                                    
+<div class="boxItemHotNews">
+    <div class="lineHeight24 fontsize20 paddingBtom10">
+        <a href="Index.aspx?ArticleID=464529&ChannelID=560" class="color1">
+            <span class="bold">
+                Khởi động "Ước mơ xanh"</span></a>
+    </div>
+    <div class="boxItemHotImg" style="display: block">
+        <div style='border:solid 1px #cacaca;background-color:#fff;width: 350px;margin:0px auto;text-align:center;'> 
+            <a href='Index.aspx?ArticleID=464529&ChannelID=560'><img id='Imageinline' src='ThumnailView.aspx?ImageID=531012&width=350&height=265'style='border: solid 0px #cccccc;'></a>
+        </div> 
+    </div>
+    <div class="textLeft lineHeight18">
+
+        <script type="text/javascript">
+            cutStrExper('TTO - Có mối liên hệ&nbsp;nào giữa âm nhạc và kỹ năng sống là thắc mắc của không ít khán giả khi đến với chương trình "Ước mơ xanh" vào tối 10-11 tại&nbsp;TP.HCM.', 170);
+        </script>
+
+        <div class="clearFix textRight">
+            <a class="xemtiep" href="Index.aspx?ArticleID=464529&ChannelID=560">
+                Xem tiếp &#187;</a>
+        </div>
+    </div>
+    <div class="boxTinSpecial">
+        <div class="boxTinSpecialLeft">
+            <div class="boxTinSpecialRight">
+                
+                        <div class="boxSubTinSpecial">
+                            <a href="Index.aspx?ArticleID=464204&amp;ChannelID=560">
+                                <img src="ImageView.aspx?ArticleID=464204" style="width: 78px;
+                                    height: 78px; border: solid 1px #454545;" alt="" /></a></a>
+                            <div class="textLeft">
+                                <a href="Index.aspx?ArticleID=464204&amp;ChannelID=560"
+                                    class="color1"><span style="font-weight: bold">
+
+                                        <script type="text/javascript">
+                                            cutStrExper('50km của vòng xe ước mơ', 35);
+                                        </script>
+
+                                    </span></a>
+                            </div>
+                        </div>
+                    
+                        <div class="boxSubTinSpecial">
+                            <a href="Index.aspx?ArticleID=463850&amp;ChannelID=560">
+                                <img src="ImageView.aspx?ArticleID=463850" style="width: 78px;
+                                    height: 78px; border: solid 1px #454545;" alt="" /></a></a>
+                            <div class="textLeft">
+                                <a href="Index.aspx?ArticleID=463850&amp;ChannelID=560"
+                                    class="color1"><span style="font-weight: bold">
+
+                                        <script type="text/javascript">
+                                            cutStrExper('180 suất học bổng cho học sinh nghèo vượt khó', 35);
+                                        </script>
+
+                                    </span></a>
+                            </div>
+                        </div>
+                    
+                        <div class="boxSubTinSpecial">
+                            <a href="Index.aspx?ArticleID=463816&amp;ChannelID=560">
+                                <img src="ImageView.aspx?ArticleID=463816" style="width: 78px;
+                                    height: 78px; border: solid 1px #454545;" alt="" /></a></a>
+                            <div class="textLeft">
+                                <a href="Index.aspx?ArticleID=463816&amp;ChannelID=560"
+                                    class="color1"><span style="font-weight: bold">
+
+                                        <script type="text/javascript">
+                                            cutStrExper('Khép lại giải thưởng toán học Nguyễn Đình Chung Song', 35);
+                                        </script>
+
+                                    </span></a>
+                            </div>
+                        </div>
+                    
+                        <div class="boxSubTinSpecial">
+                            <a href="Index.aspx?ArticleID=463009&amp;ChannelID=560">
+                                <img src="ImageView.aspx?ArticleID=463009" style="width: 78px;
+                                    height: 78px; border: solid 1px #454545;" alt="" /></a></a>
+                            <div class="textLeft">
+                                <a href="Index.aspx?ArticleID=463009&amp;ChannelID=560"
+                                    class="color1"><span style="font-weight: bold">
+
+                                        <script type="text/javascript">
+                                            cutStrExper('Đưa vào hoạt động khu vui chơi trẻ em ở trung tâm Q.1', 35);
+                                        </script>
+
+                                    </span></a>
+                            </div>
+                        </div>
+                    
+            </div>
+        </div>
+    </div>
+</div>
+
+                                    
+<div class="boxHotNews">
+    <div class="paddingTop10">
+        <span class="txt_f26522_ml_bold" style="padding-left: 10px; font-size: 22px; color: #f26522;
+            cursor: pointer;" id="New" onclick="TabMostpopular('New','Hot','MostView','1');return false;">
+        </span>
+        <div class="boxContentNewsUpdate" id="NewContent">
+            
+                    <ul>
+                        <li style="margin-top:6px;padding-top:2px;"><a  href="Index.aspx?ArticleID=464529&ChannelID=560">
+                          Khởi động "Ước mơ xanh"</a>
+                        </li>
+                    </ul>
+                
+                    <ul>
+                        <li style="margin-top:6px;padding-top:2px;"><a  href="Index.aspx?ArticleID=464204&ChannelID=560">
+                          50km của vòng xe ước mơ</a>
+                        </li>
+                    </ul>
+                
+                    <ul>
+                        <li style="margin-top:6px;padding-top:2px;"><a  href="Index.aspx?ArticleID=463850&ChannelID=560">
+                          180 suất học bổng cho học sinh nghèo vượt khó</a>
+                        </li>
+                    </ul>
+                
+                    <ul>
+                        <li style="margin-top:6px;padding-top:2px;"><a  href="Index.aspx?ArticleID=463816&ChannelID=560">
+                          Khép lại giải thưởng toán học Nguyễn Đình Chung...</a>
+                        </li>
+                    </ul>
+                
+                    <ul>
+                        <li style="margin-top:6px;padding-top:2px;"><a  href="Index.aspx?ArticleID=463009&ChannelID=560">
+                          Đưa vào hoạt động khu vui chơi trẻ em ở trung tâm...</a>
+                        </li>
+                    </ul>
+                
+                    <ul>
+                        <li style="margin-top:6px;padding-top:2px;"><a  href="Index.aspx?ArticleID=462701&ChannelID=560">
+                          Học cách dùng tiền</a>
+                        </li>
+                    </ul>
+                
+                    <ul>
+                        <li style="margin-top:6px;padding-top:2px;"><a  href="Index.aspx?ArticleID=462612&ChannelID=560">
+                          Vòng loại Hot Vteen tại Hà Nội: Minh Quân và...</a>
+                        </li>
+                    </ul>
+                
+                    <ul>
+                        <li style="margin-top:6px;padding-top:2px;"><a  href="Index.aspx?ArticleID=462438&ChannelID=560">
+                          “Giúp Harry là giúp người khác”</a>
+                        </li>
+                    </ul>
+                
+                    <ul>
+                        <li style="margin-top:6px;padding-top:2px;"><a  href="Index.aspx?ArticleID=459787&ChannelID=560">
+                          Cô bạn mộng mơ</a>
+                        </li>
+                    </ul>
+                
+                    <ul>
+                        <li style="margin-top:6px;padding-top:2px;"><a  href="Index.aspx?ArticleID=461770&ChannelID=560">
+                          Ấn tượng tài năng chung kết Hot Vteen đợt 2</a>
+                        </li>
+                    </ul>
+                
+        </div>
+        
+        <div class="boxContentNewsUpdate" id="HotContent" style="display: none;">
+            
+                    <ul>
+                        <li style="margin-top:6px;padding-top:2px;" ><a href="Index.aspx?ArticleID=461647&ChannelID=560">
+                             10 tuổi nói 10 thứ tiếng</a>
+                       </li>
+                    </ul>
+                
+                    <ul>
+                        <li style="margin-top:6px;padding-top:2px;" ><a href="Index.aspx?ArticleID=454984&ChannelID=560">
+                             Tạm biệt tình yêu - vỗ về trái tim mới lớn</a>
+                       </li>
+                    </ul>
+                
+                    <ul>
+                        <li style="margin-top:6px;padding-top:2px;" ><a href="Index.aspx?ArticleID=460700&ChannelID=560">
+                             Ngày hội vui chơi cho 450 trẻ khiếm thị</a>
+                       </li>
+                    </ul>
+                
+                    <ul>
+                        <li style="margin-top:6px;padding-top:2px;" ><a href="Index.aspx?ArticleID=459786&ChannelID=560">
+                             Cô bạn "ngọt ngào"</a>
+                       </li>
+                    </ul>
+                
+                    <ul>
+                        <li style="margin-top:6px;padding-top:2px;" ><a href="Index.aspx?ArticleID=460001&ChannelID=560">
+                             Cha và con trai</a>
+                       </li>
+                    </ul>
+                
+                    <ul>
+                        <li style="margin-top:6px;padding-top:2px;" ><a href="Index.aspx?ArticleID=459690&ChannelID=560">
+                             “Bữa tiệc” rộn ràng của tuổi trẻ thủ đô</a>
+                       </li>
+                    </ul>
+                
+                    <ul>
+                        <li style="margin-top:6px;padding-top:2px;" ><a href="Index.aspx?ArticleID=459118&ChannelID=560">
+                             Phát động cuộc thi Viết thư quốc tế UPU năm 2012</a>
+                       </li>
+                    </ul>
+                
+                    <ul>
+                        <li style="margin-top:6px;padding-top:2px;" ><a href="Index.aspx?ArticleID=458837&ChannelID=560">
+                             Liên đội trên rẻo cao&nbsp;“Góp đá xây Trường Sa”</a>
+                       </li>
+                    </ul>
+                
+                    <ul>
+                        <li style="margin-top:6px;padding-top:2px;" ><a href="Index.aspx?ArticleID=457609&ChannelID=560">
+                             Hãy nghĩ đến môi trường trước khi nhấn&nbsp;nút...</a>
+                       </li>
+                    </ul>
+                
+                    <ul>
+                        <li style="margin-top:6px;padding-top:2px;" ><a href="Index.aspx?ArticleID=457807&ChannelID=560">
+                             Hộp kín và “thắc mắc biết hỏi ai?”</a>
+                       </li>
+                    </ul>
+                
+        </div>
+        
+        <div class="boxContentNewsUpdate" id="MostViewContent" style="display: none;">
+            
+        </div>
+        
+        <div class="boxNewsOther" style="margin-top:30px;">
+            <div class="floatLeft paddingLeftRight20 fontsize14 textCter" style="width: 80px;">
+                <span class="txt_black_m_bold" style="font-size: 14px; cursor: pointer;" id="Hot"
+                    onclick="TabMostpopular('Hot','New','MostView','2');return false;">Tin nổi bật</span>
+            </div>
+            <div class="floatLeft paddingLeftRight20 fontsize14 textCter" style="width: 80px; margin-left: 20px">
+                <span class="txt_black_m_bold" style="font-size: 14px; cursor: pointer;" id="MostView"
+                    onclick="TabMostpopular('MostView','New','Hot','3');return false;">Tin đọc nhiều nhất</span>
+            </div>
+            <div class="clearFix">
+            </div>
+        </div>
+    </div>
+</div>
+
+<script language="javascript" type="text/javascript">
+    
+    document.getElementById('New').innerHTML = "Tin mới cập nhật";
+
+    function TabMostpopular(showID, hideID1, hideID2, InnerTitle) {
+        switch (InnerTitle) {
+            case "1":
+                document.getElementById('New').innerHTML = "Tin mới cập nhật";
+                document.getElementById('Hot').innerHTML = "Tin nổi bật";
+                document.getElementById('MostView').innerHTML = "Tin đọc nhiều nhất";
+                break;
+            case "2":
+                document.getElementById('New').innerHTML = "Tin nổi bật";
+                document.getElementById('MostView').innerHTML = "Tin mới cập nhật";
+                document.getElementById('Hot').innerHTML = "Tin đọc nhiều nhất";
+                break;
+            case "3":
+                document.getElementById('New').innerHTML = "Tin đọc nhiều nhất";
+                document.getElementById('MostView').innerHTML = "Tin mới cập nhật";
+                document.getElementById('Hot').innerHTML = "Tin nổi bật";
+                break;
+            default:
+                document.getElementById('New').innerHTML = "Tin mới cập nhật";
+                break;
+        }
+
+        // show elment
+        document.getElementById(showID).className = "txt_f26522_ml_bold";
+        document.getElementById(showID + "Content").style.display = "block";
+        // hide element
+        document.getElementById(hideID1).className = "txt_black_m_bold";
+        document.getElementById(hideID1 + "Content").style.display = "none";
+
+        document.getElementById(hideID2).className = "txt_black_m_bold";
+        document.getElementById(hideID2 + "Content").style.display = "none";
+    }        
+</script>
+
+
+                                    
+                                    <div class="clearFix"></div>
+                                </div>
+                            </div>
+                        </div>
+                       <div style="width:100%;height:80px;clear:both;padding-left:10px;">
+                            <div style="width:663px;height:80px;clear:both;background-color:#fff;border:solid 1px #b7b7b7;text-align:center;">
+                                    <br />
+                                    <span class="txt_black_m">Dành cho quảng cáo</span><br />                                    
+                                    <span class="txt_black_m">(660x80px)</span>
+                            </div>   
+                         </div>
+                         <div class="clearFix" style="height:10px;overflow:hidden;width:100%;"></div>
+                        <div class="boxContentMainNews">
+                             
+ 
+<div class="boxSubShare">
+    <div class="boxBtnShareTgTeen">
+        <a href="Index.aspx?ChannelID=561"><img alt="" style="width:150px;height:34px;margin-top:4px;margin-left:10px;" src="Images/Trans.gif" class="imgTTO" /></a>
+    </div>
+    <div class="boxTitleShare">
+        <div class="boxTitleShareLeft">
+            <div class="boxTitleShareRight">
+                <div class="boxTitleShareCtent">
+                    <ul>
+                        <li><span class="SelectedTab" id="nhipsong" onclick="Tab4('nhipsong','gocsantruong','toivaodoi','bonphuong');return false;" >Nhịp sống</span></li>
+                        <li><span class="Tab" id="gocsantruong"  onclick="Tab4('gocsantruong','nhipsong','toivaodoi','bonphuong');return false;">Góc sân trường</span></li>
+                        <li><span class="Tab" id="toivaodoi" onclick="Tab4('toivaodoi','nhipsong','gocsantruong','bonphuong');return false;" >Tôi vào đời</span></li>
+                        <li><span class="Tab" id="bonphuong" onclick="Tab4('bonphuong','nhipsong','gocsantruong','toivaodoi');return false;"  >Bốn phương</span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="boxContentSubShare" id="nhipsongContent" >
+       
+
+<div style="clear: both;height:160px;overflow:hidden;">
+    <div class="imgSubShare" style="display:block" >
+        <a href='Index.aspx?ArticleID=454878&ChannelID=569'><img style='text-align:left; float:left; margin-top:0px; margin-right:10px;border:solid 1px #8c8c8c;' src='ThumnailView.aspx?ArticleID=454878&width=100&height=100' /></a>
+    </div>
+    <div class="bold">
+        <a href="Index.aspx?ArticleID=454878&ChannelID=569" class="colorBlack">
+            <span class="bold">
+                Hơn 600 chiếc lồng đèn tặng trẻ nghèo</span></a></div>
+    <div class="textLeft colorBlack">
+
+        <script type="text/javascript">
+                cutStrExper('TT - Những ngày vừa qua, sân ký túc xá Trường ĐH Nông lâm TP.HCM luôn rộn ràng, đông vui khi hơn 100 sinh viên đội công tác xã hội của trường tổ chức ngày hội làm lồng đèn trung thu. Đội đã tự tay vót tre, làm khung, dán giấy kiếng, trang trí (ảnh) cho hơn 600 lồng đèn tặng trẻ em nghèo xã Đa Phước (huyện Bình Chánh, TP.HCM) và các mái ấm, nhà mở trên địa bàn TP.HCM.', 100);
+        </script>
+
+    </div>
+    <div class="boxtieptheo">
+        
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=447683&ChannelID=569">
+                        Con Rồng cháu Tiên hướng về đất Việt</a></li>
+                </ul>
+            
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=445215&ChannelID=569">
+                        Mùa hè của cô bé chăn vịt</a></li>
+                </ul>
+            
+    </div>    
+    <div class="clearFix"></div>
+</div>
+<div class="clearFix textRight paddingLeftRight20"><a class="colorBlack" href="index.aspx?ChannelID=569">Xem tất cả &raquo;</a></div>
+
+    </div>
+    <div class="boxContentSubShare" id="gocsantruongContent" style="display:none;" >
+       
+
+<div style="clear: both;height:160px;overflow:hidden;">
+    <div class="imgSubShare" style="display:block" >
+        <a href='Index.aspx?ArticleID=397556&ChannelID=571'><img style='text-align:left; float:left; margin-top:0px; margin-right:10px;border:solid 1px #8c8c8c;' src='ThumnailView.aspx?ArticleID=397556&width=100&height=100' /></a>
+    </div>
+    <div class="bold">
+        <a href="Index.aspx?ArticleID=397556&ChannelID=571" class="colorBlack">
+            <span class="bold">
+                Sân chơi mới cho học sinh ngoại thành</span></a></div>
+    <div class="textLeft colorBlack">
+
+        <script type="text/javascript">
+                cutStrExper('TT - Sáng 26-8, các bạn nhỏ của hai trường tiểu học Thới Thạnh (Hóc Môn) và An Hạ (Bình Chánh) hớn hở ùa ra sân tham gia những trò chơi mới tinh: bập bênh, xích đu, đá banh, cầu tuột...', 100);
+        </script>
+
+    </div>
+    <div class="boxtieptheo">
+        
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=396346&ChannelID=571">
+                        Khi những ước mơ không còn lẻ loi</a></li>
+                </ul>
+            
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=396208&ChannelID=571">
+                        Học bổng đã cho tôi quá nhiều</a></li>
+                </ul>
+            
+    </div>    
+    <div class="clearFix"></div>
+</div>
+<div class="clearFix textRight paddingLeftRight20"><a class="colorBlack" href="index.aspx?ChannelID=571">Xem tất cả &raquo;</a></div>
+
+    </div>
+    <div class="boxContentSubShare" id="toivaodoiContent" style="display:none;" >
+       
+
+<div style="clear: both;height:160px;overflow:hidden;">
+    <div class="imgSubShare" style="display:block" >
+        <a href='Index.aspx?ArticleID=374016&ChannelID=572'><img style='text-align:left; float:left; margin-top:0px; margin-right:10px;border:solid 1px #8c8c8c;' src='ThumnailView.aspx?ArticleID=374016&width=100&height=100' /></a>
+    </div>
+    <div class="bold">
+        <a href="Index.aspx?ArticleID=374016&ChannelID=572" class="colorBlack">
+            <span class="bold">
+                Một chuyến hành trình Okinawa</span></a></div>
+    <div class="textLeft colorBlack">
+
+        <script type="text/javascript">
+                cutStrExper('TT - Vượt qua sự tuyển chọn từ nhiều học sinh trên cả nước, Hồ Hữu Huy (lớp12A5 Trường THPT chuyên Trần Đại Nghĩa, TP.HCM) là một trong 17 bạn trẻ VN sang Okinawa (Nhật Bản) tham dự chương trình giao lưu học sinh thanh niên Nhật Bản - Đông Á (JENESYS) hồi tháng 3.', 100);
+        </script>
+
+    </div>
+    <div class="boxtieptheo">
+        
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=372093&ChannelID=572">
+                        Trái tim biết ước mơ</a></li>
+                </ul>
+            
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=364662&ChannelID=572">
+                        Làm thợ&nbsp;để viết&nbsp;luận văn</a></li>
+                </ul>
+            
+    </div>    
+    <div class="clearFix"></div>
+</div>
+<div class="clearFix textRight paddingLeftRight20"><a class="colorBlack" href="index.aspx?ChannelID=572">Xem tất cả &raquo;</a></div>
+
+    </div>
+    <div class="boxContentSubShare" id="bonphuongContent" style="display:none;" >
+       
+
+<div style="clear: both;height:160px;overflow:hidden;">
+    <div class="imgSubShare" style="display:block" >
+        <a href='Index.aspx?ArticleID=407551&ChannelID=573'><img style='text-align:left; float:left; margin-top:0px; margin-right:10px;border:solid 1px #8c8c8c;' src='ThumnailView.aspx?ArticleID=407551&width=100&height=100' /></a>
+    </div>
+    <div class="bold">
+        <a href="Index.aspx?ArticleID=407551&ChannelID=573" class="colorBlack">
+            <span class="bold">
+                Họa sĩ chân dung trẻ tuổi nhất thế giới</span></a></div>
+    <div class="textLeft colorBlack">
+
+        <script type="text/javascript">
+                cutStrExper('TTO - Chỉ với than củi và giấy vẽ, cậu bé thần đồng Haris Imtiyaz Khan, 12 tuổi, đến từ Pune, Maharashtra, Ấn Độ, có thể vẽ nên bức chân dung sống động như thật.', 100);
+        </script>
+
+    </div>
+    <div class="boxtieptheo">
+        
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=396643&ChannelID=573">
+                        “Robin Hood” 14 tuổi</a></li>
+                </ul>
+            
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=396311&ChannelID=573">
+                        Cây bút 15 tuổi gây xôn xao văn đàn Pháp</a></li>
+                </ul>
+            
+    </div>    
+    <div class="clearFix"></div>
+</div>
+<div class="clearFix textRight paddingLeftRight20"><a class="colorBlack" href="index.aspx?ChannelID=573">Xem tất cả &raquo;</a></div>
+
+    </div>
+</div>
+  
+    
+<div class="boxSubShare">
+    <div class="boxBtnShareVanhoc">
+       <a href="Index.aspx?ChannelID=562"><img alt="" style="width:150px;height:34px;margin-top:4px;margin-left:10px;" src="Images/Trans.gif" class="imgTTO" /></a>
+    </div>
+    <div class="boxTitleShare">
+        <div class="boxTitleShareLeft">
+            <div class="boxTitleShareRight">
+                <div class="boxTitleShareCtent">
+                    <ul>
+                        <li><span class="SelectedTab" id="sangtac" onclick="Tab4('sangtac','truyenngan','tho','sachoimora');return false;" >Sáng tác</span></li>
+                        <li><span class="Tab" id="truyenngan"  onclick="Tab4('truyenngan','sangtac','tho','sachoimora');return false;">Truyện ngắn</span></li>
+                        <li><span class="Tab" id="tho" onclick="Tab4('tho','sangtac','truyenngan','sachoimora');return false;" >Thơ</span></li>
+                        <li><span class="Tab" id="sachoimora" onclick="Tab4('sachoimora','sangtac','truyenngan','tho');return false;" >Sách ơi! Mở ra</span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="boxContentSubShare" id="sangtacContent" >
+       
+
+<div style="clear: both;height:160px;overflow:hidden;">
+    <div class="imgSubShare" style="display:block" >
+        <a href='Index.aspx?ArticleID=453268&ChannelID=574'><img style='text-align:left; float:left; margin-top:0px; margin-right:10px;border:solid 1px #8c8c8c;' src='ThumnailView.aspx?ArticleID=453268&width=100&height=100' /></a>
+    </div>
+    <div class="bold">
+        <a href="Index.aspx?ArticleID=453268&ChannelID=574" class="colorBlack">
+            <span class="bold">
+                Nước mắt yêu thương</span></a></div>
+    <div class="textLeft colorBlack">
+
+        <script type="text/javascript">
+                cutStrExper('AT - Mỗi khi đi học Minh nghe chúng bạn trêu: “Cha theo vợ bé bỏ thằng con thơ”. Về nhà nó hỏi, mẹ xoa đầu bảo: “Nghe chi bạn con nói bậy!”. Nhìn đôi mắt mẹ ửng đỏ, nó không dám hỏi gì thêm.', 100);
+        </script>
+
+    </div>
+    <div class="boxtieptheo">
+        
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=449521&ChannelID=574">
+                        Về với thiên nhiên</a></li>
+                </ul>
+            
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=442748&ChannelID=574">
+                        Em về sau một cơn mưa</a></li>
+                </ul>
+            
+    </div>    
+    <div class="clearFix"></div>
+</div>
+<div class="clearFix textRight paddingLeftRight20"><a class="colorBlack" href="index.aspx?ChannelID=574">Xem tất cả &raquo;</a></div>
+
+    </div>
+    <div class="boxContentSubShare" id="truyennganContent" style="display:none;" >
+       
+
+<div style="clear: both;height:160px;overflow:hidden;">
+    <div class="imgSubShare" style="display:block" >
+        <a href='Index.aspx?ArticleID=375045&ChannelID=575'><img style='text-align:left; float:left; margin-top:0px; margin-right:10px;border:solid 1px #8c8c8c;' src='ThumnailView.aspx?ArticleID=375045&width=100&height=100' /></a>
+    </div>
+    <div class="bold">
+        <a href="Index.aspx?ArticleID=375045&ChannelID=575" class="colorBlack">
+            <span class="bold">
+                Ngày nhận ra con tim rất cần được yêu thương</span></a></div>
+    <div class="textLeft colorBlack">
+
+        <script type="text/javascript">
+                cutStrExper('TTO - 1. Trên đời này chẳng có con nhỏ nào như nó. Ngày đầu khăn gói vào Sài Gòn học, nó chê thậm tệ mảnh đất này.', 100);
+        </script>
+
+    </div>
+    <div class="boxtieptheo">
+        
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=373339&ChannelID=575">
+                        Chiếc laptop từ trên trời rơi xuống</a></li>
+                </ul>
+            
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=372693&ChannelID=575">
+                        Ông thần tình cảm</a></li>
+                </ul>
+            
+    </div>    
+    <div class="clearFix"></div>
+</div>
+<div class="clearFix textRight paddingLeftRight20"><a class="colorBlack" href="index.aspx?ChannelID=575">Xem tất cả &raquo;</a></div>
+
+    </div>
+    <div class="boxContentSubShare" id="thoContent" style="display:none;" >
+       
+
+<div style="clear: both;height:160px;overflow:hidden;">
+    <div class="imgSubShare" style="display:block" >
+        <a href='Index.aspx?ArticleID=400098&ChannelID=576'><img style='text-align:left; float:left; margin-top:0px; margin-right:10px;border:solid 1px #8c8c8c;' src='ThumnailView.aspx?ArticleID=400098&width=100&height=100' /></a>
+    </div>
+    <div class="bold">
+        <a href="Index.aspx?ArticleID=400098&ChannelID=576" class="colorBlack">
+            <span class="bold">
+                Tâm sự ngày tựu trường</span></a></div>
+    <div class="textLeft colorBlack">
+
+        <script type="text/javascript">
+                cutStrExper('AT&nbsp;- Buổi tựu trường tiêng tiếc cuộc chơiVẫn còn say… ống thụt bời lờiĐầm sen vẫn ngái hương mùa cũNên vẫn cánh diều vọng sáo rơi.', 100);
+        </script>
+
+    </div>
+    <div class="boxtieptheo">
+        
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=396301&ChannelID=576">
+                        Mưa xưa về ướt áo</a></li>
+                </ul>
+            
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=389368&ChannelID=576">
+                        Ngày mượt</a></li>
+                </ul>
+            
+    </div>    
+    <div class="clearFix"></div>
+</div>
+<div class="clearFix textRight paddingLeftRight20"><a class="colorBlack" href="index.aspx?ChannelID=576">Xem tất cả &raquo;</a></div>
+
+    </div>
+    <div class="boxContentSubShare" id="sachoimoraContent" style="display:none;" >
+       
+
+<div style="clear: both;height:160px;overflow:hidden;">
+    <div class="imgSubShare" style="display:block" >
+        <a href='Index.aspx?ArticleID=412639&ChannelID=577'><img style='text-align:left; float:left; margin-top:0px; margin-right:10px;border:solid 1px #8c8c8c;' src='ThumnailView.aspx?ArticleID=412639&width=100&height=100' /></a>
+    </div>
+    <div class="bold">
+        <a href="Index.aspx?ArticleID=412639&ChannelID=577" class="colorBlack">
+            <span class="bold">
+                Tiệc ngủ -&nbsp;hát ca trong thế giới trẻ thơ</span></a></div>
+    <div class="textLeft colorBlack">
+
+        <script type="text/javascript">
+                cutStrExper('TTO - Khi còn bé thơ, hẳn bạn cũng&nbsp;yêu thích những buổi tiệc sinh nhật, mến một cô bạn nào đấy và thầm mong tình bạn sẽ thật bền chặt. Đọc Tiệc ngủ của Jacqueline Wilson, bạn sẽ được trở về với thế giới tuổi thơ nhiều màu sắc cùng cô bé Daisy và những người bạn.', 100);
+        </script>
+
+    </div>
+    <div class="boxtieptheo">
+        
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=392315&ChannelID=577">
+                        Chiếc rìu - câu chuyện hấp dẫn về bản lĩnh sống</a></li>
+                </ul>
+            
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=387217&ChannelID=577">
+                        Gia tài tuổi 20</a></li>
+                </ul>
+            
+    </div>    
+    <div class="clearFix"></div>
+</div>
+<div class="clearFix textRight paddingLeftRight20"><a class="colorBlack" href="index.aspx?ChannelID=577">Xem tất cả &raquo;</a></div>
+
+    </div>
+</div>
+<div class="clearFix"></div>
+
+  
+<div class="boxSubShare">
+    <div class="boxBtnShareSongHitech">
+        <a href="Index.aspx?ChannelID=563"><img alt="" style="width:150px;height:34px;margin-top:4px;margin-left:10px;" src="Images/Trans.gif" class="imgTTO" /></a>
+    </div>
+    <div class="boxTitleShare">
+        <div class="boxTitleShareLeft">
+            <div class="boxTitleShareRight">
+                <div class="boxTitleShareCtent">
+                    <ul>
+                        <li><span class="SelectedTab" id="sanhdieu" onclick="Tab3('sanhdieu','game','thuthuat');return false;" >Sành điệu</span></li>
+                        <li><span class="Tab" id="game"  onclick="Tab3('game','sanhdieu','thuthuat');return false;">Game</span></li>
+                        <li><span class="Tab" id="thuthuat" onclick="Tab3('thuthuat','sanhdieu','game');return false;" >Thế giới số</span></li>                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="boxContentSubShare" id="sanhdieuContent" >
+       
+
+<div style="clear: both;height:160px;overflow:hidden;">
+    <div class="imgSubShare" style="display:block" >
+        <a href='Index.aspx?ArticleID=435253&ChannelID=578'><img style='text-align:left; float:left; margin-top:0px; margin-right:10px;border:solid 1px #8c8c8c;' src='ThumnailView.aspx?ArticleID=435253&width=100&height=100' /></a>
+    </div>
+    <div class="bold">
+        <a href="Index.aspx?ArticleID=435253&ChannelID=578" class="colorBlack">
+            <span class="bold">
+                "Cơn mưa" tablet&nbsp;trong mùa hè</span></a></div>
+    <div class="textLeft colorBlack">
+
+        <script type="text/javascript">
+                cutStrExper('TTO - Thị trường tablet (máy tính bảng) tiếp tục nóng với những dòng sản phẩm mới ra mắt từ Sony, Toshiba, Acer và Lenovo. Nhiều chọn lựa mới rất cạnh tranh cho người dùng trong mùa hè năm nay.', 100);
+        </script>
+
+    </div>
+    <div class="boxtieptheo">
+        
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=419710&ChannelID=578">
+                        Chơi hàng... 3Đ</a></li>
+                </ul>
+            
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=418891&ChannelID=578">
+                        Tạo phong cách cho trỏ chuột</a></li>
+                </ul>
+            
+    </div>    
+    <div class="clearFix"></div>
+</div>
+<div class="clearFix textRight paddingLeftRight20"><a class="colorBlack" href="index.aspx?ChannelID=578">Xem tất cả &raquo;</a></div>
+
+    </div>
+    <div class="boxContentSubShare" id="gameContent" style="display:none;" >
+       
+
+<div style="clear: both;height:160px;overflow:hidden;">
+    <div class="imgSubShare" style="display:block" >
+        <a href='Index.aspx?ArticleID=382917&ChannelID=579'><img style='text-align:left; float:left; margin-top:0px; margin-right:10px;border:solid 1px #8c8c8c;' src='ThumnailView.aspx?ArticleID=382917&width=100&height=100' /></a>
+    </div>
+    <div class="bold">
+        <a href="Index.aspx?ArticleID=382917&ChannelID=579" class="colorBlack">
+            <span class="bold">
+                Stunt Mania: đua xe nhào lộn</span></a></div>
+    <div class="textLeft colorBlack">
+
+        <script type="text/javascript">
+                cutStrExper('TTO - Vẫn lấy chủ đề chính là đua xe vượt địa hình nhưng game Stunt Mania mang lại rất nhiều điểm khác lạ, lái xe vượt nhiều địa hình hiểm trở, khu vực chơi&nbsp;rộng lớn&nbsp;và đặc biệt&nbsp;là khả năng nhào lộn trên không khi trượt địa hình dốc rất đẹp mắt.', 100);
+        </script>
+
+    </div>
+    <div class="boxtieptheo">
+        
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=341976&ChannelID=579">
+                        Operation Flashpoint: Dragon Rising&nbsp;- Chiến tranh dầu mỏ</a></li>
+                </ul>
+            
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=340657&ChannelID=579">
+                        Princess Isabella: A Witch's Curse&nbsp;- Lời nguyền của phù thủy</a></li>
+                </ul>
+            
+    </div>    
+    <div class="clearFix"></div>
+</div>
+<div class="clearFix textRight paddingLeftRight20"><a class="colorBlack" href="index.aspx?ChannelID=579">Xem tất cả &raquo;</a></div>
+
+    </div>
+    <div class="boxContentSubShare" id="thuthuatContent" style="display:none;" >
+       
+
+<div style="clear: both;height:160px;overflow:hidden;">
+    <div class="imgSubShare" style="display:block" >
+        <a href='Index.aspx?ArticleID=383944&ChannelID=580'><img style='text-align:left; float:left; margin-top:0px; margin-right:10px;border:solid 1px #8c8c8c;' src='ThumnailView.aspx?ArticleID=383944&width=100&height=100' /></a>
+    </div>
+    <div class="bold">
+        <a href="Index.aspx?ArticleID=383944&ChannelID=580" class="colorBlack">
+            <span class="bold">
+                Sinh viên đóng kịch cảnh báo về Facebook</span></a></div>
+    <div class="textLeft colorBlack">
+
+        <script type="text/javascript">
+                cutStrExper('TTO - Để giúp giới trẻ ý thức hơn những nguy cơ tiềm ẩn của mạng xã hội Facebook, nhóm sinh viên Trung Quốc và sinh viên quốc tế đã thực hiện một vở kịch dưới sự hướng dẫn của đạo diễn kiêm nhà soạn kịch người Anh.', 100);
+        </script>
+
+    </div>
+    <div class="boxtieptheo">
+        
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=371670&ChannelID=580">
+                        Harry Potter sẽ có mặt trên iPad</a></li>
+                </ul>
+            
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=363312&ChannelID=580">
+                        Facebook: bạn bè ngỡ là rất gần...</a></li>
+                </ul>
+            
+    </div>    
+    <div class="clearFix"></div>
+</div>
+<div class="clearFix textRight paddingLeftRight20"><a class="colorBlack" href="index.aspx?ChannelID=580">Xem tất cả &raquo;</a></div>
+
+    </div>   
+</div>
+
+  
+<div class="boxSubShare">
+    <div class="boxBtnKhoedieu">
+        <a href="Index.aspx?ChannelID=564"><img alt="" style="width:150px;height:34px;margin-top:4px;margin-left:10px;" src="Images/Trans.gif" class="imgTTO" /></a>
+    </div>
+    <div class="boxTitleShare">
+        <div class="boxTitleShareLeft">
+            <div class="boxTitleShareRight">
+                <div class="boxTitleShareCtent">
+                    <ul>
+                        <li><span class="SelectedTab" id="chuyenchungminh" onclick="Tab4('chuyenchungminh','lamdep','thoitrang','khoehon');return false;" >Chuyện chúng mình</span></li>
+                        <li><span class="Tab" id="lamdep"  onclick="Tab4('lamdep','chuyenchungminh','thoitrang','khoehon');return false;">Làm đẹp</span></li>
+                        <li><span class="Tab" id="thoitrang" onclick="Tab4('thoitrang','chuyenchungminh','lamdep','khoehon');return false;" >Thời trang</span></li>
+                        <li><span class="Tab" id="khoehon" onclick="Tab4('khoehon','chuyenchungminh','lamdep','thoitrang');return false;" >Khỏe hơn</span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="boxContentSubShare" id="chuyenchungminhContent" >
+       
+
+<div style="clear: both;height:160px;overflow:hidden;">
+    <div class="imgSubShare" style="display:block" >
+        <a href='Index.aspx?ArticleID=453975&ChannelID=581'><img style='text-align:left; float:left; margin-top:0px; margin-right:10px;border:solid 1px #8c8c8c;' src='ThumnailView.aspx?ArticleID=453975&width=100&height=100' /></a>
+    </div>
+    <div class="bold">
+        <a href="Index.aspx?ArticleID=453975&ChannelID=581" class="colorBlack">
+            <span class="bold">
+                Những chàng trai, cô gái năng động</span></a></div>
+    <div class="textLeft colorBlack">
+
+        <script type="text/javascript">
+                cutStrExper('TTO&nbsp;- Biến hóa&nbsp;đa phong cách thời trang&nbsp;để hòa&nbsp;mình vào nhịp sống năng&nbsp;động&nbsp;đang là lựa chọn của nhiều bạn trẻ.', 100);
+        </script>
+
+    </div>
+    <div class="boxtieptheo">
+        
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=447104&ChannelID=581">
+                        Như hoa xuống phố</a></li>
+                </ul>
+            
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=447950&ChannelID=581">
+                        Cậu bé 11 tuổi không tay chơi bóng chuyên nghiệp</a></li>
+                </ul>
+            
+    </div>    
+    <div class="clearFix"></div>
+</div>
+<div class="clearFix textRight paddingLeftRight20"><a class="colorBlack" href="index.aspx?ChannelID=581">Xem tất cả &raquo;</a></div>
+
+    </div>
+    <div class="boxContentSubShare" id="lamdepContent" style="display:none;" >
+       
+
+<div style="clear: both;height:160px;overflow:hidden;">
+    <div class="imgSubShare" style="display:block" >
+        <a href='Index.aspx?ArticleID=365064&ChannelID=582'><img style='text-align:left; float:left; margin-top:0px; margin-right:10px;border:solid 1px #8c8c8c;' src='ThumnailView.aspx?ArticleID=365064&width=100&height=100' /></a>
+    </div>
+    <div class="bold">
+        <a href="Index.aspx?ArticleID=365064&ChannelID=582" class="colorBlack">
+            <span class="bold">
+                Alice ở xứ&nbsp;sở thần tiên&nbsp;qua ngôn ngữ trang sức</span></a></div>
+    <div class="textLeft colorBlack">
+
+        <script type="text/javascript">
+                cutStrExper('TTO&nbsp;- Nhãn hiệu trang sức pha lê nổi tiếng Swarovski và Walt Disney đã cùng kết hợp để cho ra đời một bộ sưu tập trang sức mang tên “Alice ở xứ sở thần tiên” (Alice in wonderland).', 100);
+        </script>
+
+    </div>
+    <div class="boxtieptheo">
+        
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=364856&ChannelID=582">
+                        Muôn màu muôn vẻ tất quần</a></li>
+                </ul>
+            
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=362153&ChannelID=582">
+                        Teen Mỹ chịu áp lực phải có vóc dáng “minhon”</a></li>
+                </ul>
+            
+    </div>    
+    <div class="clearFix"></div>
+</div>
+<div class="clearFix textRight paddingLeftRight20"><a class="colorBlack" href="index.aspx?ChannelID=582">Xem tất cả &raquo;</a></div>
+
+    </div>
+    <div class="boxContentSubShare" id="thoitrangContent" style="display:none;" >
+       
+
+<div style="clear: both;height:160px;overflow:hidden;">
+    <div class="imgSubShare" style="display:block" >
+        <a href='Index.aspx?ArticleID=393682&ChannelID=583'><img style='text-align:left; float:left; margin-top:0px; margin-right:10px;border:solid 1px #8c8c8c;' src='ThumnailView.aspx?ArticleID=393682&width=100&height=100' /></a>
+    </div>
+    <div class="bold">
+        <a href="Index.aspx?ArticleID=393682&ChannelID=583" class="colorBlack">
+            <span class="bold">
+                Chào ngày gió</span></a></div>
+    <div class="textLeft colorBlack">
+
+        <script type="text/javascript">
+                cutStrExper('TTO -&nbsp;Khi những cơn mưa, cơn gió lướt qua,&nbsp;mang theo cái lành lạnh là lúc thật thích hợp cho bạn khoác thêm chiếc áo len mỏng&nbsp;dễ thương xuống phố.', 100);
+        </script>
+
+    </div>
+    <div class="boxtieptheo">
+        
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=387237&ChannelID=583">
+                        Váy xinh cho ngày mới</a></li>
+                </ul>
+            
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=385966&ChannelID=583">
+                        Mùa hè xa thành phố</a></li>
+                </ul>
+            
+    </div>    
+    <div class="clearFix"></div>
+</div>
+<div class="clearFix textRight paddingLeftRight20"><a class="colorBlack" href="index.aspx?ChannelID=583">Xem tất cả &raquo;</a></div>
+
+    </div>
+    <div class="boxContentSubShare" id="khoehonContent" style="display:none;" >
+       
+
+<div style="clear: both;height:160px;overflow:hidden;">
+    <div class="imgSubShare" style="display:block" >
+        <a href='Index.aspx?ArticleID=379095&ChannelID=584'><img style='text-align:left; float:left; margin-top:0px; margin-right:10px;border:solid 1px #8c8c8c;' src='ThumnailView.aspx?ArticleID=379095&width=100&height=100' /></a>
+    </div>
+    <div class="bold">
+        <a href="Index.aspx?ArticleID=379095&ChannelID=584" class="colorBlack">
+            <span class="bold">
+                Những món tuyệt vời để teen mát mẻ ngày hè</span></a></div>
+    <div class="textLeft colorBlack">
+
+        <script type="text/javascript">
+                cutStrExper('TTO - Các bạn trẻ thường&nbsp;qua loa trong chuyện ăn uống. Song,&nbsp;nếu ăn uống không kiểm soát và thiếu khoa học sẽ gây thiếu chất; nếu mất vệ sinh sẽ dẫn đến tình trạng mệt mỏi và nhiễm khuẩn gây bệnh, nhất là trong những ngày hè nóng bức hiện nay.', 100);
+        </script>
+
+    </div>
+    <div class="boxtieptheo">
+        
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=371281&ChannelID=584">
+                        Khi teen ăn chay</a></li>
+                </ul>
+            
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=358516&ChannelID=584">
+                        Bài thể dục cho tinh thần</a></li>
+                </ul>
+            
+    </div>    
+    <div class="clearFix"></div>
+</div>
+<div class="clearFix textRight paddingLeftRight20"><a class="colorBlack" href="index.aspx?ChannelID=584">Xem tất cả &raquo;</a></div>
+
+    </div>
+</div>
+<div class="clearFix"></div>
+
+  
+<div class="boxSubShare">
+    <div class="boxBtnShareYeu">
+        <a href="Index.aspx?ChannelID=565"><img alt="" style="width:100px;height:34px;margin-top:4px;margin-left:10px;" src="Images/Trans.gif" class="imgTTO" /></a>
+    </div>
+    <div class="boxTitleShare">
+        <div class="boxTitleShareLeft">
+            <div class="boxTitleShareRight">
+                <div class="boxTitleShareCtent">
+                    <ul>
+                        <li><span class="SelectedTab" id="thutinhtrongcap" onclick="Tab4('thutinhtrongcap','guigio','vuonyeu','tracnghiem');return false;" >Thư tình trong cặp</span></li>
+                        <li><span class="Tab" id="guigio"  onclick="Tab4('guigio','thutinhtrongcap','vuonyeu','tracnghiem');return false;">Gửi gió</span></li>
+                        <li><span class="Tab" id="vuonyeu" onclick="Tab4('vuonyeu','thutinhtrongcap','guigio','tracnghiem');return false;" >Vườn yêu</span></li>
+                        <li><span class="Tab" id="tracnghiem" onclick="Tab4('tracnghiem','thutinhtrongcap','guigio','vuonyeu');return false;" >Trắc nghiệm</span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="boxContentSubShare" id="thutinhtrongcapContent" >
+       
+
+<div style="clear: both;height:160px;overflow:hidden;">
+    <div class="imgSubShare" style="display:block" >
+        <a href='Index.aspx?ArticleID=453270&ChannelID=585'><img style='text-align:left; float:left; margin-top:0px; margin-right:10px;border:solid 1px #8c8c8c;' src='ThumnailView.aspx?ArticleID=453270&width=100&height=100' /></a>
+    </div>
+    <div class="bold">
+        <a href="Index.aspx?ArticleID=453270&ChannelID=585" class="colorBlack">
+            <span class="bold">
+                Thư tình</span></a></div>
+    <div class="textLeft colorBlack">
+
+        <script type="text/javascript">
+                cutStrExper('AT -&nbsp;Ôi, ở một mình cho nó khỏe!', 100);
+        </script>
+
+    </div>
+    <div class="boxtieptheo">
+        
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=445929&ChannelID=585">
+                        Bến đợi tình</a></li>
+                </ul>
+            
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=433868&ChannelID=585">
+                        Hoa lưu ly cho em</a></li>
+                </ul>
+            
+    </div>    
+    <div class="clearFix"></div>
+</div>
+<div class="clearFix textRight paddingLeftRight20"><a class="colorBlack" href="index.aspx?ChannelID=585">Xem tất cả &raquo;</a></div>
+
+    </div>
+    <div class="boxContentSubShare" id="guigioContent" style="display:none;" >
+       
+
+<div style="clear: both;height:160px;overflow:hidden;">
+    <div class="imgSubShare" style="display:block" >
+        <a href='Index.aspx?ArticleID=390893&ChannelID=586'><img style='text-align:left; float:left; margin-top:0px; margin-right:10px;border:solid 1px #8c8c8c;' src='ThumnailView.aspx?ArticleID=390893&width=100&height=100' /></a>
+    </div>
+    <div class="bold">
+        <a href="Index.aspx?ArticleID=390893&ChannelID=586" class="colorBlack">
+            <span class="bold">
+                Mười bảy bâng khuâng</span></a></div>
+    <div class="textLeft colorBlack">
+
+        <script type="text/javascript">
+                cutStrExper('AT&nbsp;-&nbsp;Tôi biết mình đang lớn lên theo dòng thời gian mênh mông chảy xiết. Tôi biết mình sắp phải vẫy vùng trên những đợt sóng vút cao đầy cạm bẫy. Biết thế hay chính vì thế mà tôi muốn lại ngân nga những bài hát gợi nhớ những ngày tươi đẹp, xôn xao cùng hoa cỏ.', 100);
+        </script>
+
+    </div>
+    <div class="boxtieptheo">
+        
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=387347&ChannelID=586">
+                        Quả bóng tình yêu</a></li>
+                </ul>
+            
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=387368&ChannelID=586">
+                        Gọi tên một người...</a></li>
+                </ul>
+            
+    </div>    
+    <div class="clearFix"></div>
+</div>
+<div class="clearFix textRight paddingLeftRight20"><a class="colorBlack" href="index.aspx?ChannelID=586">Xem tất cả &raquo;</a></div>
+
+    </div>
+    <div class="boxContentSubShare" id="vuonyeuContent" style="display:none;" >
+       
+
+<div style="clear: both;height:160px;overflow:hidden;">
+    <div class="imgSubShare" style="display:block" >
+        <a href='Index.aspx?ArticleID=396823&ChannelID=587'><img style='text-align:left; float:left; margin-top:0px; margin-right:10px;border:solid 1px #8c8c8c;' src='ThumnailView.aspx?ArticleID=396823&width=100&height=100' /></a>
+    </div>
+    <div class="bold">
+        <a href="Index.aspx?ArticleID=396823&ChannelID=587" class="colorBlack">
+            <span class="bold">
+                Cứ để mọi việc tự đến, tự đi</span></a></div>
+    <div class="textLeft colorBlack">
+
+        <script type="text/javascript">
+                cutStrExper('TTO - Ngay từ khi học lớp 9, tôi đã biết “cảm nắng”. Từ này ngồ ngộ hen, hồi xưa, nói thẳng là thích - một em nhỏ hơn tôi một lớp. Chẳng hiểu sao, sau một lần đại hội liên đội, tôi gặp em và ngay lập tức xao xuyến. Tuổi mới lớn dám chắc là cái tuổi gặp tình yêu sét đánh liên tục.', 100);
+        </script>
+
+    </div>
+    <div class="boxtieptheo">
+        
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=396636&ChannelID=587">
+                        Teen yêu, ngăn cấm hay ủng hộ?</a></li>
+                </ul>
+            
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=371331&ChannelID=587">
+                        1.001 góc nhìn về thất tình</a></li>
+                </ul>
+            
+    </div>    
+    <div class="clearFix"></div>
+</div>
+<div class="clearFix textRight paddingLeftRight20"><a class="colorBlack" href="index.aspx?ChannelID=587">Xem tất cả &raquo;</a></div>
+
+    </div>
+    <div class="boxContentSubShare" id="tracnghiemContent" style="display:none;" >
+       
+
+<div style="clear: both;height:160px;overflow:hidden;">
+    <div class="imgSubShare" style="display:block" >
+        <a href='Index.aspx?ArticleID=353056&ChannelID=588'><img style='text-align:left; float:left; margin-top:0px; margin-right:10px;border:solid 1px #8c8c8c;' src='ThumnailView.aspx?ArticleID=353056&width=100&height=100' /></a>
+    </div>
+    <div class="bold">
+        <a href="Index.aspx?ArticleID=353056&ChannelID=588" class="colorBlack">
+            <span class="bold">
+                Trắc nghiệm: ưu điểm của bạn trong cuộc sống</span></a></div>
+    <div class="textLeft colorBlack">
+
+        <script type="text/javascript">
+                cutStrExper('TTO - Bạn được mọi người xung quanh yêu mến vì là tốt bụng, sống chân thành hay bạn là người cởi mở, tự tin trong cuộc sống.', 100);
+        </script>
+
+    </div>
+    <div class="boxtieptheo">
+        
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=351525&ChannelID=588">
+                        Trắc nghiệm: Bạn đại diện cho loài hoa nào?</a></li>
+                </ul>
+            
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=349568&ChannelID=588">
+                        Trắc nghiệm: cha mẹ và bạn có hiểu nhau?</a></li>
+                </ul>
+            
+    </div>    
+    <div class="clearFix"></div>
+</div>
+<div class="clearFix textRight paddingLeftRight20"><a class="colorBlack" href="index.aspx?ChannelID=588">Xem tất cả &raquo;</a></div>
+
+    </div>
+</div>
+
+  
+<div class="boxSubShare">
+    <div class="boxBtnShareGiaitri">
+        <a href="Index.aspx?ChannelID=566"><img alt="" style="width:100px;height:34px;margin-top:4px;margin-left:10px;" src="Images/Trans.gif" class="imgTTO" /></a>
+    </div>
+    <div class="boxTitleShare">
+        <div class="boxTitleShareLeft">
+            <div class="boxTitleShareRight">
+                <div class="boxTitleShareCtent">
+                    <ul>
+                        <li><span class="SelectedTab" id="sao" onclick="Tab5('sao','nhac','phim','giongcavang','diemhen');return false;" >Sao</span></li>
+                        <li><span class="Tab" id="nhac"  onclick="Tab5('nhac','sao','phim','giongcavang','diemhen');return false;">Âm nhạc</span></li>
+                        <li><span class="Tab" id="phim" onclick="Tab5('phim','sao','nhac','giongcavang','diemhen');return false;" >Phim</span></li>
+                        <li><a href="http://tuoitre.vn/karaoke2010" target="_blank" class="Tab" id="giongcavang" >Giọng ca vàng</a></li>
+                        <li><span class="Tab" id="diemhen" onclick="Tab5('diemhen','giongcavang','sao','nhac','phim');return false;" >Điểm hẹn</span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="boxContentSubShare" id="saoContent" >
+       
+
+<div style="clear: both;height:160px;overflow:hidden;">
+    <div class="imgSubShare" style="display:block" >
+        <a href='Index.aspx?ArticleID=457198&ChannelID=589'><img style='text-align:left; float:left; margin-top:0px; margin-right:10px;border:solid 1px #8c8c8c;' src='ThumnailView.aspx?ArticleID=457198&width=100&height=100' /></a>
+    </div>
+    <div class="bold">
+        <a href="Index.aspx?ArticleID=457198&ChannelID=589" class="colorBlack">
+            <span class="bold">
+                Chán mộng mơ thèm lớn</span></a></div>
+    <div class="textLeft colorBlack">
+
+        <script type="text/javascript">
+                cutStrExper('TT - Trào lưu nhạc teen - dành cho tuổi mới lớn đã sản sinh vô khối ca sĩ đuổi theo khuynh hướng này, nhưng không ai có thể trẻ mãi hoặc "giả" teen mãi được.', 100);
+        </script>
+
+    </div>
+    <div class="boxtieptheo">
+        
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=450240&ChannelID=589">
+                        Taylor Swift thắng lớn tại giải Teen Choice</a></li>
+                </ul>
+            
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=446886&ChannelID=589">
+                        Rihanna&nbsp;qua mặt&nbsp;Lady Gaga trên Facebook</a></li>
+                </ul>
+            
+    </div>    
+    <div class="clearFix"></div>
+</div>
+<div class="clearFix textRight paddingLeftRight20"><a class="colorBlack" href="index.aspx?ChannelID=589">Xem tất cả &raquo;</a></div>
+
+    </div>
+    <div class="boxContentSubShare" id="nhacContent" style="display:none;" >
+       
+
+<div style="clear: both;height:160px;overflow:hidden;">
+    <div class="imgSubShare" style="display:block" >
+        <a href='Index.aspx?ArticleID=409052&ChannelID=590'><img style='text-align:left; float:left; margin-top:0px; margin-right:10px;border:solid 1px #8c8c8c;' src='ThumnailView.aspx?ArticleID=409052&width=100&height=100' /></a>
+    </div>
+    <div class="bold">
+        <a href="Index.aspx?ArticleID=409052&ChannelID=590" class="colorBlack">
+            <span class="bold">
+                Album mới của Taylor Swift cán mốc 1 triệu bản tuần đầu tiên</span></a></div>
+    <div class="textLeft colorBlack">
+
+        <script type="text/javascript">
+                cutStrExper('TTO - Đúng như dự đoán của giới chuyên môn, album thứ ba của Taylor Swift - Speak now (tạm dịch: Nói ngay) vừa cán mốc 1 triệu bản ngay trong tuần đầu tiên, đưa cô thành nghệ sĩ bán được nhiều album nhất trong tuần đầu tiên của năm 2010.', 100);
+        </script>
+
+    </div>
+    <div class="boxtieptheo">
+        
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=391503&ChannelID=590">
+                        “Công chúa nhạc đồng quê” sắp phát hành album mới</a></li>
+                </ul>
+            
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=379848&ChannelID=590">
+                        LiIly Allen thắng lớn tại giải Ivor Novello</a></li>
+                </ul>
+            
+    </div>    
+    <div class="clearFix"></div>
+</div>
+<div class="clearFix textRight paddingLeftRight20"><a class="colorBlack" href="index.aspx?ChannelID=590">Xem tất cả &raquo;</a></div>
+
+    </div>
+    <div class="boxContentSubShare" id="phimContent" style="display:none;" >
+       
+
+<div style="clear: both;height:160px;overflow:hidden;">
+    <div class="imgSubShare" style="display:block" >
+        <a href='Index.aspx?ArticleID=436165&ChannelID=591'><img style='text-align:left; float:left; margin-top:0px; margin-right:10px;border:solid 1px #8c8c8c;' src='ThumnailView.aspx?ArticleID=436165&width=100&height=100' /></a>
+    </div>
+    <div class="bold">
+        <a href="Index.aspx?ArticleID=436165&ChannelID=591" class="colorBlack">
+            <span class="bold">
+                Jaden Smith&nbsp;- &nbsp;ngôi sao nhí được trả thù lao cao nhất</span></a></div>
+    <div class="textLeft colorBlack">
+
+        <script type="text/javascript">
+                cutStrExper('TTO - Cậu bé 12 tuổi Jaden Smith, con trai tài tử Will Smith, đã trở thành ngôi sao nhí Hollywood được trả thù lao cao nhất với 3 triệu USD từ vai diễn trong bộ phim The karate kid.', 100);
+        </script>
+
+    </div>
+    <div class="boxtieptheo">
+        
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=425012&ChannelID=591">
+                        “Phù thủy Harry Potter” làm nhiếp ảnh gia</a></li>
+                </ul>
+            
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=410824&ChannelID=591">
+                        Nhìn lại chặng đường 13 năm của Harry Potter</a></li>
+                </ul>
+            
+    </div>    
+    <div class="clearFix"></div>
+</div>
+<div class="clearFix textRight paddingLeftRight20"><a class="colorBlack" href="index.aspx?ChannelID=591">Xem tất cả &raquo;</a></div>
+
+    </div>
+    <div class="boxContentSubShare" id="giongcavangContent" style="display:none;" >
+       
+
+<div style="clear: both;height:160px;overflow:hidden;">
+    <div class="imgSubShare" style="display:block" >
+        <a href='Index.aspx?ArticleID=348595&ChannelID=592'><img style='text-align:left; float:left; margin-top:0px; margin-right:10px;border:solid 1px #8c8c8c;' src='ThumnailView.aspx?ArticleID=348595&width=100&height=100' /></a>
+    </div>
+    <div class="bold">
+        <a href="Index.aspx?ArticleID=348595&ChannelID=592" class="colorBlack">
+            <span class="bold">
+                "Giọng ca vàng" sẽ ra mắt trong thời gian sớm nhất</span></a></div>
+    <div class="textLeft colorBlack">
+
+        <script type="text/javascript">
+                cutStrExper('TTO - Cảm ơn bạn đọc đã truy cập vào đây. Trang Giọng ca vàng đang được xây dựng. Hẹn gặp lại các bạn trong thời gian sớm nhất.', 100);
+        </script>
+
+    </div>
+    <div class="boxtieptheo">
+        
+    </div>    
+    <div class="clearFix"></div>
+</div>
+<div class="clearFix textRight paddingLeftRight20"><a class="colorBlack" href="index.aspx?ChannelID=592">Xem tất cả &raquo;</a></div>
+
+    </div>
+    <div class="boxContentSubShare" id="diemhenContent" style="display:none;" >
+       
+
+<div style="clear: both;height:160px;overflow:hidden;">
+    <div class="imgSubShare" style="display:block" >
+        <a href='Index.aspx?ArticleID=392062&ChannelID=593'><img style='text-align:left; float:left; margin-top:0px; margin-right:10px;border:solid 1px #8c8c8c;' src='ThumnailView.aspx?ArticleID=392062&width=100&height=100' /></a>
+    </div>
+    <div class="bold">
+        <a href="Index.aspx?ArticleID=392062&ChannelID=593" class="colorBlack">
+            <span class="bold">
+                Thác Bảo Đại - hoang sơ và kỳ bí</span></a></div>
+    <div class="textLeft colorBlack">
+
+        <script type="text/javascript">
+                cutStrExper('AT&nbsp;-&nbsp;&nbsp;Lâm Đồng vốn nổi tiếng với nhiều thác nước. Có thác hùng vĩ, có thác nên thơ và có thác dữ dội... Đa số thác nước ở Lâm Đồng được khai thác thành khu du lịch và thu hút rất đông du khách tham quan như thác Đam Bri (Bảo Lộc), thác Bobla (Di Linh), thác Pongour (Đức Trọng)...', 100);
+        </script>
+
+    </div>
+    <div class="boxtieptheo">
+        
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=390263&ChannelID=593">
+                        Ngất ngây với tâng bóng nghệ thuật</a></li>
+                </ul>
+            
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=385174&ChannelID=593">
+                        Du thuyền trên hồ Ba Bể</a></li>
+                </ul>
+            
+    </div>    
+    <div class="clearFix"></div>
+</div>
+<div class="clearFix textRight paddingLeftRight20"><a class="colorBlack" href="index.aspx?ChannelID=593">Xem tất cả &raquo;</a></div>
+
+    </div>
+</div>
+<div class="clearFix"></div>
+
+<div class="boxSubShare">
+    <div class="boxBtnShareNoivoiteen"> <a href="Index.aspx?ChannelID=567"><img alt="" style="width:140px;height:34px;margin-top:4px;margin-left:10px;" src="Images/Trans.gif" class="imgTTO" /></a></div>
+    <div class="boxContentSubShare">
+        
+
+<div style="clear: both;height:160px;overflow:hidden;">
+    <div class="imgSubShare" style="display:block" >
+        <a href='Index.aspx?ArticleID=454144&ChannelID=567'><img style='text-align:left; float:left; margin-top:0px; margin-right:10px;border:solid 1px #8c8c8c;' src='ThumnailView.aspx?ArticleID=454144&width=100&height=100' /></a>
+    </div>
+    <div class="bold">
+        <a href="Index.aspx?ArticleID=454144&ChannelID=567" class="colorBlack">
+            <span class="bold">
+                Không trung thực, tâm hồn sẽ mất đẹp</span></a></div>
+    <div class="textLeft colorBlack">
+
+        <script type="text/javascript">
+                cutStrExper('TT - Giải nhất cuộc thi “Học sinh - sinh viên trung thực: Được gì, mất gì?” do Tổ chức Hướng tới minh bạch (TT) - cơ quan đầu mối quốc gia của Tổ chức Minh bạch quốc tế (TI) và Đại học Hoa Sen tổ chức mới đây thuộc về một video clip dài hơn ba phút, mô tả hành trình “đen hóa” đôi bàn tay một người trẻ khởi đầu từ một gian dối nhỏ trong thi cử.', 100);
+        </script>
+
+    </div>
+    <div class="boxtieptheo">
+        
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=447660&ChannelID=567">
+                        Sức sống Alex Lewis</a></li>
+                </ul>
+            
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=446613&ChannelID=567">
+                        Giúp trẻ hướng thượng</a></li>
+                </ul>
+            
+    </div>    
+    <div class="clearFix"></div>
+</div>
+<div class="clearFix textRight paddingLeftRight20"><a class="colorBlack" href="index.aspx?ChannelID=567">Xem tất cả &raquo;</a></div>
+
+    </div>
+</div>
+
+<div class="boxSubShare">
+    <div class="boxBtnShareGocTeen"><a href="Index.aspx?ChannelID=568"><img alt="" style="width:160px;height:34px;margin-top:4px;margin-left:10px;" src="Images/Trans.gif" class="imgTTO" /></a></div>
+    <div class="boxContentSubShare">
+        
+
+<div style="clear: both;height:160px;overflow:hidden;">
+    <div class="imgSubShare" style="display:block" >
+        <a href='Index.aspx?ArticleID=454140&ChannelID=568'><img style='text-align:left; float:left; margin-top:0px; margin-right:10px;border:solid 1px #8c8c8c;' src='ThumnailView.aspx?ArticleID=454140&width=100&height=100' /></a>
+    </div>
+    <div class="bold">
+        <a href="Index.aspx?ArticleID=454140&ChannelID=568" class="colorBlack">
+            <span class="bold">
+                1.000 tập vở cho lớp học tình thương</span></a></div>
+    <div class="textLeft colorBlack">
+
+        <script type="text/javascript">
+                cutStrExper('TT - 1.000 tập vở và 500 cây bút đã được đoàn viên thanh niên của Ngân hàng BIDV Đông Sài Gòn (Q.Thủ Đức, TP.HCM) trao cho hai lớp học tình thương ở ấp Giãn Dân, P.Long Bình, Q.9, hỗ trợ trên 50 học sinh khó khăn bước vào năm học mới.', 100);
+        </script>
+
+    </div>
+    <div class="boxtieptheo">
+        
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=448046&ChannelID=568">
+                        Vui hè và chung tay bảo vệ động vật hoang dã</a></li>
+                </ul>
+            
+                <ul>
+                    <li><a href="Index.aspx?ArticleID=444950&ChannelID=568">
+                        Những phận đời được cưu mang</a></li>
+                </ul>
+            
+    </div>    
+    <div class="clearFix"></div>
+</div>
+<div class="clearFix textRight paddingLeftRight20"><a class="colorBlack" href="index.aspx?ChannelID=568">Xem tất cả &raquo;</a></div>
+
+    </div>
+</div>
+<div class="clearFix">
+</div>
+
+                        </div>
+                    </div>
+                    <div class="clearFix">
+                    </div>
+                </div>
+                <div id="colunmRight" style="overflow:hidden;">                    
+                    
+<div class="boxSearchRight">
+    <div class="padding10">
+        <div class="paddingLeftR4">
+            <div class="floatLeft">
+                <select class="inputText" id="cboInputMethod" style="width: 50px; height: 20px;">
+                     <option style="border: none!important; background-color: Transparent;" value="0">Off</option>
+                    <option style="border: none!important; background-color: Transparent;" value="1">Telex</option>
+                    <option style="border: none!important; background-color: Transparent;" value="2">VNI</option>
+                </select>
+            </div>
+            <div class="floatLeft" style="padding-left: 10px;">
+                <input type="text" id="txtKeyword" class="inputSearch floatLeft" onkeypress="return trapEnterKey('chkYahoo',this.value,event);" style="width: 114px; height: 18px;"
+                    value="Tìm trên Tuổi Trẻ" onblur="if (this.value=='') this.value='Tìm trên Tuổi Trẻ'; else if(document.getElementById('chkYahoo').checked) this.value=='Tìm trên Yahoo';" 
+            onfocus="if (this.value=='Tìm trên Tuổi Trẻ'||this.value=='Tìm trên Yahoo') this.value='';"  name="SearchQuery" />
+                <input type="button" class="inputSearch floatLeft" style="width: 60px; height: 20px;
+                    cursor: pointer" alt="Tìm Kiếm" id="go_search_yahoo" name="image" onclick="searchEngine();" />
+            </div>
+            <div class="floatLeft boxRadiosearch">
+                <input type="checkbox" id="chkYahoo" />
+        </div>
+        <div class="clearFix">
+        </div>
+    </div>
+</div>
+</div>
+<script type="text/javascript" language="javascript">
+    /* URL encode / decode */
+    var Url =
+    {
+        // public method for url encoding
+        encode: function(string) {
+            return escape(this._utf8_encode(string));
+        },
+
+        // public method for url decoding
+        decode: function(string) {
+            return this._utf8_decode(unescape(string));
+        },
+
+        // private method for UTF-8 encoding
+        _utf8_encode: function(string) {
+            string = string.replace(/\r\n/g, "\n");
+            var utftext = "";
+
+            for (var n = 0; n < string.length; n++) {
+
+                var c = string.charCodeAt(n);
+
+                if (c < 128) {
+                    utftext += String.fromCharCode(c);
+                }
+                else if ((c > 127) && (c < 2048)) {
+                    utftext += String.fromCharCode((c >> 6) | 192);
+                    utftext += String.fromCharCode((c & 63) | 128);
+                }
+                else {
+                    utftext += String.fromCharCode((c >> 12) | 224);
+                    utftext += String.fromCharCode(((c >> 6) & 63) | 128);
+                    utftext += String.fromCharCode((c & 63) | 128);
+                }
+
+            }
+
+            return utftext;
+        },
+
+        // private method for UTF-8 decoding
+        _utf8_decode: function(utftext) {
+            var string = "";
+            var i = 0;
+            var c = c1 = c2 = 0;
+
+            while (i < utftext.length) {
+
+                c = utftext.charCodeAt(i);
+
+                if (c < 128) {
+                    string += String.fromCharCode(c);
+                    i++;
+                }
+                else if ((c > 191) && (c < 224)) {
+                    c2 = utftext.charCodeAt(i + 1);
+                    string += String.fromCharCode(((c & 31) << 6) | (c2 & 63));
+                    i += 2;
+                }
+                else {
+                    c2 = utftext.charCodeAt(i + 1);
+                    c3 = utftext.charCodeAt(i + 2);
+                    string += String.fromCharCode(((c & 15) << 12) | ((c2 & 63) << 6) | (c3 & 63));
+                    i += 3;
+                }
+            }
+            return string;
+        }
+    }
+
+    function setvalueYahoo() {
+        if (document.getElementById("chkYahoo").checked) {
+            document.getElementById('txtKeyword').value = "Tìm trên Yahoo";
+        }
+        else {
+            document.getElementById('txtKeyword').value = "Tìm trên Tuổi trẻ";
+        }
+    }
+
+    function searchEngine() {
+        var url = "http://tuoitre.vn/Tim-kiem/Index.html?keyword=";
+
+        if (document.getElementById("chkYahoo").checked) {
+            url = "http://search.yahoo.com/search?p=";
+            window.open(url, "_blank", "", "");
+        }
+        else {
+            url += Url.encode(document.getElementById("txtKeyword").value) + "&scope=*&channel=-1&from=&to=&page=1";
+            window.open(url, "_blank", "", "");
+        }
+    }
+
+    // setTypingMode(document.getElementById("cboInputMethod").selectedIndex);
+    // initTyper(document.getElementById("txtKeyword"));    
+</script>
+
+<script type="text/javascript" language="javascript">
+    function trapEnterKey(chkYM, value, e) {
+        // the purpose of this function is to allow the enter key to
+        // point to the correct button to click.
+        var key;
+
+        if (window.event) {
+            // IE
+            key = window.event.keyCode;
+        }
+        else {
+            // firefox
+            key = e.which;
+        }
+
+        if (key == 13) {
+            var q = value;
+
+            if (q == '') {
+                return false;
+            }
+
+            if ((q.indexOf('AND') == -1) && (q.indexOf('OR') == -1) && (q.indexOf('"') == -1)) {
+                //q = '"' + q + '"';
+                q = q;
+            }
+
+            // endcode
+            q = Url.encode(q);
+
+            if (document.getElementById(chkYM).checked) {
+                //window.location = "http://search.yahoo.com/search?p=" + q;
+                var urlyahoo = "http://search.yahoo.com/search?p=" + q;
+                window.open(urlyahoo, "_blank", "", "");
+            }
+            else {
+                var urltto = "http://tuoitre.vn/Tim-kiem/Index.html?scope=*&channel=-1&from=&to=&page=1&keyword=" + q;
+                window.open(urltto, "_blank", "", "");
+            }
+
+            event.keyCode = 0;
+
+            return false;
+        }
+
+        return true;
+    }                         
+</script>
+
+
+
+<div class="contentColunmRight">
+    
+    
+<div style="width: 100%; margin: 0px;">
+        <object id="monFlash" type="application/x-shockwave-flash" data="Video/player_flv_multi.swf" width="300" height="225">
+            <param name="movie" value="Video/player_flv_multi.swf" />
+            <param name="allowFullScreen" value="true"/>
+            <param name="bgcolor" value="#007236"/>
+            <param name="FlashVars" value="configxml=Video/flv_config_multi.xml" />
+        </object>
+    </div>
+<!-- #end video box-->
+    <div style="clear:both;"></div>
+
+<div style="margin-top:5px;overflow:hidden;margin-bottom:5px">
+<div style="margin-top:2px"><a href="http://tracnghiem.tuoitre.vn" target="_blank">
+    <img alt="HVN" title="Thi trắc nghiệm trực tuyến" src="http://teen.tuoitre.vn/images/banner-TracNghiem.jpg" border="0" /></a></div>
+</div>    
+    <div class="barchuongtrinh">
+       <a target="_blank" href="http://tuoitre.vn/Chu-de/1098/Tu-hao-su-Viet.html">
+            <img src="Images/Trans.gif" style="width:135px;height:20px;margin-bottom:2px;" />
+       </a><br />
+       <a target="_blank" href="http://tuoitre.vn/Chu-de/763/Radio-Online-Nhip-song-tre.html">
+            <img src="Images/Trans.gif" style="width:220px;height:20px;margin-bottom:2px;" />
+       </a>
+       <br />
+       <a target="_blank" href="http://tuoitre.vn/Chu-de/357/Giao-duc-gioi-tinh.html">
+            <img src="Images/Trans.gif" style="width:145px;height:20px;margin-bottom:2px;" />
+       </a>
+       <br />
+       <a target="_blank" href="http://tuoitre.vn/Chu-de/209/Ky-nang-danh-cho-ban-tre.html">
+            <img src="Images/Trans.gif" style="width:220px;height:20px;margin-bottom:2px;" />
+       </a>
+     </div>         
+    <div style="clear:both; height:6px;width:100%;overflow:hidden;font-size:1px;"></div>  
+   
+<link rel="stylesheet" type="text/css" href="Slideshow/css/slideshow.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="Slideshow/css/lightbox.css" media="screen" />
+
+<script type="text/javascript" src="Slideshow/Js/mootools.js"></script>
+
+<script type="text/javascript" src="Slideshow/Js/lightbox.js"></script>
+
+<script type="text/javascript" src="Slideshow/Js/slideshow.js"></script>
+
+<script type="text/javascript" language="javascript">
+    //<![CDATA[
+    window.addEvent('domready', function() {
+        var data = { 
+        'a1.jpg' : { caption: 'Mùa hè ở lớp học võ - Ảnh: Khểnh' },
+        'a2.jpg' : { caption: 'Mùa hè ở lớp học võ - Ảnh: Khểnh' },
+        'a3.jpg' : { caption: 'Nụ cười lúc luyện tập - Ảnh: Khểnh' },
+        'a4.jpg' : { caption: 'Những cô bạn chăm chỉ tập múa - Ảnh: Khểnh' },
+        'a5.jpg' : { caption: 'Không tránh khỏi những lúc ngủ gật - Ảnh: Khểnh' },
+        'a6.jpg' : { caption: 'Chăm chỉ luyện tập - Ảnh: Khểnh' },
+        'a7.jpg' : { caption: 'Những động tác rất khó - Ảnh: Khểnh' },
+        'a8.jpg' : { caption: 'Hết sức tập trung và kiên nhẫn mới tập được những động tác như thế này - Ảnh: Khểnh' },
+        'a9.jpg' : { caption: 'Quyết không thua kém bạn bè khi luyện tập - Ảnh: Khểnh' },
+       'a10.jpg' : { caption: 'Tự luyện tập một mình - Ảnh: Khểnh' },
+        'a11.jpg' : { caption: 'Chăm chỉ - Ảnh: Khểnh' },
+        'a12.jpg' : { caption: 'Nụ cười khi luyện tập - Ảnh: Khểnh' },
+        'a13.jpg' : { caption: 'Tuân theo từng chỉ dẫn của cô giáo - Ảnh: Khểnh' },
+        'a14.jpg' : { caption: 'Các bạn ở lớp kịch thiếu nhi sân khấu 5B Võ Văn Tần cũng phải khởi động thật kỹ trước giờ học - Ảnh: Khểnh' },
+        'a15.jpg' : { caption: 'Học cách diễn xuất - Ảnh: Khểnh' },
+        'a16.jpg' : { caption: 'Hết sức tập trung khi diễn xuất - Ảnh: Khểnh' },
+        'a17.jpg' : { caption: 'Vui, buồn, giận dữ, ganh ghét…, cảm xúc phải thật rõ ràng - Ảnh: Khểnh' },
+        'a18.jpg' : { caption: 'Chăm chỉ luyện tập sẽ giúp bạn có cơ thể dẻo dai - Ảnh: Khểnh' },
+        'a19.jpg' : { caption: 'Tung tăng bơi lội - Ảnh: Hoàng Duy' },
+       'a20.jpg' : { caption: 'Bạn nhỏ Ê Đê tung tăng bơi lội giữa thiên nhiên trong lành ở Đắc Lắc - Ảnh: Trang Nhung' },
+       'a21.jpg' : { caption: 'Bạn nhỏ Ê Đê tắm suối ở Đắc Lắc - Ảnh: Trang Nhung' },
+        'a22.jpg' : { caption: 'Chăm chỉ tập thể dục ở công viên - Ảnh: Khểnh' },
+        'a23.jpg' : { caption: 'Niềm vui tập thể dục cùng bạn bè - Ảnh: Khểnh' },
+        'a24.jpg' : { caption: 'Vừa khởi động vừa nhắm mắt - Ảnh: Khểnh' },
+        'a25.jpg' : { caption: 'Nào cùng tập thể dục - Ảnh: Khểnh' },
+        'a26.jpg' : { caption: 'Mời bạn cùng chơi thể thao - Ảnh: Khểnh' },
+        'a27.jpg' : { caption: 'Nhảy hip hop cũng giúp chúng ta thêm linh hoạt đó - Ảnh: Khểnh' }
+    };
+        //var myShow = new Slideshow('show', data, { controller: true, height: 255, hu: 'Slideshow/images/', thumbnails: true, width: 300 });
+        var myShow = new Slideshow('show', data, { captions: true, controller: true, delay: 3000, height: 255, hu: 'Slideshow/images/', linked: true, width: 300 });
+        // Here we create the Lightbox instance.
+        // In this case we will use the "close" and "open" callbacks to pause our show while the modal window is visible.
+        var box = new Lightbox({ 
+                'onClose': function() { this.pause(false); }.bind(myShow), 
+                'onOpen' : function() { this.pause(true); }.bind(myShow) 
+                });
+    });
+//]]>
+</script>
+
+<div class="boxSlideVideoRight">
+    <div class="boxSlideVideoRightTop">
+        <div class="boxSlideVideoRightBtom">
+            <div class="paddingTb10 textCter" id="show">
+                
+                <a rel="lightbox" href="images/a2.jpg">
+                    <img src="Slideshow/images/a2.jpg" style="width:300px;" title="ĐI HỌC NGÀY MƯA - ẢNH: KHỂNH MEDIA" alt="img" /></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+      <div style="clear:both; height:4px;width:100%;overflow:hidden;font-size:1px;"></div>    
+   
+<style type="text/css">
+    .Weather-content
+    {
+        background-image: url(Images/bg-c-box-weather.jpg);
+        background-repeat: repeat-x;
+        font-family: Verdana;
+        height: 70px;
+        width: 290px;
+    }
+    .Weather-content-top
+    {
+        clear: both;
+        margin: 0px;
+        padding: 5px 0px 0px 10px;
+    }
+   
+</style>
+<div class="boxBaiviet">
+    <div class="boxBaivietTop">
+        <div class="boxBaivietBtom">
+            <div class="padding8">
+                <div class="Weather-content">
+                    <div class="Weather-content-top">
+                        <div style="float: left; width: 290px; font-size: 12px;">
+                            <span style="width: 150px; font-family: Verdana; font-size: 12px; font-weight: bold;color: #000;padding-left:10px;">Thời tiết</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                              <select id="cboLocattion" onchange="LoadData();" style="width: 170px;border:0px;">                                      
+                                    <option value="VMXX0007">TP HCM</option>
+                                    <option value="VMXX0006">Hà Nội</option>
+                                    <option value="VMXX0005">Hải Phòng</option>
+                                    <option value="7213884">Buôn Mê Thuột</option>
+                                    <option value="VMXX0031">Cà Mau</option>
+                                    <option value="7213346">Cẩm Phả</option>
+                                    <option value="VMXX0004">Cần Thơ</option>
+                                    <option value="VMXX0020">Cao Bằng</option>
+                                    <option value="8456">Đà Lạt</option>
+                                    <option value="VMXX0028">Đà Nẵng</option>
+                                    <option value="7208781">Gia Lai</option>
+                                    <option value="7208375">Hà Giang</option>
+                                    <option value="7208075">Hà Tĩnh</option>
+                                    <option value="VMXX0009">Huế</option>
+                                    <option value="VMXX0019">Lào Cai</option>
+                                    <option value="19163">Long Xuyên</option>
+                                    <option value="7201559">Móng Cái</option>
+                                    <option value="VMXX0011">Nam Định</option>
+                                    <option value="VMXX0029">Nha Trang</option>
+                                    <option value="VMXX0012">Phan Thiết</option>
+                                    <option value="7196808">Pleiku</option>
+                                    <option value="27117">Quy Nhơn</option>
+                                    <option value="VMXX0015">Thái Nguyên</option>
+                                    <option value="VMXX0026">Vinh</option>
+                                    <option value="VMXX0018">Vũng Tàu</option>
+                               </select>                            
+                        </div>
+                    </div>                   
+                   <div style="width:100%;clear:both;" id="divData"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script language="javascript" type="text/javascript">
+    function LoadData() {
+        var cbovalue = jQuery("#cboLocattion").val();
+        jQuery.ajax({
+            type: "POST",
+            url: 'Ajax/Weather.aspx?&param=' + cbovalue,
+            data: "",
+            success: function(req) { jQuery('#divData').html(req); }
+        });
+    }
+    LoadData();
+</script>
+   <div style="clear:both; height:2px;width:100%;overflow:hidden;font-size:1px;"></div>     
+   <div style="clear: both; width: 100%;">
+    <div style="width: 301px; height: 37px; clear: both; background-image: url(Images/titlebox.gif);background-repeat: no-repeat; display:none"></div>
+        <iframe src="http://chuyentrang.tuoitre.vn/FILM/Search.aspx" width="100%" height="160" style="background-color:#ffffff;" scrolling='no' frameborder='0'></iframe>   
+    <div style="width: 301px; height: 8px; clear: both; background-image: url(Images/bottombox.gif);background-repeat: no-repeat;"></div>
+   </div>
+   
+        
+    <div style="clear:both; height:6px;width:100%;overflow:hidden;font-size:1px;"></div>     
+    
+<div class="boxBaiviet">
+    <div class="boxBaivietTop">
+        <div class="boxBaivietBtom">
+            <div class="padding8">
+                <div class="boxTitlephim fontsize15 bold">
+                    Gửi bài viết của bạn</div>
+                 <div style="width:100%;border-bottom:solid 1px #a7a7a7;padding-bottom:6px;">
+                    <span class="txt_black_ml">
+                        Hãy gửi bài viết của bạn để trở thành cây viết "tiềm năng" của Nhịp sống Teen nhé
+                    </span>
+                 </div>
+                <div class="boxBaivietCtent">
+                    
+                            <a style="display:block" href="Index.aspx?ArticleID=454140&ChannelID=568">
+                                <img src="ThumnailView.aspx?ArticleID=454140&width=100&height=100" /></a>
+                            <div class="paddingTb2">
+                                <a href="Index.aspx?ArticleID=454140&ChannelID=568"
+                                    class="colorBlack"><span class="bold">
+                                        1.000 tập vở cho lớp học tình thương</span></a></div>
+                            <div class="textLeft lineHeight18">                                
+                                   <script type="text/javascript">
+                                       cutStrExper('TT - 1.000 tập vở và 500 cây bút đã được đoàn viên thanh niên của Ngân hàng BIDV Đông Sài Gòn (Q.Thủ Đức, TP.HCM) trao cho hai lớp học tình thương ở ấp Giãn Dân, P.Long Bình, Q.9, hỗ trợ trên 50 học sinh khó khăn bước vào năm học mới.', 100);
+                                    </script>
+                                <div class="paddingTb2 textRight">
+                                </div>
+                            </div>
+                            
+                            <div class="clearFix">
+                            </div>
+                        
+                    <div class="padding4" style="border-top: 1px solid #cdcdcd;">
+                                <span class="floatLeft"><a href="mailto:tto@tuoitre.com.vn" class="color2"><span class="bold">Gửi bài</span></a></span>
+                                <span class="floatRight"><a href="index.aspx?ChannelID=568" class="color2">
+                                    <span class="bold">Xem toàn bộ bài viết</span></a></span>
+                                <div class="clearFix">
+                                </div>
+                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <div style="clear:both; height:6px;width:100%;overflow:hidden;font-size:1px;"></div>     
+     <div style="clear: both; height: 100px; width: 300px; overflow: hidden; background-color:#fff;text-align:center;">
+           
+            <br />
+            <br />
+            <span class="txt_black_m">Liên hệ quảng cáo</span><br />
+            <span class="txt_black_m">(84.8)3847.9490</span><br />
+            <span class="txt_black_m">(300x100px)</span><br />
+    </div>
+     <div style="clear: both; height: 6px; width: 100%; overflow: hidden; font-size: 1px;"></div>
+    <div style="clear: both; height: 300px; width: 300px; overflow: hidden; background-color:#fff;text-align:center;">
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <span class="txt_black_m">Liên hệ quảng cáo</span><br />
+            <span class="txt_black_m">(84.8)3847.9490</span><br />
+            <span class="txt_black_m">(300x300px)</span><br />
+    </div>
+    
+</div>
+
+                    <div style="clear:both;"></div>
+                    <div style="width:309px;padding-left:10px;clear:both;">
+                        
+                    </div>
+                </div>
+                <div class="clearFix"></div>
+            </div>
+        </div>
+        <div id="footer">
+            <div class="boxQcFooter">
+                
+                <a href="#">
+                    <img src="App_Themes/Green/Images/qcfooter.jpg" /></a>
+            </div>
+            <div class="boxMenuFooter">
+                <div class="floatLeft color3 paddingLeftR6" style="line-height: 33px;">
+                    Bản quyền &copy; 2009 Tuổi Trẻ</div>
+                <div style="width: 60px; float: left; min-height: 10px;">
+                </div>
+                <div style="width: 580px;" class="floatLeft">
+                    <ul>
+                        <li><a href="#">Font Unicode</a> |</li>
+                        <li><a href="http://quangcao.tuoitre.vn/Bang-gia-quang-cao/Tuoi-Tre-Online/index.html">Bảng Giá Quảng Cáo</a> |</li>
+                        <li><a href="http://quangcao.tuoitre.vn/Dat-bao-truc-tuyen/index.html">Đặt Báo</a> |</li>
+                        <li><a href="#">Sơ Đồ Web </a>|</li>
+                        <li><a href="#">Hướng Dẫn </a>|</li>
+                        <li><a href="#">Liên Hệ</a></li>
+                    </ul>
+                </div>
+                <div class="floatRight paddingLeftR6" style="line-height: 33px;">
+                    <a class="color3" href="#">Phát triển bởi Moore Corp. </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Not Use -->
+    
+
+    <script language="javascript" type="text/javascript">
+        function ReloadPage() {
+            setTimeout("ReloadPage()", 600000);
+            if ((GetPostVariable("ArticleID", "-1") != "-1") || (GetPostVariable("ContactID", "-1") != "-1") || (GetPostVariable("InterviewID", "-1") != "-1")) {
+                return;
+            }
+            else {
+                location.reload();
+            }
+        }
+        var channelID = GetPostVariable("ChannelID", -1);
+        if (channelID != -1) {
+            document.getElementById('DivNSSPlcCenter').style.display = "block";
+            document.getElementById('DivNSSContent').style.display = "none";
+        }
+        else {
+            document.getElementById('DivNSSPlcCenter').style.display = "none";
+            document.getElementById('DivNSSContent').style.display = "block";
+        } 
+                           
+    </script>
+
+    </form>
+
+    <script type="text/javascript"> setTimeout("ReloadPage()", 600000);</script>
+
+    <!-- Google Analytics -->
+
+    <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+        try {
+            var pageTracker = _gat._getTracker("UA-11749345-1");
+            pageTracker._trackPageview();
+        } catch (err) { }
+    </script>
+
+    <!-- CMS Statistics -->
+    <script language="javascript" type="text/javascript" src="http://statistics.tuoitre.com.vn/TotalStatistics.js"></script>
+    <script language="javascript" type="text/javascript">
+        var paramSta    = "App=TEEN";
+        var search      = document.location.search;
+        if(search != '')
+        {
+            paramSta = paramSta + "&" + search.replace("?","")
+        }
+        IframeRender(paramSta);
+    </script>
+    
+  <script src="Jscript/Tab.js" type="text/javascript"></script>
+</body>
+</html>
