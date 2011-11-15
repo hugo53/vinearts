@@ -1,0 +1,619 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="robots" content="INDEX,FOLLOW" />
+		
+		<meta http-equiv="REFRESH" content="3600" />
+		
+		<meta name="description" content="Hai ngân hàng liên quan đến vụ khách hàng nghi bị đánh cắp dữ liệu thẻ ATM cho biết, sẽ tăng cường biện pháp bảo vệ trước tội phạm công nghệ cao. Nếu thẻ bị tấn công, khách hàng sẽ được bồi thường toàn bộ số tiền đã mất.> Cảnh báo nguy cơ ATM gắn chịp trộm dữ liệu> Lời 'quảng cáo' của kẻ tạo thiết bị đọc trộm ATM> Gắn chip điện tử, camera để trộm mã thẻ ATM - Hai ngan hang lien quan den vu khach hang nghi bi danh cap du lieu the ATM cho biet, se tang cuong bien phap bao ve truoc toi pham cong nghe cao. Neu the bi tan cong, khach hang se duoc boi thuong toan bo so tien da mat.&gt; Canh bao nguy co ATM gan chip trom du lieu&gt; Loi 'quang cao' cua ke tao thiet bi doc trom ATM&gt; Gan chip dien tu, camera de trom ma the ATM" />
+		
+		<meta name="keywords" content="ATM,gắn chip ATM,ăn cắp dữ liệu ATM" />		
+				
+		<title>eBank VnExpress - Ngân hàng tăng cường biện pháp bảo vệ chủ thẻ ATM - Ngan hang tang cuong bien phap bao ve chu the ATM</title>
+				
+		<link rel="stylesheet" href="/Resource/Common/default.css" type="text/css" />		
+		
+		<link rel="alternate" type="application/rss+xml" title="VnExpress - RSS" href="/RSS/GL/trang-chu.rss" />
+				
+		<script type="text/javascript" language="javascript" src="/Library/Common/Library.js"></script>		
+		<script type="text/javascript" language="javascript" src="/Library/Common/Vne.js"></script>		
+		<script type="text/javascript" language="javascript" src="/Library/Common/AdLib.js"></script>				
+		<script type="text/javascript" language="javascript" src="/Library/Common/AjaxRequest.js"></script>
+		<script type="text/javascript" language="javascript" src="/Library/Common/vietUni.js"></script>				
+		<script type="text/javascript" language="javascript" src="/Resource/00/ArrMenu.js"></script>        		
+		<script type="text/javascript" language="javaScript">
+			var PAGE_SITE=0;
+			var PAGE_FOLDER=613;	
+			var PAGE_ID=1002161078;	
+			var DOMESTIC_IP=1;	
+			setTypingMode(1);
+				
+			sLoDID=sLoDID.concat('1002161078').concat(',');
+			
+		</script>
+		<script type="text/javascript" language="javascript" src="/Resource/Common/Menu.js"></script>		
+		<script type="text/javascript" language="javascript" src="/Library/Common/jquery-1.4.2.min.js"></script>
+		<script type="text/javascript" language="javascript" src="/Library/Common/EBShowAds.js"></script>
+		
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-249346-6']);
+		_gaq.push(['_trackPageview']);
+		
+		_gaq.push(['b._setAccount', 'UA-249346-21']);
+		_gaq.push(['b._trackPageview']);
+		
+		_gaq.push(['c._setAccount', 'UA-249346-22']);
+		_gaq.push(['c._trackPageview']);
+
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+			
+	</head>
+
+	<script type="text/javascript" language="javaScript" src="/Source/Folder/00/02/65/Val.js"></script>
+		
+	<script type="text/javascript" language="javaScript">checkCookie();</script>
+	
+	<body>
+		<div id="outter">
+			<div id="header">
+				<div class="logo">
+					<a onfocus="this.blur()" href="/GL/Ebank/"><img src="/Images/Ebank/logo.gif"/></a>					
+				</div>
+				<div class="topbanner">					
+					<table border="0" cellpadding="0" cellspacing="0" style="height:83px; width:100%;">
+						<tr>
+							<td style="vertical-align:middle">															
+								<script type="text/javascript" language="javascript">Poly_ShowTopBanner();</script>
+							</td>                           
+						</tr>
+					</table>
+				</div>
+			</div>
+			<div class="navigator">
+				<div class="nav-top">
+					<div class="nt-left">
+						<div class="ntL-a"><img src="/Images/eBank/chuyentrang.gif" alt=""></div>
+						<div class="ntL-a"><a href="http://vnexpress.net"><img src="/Images/eBank/vne.gif" alt=""></a></div>
+						<div class="ntL-a"><img src="/Images/eBank/va.gif" alt=""></div>
+						<div class="ntL-a"><a href="http://www.smartlink.com.vn"><img src="/Images/eBank/smart.gif" alt=""></a></div>
+					</div>
+					<div id="parentMenu" class="nt-right">
+	<div class="ntR-right">
+		<div class="ntR-left">								
+			<div class="ntR-mid">
+				<!--[if lte IE 6]>
+				<a id="actie6" href="#"><table cellpadding=0 cellspacing=0 style="border: none; margin-top: 6px; margin-bottom: 2px;"><tr><td><![endif]-->
+				
+				<div class="nav-ct">
+				
+					<a href="/GL/Ebank/"><div class="nav-ctR"><div class="nav-ctL"><div class="nav-ctM">Trang chủ</div></div></div></a>
+				</div>
+				
+				<div class="nav-ct">	
+					<a href="/GL/Ebank/San-pham-moi/"><div class="nav-ctR"><div class="nav-ctL"><div class="nav-ctM">Sản phẩm mới</div></div></div></a>
+				</div>
+				
+				
+				<div class="nav-ctA">
+				
+					<a href="/GL/Ebank/Thi-truong/"><div class="nav-ctR"><div class="nav-ctL"><div class="nav-ctM">Thị trường</div></div></div></a>
+				</div>
+				
+				<div class="nav-ct">	
+					<a href="/GL/Ebank/Quoc-te/"><div class="nav-ctR"><div class="nav-ctL"><div class="nav-ctM">Quốc tế</div></div></div></a>
+				</div>
+				
+				
+				<div class="nav-ct">
+				
+					<a href="/GL/Ebank/Tu-van/"><div class="nav-ctR"><div class="nav-ctL"><div class="nav-ctM">Tư vấn</div></div></div></a>
+				</div>
+				
+				<div class="nav-ct">	
+					<a href="/GL/Ebank/Tuyen-dung/"><div class="nav-ctR"><div class="nav-ctL"><div class="nav-ctM">Tuyển dụng</div></div></div></a>
+				</div>
+				
+				<div class="nav-ct">	
+					<a href="/GL/Ebank/Cong-dong-ebank/"><div class="nav-ctR"><div class="nav-ctL"><div class="nav-ctM">Cộng đồng Ebank</div></div></div></a>
+				</div>	
+				<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</div>					
+		</div>
+	</div>						
+</div>	
+				</div>
+				<div class="nav-down">
+					<div class="nd-left"></div>
+					<div class="nd-mid"></div>
+					<div class="nd-right"></div>
+		    </div>
+			</div>
+			<div class="content">
+			<div class="left-ct">
+			<div class="title">	<script type="text/javascript" language="javascript">writeFolderTitle(PAGE_FOLDER,'Th&#7913; ba, 15/11/2011, 09:48 GMT+7');</script>
+</div>
+<div class="email-print txtr">
+<a onclick="this.blur(); return EmailSubject(1002161078)" href=""><img border="0" src="/Images/email.gif" align="bottom">&nbsp;E-mail</a>
+&nbsp;&nbsp;&nbsp;<a onclick="this.blur(); return PrintSubject()" href=""><img border="0" src="/Images/print.gif" align="bottom">&nbsp;B&#7843;n In</a>
+</div>
+						
+					<div class="top-story">
+						<div class="TS-top"></div>
+						<div class="tintuc">
+							<div class="otherInside">
+								<div style="overflow:hidden" cpms_content="true">
+				<H1 class=Title>Ngân hàng tăng cường biện pháp bảo vệ chủ thẻ ATM</H1>
+<H2 class=Lead>Hai ngân hàng liên quan đến vụ khách hàng nghi bị đánh cắp dữ liệu thẻ ATM cho biết, sẽ tăng cường biện pháp bảo vệ trước tội phạm công nghệ cao. Nếu thẻ bị tấn công, khách hàng sẽ được bồi thường toàn bộ số tiền đã mất.<BR><A href="http://vnexpress.net/gl/kinh-doanh/2011/11/canh-bao-nguy-co-atm-gan-chip-trom-du-lieu/" class="Lead">> Cảnh báo nguy cơ ATM gắn chịp trộm dữ liệu</A><BR><A href="http://vnexpress.net/gl/vi-tinh/hacker-virus/2010/12/3ba24274/" class="Lead">> Lời 'quảng cáo' của kẻ tạo thiết bị đọc trộm ATM</A><BR><A href="http://vnexpress.net/gl/phap-luat/2010/01/3ba17654/" class="Lead">> Gắn chip điện tử, camera để trộm mã thẻ ATM</A></H2>
+<P class=normal>Ông Đào Minh Tuấn, Phó tổng giám đốc Vietcombank cho hay, nếu phát hiện khách hàng sử dụng thẻ Vietcombank bị đánh cắp dữ liệu và mất tiền trong tài khoản do tội phạm công nghệ cao gây ra, đơn vị này sẽ hoàn trả toàn bộ số tiền cho khách.</P>
+<P class=normal>Đồng quan điểm, ông Hoàng Ngọc Thuyết, Trưởng phòng thẻ TienPhong Bank cũng khẳng định, nhà băng này sẽ đảm bảo quyền lợi của khách hàng là nạn nhân của tội phạm công nghệ cao. Trong trường hợp khách hàng sử dụng thẻ mà phát hiện bị đánh cắp tiền trong tài khoản bởi tội phạm, nhà băng này sẽ phối hợp với khách để xác minh và xử lý. "Nếu đúng như khách hàng phản ánh, chúng tôi sẽ làm lại thẻ miễn phí và hoàn trả số tiền đã mất cho khách", ông nói. </P>
+<TABLE cellSpacing=0 cellPadding=3 width=1 align=center border=0>
+<TR>
+<TD><IMG src="/Files/Subject/3b/bb/c3/b6/atm-2.jpg" width=480 height=320 /></TD></TR>
+<TR>
+<TD class="Image">Người thực hiện giao dịch trên ATM nên cẩn trọng quan sát vật thể lạ để tránh bị ăn trộm mật khẩu, thông tin cá nhân. Ảnh minh họa: <EM DESIGNTIMESP="27198">Tuệ Minh.</EM></TD></TR></TABLE>
+<P class=normal>Ông Tuấn cho biết thêm, trước đó, nhiều ngân hàng phát hiện việc gian lận liên quan đến tiêu dùng thẻ mà chủ yếu là hình thức ăn cắp thẻ tín dụng để mua vé máy bay, làm giả thẻ ghi nợ bằng cách đánh cắp dữ liệu khi khách hàng giao dịch tại các máy rút tiền… “Cùng với sự khởi sắc của thị trường thanh toán không dùng tiền mặt, tội phạm thẻ bắt đầu tấn công mạnh hơn vào thị trường Việt Nam”, ông Tuấn nói.</P>
+<P class=Normal>Chuyên gia này tiết lộ, kẻ gian chỉ mất vài chục phút để gắn, gỡ các thiết bị theo dõi thông tin tài khoản, mật khẩu của chủ thẻ giao dịch tại máy ATM. Do đó, với những máy ATM không có bảo vệ trực hoặc camera, việc phát hiện hành vi gắn trộm thiết bị không dễ dàng vì sự việc diễn ra khá nhanh. </P>
+<P class=Normal>Trưởng phòng thẻ TienPhong Bank cũng khuyến cáo khách hàng nên quan sát kỹ trước khi giao dịch tại máy ATM. Nếu bị gắn camera theo dõi, cũng không khó để phân biệt giữa thiết bị của nhà băng với kẻ gian. "Camera của ngân hàng thường gắn cố định, chắc chắn ở hướng chỉ quan sát được mặt và xác định khách có rút tiền. Còn thiết bị của tội phạm thường có góc quay chéo vào bàn phím gõ mật khẩu để ăn cắp thông tin, tháo lắp dễ dàng", ông nói. </P>
+<P class=Normal>Ông Thuyết cũng cho biết, tất cả máy ATM của TienPhong Bank đều có lắp camera quan sát. Hơn nữa, buồng đặt ATM lại sát hoặc trong quầy giao dịch, nên khá an toàn. "Tối đa 2 ngày, nhân viên chúng tôi lại đi khắp các điểm đặt máy ATM để rà soát phát hiện vật thể lạ quanh khu vực đặt máy rút tiền tự động cũng như tiếp quỹ, bảo trì hệ thống", ông Thuyết cho biết. </P>
+<P class=Normal><STRONG><FONT color=#4f4f4f>Dù vậy, theo nhiều chuyên gia, để tránh bị đánh cắp tài khoản, chính người sử dụng thẻ phải tự bảo vệ mình. </FONT></STRONG>Tổng giám đốc Banknetvn, ông Ngô Ngọc Đông nhận xét, để ngăn ngừa thủ phạm gắn camera và chip để lấy cắp mã PIN, thông tin khách hàng, người rút tiền cần cảnh giác cao độ. </P>
+<P class=Normal>“Nên quan sát kỹ, nếu camera xoay xuống hướng bàn phím bấm mật khẩu thì đó là thiết bị của bọn xấu cài đặt, khách nên gọi đến đường dây nóng, báo cho ngân hàng”, Tổng giám đốc Banknetvn khuyến cáo. Theo chuyên gia này, các ngân hàng cũng cần phải tăng cường dịch vụ báo số dư qua tin nhắn, thông báo chi tiết cả những thay đổi trong tài khoản đến khách hàng dù là nhỏ nhất, để người sử dụng kiểm soát được số dư.</P>
+<P class=Normal>Phó tổng giám đốc một ngân hàng thương mại cổ phần tại TP HCM cũng chia sẻ, để đối phó với tội phạm công nghệ cao tấn công thẻ ATM, cần có nhiều biện pháp như kiểm soát an ninh, phối hợp của ngân hàng và các cơ quan chức năng địa phương. “Cũng cần quan tâm tới vị trí đặt máy và các yếu tố cảnh báo, con người”, ông bày tỏ.</P>
+<P class=Normal>Còn theo lãnh đạo một ngân hàng thương mại cổ phần lớn tại Hà Nội, các dòng máy nhập về cách đây 5 năm đều có thiết kế cũ, nên không có thiết bị chống lắp vật thể lạ. Chỉ gần đây, mới có một số máy được gắn công cụ này, song số lượng không nhiều. Do đó, theo ông, cách phát hiện tốt nhất là người thực hiện giao dịch phải quan sát bằng mắt thường. Tuy nhiên, khách hàng sử dụng thẻ của nhà băng này nếu bị tội phạm ăn cắp dữ liệu và mất tiền cũng sẽ được đền bù 100% số tiền bị mất, ông nói. </P>
+<P class=normal>Trước đó, anh Tùng, ở Hà Nội, một khách hàng sử dụng dịch vụ thẻ của TienPhong Bank phản ánh, anh nhận được thông báo của nhà băng này về việc tạm khóa thẻ, chuyển sang làm mới. Nhân viên TienPhong Bank nghi khách hàng này bị ăn cắp thông tin, mật khẩu khi rút tiền tại ATM của Vietcombank trên phố Đại La. Dù chưa bị mất tiền trong tài khoản, song khách hàng này bày tỏ lo ngại về sự tái diễn của ăn cắp thông tin thẻ. Nhiều người sử dụng dịch vụ ATM của ngân hàng cũng bất an trước những thông tin về việc đánh cắp tài khoản nói trên.</P>
+<P class=normal align=right><STRONG DESIGNTIMESP="27215">Lệ Chi - Tuệ Minh</STRONG></P>
+		</div>
+		
+			</div></div><div class="box-down"></div></div>
+				<div class="tag-parent"><img src='/Images/Tag/tags.gif' class="tag"><div class="tag-pos"><h3 class="tag-text"><a href='http://ebank.vnexpress.net/tag/74015/an-cap-du-lieu-atm/'>ăn cắp dữ liệu ATM</a>, <a href='http://ebank.vnexpress.net/tag/74014/gan-chip-atm/'>gắn chip ATM</a>, <a href='http://ebank.vnexpress.net/tag/1685/atm/'>ATM</a></h3></div></div>
+				<div class="left-box" style="margin-top:5px;margin-bottom:5px;">
+					
+			<div class="divcomment">Ý kiến độc giả:</div>
+			<div class="bgComment">
+				<div style="border:1px solid #a3aabd;padding:2px 3px 2px 3px;">
+					<div style="height:400px; padding:0px 8px; overflow:auto; overflow-x: hidden;">								
+														
+						<div class="comment_ct">
+							<P class=Title>Thay mã pin bằng dấu vân tay</P>
+<P class=Normal>Tôi nghĩ việc bị đánh cắp tài khoản là việc xẩy ra thường xuyên đối với các chủ thẻ, bởi vì tội phạm công nghệ cao bây giờ rất phát triển và thủ thuật cao. Thẻ ATM làm giả thì quá dễ nhưng mã pin nếu thay vì người dùng phải bấm số mã pin thì nên cải tiến bằng dấu vân tay. Cách này sẽ bảo mật cho người dùng hơn tránh bị ăn cắp mã pin.</P>
+<P class=Normal><I>( Nguyen Duc Hoang )</I></P>
+						</div>
+						<div class="dotbar">&nbsp;</div>
+					
+					</div>
+					<div class="CommentPaging">
+						
+					</div>
+					<script type="text/javascript" language="javascript" src="/Library/Common/jquery.js"></script>
+				</div>
+			</div>
+			
+<div class="divcomment" onclick="ShowFormComment();">&#221; ki&#7871;n c&#7911;a b&#7841;n:</div>
+<div class="ViewerComment2" id="dComment" style="display:none;">
+<form method="post" name="frmComment" id="frmComment" target="_blank" onsubmit="submitForm(this);return false;" action="/Service/Comment/Submit.asp">
+	<div class="opinion_ct">
+		<div class="opinion_top"></div>
+		<div class="opinion_bg">
+			<div class="Vright2">
+				<div class="Vright_bottom2">
+					<div class="Vright_line2">
+						<div class="VR_L">Họ tên:</div>
+						<div class="VR_R2">							
+							<input type="text" class="txtHoTen" name="txtAddedBy" id="txtAddedBy" onkeyup="initTyper(this)" />
+						</div>
+					</div>
+					<div class="Vright_line2">
+						<div class="VR_L">Tiêu đề:</div>
+						<div class="VR_R2">							
+							<input type="text" class="txtHoTen" name="txtAddedTitle" id="txtAddedTitle" onkeyup="initTyper(this)" />
+						</div>
+					</div>
+					<div class="Vright_line2">
+						<div class="VR_L">Email:</div>
+						<div class="VR_R2">							
+							<input type="text" class="txtEmail" name="txtAddedByEmail" id="txtAddedByEmail" />
+						</div>
+					</div>
+					<div class="Vright_line2">
+						<div class="VR_L">Mã xác nhận:</div>
+						<div class="VR_R2">							
+							<input type="text" name="txtValidCode" id="txtValidCode" class="txtMa" />
+							<img src="/Service/Vote/securelog/image.asp" name="imgValidCode" id="imgValidCode" style="vertical-align:top; height:20px; padding-top:1px">
+							&nbsp;<img src="/Images/change-image.gif" alt="Thay hình khác" onclick="ChangeImage()" style="vertical-align:top;cursor:pointer; padding-top:1px" />
+						</div>
+					</div>
+					<div class="Vright_line2">
+						<div class="VR_L"></div>
+						<div class="VR_R2">
+							<textarea class="txta" name="txtAddedContent" id="txtAddedContent" onkeyup="initTyper(this)"></textarea>
+						</div>
+					</div>
+					<div class="Vright_line2">
+						<div class="VR_L"></div>
+						<div class="VR_R2">
+							<input type="submit" value="" class="SendTS" name="B1" />
+							<input type="button" class="Delete" name="B2" onclick="InputDefault();" />
+							<!--<input type="button" class="Close" onclick="ShowFormComment()" />-->
+							
+							<input type="radio" name="optInput" value="0" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(0)">Off
+							<input type="radio" name="optInput" value="1" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(1)" checked>Telex
+							<input type="radio" name="optInput" value="2" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(2)">VNI
+							<input type="radio" name="optInput" value="3" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(3)">VIQR													
+							
+							<input type="hidden" name="txtT" id="txtT" value="1002161078" />
+							<input type="hidden" name="txtS" id="txtS" value="0" />
+							<input type="hidden" name="txtF" id="txtF" value="613" />
+							<input type="hidden" name="txtL" id="txtL" value="" />
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="opinion_bottom"></div>
+	</div>
+</form>
+</div>
+<script type="text/javascript">
+	var bshow = true;
+	function ShowFormComment()	{
+		if(bshow){
+			gmobj('dComment').style.display="block";
+			bshow=false;
+		}
+		else{
+			gmobj('dComment').style.display="none";
+			bshow=true;
+		}
+	}
+	function submitForm(theform){
+		document.frmComment.txtAddedBy.value = Trim(document.frmComment.txtAddedBy.value);
+		if (document.frmComment.txtAddedBy.value == '' || document.frmComment.txtAddedBy.value == 'Họ tên')
+		{
+			alert('Xin hay nhap Ho ten!');
+			document.frmComment.txtAddedBy.focus();
+			return;
+		}
+
+		if ((SEmail = CheckEmailAddress(document.frmComment.txtAddedByEmail.value))=='')
+		{
+			alert('Dia chi Email khong hop le!');
+			document.frmComment.txtAddedByEmail.focus();
+			return;
+		}
+
+		document.frmComment.txtAddedByEmail.value = SEmail;
+
+		document.frmComment.txtAddedTitle.value = Trim(document.frmComment.txtAddedTitle.value);
+		if (document.frmComment.txtAddedTitle.value == '' || document.frmComment.txtAddedTitle.value == 'Tiêu đề')
+		{
+			alert('Xin hay nhap Tieu de!');
+			document.frmComment.txtAddedTitle.focus();
+			return;
+		}
+		
+		document.frmComment.txtValidCode.value = Trim(document.frmComment.txtValidCode.value);
+		if (document.frmComment.txtValidCode.value == '' || document.frmComment.txtValidCode.value == 'Mã xác nhận')
+		{
+			alert('Xin hay nhap Ma xac nhan!');
+			document.frmComment.txtValidCode.focus();
+			return;
+		}
+
+		document.frmComment.txtAddedContent.value = Trim(document.frmComment.txtAddedContent.value);
+		if (document.frmComment.txtAddedContent.value == '')
+		{
+			alert('Xin hay nhap Noi dung!');
+			document.frmComment.txtAddedContent.focus();
+			return;
+		}
+
+		if (!confirm('Gui yeu cau?'))
+			return;
+			
+		var status = AjaxRequest.submit(
+			theform
+			,{
+				'onSuccess':function(req){
+					if(req.responseText=='ValidCode'){
+						alert('Ma xac nhan khong dung!');
+					}
+					else{
+						alert(req.responseText);
+						ResetDefault();
+					}
+				}
+				,'onError':function(req){
+					alert(req.responseText);
+				}
+			}
+		);
+		return status;
+	}
+	
+	function ChangeImage() {			
+		var ranNum = Math.floor(Math.random() * 5);
+
+		AjaxRequest.get(
+		  {
+			'onSuccess':function(req){
+				gmobj('imgValidCode').src = "/Service/Vote/securelog/image.asp?Code=" + ranNum;						
+			}
+			,'onError':function(req){					
+			}
+		  }
+
+		)
+    }
+	
+	function InputDefault() {
+		document.frmComment.txtAddedBy.value = '';		
+		document.frmComment.txtAddedByEmail.value = '';		
+		document.frmComment.txtAddedTitle.value = '';		
+		document.frmComment.txtValidCode.value = '';				
+		document.frmComment.txtAddedContent.value = '';
+		document.frmComment.txtAddedContent.focus();
+	}
+	
+	function ResetDefault() {
+		InputDefault();
+		ChangeImage();			
+	}
+</script>
+
+				</div>
+				
+				<div class="left-box" style="margin-top:5px;margin-bottom:5px;">						
+					<script language="javascript">					
+						ShowArticlebanner();										
+					</script>				
+				</div>
+				<div class="left-box">
+	<div class="box-top"><div class="box-bt"><div class="box-tL"></div><div class="box-tM">		C&#225;c tin kh&#225;c		</div><div class="box-tR"></div></div></div>
+	<div class="other-mid">
+		<ul>
+		<li><a href="/gl/ebank/thi-truong/2011/11/vietcombank-thoai-von-khoi-shinhan-vina/">Vietcombank thoái vốn khỏi Shinhan Vina<span>&nbsp;(15/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/hdbank-khai-truong-diem-giao-dich-theo-mo-hinh-moi/">HDBank khai trương điểm giao dịch theo mô hình mới<span>&nbsp;(15/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/shb-nhan-huan-chuong-lao-dong-hang-ba/">SHB nhận Huân chương lao động hạng ba<span>&nbsp;(15/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/mo-van-tin-dung-cho-bat-dong-san-tieu-dung/">Mở van tín dụng cho bất động sản, tiêu dùng<span>&nbsp;(15/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/se-cong-khai-no-xau-cac-ngan-hang/">Sẽ công khai nợ xấu các ngân hàng<span>&nbsp;(14/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/tienphong-bank-dat-doanh-nghiep-viet-nam-vang-2010/">TienPhong Bank đạt 'Doanh nghiệp Việt Nam Vàng 2010'<span>&nbsp;(14/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/tuan-mua-sam-truc-tuyen-2011/">Tuần mua sắm trực tuyến 2011<span>&nbsp;(12/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/lai-suat-huy-dong-vang-lap-dinh-moi/">Lãi suất huy động vàng lập đỉnh mới<span>&nbsp;(12/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/sot-ty-gia-ngan-hang-dang-ha-nhiet/">Sốt tỷ giá ngân hàng đang hạ nhiệt<span>&nbsp;(12/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/huy-dong-von-vnd-giam-trong-thang-10/">Huy động vốn VND giảm trong tháng 10<span>&nbsp;(11/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/gia-tang-tien-ich-danh-cho-khach-hang/">Gia tăng tiện ích dành cho khách hàng<span>&nbsp;(11/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/phan-mem-giai-phap-duoc-smartlink-chung-thuc/">Phần mềm giải pháp được Smartlink chứng thực<span>&nbsp;(10/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/gp-bank-la-thanh-vien-cua-master-card/">GP.Bank là thành viên của Master Card<span>&nbsp;(10/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/lai-suat-lien-ngan-hang-vot-len-36-5-mot-nam/">Lãi suất liên ngân hàng vọt lên 36,5% một năm<span>&nbsp;(10/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/techcombank-khai-truong-phong-giao-dich-linh-nam/">Techcombank khai trương phòng giao dịch Lĩnh Nam<span>&nbsp;(09/11)</span></a></li>
+		</ul>
+	</div>
+	<div class="box-down"></div></div>
+
+			</div>
+			
+			<div class="right-ct">
+				<div class="right-box">
+	<div class="rb-top">
+		<div class="tagAct" id="toolstab1" onclick="switchToolsTab(1);ShowCommunication()" style="margin: 0 3px 0 0;">
+			<a>
+				<span class="tagL"></span>
+				<span class="tagM" style="width: 66px;">Viễn thông</span>
+				<span class="tagR"></span>
+			</a>
+		</div>
+		<div class="tagNor" id="toolstab2" onclick="switchToolsTab(2);ShowByTicket()" style="margin: 0 3px 0 0;">
+			<a>
+				<span class="tagL"></span>
+				<span class="tagM" style="width: 95px;">Mua vé máy bay</span>
+				<span class="tagR"></span>
+			</a>
+		</div>
+		<div class="tagNor" id="toolstab3" onclick="switchToolsTab(3);ShowInternetBanking()" style="margin: 0px;">
+			<a>
+				<span class="tagL"></span>
+				<span class="tagM" style="width: 95px;">Internet-banking</span>
+				<span class="tagR"></span>
+			</a>
+		</div>
+	</div>
+	<div class="rb-mid" id="dToolsCom">
+		<a href="/Extend/Thanh-toan-truc-tuyen/?srv=1&pdr=VMS"><img src="/Images/eBank/smart-bill.gif" alt=""></a>
+		<a href="/Extend/Thanh-toan-truc-tuyen/"><img src="/Images/eBank/smart-topup.gif" alt=""></a>
+	</div>
+	<div class="rb-mid" id="dByTicket" style="padding:9px 3px 5px; width:300px; overflow:hidden; display:none;">		
+		<div class="content-UF-mid" align="center">
+			<a href="http://vietnamairlines.com/wps/portal/vn/site/home?country=vietnam " target="_blank">
+				<img src="/Images/ebank/home/VNA_300x125_160911.jpg" style="width: 290px; border:0;" alt="" />
+			</a>
+		</div>
+	</div>
+	<div class="rb-mid" id="dIBanking" style="display:none; font-family:Arial; font-size:12px; color: #416FA6;">				
+		<p><span style="font-weight: bold;">Vietcombank </span><a href="http://www.vietcombank.com.vn/EBanking/IBanking/" target="_blank">www.vietcombank.com.vn/EBanking/IBanking/</a></p>
+		<div class="solid2"></div>
+		<p><span style="font-weight: bold;">SHB </span>		
+			<a href="https://ibanking.shb.com.vn/ibhome.aspx" target="_blank">https://ibanking.shb.com.vn/ibhome.aspx</a>
+			</p>
+		<div class="solid2"></div>		
+		<p><span style="font-weight: bold;">Techcombank </span><a href="https://tib.techcombank.com.vn/scripts/tiblive" target="_blank">https://tib.techcombank.com.vn/scripts/tiblive</a></p>
+		<div class="solid2"></div>
+		<p><span style="font-weight: bold;">MilitaryBank </span><a href="http://www.militarybank.com.vn/nhdt/internetbanking.asp" target="_blank">militarybank.com.vn/nhdt/internetbanking.asp</a></p>
+		<div class="solid2"></div>
+		<p><span style="font-weight: bold;">Eximbank </span><a href="https://ebanking.eximbank.com.vn/ebanking/" target="_blank">https://ebanking.eximbank.com.vn/ebanking/</a></p>
+		<div class="solid2"></div>
+		<p><span style="font-weight: bold;">ACB </span><a href="http://acbcard.com.vn/index.php?option=com_content&view=article&id=172&Itemid=107" target="_blank">http://acbcard.com.vn/index.php?option=com_content&view=article&id=172&Itemid=107</a></p>
+		<div class="solid2"></div>
+		<p><span style="font-weight: bold;">Maritimebank </span><a href="http://www.msb.com.vn/b1-san-pham-dich-vu/c-ngan-hang-dien-tu/a-internet-banking" target="_blank">http://www.msb.com.vn/b1-san-pham-dich-vu/c-ngan-hang-dien-tu/a-internet-banking</a></p>
+		<div class="solid2"></div>
+		<p><span style="font-weight: bold;">SCB </span><a href="https://ibanking.scb.com.vn/scb.ibs/" target="_blank">https://ibanking.scb.com.vn/scb.ibs/</a></p>
+		<div class="solid2"></div>
+		<p><span style="font-weight: bold;">VIB </span><a href="https://www.vib4u.com.vn/" target="_blank">https://www.vib4u.com.vn/</a></p>
+		<div class="solid2"></div>
+		<p><span style="font-weight: bold;">OCB </span><a href="https://ebanking.ocb.com.vn" target="_blank">https://ebanking.ocb.com.vn</a></p>
+		<div class="solid2"></div>
+		<p><span style="font-weight: bold;">HDBank </span><a href="https://ebanking.hdbank.vn/ebanking/" target="_blank">https://ebanking.hdbank.vn/ebanking/</a></p>
+		<div class="solid2"></div>
+		<p><span style="font-weight: bold;">Sacombank </span><a href="https://www.e-sacombank.com.vn/sacomweb/index.stb" target="_blank">https://www.e-sacombank.com.vn/sacomweb/index.stb</a></p>
+		<div class="solid2"></div>
+		<p><span style="font-weight: bold;">DongA Bank </span><a href="https://ebanking.dongabank.com.vn/login.jsp" target="_blank">https://ebanking.dongabank.com.vn/login.jsp</a></p>
+		<div class="solid2"></div>
+		<p><span style="font-weight: bold;">TienPhongBank </span><a href="http://www.tpb.com.vn/vn/khach-hang-ca-nhan/ngan-hang-dien-tu/internet-banking" target="_blank">http://www.tpb.com.vn/vn/khach-hang-ca-nhan/ngan-hang-dien-tu/internet-banking</a></p>
+	</div>
+	<div class="rb-mid" id="dNotComplete" style="display:none;">
+		<div class="content-UF">
+			<div class="content-UF-top">
+				<div class="content-UF-top2"></div>
+			</div>
+			<div class="content-UF-mid">
+				<img src="/Images/ebank/home/notComplete.gif" alt="" />
+			</div>
+			<div class="content-UF-bottom">
+				<div class="content-UF-bottom2"></div>
+			</div>
+		</div>
+	</div>	
+ <div class="rb-down"></div>		               		               
+</div>
+<script type="text/javascript" language="javascript">
+	function switchToolsTab(i){		
+		for(var j=1; j<4; j++){
+			if(i==j){				
+				gmobj('toolstab' + j).className = 'tagAct';				
+			}
+			else{
+				gmobj('toolstab' + j).className = 'tagNor';
+			}
+		}
+	}
+	
+	function ShowNotComplete(){
+		gmobj('dToolsCom').style.display = 'none';
+		gmobj('dNotComplete').style.display = '';
+		gmobj('dByTicket').style.display = 'none';
+		gmobj('dIBanking').style.display = 'none';
+	}
+	
+	function ShowCommunication(){
+		gmobj('dToolsCom').style.display = '';
+		gmobj('dNotComplete').style.display = 'none';
+		gmobj('dByTicket').style.display = 'none';
+		gmobj('dIBanking').style.display = 'none';
+	}
+	
+	function ShowInternetBanking(){
+		gmobj('dToolsCom').style.display = 'none';
+		gmobj('dNotComplete').style.display = 'none';
+		gmobj('dByTicket').style.display = 'none';
+		gmobj('dIBanking').style.display = '';
+	}
+	
+	function ShowByTicket(){
+		gmobj('dToolsCom').style.display = 'none';
+		gmobj('dNotComplete').style.display = 'none';
+		gmobj('dByTicket').style.display = '';
+		gmobj('dIBanking').style.display = 'none';
+	}
+</script>					
+				<div class="box-item">
+					<script type="text/javascript">
+						Poly_ShowAdsContext();
+					</script>
+				</div>
+				<div class="right-box">
+	<div class="thanhtoan">
+<div class="tt-tit">
+	<div class="tt-tL"></div>
+	<div class="tt-tM">
+		<script type="text/javascript" language="javascript">writeListItemTitle(602);</script>
+	</div>
+	<div class="tt-tR"></div>
+</div>
+		<div class="tt-ct" id="ListItem602">
+			<script type="text/javascript" language="javascript">showlistitem(1, 602, 4);</script>
+		</div>
+		<div class="rb-down"></div>
+	</div>
+</div>
+<div class="right-box">
+	<div class="thanhtoan">
+<div class="tt-tit">
+	<div class="tt-tL"></div>
+	<div class="tt-tM">
+		<script type="text/javascript" language="javascript">writeListItemTitle(603);</script>
+	</div>
+	<div class="tt-tR"></div>
+</div>
+		<div class="dt-ct" id="ListItem603">
+			<script type="text/javascript" language="javascript">showlistitem(2, 603, 4);</script>
+		</div>
+		<div class="rb-down"></div>
+	</div>
+</div>
+<div class="right-box">
+	<div class="thanhtoan">
+<div class="tt-tit">
+	<div class="tt-tL"></div>
+	<div class="tt-tM">
+		<script type="text/javascript" language="javascript">writeListItemTitle(605);</script>
+	</div>
+	<div class="tt-tR"></div>
+</div>
+		<div class="tt-ct" id="ListItem605">
+			<script type="text/javascript" language="javascript">showlistitem(1, 605, 4);</script>
+		</div>
+		<div class="rb-down"></div>
+	</div>
+</div>
+</div>
+		
+		<div class="ad">
+			<div class="Pserch">
+				<script language="javascript" type="text/javascript">ShowSearch();</script>
+			</div>
+	<Script type="text/javascript" language="JavaScript">Poly_ShowBasicRight(1);</Script>
+			</div></div>
+			<div id="footer">
+				<div class="footer-up">
+					<img src="/Images/Ebank/newsBank/addressIcon.gif" alt=""/>
+					Địa chỉ: Tầng 4 Tòa nhà Hà thành Plaza, 102 Thái Thịnh, Đống Đa, Hà Nội.
+					<img src="/Images/Ebank/newsBank/telephoneIcon.gif" alt=""/>
+					Điện thoại: 04-73008899 (Ext.4513).
+					<img src="/Images/Ebank/newsBank/email.gif" alt=""/>
+					<a href="mailto:ebank@vnexpress.net">Email: ebank@vnexpress.net </a>
+				</div>
+				<div class="footer-down">
+					<div class="footerL"></div>
+					<div class="footerM">
+						<div class="f_left">
+							Chuyên mục tài chính ngân hàng của
+							<span>Vnexpress.</span>
+						</div>
+						<div class="f_right">© Copyright 1997-2009 Vnexpress.net, All right reserved <a href="/ContactUs/?id=webmaster@vnexpress.net">Contact us</a> - <a onclick="ContactUs()">Thông tin Tòa soạn</a> - ® VnExpress giữ bản quyền nội dung trên website này. </div>
+					</div>
+					<div class="footerR"/>
+				</div>
+			</div>
+		</div>
+		  	
+	<div style="float:left;">		
+		<img src="http://180.148.142.10/website/vnexpress/?VisitorID=7E4174BD-D860-4E48-AE93-FDC752D307D7&OldVisit=0&Visited=&PageFolder=613&PageID=1002161078&Referer=&iTime=11/15/2011 10:49:57 PM" border=0>
+		
+	</div>
+		
+		<link href="http://180.148.142.152/Library/2.css" rel="Stylesheet" style="text/css"> 
+		<link href="http://180.148.142.152/Library/default.css" rel="stylesheet" type="text/css">
+		<script type="text/javascript" src="http://180.148.142.152/Library/AdLibNew.js"></script>
+		<script type="text/javascript" src="http://180.148.142.152/Library/Lib.js"></script>
+		<script type="text/javascript" src="http://180.148.142.152/Library/EBLibraryNew.js"></script>
+		<script src="http://180.148.142.152/Vals/1/0/613/Val.js" type="text/javascript"></script>		
+		<script type="text/javascript">Poly_ShowAds();</script>
+	</body>			
+</html>

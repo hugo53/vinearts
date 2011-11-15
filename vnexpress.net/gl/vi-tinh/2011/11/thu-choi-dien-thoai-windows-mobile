@@ -1,0 +1,1015 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />		
+		
+		<meta name="robots" content="INDEX,FOLLOW" />
+			
+		<meta name="description" content="Mặc dù không còn thịnh hành như cách đây vài năm, điện thoại chạy hệ điều hành Windows Mobile vẫn còn được nhiều người sưu tầm và sử dụng." />
+			
+		<title>Thú chơi điện thoại Windows Mobile - VnExpress</title>
+			
+		<meta name="keywords" content="Windows Mobile,thú chơi điện thoại Windows Mobile,smartphone" />	
+		
+		<meta http-equiv="REFRESH" content="3600" />
+		
+		<link rel="stylesheet" href="/Resource/Common/default.css" type="text/css" />	
+		<link href="http://180.148.142.152/Library/AdsNov.css" rel="Stylesheet" style="text/css"> 		
+		
+		<link rel="alternate" type="application/rss+xml" title="VnExpress - RSS" href="/RSS/GL/trang-chu.rss" />
+			
+		
+		<script type="text/javascript" language="javascript" src="/Library/Common/Library.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/Vne.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/FlashMedia.js"></script>						
+        <script type="text/javascript" language="javascript" src="/Library/Common/AjaxRequest.js"></script>
+		<script type="text/javascript" language="javascript" src="/Library/Common/vietUni.js"></script>
+		<script type="text/javascript" language="javascript" src="/Resource/00/ArrMenu.js"></script>        				
+		<script type="text/javascript" language="javaScript">
+			var PAGE_SITE=0;
+			var PAGE_FOLDER=89;	
+			var PAGE_ID=1002161084;	
+			var DOMESTIC_IP=1;	
+			setTypingMode(1);
+				
+			sLoDID=sLoDID.concat('1002161084').concat(',');
+			
+		</script>
+		<script type="text/javascript" language="javascript" src="/Resource/Common/Menu.js"></script>
+		
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-249346-1']);
+		_gaq.push(['_trackPageview']);
+		
+		_gaq.push(['b._setAccount', 'UA-249346-21']);
+		_gaq.push(['b._trackPageview']);
+		
+		_gaq.push(['c._setAccount', 'UA-249346-22']);
+		_gaq.push(['c._trackPageview']);
+		
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	
+		<script src="/Library/Common/jquery-1.6.3.min.js"></script>		
+		
+<script type="text/javascript" src="/library/Common/VNEShowAds.js"></script>
+<script src="/library/common/rs.js" type="text/javascript"></script>
+
+	</head>
+	<body>	
+		
+				
+		<input type="hidden" id="CurrentBrowserWidth" value="" />
+		<input type="hidden" id="ShowBackground" value="1" />
+		<div id="divSlideResultLeft" style="background-repeat:no-repeat;background-position:right top;over-flow:hidden;cursor:pointer;text-align:right;padding:0px;position: fixed!important;position: absolute; /*ie6 and above*/;left: 0px; top: 0px;overflow:hidden;"></div>
+		<div id="divSlideResultRight" style="background-repeat:no-repeat;over-flow:hidden;cursor:pointer;text-align:left;padding:0px;position: fixed!important; position: absolute; /*ie6 and above*/;right: 0px; top: 0px;overflow:hidden;"></div>				
+		
+		<div id="outter">		
+		<div id="divMove" style="width:1000px;">
+		<div class="fpr2">
+			<div id="header">
+				<div id="logoEH" class="logo fl" >
+					
+					<a onfocus="this.blur()" hidefocus="" href="/"><img class="img-logo" src="/Images/blank.gif" alt="" /></a>
+					
+				</div>
+				<div id="topbannerEH" class="topbanner fr">
+					
+					<table border="0" cellpadding="0" cellspacing="0" style="width:100%;">
+						<tr>
+							<td style="vertical-align:middle">
+																
+									<script type="text/javascript" language="javascript">
+										Poly_ShowTopBanner();
+									</script>								
+								
+							</td>                           
+						</tr>
+					</table>				
+					
+				</div>
+			</div>			
+		</div>				
+		<div id="menu">
+	<div class="searchmenu">
+		<div class="fl icone"></div>
+		<div class="drss fl"><a href="/GL/RSS/" class="link-rss lnkrss">RSS<span></span></a></div>
+		<div id="mn-search" class="search fr">
+			<form onsubmit="return CheckValue(document.Search.s);" action="http://search.vnexpress.net/news" id="Search" name="Search">
+				<span class="fl borright"></span>
+				<input type="text" value="Từ khóa tìm kiếm" onfocus="SearchOnFocus(this)" onkeydown="" onkeyup="initTyper(this)" onblur="SearchOnBlur(this)" id="s" name="s" class="txtsearch fl">
+				<img onclick="return CheckValue(document.Search.s);" alt="" src="/images/blank.gif" class="img-search fl">
+				<input type="hidden" value="66FD8EC7-FA76-4A7C-8FE3-DB605B4C9CE0" name="g">
+				<input type="hidden" value="yes" name="butS">
+			</form>
+		</div>
+	</div>
+	<!--[if lte IE 6]><a id="lnkIE6" href="#"><table cellpadding=0 cellspacing=0 style="border: 0; margin: 0; padding: 0; width: 1000px; height: 25px;"><tr><td><![endif]-->
+	<div class="menu">
+		<ul>
+			<li><div class="fl mn-borleft"></div></li>
+			
+			<li>
+				<a href="/"><span class="pmenuL"></span><span class="pmenuM">Trang nhất</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<!--<ul style="padding: 0px; height: 16px">
+					<div class="fl icone"></div>
+					<div class="drss fl"><a href="/GL/RSS/" class="link-rss">RSS <span></span></a></div>
+				</ul>-->
+				<ul class="smenu-home">	
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+					<li class="lnknews24h"><a href="/gl/24h-qua/"></a></li>
+					<li class="ico-ct-wrap">
+						<span class="fl ico-ct"></span>
+						<p class="fl phonect"><span>0123.888.0123</span> (HN) - <span>0129.233.3555</span> (TP.HCM)</p>
+					</li>				
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/video/"><span class="pmenuL"></span><span class="pmenuM">Video</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">													
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/xa-hoi/"><span class="pmenuL"></span><span class="pmenuM">Xã hội</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li><a href="/gl/xa-hoi/giao-duc/">Giáo dục</a></li>
+					<li><a href="/gl/xa-hoi/nhip-dieu-tre/">Nhịp điệu trẻ</a></li>
+					<li><a href="/gl/xa-hoi/du-lich/">Du lịch</a></li>
+					<li><a href="/gl/xa-hoi/co-hoi-du-hoc/">Du học</a></li>												
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/the-gioi/"><span class="pmenuL"></span><span class="pmenuM">Thế giới</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->				
+				<ul class="smenu-other">					
+					<li><a href="/gl/the-gioi/cuoc-song-do-day/">Cuộc sống đó đây</a></li>
+					<li><a href="/gl/the-gioi/anh/">Ảnh</a></li>
+					<li><a href="/gl/the-gioi/nguoi-viet-5-chau/">Người Việt 5 châu</a></li>
+					<li><a href="/gl/the-gioi/phan-tich/">Phân tích</a></li>
+					<li><a href="/gl/the-gioi/tu-lieu/">Tư liệu</a></li>								
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/kinh-doanh/"><span class="pmenuL"></span><span class="pmenuM">Kinh doanh</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->					
+				<ul class="smenu-other">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/gl/ebank/">Ebank</a></li>
+					<li><a href="/gl/kinh-doanh/chung-khoan/">Chứng khoán</a></li>
+					<li><a href="/gl/kinh-doanh/bat-dong-san/">Bất động sản</a></li>
+					<li><a target="_blank" href="http://nhadep.vnexpress.net/gl/nha-dep/">Nhà đẹp</a></li>
+					<li><a href="/gl/kinh-doanh/kinh-nghiem/">Doanh nhân</a></li>
+					<li><a href="/gl/kinh-doanh/quoc-te/">Quốc tế</a></li>
+					<li><a href="/gl/doi-song/mua-sam/">Mua sắm</a></li>
+					<li><a href="/gl/kinh-doanh/doanh-nghiep-viet/">Doanh nghiệp viết</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/van-hoa/"><span class="pmenuL"></span><span class="pmenuM">Văn hóa</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">					
+					<li><a href="/gl/van-hoa/hoa-hau/">Hoa hậu</a></li>
+					<li><a href="/gl/van-hoa/guong-mat-nghe-sy/">Nghệ sỹ</a></li>
+					<li><a href="/gl/van-hoa/am-nhac/">Âm nhạc</a></li>
+					<li><a href="/gl/van-hoa/thoi-trang/">Thời trang</a></li>
+					<li><a href="/gl/van-hoa/san-khau-dien-anh/">Điện ảnh</a></li>
+					<li><a href="/gl/van-hoa/my-thuat/">Mỹ thuật</a></li>
+					<li><a target="_blank" href="http://evan.vnexpress.net/">Văn học</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/the-thao/"><span class="pmenuL"></span><span class="pmenuM">Thể thao</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smsport"><a href="/gl/the-thao/bong-da/">Bóng đá</a></li>
+					<li><a href="/gl/the-thao/tennis/">Tennis</a></li>
+					<li><a href="/gl/the-thao/chan-dung/">Chân dung</a></li>
+					<li><a href="/gl/the-thao/anh-video/">Ảnh - Video</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="http://seagames.vnexpress.net/" target="_blank"><span class="pmenuL"></span><span class="pmenuM">SEA Games 26</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li class="smseagames26"><a href="http://seagames.vnexpress.net/tin/lich-dau/" target="_blank">Lịch đấu</a></li>
+					<li><a href="http://seagames.vnexpress.net/tin/xep-hang/" target="_blank">Bảng xếp hạng</a></li>					
+					<li><a href="http://seagames.vnexpress.net/tin/bong-da/" target="_blank">Bóng đá</a></li>					
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/phap-luat/"><span class="pmenuL"></span><span class="pmenuM">Pháp luật</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smlaw"><a href="/gl/phap-luat/hinh-su/">Hình sự</a></li>
+					<li><a href="/gl/phap-luat/ky-su/">Ký sự</a></li>
+					<li><a href="/gl/phap-luat/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/doi-song/"><span class="pmenuL"></span><span class="pmenuM">Đời sống</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smlife"><a href="/gl/doi-song/cau-chuyen-cuoc-song/">Câu chuyện cuộc sống</a></li>
+					<li><a href="/gl/doi-song/gia-dinh/">Gia đình</a></li>
+					<li><a href="/gl/suc-khoe/">Sức khỏe</a></li>
+					<li><a href="/gl/doi-song/am-thuc/">Ẩm thực</a></li>
+					<li><a href="/gl/suc-khoe/lam-dep/">Làm đẹp</a></li>
+					<li><a href="/gl/doi-song/blog/">Cửa sổ Blog</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/khoa-hoc/"><span class="pmenuL"></span><span class="pmenuM">Khoa học</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smscience"><a href="/gl/khoa-hoc/moi-truong/">Môi trường</a></li>
+					<li><a href="/gl/khoa-hoc/thien-nhien/">Thiên nhiên</a></li>
+					<li><a href="/gl/khoa-hoc/anh/">Ảnh</a></li>
+					<li><a href="/gl/khoa-hoc/ky-thuat-moi/">Công nghệ mới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li class="active"><a href="/gl/vi-tinh/"><span class="pmenuL"></span><span class="pmenuM">Vi tính</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+			
+				<ul class="smenu-other">										
+					<li class="smmicrocalculate"><a href="/gl/vi-tinh/san-pham-moi/">Sản phẩm mới</a></li>
+					<li><a href="/gl/vi-tinh/kinh-nghiem/">Kinh nghiệm</a></li>
+					<li><a href="/gl/vi-tinh/giai-tri/">Giải trí</a></li>
+					<li><a href="/gl/vi-tinh/hoi-dap/">Hỏi đáp</a></li>
+					<li><a href="/gl/vi-tinh/hacker-virus/">Hacker &amp; Virus</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/oto-xe-may/"><span class="pmenuL"></span><span class="pmenuM">Ôtô - Xe máy</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">					
+					<li class="smcar"><a href="/gl/oto-xe-may/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/ban-doc-viet/"><span class="pmenuL"></span><span class="pmenuM">Bạn đọc</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-bdv">					
+					<li><a href="/gl/ban-doc-viet/khoa-hoc/">Khoa học</a></li>						
+					<li><a href="/gl/ban-doc-viet/doi-song/">Đời sống</a></li>
+					<li><a href="/gl/ban-doc-viet/phap-luat/">Pháp luật</a></li>
+					<li><a href="/gl/ban-doc-viet/xa-hoi/">Xã hội</a></li>
+					<li><a href="/gl/ban-doc-viet/kinh-doanh/">Kinh doanh</a></li>
+					<li><a href="/gl/ban-doc-viet/the-thao/">Thể thao</a></li>
+					<li><a href="/gl/ban-doc-viet/van-hoa/">Văn hoá</a></li>
+					<li><a href="/gl/ban-doc-viet/the-gioi/">Thế giới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/ban-doc-viet/tam-su/"><span class="pmenuL"></span><span class="pmenuM">Tâm sự</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other"></ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/rao-vat/"><span class="pmenuL"></span><span class="pmenuM">Rao vặt</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-raovat">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/cuoi/"><span class="pmenuL"></span><span class="pmenuM">Cười</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-bdv">
+					<li><a href="/gl/cuoi/video/">Video</a></li>
+					<li><a href="/gl/cuoi/tieu-pham/">Tiểu phẩm</a></li>						
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+		</ul>
+	</div><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</div>
+
+		<div id="content">			
+			
+			<div class="content-center fl">			
+			<div class="folder-header">
+	<script type="text/javascript" language="javascript">writeFolderTitle(PAGE_FOLDER);</script>
+	<div class="fr">Th&#7913; ba, 15/11/2011, 00:00 GMT+7</div>
+</div>
+<div class="email-print txtr">
+	<script>
+	writeSociable('http://vnexpress.net/gl/vi-tinh/2011/11/thu-choi-dien-thoai-windows-mobile/','Thú+chơi+điện+thoại+Windows+Mobile','Thú+chơi+điện+thoại+Windows+Mobile','sociable',1002161084);
+	</script>
+<font onClick="return EmailSubject(1002161084)"><img border="0" src="/Images/email.gif" align="bottom">&nbsp;E-mail</font>
+&nbsp;&nbsp;&nbsp;<font onClick="return PrintSubject()"><img border="0" src="/Images/print.gif" align="bottom">&nbsp;B&#7843;n In</font>
+</div>
+
+				<div class="content">
+					<div style="overflow:hidden" cpms_content="true">
+				<H1 class=Title>Thú chơi điện thoại Windows Mobile</H1>
+<H2 class=Lead>Mặc dù không còn thịnh hành như cách đây vài năm, điện thoại chạy hệ điều hành Windows Mobile vẫn còn được nhiều người sưu tầm và sử dụng.</H2>
+<P class=Normal>Các dòng máy Windows Mobile thường được chọn là O2 XDA Exec, HTC HD, HTC Touch 2... Những điện thoại này hỗ trợ khá tốt nhiều ứng dụng văn phòng và các tính năng giải trí.</P>
+<P class=Normal>Hùng Minh, thành viên một diễn đàn công nghệ, cho biết thích sử dụng Windows Mobile vì nó có nhiều nét tương đồng với hệ điều hành Windows trên máy PC. </P>
+<P class=Normal>"Máy chạy ổn định các ứng dụng Office, Mail, Map, có khả năng chạy đa nhiệm. Tôi cũng thường xuyên 'vọc' máy bằng cách up rom, cài đặt tùy biến giao diện như Winterface, SPB Mobile Shell, Pointui Home 2 Pro...", anh Minh nói.</P>
+<TABLE cellSpacing=0 cellPadding=3 width=1 align=center border=0>
+<TR>
+<TD><IMG src="/Files/Subject/3b/bb/c3/bc/office.JPG" width=490 height=350 border=1 /></TD></TR>
+<TR>
+<TD class="Image" align="center">Windows Mobile hỗ trợ nhiều ứng dụng văn phòng. Ảnh: <EM>Hà Mai.</EM></TD></TR></TABLE>
+<P class=Normal>Anh Thái, thành viên diễn đàn <EM>Winphoneviet, </EM>đang dùng HTC Touch II (P3452) và HTC HD2 (T8585). Cả hai máy đều được nâng cấp lên bản rom Windows Mobile 6.5 mới nhất. </P>
+<P class=Normal>Theo Anh Thái, Windows Mobile là một hệ điều hành lâu đời nên tạo được một cộng đồng rộng rãi, có nhiều ứng dụng và tính năng dành cho văn phòng, học tập và giải trí. "Điển hình nhất là máy Windows Mobile đều hỗ trợ cho bộ Office gồm Word, Excel, Powerpoint.. của Microsoft, giúp ích nhiều cho công việc", Thái nhấn mạnh.</P>
+<P class=Normal>Còn một thành viên khác đang dùng chiếc HTC Touch Pro I nhận xét chiếc điện thoại này không khác gì một chiếc máy tính thu nhỏ, đầy đủ chức năng với bàn phím QWERTY thuận tiện.</P>
+<P class=Normal>Theo nhiều người, điểm mạnh của Windows Mobile ngoài bộ Office thì giao diện quen thuộc, đơn giản, dễ sử dụng như Windows trên máy tính nên người dùng ít bỡ ngỡ, khả năng hoạt động đa nhiệm tốt. </P>
+<P class=Normal>Ngoài tính năng thoại cơ bản, người dùng còn tiếp cận được nhiều ứng dụng khác như phim, nhạc, game, từ điển trên Marketplace. Còn nếu muốn "vọc" nhiều hơn thì có thể lên mạng để tìm và tải về những room cook để nâng cấp cho máy.</P>
+<P class=Normal>Hiện nền tảng này không còn được Microsoft hỗ trợ, do đó, máy sẽ không có các bản cập nhật, nhiều thao tác trên màn hình nhỏ nên hạn chế và cảm ứng chưa mượt, máy bị treo, chụp hình chất lượng kém...</P>
+<P class=Normal>"Do điện thoại Windows Mobile sản xuất đã lâu nên người dùng cần cẩn trọng khi mua dòng máy này. Nên kiểm tra kỹ pin, độ nhạy màn hình, loa thoại và dùng thử xem máy hoạt động có ổn định hay không", anh Thanh Vũ, kỹ thuật viên điện thoại, phân tích.</P>
+<P class=Normal>Không chỉ là trào lưu cho "dân chơi", Windows Mobile còn thâm nhập vào cả giảng đường đại học. Thầy Nguyễn Phú Hòa, giảng viên khoa Hàng hải Đại học Giao thông Vận tải TP HCM, nhận xét việc ứng dụng công nghệ số vào thiết bị cầm tay (PDA hay PDA phone ) hết sức cần thiết.</P>
+<P class=Normal>"Ví dụ khi tàu hành trình trên biển , thông qua mạng Wi-Fi trên tàu (sử dụng hệ thống GMDSS qua vệ tinh), 3G hay GPRS, thuyền viên có thể cập những thông tin hàng hải cần thiết như thông số thủy triều, dự báo thời tiết , các cảnh báo an toàn hàng hải...", thầy Hòa chia sẻ.</P>
+<P class=Normal>Do vậy khoa Hàng hải đã tổ chức những buổi hội thảo cho sinh viên tiếp cận, có được cái nhìn tổng quan và chi tiết về tính năng , tiện ích, những điểm đặc trưng riêng của Windows Mobile và Windows Phone 7. Từ đó sinh viên có thể tải về nhiều chương trình dành cho ngành hàng hải trên Marketplace như hải đồ điện tử, la bàn số, các chương trình về thiên văn, địa văn... để ứng dụng vào thực tế.</P>
+<TABLE cellSpacing=0 cellPadding=3 width=1 align=center border=0>
+<TR>
+<TD><IMG src="/Files/Subject/3b/bb/c3/bc/sinh_vien.JPG" width=490 height=350 border=1 /></TD></TR>
+<TR>
+<TD class="Image">Sinh viên Đại học Giao thông Vận tải TP HCM tìm hiểu về tính năng và ứng dụng của thiết bị di động chạy Windows Phone trong một buổi hội thảo tổ chức tại trường. Ảnh: <EM DESIGNTIMESP="17825">ĐH GTVT TP HCM.</EM></TD></TR></TABLE>
+<P class=Normal>Ngoài ra, sinh viên đang dùng PDA hay PDA phone có thể tải về các tài liệu chuyên ngành dưới dạng file PDF được lưu trữ tại server của khoa Hàng hải, cập nhật các chương trình tiện ích trong học tập và giải trí trên trang diễn đàn winphoneviet.com.</P>
+<P class=Normal>Việc tiếp cận với các thiết bị số cầm tay sẽ giúp cho sinh viên làm quen, nâng cao khả năng học hỏi, tiếp thu công nghệ, rất có ích cho quá trình làm việc trên các tàu biển hiện đại của sinh viên sau khi ra trường.</P>
+<P class=Normal>"Hơn nữa giá thành các thiết bị chạy Windows Mobile chỉ khoảng dưới 3 triệu nhưng được tích hợp nhiều tính năng văn phòng và ứng dụng chuyên môn nên rất phù hợp với điều kiện kinh tế vốn khá eo hẹp của sinh viên", thầy Hòa tâm sự.</P>
+<P class=Normal align=right><STRONG DESIGNTIMESP="17831">Hà Mai</STRONG></P>
+			</div>
+			<div class="tag-parent"><img src='/Images/tags.gif' class="tag"><div class="tag-pos"><h3 class="tag-text"><a href='/tag/51267/windows-mobile/'>Windows Mobile</a>, <a href='/tag/74020/thu-choi-dien-thoai-windows-mobile/'>thú chơi điện thoại Windows Mobile</a>, <a href='/tag/4033/smartphone/'>smartphone</a></h3></div></div>
+			<div class="box-item" style="margin-top:5px;margin-bottom:5px;">
+			
+					<div style="border:1px solid #b7beb6; padding: 2px 3px;">
+						<div style="background-color: #d5d9de; padding: 5px 10px; margin-bottom:13px; font-weight:bold;">									
+							<table cellspacing="0" cellpadding="0" border="0" width="100%">
+								<tr>
+									<td>
+										<a name=aComment>&#221; ki&#7871;n b&#7841;n &#273;&#7885;c (<label style="color:#0033FF">19</label>)</a>
+									</td>
+									<td style="text-align:right; font-family:arial; font-size:11px; font-weight: normal;">
+										S&#7855;p x&#7871;p theo: 
+										<select name="cboOrder" id="cboOrder" onchange="OrderComment(this.value)" style="font-family:arial; font-size:11px; font-weight: normal;">
+											<option value="0" >Mới nhất</option>
+											<option value="1" selected>Cũ nhất</option>
+										</select>									
+									</td>
+								</tr>
+							</table>																		
+						</div>
+						<div style="height:400px; padding:0px 8px; overflow:auto; overflow-x: hidden;">								
+															
+							<div class="comment_ct">
+								<P class=Title>Không còn hợp thời</P>
+<P class=Normal>Các model windows moblie phone như các dòng máy O2 , đã xưa và không còn hợp thời nữa rồi, máy hay treo và đứng, hỗ trợ giải trí kém, cài đặt phức tạp và ngốn pin, nhất là các dòng máy cũ. Hiện giờ với tầm 3 triệu có thể có được iphone 3G hoặc 3GS, các ứng dụng trên đó thi cả GPS hoặc Ofiice đều có hết, với lại các office trên điện thoại chỉ dùng khi không có máy tính thì mới xài chứ soạn văn bản trên điện thoại chỉ nhức mắt và không hiệu quả. Chỉ để mở file coi và chỉnh sửa tạm thời thì điện thoại IOS làm cũng được. Nói chung sinh viên đừng nên xài để rồi lại tội nghiệp sinh viên. Lúc nào cũng phải khởi động lại hoặc hết pin và windows mobile không được tiếp tục hỗ trợ nữa thì nên cho vào viện bảo tàng là hợp lý</P>
+<P align=right class=Normal><I>( Loi )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>WM6 tuyệt vời</P>
+<P class=Normal>Mình thích cả giao diện với cách hoạt động của WM6 hơn WP7. O2 Atom Life một thời tung hoành thế giới di động.</P>
+<P align=right class=Normal><I>( Hào )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Windows Mobile vẫn hay</P>
+<P class=Normal>Gửi anh Loi. Tôi chỉ đồng với ý kiến của anh một phần. Với một người gắn bó với Windows như tôi nhiều năm thì tôi vẫn thích cái này. Mặc dù sử dụng điện thoại khác nhưng tôi vẫn còn 1 chiếc như này để sử dụng. Khi ngày xưa chưa có iPhone, khi mà Symbian vẫn còn kém thì Windows vẫn là tốt nhất. Cái lỗi mà phải khởi động lại đã được khắc phục nhiều. Với lại giữ máy lại để Vọc lúc rảnh rỗi hay là nghịch nó như chiếc máy tính cũng rất chi là hay. Giá rẻ và nói thật rất thích hợp với sinh viên. Phần mềm thì cũng rất nhiều. Đơn cử như chiếc B7320.</P>
+<P align=right class=Normal><I>( Mustang. )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Lợi thế riêng</P>
+<P class=Normal>Mỗi nền tảng HĐH có lợi thế và mục đích sử dụng riêng. Bản thân mình làm công việc chuyên về lĩnh vực IT gồm quản trị mạng và viết phần mềm trên nền tảng Windows. Nên mình thấy HĐH Windows Mobile có lẽ là tuyệt vời nhất đối với mình, nó tích hợp, hỗ trợ, đồng bộ và tương thích với máy tính Windows một cách chặt chẽ và chuyên nghiệp, iOS và Android hiện giờ không làm được điều đó, 2 HĐH này tiền thân được viết trên nền tảng sơ khai từ Unix nên kiến trúc bên trong hoàn toàn khác biệt với Windows. Hy vọng năm sau khi Windows 8 ra đời, các hãng công nghệ sẽ cho ra mắt các dòng smartphone và máy tính bảng (tablet) chạy nền win8 sẽ thịnh hành và phát triển mạnh hơn</P>
+<P align=right class=Normal><I>( CSMM )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Gửi bạn Lợi</P>
+<P class=Normal>Tôi nghĩ mỗi HĐH điều có cái riêng của nó. Đừng nên xài HĐH này mà chê HĐH khác. Ở đây bạn Lợi xài IOS chưa nó tốt hon các HĐH khác.</P>
+<P align=right class=Normal><I>( nguyen dinh )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>WM6 hay nhưng không phù hợp với người dùng phổ thông</P>
+<P class=Normal>WM6 hay nhưng chỉ phù hợp với người quen sử dụng windows, sẽ là cực hình nếu những người chưa dùng máy tính bao giờ mà lại mua phải cái WM6. Mong rằng Windows Phone vẫn giữ được nét hấp dẫn như WM6 nhưng lại có giao diện thân thiện với người dùng hơn.</P>
+<P align=right class=Normal><I>( Phạm Sơn )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>WinMo number one!</P>
+<P class=Normal>HĐH ưa thích của mình đó. Giờ vẫn đang xài WM6.5 đây nè. @Loi: Mỗi người đều có một sở thích riêng của mình bạn ạ. Bạn thích iOS nhưng mình lại không thích, đơn giản thế thôi bạn ạ.</P>
+<P align=right class=Normal><I>( Dũng )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Cái gì cũng lôi IPhone ra</P>
+<P class=Normal>Sao cái gì cũng lôi Iphone ra. Đang nói về WP mà.</P>
+<P align=right class=Normal><I>( Phuơng )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>WP is the best</P>
+<P class=Normal>@Loi: Anh advice giúp mình IP3 hay IP3GS nào mà giá tầm 3m vậy? sure là IP3 còn có thể. Mà chưa biết có trùng IMEI không, có bị đóng chip Wifi hay không nữa là.<BR><BR>Nếu mua được 1 con WP cũ ngon thì thật tuyệt. IP rất chán, từng xài qua và bán trong vòng 1 tuần... hiện giờ thì mình đã xài qua: O2 XDA Exec, O2 XDA Life, O2 XDA Atom Exec, Hd2 - đang xài. <BR><BR>Các fan IP hay khoe rằng IP duyệt web nhanh - nhưng ít chú biết rằng IP nó ko support flash. Làm sao mà so được. Thật là khập khiễng. Có lẽ đây chính là chiêu của IP để đánh lừa những người tiêu dùng kém hiểu biết.</P>
+<P align=right class=Normal><I>( Phuc Nguy3n )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Ít người biết dùng điện thoại smartfone</P>
+<P class=Normal>Theo như bài báo mình đọc thì không chỉ dân VN mà ngay cả dân Mỹ cũng chỉ có dưới 1% là chọn điện thoại vì biết và sử dụng được những tính năng công nghệ. Đa phần chạy theo trào lưu, và mẫu mã thiết kế. <BR>Mình dùng qua nhiều đời WP ......angel blue, HP6080, tytn, dimond pro, HD2 có thể nói là hệ điều hành này có tất cả các tính năng hiện đại từ rất nhiều năm nay như: Modem cho máy tính kế nối internet, trạm phát wifi chia sẻ internet cho các máy tính, chia sẻ file qua wifi và bluetooth như máy tính, GPS, đồng bộ dữ liệu ĐT với máy tính, internet server hay tài khoản email, ghi âm cuộc gọi, ghi âm kiểu phóng viên one note. Còn về phần mềm học hành thì chẳng thiếu gì như PDF reader, bộ office, từ điển tiếng việt, ebook reader, internet explorer, giải trí thì đầy đủ như , nghe nhạc, xem phim, chụp ảnh, quay phim, chỉnh ảnh, IM, facebook, youtube,.... với lại kho phần mềm marketplace hay các IOS hay adroid có thể nhiều nhưng đa phần 98% người sử dụng sử dụng các phần mềm có tính năng giống nhau và hữu ích trong khoảng 100 phần mềm phổ biến, ..... máy bạn có cài trên 100 phần mềm không, bạn đã tiếp cận được hết và sử dụng các tính năng trên chưa nếu chưa thì đừng nói lạc hậu. Các ĐT mới nhất hiện nay như IP5 hay các ĐT adroid cũng chỉ có đến vậy chức năng thôi, còn chức năng có thể nói là mới nhất trong ĐT hiện nay là chụp ảnh quay phim 3D thì cũng tích hợp trong hệ điều hành WP7 rồi, htc trophy có thể chơi các trò chơi 3D.</P>
+<P align=right class=Normal><I>( HVH )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Mình thật sự hài lòng về Win 6.5</P>
+<P class=Normal>Mình thật sự hài lòng về Win 6.5 trên điện thoại đang xài. Hỗ trợ tôt công việc của mình, nhièu khi lạc đường nhờ nó mà mình định hướng được, ngay cả khi ở vùng xa.Tính năng giải trí thi ok, tha hồ xem clip ( chất lượng cao)...HTC + Win 6.5...thế giới trong tầm tay.</P>
+<P align=right class=Normal><I>( Tuấn )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Tôi vẫn đang dùng Window Mobile và vẫn thấy hỗ trợ tốt</P>
+<P class=Normal>Tôi vẫn đang dùng 2 smartphone của HTC là Dopod U1000 và O2 XDA EXEC chạy Window Mobile thấy hỗ trợ vẫn tốt các tính năng quan đến 3G như duyệt web, mail. Còn xem phim và nghe nhạc... khi kết hợp với tai nghe Bluetooth MW600 của Sony Ericsson thì vẫn cảm thấy hài lòng. Nói chung chạy theo công nghệ thì không thể theo kịp, quan trọng là tùy mục đích sử dụng của từng người và cảm thấy phù hợp với mỗi người là ok thôi.</P>
+<P align=right class=Normal><I>( tnduat )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Gửi bạn Loi</P>
+<P class=Normal>bạn kiếm đâu ra IP 3G và 3GS tầm giá 3tr vậy bạn? nói chuyện như đùa,cầm 3tr bạn dám mua 1 cái ip 3G k? nếu có chỉ là hàng bệnh hoặc đã sửa rồi,còn 3GS hả? từ ngày mình sài dt chưa thấy cái 3GS nào 3tr hết trừ khi của tụi giựt đồ bán lại cho cửa hàng :(</P>
+<P align=right class=Normal><I>( phong )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Không chịu tiến bộ</P>
+<P class=Normal>Chỉ là một cách nhìn phiến diện của một số người không chịu tiến bộ, hoặc là lý lẽ đưa ra nhằm phủ nhận việc không có điều kiện để tiếp cận công nghệ mới hơn. Còn tất cả những điểm mạnh của Windows Mobile được nêu trong bài đều không thể so sánh với những hệ điều hành hiện đại hơn. Nếu cứ phải quen thuộc mới được thì chắc chúng ta nên tiếp tục sông với xã hội phong kiến, nơi không chấp nhận sự thay đổi nào.</P>
+<P align=right class=Normal><I>( Quách Minh )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Android quá tuyệt vời</P>
+<P class=Normal>Theo mình bạn Loi tư vấn thật đúng và chính xác. Mình đã từng dùng O2 xda hao pin, máy dê bị hư dù giá bán rất bèo dù sao dòng máy này cung gần 10 năm rồi. Các bạn là sinh viên cố găn mua laptop để hoc tập là goog nhất. Nếu thích di động mua máy chạy hệ điều hành Android quá tuyệt vời ứng dung phần mem nhiều, de cài đặt hơn windows mobile ( vì dùng vi tính down file .CAB về rồi mới bỏ vào thẻ nhớ cài mất công quá) trong khi android có săn kho ứng dụng không lồ. trong tuong lai kho xa nữa Android xe qua mặt iphone về chất luong máy lẫn cả phần mềm. Tại vì Android quá hay không cài đặt phức tạp như 2 loai kia cần kết nối đồng bộ dữ liệu... ( iphone va Windows Phone)Lúc cần thiết biên điên thoai android thanh usb cắm vào tivi đời mới để xem hay lấy tài liều bỏ vào vi tính .Trong khí đó iphone hoàn toàn không làm duoc diều này.</P>
+<P align=right class=Normal><I>( Xuan Huy )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Mình cũng thích dòng này</P>
+<P class=Normal>Mình là dân lập trình windows , nêu thich dùng điện thoại hệ điều hành windows Mobil, thích cái game nào tự viết và chơi thật là thích, dung mấy hệ điều hành khác viết phải nghiên cứu mết chết.</P>
+<P align=right class=Normal><I>( Nguyễn Đình Quang )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>WiMo</P>
+<P class=Normal>So sánh giữa WiMo với Ios thì chả khác nào so sánh thằng Sông Hồng với cả Hồ Bảy Mẫu (Ios). WiMo ra đời từ lúc thằng IOS chả biết đang nằm ở đâu trong đầu SJ, thê cho nên bạn @Loi à, Với sinh viên nghèo IPhone là 1 thứ hàng xa xỉ, một con công chúa đỏng đảnh, lỡ đánh rơi 1 cái thì ............ chắc cái này @Loi cũng biết há, Máy WiMo chạy thì độ trâu tró con Iphone phải gọi bằng thầy.... FanIphan @Loi nên tìm hiểu kĩ rồi hãy thốt ra những lời ca ngợi IOS đi nhé.</P>
+<P align=right class=Normal><I>( KT )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Vote cho WM</P>
+<P class=Normal>Hiện giờ mình đã chuyển qua BB rồi, ko còn dùng WM nữa. Chân thành mà nói sau 4 năm dùng iOS và 5 năm dùng WM, mình thấy WM còn hơn chán so với iOS. Các thiết bị của iOS là iPhone và iPad đều quá phụ thuộc vào màn cảm ứng, nên đôi khi rất bất tiện. Khả năng tuỳ biến cũng ko đc nhiều như WM. Đặc biệt là khả năng đa nhiệm của iOS càng ko thể nào so sánh với WM đc. Trong khi WM thì có nhiều loại máy, nhiều chức năng riêng để người dùng có thể lựa chọn. Khả năng đồng bộ với máy tính dễ dàng hơn nhiều so với iOS. Điểm kém của WM chỉ là sự lỗi thời, cũ kỹ, nhưng với những người có nhu cầu giải trí ko cao thì mình nghĩ WM ngon hơn nhiều so với iOS.</P>
+<P align=right class=Normal><I>( Cường Nguyễn )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Ứng dụng trên WM vô cùng phong phú</P>
+<P class=Normal>Tôi đã sử dụng Windows Mobile (WM) từ năm 2006, từ version 5.0, rồi tới 6.0, 6.1, 6.5. Theo tôi, WM6.1 là tốt nhất. Nói về ứng dụng trên WM thì có lẽ nói 1 ngày cũng không hết. Và hiện tại, tôi chưa có ý định từ bỏ WM mặc dù Microsoft đã không còn hỗ trợ nữa.</P>
+<P align=right class=Normal><I>( myphonui )</I></P>
+							</div>									
+						
+						</div>
+						<div style="background-color: #d5d9de; padding: 5px 10px; margin-top:13px; min-height:12px;">
+							
+						</div>
+						<!--<script type="text/javascript" language="javascript" src="/Library/Common/jquery.js"></script>-->
+						<script type="text/javascript" language="javascript">
+							$(document).ready(function(){
+								//$('div.comment_ct p.Title').css('font-size',17);
+							});
+						</script>
+						<script type="text/javascript" language="javascript">
+							function OrderComment(i){
+								setCookie('VOrderComment', '', '', i);
+								location.href = '/gl/vi-tinh/2011/11/thu-choi-dien-thoai-windows-mobile#aComment';
+							}									
+						</script>
+					</div>
+					
+<p id=pShow><a class=SForm onclick="ShowFormComment()"><img src="/Images/Y-kien-cua-ban.gif" border="0" style="cursor:pointer" alt="Ý kiến của bạn" /></a></p>
+<div id="dComment" class="dtopitem_all">
+	<form method="post" name="frmComment" id="frmComment" target="_blank" onsubmit="submitForm(this);return false;" action="/service/comment/submit.asp">
+		<div class="adword-hdf">&nbsp;</div>
+		<div class="adword adword-middle" style="padding-top:0px;">					
+			<div class="adword-nav2 fl" style="padding-top:10px; width:476px; background-color:#ffffff">
+				<div style="padding-bottom:5px; overflow:hidden;">
+					<div class="fl" style="width:60%">
+						<input type="text" value="Họ tên" name="txtAddedBy" id="txtAddedBy" style="width:280px;" size="29" onfocus="NameOnFocus(this)" onblur="NameOnBlur(this)" onkeyup="initTyper(this)" class="adword-textbox"">
+					</div>
+					<div class="fr" style="width:180px;">
+						<input type="text" value="Email" name="txtAddedByEmail" id="txtAddedByEmail" style="width:172px" size="29" onfocus="EmailOnFocus(this)" onblur="EmailOnBlur(this)" class="adword-textbox">
+					</div>
+				</div>
+				<div style="padding-bottom:5px; overflow:hidden;">
+					<div class="fl" style="width:60%">
+						<input type="text" value="Tiêu đề" name="txtAddedTitle" id="txtAddedTitle" style="width:280px;" size="29" onfocus="TitleOnFocus(this)" onblur="TitleOnBlur(this)" onkeyup="initTyper(this)" class="adword-textbox"">
+					</div>
+					<div class="fr" style="width:180px;">
+						<input type="text" value="Mã xác nhận" name="txtValidCode" id="txtValidCode" style="width:99px;" size="29" onfocus="ValidateCodeOnFocus(this)" onblur="ValidateCodeOnBlur(this)" onkeyup="initTyper(this)" class="adword-textbox"">
+						<img src="/Service/Vote/securelog/image.asp" name="imgValidCode" id="imgValidCode" style="vertical-align:top; height:20px; padding-top:1px">
+						&nbsp;<img src="/Images/change-image.gif" alt="Thay hình khác" onclick="ChangeImage()" style="vertical-align:top;cursor:pointer; padding-top:1px" />
+					</div>
+				</div>
+				<div style="overflow:hidden;">
+					<div class="fl" style="width:60%">
+						<input type="submit" value="G&#7917;i To&#224; so&#7841;n" name="B1" class="SForm">&nbsp;<input type="button" value="Xo&#225; tr&#7855;ng" name="B2" class="SForm" onclick="InputDefault();">&nbsp;<input type="button" value="&#272;&#243;ng l&#7841;i" class="SForm" onclick="ShowFormComment()">
+						<input type="hidden" name="txtT" id="txtT" value="1002161084" />
+						<input type="hidden" name="txtS" id="txtS" value="0" />
+						<input type="hidden" name="txtF" id="txtF" value="89" />
+						<input type="hidden" name="txtL" id="txtL" value="/gl/vi-tinh/2011/11/thu-choi-dien-thoai-windows-mobile" />
+					</div>
+					<div class="fl" style="width:40%; text-align:right;">
+						<input type="radio" name="optInput" value="0" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(0)">Off
+						<input type="radio" name="optInput" value="1" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(1)" checked>Telex
+						<input type="radio" name="optInput" value="2" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(2)">VNI
+						<input type="radio" name="optInput" value="3" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(3)">VIQR								
+					</div>
+				</div>				
+			</div>			
+			<div class="adword-nav2 fl" style="padding-top:0px;">
+				<textarea rows="10" name="txtAddedContent" id="txtAddedContent" cols="43" onkeyup="initTyper(this)" class="SForm" style="width: 470px"></textarea>				
+			</div>
+		</div>
+		<div class="adword-ftf">&nbsp;</div>
+	</form>
+</div>
+<script type="text/javascript">
+	var bshow = false;
+	
+	function ShowFormComment()	{
+		if(bshow){
+			gmobj('dComment').style.display="block";
+			gmobj('pShow').style.display="none";
+			bshow=false;
+		}
+		else{
+			gmobj('dComment').style.display="none";
+			gmobj('pShow').style.display="block";
+			bshow=true;
+		}
+	}
+	ShowFormComment();
+	
+	function submitForm(theform){
+		document.frmComment.txtAddedBy.value = Trim(document.frmComment.txtAddedBy.value);
+		if (document.frmComment.txtAddedBy.value == '' || document.frmComment.txtAddedBy.value == 'Họ tên')
+		{
+			alert('Xin hay nhap Ho ten!');
+			document.frmComment.txtAddedBy.focus();
+			return;
+		}
+
+		if ((SEmail = CheckEmailAddress(document.frmComment.txtAddedByEmail.value))=='')
+		{
+			alert('Dia chi Email khong hop le!');
+			document.frmComment.txtAddedByEmail.focus();
+			return;
+		}
+
+		document.frmComment.txtAddedByEmail.value = SEmail;
+
+		document.frmComment.txtAddedTitle.value = Trim(document.frmComment.txtAddedTitle.value);
+		if (document.frmComment.txtAddedTitle.value == '' || document.frmComment.txtAddedTitle.value == 'Tiêu đề')
+		{
+			alert('Xin hay nhap Tieu de!');
+			document.frmComment.txtAddedTitle.focus();
+			return;
+		}
+		
+		document.frmComment.txtValidCode.value = Trim(document.frmComment.txtValidCode.value);
+		if (document.frmComment.txtValidCode.value == '' || document.frmComment.txtValidCode.value == 'Mã xác nhận')
+		{
+			alert('Xin hay nhap Ma xac nhan!');
+			document.frmComment.txtValidCode.focus();
+			return;
+		}
+
+		document.frmComment.txtAddedContent.value = Trim(document.frmComment.txtAddedContent.value);
+		if (document.frmComment.txtAddedContent.value == '')
+		{
+			alert('Xin hay nhap Noi dung!');
+			document.frmComment.txtAddedContent.focus();
+			return;
+		}
+
+		if (!confirm('Gui yeu cau?'))
+			return;
+			
+		var status = AjaxRequest.submit(
+			theform
+			,{
+				'onSuccess':function(req){
+					if(req.responseText=='ValidCode'){
+						alert('Ma xac nhan khong dung!');
+					}
+					else{
+						alert(req.responseText);
+						ResetDefault();
+					}
+				}				
+				,'onError':function(req){
+					alert(req.responseText);
+				}
+			}
+		);
+		return status;
+	}
+	
+	function ChangeImage() {			
+		var ranNum = Math.floor(Math.random() * 5);
+
+		AjaxRequest.get(
+		  {
+			'onSuccess':function(req){
+				gmobj('imgValidCode').src = "/Service/Vote/securelog/image.asp?Code=" + ranNum;						
+			}
+			,'onError':function(req){					
+			}
+		  }
+
+		)
+    }
+	
+	function InputDefault() {
+		document.frmComment.txtAddedBy.value = 'Họ tên';
+		document.frmComment.txtAddedBy.className = 'adword-textbox';
+		document.frmComment.txtAddedByEmail.value = 'Email';
+		document.frmComment.txtAddedByEmail.className = 'adword-textbox';		
+		document.frmComment.txtAddedTitle.value = 'Tiêu đề';
+		document.frmComment.txtAddedTitle.className = 'adword-textbox';
+		document.frmComment.txtValidCode.value = 'Mã xác nhận';		
+		document.frmComment.txtValidCode.className = 'adword-textbox';
+		document.frmComment.txtAddedContent.value = '';
+		document.frmComment.txtAddedContent.focus();
+	}
+	
+	function ResetDefault() {
+		InputDefault();
+		ChangeImage();
+		
+		ShowFormComment();
+				
+	}
+</script>
+
+			</div>
+			
+			<div style="margin-top:5px;margin-bottom:5px;">							
+				<script language="javascript">					
+					Poly_ShowArticlebanner();										
+				</script>				
+			</div>
+		</div>				
+		<div class="folder-news">
+	<div class="boxnew-header">
+		<div class="boxnew-title fl">Tin mới</div>
+	</div>
+	<div class="boxnew">
+		<ul>
+		<li><a href="/gl/vi-tinh/2011/11/truong-dai-hoc-cung-dang-ky-ten-mien-sex/" class="link-othernews">Trường đại học cũng đăng ký tên miền sex</a><span style="color: #909090">&nbsp;(15/11)</span></li>
+		<li><a href="/gl/vi-tinh/2011/11/ipad-roi-tu-do-cao-400-met-van-chay-tot/" class="link-othernews">iPad rơi từ độ cao 400 mét vẫn chạy tốt</a>&nbsp;<img border="0" src="/Images/video2.gif" />&nbsp;
+<span style="color: #909090">&nbsp;(15/11)</span></li>
+		<li><a href="/gl/vi-tinh/san-pham-moi/2011/11/can-canh-dien-thoai-blackberry-chinh-hang-mong-nhat/" class="link-othernews">Cận cảnh điện thoại BlackBerry chính hãng mỏng nhất</a>&nbsp;<img border="0" src="/Images/photo2.gif" />
+<span style="color: #909090">&nbsp;(15/11)</span></li>
+		<li><a href="/gl/vi-tinh/san-pham-moi/2011/11/dam-may-lan-dau-duoc-ung-dung-trong-quan-tri-nhan-luc/" class="link-othernews">'Đám mây' lần đầu được ứng dụng trong quản trị nhân lực</a><span style="color: #909090">&nbsp;(15/11)</span></li>
+		<li><a href="/gl/vi-tinh/2011/11/tablet-dung-chip-loi-tu-dau-tien-cua-lenovo/" class="link-othernews">Tablet dùng chip lõi tứ đầu tiên của Lenovo</a>&nbsp;<img border="0" src="/Images/photo2.gif" />
+<span style="color: #909090">&nbsp;(15/11)</span></li>
+		</ul>
+	</div>
+</div>
+<div class="folder-news">
+	<div class="othernews-header">
+		<div class="othernews-title fl">C&#225;c tin kh&#225;c</div>
+		<div class="fr txtr" style="margin-bottom:5px;"><label onClick="history.go(-1)" class="Time" style="cursor:pointer">[<B>Tr&#7903; v&#7873;</B>]</label></div>
+	</div>
+	<div class="othernews">
+		<ul>
+		<li><a href="/gl/vi-tinh/2011/11/nhung-mau-thiet-ke-giao-thoa-giua-tablet-va-laptop/" class="link-othernews">Những mẫu thiết kế giao thoa giữa tablet và laptop</a>&nbsp;<img border="0" src="/Images/photo2.gif" />
+<span style="color: #909090">&nbsp;(13/11)</span></li>
+		<li><a href="/gl/vi-tinh/2011/11/nhung-tiet-lo-moi-ve-du-an-iphone-5/" class="link-othernews">Những tiết lộ mới về dự án iPhone 5</a>&nbsp;<img border="0" src="/Images/photo2.gif" />
+<span style="color: #909090">&nbsp;(12/11)</span></li>
+		<li><a href="/gl/vi-tinh/2011/11/nhung-dac-diem-se-no-ro-tren-smartphone-nam-2012/" class="link-othernews">Những đặc điểm sẽ nở rộ trên smartphone năm 2012</a><span style="color: #909090">&nbsp;(12/11)</span></li>
+		<li><a href="/gl/vi-tinh/2011/11/y-tuong-dien-thoai-nokia-cam-ung-toan-phan/" class="link-othernews">Ý tưởng điện thoại Nokia cảm ứng toàn phần</a>&nbsp;<img border="0" src="/Images/video2.gif" />&nbsp;
+<span style="color: #909090">&nbsp;(12/11)</span></li>
+		<li><a href="/gl/vi-tinh/2011/11/htc-sensation-xe-trinh-lang-voi-gia-gan-15-trieu-dong/" class="link-othernews">HTC Sensation XE trình làng với giá gần 15 triệu đồng</a><span style="color: #909090">&nbsp;(11/11)</span></li>
+		<li><a href="/gl/vi-tinh/2011/11/apple-cap-nhat-ios-5-de-sua-loi-pin/" class="link-othernews">Apple cập nhật iOS 5 để sửa lỗi pin</a>&nbsp;<img border="0" src="/Images/video2.gif" />&nbsp;
+<span style="color: #909090">&nbsp;(11/11)</span></li>
+		<li><a href="/gl/vi-tinh/2011/11/cu-dan-mang-lai-noi-song-vi-nhung-ke-ung-ho-keo-mut/" class="link-othernews">Cư dân mạng lại nổi sóng vì những kẻ ủng hộ 'Kẹo Mút'</a><span style="color: #909090">&nbsp;(10/11)</span></li>
+		<li><a href="/gl/vi-tinh/2011/11/smartphone-khong-phim-bam-chay-android-4-0-cua-htc/" class="link-othernews">Smartphone không phím bấm chạy Android 4.0 của HTC</a><span style="color: #909090">&nbsp;(10/11)</span></li>
+		<li><a href="/gl/vi-tinh/2011/11/hang-hieu-vertu-cam-ung-dau-tien-toi-vn/" class="link-othernews">'Hàng hiệu' Vertu cảm ứng đầu tiên tới VN</a>&nbsp;<img border="0" src="/Images/photo2.gif" />
+<span style="color: #909090">&nbsp;(10/11)</span></li>
+		<li><a href="/gl/vi-tinh/2011/11/anh-em-ultrabook-nha-asus-do-dang/" class="link-othernews">'Anh em' Ultrabook nhà Asus đọ dáng</a>&nbsp;<img border="0" src="/Images/video2.gif" />&nbsp;
+&nbsp;<img border="0" src="/Images/photo2.gif" />
+<span style="color: #909090">&nbsp;(10/11)</span></li>
+		<li><a href="/gl/vi-tinh/2011/11/amazon-tang-san-luong-kindle-fire-len-5-trieu/" class="link-othernews">Amazon tăng sản lượng Kindle Fire lên 5 triệu</a><span style="color: #909090">&nbsp;(10/11)</span></li>
+		<li><a href="/gl/vi-tinh/2011/11/flash-bi-khai-tu-tren-thiet-bi-di-dong/" class="link-othernews">Flash bị khai tử trên thiết bị di động</a><span style="color: #909090">&nbsp;(10/11)</span></li>
+		<li><a href="/gl/vi-tinh/2011/11/lang-cong-nghe-chon-ngay-luc-nhat-ra-mat-san-pham/" class="link-othernews">Làng công nghệ chọn ngày 'lục nhất' ra mắt sản phẩm</a><span style="color: #909090">&nbsp;(10/11)</span></li>
+		<li><a href="/gl/vi-tinh/2011/11/mau-dslr-cao-cap-nhat-cua-canon-bat-ngo-xuat-hien-o-vn/" class="link-othernews">Mẫu DSLR cao cấp nhất của Canon bất ngờ xuất hiện ở VN</a>&nbsp;<img border="0" src="/Images/photo2.gif" />
+<span style="color: #909090">&nbsp;(10/11)</span></li>
+		<li><a href="/gl/vi-tinh/2011/11/thiet-bi-bien-iphone-4-thanh-dien-thoai-2-sim-2-song/" class="link-othernews">Thiết bị biến iPhone 4 thành điện thoại 2 sim 2 sóng</a>&nbsp;<img border="0" src="/Images/photo2.gif" />
+<span style="color: #909090">&nbsp;(10/11)</span></li>
+		</ul>
+	</div>
+</div>
+
+		</div>
+	<div class="content-left fl">		
+	<div class="linksite-box" style="padding:0px;">
+	<img alt="Link Site" src="/Images/Linksite/site2.gif" usemap="#ctmap" class="img-linksite"/>
+	<map id="ctmap" name="ctmap">
+		<area shape="rect" coords="6,0,72,28" href="http://ngoisao.net/" target="_blank" title="ngoisao.net" />
+		<area shape="rect" coords="83,0,140,28" href="http://sohoa.vnexpress.net/" target="_blank" title="sohoa.vnexpress.net" />		
+		<area shape="rect" coords="152,0,215,28" href="http://gamethu.vnexpress.net/" target="_blank" title="gamethu.vnexpress.net" />
+		<area shape="rect" coords="223,0,296,28" href="http://vieclam.vnexpress.net/" target="_blank" title="viec lam" />
+	</map>
+</div>
+	<div class="box-item">		
+		<script type="text/javascript">
+			cpms_Ap.typ = 2;
+			cpms_Ap.ste = 1;
+			cpms_Ap.reg = 0;
+			cpms_Ap.fol = 89;
+			cpms_Ap.dof = 0;
+			cpms_Ap.wdt = 300;
+			
+			cpms_Ap.itf = 2;
+			
+			cpms_Ap.ShowAd();
+		</script>
+	</div>
+	<Script language="JavaScript">Poly_ShowLogoLeft(2)</Script><A href="/GL/Topic/?ID=5718" class="Normal"></A>
+<div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(91);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="box-middle1 list-item1 fl" id="ListItem91">
+		<script type="text/javascript" language="javascript">showlistitem(1, 91, 6);</script>
+	</div>	<div class="fl">
+		<div class="fl"><img src="/Images/Background/box-bottomleft1.gif" alt="" /></div>
+		<div class="box-bottomcenter1 fl">&nbsp;</div>
+		<div class="fl"><img src="/Images/Background/box-bottomright1.gif" alt="" /></div>
+	</div>
+</div>
+ 
+<TABLE cellSpacing=0 cellPadding=2 width="100%" bgColor=#bfbfbf border=0>
+<TR>
+<TD>
+<A href="/GL/Topic/?ID=6698" class="Normal"><IMG align=center border=0 width="300" height="200" src="/Files/Folder/00/59/Huyen-thoai-Steve-Jobs.jpg"></A></TD></TR>
+<TR>
+<TD class="Normal" align="center"><A href="/GL/Topic/?ID=6698" class="Normal"><STRONG><FONT color=#000000>Huyền thoại Steve Jobs qua đời ở tuổi 56</FONT></STRONG></A> </TD></TR>
+<TR>
+<TD class="Normal" align="center"><A href="/GL/Topic/?ID=5859" class="Normal"><STRONG><FONT color=#800000>Những clip 'hot' nhất trên Internet</FONT></STRONG></A></TD></TR>
+<TR>
+<TD class="Normal" align="center"><STRONG><A href="/tag/4110/iphone-5/" class=""><FONT color=#800000>iPhone 5</FONT></A><FONT color=#800000> và </FONT><A href="/tag/45066/iphone-4s/" class=""><FONT color=#800000>iPhone 4S</FONT></A></STRONG></TD></TR></TABLE>
+<TABLE cellSpacing=0 cellPadding=3 width="100%" border=0>
+<TR>
+<TD><script language="JavaScript">AddVote(89,1,374411963,'','Theo bạn, laptop có còn cần được trang bị ổ quang (CD/DVD)?','#FF0000','#C0C0C0','100%',4, new Array(new Array('Có, đó là một tính năng thiết yếu.',0,0),new Array('Không quan trọng, nhưng có vẫn hơn không.',0,1),new Array('Không, ổ quang chỉ làm máy dày và nặng.',0,2),new Array('Ý kiến khác.',0,3)),'',1)</script></TD></TR></TABLE>
+<Script type="text/javascript" language="JavaScript">Poly_ShowLogoLeft2(4)</Script>
+<A href="http://gamethu.net/News/Chuyen-game/2008/07/3B9AE690/" onClick="return openMeExt(this,1,1,1,1,1,0,1,1,300,400,0,0,0)" class=Normal></A>
+ <div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(94);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="box-middle1 list-item1 fl" id="ListItem94">
+		<script type="text/javascript" language="javascript">showlistitem(1, 94, 8);</script>
+	</div>	<div class="fl">
+		<div class="fl"><img src="/Images/Background/box-bottomleft1.gif" alt="" /></div>
+		<div class="box-bottomcenter1 fl">&nbsp;</div>
+		<div class="fl"><img src="/Images/Background/box-bottomright1.gif" alt="" /></div>
+	</div>
+</div>
+<div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(93);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="box-middle1 list-item1 fl" id="ListItem93">
+		<script type="text/javascript" language="javascript">showlistitem(1, 93, 4);</script>
+	</div>	<div class="fl">
+		<div class="fl"><img src="/Images/Background/box-bottomleft1.gif" alt="" /></div>
+		<div class="box-bottomcenter1 fl">&nbsp;</div>
+		<div class="fl"><img src="/Images/Background/box-bottomright1.gif" alt="" /></div>
+	</div>
+</div>
+<div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(96);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="fl" id="ListItem96">
+		<script type="text/javascript" language="javascript">showlistitem(5, 96, 4);</script>
+	</div>
+	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+<div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(137);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="fl" id="ListItem137">
+		<script type="text/javascript" language="javascript">showlistitem(3, 137, 6);</script>
+	</div>
+	<div class="box-middle1 list-item fl" style="height:5px;padding-top:0px;padding-bottom:0px;">&nbsp;</div>	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+<div class="box-item">
+	<div class="hot fl">
+		<div class="fl"><img src="/Images/Background/hot-topleft.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/hot-topright.gif" alt="" /></div>
+	</div>
+	<div class="fl" id="HotItem89">		<script type="text/javascript" language="javascript">showhotitem(89, 16);</script>
+	</div>
+	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+
+	</div>
+	
+	<div class="content-right fl">		
+		<div class="adv-header">
+			<div class="adv-title fl">				
+				<a href="http://www.fptad.com/lienhe.aspx" target="_blank"><img style="border:0" src="/Images/Background/adv-title.gif" alt="Lien he quang cao" /></a>				
+			</div>
+		</div>
+		<div id="adgroup"  style="display:none;clear:both;"></div>
+	<Script type="text/javascript" language="JavaScript">Poly_ShowAdScrollBanner(2);</Script>
+				</div>
+				
+			</div>
+			
+			<div id="footer">
+				
+				<script type="text/javascript">Poly_ShowFooterBanner();</script>										
+				
+                <div class="fmenu-top">
+                    <div class="fl icone-footer"></div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-home" rel="nofollow" onclick="javascript:setAsHomePage(this)"><span></span>Đặt làm trang chủ</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ct" rel="nofollow" class="link-contact" href="/ContactUs/?id=vitinh@vnexpress.net"><span></span>Liên hệ tòa soạn</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ads" rel="nofollow" class="link-contact" href="http://ads.fpt.net/lienhe.aspx" target="_blank"><span></span>Liên hệ quảng cáo</a>
+                    </div>					
+                    <div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">						
+						
+                        <span class="lnkf-hl">Đường dây nóng: 0123.888.0123 (HN) - 0129.233.3555 (TP HCM)<span></span></span>
+						
+                    </div>
+					<div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">
+						 <a rel="nofollow" class="link-contact" href="http://fptad.com/qc/v/vnexpress/2011/phongvienthethao/" target="_blank"><img class="img-search" src="/Images/person.gif" alt="" style="vertical-align:top;" /> VnExpress tuyển dụng </a>
+					</div>					
+                </div>
+                <div class="fmenu-bottom">	
+					<a href="/" class="link-footermenu">Trang chủ</a><i class="sepaf"></i>
+					<a href="/gl/xa-hoi/" class="link-footermenu">Xã hội</a><i class="sepaf"></i>
+					<a href="/gl/the-gioi/" class="link-footermenu">Thế giới</a><i class="sepaf"></i>
+					<a href="/gl/kinh-doanh/" class="link-footermenu">Kinh doanh</a><i class="sepaf"></i>
+					<a href="/gl/van-hoa/" class="link-footermenu">Văn hóa</a><i class="sepaf"></i>
+					<a href="/gl/the-thao/" class="link-footermenu">Thể thao</a><i class="sepaf"></i>
+					<a href="/gl/phap-luat/" class="link-footermenu">Pháp luật</a><i class="sepaf"></i>
+					<a href="/gl/doi-song/" class="link-footermenu">Ðời sống</a><i class="sepaf"></i>
+					<a href="/gl/khoa-hoc/" class="link-footermenu">Khoa học</a><i class="sepaf"></i>
+					<a href="/gl/vi-tinh/" class="link-footermenu">Vi tính</a><i class="sepaf"></i>
+					<a href="/gl/oto-xe-may/" class="link-footermenu">Ôtô - Xe máy</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/" class="link-footermenu">Bạn đọc viết</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/tam-su/" class="link-footermenu">Tâm sự</a><i class="sepaf"></i>
+					<a href="/user/rao-vat/" class="link-footermenu">Rao vặt</a><i class="sepaf"></i>
+					<a href="/gl/cuoi/" class="link-footermenu">Cuời</a>
+					
+                    <script type="text/javascript" language="javascript">
+						//writeFooterMenu();
+						Poly_ShowFixFloatBanner(0);Poly_ShowFixFloatBanner(2);Poly_ShowFixFloatBanner(1);Poly_ShowFixFloatBanner(3);
+						Poly_ShowSlideBanner();Poly_ShowBallonBanner();						
+					</script>
+					
+                    <script type="text/javascript" language="javascript">Poly_ShowPopupUnder();</script>
+					
+                </div>
+                <div class="copyright">
+                    <p><label style="font:bold 11px arial; color:#686E7A;">&#169;&nbsp;Copyright 1997-2011 VnExpress.net</label>, <label style="font:normal 11px arial; color:#686E7A;">All rights reserved <a rel="nofollow" href="/ContactUs/?id=webmaster@vnexpress.net">Contact us</a> - <label onClick="ContactUs()" style="text-decoration:underline;cursor:pointer">Th&#244;ng tin T&#242;a so&#7841;n</label></label</p>
+<p><label style="font:normal 11px arial; color:#686E7A;">&#174;&nbsp;VnExpress gi&#7919; b&#7843;n quy&#7873;n n&#7897;i dung tr&#234;n website n&#224;y.</lable></p>
+
+                </div>
+            </div>
+			</div>
+		</div>		
+		</div>		
+		<script type="text/javascript">
+		<!--//<![CDATA[
+			cpms_Ap.init();
+			cpms_Ap.typ = 1;
+			cpms_Ap.dof = 0;
+			cpms_Ap.ste = 1;
+			cpms_Ap.reg = 0;
+			cpms_Ap.fol = 89;
+			cpms_Ap.pos = 38;
+			cpms_Ap.url = encodeURIComponent(document.location.href);
+			cpms_Ap.show();
+		//]]>-->
+		</script>
+		  	
+		<div style="float:left;">
+			<script type="text/javascript" language="javasript">
+				var strHr = location.href;				
+				if(strHr.substr(0,21)=='http://vnexpress.net/' || strHr.substr(0,27)=='http://ebank.vnexpress.net/' || strHr.substr(0,28)=='http://nhadep.vnexpress.net/'){
+					document.write('<img src="http://180.148.142.10/website/vnexpress/Res.asp?vid=149C6901-DB93-4CD3-8111-F6C27F50F3AC&ovt=0&vsd=0&pfd=89&pid=1002161084&ref=&iTime=11/15/2011 10:43:01 PM" border=0>');
+					
+				}
+			</script>
+		</div>
+		<script type="text/javascript">
+	var SERVER_ID = 6;
+</script>
+
+
+		<!--<script type="text/javascript" language="javascript" src="/Library/Common/rss.js"></script>-->
+		<script type="text/javascript" src="http://180.148.142.152/Library/VNELibraryNew.js"></script>
+
+<script type="text/javascript" src="http://180.148.142.152/Library/AdsNov.js"></script>
+		
+<script src="http://180.148.142.152/Vals/1/0/89/Val.js" type="text/javascript"></script>	
+		
+<script type="text/javascript" language="javaScript">checkCookie();</script>
+
+<script type="text/javascript" language="javaScript" src="http://180.148.142.153/script/libMobile.js"></script>     
+
+
+<script type="text/javascript">      
+    Poly_ShowAds();
+</script>
+	
+	</body>			
+</html>

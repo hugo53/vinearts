@@ -1,0 +1,1025 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Thủ tướng Italy Silvio Berlusconi đệ đơn từ chức - Quân đội nhân dân</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="robots" content="INDEX,FOLLOW" />    
+    <meta name="description" content="Tối 12-11 (tức rạng sáng 13-11 theo giờ Việt Nam), Thủ tướng Italy Silvio Berlusconi đã đệ đơn từ chức lên Tổng thống nước này Giorgio Napolitano, mở đường cho việc thành lập một chính phủ mới nhằm chèo lái đất nước Italy thoát khỏi nguy cơ trở thành nạn nhân kế tiếp của cuộc khủng hoảng nợ công ở châu Âu... - qdnd,quan doi nhan dan,quan uy trung uong,quân ủy trung ương,quân đội nhân dân, qdnd.vn, quốc phòng,quoc phong, tin tuc,kinh te, bien dao,quan doi nhan nhan viet nam,Quân đội Nhân dân Việt Nam,army,Vietnamese People's Army,People's Army" />
+    <meta name="keywords" content="Tin quốc tế,qdnd,quan doi nhan dan,quân đội nhân dân,quan uy trung uong,quân ủy,tin quốc phòng,tin quoc phong,toàn dân,tin tức,tin tuc,qdnd.vn,quoc phong,bien dao,army,Vietnamese People's Army,People's Army" />
+    <link href="/qdndsite/images/favicon-qdnd.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta http-equiv="REFRESH" content="3600" />
+    <meta name="google-site-verification" content="T6hZX1h9Or1eqfue9cEMRM_HijElfkG-lQxwpYfa9sU" />
+    <LINK rel="stylesheet" type="text/css" href="/qdndsite/Portals/_Default/Skins/style.css"></LINK>
+    <style>.VoteoutTable{font-family: Tahoma;font-size: 11px;background-color:#FBFBFB;}.titleVoteAQ{font-family: Tahoma;font-size: 11px;font-weight:bold;}</style>
+    <script type="text/javascript" src="/qdndsite/Scripts/jquery-1.3.1.js"></script>
+    <script type="text/javascript" src="/qdndsite/Scripts/jquery.scrollable-1.0.2.js"></script>
+    <script type="text/javascript" src="/qdndsite/Scripts/script.js"></script>
+    <script type="text/javascript" src="/qdndsite/Scripts/ajax-dynamic-content.js"></script>
+    <script type="text/javascript" src="/qdndsite/Scripts/ajax.js"></script>
+    <script type="text/javascript" src="/qdndsite/Scripts/ajax-tooltip.js"></script>
+    <script type="text/javascript" src="/qdndsite/Scripts/vietuni.js"></script>
+    <script src="/qdndsite/Scripts/jquerycssmenu.js" type="text/javascript"></script>
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20815100-1']);
+  _gaq.push(['_setDomainName', '.qdnd.vn']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script src="https://static.getclicky.com/js" type="text/javascript"></script>
+<script type="text/javascript">try{ clicky.init(66399396); }catch(err){}</script>
+</head>
+<body>
+    <form name="Form1" method="post" enctype="multipart/form-data" id="Form1">
+<input type="hidden" name="__VSTATE" id="__VSTATE" value="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" />
+<input type="hidden" name="__VIEWSTATE" id="
+__VIEWSTATE" value="" />
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgL+raDpAgL1nfK5AQLQx7GMBwLY5MvyDQLV6IyNCAKioPKxCMC7rVtB1a2aTYBgWkxmKAzz7jyB" />
+			<div id="ctl01_TopPane">
+<div id="header_wrapper_hpc">
+    <div id="header_hpc">
+        <div style="float: left; height: 129px;">
+            <div class="start">
+            </div>
+            <a href="http://www.qdnd.vn">
+                <div class="logo">
+                </div>
+            </a>
+        </div>
+        <div style="float: left; width: 209px; height: 129px; text-align: center; margin-left: 0px;">
+            <div class="address">
+                Tòa soạn:
+            </div>
+            <div class="address_sub">
+                Số 7 Phan Đình Phùng, Hà Nội
+            </div>
+            <div class="address_sub">
+                Tel: (84 - 4)3747 1748 / 3747 1029
+            </div>
+            <div class="address_sub">
+                Fax: (84 - 4) 3747 4913
+            </div>
+            <div class="address_sub">
+                E-mail: dientubqd@gmail.com
+            </div>
+            <div class="address_sub">
+                Liên hệ Quảng cáo: (84 - 4)3747 3757
+            </div>
+        </div>
+
+<div style="width: 996px; clear: both;">
+    <div style="float: left;margin-top:1px;">
+        <a href="/qdndsite/vi-VN/43/Default.aspx">
+            <img src="/qdndsite/Portals/_Default/images/home.jpg" alt="" /></a></div>
+    <div style="float: left;">
+        <div class="animatedtabs">
+            <li id="subCate10"><a href="/qdndsite/vi-VN/58/43/10/Default.aspx"><span>Chính trị</span></a><div class="subMenuContainer"><ul><li><a href="/qdndsite/vi-VN/63/43/10/50/Default.aspx" class="subTopMenuFont" ><span>Tin chính trị</span></a></li><li><a href="/qdndsite/vi-VN/63/43/10/90/Default.aspx" class="subTopMenuFont" ><span>Công tác chính trị</span></a></li><li><a href="/qdndsite/vi-VN/63/43/10/92/Default.aspx" class="subTopMenuFont" ><span>Quan hệ quân dân</span></a></li><li><a href="/qdndsite/vi-VN/63/43/10/52/Default.aspx" class="subTopMenuFont" ><span>Tiếp lửa truyền thống</span></a></li><li><a href="/qdndsite/vi-VN/63/43/10/91/Default.aspx" class="subTopMenuFont" ><span>Hậu phương quân đội</span></a></li></ul></div></li><li id="subCate4"><a href="/qdndsite/vi-VN/58/43/4/Default.aspx"><span>Q.Phòng - A.Ninh</span></a><div class="subMenuContainer"><ul><li><a href="/qdndsite/vi-VN/63/43/4/37/Default.aspx" class="subTopMenuFont" ><span>Tin QP - AN</span></a></li><li><a href="/qdndsite/vi-VN/63/43/4/38/Default.aspx" class="subTopMenuFont" ><span>KH-KT Quân sự</span></a></li><li><a href="/qdndsite/vi-VN/63/43/4/232/Default.aspx" class="subTopMenuFont" ><span>Bộ đội cụ Hồ</span></a></li><li><a href="/qdndsite/vi-VN/63/43/4/40/Default.aspx" class="subTopMenuFont" ><span>Quốc phòng toàn dân</span></a></li><li><a href="/qdndsite/vi-VN/63/43/4/42/Default.aspx" class="subTopMenuFont" ><span>An ninh, trật tự</span></a></li><li><a href="/qdndsite/vi-VN/63/43/4/39/Default.aspx" class="subTopMenuFont" ><span>Xây dựng quân đội</span></a></li></ul></div></li><li id="subCate7"><a href="/qdndsite/vi-VN/58/43/7/Default.aspx"><span>Xã hội</span></a><div class="subMenuContainer"><ul><li><a href="/qdndsite/vi-VN/63/43/7/24/Default.aspx" class="subTopMenuFont" ><span>Tin xã hội</span></a></li><li><a href="/qdndsite/vi-VN/63/43/7/20/Default.aspx" class="subTopMenuFont" ><span>Giáo dục</span></a></li><li><a href="/qdndsite/vi-VN/63/43/7/21/Default.aspx" class="subTopMenuFont" ><span>Y tế</span></a></li><li><a href="/qdndsite/vi-VN/63/43/7/22/Default.aspx" class="subTopMenuFont" ><span>Chính sách xã hội</span></a></li></ul></div></li><li id="subCate2"><a href="/qdndsite/vi-VN/58/43/2/Default.aspx"><span>Kinh tế</span></a><div class="subMenuContainer"><ul><li><a href="/qdndsite/vi-VN/63/43/2/26/Default.aspx" class="subTopMenuFont" ><span>Tin kinh tế</span></a></li><li><a href="/qdndsite/vi-VN/63/43/2/96/Default.aspx" class="subTopMenuFont" ><span>Quân đội xây dựng kinh tế</span></a></li><li><a href="/qdndsite/vi-VN/63/43/2/94/Default.aspx" class="subTopMenuFont" ><span>Du lịch</span></a></li><li><a href="/qdndsite/vi-VN/63/43/2/97/Default.aspx" class="subTopMenuFont" ><span>Các vấn đề kinh tế</span></a></li><li><a href="/qdndsite/vi-VN/63/43/2/98/Default.aspx" class="subTopMenuFont" ><span>Nhà nước pháp luật</span></a></li></ul></div></li><li id="subCate6"><a href="/qdndsite/vi-VN/58/43/6/Default.aspx"><span>Văn hóa</span></a><div class="subMenuContainer"><ul><li><a href="/qdndsite/vi-VN/63/43/6/36/Default.aspx" class="subTopMenuFont" ><span>Tin văn hoá</span></a></li><li><a href="/qdndsite/vi-VN/63/43/6/66/Default.aspx" class="subTopMenuFont" ><span>Đời sống văn hóa</span></a></li><li><a href="/qdndsite/vi-VN/63/43/6/33/Default.aspx" class="subTopMenuFont" ><span>Văn học</span></a></li><li><a href="/qdndsite/vi-VN/63/43/6/65/Default.aspx" class="subTopMenuFont" ><span>Nghệ thuật</span></a></li><li><a href="/qdndsite/vi-VN/63/43/6/298/Default.aspx" class="subTopMenuFont" ><span>Giải trí quốc tế</span></a></li><li><a href="/qdndsite/vi-VN/63/43/6/125/Default.aspx" class="subTopMenuFont" ><span>Trang thơ</span></a></li></ul></div></li><li id="subCate1"><a href="/qdndsite/vi-VN/58/43/1/Default.aspx"><span>Thể thao</span></a><div class="subMenuContainer"><ul><li><a href="/qdndsite/vi-VN/63/43/1/63/Default.aspx" class="subTopMenuFont" ><span>Tin thể thao</span></a></li><li><a href="/qdndsite/vi-VN/63/43/1/99/Default.aspx" class="subTopMenuFont" ><span>Thể thao trong nước</span></a></li><li><a href="/qdndsite/vi-VN/63/43/1/61/Default.aspx" class="subTopMenuFont" ><span>Thể thao thế giới</span></a></li><li><a href="/qdndsite/vi-VN/63/43/1/299/Default.aspx" class="subTopMenuFont" ><span>Câu chuyện thể thao</span></a></li><li><a href="/qdndsite/vi-VN/63/43/1/300/Default.aspx" class="subTopMenuFont" ><span>Chuyện của sao</span></a></li></ul></div></li><li id="subCate56"><a href="/qdndsite/vi-VN/58/43/56/Default.aspx"><span>Ký sự-Phóng sự</span></a><div class="subMenuContainer"><ul><li><a href="/qdndsite/vi-VN/63/43/56/57/Default.aspx" class="subTopMenuFont" ><span>Phóng sự</span></a></li><li><a href="/qdndsite/vi-VN/63/43/56/58/Default.aspx" class="subTopMenuFont" ><span>Ký sự nhân vật</span></a></li></ul></div></li><li class="selected" id="subCate3"><a href="/qdndsite/vi-VN/58/43/3/Default.aspx"><span>Quốc tế</span></a><div class="subMenuContainer"><ul><li><a href="/qdndsite/vi-VN/63/43/3/102/Default.aspx" class="subTopMenuFont" ><span>Tin quốc tế</span></a></li><li><a href="/qdndsite/vi-VN/63/43/3/29/Default.aspx" class="subTopMenuFont" ><span>Bình luận</span></a></li><li><a href="/qdndsite/vi-VN/63/43/3/32/Default.aspx" class="subTopMenuFont" ><span>Thế giới với Việt Nam</span></a></li><li><a href="/qdndsite/vi-VN/63/43/3/246/Default.aspx" class="subTopMenuFont" ><span>ASEAN 2010</span></a></li></ul></div></li><li id="subCate5"><a href="/qdndsite/vi-VN/63/43/5/5/Default.aspx"><span>Chính luận</span></a><div class="subMenuContainer"><ul></ul></div></li><li id="subCate11"><a href="/qdndsite/vi-VN/63/43/11/11/Default.aspx"><span>Bạn đọc</span></a><div class="subMenuContainer"><ul></ul></div></li>
+        </div>
+    </div>
+</div>
+<div style="width: 996px; height: 29px; font: 13px Tahoma; color: #8B0100; text-align: left;
+    clear: both;">
+    <div style="float: left; padding-top: 2px; padding-right: 2px;">
+        <a href="/qdndsite/RSS.aspx?cul=vi-VN"><img src="/qdndsite/Portals/_Default/images/rss.jpg" alt="" /></a></div>
+    <div style="float: left; width: 760px;">
+        <div id="subTopMenu" style="-moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial;
+            -moz-background-inline-policy: -moz-initial; height: 29px; width: 100%;">
+            <ul><li><a href="/qdndsite/vi-VN/63/43/3/102/Default.aspx" class="subTopMenuFont" ><span>Tin quốc tế</span></a></li><li><a href="/qdndsite/vi-VN/63/43/3/29/Default.aspx" class="subTopMenuFont" ><span>Bình luận</span></a></li><li><a href="/qdndsite/vi-VN/63/43/3/32/Default.aspx" class="subTopMenuFont" ><span>Thế giới với Việt Nam</span></a></li><li><a href="/qdndsite/vi-VN/63/43/3/246/Default.aspx" class="subTopMenuFont" ><span>ASEAN 2010</span></a></li></ul>
+        </div>
+    </div>
+    <div style="float: right; width: 180px; height: 24px;">
+        <div style="float: right; padding-top: 2px;">
+            <div class="search_border">
+            </div>
+            <div style="float: left; margin-top: 0.5px">
+                <input onfocus="SearchOnFocus(this)" onblur="SearchOnBlur(this)" name="TSearch" type="text"
+                    value="...điền từ khóa cần tìm" class="searchTextBox" onkeypress="return clickButton(event,'Search1')" />
+            </div>
+            <div style="float: left; overflow: hidden; margin-top: 0.5px">
+                <img onclick="SearchMe(document.Form1.TSearch.value, 43);" id="Search1" src="/qdndsite/Portals/_Default/images/seach.jpg"
+                    alt="" />
+            </div>
+        </div>
+    </div>
+</div>
+</div> </div>
+<script type="text/javascript" language="javascript">
+$(".animatedtabs li").hover(
+function () {
+showTab('#'+$(this).attr("id"));
+},
+function(){ return false; }
+);
+function showTab(obj){
+$('.animatedtabs').find("li").removeClass("selected");
+$(obj).addClass("selected");
+$('#subTopMenu').find("ul").remove();
+$('#subTopMenu').append($(obj).find(".subMenuContainer").html());
+ var subUl=$(obj).find("a:first");
+var subUlW=subUl.width();
+var subMenu=$('#subTopMenu ul li');
+ var subMenuW=0;
+$('#subTopMenu ul li').each(function(){
+subMenuW+= $(this).width();
+ });
+ var subPos=$(obj).position();
+if(subPos.left>((subMenuW-subUlW)/2)){
+if((subPos.left+subMenuW/2+subUlW/2)<$('#subTopMenu').innerWidth()){
+$('#subTopMenu').find("ul").css({paddingLeft:(subPos.left-(subMenuW/2)+subUlW/2)+"px"});
+ }else{
+$('#subTopMenu').find("ul").css({float:"right"});
+}}}
+showTab('#subCate'+3);
+</script>
+</div>
+<div id="main">
+    <div id="column_left"><div id="ctl01_ContentPane">
+<div class="space">
+</div>
+<!-- article view -->
+<div class="bx_top_news_wrapper">
+    <!-- article list header -->
+    <div style="float: left; overflow: hidden;">
+        <div class="bx_top_left" style="float: left; font-size: 1px;">
+        </div>
+        <div class="bx_top_news_center" style="font-size: 1px;">
+            <div class="bx_title">
+                Tin quốc tế</div>
+        </div>
+        <div class="bx_top_right" style="float: left; font-size: 1px;">
+        </div>
+    </div>
+    <!-- /article list header -->
+    <!-- article list content -->
+    <div class="bx_top_news_content">
+        <!-- article detail  -->
+        <div class="bg_article">
+            <div class="space">
+            </div>
+            <div style="padding-left: 12px;width:98%;color: #00458B; font-family: Tahoma;
+                font-size: 13px; text-decoration: underline; float: left; text-align: left;">
+                
+            </div>
+            <div class="article_title_detail">
+                Thủ tướng Italy Silvio Berlusconi đệ đơn từ chức
+            </div>
+            <div style="clear: both; height: 8px; overflow: hidden;">
+            </div>
+            <div class="published_time">
+                QĐND - Chủ Nhật, 13/11/2011, 9:43 (GMT+7)</div>
+            <div style="width: 550px; margin: 0 auto; font-size: 12px; font-family: Tahoma; text-align: justify;
+                line-height: 20px;">
+                <p style="text-align: justify;">Tối 12-11 (tức rạng s&aacute;ng 13-11 theo giờ Việt Nam), Thủ tướng Italy Silvio Berlusconi đ&atilde; đệ đơn từ chức l&ecirc;n Tổng thống nước n&agrave;y Giorgio Napolitano, mở đường cho việc th&agrave;nh lập một ch&iacute;nh phủ mới nhằm ch&egrave;o l&aacute;i đất nước Italy tho&aacute;t khỏi nguy cơ trở th&agrave;nh nạn nh&acirc;n kế tiếp của cuộc khủng hoảng nợ c&ocirc;ng ở ch&acirc;u &Acirc;u.</p>
+<table height="100" width="200" cellspacing="0" cellpadding="0" border="0" align="left" style="margin-right: 5px; margin-top: 2px; margin-bottom: 2px;">
+    <tbody>
+        <tr>
+            <td><img border="0" alt="" src="http://image.qdnd.vn/Upload//tuanson/2011/11/13/13112011son1075442750.jpg" /></td>
+        </tr>
+        <tr>
+            <td>
+            <p style="text-align: justify;" class="image_Caption">&Ocirc;ng Silvio Berlusconi.</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p style="text-align: justify;">Theo b&aacute;o ch&iacute; Italy, Tổng thống Napolitano đ&atilde; chấp nhận đơn từ chức của &ocirc;ng Berlusconi v&agrave; nhiều khả năng sẽ chỉ định cựu Uỷ vi&ecirc;n Ch&acirc;u &Acirc;u Mario Monti l&agrave;m người kế nhiệm &ocirc;ng Berlusconi. </p>
+<p style="text-align: justify;">Tổng thống Napolitano dự kiến sẽ c&oacute; cuộc tham vấn với l&atilde;nh đạo c&aacute;c đảng ph&aacute;i ở Italy trong ng&agrave;y 13-11 trước khi đưa ra quyết định ch&iacute;nh thức.</p>
+<p style="text-align: justify;">Trước đ&oacute;, với tỷ lệ 380 phiếu thuận, 26 phiếu chống v&agrave; 2 phiếu trắng, Hạ viện Italy (gồm 630 ghế) đ&atilde; ch&iacute;nh thức th&ocirc;ng qua Dự luật ổn định t&agrave;i ch&iacute;nh, trong đ&oacute; c&oacute; một loạt biện ph&aacute;p cải c&aacute;ch kinh tế m&agrave; Ch&iacute;nh phủ của Thủ tướng Berlusconi đ&atilde; cam kết với Li&ecirc;n minh Ch&acirc;u &Acirc;u (EU) hồi th&aacute;ng trước. </p>
+<p style="text-align: justify;">Ng&agrave;y 11-11, Thượng viện Italy cũng đ&atilde; th&ocirc;ng qua dự luật n&agrave;y với tỷ lệ 156 phiếu thuận v&agrave; 12 phiếu chống.</p>
+<p style="text-align: justify;">B&aacute;o ch&iacute; Italy cho biết những biện ph&aacute;p cải c&aacute;ch n&oacute;i tr&ecirc;n, trong đ&oacute; c&oacute; việc b&aacute;n c&aacute;c t&agrave;i sản nh&agrave; nước trị gi&aacute; khoảng 21 tỷ euro, n&acirc;ng độ tuổi về hưu từ 65 tuổi hiện nay l&ecirc;n 67 tuổi v&agrave;o năm 2026, tăng thuế gi&aacute; trị gia tăng (VAT) v&agrave; gi&aacute; nhi&ecirc;n liệu, ngừng tăng lương ở khu vực c&ocirc;ng cho đến năm 2014, cải c&aacute;ch thị trường lao động, miễn giảm thuế cho c&aacute;c dự &aacute;n x&acirc;y dựng cơ sở hạ tầng v&agrave; những c&ocirc;ng ty sử dụng lao động trẻ, được đưa ra nhằm cắt giảm khoản nợ c&ocirc;ng khổng lồ 1.900 tỷ euro của Italy cũng như th&uacute;c đẩy tăng trưởng kinh tế.</p>
+<p style="text-align: justify;">&Ocirc;ng Berlusconi h&ocirc;m 8-11 đ&atilde; tuy&ecirc;n bố sẽ từ chức sau khi Quốc hội Italy th&ocirc;ng qua dự luật tr&ecirc;n.</p>
+<p style="text-align: justify;"><b>Theo Vietnam+</b></p>
+            </div>
+        </div>
+        <!--BEGIN TIN SU KIEN-->
+        
+        <!--END-->
+        <!-- /article detail -->
+        <!-- tool -->
+        <div class="tool">
+            <div style="margin: 10px 0 0 40px; float: left;">
+                <a href="javascript:void(0);"><span><img src="/qdndsite/Portals/_Default/images/icon_comment.jpg" style="vertical-align: middle;" />&nbsp;Ý kiến của bạn </span>
+                </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <span style="text-align: center;"><a href="javascript:open_SendFriend('http://www.qdnd.vn/qdndsite//Send/Send.aspx?cul=vi-VN&ID_News=http://www.qdnd.vn');">
+                    <img src="/qdndsite/Portals/_Default/images/icon_email.jpg" style="vertical-align: middle;" />&nbsp;
+                    Email bài này</a></span><span style="text-align: right;"><a href="javascript:openWebLink('http://www.qdnd.vn/qdndsite/vi-VN/61/166628/print/Default.aspx');">
+                        <img src="/qdndsite/Portals/_Default/images/icon_print.jpg" style="vertical-align: middle;" />&nbsp;
+                        In trang này </a></span>
+            </div>
+        </div>
+        <!-- /tool -->
+        <div id="panel" style="width: 585px; clear: both; display: block;">
+            <!-- comment -->
+            
+<!-- comment -->
+<div class="space">
+</div>
+<div class="comment">
+    <div style="clear: both;">
+        <div class="comment_text">
+            <span>
+                Họ và tên:</span>
+        </div>
+        <div style="float: left;">
+            <div class="comment_left"></div>
+            <div class="comment_center" style="line-height:25px;">
+                <input name="ctl01$ctl02$Comment1$txtFullName" type="text" id="ctl01_ctl02_Comment1_txtFullName" onkeyup="initTyper(this);" style="border: solid 1px #F3F3F3; background-color: #F3F3F3;width: 200px;height:13px;margin-top:2px" />                
+            </div>
+            <div class="comment_right"></div>
+        </div>
+    </div>
+    <div style="clear: both;">
+        <div class="comment_text">
+            <span>
+                Email:
+            </span>
+        </div>
+        <div style="float: left;">
+            <div class="comment_left">
+            </div>
+            <div class="comment_center">
+                <input name="ctl01$ctl02$Comment1$txtEmail" type="text" id="ctl01_ctl02_Comment1_txtEmail" style="border: solid 1px #F3F3F3; background-color: #F3F3F3;margin-top: 2px;height:13px;width: 200px;" />
+            </div>
+            <div class="comment_right"></div>
+        </div>
+    </div>
+    <div style="clear: both;">
+        <div class="comment_text">
+            <span>Tiêu đề:</span>
+        </div>
+        <div style="float: left;">
+            <div class="comment_left"></div>
+            <div class="comment_center">
+                <input name="ctl01$ctl02$Comment1$txtTittle" type="text" id="ctl01_ctl02_Comment1_txtTittle" onkeyup="initTyper(this);" style="border: solid 1px #F3F3F3; background-color: #F3F3F3;
+                    margin-top: 2px; height:13px; width: 200px;" />
+            </div>
+            <div class="comment_right"></div>
+        </div>
+    </div>
+    <div style="clear: both;">
+        <div class="comment_text" style="margin-top: 10px;">
+            <span>
+                Mã xác nhận:</span>
+        </div>
+        <div style="float: left;">
+            <div style='border-style:None;font-size:11px;font-family:Tahoma;height:40px;width:210px;'><span style='margin:5px;float:left;'><img src="CaptchaImage.aspx?guid=0383ac78-5087-46bd-87b9-42c743b45002" border='0' width=120 height=35></span><span style='margin:5px;float:left;'><input name=ctl01$ctl02$Comment1$CaptchaControl1 type=text size=4 maxlength=4 value=''></span><br clear='all'></div>
+        </div>
+    </div>
+    <div style="clear: both;">
+        <div class="comment_text">
+            <span>
+                </span>
+        </div>        
+    </div>
+    <div style="clear: both;">
+        <div class="comment_text" style="font-weight: bold;">
+            Nội dung
+        </div>
+        <div style="clear: both; text-align: left; float: left; font: 12px Tahoma; color: #000;
+            margin-top: 5px; width: 450px">
+            Gõ tiếng việt
+            : &nbsp;&nbsp;
+            <input type="radio" name="qdnd" value="OFF" checked onfocus="setTypingMode(0)" />
+            Off &nbsp;
+            <input type="radio" name="qdnd" onfocus="setTypingMode(1)" />
+            Telex &nbsp;
+            <input type="radio" name="qdnd" onfocus="setTypingMode(2)" />
+            VNI &nbsp;
+            <input type="radio" name="qdnd" onfocus="setTypingMode(2)" />
+            VIQR
+        </div>
+    </div>
+    <div class="space">
+    </div>
+    <div style="clear: both;">
+        <div class="textarea_left">
+        </div>
+        <div class="textarea_center">
+            <textarea name="ctl01$ctl02$Comment1$txtComment" rows="2" cols="20" id="ctl01_ctl02_Comment1_txtComment" onkeyup="initTyper(this);" style="border: solid 1px #F3F3F3; background-color: #F3F3F3;
+                margin-top: 2px; width: 450px; height: 222px; overflow-x: hidden; overflow-y: auto;"></textarea>
+        </div>
+        <div class="textarea_right">
+        </div>
+    </div>
+    <div style="clear: both; float: left; margin: 5px 0 0 5px;">
+        <input type="image" name="ctl01$ctl02$Comment1$btnSend" id="ctl01_ctl02_Comment1_btnSend" src="../../../../../../../Portals/_Default/images/btn_send.jpg" onclick="return checkValidateForm();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl01$ctl02$Comment1$btnSend&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" border="0" />
+        <img src="/qdndsite/Portals/_Default/images/btn_reset.jpg" style="cursor:pointer;" alt="" onclick="return qdndReset();" />
+    </div>
+</div>
+<!-- /comment -->
+
+<script language="javascript">
+    function qdndReset() {
+        document.getElementById('ctl01_ctl02_Comment1_txtFullName').value = "";
+        document.getElementById('ctl01_ctl02_Comment1_txtEmail').value = "";
+        document.getElementById('ctl01_ctl02_Comment1_txtTittle').value = "";
+        document.getElementById('ctl01_ctl02_Comment1_txtComment').value = "";
+    }
+    function checkValidateForm() {
+        var checkMail = /^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*\.(([0-9]{1,3})|([a-zA-Z]{2,3})|(aero|coop|info|museum|name))$/
+        
+        if (document.getElementById('ctl01_ctl02_Comment1_txtFullName').value == "") {
+            alert("Bạn chưa nhập họ tên!");
+            Form1.ctl01_ctl02_Comment1_txtFullName.focus();
+            return false;
+        }
+        if (document.getElementById('ctl01_ctl02_Comment1_txtEmail').value == "") {
+            alert("Bạn chưa nhập Email!");
+            Form1.ctl01_ctl02_Comment1_txtEmail.focus();
+            return false;
+        }
+        if (!checkMail.test(document.getElementById('ctl01_ctl02_Comment1_txtEmail').value)) {
+            alert("Mail sai định dạng!");
+            Form1.ctl01_ctl02_Comment1_txtEmail.focus(); Form1.ctl01_ctl02_Comment1_txtEmail.select();
+            return false;
+        }
+        if (Form1.ctl01_ctl02_Comment1_txtTittle.value == "") {
+            alert("Bạn chưa nhập tiêu đề!");
+            Form1.ctl01_ctl02_Comment1_txtTittle.focus();
+            return false;
+        }
+        if (Form1.ctl01_ctl02_Comment1_txtComment.value == "") {
+            alert("Bạn chưa nhập nội dung!");
+            Form1.ctl01_ctl02_Comment1_txtComment.focus();
+            return false;//
+        }
+        if (Form1.ctl01$ctl02$Comment1$CaptchaControl1.value == "") {
+            alert("Bạn chưa nhập mã xác nhận!");
+            Form1.ctl01$ctl02$Comment1$CaptchaControl1.focus();
+            return false;
+        }
+    }
+</script>
+
+            <!-- /comment -->
+        </div>
+        <!-- other news  -->
+        <div class="bx_title" style="margin: 10px 0 0 25px; clear: both;">
+            Các tin khác</div>
+        <div class="space">
+        </div>
+        <div class="article_recent">
+            
+                    <ul>
+                        <li><a href="/qdndsite/vi-VN/61/43/3/102/102/166625/Default.aspx">
+                            Đương kim Thủ tướng A. A-tam-bai-ép đắc cử Tổng thống</a> <span style="color:#666666; font-size:10px;font-family:Tahoma;">(12/11 22:44)</span></li>
+                    </ul>
+                
+                    <ul>
+                        <li style="background-color: #fff;"><a href="/qdndsite/vi-VN/61/43/3/102/102/166621/Default.aspx">
+                            Tôn Trung Sơn và dấu ấn cuộc cách mạng Tân Hợi</a> <span style="color:#666666; font-size:10px;font-family:Tahoma;">(12/11 22:12)</span></li>
+                    </ul>
+                
+                    <ul>
+                        <li><a href="/qdndsite/vi-VN/61/43/3/102/102/166610/Default.aspx">
+                            Thổ Nhĩ Kỳ giải cứu thành công 24 con tin</a> <span style="color:#666666; font-size:10px;font-family:Tahoma;">(12/11 22:12)</span></li>
+                    </ul>
+                
+                    <ul>
+                        <li style="background-color: #fff;"><a href="/qdndsite/vi-VN/61/43/3/102/102/166605/Default.aspx">
+                            Thiếu một phiếu ủng hộ ở Ủy ban kết nạp thành viên</a> <span style="color:#666666; font-size:10px;font-family:Tahoma;">(12/11 21:51)</span></li>
+                    </ul>
+                
+                    <ul>
+                        <li><a href="/qdndsite/vi-VN/61/43/3/102/102/166603/Default.aspx">
+                            Hàn Quốc và Nhật Bản diễn tập cứu hộ chung</a> <span style="color:#666666; font-size:10px;font-family:Tahoma;">(12/11 21:24)</span></li>
+                    </ul>
+                
+                    <ul>
+                        <li style="background-color: #fff;"><a href="/qdndsite/vi-VN/61/43/3/102/102/166565/Default.aspx">
+                            Nước lũ đã rút tại 11 quận, huyện của Băng-cốc</a> <span style="color:#666666; font-size:10px;font-family:Tahoma;">(12/11 20:19)</span></li>
+                    </ul>
+                
+                    <ul>
+                        <li><a href="/qdndsite/vi-VN/61/43/3/102/102/166537/Default.aspx">
+                            Rơi máy bay, Bộ trưởng Nội vụ Mexico thiệt mạng</a> <span style="color:#666666; font-size:10px;font-family:Tahoma;">(12/11 09:46)</span></li>
+                    </ul>
+                
+                    <ul>
+                        <li style="background-color: #fff;"><a href="/qdndsite/vi-VN/61/43/3/102/102/166533/Default.aspx">
+                            Chính phủ mới của Hy Lạp tuyên thệ nhậm chức</a> <span style="color:#666666; font-size:10px;font-family:Tahoma;">(12/11 08:56)</span></li>
+                    </ul>
+                
+                    <ul>
+                        <li><a href="/qdndsite/vi-VN/61/43/3/102/102/166527/Default.aspx">
+                            Lợi bất cập hại</a> <span style="color:#666666; font-size:10px;font-family:Tahoma;">(12/11 03:25)</span></li>
+                    </ul>
+                
+                    <ul>
+                        <li style="background-color: #fff;"><a href="/qdndsite/vi-VN/61/43/3/102/102/166512/Default.aspx">
+                            Nga sắp gia nhập WTO sau 18 năm đàm phán</a> <span style="color:#666666; font-size:10px;font-family:Tahoma;">(11/11 22:00)</span></li>
+                    </ul>
+                
+        </div>
+        <!-- /other news  -->
+    </div>
+    <!-- /article list content -->
+    <!-- article list footer -->
+    <div style="float: left; overflow: hidden;">
+        <div class="channel_bottom_left" style="float: left">
+        </div>
+        <div class="channel_bottom_center">
+        </div>
+        <div class="channel_bottom_right" style="float: left">
+        </div>
+    </div>
+    <!-- /article list footer -->
+</div>
+</div></div>
+    <div id="column_right"><div id="ctl01_RightPane">
+
+<div class="space"></div>
+<!-- top right -->
+<div class="bx_wrapper">
+    <!-- top right header -->        
+    <div style="float: left;overflow:hidden;">
+        <div class="bt_top_left" style="float: left; font-size: 1px;"></div>
+        <div class="bt_top_center" style="font-size:1px;"></div>
+        <div class="bt_top_right" style="float: left; font-size: 1px;"></div>
+    </div>
+    <!-- /top right header -->        
+    
+    <!-- top right content -->
+    <div class="bx_bg">
+        <div class="bx_content" style="height:62px;background-color:#00458b;">
+            <div style="float:left;clear:both;width:399px;">
+                <div style="padding:0 3px 0 5px;">
+                    <div class="sukiennhanchung"><a href="/qdndsite/vi-VN/70/70/Default.aspx"><img src="/qdndsite/Portals/_Default/images/sukienvanhanchung.jpg" alt=""/></a></div>
+                    <div class="english"><a href="/qdndsite/en-US/72/72/Default.aspx"><img src="/qdndsite/Portals/_Default/images/english.jpg" alt=""/></a></div>    
+                </div>
+            </div>
+            <div style="float:left;clear:both;width:399px;">
+                <div style="padding: 3px 3px 0 5px;">
+                    <div class="qdndcuoituan"><a href="/qdndsite/vi-VN/68/68/Default.aspx"><img src="/qdndsite/Portals/_Default/images/QDNDcuoituan.jpg" alt=""/></a></div>
+                    <div class="media"><a href="http://baoin.qdnd.vn"><img src="/qdndsite/Portals/_Default/images/docbaoin.jpg" alt=""/></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- /top right content -->        
+    
+    <!-- top right footer -->        
+    <div style="float: left;overflow:hidden;">
+        <div class="bt_bottom_left" style="float: left"></div>
+        <div class="bt_bottom_center" style="float: left"></div>
+        <div class="bt_bottom_right" style="float: left"></div>
+    </div>
+    <!-- /top right footer -->        
+</div>
+<!-- /top right -->
+<div class="space" style="overflow: hidden">
+</div>
+<!-- focus -->
+<div id="ctl01_ctl04_divCheckFocusAll" class="bx_wrapper">
+    <!-- focus header -->
+    <div style="float: left; overflow: hidden;">
+        <div class="bx_top_left" style="float: left; font-size: 1px;">
+        </div>
+        <div class="bx_top_center" style="font-size: 1px;">
+            <div class="bx_title" style="text-transform:uppercase;">
+                Tiêu điểm
+            </div>
+        </div>
+        <div class="bx_top_right" style="float: left; font-size: 1px;">
+        </div>
+    </div>
+    <!-- /focus header -->
+    <!-- focus content -->
+    
+    <div class="bx_bg">
+        
+        
+                <div class="focus_content">
+                    <div class="focus_sub_wrapper" >
+                        <div class="focus_img">
+                            <a href="/qdndsite/vi-VN/61/43/3/102/102/166670/Default.aspx">
+                                <img style="Display:yes;"
+                                    src="http://image.qdnd.vn/ImageHandler/Upload//tuanson/2011/11/13/13112011son20192127890_wh50_50.jpg" alt="In-đô-nê-xi-a bắt 3 nghi can khủng bố âm mưu tấn công Đại sứ quán Xin-ga-po"/></a></div>
+                        <div style="float:left;border:solid 0px green;height:36px;display:table-cell; vertical-align:middle">
+                            
+                             <a	onmouseover="VietAd_ShowTooltip('http://www.qdnd.vn/qdndsite/AjaxTooltip/TooltipImg.aspx?idnews=166670'); return false" onmouseout="VietAd_HideTooltip();"
+							class="focus_text" 							
+							href="/qdndsite/vi-VN/61/43/3/102/102/166670/Default.aspx">
+						     In-đô-nê-xi-a bắt 3 nghi can khủng bố âm mưu tấn công Đại sứ quán Xin-ga-po </a>	
+						   					                      					   
+					    </div>					  
+                    </div>
+                    
+                </div>
+            
+                <div class="focus_content_alt">
+                    <div class="focus_sub_wrapper">
+                        <div class="focus_img">
+                            <a href="/qdndsite/vi-VN/61/43/3/102/102/166621/Default.aspx">
+                                <img style="Display:yes;"
+                                    src="http://image.qdnd.vn/ImageHandler/Upload//thuha/2011/11/12/121111ha1220916140_wh50_50.jpg" alt="Tôn Trung Sơn và dấu ấn cuộc cách mạng Tân Hợi" /></a></div>
+                        <a	onmouseover="VietAd_ShowTooltip('http://www.qdnd.vn/qdndsite/AjaxTooltip/TooltipImg.aspx?idnews=166621'); return false" onmouseout="VietAd_HideTooltip();"
+							class="focus_text" 							
+							href="/qdndsite/vi-VN/61/43/3/102/102/166621/Default.aspx">
+							Tôn Trung Sơn và dấu ấn cuộc cách mạng Tân Hợi</a>
+                      
+                    </div>
+                </div>
+            
+                <div class="focus_content">
+                    <div class="focus_sub_wrapper" >
+                        <div class="focus_img">
+                            <a href="/qdndsite/vi-VN/61/43/3/102/102/166605/Default.aspx">
+                                <img style="Display:yes;"
+                                    src="http://image.qdnd.vn/ImageHandler/Upload//phucthang/2011/11/12/12112011manh05210527421_wh50_50.jpg" alt="Thiếu một phiếu ủng hộ ở Ủy ban kết nạp thành viên"/></a></div>
+                        <div style="float:left;border:solid 0px green;height:36px;display:table-cell; vertical-align:middle">
+                            
+                             <a	onmouseover="VietAd_ShowTooltip('http://www.qdnd.vn/qdndsite/AjaxTooltip/TooltipImg.aspx?idnews=166605'); return false" onmouseout="VietAd_HideTooltip();"
+							class="focus_text" 							
+							href="/qdndsite/vi-VN/61/43/3/102/102/166605/Default.aspx">
+						     Thiếu một phiếu ủng hộ ở Ủy ban kết nạp thành viên </a>	
+						   					                      					   
+					    </div>					  
+                    </div>
+                    
+                </div>
+            
+                <div class="focus_content_alt">
+                    <div class="focus_sub_wrapper">
+                        <div class="focus_img">
+                            <a href="/qdndsite/vi-VN/61/43/3/102/102/166603/Default.aspx">
+                                <img style="Display:yes;"
+                                    src="http://image.qdnd.vn/ImageHandler/Upload//phucthang/2011/11/12/12112011manh01210136593_wh50_50.jpg" alt="Hàn Quốc và Nhật Bản diễn tập cứu hộ chung" /></a></div>
+                        <a	onmouseover="VietAd_ShowTooltip('http://www.qdnd.vn/qdndsite/AjaxTooltip/TooltipImg.aspx?idnews=166603'); return false" onmouseout="VietAd_HideTooltip();"
+							class="focus_text" 							
+							href="/qdndsite/vi-VN/61/43/3/102/102/166603/Default.aspx">
+							Hàn Quốc và Nhật Bản diễn tập cứu hộ chung</a>
+                      
+                    </div>
+                </div>
+            
+                <div class="focus_content">
+                    <div class="focus_sub_wrapper" >
+                        <div class="focus_img">
+                            <a href="/qdndsite/vi-VN/61/43/3/102/102/166502/Default.aspx">
+                                <img style="Display:none;"
+                                    src="http://image.qdnd.vn/ImageHandler/Upload/upload/no_photo_wh50_50.jpg" alt="Bộ trưởng Bộ Quốc phòng Mỹ “xua tan” ý định tấn công I-ran"/></a></div>
+                        <div style="float:left;border:solid 0px green;height:36px;display:table-cell; vertical-align:middle">
+                            
+                             <a	onmouseover="VietAd_ShowTooltip('http://www.qdnd.vn/qdndsite/AjaxTooltip/TooltipImg.aspx?idnews=166502'); return false" onmouseout="VietAd_HideTooltip();"
+							class="focus_text" 							
+							href="/qdndsite/vi-VN/61/43/3/102/102/166502/Default.aspx">
+						     Bộ trưởng Bộ Quốc phòng Mỹ “xua tan” ý định tấn công I-ran </a>	
+						   					                      					   
+					    </div>					  
+                    </div>
+                    
+                </div>
+            
+                <div class="focus_content_alt">
+                    <div class="focus_sub_wrapper">
+                        <div class="focus_img">
+                            <a href="/qdndsite/vi-VN/61/43/3/102/102/166417/Default.aspx">
+                                <img style="Display:yes;"
+                                    src="http://image.qdnd.vn/ImageHandler/Upload//vuhuyen/2011/11/11/11112011huyen1075821859_wh50_50.jpg" alt="Lệnh hạ sát ông Gaddafi xuất phát từ nước ngoài?" /></a></div>
+                        <a	onmouseover="VietAd_ShowTooltip('http://www.qdnd.vn/qdndsite/AjaxTooltip/TooltipImg.aspx?idnews=166417'); return false" onmouseout="VietAd_HideTooltip();"
+							class="focus_text" 							
+							href="/qdndsite/vi-VN/61/43/3/102/102/166417/Default.aspx">
+							Lệnh hạ sát ông Gaddafi xuất phát từ nước ngoài?</a>
+                      
+                    </div>
+                </div>
+            
+                <div class="focus_content">
+                    <div class="focus_sub_wrapper" >
+                        <div class="focus_img">
+                            <a href="/qdndsite/vi-VN/61/43/3/102/102/166406/Default.aspx">
+                                <img style="Display:yes;"
+                                    src="http://image.qdnd.vn/ImageHandler/Upload//thuha/2011/11/10/101111ha55214150781_wh50_50.jpg" alt="Các nước A-rập thuyết phục Tổng thống Xy-ri từ bỏ quyền lực"/></a></div>
+                        <div style="float:left;border:solid 0px green;height:36px;display:table-cell; vertical-align:middle">
+                            
+                             <a	onmouseover="VietAd_ShowTooltip('http://www.qdnd.vn/qdndsite/AjaxTooltip/TooltipImg.aspx?idnews=166406'); return false" onmouseout="VietAd_HideTooltip();"
+							class="focus_text" 							
+							href="/qdndsite/vi-VN/61/43/3/102/102/166406/Default.aspx">
+						     Các nước A-rập thuyết phục Tổng thống Xy-ri từ bỏ quyền lực </a>	
+						   					                      					   
+					    </div>					  
+                    </div>
+                    
+                </div>
+            
+                <div class="focus_content_alt">
+                    <div class="focus_sub_wrapper">
+                        <div class="focus_img">
+                            <a href="/qdndsite/vi-VN/61/43/3/102/102/166380/Default.aspx">
+                                <img style="Display:yes;"
+                                    src="http://image.qdnd.vn/ImageHandler/Upload//thuha/2011/11/10/101111ha39205744375_wh50_50.jpg" alt=""Ngài Pa-le-xtin"" /></a></div>
+                        <a	onmouseover="VietAd_ShowTooltip('http://www.qdnd.vn/qdndsite/AjaxTooltip/TooltipImg.aspx?idnews=166380'); return false" onmouseout="VietAd_HideTooltip();"
+							class="focus_text" 							
+							href="/qdndsite/vi-VN/61/43/3/102/102/166380/Default.aspx">
+							"Ngài Pa-le-xtin"</a>
+                      
+                    </div>
+                </div>
+            
+                <div class="focus_content">
+                    <div class="focus_sub_wrapper" >
+                        <div class="focus_img">
+                            <a href="/qdndsite/vi-VN/61/43/3/102/102/166256/Default.aspx">
+                                <img style="Display:yes;"
+                                    src="http://image.qdnd.vn/ImageHandler/Upload//thuha/2011/11/9/091111ha4192511421_wh50_50.jpg" alt="Rắc rối trước cuộc  bầu cử"/></a></div>
+                        <div style="float:left;border:solid 0px green;height:36px;display:table-cell; vertical-align:middle">
+                            
+                             <a	onmouseover="VietAd_ShowTooltip('http://www.qdnd.vn/qdndsite/AjaxTooltip/TooltipImg.aspx?idnews=166256'); return false" onmouseout="VietAd_HideTooltip();"
+							class="focus_text" 							
+							href="/qdndsite/vi-VN/61/43/3/102/102/166256/Default.aspx">
+						     Rắc rối trước cuộc  bầu cử </a>	
+						   					                      					   
+					    </div>					  
+                    </div>
+                    
+                </div>
+            
+                <div class="focus_content_alt">
+                    <div class="focus_sub_wrapper">
+                        <div class="focus_img">
+                            <a href="/qdndsite/vi-VN/61/43/3/102/102/166177/Default.aspx">
+                                <img style="Display:none;"
+                                    src="http://image.qdnd.vn/ImageHandler/Upload/upload/no_photo_wh50_50.jpg" alt="16 người chết ở Ấn Độ vì bị giẫm đạp tại lễ hội" /></a></div>
+                        <a	onmouseover="VietAd_ShowTooltip('http://www.qdnd.vn/qdndsite/AjaxTooltip/TooltipImg.aspx?idnews=166177'); return false" onmouseout="VietAd_HideTooltip();"
+							class="focus_text" 							
+							href="/qdndsite/vi-VN/61/43/3/102/102/166177/Default.aspx">
+							16 người chết ở Ấn Độ vì bị giẫm đạp tại lễ hội</a>
+                      
+                    </div>
+                </div>
+            
+    </div>
+   
+    <!-- /focus content -->
+    <!-- focus footer -->
+    <div style="float: left; overflow: hidden;">
+        <div class="bx_bottom_left" style="float: left">
+        </div>
+        <div class="bx_bottom_center">
+        </div>
+        <div class="bx_bottom_right" style="float: left">
+        </div>
+    </div>
+    <!-- /focus footer -->
+</div>
+
+<div class="space">
+</div>
+<!-- channel right -->
+<div id="ctl01_ctl06_checkqdndreader" class="bx_wrapper"> 
+    <!-- most viewed header -->
+    <div style="float: left; overflow: hidden;">
+        <div class="bx_top_left" style="float: left; font-size: 1px;">
+        </div>
+        <div class="bx_top_center" style="font-size: 1px;">
+            <div class="bx_title" style="text-transform:uppercase;">
+               
+                <!---->
+                Tin nhiều người đọc
+            </div>
+        </div>
+        <div class="bx_top_right" style="float: left; font-size: 1px;">
+        </div>
+    </div>
+    <!-- /most viewed header -->
+    <!-- most viewed content -->
+    <div class="bx_content_bo">
+        <div style="clear: both; height: 8px; overflow: hidden;">
+        </div>
+        <div class="box">
+            <ul>
+                
+                        <li style="background-color: #fff;"><a onmouseover="VietAd_ShowTooltip('http://www.qdnd.vn/qdndsite/AjaxTooltip/TooltipImg.aspx?idnews=165493'); return false"
+                            onmouseout="VietAd_HideTooltip();" href="/qdndsite/vi-VN/61/43/3/102/102/165493/Default.aspx">
+                            Nga: Khôi phục Tượng đài V.I.Lê-nin tại thành phố U-pha
+                        </a></li>
+                    
+                        <li><a onmouseover="VietAd_ShowTooltip('http://www.qdnd.vn/qdndsite/AjaxTooltip/TooltipImg.aspx?idnews=165631'); return false"
+                            onmouseout="VietAd_HideTooltip();" href="/qdndsite/vi-VN/61/43/3/102/102/165631/Default.aspx">
+                            Iran sẽ trừng phạt mọi cuộc tấn công nào của Israel
+                        </a></li>
+                    
+                        <li style="background-color: #fff;"><a onmouseover="VietAd_ShowTooltip('http://www.qdnd.vn/qdndsite/AjaxTooltip/TooltipImg.aspx?idnews=165529'); return false"
+                            onmouseout="VietAd_HideTooltip();" href="/qdndsite/vi-VN/61/43/3/102/102/165529/Default.aspx">
+                            Nga không cho phép can thiệp quân sự vào Syria
+                        </a></li>
+                    
+                        <li><a onmouseover="VietAd_ShowTooltip('http://www.qdnd.vn/qdndsite/AjaxTooltip/TooltipImg.aspx?idnews=165610'); return false"
+                            onmouseout="VietAd_HideTooltip();" href="/qdndsite/vi-VN/61/43/3/102/102/165610/Default.aspx">
+                            Israel thử thành công tên lửa đạn đạo
+                        </a></li>
+                    
+                        <li style="background-color: #fff;"><a onmouseover="VietAd_ShowTooltip('http://www.qdnd.vn/qdndsite/AjaxTooltip/TooltipImg.aspx?idnews=165886'); return false"
+                            onmouseout="VietAd_HideTooltip();" href="/qdndsite/vi-VN/61/43/3/102/102/165886/Default.aspx">
+                            Đi ngược luật pháp quốc tế không có lợi cho giải quyết vấn đề Biển Đông
+                        </a></li>
+                    
+                        <li><a onmouseover="VietAd_ShowTooltip('http://www.qdnd.vn/qdndsite/AjaxTooltip/TooltipImg.aspx?idnews=166184'); return false"
+                            onmouseout="VietAd_HideTooltip();" href="/qdndsite/vi-VN/61/43/3/102/102/166184/Default.aspx">
+                            Biệt đội SEAL và giây phút cuối cùng của Bin La-đen
+                        </a></li>
+                    
+                        <li style="background-color: #fff;"><a onmouseover="VietAd_ShowTooltip('http://www.qdnd.vn/qdndsite/AjaxTooltip/TooltipImg.aspx?idnews=166417'); return false"
+                            onmouseout="VietAd_HideTooltip();" href="/qdndsite/vi-VN/61/43/3/102/102/166417/Default.aspx">
+                            Lệnh hạ sát ông Gaddafi xuất phát từ nước ngoài?
+                        </a></li>
+                    
+                        <li><a onmouseover="VietAd_ShowTooltip('http://www.qdnd.vn/qdndsite/AjaxTooltip/TooltipImg.aspx?idnews=165494'); return false"
+                            onmouseout="VietAd_HideTooltip();" href="/qdndsite/vi-VN/61/43/3/102/102/165494/Default.aspx">
+                            Lính Mỹ cưỡng bức thiếu nữ Hàn Quốc bị xử 10 năm tù
+                        </a></li>
+                    
+                        <li style="background-color: #fff;"><a onmouseover="VietAd_ShowTooltip('http://www.qdnd.vn/qdndsite/AjaxTooltip/TooltipImg.aspx?idnews=166076'); return false"
+                            onmouseout="VietAd_HideTooltip();" href="/qdndsite/vi-VN/61/43/3/102/102/166076/Default.aspx">
+                            Tin tặc đánh sập trang mạng của quân đội và tình báo I-xra-en
+                        </a></li>
+                    
+                        <li><a onmouseover="VietAd_ShowTooltip('http://www.qdnd.vn/qdndsite/AjaxTooltip/TooltipImg.aspx?idnews=166067'); return false"
+                            onmouseout="VietAd_HideTooltip();" href="/qdndsite/vi-VN/61/43/3/102/102/166067/Default.aspx">
+                            Tái hiện cuộc duyệt binh huyền thoại trên Quảng trường Đỏ
+                        </a></li>
+                    
+            </ul>
+        </div>
+    </div>
+    <!-- /most viewed content -->
+    <!-- most viewed footer -->
+    <div style="float: left; overflow: hidden;">
+        <div class="bx_bottom_left" style="float: left">
+        </div>
+        <div class="bx_bottom_center">
+        </div>
+        <div class="bx_bottom_right" style="float: left">
+        </div>
+    </div>
+    <!-- /most viewed footer -->
+</div>
+<!-- /most viewed -->
+
+<div class="space" style="overflow: hidden">
+</div>
+<!-- focus -->
+<div id="ctl01_ctl07_divSuKienNoiBat" class="bx_wrapper">
+    <!-- focus header -->
+    <div style="float: left; overflow: hidden;">
+        <div class="bx_top_left" style="float: left; font-size: 1px;">
+        </div>
+        <div class="bx_top_center" style="font-size: 1px;">
+            <div class="bx_title" style="text-transform: uppercase;">
+                <!--Sự kiện nổi bật-->
+                Hồ sơ SỰ KIỆN
+            </div>
+        </div>
+        <div class="bx_top_right" style="float: left; font-size: 1px;">
+        </div>
+    </div>
+    <!-- /focus header -->
+    <!-- focus content -->
+    <div class="bx_bg">
+        
+                <div class="focus_content">
+                    <div class="focus_sub_wrapper">
+                        <div class="focus_img">
+                            <a href="/qdndsite/vi-VN/101/43/49/49/0/Default.aspx">
+                                <img style="Display:yes;"
+                                    src="http://image.qdnd.vn/ImageHandler/Upload/phucthang/2011/9/8/080911tonha0321422978_wh50_36.jpg" width="50" height="36" alt="50 năm đường Hồ Chí Minh trên biển" /></a></div>
+                        <div style="float: left; border: solid 0px green; height: 36px; display: table-cell;
+                            vertical-align: middle">
+                            <a class="focus_text" href="/qdndsite/vi-VN/101/43/49/49/0/Default.aspx">
+                                50 năm đường Hồ Chí Minh trên biển
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            
+                <div class="focus_content_alt">
+                    <div class="focus_sub_wrapper">
+                        <div class="focus_img">
+                            <a href="/qdndsite/vi-VN/101/43/48/48/0/Default.aspx">
+                                <img style="Display:yes;" src="http://image.qdnd.vn/ImageHandler/Upload/tuanson/2011/8/15/14082011son3092210125_wh50_36.jpg"
+                                    width="50" height="36" alt="Tiềm lực quân sự Trung Quốc" /></a></div>
+                        <a class="focus_text" href="/qdndsite/vi-VN/101/43/48/48/0/Default.aspx">
+                            Tiềm lực quân sự Trung Quốc</a>
+                    </div>
+                </div>
+            
+                <div class="focus_content">
+                    <div class="focus_sub_wrapper">
+                        <div class="focus_img">
+                            <a href="/qdndsite/vi-VN/101/43/45/45/0/Default.aspx">
+                                <img style="Display:yes;"
+                                    src="http://image.qdnd.vn/ImageHandler/Upload/trungkien/2011/8/1/tlamtruongsa1103308593_wh50_36.jpg" width="50" height="36" alt="Hồ sơ biển Đông" /></a></div>
+                        <div style="float: left; border: solid 0px green; height: 36px; display: table-cell;
+                            vertical-align: middle">
+                            <a class="focus_text" href="/qdndsite/vi-VN/101/43/45/45/0/Default.aspx">
+                                Hồ sơ biển Đông
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            
+                <div class="focus_content_alt">
+                    <div class="focus_sub_wrapper">
+                        <div class="focus_img">
+                            <a href="/qdndsite/vi-VN/101/43/44/44/0/Default.aspx">
+                                <img style="Display:yes;" src="http://image.qdnd.vn/ImageHandler/Upload/anhson/2011/7/29/090511ha55210426764095203248_wh50_36.jpg"
+                                    width="50" height="36" alt="Hồ sơ về Mường Nhé" /></a></div>
+                        <a class="focus_text" href="/qdndsite/vi-VN/101/43/44/44/0/Default.aspx">
+                            Hồ sơ về Mường Nhé</a>
+                    </div>
+                </div>
+            
+    </div>
+    <!-- /focus content -->
+    <!-- focus footer -->
+    <div style="float: left; overflow: hidden;">
+        <div class="bx_bottom_left" style="float: left">
+        </div>
+        <div class="bx_bottom_center">
+        </div>
+        <div class="bx_bottom_right" style="float: left">
+        </div>
+    </div>
+    <!-- /focus footer -->
+</div>
+
+        <div class="space">
+        </div>
+        <!-- channel right -->
+        <div id="ctl01_ctl08_rptCategoryName_ctl00_checkExist" class="bx_wrapper">
+            <!-- most viewed header -->
+            <div style="float: left; overflow: hidden;">
+                <div class="bx_top_left" style="float: left; font-size: 1px;">
+                </div>
+                <div class="bx_top_center" style="font-size: 1px;">
+                    <div class="bx_title" style="text-transform:uppercase;">
+                        Sự kiện nổi bật
+                    </div>
+                </div>
+                <div class="bx_top_right" style="float: left; font-size: 1px;">
+                </div>
+            </div>
+            <!-- /most viewed header -->
+            <!-- most viewed content -->
+            <div class="bx_content_bo">
+                <div style="clear: both; height: 8px; overflow: hidden;">
+                </div>
+                
+                        <div class="box">
+                            <ul>
+                                <li style="background-color: #fff;"> <a href="/qdndsite/vi-VN/61/43/3/101/101/82029/Default.aspx">
+                                    Đối thoại Mỹ - I-ran vẫn là mục tiêu xa vời</a> </li>
+                            </ul>
+                        </div>
+                    
+                        <div class="box">
+                            <ul>
+                                <li><a href="/qdndsite/vi-VN/61/43/3/101/101/82015/Default.aspx">
+                                    Tổng thống Áp-ga-ni-xtan mời Ta-li-ban tham gia cuộc bầu cử tổng thống</a> </li>
+                            </ul>
+                        </div>
+                    
+                        <div class="box">
+                            <ul>
+                                <li style="background-color: #fff;"> <a href="/qdndsite/vi-VN/61/43/3/101/101/81768/Default.aspx">
+                                    Cuộc thử nghiệm nguy hiểm và căng thẳng</a> </li>
+                            </ul>
+                        </div>
+                    
+                        <div class="box">
+                            <ul>
+                                <li><a href="/qdndsite/vi-VN/61/43/3/101/101/81516/Default.aspx">
+                                    I-ran:  Lực lượng đối lập thách thức chính quyền</a> </li>
+                            </ul>
+                        </div>
+                    
+                        <div class="box">
+                            <ul>
+                                <li style="background-color: #fff;"> <a href="/qdndsite/vi-VN/61/43/3/101/101/81503/Default.aspx">
+                                    Chính trường Anh trong “cơn lũ quét”</a> </li>
+                            </ul>
+                        </div>
+                    
+                        <div class="box">
+                            <ul>
+                                <li><a href="/qdndsite/vi-VN/61/43/3/101/101/81346/Default.aspx">
+                                    Mỹ: Ông G.Bu-sơ bắt đầu công kích Tổng thống Ô-ba-ma</a> </li>
+                            </ul>
+                        </div>
+                    
+                        <div class="box">
+                            <ul>
+                                <li style="background-color: #fff;"> <a href="/qdndsite/vi-VN/61/43/3/101/101/81326/Default.aspx">
+                                    Ngôi sao vụt tắt</a> </li>
+                            </ul>
+                        </div>
+                    
+                        <div class="box">
+                            <ul>
+                                <li><a href="/qdndsite/vi-VN/61/43/3/101/101/80705/Default.aspx">
+                                    Rút dây động rừng</a> </li>
+                            </ul>
+                        </div>
+                    
+                        <div class="box">
+                            <ul>
+                                <li style="background-color: #fff;"> <a href="/qdndsite/vi-VN/61/43/3/101/101/79246/Default.aspx">
+                                    Đánh bom liều chết làm 280 người thương vong</a> </li>
+                            </ul>
+                        </div>
+                    
+            </div>
+            <!-- /most viewed content -->
+            <!-- most viewed footer -->
+            <div style="float: left; overflow: hidden;">
+                <div class="bx_bottom_left" style="float: left">
+                </div>
+                <div class="bx_bottom_center">
+                </div>
+                <div class="bx_bottom_right" style="float: left">
+                </div>
+            </div>
+            <!-- /most viewed footer -->
+        </div>
+        <!-- /most viewed -->
+    
+</div></div>
+</div>
+<div class="space_footer"></div>
+<div id="footer_wrapper"><div id="ctl01_bottompane">
+<div id="footer">
+    <ul>
+        <!--
+        <li> <a href="/qdndsite/">
+            Trang chủ</a>
+        </li>-->
+        
+                <li>
+                    <a href="/qdndsite/vi-VN/58/43/10/Default.aspx">Chính trị</a>|</li>
+            
+                <li>
+                    <a href="/qdndsite/vi-VN/58/43/4/Default.aspx">Q.Phòng - A.Ninh</a>|</li>
+            
+                <li>
+                    <a href="/qdndsite/vi-VN/58/43/7/Default.aspx">Xã hội</a>|</li>
+            
+                <li>
+                    <a href="/qdndsite/vi-VN/58/43/2/Default.aspx">Kinh tế</a>|</li>
+            
+                <li>
+                    <a href="/qdndsite/vi-VN/58/43/6/Default.aspx">Văn hóa</a>|</li>
+            
+                <li>
+                    <a href="/qdndsite/vi-VN/58/43/1/Default.aspx">Thể thao</a>|</li>
+            
+                <li>
+                    <a href="/qdndsite/vi-VN/58/43/56/Default.aspx">Ký sự-Phóng sự</a>|</li>
+            
+                <li>
+                    <a href="/qdndsite/vi-VN/58/43/3/Default.aspx">Quốc tế</a>|</li>
+            
+                <li>
+                    <a href="/qdndsite/vi-VN/63/43/5/5/Default.aspx">Chính luận</a>|</li>
+            
+                <li>
+                    <a href="/qdndsite/vi-VN/63/43/11/11/Default.aspx">Bạn đọc</a>|</li>
+            
+    </ul>
+    <div class="clear" style="height: 8px">
+    </div>
+    <div class="clear">
+        <div class="footer_line">
+        </div>
+        <div class="clear" style="overflow: hidden; margin-top: 3px;">
+            <span
+                class="font-size-12px" style="font-weight: bold;"> Giấy phép số: 1442/GP - BTTTT  15-10-2009  </span>
+        </div>        
+        <div class="clear" style="margin-top: 5px;">
+            <span class="font-size-12px" style="font-weight: bold;">Tổng biên tập: Thiếu tướng  LÊ PHÚC NGUYÊN  </span>
+            
+        </div>
+        <div class="clear" style="margin-top: 5px;font-weight: bold;">
+            <span class="font-size-12px"> Phó tổng biên tập: Đại tá PHẠM VĂN HUẤN, Đại tá HÀ MẠNH TƯỜNG</span>
+        </div>
+        <div class="clear" style="margin-top: 5px;">
+            <span class="font-size-12px" style="font-weight: bold;">© 2008 - 2009. Bản quyền thuộc về Báo điện tử Quân đội nhân dân. Bảo lưu mọi quyền.</span> 
+        </div>
+    </div>
+</div>
+</div></div>
+
+
+
+		</form>
+</body>
+</html>

@@ -1,0 +1,1585 @@
+
+<HTML>
+	<HEAD>
+		<title id="StoryTitle">CAND Online | Vui v&#224;o giờ ch&#243;t - Vui vao gio chot</title>
+		<meta id="description" content="Ngay thu 3, the thao Viet Nam gop mat o 24 mon thi, ki vong gianh 12 HCV. Ben canh cac mon the manh da tranh tai tu nhung ngay truoc nhu karatedo, taekwondo, dien kinh, ban sung, boi loi, thi mon vo truyen thong cua Viet Nam - vovinam cung chinh thuc xuat tran. ">
+		</meta>
+		<meta id="refresher" http-equiv="REFRESH" content="600">
+		</meta>
+		<meta content="JavaScript" name="vs_defaultClientScript">
+		<meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema">
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta content="INDEX,FOLLOW" name="robots">
+		<LINK href="/images/CAND/logo_icon.ico" rel="shortcut icon">
+		<script language="JavaScript" src="/JScripts/PopCalendar.js" type="text/javascript"></script>
+		<style>.quest_zone { FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; COLOR: #006; PADDING-TOP: 4px; FONT-FAMILY: Arial, verdana, Georgia, Times }
+	.asker_name { FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; COLOR: gray; PADDING-TOP: 4px; FONT-FAMILY: Arial, verdana, Georgia, Times }
+	.text_box1 { FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; COLOR: #000000; PADDING-TOP: 4px; FONT-FAMILY: Arial, verdana, Georgia, Times }
+	.image_desc { FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; COLOR: #000000; PADDING-TOP: 4px; FONT-FAMILY: Times, verdana, Georgia, Arial }
+		</style>
+		<script language="JavaScript">
+			function setVisibility(evt,id, visibility,obj)
+			{
+				updatebox(evt,id,obj);
+				document.getElementById(id).style.display = visibility;
+			}
+			function updatebox(evt,id,obj)
+			{
+				 mouseX=evt.pageX?evt.pageX:evt.clientX;//
+				 mouseY=evt.pageY?evt.pageY:evt.clientY;//
+				 document.getElementById(id).style.left=mouseX+document.body.scrollLeft;
+				 document.getElementById(id).style.top=mouseY+document.body.scrollTop;
+			}
+		</script>
+	</HEAD>
+	<body>
+		<form name="StoryPg" method="post" action="Story.aspx?ID=159828&amp;culture=vi-vn" id="StoryPg">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjUwMjkyNzkwZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgURRmVlZGJhY2sxJGJ0blNlbmQFE1NlYXJjaGVzMSRidG5TdWJtaXSv8PAeb57TfcDMByZ6jgKwz6GdeA==" />
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBwKcoJenDQKzs/e9DwLrxLWhCAK8jPXcDQKJ9r6xBQL6/e6yBwLh3qCFCeHJN64Hywk0yAbbdiJftoqWoX+M" />
+			<TABLE id="Table5" cellSpacing="0" cellPadding="0" width="1000" align="center" bgColor="#ffffff"
+				border="0">
+				<TBODY>
+					<TR>
+						<TD>
+<LINK href="/JScripts/CAND.CSS" type="text/css" rel="stylesheet">
+<script language="javascript" src="/JScripts/cookieUtility.js"></script>
+<script language="javascript" src="/JScripts/personalize.js"></script>
+<script language="JavaScript" src="/JScripts/adFlash.js"></script>
+<script language="javascript" src="/JScripts/mylib.js"></script>
+<table cellSpacing="0" cellPadding="0" width="100%" bgColor="#ffffff" border="0" id="Table2">
+	<TR>
+		<TD align="center">
+			<TABLE cellSpacing="0" cellPadding="0" width="100%" border="0" id="Table3">
+				<TR height="50">
+					<TD vAlign="top" width="194" bgColor="#cbe2e9">
+						<a id="Header_lnkHomePage" href="http://www.cand.com.vn">
+							<IMG src="/Images/header_candonline228x50.gif" border="0"></a></TD>
+					<TD align="right" width="100%" background="/Images/CAND/bg_head.gif" bgColor="#cbe2e9"
+						height="50">
+						</TD>
+				</TR>
+				<TR>
+					<TD vAlign="middle" align="left" width="194" bgColor="black"><IMG src="/Images/header_sologon229x16.gif"></TD>
+					<TD align="right" width="100%" bgColor="black" height="18">
+<table id="Table1" cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td>
+			<span id="Header_ctlPersonalizeText_lblWelcome"><font color="White">Chào bạn!</font></span></td>
+		<td></td>
+		<td></td>
+		<td>&nbsp;&nbsp;</td>
+		<td>
+			<script>
+        var mydate=new Date()
+        var year=mydate.getYear()
+        if (year < 1000)
+					year+=1900
+        var day=mydate.getDay()
+        var month=mydate.getMonth()
+        var daym=mydate.getDate()
+        if (daym<10)
+					daym="0"+daym
+        var dhour=mydate.getHours()
+        var dmin=mydate.getMinutes()
+        if (dmin<10)
+					dmin="0"+dmin
+        if (dhour<10)
+					dhour="0"+dhour
+        var dayarray=new Array("Ch&#7911; Nh&#7853;t","Th&#7913; Hai","Th&#7913; Ba","Th&#7913; T&#432;","Th&#7913; N&#259;m","Th&#7913; S&#225;u","Th&#7913; B&#7843;y")
+        var montharray=new Array("01","02","03","04","05","06","07","08","09","10","11","12")
+                document.write("<font color=white><b> "+dhour+":"+dmin+" "+daym+"/"+montharray[month]+"/"+year+"</b></font>")
+			</script>
+		</td>
+		<td>&nbsp;&nbsp;</td>
+	</tr>
+</table>
+</TD>
+				</TR>
+			</TABLE>
+		</TD>
+	</TR>
+	<TR>
+		<TD align="center" width="1000" background="/Images/header_background24x6.gif" bgColor="#ac051f"
+			height="24">
+			<TABLE id="Table1" style="WIDTH: 100%; HEIGHT: 24px" height="24" cellSpacing="0" cellPadding="0"
+				width="100%" align="right" background="/Images/header_background24x6.gif" border="0">
+				<TR>
+					<TD style="WIDTH: 223px" width="223" height="24"></TD>
+					<TD style="WIDTH: 100px" width="100" height="24">
+						<img src='/rpc/counter.aspx?ckey=All_view&rand=427654094' width=0 height=0 border=0 alt=''></TD>
+					<TD style="WIDTH: 120px" align="center" width="120" height="24"><a id="Header_lnkCAND" href="http://ca.cand.com.vn">
+							<img height="24" alt="" src="/Images/header_title_cand113x24.gif" width="113" border="0"></a></TD>
+					<TD style="WIDTH: 12px" width="10" height="24"><IMG src="/Images/header_linedoc12x24.gif"></TD>
+					<TD style="WIDTH: 120px" align="center" width="120" height="24"><a id="Header_lnkANTG" href="http://antg.cand.com.vn">
+							<img height="24" alt="" src="/Images/header_title_antg102x24.gif" width="102" border="0"></a></TD>
+					<TD style="WIDTH: 12px" width="10" height="24"><IMG src="/Images/header_linedoc12x24.gif"></TD>
+					<TD style="WIDTH: 120px" align="center" width="120" height="24"><a id="Header_lnkANTGCT" href="http://antgct.cand.com.vn">
+							<img height="24" alt="" src="/Images/header_title_antgct105x24.gif" width="105" border="0"></a></TD>
+					<TD style="WIDTH: 12px" width="10" height="24"><IMG src="/Images/header_linedoc12x24.gif"></TD>
+					<TD style="WIDTH: 120px" align="center" width="120" height="24"><a id="Header_lnkVNCA" href="http://vnca.cand.com.vn">
+							<img height="24" alt="" src="/Images/header_title_vnca112x24.gif" width="112" border="0"></a></TD>
+					<TD style="WIDTH: 12px" width="10" height="24"><IMG src="/Images/header_linedoc12x24.gif"></TD>
+					<TD style="WIDTH: 120px" align="center" width="120" height="24"><a href="http://cstc.cand.com.vn/">
+							<img height="24" alt="" src="/Images/header_title_cstc115x24.gif" width="115" border="0"></a></TD>
+					<TD style="WIDTH: 12px" width="10" height="24"><IMG src="/Images/header_linedoc12x24.gif"></TD>
+					<!--
+					<TD align="right" width="106" height="24"><a id="Header_lnkCANDTV">
+							<img height="24" alt="" src="/Images/header_thcand106x24.gif" width="106" border="0"></a></TD>
+					-->
+				</TR>
+			</TABLE>
+		</TD>
+	</TR>
+	<TR>
+		<TD style="HEIGHT: 1px" align="center" bgColor="#ac051f"><script language="JavaScript" src="/JScripts/CAND_new.JS"></script>
+<table class="navgrid" height="26" cellSpacing="0" cellPadding="0" width="100%" align="left" border="0" bgColor="#ac051f">
+	<tr bgColor="#ac051f">
+		<td height="26" align="center">
+		<A href="/" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Trang chủ</FONT></A>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<A href="/vi-VN/thoisu.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Thời sự</FONT></A>&nbsp;&nbsp|&nbsp;&nbsp;
+		<A href="/vi-VN/xahoi.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Xã hội</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/quocte.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Quốc tế</FONT></A>&nbsp;&nbsp;|&nbsp&nbsp;
+		<A href="/vi-VN/kinhte.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Kinh tế</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/vanhoa.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Văn hoá</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/phapluat.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Pháp luật</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/nguoinoitieng.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Người nổi tiếng</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/nhanai.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Nhịp cầu nhân ái</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/trongmatdan.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Công an trong lòng dân</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/toiphama-z.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Tội phạm từ A-Z</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/clips.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Video Clip</FONT></A>
+		</td>
+	</tr>
+</table></TD>
+	</TR>
+</table>
+<link href="/JScripts/cand_new.css" rel="stylesheet" media="screen">
+</TD>
+					</TR>
+					<TR>
+						<TD>
+							<TABLE id="Table6" cellSpacing="0" cellPadding="0" width="1000" align="left" bgColor="white"
+								border="0">
+								<TBODY>
+									<TR vAlign="top">
+										<TD class="left_columms" style="PADDING-TOP: 10px" vAlign="top" width="800">
+											<table cellSpacing="0" cellPadding="0" width="100%" align="center" border="0">
+												<TBODY>
+													<TR>
+														<TD style="PADDING-BOTTOM: 6px; HEIGHT: 20px; paddint-top: 6px" align="center">
+															<TABLE id="Table11" style="PADDING-BOTTOM: 10px" cellSpacing="0" cellPadding="0" width="780"
+																border="0">
+																<TR>
+																	<TD style="WIDTH: 500px" width="500"></TD>
+																</TR>
+																<TR>
+																	<TD style="WIDTH: 500px; HEIGHT: 34px" vAlign="top" align="left" width="100%" background="/Images/back_line.gif"><span id="Path1_lbPath" class="cm_title">Thể thao&nbsp;</span>
+</TD>
+																</TR>
+																<TR>
+																	<TD style="WIDTH: 500px" width="500"></TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR>
+														<TD class="home_subtitle" style="HEIGHT: 7px" align="center"></TD>
+													</TR>
+													<TR>
+														<TD style="HEIGHT: 328px" vAlign="top" align="center">
+															<TABLE id="Table12" height="19" cellSpacing="0" cellPadding="0" width="780" border="0">
+																<TR>
+																	<TD style="PADDING-RIGHT: 6px" vAlign="top" align="center" width="780">
+																		<DIV align="left">
+																			<TABLE cellSpacing="0" cellPadding="0" align="left" border="0">
+																				<TR>
+																					<TD style="HEIGHT: 1px">
+																						<TABLE cellSpacing="0" cellPadding="0" border="0">
+																							<TR>
+																								<TD></TD>
+																							</TR>
+																							<TR>
+																								<TD class="pic_explain"></TD>
+																							</TR>
+																						</TABLE>
+																					</TD>
+																				</TR>
+																				<TR>
+																					<TD style="HEIGHT: 10px"></TD>
+																				</TR>
+																				<TR>
+																					<TD></TD>
+																				</TR>
+																			</TABLE>
+																			<DIV align="left"><B></B></DIV>
+																			<DIV align="left"><span id="lbHeadline" class="main_title">Vui vào giờ chót</span></DIV>
+																			<DIV align="left">
+																				<DIV align="left"><span id="lbDate" class="time_zone">10:15:00 15/11/2011</span></DIV>
+																				<DIV align="left"><span id="lbAuthor1" class="author"><a href='http://ca.cand.com.vn/News/huuuoc/index.html' target=_blank></a></span></DIV>
+																			</DIV>
+																		</DIV>
+																		<DIV align="left"><span class="main_abstract">Ngày thứ 3, thể thao Việt Nam góp mặt ở 24 môn thi, kì vọng giành 12 HCV. Bên cạnh các môn thế mạnh đã tranh tài từ những ngày trước như karatedo, taekwondo, điền kinh, bắn súng, bơi lội, thì môn võ truyền thống của Việt Nam - vovinam cũng chính thức xuất trận. </span></DIV>
+																		<DIV align="left"><span id="lbContinue" class="time_zone"></span><span id="lbBody" class="main_content"><P><FONT size=2>Vật, pencak silat, golf... cũng bước vào tranh tài. Tuy nhiên, trong suốt buổi sáng, tin vui chỉ đến từ đội tuyển bắn súng khi xạ thủ Hoàng Xuân Vinh giành chiến thắng ở nội dung 10m súng ngắn hơi với thành tích 675,3 điểm, qua đó mang về tấm HCV thứ 18 cho đoàn Việt Nam. Cũng ở nội dung này, xạ thủ khác của Việt Nam là Trần Quốc Cường cũng giành HCĐ với thành tích 671,1 điểm. Hai nội dung bắn súng còn lại là 50m súng trường nằm bắn nữ và 10m mục tiêu di động nữ, Việt Nam đều không lọt vào vị trí có huy chương. </FONT></P>
+<P><FONT size=2>Karatedo đã kết thúc tất cả các nội dung thi đấu ở SEA Games 26. Trong ngày cuối cùng, các võ sĩ Việt Nam đều kém may mắn. Rất tiếc khi bộ ba Vũ Nguyệt Ánh - Lê Bích Phương - Trần Hoàng Yến Phượng chỉ có thể giành tấm HCĐ ở nội dung kumite đồng đội nữ sau khi vượt qua Thái Lan với tỉ số 1-0. Taekwondo cũng lĩnh trọn ngày buồn khi thi đấu không thành công ở hầu hết các nội dung. </FONT></P>
+<P><FONT size=2>Sau thất bại đáng tiếc của Nguyễn Thị Hoài Thu, đến lượt võ sĩ giàu kinh nghiệm Nguyễn Trọng Cường (hạng cân 87kg) đã phải dừng bước ngay tại bán kết vì những quyết định thiếu công bằng của trọng tài khi ưu ái cho võ sĩ chủ nhà. Hạng 53kg nữ của Doãn Thị Hương Giang và hạng 54kg nam của Nguyễn Hữu Nhân cũng đều dừng bước ở bán kết. Niềm vui cũng không đến với các cô gái cầu mây Việt Nam khi họ phải đối mặt với đối thủ đầy duyên nợ là Thái Lan trong trận chung kết. Không nằm ngoài dự đoán, các cô gái Việt Nam đã không thể vượt qua được người Thái khi chịu thất bại cả 3 set, qua đó chỉ giành được HCB. </FONT></P>
+<P><FONT size=2>Tin vui chỉ đến dồn dập vào cuối buổi chiều khi kiếm thủ Trần Thị Len (đấu kiếm) giành HCV ở nội dung kiếm 3 cạnh nữ sau khi xuất sắc vượt qua kiếm thủ chủ nhà với tỉ số 12/8 trong trận chung kết. Ngay trong ngày ra quân đầu tiên, môn vật cũng mang về tấm HCV thứ 20 khi đô vật Khổng Văn Khoa (hạng 74kg) đã đánh bại đô vật người Philippines. Tuy nhiên, ở các hạng cân 60kg và 66kg nam, võ sĩ Tạ Ngọc Tân và Trần Văn Tưởng đều để thua võ sĩ của Indonesia và Philippines trong trận chung kết. </FONT></P>
+<P><FONT size=2>Ở hạng 55kg nam, võ sĩ Đồng Văn Biên mặc dù được kì vọng mang về HCV song cũng đã thất bại với tỉ số 0-2 trước võ sĩ Philippines. Sức ép thành tích đang đè nặng lên đội tuyển vật bởi Ban huấn luyện đặt chỉ tiêu giành tổng cộng 7 HCV. Cuối buổi chiều, tin vui lại đến khi vovinam cũng giành được tấm HCV đầu tiên trong ngày đầu tranh tài khi 4 võ sĩ Nguyễn Bình Định, Nguyễn Văn Cường, Phan Ngọc Tới, Huỳnh Khắc Nguyện đã phối hợp nhuần nhuyễn với nhau ở bài thi đòn chân tấn công, giành điểm cao nhất (279 điểm). Chỉ sau đó ít phút, Phan Thị Hà Thanh - người vừa giành chuẩn Olympic London 2012 đã lập công với tấm HCV thứ 21 ở môn thể dục dụng cụ, nội dung toàn năng nữ. Bên cạnh đó, Đỗ Ngân Thương cũng mang về thêm 1 HCB</FONT></P>
+<P align=center>
+<TABLE style="BORDER-BOTTOM: #002896 1px solid; BORDER-LEFT: #002896 1px solid; WIDTH: 500px; BORDER-TOP: #002896 1px solid; BORDER-RIGHT: #002896 1px solid" cellSpacing=2 cellPadding=3 bgColor=#c8e6fa align=center>
+<TBODY>
+<TR>
+<TD>
+<P><FONT size=2>Tính đến 20h, Đoàn thể thao Việt Nam đang đứng thứ 3 trên bảng xếp hạng với thành tích 24 HCV, 24 HCB, 29 HCĐ. Chủ nhà Indonesia vẫn giữ vị trí đầu bảng với 51 HCV, 39 HCB, 30 HCĐ. Thái Lan với vị trí thứ 2 (27 HCV, 23 HCB, 27 HCĐ).</FONT></P></TD></TD></TR></TBODY></TABLE><img src='/Images/reddot.gif'></P></span></DIV>
+																	</TD>
+																</TR>
+															</TABLE>
+															<BR>
+														</TD>
+													</TR>
+													<TR>
+														<TD style="HEIGHT: 40px" align="center">
+															<P align="center">
+																<TABLE id="Table10" height="19" cellSpacing="0" cellPadding="0" width="780" border="0">
+																	<TR>
+																		<TD align="center" width="780">
+																			<DIV align="right"><span id="lbAuthor2" class="source">Khánh Vy</span><br>
+</DIV>
+																		</TD>
+																	</TR>
+																</TABLE>
+															</P>
+														</TD>
+													</TR>
+													<TR>
+														<TD vAlign="top" align="center">
+															<TABLE cellSpacing="0" cellPadding="3" width="780" bgColor="#faf5ed" border="0">
+																<TR>
+																	<TD></TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR class="event">
+														<TD style="PADDING-BOTTOM: 10px" align="center"><div id="pnEvent">
+	
+																
+															
+</div></TD>
+													</TR>
+													<TR>
+														<TD align="center">
+															<TABLE id="Table8" height="19" cellSpacing="0" cellPadding="0" width="780" bgColor="#f1f1f1"
+																border="0">
+																<TR>
+																	<TD align="center" width="580">
+																		<DIV align="center"><IMG height="12" alt="" hspace="4" src="/images/temp.gif" width="14" border="0">
+																			<a id="lnkAddToFavorite2" href="javascript:addFavouriteStory('159828','Vui vào giờ chót','/vi-VN/thethao/2011/11/159828.cand'); alert('Tin đã được thêm vào danh sách');">Lưu lại để đọc</a>&nbsp;|<IMG height="12" alt="" hspace="4" src="/images/email.gif" width="14" border="0"><A href='javascript:showDialog("/InfoPages/Email4Friend.aspx?new_url=http://www.cand.com.vn/vi-VN/thethao/2011/11/159828.cand",450,350)'  Email4Friend.aspxnew_url='http:/"' InfoPages new_url='http:/"' Email4Friend.aspx  Email4Friend.aspx new_url='http:/"'???????????????????????????????????????????????????????>Email 
+																				của bài này</A> |<IMG height="12" alt="" hspace="4" src="/images/contact.gif" width="14" border="0"><A href='javascript:showDialog("/InfoPages/Republish.aspx?ID=159828",550,350)'  InfoPages Republish.aspxID Republish.aspx  ID Republish.aspx Republish.aspx??????????????????????????????????????????????????????????????????????????????????????????????????????????????>Liên 
+																				hệ đăng bài này</A> |<IMG height="12" alt="" hspace="4" src="/images/print.gif" width="14" border="0"><A href='/News/PrintView.aspx?ID=159828' target=_blank >In 
+																				bài này</A>&nbsp;</A>&nbsp;
+																		</DIV>
+																	</TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR>
+														<TD style="PADDING-BOTTOM: 6px" align="center"></TD>
+													</TR>
+													<TR>
+														<TD style="HEIGHT: 42px" align="center">
+															<TABLE id="Table9" height="19" cellSpacing="0" cellPadding="0" width="780" border="0">
+																<TR>
+																	<TD align="center" width="780">
+																		<DIV align="center">
+<p>
+	<div id="Feedback1_pnlContent">
+	
+		<TABLE id="Table3" cellSpacing="0" cellPadding="0" width="100%" align="center" border="0">
+			<TR height="4">
+				<TD height="4">
+					<SCRIPT language="JavaScript1.2" src="/jscripts/vietuni.js" type="text/javascript"></SCRIPT>
+					<SCRIPT language="JavaScript1.2"> setTypingMode(4); </SCRIPT>
+					<SCRIPT language="JavaScript">
+					function gf(p_el) {	}function lf(p_el) {	}
+					</SCRIPT>
+				</TD>
+			</TR>
+			<TR>
+				<TD vAlign="top">
+					<TABLE id="Table5" cellSpacing="0" cellPadding="0" width="100%" bgColor="#f1f1f1" border="0">
+						<TR>
+							<TD>
+								<DIV align="center">
+									<TABLE id="Table6" cellSpacing="0" cellPadding="0" width="100%" border="0">
+										<TR>
+											<TD>
+												<TABLE id="Table7" cellSpacing="0" cellPadding="0" width="100%" bgColor="#f1f1f1" border="0">
+													<TR height="24">
+														<TD align="center" bgColor="#407080"><B><FONT color="white">Ý kiến của bạn</FONT></B></TD>
+													</TR>
+													<TR>
+														<TD>
+															<TABLE id="Table8" cellSpacing="0" cellPadding="1" width="100%" border="0">
+																<TR>
+																	<TD class="TitleFront" align="right" width="100">Tên của bạn:</TD>
+																	<TD>
+																		<input name="Feedback1$txtName" type="text" id="Feedback1_txtName" class="tbflat" onkeyup="telexingVietUC(this,event);" />
+																		&nbsp;</TD>
+																<TR>
+																	<TD class="TitleFront" align="right" width="100">Email:</TD>
+																	<TD>
+																		<input name="Feedback1$txtEmail" type="text" id="Feedback1_txtEmail" class="tbflat" />
+																		
+																		
+																		</TD>
+																</TR>
+																<TR>
+																	<TD class="TitleFront" align="right" width="100">Tiêu đề:</TD>
+																	<TD>
+																		<input name="Feedback1$txtHeadLine" type="text" id="Feedback1_txtHeadLine" class="tbflat" onkeyup="telexingVietUC(this,event);" />
+																		&nbsp;</TD>
+																</TR>
+																<TR>
+																	<TD style="PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px" align="right" colSpan="2">
+																		<INPUT onfocus="setTypingMode(0);" type="radio" value="OFF" name="switch">Tắt bộ gõ
+																		<INPUT onfocus="setTypingMode(1)" type="radio" CHECKED value="TELEX" name="switch">Tự động
+																		<INPUT onfocus="setTypingMode(1)" type="radio" value="TELEX" name="switch">Telex
+																		<INPUT onfocus="setTypingMode(2)" type="radio" value="VNI" name="switch">VNI <INPUT onfocus="setTypingMode(3)" type="radio" value="VIQR" name="switch">VIQR</TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR>
+														<TD style="PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px" colSpan="2">
+															<textarea name="Feedback1$txtContent" rows="8" cols="20" id="Feedback1_txtContent" class="tbflat1" onkeyup="telexingVietUC(this,event);"></textarea>
+															<span id="Feedback1_lblID"><input type=hidden name=ID value=159828></span>
+															&nbsp;</TD>
+													</TR>
+												</TABLE>
+												</TD>
+										</TR>
+										<TR>
+											<TD style="PADDING-RIGHT: 5px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px">
+												<TABLE width="100%">
+													<TR>
+														<TD><IMG style="CURSOR: hand" onclick="window.scrollTo(0,0)" src="/Images/Gotop.gif" border="0">
+														</TD>
+														<TD align="right">
+															<input type="image" name="Feedback1$btnSend" id="Feedback1_btnSend" DESIGNTIMEDRAGDROP="89" src="/Images/btnSend55x24.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;Feedback1$btnSend&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" border="0" /></TD>
+													</TR>
+												</TABLE>
+											</TD>
+										</TR>
+									</TABLE>
+								</DIV>
+							</TD>
+						</TR>
+					</TABLE>
+				</TD>
+			</TR>
+		</TABLE>
+	
+</div></p>
+</DIV>
+																	</TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR>
+														<TD align="center">
+															<TABLE id="Table7" cellSpacing="0" cellPadding="0" width="780" border="0">
+																<TR>
+																	<TD style="HEIGHT: 18px"></TD>
+																	<TD style="HEIGHT: 18px" vAlign="top" align="right"></TD>
+																</TR>
+																<TR>
+																	<TD style="HEIGHT: 18px"><p align=left><input type=button style="width:140; background-Color: white; color: #003143; font-size: 11px; font-family: Arial, Verdana, Tahoma; Cursor:hand; Border:none; Font-Weight:bold" value="Xem bài theo ngày tháng" onclick="popUpCalendar(this, this, 'dd-mm-yyyy',76, 'vi')"><img src='/Images/detail_2.gif'></p></TD>
+																	<TD style="HEIGHT: 18px" vAlign="top" align="right"><a id="AnotherStory" href="/vi-VN/thethao.cand"><b>Xem tiếp</b>&nbsp;<img src='/images/detail.gif' border=0></a></TD>
+																</TR>
+																<TR>
+																	<TD colSpan="2"><b>Các bài mới:</b><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159829.cand">Lấp lánh nụ cười tuổi 15</a> <span class='time_Zone'>(15/11)</span><BR></TD>
+																</TR>
+																<TR>
+																	<TD colSpan="2"><b>Các bài đã đăng:</b><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159827.cand">"Thời oanh liệt nay còn đâu..."</a> <span class='time_Zone'>(15/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159768.cand">Đoàn Việt Nam tạm thời xếp vị trí thứ 3</a> <span class='time_Zone'>(14/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159767.cand">Vì sao chúng ta mất những tấm huy chương “nắm chắc trong tay”?</a> <span class='time_Zone'>(14/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159772.cand">Hoài Thu thất bại, taekwondo thi đấu mờ nhạt</a> <span class='time_Zone'>(14/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159771.cand">Lê Bích Phương mang về tấm HCV thứ 10</a> <span class='time_Zone'>(14/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159770.cand">Nguyễn Thanh Phúc cứu nguy cho điền kinh</a> <span class='time_Zone'>(14/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159769.cand">Bắn súng liên tiếp lập công</a> <span class='time_Zone'>(14/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159749.cand">Thay đổi để hoàn thiện…!</a> <span class='time_Zone'>(13/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159676.cand">Hội thao Công đoàn CAND lần thứ VIII khu vực phía Bắc</a> <span class='time_Zone'>(12/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159675.cand">Thua Indonesia, Singapore gần như bị loại </a> <span class='time_Zone'>(12/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159673.cand">Đẹp rạng ngời mà chưa thấy vui</a> <span class='time_Zone'>(12/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159674.cand">Canoeing mang về tấm huy chương đầu tiên cho đoàn VN</a> <span class='time_Zone'>(12/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159672.cand">Luyện bài dứt điểm</a> <span class='time_Zone'>(12/11)</span><BR></TD>
+																</TR>
+																<TR>
+																	<TD style="HEIGHT: 2px" colSpan="2">&nbsp;</TD>
+																</TR>
+																<TR>
+																	<TD colSpan="2">
+																		<HR color="lightgrey" SIZE="1">
+																		<TABLE id="Table3" cellSpacing="0" cellPadding="0" width="100%" border="0">
+																			<TR>
+																				<TD style="WIDTH: 465px" vAlign="top" align="left" width="465"></TD>
+																				<TD align="right"><FONT face="Verdana"><IMG style="CURSOR: hand" onclick="window.scrollTo(0,0)" alt="" src="/Images/Gotop.gif"
+																							stye="Cursor:hand"></FONT></TD>
+																			</TR>
+																		</TABLE>
+																	</TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR>
+														<TD align="center" height="5">
+															<P>&nbsp;</P>
+														</TD>
+													</TR>
+													<TR>
+														<TD></TD>
+													</TR>
+												</TBODY>
+											</table>
+										</TD>
+										<TD class="leftright_columms" vAlign="top" width="200"><TABLE cellSpacing="0" cellPadding="0" width="100%" border="0">
+												<TR>
+													<TD bgColor="#7bb6c8">
+<script language="javascript" src="/JScripts/vietuni.js"></script>
+<script>setTypingMode(4);</script>
+<table width="160" border="0" cellspacing="0" cellpadding="2" bgcolor="#7ab4c7" style="HEIGHT: 20px">
+	<tr style="HEIGHT:30px">
+		<td align="left">
+			<font color="#7ab4c7" style="PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px">
+				<input class="tbflat2" type="text" name="SearchPhrase" onkeyup="telexingVietUC(this,event);"
+					onfocus="if (this.value=='Tìm kiếm') this.value='';" onblur="if (this.value=='') this.value='Tìm kiếm';"
+					border="0" value='Tìm kiếm' size="20"></font>
+		</td>
+		<TD vAlign="middle" align="left">
+			<input type="image" name="Searches1$btnSubmit" id="Searches1_btnSubmit" title="Tìm kiếm" src="/Images/content_searhc_button19x18.gif" border="0" /></TD>
+	</tr>
+</table>
+<INPUT type="hidden" value="0" name="SearchMessage"> <INPUT type="hidden" value="phrase" name="andor">
+</TD>
+												</TR>
+												<TR>
+													<TD>
+</TD>
+												</TR>
+												<TR>
+													<TD>
+<TABLE id="Table1" cellSpacing="0" cellPadding="0" width="200" border="0">
+	
+	<TR>
+		<TD class="rightside_cell">
+			<DIV align="center">
+				
+<TABLE id="Table1" cellSpacing="0" cellPadding="0" width="100%" border="1" style="BORDER-COLLAPSE:collapse" bordercolor="#9a9a9a">
+	<TR>
+		<TD vAlign="top">
+			<TABLE id="Table2" cellSpacing="0" cellPadding="0" width="100%" border="0">
+				<TBODY>
+					<TR height="20">
+						<TD height="20">
+							<img id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_imgBanner" src="/Images/top10_CANDONLINE_Title.gif" width="200" border="0" /></TD>
+					</TR>
+					<TR>
+						<TD style="PADDING-TOP: 2px">
+							<DIV style="OVERFLOW-Y: auto; WIDTH: 200px; HEIGHT: 250px">
+								
+										<table width="100%" border="0" cellspacing="2" cellpadding="0">
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl01_lblSTT"><b>1.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl01_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/xahoi/2011/11/159875.cand">Đà Nẵng lập quy hoạch 3 bãi đỗ xe ngầm</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl02_lblSTT"><b>2.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl02_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/xahoi/2011/11/159876.cand">ĐBSCL xây dựng hệ thống thủy lợi thích ứng với nước biển dâng</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl03_lblSTT"><b>3.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl03_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/xahoi/2011/11/159880.cand">Xây dựng tháp cảnh báo sóng thần tại 28 tỉnh, thành phố ven biển</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl04_lblSTT"><b>4.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl04_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/toiphama-z/2011/11/159879.cand">Dùng vũ khí nóng cướp tài sản</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl05_lblSTT"><b>5.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl05_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/xahoi/2011/11/159877.cand">Người bị TNGT do vi phạm Luật GTĐB không được BHYT thanh toán</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl06_lblSTT"><b>6.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl06_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/phapluat/2011/11/159878.cand">Trả hồ sơ điều tra bổ sung vụ giết chủ tiệm cắt tóc Quang Hải</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl07_lblSTT"><b>7.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl07_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/phapluat/2011/11/159873.cand">Xóa sổ nhiều băng trộm chuyên "ăn hàng" tại KCN</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl08_lblSTT"><b>8.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl08_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/kinhte/2011/11/159874.cand">Buôn lậu "nóng" dần ở Lào Cai</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl09_lblSTT"><b>9.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl09_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/kinhte/2011/11/159872.cand">Đầu tư kim cương có thể tăng trưởng 10-18%/năm</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl10_lblSTT"><b>10.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl10_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/toiphama-z/2011/11/159871.cand">Bóp cổ chết bạn gái rồi cướp tài sản "trừ nợ"</a></td>
+										</tr>
+									
+			</TABLE>
+			</DIV>
+		</TD>
+	</TR>
+	<TR>
+		<TD height="7">
+			<img src="/images/top10_bottom_back.gif" width="200"></TD>
+	</TR>
+</TABLE>
+</TD></TR></TBODY></TABLE>
+</DIV>
+		</TD>
+	</TR>
+	<TR>
+		<TD class="rightside_cell"></TD>
+	</TR>
+	<TR>
+		<TD style="HEIGHT: 0px">
+			
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<TD style="PADDING-BOTTOM: 2px;" align="center" bgColor="#ac051f" height="25">
+					<span id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl00_lbTieudiem" class="tieudiem_title">TIÊU ĐIỂM</span></TD>
+			</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="159767" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Vì sao chúng ta mất những tấm huy chương “nắm chắc trong tay”?
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								10:04, 14/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Những ngày đầu SEA Games 26, bên cạnh niềm vui đến từ những chiếc HCV hết sức bất ngờ, chẳng hạn như chiếc HCV đồng đội nam của TDDC hay HCV đi bộ 20 Km nữ của Nguyễn Thị Thanh Phúc, thể thao Việt Nam cũng đã ngậm ngùi với những tấm huy chương tưởng như đã nắm chắc trong tay nhưng cuối cùng mất trắng. Tại sao chúng ta lại mất những tấm huy chương như thế? 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/11/159767.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'159767', 'inline');"
+											onMouseOut="setVisibility(event,'159767', 'none');" >
+											Vì sao chúng ta mất những tấm huy chương “nắm chắc trong tay”?
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/thethao/2011/11/159767.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl01_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\nguyenbinh/10_doi2301-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id159749" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Thay đổi để hoàn thiện…!
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								11:11, 13/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Mặc dù còn trận đấu cuối cùng với U.23 Lào, nhưng sau cơn mưa gôn vào lưới Brunei ngày hôm qua, U.23 Việt Nam đã có tới 99,9% khả năng vào bán kết với ngôi đầu bảng. Có nghĩa là chúng ta đã hoàn thành mục tiêu ở vòng đấu bảng. Thế nhưng mục tiêu số 1 của BĐVN ở SEA Games năm nay dĩ nhiên không dừng lại ở việc đứng đầu vòng bảng, mà là phải vào chung kết và đoạt ngôi vô địch. Vậy thì cái mục tiêu tối thượng ấy liệu có được hiện thực hóa hay không?
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/11/159749.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id159749', 'inline');"
+											onMouseOut="setVisibility(event,'id159749', 'none');" >
+											Thay đổi để hoàn thiện…!
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/11/159749.cand'>
+											Thay đổi để hoàn thiện…!
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/thethao/2011/11/159749.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl02_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\maiphuong\maiphuong/12_u2300-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="159673" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Đẹp rạng ngời mà chưa thấy vui
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								10:44, 12/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Một "fan" hâm mộ giải Ngoại hạng Anh, thuộc loại máu mê cũng luôn quan tâm bóng đá nước nhà - lão nghệ sĩ tuổi gần 80 cất tiếng nửa nói, nửa hát rất to dọc hành lang tầng 3 khu tập thể Bộ Văn hóa: "Đẹp rạng ngời mà chưa thấy sướng", buộc tôi phải phụ họa tiếp theo cho trọn nghĩa: "Ấy là trận cầu vừa qua". 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/11/159673.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'159673', 'inline');"
+											onMouseOut="setVisibility(event,'159673', 'none');" >
+											Đẹp rạng ngời mà chưa thấy vui
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/thethao/2011/11/159673.cand'>
+								</a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id159495" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Và con tim đã vui trở lại...
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								8:38, 09/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Một U.23 Đông Timor trước giải được nhìn nhận như "kẻ lót đường" bỗng nhiên leo lên dẫn đầu bảng B sau 2 trận toàn thắng - đấy chính là cú sốc lớn nhất của bóng đá SEA Games 26 tính đến thời điểm này. Và "cú sốc lớn nhất" sẽ trở thành "cú sốc vĩ đại" nếu đêm nay, Đông Timor giành 3 điểm trước Việt Nam. Nhưng chúng tôi tin điều đó sẽ không thể xảy ra. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/11/159495.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id159495', 'inline');"
+											onMouseOut="setVisibility(event,'id159495', 'none');" >
+											Và con tim đã vui trở lại...
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/11/159495.cand'>
+											Và con tim đã vui trở lại...
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/thethao/2011/11/159495.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl04_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\nguyenbinh/10_hlv2296-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="159434" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Làm gì để "phá bê tông"?
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								11:10, 08/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Trên lý thuyết, đá với Đông Timor dễ hơn nhiều so với Philippines hay Myanmar, bởi đơn giản là cầu thủ Đông Timor to hơn và vụng về hơn. Nhưng vấn đề là sau khi nhìn cái cách Việt Nam bất lực trước hàng thủ "bê tông" của Myanmar, nhiều khả năng Đông Timor cũng sẽ thiết lập một hàng thủ "bê tông" y như thế để chống Việt Nam. Thế thì chúng ta phải làm gì để "phá bê tông"? 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/11/159434.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'159434', 'inline');"
+											onMouseOut="setVisibility(event,'159434', 'none');" >
+											Làm gì để "phá bê tông"?
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/thethao/2011/11/159434.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl05_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\nguyenbinh/10_viet2295-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id159353" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Chữa bệnh “tâm lý” cho ông Falko Goetz! 
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								10:37, 07/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Hòa Myanmar, một trong hai đối thủ “đáng chơi” nhất tại vòng đấu bảng, cửa đi tiếp của U.23 Việt Nam tại SEA Games 26 vẫn rộng thênh thang. Nhưng vấn đề không nằm ở tỷ số hòa mà nằm ở cách hòa và hàng loạt những dấu hiệu lạ phía sau trận hòa. Để cứu tiền đồ ĐT ở một trong những kỳ SEA Games mà chúng ta đặt nhiều kỳ vọng nhất, hơn lúc nào hết phải nhìn thẳng một sự thật: Thuyền trưởng Falko Goetz đang bị “tâm lý”, và phải cùng tìm ra phương thức “chữa bệnh tâm lý” cho ông. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/11/159353.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id159353', 'inline');"
+											onMouseOut="setVisibility(event,'id159353', 'none');" >
+											Chữa bệnh “tâm lý” cho ông Falko Goetz! 
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/11/159353.cand'>
+											Chữa bệnh “tâm lý” cho ông Falko Goetz! 
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/thethao/2011/11/159353.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl06_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\nguyenbinh/10_thanh2294-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="159182" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Thắng thót tim!
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								12:22, 04/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Chúng ta đã thắng, và đã có được một "khởi đầu xuôi", thế nhưng cái cảm giác thót tim sau một chiến thắng lại đang hiện diện trong lòng rất nhiều người. Dĩ nhiên, không phải thót tim với tỷ số "3-1", mà thót tim với hàng loạt sai số trong một trận đấu mà đối thủ yếu và thiếu hơn chúng ta tưởng tượng trước đó rất nhiều. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/11/159182.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'159182', 'inline');"
+											onMouseOut="setVisibility(event,'159182', 'none');" >
+											Thắng thót tim!
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/thethao/2011/11/159182.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl07_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\nguyenbinh/10_niem2291-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id159115" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Chúng ta sẽ thắng, nếu...
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								10:06, 03/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Nếu không chủ quan, và không mắc những sai số bất thình lình như ở AFF Cup 2010, có thể tin rằng chúng ta sẽ thắng. Thắng để rửa “mối hận” hơn 300 ngày trước. Và thắng để "khởi đầu xuôi" trong hành trình leo đỉnh vàng khu vực. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/11/159115.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id159115', 'inline');"
+											onMouseOut="setVisibility(event,'id159115', 'none');" >
+											Chúng ta sẽ thắng, nếu...
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/11/159115.cand'>
+											Chúng ta sẽ thắng, nếu...
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/thethao/2011/11/159115.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl08_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\nguyenbinh/10_chieu2290-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="159055" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Bí ẩn Philippines
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								10:02, 02/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Khi bị gặng hỏi về U.23 Philippines, ông Falko Goetz nói rất thật là ông không biết nhiều về đối thủ. Nhưng ông lại cho rằng, việc đội bóng này được dẫn dắt bởi một HLV người Đức - đồng hương của ông sẽ khiến ông hình dung về diện mạo của họ một cách dễ dàng hơn. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/11/159055.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'159055', 'inline');"
+											onMouseOut="setVisibility(event,'159055', 'none');" >
+											Bí ẩn Philippines
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/thethao/2011/11/159055.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl09_FSA" src="http://www.cand.com.vn/Thumbnail\UPLOADED_CANDONLINE\nguyenbinh/10_thu2289-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id158936" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Taekwondo gặp khó đủ đường
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								11:03, 31/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Không thể đưa đội hình mạnh nhất tới Indonesia vì phải tập trung lực lượng cho vòng tuyển chọn Olympic khu vực châu Á diễn ra tại Thái Lan trong cùng thời điểm, taekwondo - bộ môn được coi là "mỏ vàng" của thể thao Việt Nam, chỉ đưa ra chỉ tiêu thành tích rất khiếm tốn tại SEA Games 26: 4-5 HCV. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/158936.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id158936', 'inline');"
+											onMouseOut="setVisibility(event,'id158936', 'none');" >
+											Taekwondo gặp khó đủ đường
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/158936.cand'>
+											Taekwondo gặp khó đủ đường
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/158936.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl10_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\linhchi1/10_sau2287-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="158692" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Chuyện chỉ có ở Đông Nam Á
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								2:16, 26/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Với những thông tin mới nhất từ Indoneisa - nước chủ nhà của SEA Games 26, ĐT U.23 Việt Nam có nguy cơ sẽ phải đá một trận vòng bảng với ĐT U.23 Brunei vào lúc 8h sáng, thay vì 7h tối như lịch ban đầu. Ngay lập tức, đội trưởng Phạm Thành Lương thốt lên: "Nếu như vậy thì đúng là thảm họa!".
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/158692.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'158692', 'inline');"
+											onMouseOut="setVisibility(event,'158692', 'none');" >
+											Chuyện chỉ có ở Đông Nam Á
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/158692.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl11_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\thuydt1\thuydt1/11_u2282-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id158595" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Cái cột dọc hy vọng
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								11:58, 25/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Chúng tôi thầm cảm ơn cái cột dọc trong khung thành Malaysia. Cái cột dọc đã từ chối một bàn thắng mười mươi của Ngô Hoàng Thịnh. Cái cột dọc đã ngăn cản U.23 Việt Nam bước lên ngôi vô địch VFF Cup. Cái cột dọc khiến cho rất nhiều tuyển thủ đã phải mất ăn mất ngủ vì tiếc nuối. Bóng đá Việt Nam sẽ có một bộ mặt sáng sủa tại SEA Games, bắt đầu từ chính cái cột dọc hy vọng ấy… 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/158595.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id158595', 'inline');"
+											onMouseOut="setVisibility(event,'id158595', 'none');" >
+											Cái cột dọc hy vọng
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/158595.cand'>
+											Cái cột dọc hy vọng
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/158595.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl12_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\linhchi1/10_cau2281-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="158541" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Bóng đá VN: Những thẻ đỏ làm tan giấc mơ vàng…
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								10:31, 24/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Chu Ngọc Anh đá thẳng chân vào ống quyển đối phương. Rùng mình và tức tối&nbsp;- đó là cảm giác chung của tất cả những ai chứng kiến trận U.23 Việt Nam&nbsp;- U.23 Uzbekistan lúc đó. Và sau đó, ngay cả khi Ngọc Anh rời sân với một chiếc thẻ đỏ của trọng tài, thì cảm giác rùng mình, tức tối cũng không vì thế mà hạ nhiệt. Rùng mình vì pha bóng ấy quá vô nhân đạo, còn tức tối vì pha bóng ấy khiến cho cả một đội bóng lâm nguy. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/158541.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'158541', 'inline');"
+											onMouseOut="setVisibility(event,'158541', 'none');" >
+											Bóng đá VN: Những thẻ đỏ làm tan giấc mơ vàng…
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/158541.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl13_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\linhchi1/10_chu2280-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id158344" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Nhận diện đối thủ của bóng đá VN tại SEA Games 26
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								11:51, 20/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Nếu như với Philippines chúng ta phải đề phòng sức mạnh của cả một "binh đoàn" nhập tịch thì với U.23 Lào, chúng ta lại phải đề phòng sự nguy hiểm đến từ một "người quen cũ" - cựu thầy Alfred Riedl. <BR><STRONG><A href="http://www.cand.com.vn/vi-VN/thethao/2011/10/158302.cand" target=_blank pathAttribute="1">&gt;&gt; Bốc thăm bóng đá SEA Games 26: Việt Nam tránh được bảng tử thần</A></STRONG> 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/158344.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id158344', 'inline');"
+											onMouseOut="setVisibility(event,'id158344', 'none');" >
+											Nhận diện đối thủ của bóng đá VN tại SEA Games 26
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/158344.cand'>
+											Nhận diện đối thủ của bóng đá VN tại SEA Games 26
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/158344.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl14_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\linhchi1/10_hlv2276-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="158222" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Cái miệng ông thầy và chuyện "hỏa mù binh"
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								3:39, 18/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Agribank Cup - tiền thân của VFF Cup bây giờ từng chứng kiến không ít những biểu hiện lạ từ cái miệng của những ông thầy. Những cái miệng mà ở đấy, cảm giác như chiến thuật "hỏa mù binh" đã được áp dụng một cách thuần thục, và con mồi cũng đã bị đưa vào bẫy một cách "ngon lành". 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/158222.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'158222', 'inline');"
+											onMouseOut="setVisibility(event,'158222', 'none');" >
+											Cái miệng ông thầy và chuyện "hỏa mù binh"
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/158222.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl15_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\linhchi1/10_theo2274-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id157986" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Vì sao Quốc Anh không lên tuyển?
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								10:43, 14/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Đang có rất nhiều giả thiết khác nhau xung quanh sự “mất tích” của Quốc Anh, nhưng xem ra tất cả đều nghi ngờ rằng đây là thời điểm Quốc Anh chấm dứt hợp đồng thi đấu với CLB TP HCM, và đang nằm trong tầm ngắm của hơn một CLB đại gia phía trong Nam. Do đó, Quốc Anh cần phải ở lại TP Hồ Chí Minh để thương thảo, bàn bạc về tương lai của mình, thay vì lên tập trung ĐT!? 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/157986.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id157986', 'inline');"
+											onMouseOut="setVisibility(event,'id157986', 'none');" >
+											Vì sao Quốc Anh không lên tuyển?
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/157986.cand'>
+											Vì sao Quốc Anh không lên tuyển?
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/157986.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl16_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\linhchi1/10_hlv2270-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="157841" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Bình Dương chằng chịt bài toán tình cảm
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								10:50, 12/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Với những gì đang diễn ra, có thể tin rằng khả năng ông Tô về Bình Dương không phải là "0%" như một lãnh đạo Bình Dương tuyên bố ngày hôm qua, mà là 50%. Cũng có nghĩa, "bài toán tình cảm" giữa ông Hải với ông "Tô" và ông Hải với những ông chủ Bình Dương cũng đang ở vào trạng thái 50/50. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/157841.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'157841', 'inline');"
+											onMouseOut="setVisibility(event,'157841', 'none');" >
+											Bình Dương chằng chịt bài toán tình cảm
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/157841.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl17_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\linhchi1/10_to2268-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id157791" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Khi ông Falko Goetz "đói" thông tin
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								10:53, 11/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Sáng qua, ông Falko Goetz đã có buổi tập chính thức đầu tiên với các tuyển thủ U.23 QG sau khi cùng ĐTVN trở về từ Nhật Bản. Trả lời báo chí, ông Goetz cho biết, tính đến lúc này, ông vẫn hoàn toàn "mù" thông tin về các đối thủ, nhưng lại tự tin là U.23 Việt Nam rồi sẽ đạt được mục tiêu. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/157791.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id157791', 'inline');"
+											onMouseOut="setVisibility(event,'id157791', 'none');" >
+											Khi ông Falko Goetz "đói" thông tin
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/157791.cand'>
+											Khi ông Falko Goetz "đói" thông tin
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/157791.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl18_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\linhchi1/10_hlv2267-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="157687" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Các ông bầu bóng đá Việt Nam: Lại chuyện nói và làm
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								10:02, 09/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Như Báo CAND đã phản ánh, sau khi thất thế lớn trong vụ Đinh Hoàng La bỏ Ninh Bình về đầu quân cho Bình Dương, ông bầu Hoàng Mạnh Trường của Ninh Bình cho rằng trong phi vụ này, các CLB Việt Nam đã hại nhau khi đã "đi đêm" với cầu thủ. <BR><A href="http://www.cand.com.vn/vi-VN/thethao/2009/6/114266.cand" target=_blank pathAttribute="1"><STRONG>&gt;&gt; "Lá chắn" Đinh Hoàng La và "thanh kiếm" Nguyễn Trọng Hoàng</STRONG></A>
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/157687.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'157687', 'inline');"
+											onMouseOut="setVisibility(event,'157687', 'none');" >
+											Các ông bầu bóng đá Việt Nam: Lại chuyện nói và làm
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/157687.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl19_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\maiphuong/14_dinh2265-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id157635" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Mãnh lực đồng tiền trong bóng đá
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								12:05, 08/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Tuần qua là một tuần mà hàng loạt những con số liên quan đến chuyện tiền bạc cứ thế xuất hiện trong đời sống bóng đá Việt Nam. Từ việc một cầu thủ gốc ngoại phá hợp đồng ra đi vì tiền cho đến việc U.23 Việt Nam được treo một khoản tiền kỷ lục nếu giành chức vô địch SEA Games. <BR><A href="http://www.cand.com.vn/vi-VN/thethao/2011/10/157555.cand" target=_blank pathAttribute="1"><STRONG>&gt;&gt;Các CLB không thể hại nhau thêm nữa</STRONG></A>
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/157635.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id157635', 'inline');"
+											onMouseOut="setVisibility(event,'id157635', 'none');" >
+											Mãnh lực đồng tiền trong bóng đá
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/157635.cand'>
+											Mãnh lực đồng tiền trong bóng đá
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/thethao/2011/10/157635.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl20_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\nguyenbinh/10_dinh2264-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		</table>
+	
+</TD>
+	</TR>
+	<TR>
+		<TD class="rightside_cell"></TD>
+	</TR>
+	<tr>
+		<td>
+			
+		</td>
+	</tr>
+	<TR>
+		<TD class="rightside_cell" align="center"></TD>
+	</TR>
+</TABLE>
+</TD>
+												</TR>
+												<TR>
+													<TD></TD>
+												</TR>
+											</TABLE>
+										</TD>
+									</TR>
+								</TBODY>
+							</TABLE>
+						</TD>
+					</TR>
+					<TR>
+						<TD>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="leftright_columms">
+	<tr>
+		<td vAlign="bottom" align="left">
+			&nbsp;
+		</td>
+	</tr>
+	<tr>
+		<td class="c_right" bgcolor="#920000" height="25">
+			<div align="center">
+				<a id="Footer_lnkCAND" href="http://ca.cand.com.vn">Công an Nhân dân </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkANTG" href="http://antg.cand.com.vn">An ninh Thế giới </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkANTGCT" href="http://antgct.cand.com.vn">ANTG Cuối tháng </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkVNCA" href="http://vnca.cand.com.vn">Văn nghệ Công An </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkSitemap" href="http://www.cand.com.vn/News/Sitemap.aspx">Sơ đồ Website </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkRSS" href="http://www.cand.com.vn/RSS/Default.aspx">RSS </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkFAQ" href="http://www.cand.com.vn/News/FAQ.aspx">FAQ </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkWeblink" href="http://www.cand.com.vn/News/WebLink.aspx">Liên kết Web</a>
+			</div>
+		</td>
+	</tr>
+	<tr height="36">
+		<td bgcolor="#407080" height="36" style="PADDING-BOTTOM:8px;PADDING-TOP:6px">
+			<!--
+			<div align="center" style="PADDING-BOTTOM:2px"><span id="Footer_lbFooter4" class="footer_title1">Tổng Biên tập: Trung tướng Hữu Ước</span></div>
+			-->
+			<DIV align="center" style="PADDING-BOTTOM:2px">
+				<span id="Footer_lbFooter1" class="footer_title1">Phụ trách biên tập: Trần Thị An Bình - Nguyễn Trang Dũng - Trần Anh Tú</span></DIV>
+			<DIV align="center" style="PADDING-BOTTOM:2px">
+				<span id="Footer_lbFooter2" class="footer_title2">©2007. Báo Công an nhân dân điện tử - CAND Online. All rights reserved.</span>
+			</DIV>
+			<div align="center" style="PADDING-BOTTOM:2px">
+				<span id="Footer_lbFooter3" class="footer_title2">Khi sử dụng lại thông tin từ website này, xin vui lòng ghi rõ nguồn "CAND Online".</span>
+			</div>
+		</td>
+	</tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+	_uacct = "UA-4763663-1";
+	_udn="cand.com.vn";
+	urchinTracker();
+</script></TD>
+					</TR>
+				</TBODY>
+			</TABLE>
+			<img src='/rpc/counter.aspx?ckey=F_view&cvalue=76&story=159828&rand=1617338059' width=1 height=1 border=0 alt=''></form>
+	</body>
+</HTML>

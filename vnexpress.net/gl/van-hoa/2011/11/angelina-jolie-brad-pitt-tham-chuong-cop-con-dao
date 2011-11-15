@@ -1,0 +1,1414 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />		
+		<meta name="robots" content="INDEX,FOLLOW" />
+<meta name="description" content="Thông tin nhanh &amp; mới nhất được cập nhật hàng giờ. Tin tức Việt Nam &amp; thế giới về xã hội, kinh doanh, pháp luật, khoa học, công nghệ, sức khoẻ, đời sống, văn hóa, rao vặt, tâm sự..." />
+<title>Tin nhanh VnExpress - Đọc báo, tin tức online 24h</title>
+
+		<meta name="keywords" content="VnExpress,Vietnam News Daily,Economy,Online,Internet,Magazine,Gateway,FPT,Portal,Tin nhanh,cập nhật,báo điện tử,việt báo,tin việt,VietNews,mua bán,rao vặt,tư vấn,việc làm,Hà Nội,Sài Gòn,tin tức,Huế,Đà Nẵng,VDC,Netnam,Saigonnet,Sggp,VET,Nhân dân,Lao động,Kinh tế,Kinh doanh,Tin nhanh,cap nhat,bao dien tu,Vietbao,TinViet,Mua Ban,Rao Vat,Tu Van,Viec Lam,Hanoi,Ha Noi,Saigon,Sai gon,Tin tuc,Tintuc,Hue,Da Nang,Danang,Nhandan,Nhan dan,Laodong,Lao dong,Kinhte,Kinh te,Kinhdoanh,Kinh doanh" />	
+		<meta http-equiv="REFRESH" content="5400" />
+
+		<link rel="stylesheet" href="/Resource/Common/default.css" type="text/css" />	
+		<link href="http://180.148.142.152/Library/AdsNov.css" rel="Stylesheet" style="text/css"> 		
+		
+		<link rel="alternate" type="application/rss+xml" title="VnExpress - RSS" href="/RSS/GL/trang-chu.rss" />
+			
+		
+		<script type="text/javascript" language="javascript" src="/Library/Common/Library.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/Vne.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/FlashMedia.js"></script>						
+        <script type="text/javascript" language="javascript" src="/Library/Common/AjaxRequest.js"></script>
+		<script type="text/javascript" language="javascript" src="/Library/Common/vietUni.js"></script>
+		<script type="text/javascript" language="javascript" src="/Resource/00/ArrMenu.js"></script>        				
+		<script type="text/javascript" language="javaScript">
+			var PAGE_SITE=0;
+			var PAGE_FOLDER=1;	
+			var PAGE_ID=1;	
+			var DOMESTIC_IP=1;	
+			setTypingMode(1);
+			
+		</script>
+		<script type="text/javascript" language="javascript" src="/Resource/Common/Menu.js"></script>
+		
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-249346-1']);
+		_gaq.push(['_trackPageview']);
+		
+		_gaq.push(['b._setAccount', 'UA-249346-21']);
+		_gaq.push(['b._trackPageview']);
+		
+		_gaq.push(['c._setAccount', 'UA-249346-22']);
+		_gaq.push(['c._trackPageview']);
+		
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	
+		<script src="/Library/Common/jquery-1.6.3.min.js"></script>		
+		
+<script type="text/javascript" src="/library/Common/VNEShowAds.js"></script>
+<script src="/library/common/rs.js" type="text/javascript"></script>
+
+	</head>
+	<body>	
+		
+				
+		<input type="hidden" id="CurrentBrowserWidth" value="" />
+		<input type="hidden" id="ShowBackground" value="1" />
+		<div id="divSlideResultLeft" style="background-repeat:no-repeat;background-position:right top;over-flow:hidden;cursor:pointer;text-align:right;padding:0px;position: fixed!important;position: absolute; /*ie6 and above*/;left: 0px; top: 0px;overflow:hidden;"></div>
+		<div id="divSlideResultRight" style="background-repeat:no-repeat;over-flow:hidden;cursor:pointer;text-align:left;padding:0px;position: fixed!important; position: absolute; /*ie6 and above*/;right: 0px; top: 0px;overflow:hidden;"></div>				
+		
+		<div id="outter">		
+		<div id="divMove" style="width:1000px;">
+		<div class="fpr2">
+			<div id="header">
+				<div id="logoEH" class="logo fl" >
+					
+					<a onfocus="this.blur()" hidefocus="" href="/"><img class="img-logo" src="/Images/blank.gif" alt="" /></a>
+					
+				</div>
+				<div id="topbannerEH" class="topbanner fr">
+									
+					<table border="0" cellpadding="0" cellspacing="0" style="width:100%;">
+						<tr>
+							<td style="vertical-align:middle">							
+								<script type="text/javascript" language="javascript">Poly_ShowShareBanner()</script>
+							</td>                           
+						</tr>
+					</table>
+					
+				</div>
+			</div>			
+		</div>				
+		<div id="menu">
+	<div class="searchmenu">
+		<div class="fl icone"></div>
+		<div class="drss fl"><a href="/GL/RSS/" class="link-rss lnkrss">RSS<span></span></a></div>
+		<div id="mn-search" class="search fr">
+			<form onsubmit="return CheckValue(document.Search.s);" action="http://search.vnexpress.net/news" id="Search" name="Search">
+				<span class="fl borright"></span>
+				<input type="text" value="Từ khóa tìm kiếm" onfocus="SearchOnFocus(this)" onkeydown="" onkeyup="initTyper(this)" onblur="SearchOnBlur(this)" id="s" name="s" class="txtsearch fl">
+				<img onclick="return CheckValue(document.Search.s);" alt="" src="/images/blank.gif" class="img-search fl">
+				<input type="hidden" value="66FD8EC7-FA76-4A7C-8FE3-DB605B4C9CE0" name="g">
+				<input type="hidden" value="yes" name="butS">
+			</form>
+		</div>
+	</div>
+	<!--[if lte IE 6]><a id="lnkIE6" href="#"><table cellpadding=0 cellspacing=0 style="border: 0; margin: 0; padding: 0; width: 1000px; height: 25px;"><tr><td><![endif]-->
+	<div class="menu">
+		<ul>
+			<li><div class="fl mn-borleft"></div></li>
+			
+			<li class="active">
+				<a href="/"><span class="pmenuL"></span><span class="pmenuM">Trang nhất</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+			
+				<!--<ul style="padding: 0px; height: 16px">
+					<div class="fl icone"></div>
+					<div class="drss fl"><a href="/GL/RSS/" class="link-rss">RSS <span></span></a></div>
+				</ul>-->
+				<ul class="smenu-home">	
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+					<li class="lnknews24h"><a href="/gl/24h-qua/"></a></li>
+					<li class="ico-ct-wrap">
+						<span class="fl ico-ct"></span>
+						<p class="fl phonect"><span>0123.888.0123</span> (HN) - <span>0129.233.3555</span> (TP.HCM)</p>
+					</li>				
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/video/"><span class="pmenuL"></span><span class="pmenuM">Video</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">													
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/xa-hoi/"><span class="pmenuL"></span><span class="pmenuM">Xã hội</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li><a href="/gl/xa-hoi/giao-duc/">Giáo dục</a></li>
+					<li><a href="/gl/xa-hoi/nhip-dieu-tre/">Nhịp điệu trẻ</a></li>
+					<li><a href="/gl/xa-hoi/du-lich/">Du lịch</a></li>
+					<li><a href="/gl/xa-hoi/co-hoi-du-hoc/">Du học</a></li>												
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/the-gioi/"><span class="pmenuL"></span><span class="pmenuM">Thế giới</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->				
+				<ul class="smenu-other">					
+					<li><a href="/gl/the-gioi/cuoc-song-do-day/">Cuộc sống đó đây</a></li>
+					<li><a href="/gl/the-gioi/anh/">Ảnh</a></li>
+					<li><a href="/gl/the-gioi/nguoi-viet-5-chau/">Người Việt 5 châu</a></li>
+					<li><a href="/gl/the-gioi/phan-tich/">Phân tích</a></li>
+					<li><a href="/gl/the-gioi/tu-lieu/">Tư liệu</a></li>								
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/kinh-doanh/"><span class="pmenuL"></span><span class="pmenuM">Kinh doanh</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->					
+				<ul class="smenu-other">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/gl/ebank/">Ebank</a></li>
+					<li><a href="/gl/kinh-doanh/chung-khoan/">Chứng khoán</a></li>
+					<li><a href="/gl/kinh-doanh/bat-dong-san/">Bất động sản</a></li>
+					<li><a target="_blank" href="http://nhadep.vnexpress.net/gl/nha-dep/">Nhà đẹp</a></li>
+					<li><a href="/gl/kinh-doanh/kinh-nghiem/">Doanh nhân</a></li>
+					<li><a href="/gl/kinh-doanh/quoc-te/">Quốc tế</a></li>
+					<li><a href="/gl/doi-song/mua-sam/">Mua sắm</a></li>
+					<li><a href="/gl/kinh-doanh/doanh-nghiep-viet/">Doanh nghiệp viết</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/van-hoa/"><span class="pmenuL"></span><span class="pmenuM">Văn hóa</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">					
+					<li><a href="/gl/van-hoa/hoa-hau/">Hoa hậu</a></li>
+					<li><a href="/gl/van-hoa/guong-mat-nghe-sy/">Nghệ sỹ</a></li>
+					<li><a href="/gl/van-hoa/am-nhac/">Âm nhạc</a></li>
+					<li><a href="/gl/van-hoa/thoi-trang/">Thời trang</a></li>
+					<li><a href="/gl/van-hoa/san-khau-dien-anh/">Điện ảnh</a></li>
+					<li><a href="/gl/van-hoa/my-thuat/">Mỹ thuật</a></li>
+					<li><a target="_blank" href="http://evan.vnexpress.net/">Văn học</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/the-thao/"><span class="pmenuL"></span><span class="pmenuM">Thể thao</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smsport"><a href="/gl/the-thao/bong-da/">Bóng đá</a></li>
+					<li><a href="/gl/the-thao/tennis/">Tennis</a></li>
+					<li><a href="/gl/the-thao/chan-dung/">Chân dung</a></li>
+					<li><a href="/gl/the-thao/anh-video/">Ảnh - Video</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="http://seagames.vnexpress.net/" target="_blank"><span class="pmenuL"></span><span class="pmenuM">SEA Games 26</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li class="smseagames26"><a href="http://seagames.vnexpress.net/tin/lich-dau/" target="_blank">Lịch đấu</a></li>
+					<li><a href="http://seagames.vnexpress.net/tin/xep-hang/" target="_blank">Bảng xếp hạng</a></li>					
+					<li><a href="http://seagames.vnexpress.net/tin/bong-da/" target="_blank">Bóng đá</a></li>					
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/phap-luat/"><span class="pmenuL"></span><span class="pmenuM">Pháp luật</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smlaw"><a href="/gl/phap-luat/hinh-su/">Hình sự</a></li>
+					<li><a href="/gl/phap-luat/ky-su/">Ký sự</a></li>
+					<li><a href="/gl/phap-luat/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/doi-song/"><span class="pmenuL"></span><span class="pmenuM">Đời sống</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smlife"><a href="/gl/doi-song/cau-chuyen-cuoc-song/">Câu chuyện cuộc sống</a></li>
+					<li><a href="/gl/doi-song/gia-dinh/">Gia đình</a></li>
+					<li><a href="/gl/suc-khoe/">Sức khỏe</a></li>
+					<li><a href="/gl/doi-song/am-thuc/">Ẩm thực</a></li>
+					<li><a href="/gl/suc-khoe/lam-dep/">Làm đẹp</a></li>
+					<li><a href="/gl/doi-song/blog/">Cửa sổ Blog</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/khoa-hoc/"><span class="pmenuL"></span><span class="pmenuM">Khoa học</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smscience"><a href="/gl/khoa-hoc/moi-truong/">Môi trường</a></li>
+					<li><a href="/gl/khoa-hoc/thien-nhien/">Thiên nhiên</a></li>
+					<li><a href="/gl/khoa-hoc/anh/">Ảnh</a></li>
+					<li><a href="/gl/khoa-hoc/ky-thuat-moi/">Công nghệ mới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/vi-tinh/"><span class="pmenuL"></span><span class="pmenuM">Vi tính</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smmicrocalculate"><a href="/gl/vi-tinh/san-pham-moi/">Sản phẩm mới</a></li>
+					<li><a href="/gl/vi-tinh/kinh-nghiem/">Kinh nghiệm</a></li>
+					<li><a href="/gl/vi-tinh/giai-tri/">Giải trí</a></li>
+					<li><a href="/gl/vi-tinh/hoi-dap/">Hỏi đáp</a></li>
+					<li><a href="/gl/vi-tinh/hacker-virus/">Hacker &amp; Virus</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/oto-xe-may/"><span class="pmenuL"></span><span class="pmenuM">Ôtô - Xe máy</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">					
+					<li class="smcar"><a href="/gl/oto-xe-may/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/ban-doc-viet/"><span class="pmenuL"></span><span class="pmenuM">Bạn đọc</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-bdv">					
+					<li><a href="/gl/ban-doc-viet/khoa-hoc/">Khoa học</a></li>						
+					<li><a href="/gl/ban-doc-viet/doi-song/">Đời sống</a></li>
+					<li><a href="/gl/ban-doc-viet/phap-luat/">Pháp luật</a></li>
+					<li><a href="/gl/ban-doc-viet/xa-hoi/">Xã hội</a></li>
+					<li><a href="/gl/ban-doc-viet/kinh-doanh/">Kinh doanh</a></li>
+					<li><a href="/gl/ban-doc-viet/the-thao/">Thể thao</a></li>
+					<li><a href="/gl/ban-doc-viet/van-hoa/">Văn hoá</a></li>
+					<li><a href="/gl/ban-doc-viet/the-gioi/">Thế giới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/ban-doc-viet/tam-su/"><span class="pmenuL"></span><span class="pmenuM">Tâm sự</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other"></ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/rao-vat/"><span class="pmenuL"></span><span class="pmenuM">Rao vặt</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-raovat">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/cuoi/"><span class="pmenuL"></span><span class="pmenuM">Cười</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-bdv">
+					<li><a href="/gl/cuoi/video/">Video</a></li>
+					<li><a href="/gl/cuoi/tieu-pham/">Tiểu phẩm</a></li>						
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+		</ul>
+	</div><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</div>
+
+		<div id="topnews">	
+			<div id="top4" class="top4 fl">	
+	<div class="hotnews-top fl"></div>
+	<div class="hotnews-content fl">
+		<div class="hotnews-detail fl">
+			<p><a href="http://seagames.vnexpress.net/tin/mon-khac/2011/11/doan-viet-nam-gianh-hc-vang-thu-26/" target="_bank"><img alt="" class="img-topnews fl" src="/Files/Subject/3b/bb/c3/ac/t-td1.jpg" /></a><a class="link-topnews" href="http://seagames.vnexpress.net/tin/mon-khac/2011/11/doan-viet-nam-gianh-hc-vang-thu-26/" target="_bank">Đoàn Việt Nam giành HC vàng thứ 26</a></p>
+<p>Thắng lợi của thể dục, màn ra mắt của vovinam và chín tấm huy chương vàng là những điểm sáng của đoàn Việt Nam trong ngày thi đấu thứ ba. <BR><A class=Lead1 href="http://seagames.vnexpress.net/tin/mon-khac/2011/11/vovinam-8211-hon-viet-o-jakarta/">> Vovinam - hồn Việt ở Jakarta </A> <A class=Lead1 href="http://seagames.vnexpress.net/tin/mon-khac/2011/11/nam-cua-ha-thanh-va-su-tro-lai-cua-ngan-thuong/">/ Năm của Hà Thanh và sự trở lại của Ngân Thương</A></p>
+
+		</div>
+	</div>
+	<div class="hotnews-bottom fl"></div>	
+	<div class="t3 fl">		
+		<div class="t3-content fl">
+			<p><a href="/gl/kinh-doanh/2011/11/dai-bieu-quoc-hoi-nong-voi-quang-cao-nham-vao-tre-em/"><img alt="" class="img-top3" src="/Files/Subject/3b/bb/c3/ec/quang-cao.jpg.thumb150x0.ns.jpg" /></a></p>
+<p><a class="link-title" href="/gl/kinh-doanh/2011/11/dai-bieu-quoc-hoi-nong-voi-quang-cao-nham-vao-tre-em/">Đại biểu Quốc hội 'nóng' với quảng cáo nhằm vào trẻ em</a></p>
+
+		</div>		
+		<div class="t3-content fl">
+			<p><a href="/gl/xa-hoi/2011/11/no-binh-gas-tai-nha-hang-2-nguoi-bi-thuong/"><img alt="" class="img-top3" src="/Files/Subject/3b/bb/c3/d2/no-2.jpg.thumb150x0.ns.jpg" /></a></p>
+<p><a class="link-title" href="/gl/xa-hoi/2011/11/no-binh-gas-tai-nha-hang-2-nguoi-bi-thuong/">Nổ bình gas tại nhà hàng, 2 người bị thương</a></p>
+
+		</div>
+		<div class="t3-content fl">
+			<p><a href="/gl/van-hoa/2011/11/brangelina-danh-thoi-gian-o-con-dao-cho-gia-dinh/"><img alt="" class="img-top3" src="/Files/Subject/3b/bb/c3/9f/250_Pitt_Jo.jpg.thumb150x0.ns.jpg" /></a></p>
+<p><a class="link-title" href="/gl/van-hoa/2011/11/brangelina-danh-thoi-gian-o-con-dao-cho-gia-dinh/">Brangelina dành thời gian ở Côn Đảo cho gia đình</a></p>
+
+		</div>
+	</div>		
+	<script type="text/javascript">dFormat('11/15/2011 12:01:39 AM');</script>
+</div>
+<div class="toplist fl">
+	<div class="toplist-date fl">
+		<div id="topnewsdate" class="hotnews-date fl txtr">&nbsp;</div>
+		<div class="fl"><img src="/Images/Background/date-arrow.gif" alt="" /></div>
+		<script type="text/javascript" language="javascript">writeTopDate();</script>
+	</div>
+	<div class="toplist-top fl"></div>
+	<div class="toplist-middle fl">
+		<div class="toplist-left fl">
+			<div id="toplist" class="toplist-content fl">				
+				<div class="toplist-content2">
+					<ul>
+<li><a class="link-toplist" href="/gl/the-gioi/2011/11/israel-am-chi-da-tan-cong-iran/">Israel ám chỉ đã tấn công Iran</a></li>
+<li><a class="link-toplist" href="/gl/the-gioi/anh/2011/11/no-khi-gas-o-trung-quoc-8-nguoi-thiet-mang/">Nổ khí gas ở Trung Quốc, 8 người thiệt mạng</a>&nbsp;<img src="/Images/photo2.gif" alt="" /></li>
+<li><a class="link-toplist" href="/gl/van-hoa/2011/11/brad-pitt-mua-xe-tang-cu-cua-nga/">Brad Pitt mua xe tăng cũ của Nga</a></li>
+<li><a class="link-toplist" href="/gl/van-hoa/hoa-hau/2011/11/nhieu-nguoi-dep-co-danh-hieu-thi-hoa-hau-dan-toc/">Nhiều người đẹp có danh hiệu thi Hoa hậu dân tộc</a>&nbsp;<img src="/Images/photo2.gif" alt="" /></li>
+<li><a class="link-toplist" href="/gl/phap-luat/2011/11/nhom-nu-sinh-rach-ao-thieu-nu-bi-khoi-to/">Nhóm nữ sinh rạch áo thiếu nữ bị khởi tố</a></li>
+<li><a class="link-toplist" href="/gl/doi-song/2011/11/giay-phut-doan-tu-tai-nha-cua-be-so-sinh-bi-bat-coc/">Giây phút đoàn tụ tại nhà của bé sơ sinh bị bắt cóc</a>&nbsp;<img src="/Images/photo2.gif" alt="" /></li>
+<li><a class="link-toplist" href="/gl/vi-tinh/giai-tri/2011/11/giac-mo-lam-giau-tu-trao-luu-khoe-con-tren-mang/">Giấc mơ làm giàu từ trào lưu khoe con trên mạng</a>&nbsp;<img src="/Images/video2.gif" alt="" /></li>
+<li><a class="link-toplist" href="http://seagames.vnexpress.net/tin/2011/11/u23-malaysia-so-trong-tai-viet-nam/" target="_bank">U23 Malaysia sợ trọng tài Việt Nam</a></li>
+<li><a class="link-toplist" href="/gl/van-hoa/guong-mat-nghe-sy/2011/11/ly-nha-ky-mung-chien-thang-vinh-ha-long/">Lý Nhã Kỳ mừng chiến thắng Vịnh Hạ Long</a>&nbsp;<img src="/Images/photo2.gif" alt="" /></li>
+<li><a class="link-toplist" href="/gl/xa-hoi/2011/11/co-dong-vien-do-den-indonesia-co-vu-u23-vn/">Cổ động viên đổ đến Indonesia cổ vũ U23 VN</a></li>
+</ul>				
+				</div>
+			</div>			
+		</div>
+		<div class="toplist-right fl ftz1">&nbsp;</div>
+	</div>
+	<div class="toplist-bottom fl"></div>
+</div>
+
+			<div id="linksiteEH" class="linksite fl">				
+				<div class="adv-header">
+					<div class="adv-title fl">
+						<a href="http://www.fptad.com/lienhe.aspx" target="_blank"><img style="border:0" src="/Images/Background/adv-title.gif" alt="Lien he quang cao" /></a>
+					</div>					
+				</div>
+				<div class="box-item large-logo12">
+					<script type="text/javascript" language="javascript">Poly_ShowLargeLogo(1);</script>
+				</div>				
+				<div class="box-item large-logo12">
+					<script type="text/javascript" language="javascript">Poly_ShowLargeLogo(2);</script>
+				</div>
+				<div class="box-item large-logo12">					
+					<script type="text/javascript" language="javascript">Poly_ShowLargeLogo(6);</script>					
+				</div>				
+			</div>
+		</div>
+		
+		<div id="content">			
+			
+			<div class="content-center fl">			
+			<div class="folder">
+	<div class="folder-title">
+	    <div class="folder-activeleft fl"></div>
+	    <div class="folder-active fl"><a href="/gl/xa-hoi/" class="link-folder">X&#227; h&#7897;i</a></div>
+	    <div class="folder-activeright fl"></div>
+	    <div class="subfolder fl" style="padding:3px 0px 1px 5px">
+			<div class="fl"><a class="link-subfolder" href="/gl/xa-hoi/giao-duc/">Gi&#225;o d&#7909;c</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/xa-hoi/nhip-dieu-tre/">Nh&#7883;p &#273;i&#7879;u tr&#7867;</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/xa-hoi/du-lich/">Du l&#7883;ch</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/xa-hoi/co-hoi-du-hoc/">Du h&#7885;c</a></div>
+		</div>
+	    <div class="folder-titleright fr"></div>
+	</div>
+	<div class="folder-content" id="tdHomeFolder18">
+		<div class="folder-topnews fl">
+			<a href="/gl/xa-hoi/2011/11/hoa-hoan-tai-cao-oc-saigon-mansion/"><img src="/Files/Subject/3b/bb/c4/20/chay-3.jpg" alt="" class="img-subject fl" /></a><p><a class="link-title" href="/gl/xa-hoi/2011/11/hoa-hoan-tai-cao-oc-saigon-mansion/">Hỏa hoạn tại cao ốc Saigon Mansion</a></p>
+<p>Chiều tối 14/11, tầng cao nhất của tòa nhà Saigon Mansion trên đường Võ Văn Tần (phường 6, quận 3, TP HCM) bỗng phát hỏa.</p>
+
+		</div>
+		<div class="folder-othernews fl">
+			 <div class="other-folder fl">
+<a class="link-othernews" href="/gl/xa-hoi/giao-duc/2011/11/giao-vien-dung-can-choi-danh-hoc-sinh-bi-ky-luat/"><img alt="" class="img-other fl" src="/Files/Subject/3b/bb/c3/b7/anh-co-giao-tam3.jpg" /></a><a class="link-othernews" href="/gl/xa-hoi/giao-duc/2011/11/giao-vien-dung-can-choi-danh-hoc-sinh-bi-ky-luat/">Giáo viên dùng cán chổi đánh học sinh bị kỷ luật</a>
+</div>
+<div class="fl">
+ <ul>
+     <li><a class="link-othernews" href="/gl/xa-hoi/2011/11/luat-giao-duc-dai-hoc-ne-giao-quyen-tu-chu-cho-truong/">Luật giáo dục đại học 'né' giao quyền tự chủ cho trường</a></li>
+     <li><a class="link-othernews" href="/gl/xa-hoi/2011/11/xe-tai-mat-lai-dam-chet-hai-vo-chong/">Xe tải mất lái đâm chết hai vợ chồng</a></li>
+     <li><a class="link-othernews" href="/gl/xa-hoi/2011/11/co-dong-vien-do-den-indonesia-co-vu-u23-vn/">Cổ động viên đổ đến Indonesia cổ vũ U23 VN</a></li>
+ </ul>
+</div>
+
+		</div>
+		<div class="rss fr">
+			<a class="link-rss" rel="nofollow" href="/rss/gl/xa-hoi.rss">RSS <img class="img-rss" alt="Tin tức Xã hội" src="/Images/rss.gif" /></a>
+		</div>
+	</div>
+	<div class="folder-bottom"></div>
+</div>
+<div class="folder">
+	<div class="folder-title">
+	    <div class="folder-activeleft fl"></div>
+	    <div class="folder-active fl"><a href="/gl/the-gioi/" class="link-folder">Th&#7871; gi&#7899;i</a></div>
+	    <div class="folder-activeright fl"></div>
+	    <div class="subfolder fl">
+			<a class="link-subfolder" href="/gl/the-gioi/cuoc-song-do-day/">Cu&#7897;c s&#7889;ng &#273;&#243; &#273;&#226;y</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/the-gioi/anh/">&#7842;nh</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/the-gioi/nguoi-viet-5-chau/">Ng&#432;&#7901;i Vi&#7879;t 5 ch&#226;u</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/the-gioi/phan-tich/">Ph&#226;n t&#237;ch</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/the-gioi/tu-lieu/">T&#432; li&#7879;u</a>
+		</div>
+	    <div class="folder-titleright fr"></div>
+	</div>
+	<div class="folder-content" id="tdHomeFolder2">
+		<div class="folder-topnews fl">
+			<a href="/gl/the-gioi/2011/11/israel-am-chi-da-tan-cong-iran/"><img src="/Files/Subject/3b/bb/c3/d5/tehran-2.jpg" alt="" class="img-subject fl" /></a><p><a class="link-title" href="/gl/the-gioi/2011/11/israel-am-chi-da-tan-cong-iran/">Israel ám chỉ đã tấn công Iran</a></p>
+<p>17 binh sĩ thiệt mạng trong một vụ nổ "đinh tai nhức óc" tại căn cứ quân sự ở gần thủ đô Tehran. Giới chức Iran nói đây là tai nạn song báo chí Israel ngụ ý chính phủ của họ đứng sau vụ tấn công.<BR>> <A class=Lead1 href="http://vnexpress.net/gl/the-gioi/phan-tich/2011/11/lieu-israel-co-tan-cong-iran/">Liệu Israel có tấn công Iran</A><BR>> <A class=Lead1 href="http://vnexpress.net/gl/the-gioi/anh/2011/11/tiem-luc-quan-su-israel/">Tiềm lực quân sự của Israel</A> / <A class=Lead1 href="http://vnexpress.net/gl/the-gioi/tu-lieu/2007/04/3b9f4f40/">Iran</A><BR>> <A class=Lead1 href="http://vnexpress.net/gl/the-gioi/tu-lieu/2011/11/cac-co-so-hat-nhan-cua-iran/">Các cơ sở hạt nhân của Iran</A></p>
+
+		</div>
+		<div class="folder-othernews fl">
+			 <div class="other-folder fl">
+<a class="link-othernews" href="/gl/the-gioi/2011/11/lanh-dao-apec-khong-dien-ao-sac-so/"><img alt="" class="img-other fl" src="/Files/Subject/3b/bb/c3/ab/lanhdaoapec5.jpg" /></a><a class="link-othernews" href="/gl/the-gioi/2011/11/lanh-dao-apec-khong-dien-ao-sac-so/">Lãnh đạo APEC không diện áo sặc sỡ</a>
+</div>
+<div class="fl">
+ <ul>
+     <li><a class="link-othernews" href="/gl/the-gioi/2011/11/dan-ngoai-o-bangkok-bieu-tinh-doi-xa-lu/">Dân ngoại ô Bangkok biểu tình đòi xả lũ</a></li>
+     <li><a class="link-othernews" href="/gl/the-gioi/anh/2011/11/no-khi-gas-o-trung-quoc-8-nguoi-thiet-mang/">Nổ khí gas ở Trung Quốc, 8 người thiệt mạng</a></li>
+     <li><a class="link-othernews" href="/gl/the-gioi/nguoi-viet-5-chau/2011/11/nhung-ngay-dau-cua-mot-nguoi-viet-o-canada/">Những ngày đầu của một người Việt ở Canada</a></li>
+ </ul>
+</div>
+
+		</div>
+		<div class="rss fr">
+			<a class="link-rss" rel="nofollow" href="/rss/gl/the-gioi.rss">RSS <img class="img-rss" alt="Tin tức Thế giới" src="/Images/rss.gif" /></a>
+		</div>
+	</div>	
+	<div class="folder-bottom"></div>
+</div>
+<div class="folder">
+	<div class="folder-title">
+	    <div class="folder-activeleft fl"></div>
+	    <div class="folder-active fl"><a href="/gl/kinh-doanh/" class="link-folder">Kinh doanh</a></div>
+	    <div class="folder-activeright fl"></div>
+	    <div class="subfolder fl">
+			<a class="link-subfolder" href="http://ebank.vnexpress.net/" target="_blank">Ebank</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/kinh-doanh/chung-khoan/">Ch&#7913;ng kho&#225;n</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/kinh-doanh/bat-dong-san/">B&#7845;t &#273;&#7897;ng s&#7843;n</a>&nbsp;|&nbsp;<a class="link-subfolder" href="http://nhadep.vnexpress.net/" target="_blank">Nh&#224; &#273;&#7865;p</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/kinh-doanh/kinh-nghiem/">Doanh nh&#226;n</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/kinh-doanh/quoc-te/">Qu&#7889;c t&#7871;</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/doi-song/mua-sam/">Mua s&#7855;m</a>
+		</div>
+	    <div class="folder-titleright fr"></div>
+	</div>
+	<div class="folder-content" id="tdHomeFolder3">
+		<div class="folder-topnews fl">
+			<a href="http://ebank.vnexpress.net/gl/ebank/thi-truong/2011/11/cong-khai-no-xau-cac-ngan-hang-tu-1-4-2012/" target="_bank"><img src="/Files/Subject/3b/bb/c4/0f/chovay130.jpg" alt="" class="img-subject fl" /></a><p><a class="link-title" href="http://ebank.vnexpress.net/gl/ebank/thi-truong/2011/11/cong-khai-no-xau-cac-ngan-hang-tu-1-4-2012/" target="_bank">Công khai nợ xấu các ngân hàng từ 1/4/2012</a></p>
+<p>Ngân hàng Nhà nước vừa phát đi tín hiệu sẽ mở rộng cung cấp nhiều thông tin mới về nợ xấu, an toàn vốn, lợi nhuận ròng… trong hoạt động ngân hàng.<BR>> <A class=Lead1 href="http://ebank.vnexpress.net/gl/ebank/thi-truong/2011/09/no-xau-ngan-hang-gia-tang/">Nợ xấu ngân hàng gia tăng</A><BR>> <A class=Lead1 href="http://ebank.vnexpress.net/gl/ebank/thi-truong/2011/09/no-xau-agribank-chu-yeu-dong-trong-bat-dong-san/">Nợ xấu Agribank chủ yếu đọng trong bất động sản</A></p>
+
+		</div>
+		<div class="folder-othernews fl">
+			 <div class="other-folder fl">
+<a class="link-othernews" href="/gl/kinh-doanh/2011/11/lo-lang-vi-giu-vang-mieng-khong-phai-sjc/"><img alt="" class="img-other fl" src="/Files/Subject/3b/bb/c2/71/53vang.jpg" /></a><a class="link-othernews" href="/gl/kinh-doanh/2011/11/lo-lang-vi-giu-vang-mieng-khong-phai-sjc/">Lo lắng vì giữ vàng miếng không phải SJC</a>
+</div>
+<div class="fl">
+ <ul>
+     <li><a class="link-othernews" href="http://ebank.vnexpress.net/gl/ebank/thi-truong/2011/11/mo-van-tin-dung-cho-4-nhom-bat-dong-san/" target="_bank">Mở van tín dụng cho 4 nhóm bất động sản</a></li>
+     <li><a class="link-othernews" href="/gl/kinh-doanh/2011/11/thoi-gia-sim-luc-cuu-evn-telecom-len-1-7-ty-dong/">Thổi giá sim lục cửu EVN Telecom lên 1,7 tỷ đồng</a></li>
+     <li><a class="link-othernews" href="/gl/kinh-doanh/bat-dong-san/2011/11/mua-nha-thu-nhap-thap-bi-ket-tien/">Mua nhà thu nhập thấp bị kẹt tiền</a></li>
+ </ul>
+</div>
+
+		</div>
+		<div class="rss fr">
+			<a class="link-rss" rel="nofollow" href="/rss/gl/kinh-doanh.rss">RSS <img class="img-rss" alt="Tin tức Kinh doanh" src="/Images/rss.gif" /></a>
+		</div>
+	</div>	
+	<div class="folder-bottom"></div>
+</div>
+<div class="folder">
+	<div class="folder-title">
+	    <div class="folder-activeleft fl"></div>
+	    <div class="folder-active fl"><a href="/gl/van-hoa/" class="link-folder">V&#259;n h&#243;a</a></div>
+	    <div class="folder-activeright fl"></div>
+	    <div class="subfolder fl">
+			<a class="link-subfolder" href="/gl/van-hoa/hoa-hau/">Hoa h&#7853;u</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/van-hoa/guong-mat-nghe-sy/">Ngh&#7879; s&#7929;</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/van-hoa/am-nhac/">&#194;m nh&#7841;c</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/van-hoa/thoi-trang/">Th&#7901;i trang</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/van-hoa/san-khau-dien-anh/">&#272;i&#7879;n &#7843;nh</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/van-hoa/my-thuat/">M&#7929; thu&#7853;t</a>&nbsp;|&nbsp;<a class="link-subfolder" href="http://evan.vnexpress.net/" target="_blank">V&#259;n h&#7885;c</a>
+		</div>
+	    <div class="folder-titleright fr"></div>
+	</div>
+	<div class="folder-content" id="tdHomeFolder51">
+		<div class="folder-topnews fl">
+			<a href="/gl/van-hoa/hoa-hau/2011/11/nhieu-nguoi-dep-co-danh-hieu-thi-hoa-hau-dan-toc/"><img src="/Files/Subject/3b/bb/c3/d6/v130.jpg" alt="" class="img-subject fl" /></a><p><a class="link-title" href="/gl/van-hoa/hoa-hau/2011/11/nhieu-nguoi-dep-co-danh-hieu-thi-hoa-hau-dan-toc/">Nhiều người đẹp có danh hiệu thi Hoa hậu dân tộc</a>&nbsp;<a style="text-decoration:none" href="/gl/van-hoa/hoa-hau/2011/11/nhieu-nguoi-dep-co-danh-hieu-thi-hoa-hau-dan-toc" ><img border="0" src="/Images/photo.gif" alt="" />&nbsp;&nbsp;</a></p>
+<p>Trong số 69 thí sinh thuộc 16 dân tộc lọt vào vòng bán kết phía Nam của cuộc thi Hoa hậu các dân tộc Việt Nam lần thứ hai, có nhiều gương mặt từng đoạt giải tại các cuộc thi nhan sắc khác.<BR>> <A class=Lead1 href="http://vnexpress.net/gl/van-hoa/2011/11/chi-em-sinh-doi-vao-chung-ket-hoa-hau-cac-dan-toc-vn/">Chị em sinh đôi vào chung kết Hoa hậu các dân tộc VN</A></p>
+
+		</div>
+		<div class="folder-othernews fl">
+			<div class="fl">
+ <ul>
+     <li><a class="link-othernews" href="/gl/van-hoa/guong-mat-nghe-sy/2011/11/ly-nha-ky-mung-chien-thang-vinh-ha-long/">Lý Nhã Kỳ mừng chiến thắng Vịnh Hạ Long</a></li>
+     <li><a class="link-othernews" href="/gl/van-hoa/hoa-hau/2011/11/hua-vi-van-hon-truc-diem-tham-thiet/">Hứa Vĩ Văn hôn Trúc Diễm thắm thiết</a></li>
+     <li><a class="link-othernews" href="/gl/van-hoa/am-nhac/2011/11/hong-nhung-khuay-dong-bai-hat-viet-thang-11/">Hồng Nhung khuấy động Bài hát Việt tháng 11</a></li>
+     <li><a class="link-othernews" href="/gl/van-hoa/2011/11/brad-pitt-mua-xe-tang-cu-cua-nga/">Brad Pitt mua xe tăng cũ của Nga</a></li>
+ </ul>
+</div>
+
+		</div>
+		<div class="rss fr">
+			<a class="link-rss" rel="nofollow" href="/rss/gl/van-hoa.rss">RSS <img class="img-rss" alt="Tin tức Văn hóa" src="/Images/rss.gif" /></a>
+		</div>
+	</div>	
+	<div class="folder-bottom"></div>
+</div>
+<div class="folder">
+	<div class="folder-title">
+	    <div class="folder-activeleft fl"></div>
+	    <div class="folder-active fl"><a href="/gl/the-thao/" class="link-folder">Th&#7875; thao</a></div>
+	    <div class="folder-activeright fl"></div>
+	    <div class="subfolder fl">
+			<a class="link-subfolder" href="/gl/the-thao/bong-da/">B&#243;ng &#273;&#225;</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/the-thao/tennis/">Tennis</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/the-thao/chan-dung/">Ch&#226;n dung</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/the-thao/anh-video/">&#7842;nh - Video</a>
+		</div>
+	    <div class="folder-titleright fr"></div>
+	</div>
+	<div class="folder-content" id="tdHomeFolder9">
+		<div class="folder-topnews fl">
+			<a href="http://seagames.vnexpress.net/tin/mon-khac/2011/11/vovinam-8211-hon-viet-o-jakarta/" target="_bank"><img src="/Files/Subject/3b/bb/c4/2b/s-v.jpg" alt="" class="img-subject fl" /></a><p><a class="link-title" href="http://seagames.vnexpress.net/tin/mon-khac/2011/11/vovinam-8211-hon-viet-o-jakarta/" target="_bank">Vovinam – hồn Việt ở Jakarta</a></p>
+<p>Indonesia với hơn 10.000 hòn đảo lớn nhỏ trên diện tích hai triệu km2, đã hấp thụ mọi nền văn minh, văn hóa, ẩm thực… đi qua nó. Sau Phở Việt, người Indonesia giờ đã xem Việt Võ Đạo như một môn thể thao.</p>
+
+		</div>
+		<div class="folder-othernews fl">
+			 <div class="other-folder fl">
+<a class="link-othernews" href="http://seagames.vnexpress.net/tin/mon-khac/2011/11/nam-cua-ha-thanh-va-su-tro-lai-cua-ngan-thuong/" target="_bank"><img alt="" class="img-other fl" src="/Files/Subject/3b/bb/c4/28/l-td.jpg" /></a><a class="link-othernews" href="http://seagames.vnexpress.net/tin/mon-khac/2011/11/nam-cua-ha-thanh-va-su-tro-lai-cua-ngan-thuong/" target="_bank">Năm của Hà Thanh và sự trở lại của Ngân Thương</a>
+</div>
+<div class="fl">
+ <ul>
+     <li><a class="link-othernews" href="http://seagames.vnexpress.net/tin/mon-khac/2011/11/nguyen-dinh-cuong-thang-kien-sau-khi-bi-choi-xau/" target="_bank">Nguyễn Đình Cương thắng kiện sau khi bị chơi xấu</a></li>
+     <li><a class="link-othernews" href="http://seagames.vnexpress.net/tin/2011/11/ba-quyet-dinh-rut-the-do-cua-trong-tai-kim-jong-hyok/" target="_bank">Ba quyết định rút thẻ đỏ của trọng tài Kim Jong-hyok</a></li>
+     <li><a class="link-othernews" href="http://seagames.vnexpress.net/tin/2011/11/clip-vu-thi-huong-ve-thu-ba-o-noi-dung-200-m-nu/" target="_bank">Clip Vũ Thị Hương về thứ ba ở nội dung 200 m nữ</a></li>
+ </ul>
+</div>
+
+		</div>
+		<div class="rss fr">
+			<a class="link-rss" rel="nofollow" href="/rss/gl/the-thao.rss">RSS <img class="img-rss" alt="Tin tức Thể thao" src="/Images/rss.gif" /></a>
+		</div>
+	</div>	
+	<div class="folder-bottom"></div>
+</div>
+<div class="folder">
+	<div class="folder-title">
+	    <div class="folder-activeleft fl"></div>
+	    <div class="folder-active fl"><a href="/gl/phap-luat/" class="link-folder">Ph&#225;p lu&#7853;t</a></div>
+	    <div class="folder-activeright fl"></div>
+	    <div class="subfolder fl">
+			<a class="link-subfolder" href="/gl/phap-luat/hinh-su/">H&#236;nh s&#7921;</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/phap-luat/ky-su/">K&#253; s&#7921;</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/phap-luat/tu-van/">T&#432; v&#7845;n</a>
+		</div>
+	    <div class="folder-titleright fr"></div>
+	</div>
+	<div class="folder-content" id="tdHomeFolder47">
+		<div class="folder-topnews fl">
+			<a href="/gl/phap-luat/2011/11/nhom-nu-sinh-rach-ao-thieu-nu-bi-khoi-to/"><img src="/Files/Subject/3b/bb/c4/1b/2.jpg" alt="" class="img-subject fl" /></a><p><a class="link-title" href="/gl/phap-luat/2011/11/nhom-nu-sinh-rach-ao-thieu-nu-bi-khoi-to/">Nhóm nữ sinh rạch áo thiếu nữ bị khởi tố</a></p>
+<p>Chiều 14/11, công an huyện Quế Võ (Bắc Ninh) đã khởi tố 3 nữ sinh liên quan vụ dùng dao lam rạch áo, đánh nữ công nhân giữa đường. <BR>> <A class=Lead1 href="http://vnexpress.net/gl/xa-hoi/2011/11/nhom-nu-sinh-rach-ao-thieu-nu/">Nhóm nữ sinh rạch áo thiếu nữ</A></p>
+
+		</div>
+		<div class="folder-othernews fl">
+			 <div class="other-folder fl">
+<a class="link-othernews" href="/gl/phap-luat/2011/11/ba-chu-thu-doi-ngoai-te-bi-sat-hai-tai-nha/"><img alt="" class="img-other fl" src="/Files/Subject/3b/bb/c3/c0/cao-3.jpg" /></a><a class="link-othernews" href="/gl/phap-luat/2011/11/ba-chu-thu-doi-ngoai-te-bi-sat-hai-tai-nha/">Bà chủ thu đổi ngoại tệ bị sát hại tại nhà</a>
+</div>
+<div class="fl">
+ <ul>
+     <li><a class="link-othernews" href="/gl/phap-luat/2011/11/trum-xa-hoi-den-bac-lieu-thich-hang-nong/">Trùm xã hội đen Bạc Liêu thích 'hàng nóng'</a></li>
+     <li><a class="link-othernews" href="/gl/phap-luat/2011/11/gia-can-bo-thue-ep-doanh-nghiep-mua-sach/">Giả cán bộ thuế ép doanh nghiệp mua sách</a></li>
+     <li><a class="link-othernews" href="/gl/phap-luat/2011/11/hai-chet-nhan-tinh-bang-can-choi/">Hại chết nhân tình bằng cán chổi</a></li>
+ </ul>
+</div>
+
+		</div>
+		<div class="rss fr">
+			<a class="link-rss" rel="nofollow" href="/rss/gl/phap-luat.rss">RSS <img class="img-rss" alt="Tin tức Pháp luật" src="/Images/rss.gif" /></a>
+		</div>
+	</div>	
+	<div class="folder-bottom"></div>
+</div>
+<div class="folder">
+	<div class="folder-title">
+	    <div class="folder-activeleft fl"></div>
+	    <div class="folder-active fl"><a href="/gl/doi-song/" class="link-folder">&#272;&#7901;i s&#7889;ng</a></div>
+	    <div class="folder-activeright fl"></div>
+	    <div class="subfolder fl">
+			<a class="link-subfolder" href="/gl/doi-song/cau-chuyen-cuoc-song/">C&#226;u chuy&#7879;n cu&#7897;c s&#7889;ng</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/doi-song/gia-dinh/">Gia &#273;&#236;nh</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/suc-khoe/">S&#7913;c kh&#7887;e</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/doi-song/am-thuc/">&#7848;m th&#7921;c</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/suc-khoe/lam-dep/">L&#224;m &#273;&#7865;p</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/doi-song/blog/">C&#7917;a s&#7893; Blog</a>
+		</div>
+	    <div class="folder-titleright fr"></div>
+	</div>
+	<div class="folder-content" id="tdHomeFolder110">
+		<div class="folder-topnews fl">
+			<a href="/gl/doi-song/2011/11/giay-phut-doan-tu-tai-nha-cua-be-so-sinh-bi-bat-coc/"><img src="/Files/Subject/3b/bb/c3/d7/xv12.jpg" alt="" class="img-subject fl" /></a><p><a class="link-title" href="/gl/doi-song/2011/11/giay-phut-doan-tu-tai-nha-cua-be-so-sinh-bi-bat-coc/">Giây phút đoàn tụ tại nhà của bé sơ sinh bị bắt cóc</a>&nbsp;<a style="text-decoration:none" href="/gl/doi-song/2011/11/giay-phut-doan-tu-tai-nha-cua-be-so-sinh-bi-bat-coc" ><img border="0" src="/Images/photo.gif" alt="" />&nbsp;&nbsp;</a></p>
+<p>Trưa nay, bé Trường, cậu bé bị bắt cóc tại Bệnh viện Phụ sản Trung ương (Hà Nội) đã trở về nhà trong niềm vui của cả gia đình. VnExpress.net ghi lại một số hình ảnh của bé tại nhà ở xã Đồng Than, huyện Yên Mỹ, Hưng Yên.<BR>> <A class=Lead1 href="/gl/doi-song/2011/11/xet-nghiem-adn-khang-dinh-be-bi-bat-coc-la-con-chi-thom/" DESIGNTIMEURL="/gl/doi-song/2011/11/xet-nghiem-adn-khang-dinh-be-bi-bat-coc-la-con-chi-thom/">Xét nghiệm ADN khẳng định bé bị bắt cóc là con chị Thơm</A>/ <A class=Lead1 href="/gl/doi-song/2011/11/be-trai-bi-bat-coc-doan-tu-gia-dinh/" DESIGNTIMEURL="/gl/doi-song/2011/11/be-trai-bi-bat-coc-doan-tu-gia-dinh/">Bé trai bị bắt cóc đoàn tụ gia đình</A></p>
+
+		</div>
+		<div class="folder-othernews fl">
+			<div class="fl">
+ <ul>
+     <li><a class="link-othernews" href="/gl/suc-khoe/2011/11/qua-than-cua-nguoi-di-cuu-song-chau-gai/">Quả thận của người dì cứu sống cháu gái</a></li>
+     <li><a class="link-othernews" href="/gl/suc-khoe/2011/11/dau-hieu-cho-thay-he-mien-dich-cua-ban-co-van-de/">Dấu hiệu cho thấy hệ miễn dịch của bạn có vấn đề</a></li>
+     <li><a class="link-othernews" href="/gl/suc-khoe/2011/11/canh-giac-khi-tre-dot-ngot-dau-bung-oi-lien-tuc/">Cảnh giác khi trẻ đột ngột đau bụng, ói liên tục</a></li>
+ </ul>
+</div>
+
+			<div class="other-folder2 fl" id="HomeFolder151">
+				<a class="link-othernews" href="/gl/doi-song/blog/2011/11/di-lay-chong-nho-me/"><img alt="" class="img-other fl" src="/Files/Subject/3b/bb/c3/a0/cry3.jpg" /></a><a class="link-othernews" style="font-weight:bold;" href="/gl/doi-song/blog/2011/11/di-lay-chong-nho-me/">Đi lấy chồng nhớ mẹ</a>
+			</div>
+		</div>
+		<div class="rss fr">
+			<div class="fl"><img src="/Images/Menu/black-triangle.gif" alt="" />&nbsp;<a class="link-othernews3" href="/gl/suc-khoe/tu-van/">T&#432; v&#7845;n gia &#273;&#236;nh</a>&nbsp;&nbsp;&nbsp;<img src="/Images/Menu/black-triangle.gif" alt="" />&nbsp;<a class="link-othernews3" href="/gl/doi-song/tu-van-nuoi-day-tre/">T&#432; v&#7845;n nu&#244;i d&#7841;y tr&#7867;</a></div>
+			<a class="link-rss" rel="nofollow" href="/rss/gl/doi-song.rss">RSS <img class="img-rss" alt="Tin tức Đời sống" src="/Images/rss.gif" /></a>
+		</div>
+	</div>	
+	<div class="folder-bottom"></div>
+</div>
+<div class="folder">
+	<div class="folder-title">
+	    <div class="folder-activeleft fl"></div>
+	    <div class="folder-active fl"><a href="/gl/khoa-hoc/" class="link-folder">Khoa h&#7885;c</a></div>
+	    <div class="folder-activeright fl"></div>
+	    <div class="subfolder fl">
+			<a class="link-subfolder" href="/gl/khoa-hoc/moi-truong/">M&#244;i tr&#432;&#7901;ng</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/khoa-hoc/thien-nhien/">Thi&#234;n nhi&#234;n</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/khoa-hoc/anh/">&#7842;nh</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/khoa-hoc/ky-thuat-moi/">C&#244;ng ngh&#7879; m&#7899;i</a>
+		</div>
+	    <div class="folder-titleright fr"></div>
+	</div>
+	<div class="folder-content" id="tdHomeFolder83">
+		<div class="folder-topnews fl">
+			<a href="/gl/khoa-hoc/2011/11/3-000-ty-dong-phat-trien-nhan-luc-dien-hat-nhan/"><img src="/Files/Subject/3b/bb/c2/d2/Fukushima-2.jpg" alt="" class="img-subject fl" /></a><p><a class="link-title" href="/gl/khoa-hoc/2011/11/3-000-ty-dong-phat-trien-nhan-luc-dien-hat-nhan/">3.000 tỷ đồng phát triển nhân lực điện hạt nhân</a></p>
+<p>Nhằm đào tạo nguồn nhân lực cho điện hạt nhân về cả số lượng và chất lượng, Việt Nam sẽ đầu tư 3.000 tỷ đồng.</p>
+
+		</div>
+		<div class="folder-othernews fl">
+			 <div class="other-folder fl">
+<a class="link-othernews" href="/gl/khoa-hoc/2011/11/nga-phong-tau-dua-nguoi-len-iss/"><img alt="" class="img-other fl" src="/Files/Subject/3b/bb/c4/0c/Phi-hanh-gia-3.jpg" /></a><a class="link-othernews" href="/gl/khoa-hoc/2011/11/nga-phong-tau-dua-nguoi-len-iss/">Nga phóng tàu đưa người lên ISS</a>
+</div>
+<div class="fl">
+ <ul>
+     <li><a class="link-othernews" href="/gl/khoa-hoc/2011/11/doc-gia-nhan-sach-1-2/">Độc giả nhận sách</a></li>
+     <li><a class="link-othernews" href="/gl/khoa-hoc/2011/11/nhan-tai-ngay-cang-thang-hoa-muon/">Nhân tài ngày càng 'thăng hoa' muộn</a></li>
+     <li><a class="link-othernews" href="/gl/khoa-hoc/2011/11/san-xuat-nhien-lieu-sinh-hoc-tu-cay-boi-loi/">Sản xuất nhiên liệu sinh học từ cây bời lời</a></li>
+ </ul>
+</div>
+			
+		</div>
+		<div class="rss fr">			
+			<a class="link-rss" rel="nofollow" href="/rss/gl/khoa-hoc.rss">RSS <img class="img-rss" alt="Tin tức Khoa học" src="/Images/rss.gif" /></a>
+		</div>
+	</div>	
+	<div class="folder-bottom"></div>
+</div>
+<div class="folder">
+	<div class="folder-title">
+	    <div class="folder-activeleft fl"></div>
+	    <div class="folder-active fl"><a href="/gl/vi-tinh/" class="link-folder">Vi t&#237;nh</a></div>
+	    <div class="folder-activeright fl"></div>
+	    <div class="subfolder fl">
+			<a class="link-subfolder" href="/gl/vi-tinh/san-pham-moi/">S&#7843;n ph&#7849;m m&#7899;i</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/vi-tinh/kinh-nghiem/">Kinh nghi&#7879;m</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/vi-tinh/giai-tri/">Gi&#7843;i tr&#237;</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/vi-tinh/hoi-dap/">H&#7887;i &#273;&#225;p</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/vi-tinh/hacker-virus/">Hacker & Virus</a>
+		</div>
+	    <div class="folder-titleright fr"></div>
+	</div>
+	<div class="folder-content" id="tdHomeFolder89">
+		<div class="folder-topnews fl">
+			<a href="/gl/vi-tinh/2011/11/dien-thoai-dung-chip-4-loi-cua-trung-quoc-lo-dien/"><img src="/Files/Subject/3b/bb/c3/dc/Meizu-MX-2.jpg" alt="" class="img-subject fl" /></a><p><a class="link-title" href="/gl/vi-tinh/2011/11/dien-thoai-dung-chip-4-loi-cua-trung-quoc-lo-dien/">Điện thoại dùng chip 4 lõi của Trung Quốc lộ diện</a></p>
+<p>Meizu MX là smartphone "khủng" nhất do một công ty Trung Quốc phát triển. Máy tích hợp màn hình rộng 4,3 inch (ngang Samsung Galaxy S II hay HTC Sensation), vi xử lý ARM A9 và camera chụp ảnh 8 megapixel.<BR>><A class=Lead1 href="http://vnexpress.net/gl/vi-tinh/san-pham-moi/2011/09/dien-thoai-chip-4-nhan-dau-tien-la-cua-trung-quoc/">Điện thoại chip 4 nhân đầu tiên của Trung Quốc</A></p>
+
+		</div>
+		<div class="folder-othernews fl">
+			 <div class="other-folder fl">
+<a class="link-othernews" href="/gl/vi-tinh/2011/11/thu-choi-dien-thoai-windows-mobile/"><img alt="" class="img-other fl" src="/Files/Subject/3b/bb/c3/bc/dt_Windows_2.jpg" /></a><a class="link-othernews" href="/gl/vi-tinh/2011/11/thu-choi-dien-thoai-windows-mobile/">Thú chơi điện thoại Windows Mobile</a>
+</div>
+<div class="fl">
+ <ul>
+     <li><a class="link-othernews" href="/gl/vi-tinh/san-pham-moi/2011/11/chuan-sim-moi-nho-hon-ca-loai-cho-iphone-4s/">Chuẩn sim mới nhỏ hơn cả loại cho iPhone 4S</a></li>
+     <li><a class="link-othernews" href="/gl/vi-tinh/giai-tri/2011/11/giac-mo-lam-giau-tu-trao-luu-khoe-con-tren-mang/">Giấc mơ làm giàu từ trào lưu khoe con trên mạng</a></li>
+     <li><a class="link-othernews" href="/gl/vi-tinh/giai-tri/2011/11/nhung-buc-anh-trieu-do-tren-the-gioi/">Những bức ảnh triệu đô trên thế giới</a></li>
+ </ul>
+</div>
+			
+		</div>
+		<div class="rss fr">			
+			<a class="link-rss" rel="nofollow" href="/rss/gl/vi-tinh.rss">RSS <img class="img-rss" alt="Tin tức Vi tính" src="/Images/rss.gif" /></a>
+		</div>
+	</div>	
+	<div class="folder-bottom"></div>
+</div>
+<div class="folder">
+	<div class="folder-title">
+	    <div class="folder-activeleft fl"></div>
+	    <div class="folder-active fl"><a href="/gl/oto-xe-may/" class="link-folder">&#212;t&#244; - Xe m&#225;y</a></div>
+	    <div class="folder-activeright fl"></div>
+	    <div class="subfolder fl">
+			<a class="link-subfolder" href="/gl/oto-xe-may/tu-van/">T&#432; v&#7845;n</a>
+		</div>
+	    <div class="folder-titleright fr"></div>
+	</div>
+	<div class="folder-content" id="tdHomeFolder38">
+		<div class="folder-topnews fl">
+			<a href="/gl/oto-xe-may/2011/11/sieu-moto-gap-mat-o-ha-long/"><img src="/Files/Subject/3b/bb/c3/fd/Moto-quang-ninh-subject.jpg" alt="" class="img-subject fl" /></a><p><a class="link-title" href="/gl/oto-xe-may/2011/11/sieu-moto-gap-mat-o-ha-long/">Siêu môtô gặp mặt ở Hạ Long</a>&nbsp;<a style="text-decoration:none" href="/gl/oto-xe-may/2011/11/sieu-moto-gap-mat-o-ha-long" ><img border="0" src="/Images/photo.gif" alt="" />&nbsp;&nbsp;</a></p>
+<p>Câu lạc bộ môtô Hạ Long, Quảng Ninh ra mắt với sự góp mặt của nhiều thành viên vùng than Đông Bắc và nhiều đội môtô phía bắc như Hải Phòng, Thái Bình.</p>
+
+		</div>
+		<div class="folder-othernews fl">
+			 <div class="other-folder fl">
+<a class="link-othernews" href="/gl/oto-xe-may/2011/11/toyota-ft-86-g-concept-tai-viet-nam-motorshow-2011/"><img alt="" class="img-other fl" src="/Files/Subject/3b/bb/c3/a4/53_FT86_Sport_concept.jpg" /></a><a class="link-othernews" href="/gl/oto-xe-may/2011/11/toyota-ft-86-g-concept-tai-viet-nam-motorshow-2011/">Toyota FT-86 G Concept tại Việt Nam Motorshow 2011</a>
+</div>
+<div class="fl">
+ <ul>
+     <li><a class="link-othernews" href="/gl/oto-xe-may/2011/11/morgan-than-go-dau-tien-ve-viet-nam/">Morgan thân gỗ đầu tiên về Việt Nam</a></li>
+     <li><a class="link-othernews" href="/gl/oto-xe-may/2011/11/honda-future-moi-cho-thi-truong-viet-nam/">Honda Future mới cho thị trường Việt Nam</a></li>
+     <li><a class="link-othernews" href="/gl/oto-xe-may/2011/11/tanom-invader-tc-3-voi-trai-tim-suzuki-hayabusa/">Tanom Invader TC-3 với 'trái tim' Suzuki Hayabusa</a></li>
+ </ul>
+</div>
+
+		</div>
+		<div class="rss fr">
+			<a class="link-rss" rel="nofollow" href="/rss/gl/oto-xe-may.rss">RSS <img class="img-rss" alt="Tin tức Ôtô - Xe máy" src="/Images/rss.gif" /></a>
+		</div>
+	</div>	
+	<div class="folder-bottom"></div>
+</div>	
+<div class="folder">
+	<div class="folder-title">
+	    <div class="folder-activeleft fl"></div>
+	    <div class="folder-active fl"><a href="/gl/ban-doc-viet/" class="link-folder">B&#7841;n &#273;&#7885;c</a></div>
+	    <div class="folder-activeright fl"></div>
+	    <div class="subfolder fl">
+			<a class="link-subfolder" href="/gl/ban-doc-viet/the-gioi/">Th&#7871; gi&#7899;i</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/ban-doc-viet/van-hoa/">V&#259;n h&#243;a</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/ban-doc-viet/the-thao/">Th&#7875; thao</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/ban-doc-viet/kinh-doanh/">Kinh doanh</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/ban-doc-viet/xa-hoi/">X&#227; h&#7897;i</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/ban-doc-viet/phap-luat/">Ph&#225;p lu&#7853;t</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/ban-doc-viet/doi-song/">&#272;&#7901;i s&#7889;ng</a>&nbsp;|&nbsp;<a class="link-subfolder" href="/gl/ban-doc-viet/khoa-hoc/">Khoa h&#7885;c</a>
+		</div>
+	    <div class="folder-titleright fr"></div>
+	</div>
+	<div class="folder-content" id="tdHomeFolder109">
+		<div class="folder-topnews2 fl">
+			<p><a class="link-title" href="/gl/ban-doc-viet/2011/11/thu-cua-hoc-tro-hu-gui-thay-giao/">Thư của học trò hư gửi thầy giáo</a></p>
+<p>Dòng sông tri thức tuy bao la rộng lớn nhưng với người lái đò tâm huyết cũng chẳng khó khăn gì. Người đưa đò sẽ rẽ được sóng, tránh được đá ngầm mà đưa con đò thoát khỏi cửa tử mà tới cửa sinh …</p>
+
+		</div>
+		<div class="folder-othernews2 fl" style="padding-top:5px;">
+			<div class="fl">
+ <ul>
+     <li><a class="link-othernews" href="/gl/ban-doc-viet/2011/11/de-xuat-giai-phap-chong-ket-xe-va-giam-thieu-tai-nan-giao-thong/">Đề xuất giải pháp chống kẹt xe và giảm thiểu tai nạn giao thông</a></li>
+     <li><a class="link-othernews" href="/gl/ban-doc-viet/2011/11/dieu-chinh-thoi-gian-lam-viec-tai-sao-khong-bo-luon-gio-nghi-trua/">Điều chỉnh thời gian làm việc - tại sao không bỏ luôn giờ nghỉ trưa?</a></li>
+ </ul>
+</div>
+
+		</div>
+		<div class="rss fr">
+			<a class="link-rss" rel="nofollow" href="/rss/gl/ban-doc-viet.rss">RSS <img class="img-rss" alt="Tin tức Bạn đọc viết" src="/Images/rss.gif" /></a>
+		</div>
+	</div>	
+	<div class="folder-bottom"></div>
+</div>	
+<div class="folder">
+	<div class="folder-title2">
+	    <div class="folder-activeleft2 fl"></div>
+	    <div class="folder-active2 fl"><a href="/gl/ban-doc-viet/tam-su/" class="link-folder">T&#226;m s&#7921;</a></div>
+	    <div class="folder-activeright2 fl"></div>		        
+	    <div class="folder-topright fr"></div>
+	</div>	
+	<div class="folder-content" id="tdHomeFolder127">
+		<div class="folder-topnews fl">
+			<p><a class="link-title" href="/gl/ban-doc-viet/tam-su/2011/11/ban-trai-thay-toi-loi-vi-vua-yeu-vo-vua-yeu-nguoi-tinh/">Bạn trai thấy tội lỗi vì vừa yêu vợ, vừa yêu người tình</a></p>
+<p>Chưa một lần anh ấy giấu em điều gì, kể cả việc có đang nhớ vợ hay không, kể cả việc cuộc sống của 2 vợ chồng anh ấy thế nào một cách chi tiết và tỉ mỉ. Rồi sau đó lại phải ngồi lau nước mắt cho em vì ghen tị với hạnh phúc của vợ chồng anh ấy.<BR>><A class=Lead1 href="http://vnexpress.net/gl/ban-doc-viet/tam-su/2011/11/toi-muon-quen-nhung-long-lai-nho/">Tôi muốn quên, nhưng lòng lại nhớ</A> <BR></p>
+
+		</div>
+		<div class="folder-othernews fl">
+			<div class="fl">
+ <ul>
+     <li><a class="link-othernews" href="/gl/ban-doc-viet/tam-su/2011/11/minh-dung-de-tinh-cam-nhat-thoi-huy-hoai-hanh-phuc/">Minh đừng để tình cảm nhất thời hủy hoại hạnh phúc</a></li>
+     <li><a class="link-othernews" href="/gl/ban-doc-viet/tam-su/2011/11/anh-minh-hay-tam-su-voi-vo-ve-tinh-cam-moi-nay-sinh/">Anh Minh hãy tâm sự với vợ về tình cảm mới nảy sinh</a></li>
+     <li><a class="link-othernews" href="/gl/ban-doc-viet/tam-su/2011/11/minh-cung-vuot-qua-kho-khan-ong-xa-nhe/">Mình cùng vượt qua khó khăn ông xã nhé</a></li>
+     <li><a class="link-othernews" href="/gl/ban-doc-viet/tam-su/2011/11/xin-em-hay-xem-chung-ta-nhu-nguoi-xa-la/">Xin em hãy xem chúng ta như người xa lạ</a></li>
+ </ul>
+</div>
+
+		</div>
+		<div class="rss fr">
+			<a class="link-rss" rel="nofollow" href="/rss/gl/ban-doc-viet-tam-su.rss">RSS <img class="img-rss" alt="Tin tức Tâm sự" src="/Images/rss.gif" /></a>
+		</div>
+	</div>	
+	<div class="folder-bottom"></div>
+</div>	
+<div class="folder">	
+	<div class="folder-small fl"> 
+		<div class="folder-title2">
+			<div class="folder-activeleft2 fl"></div>
+			<div class="folder-active2 fl"><a href="/gl/cuoi/" class="link-folder">C&#432;&#7901;i</a></div>
+			<div class="folder-activeright2 fl"></div>	        
+			<div class="folder-topright fr"></div>
+		</div>
+		<div class="folder-content folder-smallcontent" id="tdHomeFolder105">
+			<div class="fl">
+				<p><a class="link-title" href="/gl/cuoi/2011/11/xem-not-roi-chua-benh-sau/">Xem nốt rồi chữa bệnh sau</a></p>
+<p><a class="link-othernews" href="/gl/cuoi/2011/11/xem-not-roi-chua-benh-sau/"><img alt="" class="img-other fl" src="/Files/Subject/3b/bb/c3/f5/xem_not_roi_chua_benh_sau_3.jpg" /></a>Bệnh nhân than phiền với bác sĩ: "Tôi ngủ không ngon giấc, suốt đêm cứ mơ thấy một đàn chuột chơi bóng đá ầm ĩ".<BR>> <A class=Lead1 href="http://vnexpress.net/gl/cuoi/2011/08/tan-tinh-y-ta/">Tán tỉnh y tá</A>/ <A class=Lead1 href="http://vnexpress.net/gl/cuoi/2011/07/mang-chai-di-mua-thit/">Mang chai đi mua thịt</A>/ <A class=Lead1 href="http://vnexpress.net/gl/cuoi/2011/07/sai-lam-khong-dang-ke/">Sai lầm không đáng kể</A></p>
+<p><a class="link-title" href="/gl/cuoi/video/2011/11/dan-roi-ngay-truoc-mat/">Đạn rơi ngay trước mặt</a></p>
+<p><a class="link-othernews" href="/gl/cuoi/video/2011/11/dan-roi-ngay-truoc-mat/"><img alt="" class="img-other fl" src="/Files/Subject/3b/bb/c4/10/dan_roi_ngay_truoc_mat_3.jpg" /></a>Những người lính được phen hết hồn khi đạn từ khẩu bazooka bắn ra rơi ngay gần chỗ họ thực hành. <BR>> <A class=Lead1 href="http://vnexpress.net/gl/cuoi/video/2011/10/nhung-tinh-huong-hai-huoc-trong-bong-da-xua/">Những tình huống hài hước trong bóng đá xưa</A>/ <A class=Lead1 href="http://vnexpress.net/gl/cuoi/video/2011/04/doi-dau-voi-canh-sat/">Đối đầu với cảnh sát</A>/ <A class=Lead1 href="http://vnexpress.net/gl/cuoi/video/2011/03/phut-bat-can-lam-chay-toc/">Phút bất cẩn làm cháy tóc</A></p>
+			
+			</div>
+			<div class="rss fr">
+				<a class="link-rss" rel="nofollow" href="/rss/gl/cuoi.rss">RSS <img class="img-rss" alt="Tin tức Cười" src="/Images/rss.gif" /></a>
+			</div>
+		</div>
+		<div class="folder-bottom folder-smallbottom"></div>		
+	</div>		
+		<div class="folder-small fr">
+		<div class="TL-Payment fl"></div>
+		<div class="TM-Payment fl"></div>
+		<div class="TR-Payment fl"></div>
+		<div class="payment-content fl">
+			<div class="pm-Left">Thanh toán Online</div>
+			<div class="pm-right">
+				<div class="pm-right1">
+					<div class="fl pm-rleft"></div>
+					<div class="fl pm-rmidd">
+						<div class="pm-after fl"></div>
+						<div class="pm-title fl"><a href="http://ebank.vnexpress.net/Extend/Thanh-toan-truc-tuyen/?srv=1&pdr=VMS" title="Thanh toán cước dịch vụ di động trả sau" target="_blank">Thanh toán cước dịch vụ di động trả sau</a></div>
+						<div class="pm-bottom fl"></div>
+					</div>
+					<div class="fl pm-rright"></div>
+				</div>
+				<div class="pm-right1">
+					<div class="fl pm-rleft"></div>
+					<div class="fl pm-rmidd">
+						<div class="pm-before fl"></div>
+						<div class="pmbefore fl"><a href="http://ebank.vnexpress.net/Extend/Thanh-toan-truc-tuyen/" title="Thanh toán cước dịch vụ di động trả sau" target="_blank">Nạp tiền cho dịch vụ di động trả trước</a></div>
+						<div class="pm-bottom fl"></div>
+					</div>
+					<div class="fl pm-rright"></div>
+				</div>
+				<div class="pm-right1">
+					<div class="fl pm-rleft"></div>
+					<div class="fl pm-rmidd">
+						<div class="pm-plane fl"></div>
+						<div class="pmplane fl"><a  href="http://www.vietnamairlines.com/wps/portal/vn/pop_up/promotion_page/" title="Thanh toán cước dịch vụ di động trả sau" target="_blank">Mua vé máy bay</a></div>
+						<div class="pm-bottom fl"></div>
+					</div>
+					<div class="fl pm-rright"></div>
+				</div>
+				<div class="pm-right1">
+					<div class="fl pm-rleft"></div>
+					<div class="fl pm-rmidd">
+						<div class="pm-game fl"></div>
+						<div class="pmgame fl"><a href="https://pay.gate.vn/" title="Thanh toán cước dịch vụ di động trả sau" target="_blank">Nạp tiền Game Online</a></div>
+						<div class="pm-bottom fl"></div>
+					</div>
+					<div class="fl pm-rright"></div>
+				</div>
+				<div class="pm-right1">
+					<div class="fl pm-rleft"></div>
+					<div class="fl pm-rmidd">
+						<div class="pm-online fl"></div>
+						<div class="pmonline fl"><a href="http://muasam.ngoisao.net/" title="Mua sắm Online" target="_blank">Mua sắm Online</a></div>
+						<div class="pm-bottom fl"></div>
+					</div>
+					<div class="fl pm-rright"></div>
+				</div>
+			</div>
+		</div>
+		<div class="BL-Payment fl"></div>
+		<div class="BM-Payment fl"></div>
+		<div class="BR-Payment fl"></div>
+	</div>
+</div>
+
+		</div>
+	<div class="content-left fl">		
+	<script>
+$(document).ready(function(){$('.H-row').click(function(){$('ul.Hrow').slideToggle('medium');});$('.HideCity li').click(function(){$('ul.Hrow').slideToggle('medium');});});
+</script>
+<div class="box-item">
+<div class="fl">
+	<div class="WGTopLeft fl"></div>
+	<div class="box-topcenter1 fl">&nbsp;</div>
+	<div class="WGTopRight fl"></div>
+</div> 
+<div class="box-middle1 box-weather1 fl">
+	<div class="weather fl">
+		<div class="fl" style="overflow:hidden;height:18px;">
+			<div id="img-Do">&nbsp;</div>
+			<div id="txt-Weather">&nbsp;</div>
+			<div id="txt-City">&nbsp;</div>
+			<div class="H-row"></div>
+		</div>   
+<div style="float:left;width:280px;">
+<div class="HideCity" >
+	<ul class="Hrow" style="display:none;">
+		<li onclick="ShowWeatherBox(1)">S&#417;n La</li><li onclick="ShowWeatherBox(3)">H&#7843;i Ph&#242;ng</li><li onclick="ShowWeatherBox(4)">H&#224; N&#7897;i</li><li onclick="ShowWeatherBox(5)">Vinh</li><li onclick="ShowWeatherBox(6)">&#272;&#224; N&#7861;ng</li><li onclick="ShowWeatherBox(7)">Nha Trang</li><li onclick="ShowWeatherBox(8)">Pleiku</li><li onclick="ShowWeatherBox(9)">TP HCM</li>
+	</ul>
+</div>
+</div>			
+	</div>
+	<script type="text/javascript" language="javascript">ShowWeatherBox(4);</script>	
+</div>   
+<div class="fl">                    
+	<div class="WGBottomLeft fl"></div>
+	<div class="box-bottomcenter1 fl">&nbsp;</div>
+	<div class="WGBottomRight fl"></div>
+</div>
+</div> <div class="box-item">
+	<div class="fl">
+		<div class="WGTopLeft fl"></div>
+		<div class="box-topcenter1 fl">&nbsp;</div>
+		<div class="WGTopRight fl"></div>
+	</div> 
+	<div class="box-middle1 box-weather fl">
+			<div class="HGold">
+				<div class="fl"><div class="WGGold fl"></div>&nbsp;&nbsp;<label class="link-folder">Giá vàng 9999</label></div>
+				<div id="eGold" class="gold-price fl">&nbsp;</div>
+				<div class="fl" style="width:127px;"><label style="font:italic 10px arial; color:#919090;">(Nguồn: <a href="http://www.sacombank-sbj.com" target="_blank"><img style="border:0px;vertical-align:middle;width:80px;height:9px" src="/Images/logoSb.gif" alt="Sacombank" /></a>)</label></div>
+			</div>
+			<div class="HBorder"><img src="/Images/Background/sep-boxweather.gif" alt="" /></div>
+			<div class="HRate">
+				<div class="fl"><div class="WGChart fl"></div>&nbsp;&nbsp;<label class="link-folder">Tỷ giá</label></div>
+				<div id="eForex" class="forex-rate fl">&nbsp;</div>
+				<div class="fl"><label style="font:italic 10px arial; color:#919090;">(Nguồn: <a href="http://www.eximbank.com.vn" target="_blank"><img  style="border:0px;vertical-align:middle" src="/Images/logo-EXIM.gif" /></a>)</label></div>			
+			</div>
+	</div>
+	<div class="fl">                    
+		<div class="WGBottomLeft fl"></div>
+		<div class="box-bottomcenter1 fl">&nbsp;</div>
+		<div class="WGBottomRight fl"></div>
+	</div>
+	<script type="text/javascript" language="javascript" src="/Service/Gold_Content.js"></script>
+	<script type="text/javascript" language="javascript" src="/Service/Forex_Content.js"></script>
+	<script type="text/javascript" language="javascript">ShowGoldPrice();ShowForexRate();</script>
+</div> <div class="box-item">
+<div class="TSHome" id="idContent"><div class="TS-top">	<div class="TS-title">Xem nhiều nhất</div><div class="TS-Top2" onclick="GoSubject();"><div id="TSLine">Chủ đề</div></div><div class="TS-Top1" onclick="GoTopic();"><div id="TSLine"><a href="/gl/hot-subject/" target="blank">Tin bài</a></div></div></div><div class="TS-middle fl" id="C_Subject">	<ul>	<li class="TSeven"><a href="http://vnexpress.net/gl/van-hoa/2011/11/angelina-jolie-brad-pitt-tham-chuong-cop-con-dao/" target="blank">Angelina Jolie, Brad Pitt th&#259;m Chu&#7891;ng c&#7885;p C&#244;n &#272;&#7843;o</a></li>	<li class="TSodd"><a href="http://vnexpress.net/tin/mon-khac/2011/11/doan-viet-nam-da-gianh-17-hc-vang/" target="blank">&#272;o&#224;n Vi&#7879;t Nam &#273;&#227; gi&#224;nh 17 HC v&#224;ng</a></li>	<li class="TSeven"><a href="http://vnexpress.net/gl/phap-luat/2011/11/gia-dinh-nan-nhan-xin-cong-dong-mang-tha-thu-cho-keo-mut/" target="blank">Gia &#273;&#236;nh n&#7841;n nh&#226;n xin c&#7897;ng &#273;&#7891;ng m&#7841;ng tha th&#7913; cho 'K&#7865;o m&#250;t'</a></li>	<li class="TSodd"><a href="http://vnexpress.net/tin/2011/11/dai-thang-8-0-u23-viet-nam-gianh-lai-ngoi-dau-bang-b/" target="blank">&#272;&#7841;i th&#7855;ng 8-0, U23 Vi&#7879;t Nam gi&#224;nh l&#7841;i ng&#244;i &#273;&#7847;u b&#7843;ng B</a></li>	<li class="TSeven"><a href="http://vnexpress.net/gl/vi-tinh/giai-tri/2011/11/clip-dau-dao-giua-pho-hot-nhat-tren-internet-tuan-qua/" target="blank">Clip '&#273;&#7845;u dao gi&#7919;a ph&#7889;' hot nh&#7845;t tr&#234;n Internet tu&#7847;n qua</a></li>	</ul>		<div class="TSBoder">			<div class="TSnext"><a target="blank" href="/gl/hot-subject/">Xem thêm</a></div>			<div class="TSicon"></div>		</div>	</div>	<div class="TS-bottom fl"></div>	</div><div class="TSHome" id="idContent1" style="display:none"><div class="TS-top">	<div class="TS-title">Xem nhiều nhất</div><div class="TS-Top22"><div id="TSLine"><a href="/gl/hot-topic/" target="blank"> Chủ đề</a></div></div><div class="TS-Top11" onclick="GoTopic();"><div id="TSLine">Tin bài</div></div></div><div class="TS-middle fl" id="C_Subject">	<ul>	<li class="TSeven"><a href="http://vnexpress.net/gl/topic/6690/Cap-doi-hoan-hao-2011/" target="blank">C&#7863;p &#273;&#244;i ho&#224;n h&#7843;o 2011</a></li>	<li class="TSodd"><a href="http://vnexpress.net/gl/topic/6482/Top-video-clip-hay-nhat-nam-2010/" target="blank">Top video clip hay nh&#7845;t n&#259;m 2010</a></li>	<li class="TSeven"><a href="http://vnexpress.net/gl/topic/6708/Tong-bi-thu-Nguyen-Phu-Trong-tham-Trung-Quoc/" target="blank">T&#7893;ng b&#237; th&#432; Nguy&#7877;n Ph&#250; Tr&#7885;ng th&#259;m Trung Qu&#7889;c</a></li>	<li class="TSodd"><a href="http://vnexpress.net/gl/topic/6707/Phong-trao-bieu-tinh-Chiem-pho-Wall-o-My/" target="blank">Phong tr&#224;o bi&#7875;u t&#236;nh &quot;Chi&#7871;m ph&#7889; Wall&quot; &#7903; M&#7929;</a></li>	<li class="TSeven"><a href="http://vnexpress.net/gl/topic/6715/Cac-vu-vo-no-dinh-dam-o-Ha-Noi/" target="blank">C&#225;c v&#7909; v&#7905; n&#7907; &#273;&#236;nh &#273;&#225;m &#7903; H&#224; N&#7897;i</a></li>	</ul>		<div class="TSBoder">			<div class="TSnext"><a target="blank" href="/gl/hot-topic/">Xem thêm</a></div>			<div class="TSicon"></div>		</div>	</div>	<div class="TS-bottom fl"></div>	</div>
+</div>
+<script type="text/javascript" language="javascript">function GoSubject(){document.getElementById("idContent").style.display="none";document.getElementById("idContent1").style.display="";checkSubject=true;checkTopic=false;}function GoTopic(){document.getElementById("idContent1").style.display="none";document.getElementById("idContent").style.display="";checkSubject=false;checkTopic=true;}</script>
+<div class="box-item">
+<script type="text/javascript" src="/Library/Common/js/tvsi.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		initvsi();
+	});
+</script>
+<script type='text/javascript' src='/Library/Common/js/data.js'></script>
+<script type='text/javascript' src='/Library/Common/js/jquery.bgiframe.min.js'></script>
+<script src="/Library/Common/js/jquery.autocomplete.js" type="text/javascript"></script>
+<link href="/Library/Common/js/jquery.autocomplete.css" type="text/css" rel="Stylesheet" />
+<style>
+	.light{color:red;}
+	.unlight{color:#000;}
+</style>
+	<div class="fl boxtvsi">
+  <div class="fl tvsis-hp">
+    <div class="fl bl"></div>
+    <div class="fl md">
+      <h3 class="fl head">
+        Tra cứu cổ phiếu
+        <a class="lgtvsismall" href="https://www.tvsi.com.vn/" title="tvsi" target="_blank"></a>
+      </h3>
+      <div class="tvsis fl">
+				<form name="frmsearch" id="frmsearch" method="post" action="http://180.148.142.12/chungkhoan/" target="_blank">
+                    <span class="fl tvsisbr"></span>
+					<input class="fl tvsistxt" type="text" value="Nhập mã chứng khoán cần tìm"  id="iptCode" name="iptCode">
+					<input class="tvsisico" id="btnsubmit" name="btnsubmit" type="submit" value="">
+				</form>
+      </div>
+    </div>
+    <div class="fl br"></div>
+  </div>
+
+  <div class="fl box-dbtt">
+    <div class="fl hr"></div>
+    <ul class="fl dbttab">
+      <li class="sp">
+        <span class="fl bl"></span>
+        <span class="fl md">Diễn biến thị trường</span>
+        <span class="fl br"></span>
+      </li>
+      <li>
+        <a class="nor active" rel="dbtthose" title="HOSE">HOSE</a>
+      </li>
+      <li>
+        <a class="nor" rel="dbtthnx" title="HNX">HNX</a>
+      </li>
+    </ul>
+    <div class="fl ctdbtt">
+      <div class="fl dbtthose">
+        <div class="fl chrwrap">
+          <p class="fl chr chrdd hide">
+            <img src="/Images/Stock/ChartHO1.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+          <p class="fl chr chrmm">
+            <img src="/Images/Stock/ChartHO2.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+          <p class="fl chr chrqq hide">
+            <img src="/Images/Stock/ChartHO3.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+          <p class="fl chr chryy hide">
+            <img src="/Images/Stock/ChartHO4.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+          <p class="fl chr chrall hide">
+            <img src="/Images/Stock/ChartHO5.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+        </div>
+        <ul class="fl navview">
+          <li class="sp">Xem theo</li>
+          <li>
+            <a rel="chrdd" title="Ngày">
+              ngày <i></i>
+            </a>
+          </li>
+          <li>
+            <a class="active" rel="chrmm" title="Tháng">
+              tháng <i></i>
+            </a>
+          </li>
+          <li>
+            <a rel="chrqq" title="Quý">
+              quý <i></i>
+            </a>
+          </li>
+          <li>
+            <a rel="chryy" title="Năm">
+              năm <i></i>
+            </a>
+          </li>
+          <li>
+            <a rel="chrall" title="Tất cả">tất cả</a>
+          </li>
+        </ul>
+        <div class="fl tvsichg">
+          <div class="fl bl"></div>
+          <div class="fl md">
+            <p>
+              Thay đổi: <span>-5.7</span><span class="updown"><i class="down"></i>-1.44%</span>
+            </p>
+            <p class="c2">
+              Thay đổi từ đầu năm: <span>-24.46%</span>
+            </p>
+            <p>
+              Tổng KLGD: <span>20,831,433(cp)</span>
+            </p>
+            <p class="c2">
+              Tổng GTGD: <span>316(tỷ)</span>
+            </p>
+          </div>
+
+          <div class="fl br"></div>
+        </div>
+      </div>
+
+      <div class="fl dbtthnx hide">
+        <div class="fl chrwrap">
+          <p class="fl chr chrdd hide">
+            <img src="/Images/Stock/ChartHA1.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+          <p class="fl chr chrmm">
+            <img src="/Images/Stock/ChartHA2.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+          <p class="fl chr chrqq hide">
+            <img src="/Images/Stock/ChartHA3.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+          <p class="fl chr chryy hide">
+            <img src="/Images/Stock/ChartHA4.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+          <p class="fl chr chrall hide">
+            <img src="/Images/Stock/ChartHA5.png" alt="" border="0" usemap="#planetmap"/>
+          </p>
+        </div>
+        <ul class="fl navview">
+          <li class="sp">Xem theo</li>
+          <li>
+            <a rel="chrdd" title="Ngày">
+              ngày <i></i>
+            </a>
+          </li>
+          <li>
+            <a  class="active" rel="chrmm" title="Tháng">
+              tháng <i></i>
+            </a>
+          </li>
+          <li>
+            <a rel="chrqq" title="Quý">
+              quý <i></i>
+            </a>
+          </li>
+          <li>
+            <a rel="chryy" title="Năm">
+              năm <i></i>
+            </a>
+          </li>
+          <li>
+            <a rel="chrall" title="Tất cả">tất cả</a>
+          </li>
+        </ul>
+        <div class="fl tvsichg">
+          <div class="fl bl"></div>
+          <div class="fl md">
+            <p>
+              Thay đổi: <span>-0.89</span><span class="updown"><i class="down"></i>-1.4%</span>
+            </p>
+            <p class="c2">
+              Thay đổi từ đầu năm: <span>-65.13%</span>
+            </p>
+            <p>
+              Tổng KLGD: <span>31,722,835(cp)</span>
+            </p>
+            <p class="c2">
+              Tổng GTGD: <span>248(tỷ)</span>
+            </p>
+          </div>
+
+          <div class="fl br"></div>
+        </div>
+      </div>
+	   <map name="planetmap" id="planetmap">
+			<area coords="0,25,292,197" shape="rect" href="http://180.148.142.12/chungkhoan/" target="_blank" alt="Detail">
+		</map>
+    </div>
+  </div>
+</div>
+<script>      
+var autocompleteTextId = "iptCode";
+var tradeCenterIndex = "1";
+var suggestionWidth = 250;       
+function  ApplyStockAutoComplete(){
+	$('#' + autocompleteTextId).flushCache();
+	$('#' + autocompleteTextId).autocomplete(stocksymbols[tradeCenterIndex], {
+		minChars: 0,
+		width: suggestionWidth,
+		matchContains: true,
+		autoFill: false,
+		formatItem: function(row, i, max)
+		{
+			return row.s + ': ' + row.n;
+		},
+		formatMatch: function(row, i, max)
+		{
+			return row.s + ' ' + row.n + ' ' + row.t;
+		},
+		formatResult: function(row)
+		{
+			return row.s + '-' + row.n;
+		}
+	});   
+	$('#' + autocompleteTextId).result(function(event, data, formatted) {                             
+		document.frmsearch.submit();
+		return true;	
+	});            
+}        
+function ChangeFloorCode(index) {
+	tradeCenterIndex = index;
+	ApplyStockAutoComplete();
+}   
+
+ChangeFloorCode(-1);        
+</script>
+</div>
+<div class="box-item">
+	<div class="fl" style="width:175px;height:240px;">
+	<FONT face=Calibri><script language="JavaScript">AddVote(1,1,374248284,'','Theo bạn, cần thông tin việc xả lũ trước bao lâu?','#FF0000','#C0C0C0','100%',5, new Array(new Array('Ít nhất 24 tiếng',0,0),new Array('12 tiếng',0,1),new Array('6 tiếng',0,2),new Array('2 tiếng',0,3),new Array('Ý kiến khác',0,4)),'',1)</script></FONT>
+	</div>			
+	<div class="fr" style="width:120px;"><script type="text/javascript" language="javascript">Poly_ShowRightLogo(1);</script></div>
+</div>
+<div class="box-item">
+	<script type="text/javascript" language="javascript" src="/Library/Common/Player/swfobject.js"></script>
+	<div class="fl">
+		<div class="fl"><img src="/Images/Background/folder-topleft2.gif" alt="" /></div>
+		<div class="folder-topcenter2 fl"><a href="/video/" class="link-folder">Video</a></div>
+		<div class="fl"><img src="/Images/Background/folder-topright2.gif" alt="" /></div>
+	</div>
+	<div class="box-middle1 list-item fl txtc">
+		<div id="video-title" class="fl">&nbsp;</div>
+		<div id="poly_video">
+			<div id="mediaspace" class="fl"><label id="Label1"></label><br /></div>
+		</div>
+	</div>
+	<div class="fl" style="width:300px">
+		<div class="fl"><img src="/Images/Background/stock-lr.gif" alt="" /></div>
+		<div class="media fl" id="MediaList">&nbsp;</div>
+		<div class="fl"><img src="/Images/Background/stock-lr.gif" alt="" /></div>
+	</div> 
+	<script type="text/javascript" language="javascript">showVideo(0);</script>                      
+</div><div class="box-item">
+	<div class="fl">
+		<div class="fl"><img src="/Images/Background/folder-topleft.gif" alt="" /></div>  
+		<div class="box-title1 fl"><a href="/gl/home/anh/" class="link-folder">&#7842;nh</a></div>                             
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>                            
+	</div>                        
+	<div id="tdHomeFolder400" class="fl">                           
+		<div class="box-middle1 folder-photo fl">
+			<p><a class="link-title" href="/gl/xa-hoi/2011/11/bo-nghien-muc-quy-cua-vua-khai-dinh/">Bộ nghiên mực quý của vua Khải Định</a></p>
+<p><a href="/gl/xa-hoi/2011/11/bo-nghien-muc-quy-cua-vua-khai-dinh/"><img src="/Files/Subject/3b/bb/c3/79/khaidinh-anh.gif" alt="" /></a></p>
+
+		</div>
+		<div class="box-middle1 list-item fl">
+			 <ul>
+     <li><a class="link-othernews3" href="/gl/xa-hoi/2011/11/hang-nghin-nguoi-quay-sau-tran-u23-vn-thang-dam/">Hàng nghìn người 'quậy' sau trận U23 VN thắng đậm</a></li>
+     <li><a class="link-othernews3" href="/gl/the-gioi/anh/2011/11/7-ung-vien-ky-quan-the-gioi-moi/">7 'ứng viên' kỳ quan thế giới mới</a></li>
+     <li><a class="link-othernews3" href="/gl/xa-hoi/nhip-dieu-tre/2011/11/nhung-cu-nhay-du-tu-truc-thang-cua-gioi-tre/">Những cú nhảy dù từ trực thăng của giới trẻ</a></li>
+ </ul>
+
+		</div>
+	</div>
+	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+
+<script type="text/javascript" language="javascript">Poly_ShowLargeLogo(3);</script>
+<div class="box-item">
+	<div class="fl" style="width:175px;height:240px;">
+		<div class="folder-title2">
+			<div class="fl"><img src="/Images/Background/folder-topleft.gif" alt="" /></div>
+			<div class="list-title1 fl"><label class="link-folder">Th&#244;ng tin khuy&#7871;n m&#7841;i</label></div>
+			<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+		</div>
+		<div class="folder-content folder-smallcontent3">
+			<div class="promotion">
+				<ul>
+	<li><a class="link-othernews2" href="/gl/kinh-doanh/doanh-nghiep-viet/2011/11/diem-vang-dien-may-tai-viet-long/">Điểm vàng điện máy tại Việt Long</a></li>
+	<li><a class="link-othernews2" href="/gl/doi-song/mua-sam/2011/11/co-hoi-mua-iphone-4s-gia-0-dong/">Cơ hội mua iPhone 4S giá 0 đồng</a></li>
+	<li><a class="link-othernews2" href="/gl/kinh-doanh/doanh-nghiep-viet/2011/11/tran-anh-khuyen-mai-mot-so-nganh-hang/">Trần Anh khuyến mại một số ngành hàng</a></li>
+	<li><a class="link-othernews2" href="/gl/kinh-doanh/doanh-nghiep-viet/2011/11/khuyen-mai-mung-ben-computer-11-tuoi/">Khuyến mại mừng Ben Computer 11 tuổi</a></li>
+	<li><a class="link-othernews2" href="/gl/kinh-doanh/doanh-nghiep-viet/2011/11/diem-nong-thang-vang-khuyen-mai-2011-tai-hanoicomputer/">Điểm nóng tháng vàng khuyến mại 2011 tại Hanoicomputer</a></li>
+	<li><a class="link-othernews2" href="/gl/doi-song/mua-sam/2011/11/mua-tai-nghe-sennheiser-tang-ve-xem-phim-2d/">Mua tai nghe Sennheiser tặng vé xem phim 2D</a></li>
+	<li><a class="link-othernews2" href="/gl/kinh-doanh/doanh-nghiep-viet/2011/11/mua-dien-thoai-may-tinh-nhan-ngay-goi-dich-vu-trieu-phu/">Mua điện thoại, máy tính nhận ngay gói dịch vụ triệu phú</a></li>
+	<li><a class="link-othernews2" href="/gl/van-hoa/thoi-trang/2011/11/guciano-khuyen-mai-nhan-ngay-20-11/">Guciano khuyến mại nhân ngày 20/11</a></li>
+	<li><a class="link-othernews2" href="/gl/doi-song/mua-sam/2011/11/30-mat-hang-tai-phuc-anh-giam-tu-10-den-gan-50/">30% mặt hàng tại Phúc Anh giảm từ 10 đến gần 50%</a></li>
+	<li><a class="link-othernews2" href="/gl/kinh-doanh/doanh-nghiep-viet/2011/11/giaycao-khai-truong-showroom-moi-tai-ha-noi/">Giaycao khai trương showroom mới tại Hà Nội</a></li>
+	<li><a class="link-othernews2" href="/gl/doi-song/mua-sam/2011/11/thien-hoa-qua-tang-vang-tri-an/">Thiên Hòa – 10 năm vàng phát triển – Quà tặng vàng tri ân</a></li>
+	<li><a class="link-othernews2" href="/gl/van-hoa/thoi-trang/2011/11/giay-sieu-em-marciano-tu-smart-shoes/">Giày siêu êm Marciano từ Smart Shoes</a></li>
+	<li><a class="link-othernews2" href="/gl/kinh-doanh/doanh-nghiep-viet/2011/11/khuyen-mai-tai-diem-vang-mua-sam-viet-long/">Khuyến mại tại điểm vàng mua sắm Việt Long</a></li>
+	<li><a class="link-othernews2" href="/gl/kinh-doanh/doanh-nghiep-viet/2011/11/kohlerman-khuyen-mai-mua-cuoi-2011/">Kohlerman khuyến mại mùa cưới 2011</a></li>
+	<li><a class="link-othernews2" href="/gl/kinh-doanh/doanh-nghiep-viet/2011/11/tang-may-rua-bat-khi-mua-thiet-bi-bep-cata/">Tặng máy rửa bát khi mua thiết bị bếp Cata</a></li>
+	<li><a class="link-othernews2" href="/gl/doi-song/mua-sam/2011/10/mua-laptop-tang-bo-phu-kien-10-mon-doc-dao/">Viễn Thông A - Mua laptop tặng bộ phụ kiện 10 món độc đáo</a></li>
+	<li><a class="link-othernews2" href="/gl/doi-song/mua-sam/2011/10/mua-kim-cuong-va-vo-tang-vang-mieng-sbj/">Mua kim cương và vỏ tặng vàng miếng SBJ</a></li>
+	<li><a class="link-othernews2" href="/gl/kinh-doanh/doanh-nghiep-viet/2011/10/he-thong-ban-le-viettel-giam-gia-laptop-den-30/">Hệ thống bán lẻ Viettel giảm giá laptop đến 30%</a></li>
+	<li><a class="link-othernews2" href="/gl/kinh-doanh/doanh-nghiep-viet/2011/10/hanoicomputer-khuyen-mai-mung-ngay-phu-nu-viet-nam-1/">Hanoicomputer khuyến mại mừng ngày Phụ nữ Việt Nam</a></li>
+	<li><a class="link-othernews2" href="/gl/doi-song/mua-sam/2011/10/goi-dich-vu-qua-tang-qua-tin-nhan/">Gói dịch vụ quà tặng qua tin nhắn</a></li>
+</ul>
+
+			</div>
+		</div>
+		<div class="folder-bottom folder-smallbottom2">
+			<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+			<div class="folder-bottomcenter folder-smallbottomcenter2 fl">&nbsp;</div>
+			<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+		</div>
+	</div>
+	<div class="fr" style="width:120px;"><script type="text/javascript" language="javascript">Poly_ShowRightLogo(2);</script></div>
+</div>
+<script type="text/javascript" language="javascript">Poly_ShowLargeLogo(4);</script>
+<div class="box-item">
+	<div class="fl">
+		<div class="fl"><img src="/Images/Background/folder-topleft.gif" alt="" /></div>  
+		<div class="box-title1 fl"><a href="/Rao-vat/" class="link-folder">Rao v&#7863;t</a></div>                             
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>                            
+	</div>	
+	<div class="box-middle1 list-item fl" style="height:20px;">                            
+		<form action="#" id="SelectCate">
+			<select id="fCate" class="adword-select" onChange="showAdWord(this.value);">
+	<option value="-1" selected="selected">Toàn bộ</option>'
+	<option value="1">Dịch vụ sửa chữa gia dụng</option>
+	<option value="2">Dịch vụ văn phòng</option>
+	<option value="3">Bán thiết bị văn phòng và phụ kiện</option>	
+	<option value="4">Mua thiết bị văn phòng và phụ kiện</option>	
+	<option value="5">Bán ôtô xe máy</option>	
+	<option value="6">Mua ôtô xe máy</option>		
+	<option value="8">Bán điện thoại di động</option>	
+	<option value="9">Mua điện thoại di động</option>		
+	<option value="11">Linh tinh</option>	
+	<option value="12">Cho thuê nhà</option>	
+	<option value="13">Bán nhà</option>	
+	<option value="14">Cần thuê nhà</option>	
+	<option value="15">Cần mua nhà</option>	
+	<option value="16">Tìm việc làm</option>	
+	<option value="17">Cần tuyển</option>	
+	<option value="18">Cho thuê xe</option>		
+	<option value="21">Tuyển sinh</option>	
+	<option value="22">Sửa chữa bảo dưỡng</option>	
+	<option value="23">Quần áo - Giầy dép</option>	
+	<option value="24">Mỹ phẩm – Trang sức</option>	
+	<option value="25">Thẩm mỹ - Chăm sóc sắc đẹp</option>	
+	<option value="26">Hàng thanh lý giảm giá</option>	
+	<option value="27">Mua máy tính</option>	
+	<option value="28">Bán máy tính</option>	
+	<option value="29">Phụ kiện máy tính</option>	
+	<option value="30">Dịch vụ máy tính</option>	
+	<option value="31">Mua Điện tử - Điện lạnh</option>	
+	<option value="32">Bán Điện tử - Điện lạnh</option>	
+	<option value="33">Dịch vụ Điện tử - Điện lạnh</option>	
+	<option value="34">Mua bán sim</option>	
+	<option value="35">Vệ sinh nhà cửa</option>	
+	<option value="36">Dịch vụ khác</option>	
+</select>
+			&nbsp;<img src="/Images/play.gif" alt="" />                            
+		</form>
+	</div>	
+	<div id="AdWord" class="box-middle1 list-item4 fl">
+		<script type="text/javascript" language="javascript">showAdWord(0);</script>
+	</div>
+	<div class="box-middle1 list-item fl">
+		<a class="link-adwrod1" href="http://vnexpress.net/Service/Raovat/"><img class="img-search" src="/Images/dang-ky-rao-vat.gif" alt="" />&nbsp;&#272;&#259;ng Rao v&#7863;t</a>
+	</div>
+	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+<script type="text/javascript" language="javascript">Poly_ShowLargeLogo(5);</script>
+	
+	</div>
+	
+	<div class="content-right fl">		
+		<div class="adv-header">
+			<div class="adv-title fl">				
+				<a href="http://www.fptad.com/lienhe.aspx" target="_blank"><img style="border:0" src="/Images/Background/adv-title.gif" alt="Lien he quang cao" /></a>				
+			</div>
+		</div>
+		<div id="adgroup"  style="display:none;clear:both;"></div>
+	<A href="http://vnexpress.net/Files/Folder/00/01/buuthiep.gif" class="Normal"></A>
+<Script type="text/javascript" language="JavaScript">Poly_ShowAdScrollBanner(2);</Script>
+				</div>
+				
+			</div>
+			
+			<div id="footer">
+				
+				<script language="javascript">ShowPromotion();</script>	
+				
+                <div class="fmenu-top">
+                    <div class="fl icone-footer"></div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-home" rel="nofollow" onclick="javascript:setAsHomePage(this)"><span></span>Đặt làm trang chủ</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ct" rel="nofollow" class="link-contact" href="/ContactUs/?id=webmaster@vnexpress.net"><span></span>Liên hệ tòa soạn</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ads" rel="nofollow" class="link-contact" href="http://ads.fpt.net/lienhe.aspx" target="_blank"><span></span>Liên hệ quảng cáo</a>
+                    </div>					
+                    <div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">						
+						
+                        <span class="lnkf-hl">Đường dây nóng: 0123.888.0123 (HN) - 0129.233.3555 (TP HCM)<span></span></span>
+						
+                    </div>
+					<div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">
+						 <a rel="nofollow" class="link-contact" href="http://fptad.com/qc/v/vnexpress/2011/phongvienthethao/" target="_blank"><img class="img-search" src="/Images/person.gif" alt="" style="vertical-align:top;" /> VnExpress tuyển dụng </a>
+					</div>					
+                </div>
+                <div class="fmenu-bottom">	
+					<a href="/" class="link-footermenu">Trang chủ</a><i class="sepaf"></i>
+					<a href="/gl/xa-hoi/" class="link-footermenu">Xã hội</a><i class="sepaf"></i>
+					<a href="/gl/the-gioi/" class="link-footermenu">Thế giới</a><i class="sepaf"></i>
+					<a href="/gl/kinh-doanh/" class="link-footermenu">Kinh doanh</a><i class="sepaf"></i>
+					<a href="/gl/van-hoa/" class="link-footermenu">Văn hóa</a><i class="sepaf"></i>
+					<a href="/gl/the-thao/" class="link-footermenu">Thể thao</a><i class="sepaf"></i>
+					<a href="/gl/phap-luat/" class="link-footermenu">Pháp luật</a><i class="sepaf"></i>
+					<a href="/gl/doi-song/" class="link-footermenu">Ðời sống</a><i class="sepaf"></i>
+					<a href="/gl/khoa-hoc/" class="link-footermenu">Khoa học</a><i class="sepaf"></i>
+					<a href="/gl/vi-tinh/" class="link-footermenu">Vi tính</a><i class="sepaf"></i>
+					<a href="/gl/oto-xe-may/" class="link-footermenu">Ôtô - Xe máy</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/" class="link-footermenu">Bạn đọc viết</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/tam-su/" class="link-footermenu">Tâm sự</a><i class="sepaf"></i>
+					<a href="/user/rao-vat/" class="link-footermenu">Rao vặt</a><i class="sepaf"></i>
+					<a href="/gl/cuoi/" class="link-footermenu">Cuời</a>
+					
+                    <script type="text/javascript" language="javascript">
+						//writeFooterMenu();
+						Poly_ShowFixFloatBanner(0);Poly_ShowFixFloatBanner(2);Poly_ShowFixFloatBanner(1);Poly_ShowFixFloatBanner(3);
+						Poly_ShowSlideBanner();Poly_ShowBallonBanner();						
+					</script>
+					
+                    <script type="text/javascript" language="javascript">Poly_ShowPopupUnder();</script>
+					
+                </div>
+                <div class="copyright">
+                    <p><label style="font:bold 11px arial; color:#686E7A;">&#169;&nbsp;Copyright 1997-2011 VnExpress.net</label>, <label style="font:normal 11px arial; color:#686E7A;">All rights reserved <a rel="nofollow" href="/ContactUs/?id=webmaster@vnexpress.net">Contact us</a> - <label onClick="ContactUs()" style="text-decoration:underline;cursor:pointer">Th&#244;ng tin T&#242;a so&#7841;n</label></label</p>
+<p><label style="font:normal 11px arial; color:#686E7A;">&#174;&nbsp;VnExpress gi&#7919; b&#7843;n quy&#7873;n n&#7897;i dung tr&#234;n website n&#224;y.</lable></p>
+
+                </div>
+            </div>
+			</div>
+		</div>		
+		</div>		
+		<script type="text/javascript">
+		<!--//<![CDATA[
+			cpms_Ap.init();
+			cpms_Ap.typ = 1;
+			cpms_Ap.dof = 0;
+			cpms_Ap.ste = 1;
+			cpms_Ap.reg = 0;
+			cpms_Ap.fol = 1;
+			cpms_Ap.pos = 38;
+			cpms_Ap.url = encodeURIComponent(document.location.href);
+			cpms_Ap.show();
+		//]]>-->
+		</script>
+		  	
+		<div style="float:left;">
+			<script type="text/javascript" language="javasript">
+				var strHr = location.href;				
+				if(strHr.substr(0,21)=='http://vnexpress.net/' || strHr.substr(0,27)=='http://ebank.vnexpress.net/' || strHr.substr(0,28)=='http://nhadep.vnexpress.net/'){
+					document.write('<img src="http://180.148.142.10/website/vnexpress/Res.asp?vid=D89B77F8-D9D4-40D0-8430-C2BDACF137A9&ovt=0&vsd=0&pfd=1&pid=1&ref=&iTime=11/15/2011 1:14:27 AM" border=0>');
+					
+				}
+			</script>
+		</div>
+		<script type="text/javascript">
+	var SERVER_ID = 3;
+</script>
+		<!--<script type="text/javascript" language="javascript" src="/Library/Common/rss.js"></script>-->
+		<script type="text/javascript" src="http://180.148.142.152/Library/VNELibraryNew.js"></script>
+
+<script src="http://180.148.142.152/Vals/1/0/1/Val.js" type="text/javascript"></script>		
+
+<script type="text/javascript" language="javaScript">checkCookie();</script>
+
+<script type="text/javascript" language="javaScript" src="http://180.148.142.153/script/libMobile.js"></script>     
+
+
+<script type="text/javascript">      
+    Poly_ShowAds();
+</script>
+	
+	</body>			
+</html>

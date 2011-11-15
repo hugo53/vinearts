@@ -1,0 +1,126 @@
+<html>
+    <head>
+        <title>Object reference not set to an instance of an object.</title>
+        <style>
+         body {font-family:"Verdana";font-weight:normal;font-size: .7em;color:black;} 
+         p {font-family:"Verdana";font-weight:normal;color:black;margin-top: -5px}
+         b {font-family:"Verdana";font-weight:bold;color:black;margin-top: -5px}
+         H1 { font-family:"Verdana";font-weight:normal;font-size:18pt;color:red }
+         H2 { font-family:"Verdana";font-weight:normal;font-size:14pt;color:maroon }
+         pre {font-family:"Lucida Console";font-size: .9em}
+         .marker {font-weight: bold; color: black;text-decoration: none;}
+         .version {color: gray;}
+         .error {margin-bottom: 10px;}
+         .expandable { text-decoration:underline; font-weight:bold; color:navy; cursor:hand; }
+        </style>
+    </head>
+
+    <body bgcolor="white">
+
+            <span><H1>Server Error in '/' Application.<hr width=100% size=1 color=silver></H1>
+
+            <h2> <i>Object reference not set to an instance of an object.</i> </h2></span>
+
+            <font face="Arial, Helvetica, Geneva, SunSans-Regular, sans-serif ">
+
+            <b> Description: </b>An unhandled exception occurred during the execution of the current web request. Please review the stack trace for more information about the error and where it originated in the code.
+
+            <br><br>
+
+            <b> Exception Details: </b>System.NullReferenceException: Object reference not set to an instance of an object.<br><br>
+
+            <b>Source Error:</b> <br><br>
+
+            <table width=100% bgcolor="#ffffcc">
+               <tr>
+                  <td>
+                      <code><pre>
+
+Line 383:            &lt;/div&gt;
+Line 384:            &lt;div style=&quot;width: 250px; float: left;height:23px;text-align:left;padding-top:3px;&quot;&gt;                                
+<font color=red>Line 385:            &lt;a id=&quot;iFacebook&quot; target=&quot;_blank&quot; href=&quot;http://www.facebook.com/sharer.php?u=&lt;%= UrlRewriteHelper.GetArticleUrl(ArticleID).Replace(&quot;“&quot;,&quot;&quot;).Replace(&quot;”&quot;,&quot;&quot;)%&gt;&amp;t=&lt;%= Title%&gt;&quot; style=&quot;border: 0pt none ; margin: 0pt;&quot; title=&quot;Facebook&quot; &gt;&lt;img alt=&quot;http://tuoitre.vn/Images/bookmark/facebook_48.png&quot; style=&quot;margin:0px;border:0px;width:20px;margin-left:5px;&quot; src=&quot;http://tuoitre.vn/Images/bookmark/facebook_48.png&quot; /&gt;&lt;/a&gt;                
+</font>Line 386:            &lt;a id=&quot;A1&quot; target=&quot;_blank&quot; href=&quot;http://bookmarks.yahoo.com/toolbar/savebm?u=&lt;%= UrlRewriteHelper.GetArticleUrl(ArticleID).Replace(&quot;“&quot;,&quot;&quot;).Replace(&quot;”&quot;,&quot;&quot;)%&gt;&amp;t=&lt;%= Title%&gt;&quot; style=&quot;border: 0pt none ; margin: 0pt;&quot; title=&quot;Yahoo&quot; &gt;&lt;img alt=&quot;http://tuoitre.vn/Images/bookmark/yahoo.jpg&quot; style=&quot;margin:0px;border:0px;width:20px;margin-left:5px;&quot; src=&quot;http://tuoitre.vn/Images/bookmark/yahoo.jpg&quot; /&gt;&lt;/a&gt;                
+Line 387:            &lt;a id=&quot;iTwistthis&quot; target=&quot;_blank&quot; href=&quot;http://twitthis.com/twit?url='&lt;%= UrlRewriteHelper.GetArticleUrl(ArticleID) %&gt;'&amp;amp;title='&lt;%= Title%&gt;'&quot; style=&quot;border: 0pt none ; margin: 0pt;&quot; title=&quot;TwitThis&quot;&gt;&lt;img alt=&quot;http://tuoitre.vn/Images/bookmark/twitter_48.png&quot; style=&quot;margin:0px;border:0px;width:20px;margin-left:5px;&quot; src=&quot;http://tuoitre.vn/Images/bookmark/twitter_48.png&quot; /&gt;&lt;/a&gt;</pre></code>
+
+                  </td>
+               </tr>
+            </table>
+
+            <br>
+
+            <b> Source File: </b> d:\www\WebParts\ArticleView.ascx<b> &nbsp;&nbsp; Line: </b> 385
+            <br><br>
+
+            <b>Stack Trace:</b> <br><br>
+
+            <table width=100% bgcolor="#ffffcc">
+               <tr>
+                  <td>
+                      <code><pre>
+
+[NullReferenceException: Object reference not set to an instance of an object.]
+   ASP.webparts_articleview_ascx.__Render__control1(HtmlTextWriter __w, Control parameterContainer) in d:\www\WebParts\ArticleView.ascx:385
+   System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children) +114
+   System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children) +239
+   System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children) +239
+   System.Web.UI.WebControls.WebControl.RenderContents(HtmlTextWriter writer) +12
+   Moore.MPF.WebControls.WebParts.WebPartChromeMPF.RenderWebPart(HtmlTextWriter writer, WebPart webPart) +320
+   Moore.MPF.WebControls.WebParts.WebPartZoneMPF.RenderBody(HtmlTextWriter writer) +845
+   Moore.MPF.WebControls.WebParts.WebPartZoneMPF.RenderContents(HtmlTextWriter writer) +258
+   Moore.MPF.WebControls.WebParts.WebPartZoneMPF.Render(HtmlTextWriter writer) +205
+   System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children) +239
+   System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children) +239
+   System.Web.UI.HtmlControls.HtmlForm.RenderChildren(HtmlTextWriter writer) +252
+   System.Web.UI.HtmlControls.HtmlForm.Render(HtmlTextWriter output) +86
+   System.Web.UI.HtmlControls.HtmlForm.RenderControl(HtmlTextWriter writer) +52
+   System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children) +239
+   System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children) +239
+   System.Web.UI.Page.Render(HtmlTextWriter writer) +37
+   System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) +4239
+</pre></code>
+
+                  </td>
+               </tr>
+            </table>
+
+            <br>
+
+            <hr width=100% size=1 color=silver>
+
+            <b>Version Information:</b>&nbsp;Microsoft .NET Framework Version:2.0.50727.4216; ASP.NET Version:2.0.50727.4209
+
+            </font>
+
+    </body>
+</html>
+<!-- 
+[NullReferenceException]: Object reference not set to an instance of an object.
+   at ASP.webparts_articleview_ascx.__Render__control1(HtmlTextWriter __w, Control parameterContainer) in d:\www\WebParts\ArticleView.ascx:line 385
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.WebControls.WebControl.RenderContents(HtmlTextWriter writer)
+   at Moore.MPF.WebControls.WebParts.WebPartChromeMPF.RenderWebPart(HtmlTextWriter writer, WebPart webPart)
+   at Moore.MPF.WebControls.WebParts.WebPartZoneMPF.RenderBody(HtmlTextWriter writer)
+   at Moore.MPF.WebControls.WebParts.WebPartZoneMPF.RenderContents(HtmlTextWriter writer)
+   at Moore.MPF.WebControls.WebParts.WebPartZoneMPF.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.HtmlControls.HtmlForm.RenderChildren(HtmlTextWriter writer)
+   at System.Web.UI.HtmlControls.HtmlForm.Render(HtmlTextWriter output)
+   at System.Web.UI.HtmlControls.HtmlForm.RenderControl(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Page.Render(HtmlTextWriter writer)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+[HttpUnhandledException]: Exception of type 'System.Web.HttpUnhandledException' was thrown.
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.layouts_twocolumns_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework64\v2.0.50727\Temporary ASP.NET Files\root\3110d672\6f1de7e\App_Web_kqofe8aj.9.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+--><!-- 
+This error page might contain sensitive information because ASP.NET is configured to show verbose error messages using &lt;customErrors mode="Off"/&gt;. Consider using &lt;customErrors mode="On"/&gt; or &lt;customErrors mode="RemoteOnly"/&gt; in production environments.-->
