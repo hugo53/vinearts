@@ -1,0 +1,661 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><link href="../../../App_Themes/Hanoimoi/Contact.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/mouseovertabs.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/newscategory.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/newsdetail.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/stylehome.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/thickbox.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/Top_Tip.css" type="text/css" rel="stylesheet" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta http-equiv="refresh" content="600" /><title>
+	
+        Mở rộng triển khai dịch vụ “Nạp tiền điện tử VCB-eTopup”
+</title><link href="/Client/slide/featuredcontentglider.css" rel="stylesheet" type="text/css" /><link href="/Client/jquery.ui.tab/css/flick/jquery-ui-1.7.2.custom.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        body
+        {
+            margin: 0px;
+            padding: 0px 0px 60px;
+            background: #FFFFFF no-repeat fixed center 0px;
+        }
+        .divFixed
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            left: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixed_R
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            right: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixedBg_IE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_RIE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_IE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+        .divFixedBg_RIE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+    </style>
+    <script language="JavaScript" type="text/javascript"> 
+//    function LoadImages(s,c)
+//    {
+//   
+//        s.getAttribute("loi")==null?s.setAttribute("loi","1"):s.setAttribute("loi",eval(s.getAttribute("loi"))+1);
+//        if(eval(s.getAttribute("loi"))>=2){c=c.substr(c.lastIndexOf("=")+1,c.length-c.lastIndexOf("="));
+//        s.onerror=null;s.src="/App_Themes/Default/Images/no_image_"+c+".jpg"}
+//        else s.src=c
+//    }
+     function returnUrl12() {
+            var key = document.getElementById('txt_search')
+	       
+            if (key.value.length != 0) {
+                location= "/NewsSearch.aspx?keyword=" + encodeURIComponent(key.value);
+		return false;	
+            }
+            else {
+                alert("Cần nhập từ khóa để tìm kiếm");
+                document.getElementById('txt_search').focus();
+                return false;
+            }
+        }
+    </script>
+  <link href="/StyleSheets/Poll/style.css" rel="stylesheet" type="text/css" /><link rel="shortcut icon" href="../../../Images/hanoimoi.ico" />
+    <script src="/Scripts/jquery.js" type="text/javascript"></script>
+    <script src="/Scripts/AdsFloat.js" type="text/javascript"></script>
+    <script src="/Client/slide/featuredcontentglider2.js" type="text/javascript"></script>    
+    <script src="/Scripts/jquery.query.js" type="text/javascript"></script>
+    <script src="/Scripts/swfobject.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/Scripts/hanoimoi.js"></script>
+    <script src="/Client/jquery.ui.tab/js/jquery-ui-1.7.2.tab.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/Scripts/thickbox-compressed.js"></script>
+	<script type="text/javascript" src="http://media.adnetwork.vn/js/adnetwork.js"></script>
+    
+    
+   
+
+    <!--###################End Tooltip##########################-->
+    <style type="text/css">
+        .highlight
+        {
+            background: yellow;
+            color: black;
+            text-decoration: none;
+        }
+        #dhtmltooltip
+        {
+            position: absolute;
+            left: -300px;
+            width: 150px;
+            border: 1px solid black;
+            padding: 2px;
+            background-color: lightyellow;
+            visibility: hidden;
+            z-index: 9999 !important; /*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+            filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+        }
+        #dhtmlpointer
+        {
+            position: absolute;
+            left: -300px;
+            z-index: 99999 !important;
+            visibility: hidden;
+        }
+        body
+        {
+            margin: 0px;
+            padding: 0px 0px 60px;
+            background: #FFFFFF url(/Customize/ExtendBanner/bg_tgdd_0410.jpg) no-repeat fixed center 0px;
+        }
+        .divFixed
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            left: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixed_R
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            right: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixedBg_IE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_RIE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_IE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+        .divFixedBg_RIE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+    </style>
+
+    <script type="text/javascript" src="/Scripts/ActiveX_Template.js"></script>
+    
+    
+    </head>
+<body style="margin:0; padding:0;">
+    <form name="aspnetForm" method="post" action="mo-rong-trien-khai-dich-vu-nap-tien-dien-tu-vcbetopup.htm" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1MDgyNDE3ODRkZOnXbVpOOlL7iJ5ySio4lBGq8929" />
+
+
+<script src="/ScriptResource.axd?d=AoIY0xssY9EJyZgj_z09KlWUTQ38BpSt1989tW9nJcG1o_Qh04mf_XnnBhE6jaMrcI40VixBIiFVJJILlF57hVamS6_jbhBPQzhj4C9LyEKOe0KwHtyUpSYQIrr-_IDbyr9ZjjzdrWNXNzbDh0Y1gA9xn_mPI3ChRwXJZy2Cu6NbpAio0&amp;t=ffffffffea696f7c" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWFQLTodK2DALiydb3BgKA4oCQBQKPs5q3DQKzqrHfCAKIzPeOAQKLwJnaCgLU4dDxBwLhocvvAwLV48O+CwLUpYXRBwLG+9tdAtHP1+4MAvTq4aQDAurX1ecJAvfgtPQMAt3E+90MAtuu0ogPAtO368wBAtiWq7sNAueVloQCoqbWBYLY6Pv43xOegDxKqAD17pk=" />
+        <!-- Quang cao 2 ben trang -->
+    <div id="divResult"></div>
+    
+
+ 
+    <div >
+        
+        <div id="main_body" >
+            <div id="top">
+                <div class="wrapbar" id="dvBanner">
+                    <div class="left_logo">
+                        <a href="#">
+                            <img alt="" src="/images/hanoimoi_logo.png" border="0" /></a>
+                    </div>
+                    <div class="right_adv">
+                       <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" 
+codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="640" height="87" name="wmode">
+    <param name="movie" value="/Uploads/NCC/ads-homepage/netdepnguoithudo.swf">
+                  <param name="quality" value="high">
+                  <param name="wmode" value="transparent">
+                 <embed wmode="transparent" src="/Uploads/NCC/ads-homepage/netdepnguoithudo.swf" allowscriptaccess="always" type="application/x-shockwave-flash" width="640" height="87"></embed>
+</object>
+
+                    </div>
+                </div>
+                <div id="dvTopMenu">
+                    <div class="wrapbar">
+                        <div class="menu_content2">
+                            <div id="mytabsmenu" class="tabsmenuclass">
+                                <ul class="menutop"><li><a href="/index.htm" rel="gotsubmenu[selected]">Trang chủ</a></li><li><a id='Chinh-tri' rel="gotsubmenu" href="/categoryparent/192/Chinh-tri.htm">Chính trị</a></li><li><a id='Xa-hoi' rel="gotsubmenu" href="/categoryparent/163/Xa-hoi.htm">Xã hội</a></li><li><a id='Kinh-te' rel="gotsubmenu" href="/categoryparent/190/Kinh-te.htm">Kinh tế</a></li><li><a id='The-gioi' rel="gotsubmenu" href="/categoryparent/189/The-gioi.htm">Thế giới</a></li><li><a id='Van-hoa' rel="gotsubmenu" href="/categoryparent/179/Van-hoa.htm">Văn hóa</a></li><li><a id='The-thao' rel="gotsubmenu" href="/categoryparent/170/The-thao.htm">Thể thao</a></li><li><a id='Giao-duc' rel="gotsubmenu" href="/categoryparent/164/Giao-duc.htm">Giáo dục</a></li><li><a id='1000_nam_thang_long' rel="gotsubmenu" href="/categoryparent/204/1000_nam_thang_long.htm">Thăng Long - Hà Nội</a></li><li><a id='Phap-luat' rel="gotsubmenu" href="/categoryparent/175/Phap-luat.htm">Pháp luật</a></li><li><a id='Khoa-hoc' rel="gotsubmenu[selected]" href="/categoryparent/100/Khoa-hoc.htm">Khoa học</a></li><li><a id='Doi-song' rel="gotsubmenu" href="/categoryparent/224/Doi-song.htm">Đời sống</a></li></ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="wrapbar">
+                        <div class="menu_boder_left">
+                            <!---->
+                        </div>
+                        <div class="sub_menu_content">
+                            <div id="mysubmenuarea" class="tabsmenucontentclass">
+                                <!--1st link within submenu container should point to the external submenu contents file-->
+                                <a href="/submenucontents.aspx" style="visibility: hidden">
+                                    Sub Menu contents</a>
+                            </div>
+
+                            <script type="text/javascript">
+                                //mouseovertabsmenu.init("tabs_container_id", "submenu_container_id", "bool_hidecontentsmouseout")
+                                mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
+
+                            </script>
+
+                        </div>
+                        <div class="menu_boder_right">
+                            <!---->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+
+<div id="main_wrap">
+        <div class="wrapbar">
+           <div class="left_news_category_box">
+                <div class="left_category_news">
+                    
+
+<script language="javascript" type="text/javascript">
+    $(function() {
+
+        // hides the slickbox as soon as the DOM is ready
+        // (a little sooner than page load)
+        $('#slickbox').hide();
+        $('#sendcomment').hide();
+        // shows the slickbox on clicking the noted link  
+        $('a#slick-show').click(function() {
+            $('#slickbox').show('slow');
+            return false;
+        });
+        $(".btnEmai").click(function() {
+            var pID = $(this).attr("id");
+            var pShortName = $(this).parent().attr("id");
+            tb_show('Kết quả bình luận', '/PrintNews.aspx?newsID=' + pID + '&shortname=' + pShortName + '&no_refresh=1&TB_iframe=true&height=430&width=450&modal=true');
+            return false;
+        });
+        // hides the slickbox on clicking the noted link  
+        $('a#slick-hide').click(function() {
+            $('#slickbox').hide('fast');
+            return false;
+        });
+
+        // toggles the slickbox on clicking the noted link  
+        $('a#slick-toggle').click(function() {
+            $('#slickbox').toggle(400);
+            return false;
+        });
+        // toggles the slickbox on clicking the noted link  
+        $('a#slick-toggle-send').click(function() {
+            $('#sendcomment').toggle(400);
+            return false;
+        });
+        $(".keyword").live('click', function() {
+            location='/NewsSearch.aspx?keyword='+$.trim($(this).html());
+            return false;
+        });
+    });
+</script>
+
+<div class="content_category_news">
+    <div class="content_category_news_title">
+        <a id="ctl00_MainContent_NewsDetailControl_lnkNameCategory"></a>
+        <span class='content_category_news_title_parent'><a href='/categoryparent/100/Khoa-hoc.htm' class='parentCatTitle' rel='Khoa-hoc' style='font-family:Arial;color:#0066CC;font-weight:bold;font-size:12px;text-transform:uppercase;'>Khoa học</a>&nbsp;>&nbsp;<a style='font-family:Arial;color:#0066CC;font-weight:bold;font-size:11px;text-transform:uppercase;' href='/newscategory/182/Cong-nghe.htm'>Công nghệ</a></span>
+    </div>
+    <div class="content_category_news_dot">
+    </div>
+    <br class="clearfloat" />
+    <div class="content_news_detail">
+        <div class="icon_print_email">
+            <a href="#" id="Cong-nghe">
+                <img src="/images/email.gif" /><span class="btnEmai"
+                    id="531066">Email</span></a><a href="/print/531066/print.htm"><img
+                        src="/images/print.gif" /><span>Print</span></a>
+        </div>
+        <br class="clearfloat" />
+        <div class="content_body_detail">
+            <table id="ctl00_MainContent_NewsDetailControl_rptNewsDetail" cellspacing="0" border="0">
+	<tr>
+		<td>
+                    <div class="subtitle_news_detail" style="color: #808080; font-size: 9pt; font-weight: bold">
+                        VIETPAY bắt tay với Ngân hàng VIETCOMBANK:
+                    </div>
+                    <div class="title_news_detail">
+                        Mở rộng triển khai dịch vụ “Nạp tiền điện tử VCB-eTopup”&nbsp;
+                    </div>
+                    <div style="float:left;font-size: small; color: Gray">
+                        24/11/2011 17:00
+                    </div>
+                    
+                    <div  style="color:#777777;float:left;padding-left:5px;">
+                           
+                           </div>
+                            
+                    <br class="clearfloat" />
+                    <div class="body">
+                        
+                    </div>
+                    <div class="body_detail">
+                        <div style="text-align: justify"><strong>H&ocirc;m nay (24/11), Ng&acirc;n h&agrave;ng TMCP Ngoại thương Việt Nam (VIETCOMBANK) v&agrave; C&ocirc;ng ty Cổ phần Thanh to&aacute;n Điện tử Việt (VIETPAY) đ&atilde; phối hợp ch&iacute;nh thức cho ra mắt th&ecirc;m dịch vụ &ldquo;Nạp tiền điện tử VCB-eTopup&rdquo;. </strong><br />
+&nbsp;</div>
+<table border="0" cellspacing="5" cellpadding="5" width="200" align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center"><img alt="" width="400" height="251" src="/Uploads/honghai/2011/11/24/DSC_6247.jpg" /></td>
+        </tr>
+    </tbody>
+</table>
+<div style="text-align: justify"><br />
+Theo đ&oacute;, bắt đầu từ ng&agrave;y 24/11/2011, kh&aacute;ch h&agrave;ng l&agrave; c&aacute;c điểm b&aacute;n d&ugrave;ng SIM VIETPAY c&oacute; thể &ldquo;Nạp tiền v&agrave;o t&agrave;i khoản SIM VIETPAY&rdquo; của m&igrave;nh qua Ng&acirc;n h&agrave;ng VIETCOMBANK mọi l&uacute;c, mọi nơi bằng c&aacute;c h&igrave;nh thức:&nbsp;<br />
+<br />
+- Tại tất cả c&aacute;c điểm giao dịch VIETCOMBANK tr&ecirc;n to&agrave;n quốc.<br />
+<br />
+-&nbsp;Qua dịch vụ ng&acirc;n h&agrave;ng trực tuyến VCB-iB@nking/Nạp tiền điện tử.<br />
+<br />
+Theo &ocirc;ng Nguyễn Duy Cường, Gi&aacute;m đốc VIETPAY: &ldquo;VIETPAY lu&ocirc;n kh&ocirc;ng ngừng nỗ lực để ng&agrave;y c&agrave;ng đem đến dịch vụ thuận tiện nhất cho b&agrave; con kinh doanh bằng SIM VIETPAY (*). T&ocirc;i tin rằng việc Hợp t&aacute;c với VIETCOMBANK &ndash; một Ng&acirc;n h&agrave;ng thương mại h&agrave;ng đầu Việt Nam với gần 400 Chi nh&aacute;nh, ph&ograve;ng giao dịch tr&ecirc;n khắp cả nước lần n&agrave;y sẽ mang đến lợi &iacute;ch lớn cho c&aacute;c kh&aacute;ch h&agrave;ng của VIETPAY. Với dịch vụ n&agrave;y, c&aacute;c kh&aacute;ch h&agrave;ng sẽ ngay lập tức c&oacute; số dư v&agrave;o t&agrave;i khoản SIM VIETPAY, giao dịch mọi l&uacute;c, mọi nơi với thủ tục, thao t&aacute;c đơn giản, thuận tiện v&agrave; ho&agrave;n to&agrave;n miễn ph&iacute;. B&ecirc;n cạnh đ&oacute;, VIETPAY sẽ hỗ trợ kh&aacute;ch h&agrave;ng miễn ph&iacute; 24/7 qua tổng đ&agrave;i 1800 599962 cho mọi vấn đề li&ecirc;n quan đến dịch vụ nạp tiền trực tuyến n&agrave;y&rdquo;.<br />
+<br />
+Đại diện VIETCOMBANK, B&agrave; Phạm Th&uacute;y Nga &ndash; Trưởng ph&ograve;ng Ch&iacute;nh s&aacute;ch sản phẩm b&aacute;n lẻ cho biết: &ldquo;Đ&atilde; từ l&acirc;u, Ng&acirc;n h&agrave;ng VIETCOMBANK ch&uacute;ng t&ocirc;i đ&atilde; rất ch&uacute; trọng mảng ng&acirc;n h&agrave;ng điện tử v&agrave; thực tế với thị phần 31% về mảng ng&acirc;n h&agrave;ng điện tử hiện nay, ch&uacute;ng t&ocirc;i ho&agrave;n to&agrave;n c&oacute; thể tự h&agrave;o l&agrave; một ng&acirc;n h&agrave;ng lu&ocirc;n ti&ecirc;n phong trong việc ứng dụng c&ocirc;ng nghệ, kỹ thuật ti&ecirc;n tiến, đạt ti&ecirc;u chuẩn quốc tế trong việc xử l&yacute; tự động c&aacute;c dịch vụ ng&acirc;n h&agrave;ng, đặc biệt l&agrave; trong c&aacute;c sản phẩm dịch vụ ng&acirc;n h&agrave;ng điện tử. Khi sử dụng c&aacute;c sản phẩm ng&acirc;n h&agrave;ng điện tử của VIETCOMBANK (VCB-iB@nking, VCB-SMS B@nking, VCB-Phone B@nking,...), kh&aacute;ch h&agrave;ng của ch&uacute;ng t&ocirc;i đ&atilde; c&oacute; thể ho&agrave;n to&agrave;n y&ecirc;n t&acirc;m về t&iacute;nh tiện lợi, sự an to&agrave;n, hiệu quả cũng như độ bảo mật cao của c&aacute;c sản phẩm. Ch&uacute;ng t&ocirc;i tin tưởng rằng, việc mở rộng hợp t&aacute;c dịch vụ Nạp tiền điện tử VCB-eTopup với VIETPAY sẽ th&ecirc;m một nhịp cầu nối gi&uacute;p Ng&acirc;n h&agrave;ng VIETCOMBANK đến gần hơn với kh&aacute;ch h&agrave;ng.&rdquo;<br />
+<br />
+------------------------------------------<br />
+(*) SIM VIETPAY l&agrave; một sản phẩm hợp t&aacute;c bởi C&ocirc;ng ty VIETPAY với mạng di động MobiFone v&agrave; c&aacute;c Ng&acirc;n h&agrave;ng. Cho d&ugrave; SIM VIETPAY mới được tung ra thị trường chỉ hơn một năm nhưng đ&atilde; khẳng định ưu thế vượt trội v&agrave; đang trở th&agrave;nh xu hướng b&aacute;n h&agrave;ng của c&aacute;c đại l&yacute; SIM thẻ tại Việt Nam. Được t&iacute;ch hợp ứng dụng VIETPAY Mobile, chỉ với một chiếc SIM VIETPAY của Mobifone, c&aacute;c chủ điểm b&aacute;n lẻ c&oacute; thể nạp tiền cho cả 7 mạng di động Mobifone, Vinaphone, Viettel, Vietnamobile, Beeline, SFone v&agrave; EVN.</div>
+                    </div>
+                    <div class="author">
+                        <br />
+                        &nbsp;<span style="font-weight: normal; font-style: italic"></span>
+                    </div>
+                    <br class="clearfloat" />
+                </td>
+	</tr>
+</table>
+            
+            
+            
+            <br class="clearfloat" />
+        </div>
+        <div>
+            <span id="ctl00_MainContent_NewsDetailControl_lblDate"></span>
+        </div>
+        <div class="new_detail_adv">
+        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" name="wmode" height="78" width="470">
+<param name="movie" value="/Uploads/NCC/ads-tinbai/8-KHOAHOC_laptop_470x78.swf">
+<param name="quality" value="high">
+<param name="wmode" value="transparent">
+<embed wmode="transparent" src="/Uploads/NCC/ads-tinbai/8-KHOAHOC_laptop_470x78.swf" allowscriptaccess="always" type="application/x-shockwave-flash" height="78" width="470">
+</object>
+
+        </div>
+        <div style="padding:5px;">
+        <div style="display:block;">
+            <div class="news_detail_comment">
+                <a style="font-size:12px;text-transform:uppercase;font-weight:bold;font-family:Verdana,Arial;" href="#" id="slick-toggle">Xem phản hồi</a> | <a style="font-size:12px;text-transform:uppercase;font-weight:bold;font-family:Verdana,Arial;" href="#" id="slick-toggle-send">
+                    Gửi phản hồi</a>
+            </div>
+            <div class="content_comment">
+                <div class='content_category_news_title'>Ý KIẾN BẠN ĐỌC(0)</div><br class='clearfloat' /><div id='slickbox'></div>
+                <div id="sendcomment" style="padding-top: 10px">
+                    <div id="contenDiv" class="contenDiv">
+                        <table cellpadding="0" cellspacing="0" border="0" width="470px">
+                            <tr>
+                                <td>
+                                    <input value="Họ và Tên" onfocus="if(this.value=='Họ và Tên') this.value='';" onblur="if(this.value=='') this.value='Họ và Tên';"
+                                        type="text" name="txtName" id="txtName" class="adword-textbox"">
+                                </td>
+                                <td>
+                                    <input type="text" onfocus="if(this.value=='Email') this.value='';" onblur="if(this.value=='') this.value='Email';"
+                                        value="Email" name="txtEmail" id="txtEmail" class="adword-textbox">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="padding-top: 10px;">
+                                    <input type="text" onfocus="if(this.value=='Địa chỉ') this.value='';" onblur="if(this.value=='') this.value='Địa chỉ';"
+                                        value="Địa chỉ" name="txtAddress" id="txtAddress" class="adword-textbox"">
+                                </td>
+                                <td style="padding-top: 10px;">
+                                    <input type="text" onfocus="if(this.value=='Mã an toàn') this.value='';" onblur="if(this.value=='') this.value='Mã an toàn';"
+                                        value="Mã an toàn" name="txtValidCode" id="txtValidCode" class="adword-textbox2">
+                                    <span id="ctl00_MainContent_NewsDetailControl_lblCode" class="lbl_randomtext">UGUMCT</span>
+                                    <div style="display: none;">
+                                        <input name="ctl00$MainContent$NewsDetailControl$txtNewsCode" type="text" value="UGUMCT" id="ctl00_MainContent_NewsDetailControl_txtNewsCode" />
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" style="padding-top: 5px">
+                                    <textarea rows="10" name="txtAddedContent" id="txtAddedContent" cols="46" class="SForm"
+                                        style="width: 470px"></textarea>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2">
+                                    <input type="button" class="bg_button_send_comment2" onclick="getData('/CommentADD.aspx?newsID=531066','contenDiv')"
+                                        value="Gửi ý kiến">
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+    <div class="news_other_main">
+        <div class="content_category_news_title">
+            CÁC TIN KHÁC
+        </div>
+        <br class="clearfloat" />
+        <div class="list_news_other_item">
+            <ul class='category_item_other_main'><li><a href='/newsdetail/Cong-nghe/531040/lo-dien-sieu-xe-bugatti-veyron-the-he-moi.htm' style='padding-right:5px'>Lộ diện siêu xe Bugatti Veyron thế hệ mới</a><span style='font-size:8pt'>(24/11/2011)</span></li><li><a href='/newsdetail/Cong-nghe/531017/cac-dai-gia-tung-chieu-giu-khach.htm' style='padding-right:5px'>Các "đại gia" tung chiêu giữ khách</a><span style='font-size:8pt'>(24/11/2011)</span></li><li><a href='/newsdetail/Cong-nghe/530951/ngay-an-toan-thong-tin-vn-đe-cao-an-toan-thong-tin-so.htm' style='padding-right:5px'>Ngày an toàn thông tin VN: Đề cao an toàn thông tin số</a><span style='font-size:8pt'>(23/11/2011)</span></li><li><a href='/newsdetail/Cong-nghe/530936/đien-thoai-thong-minh-–-mieng-moi-ngon-cua-tin-tac.htm' style='padding-right:5px'>Điện thoại thông minh – miếng “mồi” ngon của tin tặc</a><span style='font-size:8pt'>(23/11/2011)</span></li><li><a href='/newsdetail/Cong-nghe/530838/ngay-hoi-cntt-viet-nam--nhat-ban-2011-tai-ha-noi.htm' style='padding-right:5px'>“Ngày hội CNTT Việt Nam - Nhật Bản 2011” tại Hà Nội</a><span style='font-size:8pt'>(22/11/2011)</span></li><li><a href='/newsdetail/Cong-nghe/530837/bkav-chinh-thuc-tham-gia-to-chuc-toan-cau-chong-lua-dao.htm' style='padding-right:5px'>Bkav chính thức tham gia Tổ chức toàn cầu chống lừa đảo</a><span style='font-size:8pt'>(22/11/2011)</span></li><li><a href='/newsdetail/Cong-nghe/530834/may-in-hp-laserjet-p1102-va-p1102w-toc-do-cao-tiet-kiem-chi-phi.htm' style='padding-right:5px'>Máy in HP LaserJet P1102 và P1102w: tốc độ cao, tiết kiệm chi phí</a><span style='font-size:8pt'>(22/11/2011)</span></li><li><a href='/newsdetail/Cong-nghe/530705/vnpost-se-phat-trien-thue-bao-truyen-hinh-cho-avg.htm' style='padding-right:5px'>VNPost sẽ phát triển thuê bao truyền hình cho AVG</a><span style='font-size:8pt'>(21/11/2011)</span></li><li><a href='/newsdetail/Cong-nghe/530678/23-doanh-nghiep-khong-biet-bi-hacker-tan-cong.htm' style='padding-right:5px'>23% doanh nghiệp không biết bị hacker tấn công</a><span style='font-size:8pt'>(21/11/2011)</span></li><li><a href='/newsdetail/Cong-nghe/530661/chin-san-pham-cong-trinh-duoc-trao-giai-nhan-tai-đat-viet-2011.htm' style='padding-right:5px'>Chín sản phẩm, công trình được trao giải Nhân tài Đất Việt 2011</a><span style='font-size:8pt'>(21/11/2011)</span></li><li><a href='/newsdetail/Cong-nghe/530586/agribank-da-lap-thiet-bi-chong-trom-thong-tin-tren-may-atm.htm' style='padding-right:5px'>Agribank đã lắp thiết bị chống trộm thông tin trên máy ATM</a><span style='font-size:8pt'>(20/11/2011)</span></li><li><a href='/newsdetail/Cong-nghe/530563/xu-huong-tien-ich-cong-nghe-tai-cac-gia-dinh-chau-á.htm' style='padding-right:5px'>Xu hướng tiện ích công nghệ tại các gia đình Châu Á</a><span style='font-size:8pt'>(19/11/2011)</span></li><li><a href='/newsdetail/Cong-nghe/530468/gioi-thieu-quy-trinh-san-xuat-va-truyen-dan-th-3d-tai-vn.htm' style='padding-right:5px'>Giới thiệu quy trình sản xuất và truyền dẫn TH 3D tại VN</a><span style='font-size:8pt'>(18/11/2011)</span></li></ul>
+        </div>
+        <br class="clearfloat" />
+    </div>
+    <div id="news_search_datetime">
+        <div class="content_category_news_title">
+            XEM THEO NGÀY THÁNG
+        </div>
+        <br class="clearfloat" />
+       <div style="clear:both;float:left;width:100%;text-align:right;margin-top:10px">
+<script type="text/javascript">
+    $(function()
+    {
+        var d=new Date();
+        var currentYear=d.getFullYear();
+        $("select[id$=cboYear]").empty();
+        for(i=currentYear;i>=currentYear-5;i--)
+        {
+            $("select[id$=cboYear]").append("<option value='"+i+"'>"+i+"</option>");
+        }
+    });
+</script>
+Xem tin theo ngày: &nbsp;
+<select name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$cboDay" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_cboDay">
+	<option value="1">1</option>
+	<option value="2">2</option>
+	<option value="3">3</option>
+	<option value="4">4</option>
+	<option value="5">5</option>
+	<option value="6">6</option>
+	<option value="7">7</option>
+	<option value="8">8</option>
+	<option value="9">9</option>
+	<option value="10">10</option>
+	<option value="11">11</option>
+	<option value="12">12</option>
+	<option value="13">13</option>
+	<option value="14">14</option>
+	<option value="15">15</option>
+	<option value="16">16</option>
+	<option value="17">17</option>
+	<option value="18">18</option>
+	<option value="19">19</option>
+	<option value="20">20</option>
+	<option value="21">21</option>
+	<option value="22">22</option>
+	<option value="23">23</option>
+	<option selected="selected" value="24">24</option>
+	<option value="25">25</option>
+	<option value="26">26</option>
+	<option value="27">27</option>
+	<option value="28">28</option>
+	<option value="29">29</option>
+	<option value="30">30</option>
+	<option value="31">31</option>
+</select>
+<select name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$cboMonth" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_cboMonth">
+	<option value="1">Th&#225;ng 1</option>
+	<option value="2">Th&#225;ng 2</option>
+	<option value="3">Th&#225;ng 3</option>
+	<option value="4">Th&#225;ng 4</option>
+	<option value="5">Th&#225;ng 5</option>
+	<option value="6">Th&#225;ng 6</option>
+	<option value="7">Th&#225;ng 7</option>
+	<option value="8">Th&#225;ng 8</option>
+	<option value="9">Th&#225;ng 9</option>
+	<option value="10">Th&#225;ng 10</option>
+	<option selected="selected" value="11">Th&#225;ng 11</option>
+	<option value="12">Th&#225;ng 12</option>
+</select>
+<select name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$cboYear" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_cboYear">
+</select>
+<input type="submit" name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$btnView" value="Xem" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_btnView" />
+<br />
+</div>
+    </div>
+</div>
+
+                </div>
+                <div class="right_category_box">
+                           
+                            <div class="box_adv_newscategory">
+                                <div class="right_content_box_bottom_adv">
+                                <body topmargin="0" leftmargin="0">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#016A99" height="1">
+<tr><td height=1></td></tr>
+</table></body>
+
+                                </div>  
+                            </div>
+                            <div  style="float:right;padding-top:5px;display:none">
+                                   
+                             </div>
+                            <div id="Div1" style="float:right;padding-top:5px">
+                              <div id='box_flow' style='display:block'><div class='box_top_ovan'><!----></div><div class='box_center_ovan'><div class='box_news_event_title'><a href='#' class='content_news_main_link'>Tin mới nhận</a></div><div class='content_ul'><table cellpadding='0' cellspacing='0' border='0'><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Moi-truong/531059/rua-ho-guom-noi-trong-ngay-dep-troi.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/11/24/ruanoi.jpg"></a><a class='link_news_focus' href='/newsdetail/Moi-truong/531059/rua-ho-guom-noi-trong-ngay-dep-troi.htm'>Rùa hồ Gươm nổi trong ngày đẹp trời</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Khoa-hoc/531057/cong-bo-anh-moi-ve-bo-lac-biet-lap-trong-rung-amazon.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/11/24/bolac.jpg"></a><a  class='link_news_focus' href='/newsdetail/Khoa-hoc/531057/cong-bo-anh-moi-ve-bo-lac-biet-lap-trong-rung-amazon.htm'>Công bố ảnh mới về bộ lạc biệt lập trong rừng Amazon</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Khoa-hoc/531041/bat-duoc-tin-hieu-tau-tham-do-sao-hoa-bi-mat-tich.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/11/24/shoa.jpg"></a><a class='link_news_focus' href='/newsdetail/Khoa-hoc/531041/bat-duoc-tin-hieu-tau-tham-do-sao-hoa-bi-mat-tich.htm'>Bắt được tín hiệu tàu thăm dò sao Hỏa bị mất tích</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Cong-nghe/531040/lo-dien-sieu-xe-bugatti-veyron-the-he-moi.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/11/24/otto(1).jpg"></a><a  class='link_news_focus' href='/newsdetail/Cong-nghe/531040/lo-dien-sieu-xe-bugatti-veyron-the-he-moi.htm'>Lộ diện siêu xe Bugatti Veyron thế hệ mới</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Cong-nghe/531017/cac-dai-gia-tung-chieu-giu-khach.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/11/24/CNGHE.jpg"></a><a class='link_news_focus' href='/newsdetail/Cong-nghe/531017/cac-dai-gia-tung-chieu-giu-khach.htm'>Các "đại gia" tung chiêu giữ khách</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Moi-truong/530956/ha-noi-xu-ly-o-nhiem-moi-truong-nuoc-tai-22-ho-chua.htm'><img style="display:none" src=""></a><a  class='link_news_focus' href='/newsdetail/Moi-truong/530956/ha-noi-xu-ly-o-nhiem-moi-truong-nuoc-tai-22-ho-chua.htm'>Hà Nội: Xử lý ô nhiễm môi trường nước tại 22 hồ chứa</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Cong-nghe/530951/ngay-an-toan-thong-tin-vn-đe-cao-an-toan-thong-tin-so.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails23482011034802thongtin.jpg"></a><a class='link_news_focus' href='/newsdetail/Cong-nghe/530951/ngay-an-toan-thong-tin-vn-đe-cao-an-toan-thong-tin-so.htm'>Ngày an toàn thông tin VN: Đề cao an toàn thông tin số</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Cong-nghe/530936/đien-thoai-thong-minh-–-mieng-moi-ngon-cua-tin-tac.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails23352011113506mobile-1.jpg"></a><a  class='link_news_focus' href='/newsdetail/Cong-nghe/530936/đien-thoai-thong-minh-–-mieng-moi-ngon-cua-tin-tac.htm'>Điện thoại thông minh – miếng “mồi” ngon của tin tặc</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Khoa-hoc/530929/loai-phong-lan-hiem-no-vao-dem.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/11/23/hoalannodem.jpg"></a><a class='link_news_focus' href='/newsdetail/Khoa-hoc/530929/loai-phong-lan-hiem-no-vao-dem.htm'>Loài phong lan hiếm nở vào đêm</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Khoa-hoc/530928/nhat-thuc-cuoi-cung-trong-nam-sap-xay-ra.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/11/23/nhat-thuc-1.jpg"></a><a  class='link_news_focus' href='/newsdetail/Khoa-hoc/530928/nhat-thuc-cuoi-cung-trong-nam-sap-xay-ra.htm'>Nhật thực cuối cùng trong năm sắp xảy ra</a><br class='clearfloat'></div></div></td></tr></table></div></div><div class='box_bottom_ovan'><!----></div></div>
+                            </div>
+                            <div  style="float:right;padding-top:5px">
+                                  <div id='center_box' style='display:none'><div class='box_top_ovan'><!----></div><div class='box_center_ovan'><div class='box_news_event_title'><a href='#' class='content_news_main_link'>Theo dòng sự kiện</a></div><div class='box_news_event_content'></div></div><div class='box_bottom_ovan'><!----></div></div> 
+                             </div>
+                            <div id="box_flow" style="float:right;">
+                              <div id='box_flow' style='display:block'><div class='box_top_ovan'><!----></div><div class='box_center_ovan'><div class='box_news_event_title'><a href='#' class='content_news_main_link'>Tiêu điểm</a></div><div class='content_ul'><table cellpadding='0' cellspacing='0' border='0'><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Cong-nghe/531040/lo-dien-sieu-xe-bugatti-veyron-the-he-moi.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/11/24/otto(1).jpg"></a><a class='link_news_focus' href='/newsdetail/Cong-nghe/531040/lo-dien-sieu-xe-bugatti-veyron-the-he-moi.htm'>Lộ diện siêu xe Bugatti Veyron thế hệ mới</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Cong-nghe/531017/cac-dai-gia-tung-chieu-giu-khach.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/11/24/CNGHE.jpg"></a><a  class='link_news_focus' href='/newsdetail/Cong-nghe/531017/cac-dai-gia-tung-chieu-giu-khach.htm'>Các "đại gia" tung chiêu giữ khách</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Cong-nghe/530837/bkav-chinh-thuc-tham-gia-to-chuc-toan-cau-chong-lua-dao.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails22352011023553thanh-vien-APWG.jpg"></a><a class='link_news_focus' href='/newsdetail/Cong-nghe/530837/bkav-chinh-thuc-tham-gia-to-chuc-toan-cau-chong-lua-dao.htm'>Bkav chính thức tham gia Tổ chức toàn cầu chống lừa đảo</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Cong-nghe/530661/chin-san-pham-cong-trinh-duoc-trao-giai-nhan-tai-đat-viet-2011.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/11/21/nha-tai-dat-viet.jpg"></a><a  class='link_news_focus' href='/newsdetail/Cong-nghe/530661/chin-san-pham-cong-trinh-duoc-trao-giai-nhan-tai-đat-viet-2011.htm'>Chín sản phẩm, công trình được trao giải Nhân tài Đất Việt 2011</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Cong-nghe/530563/xu-huong-tien-ich-cong-nghe-tai-cac-gia-dinh-chau-á.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails19232011072328image010.png"></a><a class='link_news_focus' href='/newsdetail/Cong-nghe/530563/xu-huong-tien-ich-cong-nghe-tai-cac-gia-dinh-chau-á.htm'>Xu hướng tiện ích công nghệ tại các gia đình Châu Á</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Cong-nghe/530468/gioi-thieu-quy-trinh-san-xuat-va-truyen-dan-th-3d-tai-vn.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails18592011125936VTC.jpg"></a><a  class='link_news_focus' href='/newsdetail/Cong-nghe/530468/gioi-thieu-quy-trinh-san-xuat-va-truyen-dan-th-3d-tai-vn.htm'>Giới thiệu quy trình sản xuất và truyền dẫn TH 3D tại VN</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Cong-nghe/530356/apple-co-chu-tich-moi.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/11/17/arthur_levinson-0.jpg"></a><a class='link_news_focus' href='/newsdetail/Cong-nghe/530356/apple-co-chu-tich-moi.htm'>Apple có chủ tịch mới</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Cong-nghe/529833/honda-viet-nam-ra-mat-xe-future-125-phien-ban-moi.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/11/12/XEMAY.jpg"></a><a  class='link_news_focus' href='/newsdetail/Cong-nghe/529833/honda-viet-nam-ra-mat-xe-future-125-phien-ban-moi.htm'>Honda Việt Nam ra mắt xe Future 125 phiên bản mới</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Cong-nghe/529711/fpt-phan-phoi-dong-may-tinh-de-ban-bat-song-wifi-hp-pavilion-p7000.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails10212011092125Pavilion-P7000---Copy.jpg"></a><a class='link_news_focus' href='/newsdetail/Cong-nghe/529711/fpt-phan-phoi-dong-may-tinh-de-ban-bat-song-wifi-hp-pavilion-p7000.htm'>FPT phân phối dòng máy tính để bàn bắt sóng wifi HP Pavilion P7000</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Cong-nghe/529064/xe-dien-hai-banh-tu-dong-can-bang.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/11/4/Xe-dien.jpg"></a><a  class='link_news_focus' href='/newsdetail/Cong-nghe/529064/xe-dien-hai-banh-tu-dong-can-bang.htm'>Xe điện hai bánh tự động cân bằng</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Cong-nghe/528885/google-street-view-nhin-xuyen-thau-cac-toa-nha.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/11/2/nhahang.jpg"></a><a class='link_news_focus' href='/newsdetail/Cong-nghe/528885/google-street-view-nhin-xuyen-thau-cac-toa-nha.htm'>Google Street View “nhìn xuyên thấu” các tòa nhà</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Cong-nghe/528848/avg-chinh-thuc-phat-song-ngay-11112011.htm'><img style="display:none" src=""></a><a  class='link_news_focus' href='/newsdetail/Cong-nghe/528848/avg-chinh-thuc-phat-song-ngay-11112011.htm'>AVG chính thức phát sóng ngày 11-11-2011</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Cong-nghe/528791/đa-co-the-ngan-chan-hieu-qua-nan-tin-nhan-rac.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails01032011040353BkavMobileSecurity.jpg"></a><a class='link_news_focus' href='/newsdetail/Cong-nghe/528791/đa-co-the-ngan-chan-hieu-qua-nan-tin-nhan-rac.htm'>Đã có thể ngăn chặn hiệu quả nạn tin nhắn rác</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Cong-nghe/528666/cong-ty-nao-co-khong-gian-lam-viec-tot-nhat-the-gioi.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails31522011105200untitled.jpg"></a><a  class='link_news_focus' href='/newsdetail/Cong-nghe/528666/cong-ty-nao-co-khong-gian-lam-viec-tot-nhat-the-gioi.htm'>Công ty nào có không gian làm việc tốt nhất thế giới?</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Cong-nghe/528435/piaggio-gioi-thieu-xe-zip-phien-ban-moi-tai-vn.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails28452011034500zip1.jpg"></a><a class='link_news_focus' href='/newsdetail/Cong-nghe/528435/piaggio-gioi-thieu-xe-zip-phien-ban-moi-tai-vn.htm'>Piaggio giới thiệu xe Zip phiên bản mới tại VN</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Cong-nghe/528326/nokia-trinh-lang-nhieu-dien-thoai-an-tuong.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails27142011051435Untitled-1.jpg"></a><a  class='link_news_focus' href='/newsdetail/Cong-nghe/528326/nokia-trinh-lang-nhieu-dien-thoai-an-tuong.htm'>Nokia trình làng nhiều điện thoại ấn tượng</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Cong-nghe/528290/man-hinh-cam-ung-deo-xuat-hien-tai-nokia-world-2011.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/10/27/nokiakinetic005.jpg"></a><a class='link_news_focus' href='/newsdetail/Cong-nghe/528290/man-hinh-cam-ung-deo-xuat-hien-tai-nokia-world-2011.htm'>Màn hình cảm ứng dẻo xuất hiện tại Nokia World 2011</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Cong-nghe/528198/gioi-thieu-dien-thoai-2-sim-nghe-nhac-nokia-101.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails26512011025111untitled.bmp"></a><a  class='link_news_focus' href='/newsdetail/Cong-nghe/528198/gioi-thieu-dien-thoai-2-sim-nghe-nhac-nokia-101.htm'>Giới thiệu điện thoại 2 SIM nghe nhạc Nokia 101</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Cong-nghe/528180/iphone-4s-ma-vang-tai-viet-nam.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/10/26/IPHONE.jpg"></a><a class='link_news_focus' href='/newsdetail/Cong-nghe/528180/iphone-4s-ma-vang-tai-viet-nam.htm'>iPhone 4S mạ vàng tại Việt Nam</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Cong-nghe/528066/ra-mat-nguoi-dung-thiet-bi-bat-tat-den-thong-minh.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails25522011025242smarthome_hinhminhoa.jpg"></a><a  class='link_news_focus' href='/newsdetail/Cong-nghe/528066/ra-mat-nguoi-dung-thiet-bi-bat-tat-den-thong-minh.htm'>Ra mắt người dùng thiết bị bật tắt đèn thông minh</a><br class='clearfloat'></div></div></td></tr></table></div></div><div class='box_bottom_ovan'><!----></div></div>
+                            </div>
+                            
+                            <div class="box_adv_newscategory">
+                              <div class="right_content_box_bottom_adv">
+                                <br>
+
+                               </div>  
+                            </div>
+                        </div>
+           </div>
+           <div class="right_news_category_box">
+              <ul class="right_content_box_adv_main">
+                    <li>
+                    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" name="wmode" height="360" width="180">
+    <param name="movie" value="/Uploads/NCC/2011-NBN/ads-homepage/songkhoe180x360.swf">
+                  <param name="quality" value="high">
+                  <param name="wmode" value="transparent">
+                 <embed wmode="transparent" src="/Uploads/NCC/2011-NBN/ads-homepage/songkhoe180x360.swf" allowscriptaccess="always" type="application/x-shockwave-flash" height="360" width="180">
+</object>
+
+                    </li>
+                    <li>
+                    <a href="/newsdetail/Van-hoa/424354/%C4%91on-doc-ha-noi-ngay-nay-so-1-bo-moi.htm">
+<img src="/Uploads/NCC/2011/ads-homepage/HN-Ngaynay.jpg" border="0">
+</a>
+
+                    </li>
+                    <li>
+                    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" name="wmode" height="180" width="180">
+<param name="movie" value="/Uploads/NCC/ads-homepage/4D-homeduhoc_180x180.swf">
+<param name="quality" value="high">
+<param name="wmode" value="transparent">
+<embed wmode="transparent" src="/Uploads/NCC/ads-homepage/4D-homeduhoc_180x180.swf" allowscriptaccess="always" type="application/x-shockwave-flash" height="180" width="180">
+</object>
+
+                    </li>
+                    <li>
+                    <object width="180" height="180" name="wmode" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+    <param value="/Uploads/NCC/ads-homepage/4A-chuyenmuckinhte_180x180.swf" name="movie">
+                  <param value="high" name="quality">
+                  <param value="transparent" name="wmode">
+                 <embed width="180" height="180" type="application/x-shockwave-flash" allowscriptaccess="always" src="/Uploads/NCC/ads-homepage/4A-chuyenmuckinhte_180x180.swf" wmode="transparent">
+</object>
+
+                    </li>
+                 
+                </ul>
+           </div> 
+        </div>
+      </div>
+
+            <div id="footer">
+                <div id="footer_wrap">
+                    <div class="menu">
+                        <div class="tabsmenuclass">
+                            <ul class='menutop'>
+                                <li><a href=''>Trang chủ</a></li>
+                                <li><a href='/contact/contact.htm'>
+                                    <img width='10px' height='11px' style='border: 0px none; float: left; margin-top: 10px;'
+                                        src='/images/icon01.png' />&nbsp;Liên hệ tòa soạn</a></li>
+                                <li><a onclick='setHomepage();' href='javascript:void(0);'>
+                                    <img width='12px' height='9px' style='border: 0px none; float: left; margin-top: 10px;'
+                                        src='/images/icon02.png' />&nbsp;Đặt HNM làm trang chủ</a></li>
+                                <li><a href='/Modules/NewsLetter/NewsLetterRegister.aspx'>
+                                    <img width='12px' height='9px' style='border: 0px none; float: left; margin-top: 10px;'
+                                        src='/images/icon03.png' />&nbsp;Đăng ký nhận tin mới</a></li>
+                                <li>
+                                    <select name="ctl00$ddlWebLink" id="ctl00_ddlWebLink" onchange="window.open(this.value)" style="float: left; margin: 5px 20px 0 180px;">
+	<option value="Liên kết Website">Li&#234;n kết Website</option>
+	<option value="http://www.dangcongsan.vn">B&#225;o Điện tử Đảng CSVN</option>
+	<option value="http://www.nhandan.com.vn">B&#225;o Nh&#226;n D&#226;n</option>
+	<option value="http://www.vietnamplus.vn">TTXVN</option>
+	<option value="http://www.cuocsongvantuoidep.vn">&quot;Cuộc sống vẫn tươi đẹp&quot; tr&#234;n VTV4</option>
+	<option value="http://chinhphu.vn">Website Ch&#237;nh phủ</option>
+	<option value="http://www.na.gov.vn">Quốc hội Việt Nam</option>
+	<option value="http://www.vnexpress.net">VnExpress</option>
+	<option value="http://www.vnn.vn">Vietnamnet</option>
+	<option value="http://tienphong.vn">Tiền Phong</option>
+	<option value="http://www.tuoitre.com.vn">Tuổi trẻ</option>
+	<option value="http://www.anninhthudo.vn">An ninh Thủ đ&#244;</option>
+	<option value="http://www.nld.com.vn">B&#225;o Người Lao Động</option>
+	<option value="http://www.baothuathienhue.vn/">B&#225;o Thừa Thi&#234;n Huế</option>
+	<option value="http://www.baobinhthuan.com.vn">B&#225;o B&#236;nh Thuận</option>
+
+</select>
+                                </li>
+                                <li><a href="#top" style="margin: 0; padding: 0 5px 0 5px; color: white; font-weight: bold">
+                                    Về đầu trang</a> </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="footer_text">
+                        Bản quyền © 2003-2010 Báo Hànộimới - CQCQ: Thành ủy Hà Nội<br/>
+                        Giấy phép số 1123/GP-BTTTT, cấp ngày: 21/7/2011. Tổng biên tập: TÔ QUANG PHÁN<br/>
+                        Địa chỉ: 44 Lê Thái Tổ - Hà Nội . ĐT (04) 38253067 – 39287445 . Fax: (04) 39287445 . Email:<a style='color:blue' href='mailto:webmaster@hanoimoi.com.vn'>webmaster@hanoimoi.com.vn</a><br/>
+                        Ghi rõ nguồn "Báo Hànộimới" khi phát hành lại thông tin từ website này.
+                  </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+
+    <script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12223163-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
