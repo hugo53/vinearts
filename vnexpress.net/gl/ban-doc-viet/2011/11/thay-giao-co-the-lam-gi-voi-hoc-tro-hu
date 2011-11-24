@@ -1,0 +1,988 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />		
+		
+		<meta name="robots" content="INDEX,FOLLOW" />
+			
+		<meta name="description" content="Đã đến lúc chúng ta phải thừa nhận rằng, tỷ lệ trẻ hư đang tăng lên và tất nhiên là kéo theo tỷ lệ phạm tội tuổi thành niên. Bài viết này cũng hướng tới việc giáo dục trẻ hư chứ không phải là giáo dục nói chung. > Thư của học trò hư gửi thầy giáo" />
+			
+		<title>Thầy giáo có thể làm gì với học trò hư - VnExpress</title>
+			
+		<meta name="keywords" content="trò hư,người thầy,giáo dục" />	
+		
+		<meta http-equiv="REFRESH" content="3600" />
+		
+		<link rel="stylesheet" href="/Resource/Common/default.css" type="text/css" />	
+		<link href="http://180.148.142.152/Library/AdsNov.css" rel="Stylesheet" style="text/css"> 		
+		
+		<link rel="alternate" type="application/rss+xml" title="VnExpress - RSS" href="/RSS/GL/trang-chu.rss" />
+			
+		
+		<script type="text/javascript" language="javascript" src="/Library/Common/Library.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/Vne.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/FlashMedia.js"></script>						
+        <script type="text/javascript" language="javascript" src="/Library/Common/AjaxRequest.js"></script>
+		<script type="text/javascript" language="javascript" src="/Library/Common/vietUni.js"></script>
+		<script type="text/javascript" language="javascript" src="/Resource/00/ArrMenu.js"></script>        				
+		<script type="text/javascript" language="javaScript">
+			var PAGE_SITE=0;
+			var PAGE_FOLDER=109;	
+			var PAGE_ID=1002161582;	
+			var DOMESTIC_IP=1;	
+			setTypingMode(1);
+				
+			sLoDID=sLoDID.concat('1002161582').concat(',');
+			
+		</script>
+		<script type="text/javascript" language="javascript" src="/Resource/Common/Menu.js"></script>
+		
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-249346-1']);
+		_gaq.push(['_trackPageview']);
+		
+		_gaq.push(['b._setAccount', 'UA-249346-21']);
+		_gaq.push(['b._trackPageview']);
+		
+		_gaq.push(['c._setAccount', 'UA-249346-22']);
+		_gaq.push(['c._trackPageview']);
+		
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	
+		<script src="/Library/Common/jquery-1.6.3.min.js"></script>		
+		
+<script type="text/javascript" src="/library/Common/VNEShowAds.js"></script>
+<script src="/library/common/rs.js" type="text/javascript"></script>
+
+	</head>
+	<body>	
+		
+				
+		<input type="hidden" id="CurrentBrowserWidth" value="" />
+		<input type="hidden" id="ShowBackground" value="1" />
+		<div id="divSlideResultLeft" style="background-repeat:no-repeat;background-position:right top;over-flow:hidden;cursor:pointer;text-align:right;padding:0px;position: fixed!important;position: absolute; /*ie6 and above*/;left: 0px; top: 0px;overflow:hidden;"></div>
+		<div id="divSlideResultRight" style="background-repeat:no-repeat;over-flow:hidden;cursor:pointer;text-align:left;padding:0px;position: fixed!important; position: absolute; /*ie6 and above*/;right: 0px; top: 0px;overflow:hidden;"></div>				
+		
+		<div id="outter">		
+		<div id="divMove" style="width:1000px;">
+		<div class="fpr2">
+			<div id="header">
+				<div id="logoEH" class="logo fl" >
+					
+					<a onfocus="this.blur()" hidefocus="" href="/"><img class="img-logo" src="/Images/blank.gif" alt="" /></a>
+					
+				</div>
+				<div id="topbannerEH" class="topbanner fr">
+					
+					<table border="0" cellpadding="0" cellspacing="0" style="width:100%;">
+						<tr>
+							<td style="vertical-align:middle">
+																
+									<script type="text/javascript" language="javascript">
+										Poly_ShowTopBanner();
+									</script>								
+								
+							</td>                           
+						</tr>
+					</table>				
+					
+				</div>
+			</div>			
+		</div>				
+		<div id="menu">
+	<div class="searchmenu">
+		<div class="fl icone"></div>
+		<div class="drss fl"><a href="/GL/RSS/" class="link-rss lnkrss">RSS<span></span></a></div>
+		<div id="mn-search" class="search fr">
+			<form onsubmit="return CheckValue(document.Search.s);" action="http://search.vnexpress.net/news" id="Search" name="Search">
+				<span class="fl borright"></span>
+				<input type="text" value="Từ khóa tìm kiếm" onfocus="SearchOnFocus(this)" onkeydown="" onkeyup="initTyper(this)" onblur="SearchOnBlur(this)" id="s" name="s" class="txtsearch fl">
+				<img onclick="return CheckValue(document.Search.s);" alt="" src="/images/blank.gif" class="img-search fl">
+				<input type="hidden" value="66FD8EC7-FA76-4A7C-8FE3-DB605B4C9CE0" name="g">
+				<input type="hidden" value="yes" name="butS">
+			</form>
+		</div>
+	</div>
+	<!--[if lte IE 6]><a id="lnkIE6" href="#"><table cellpadding=0 cellspacing=0 style="border: 0; margin: 0; padding: 0; width: 1000px; height: 25px;"><tr><td><![endif]-->
+	<div class="menu">
+		<ul>
+			<li><div class="fl mn-borleft"></div></li>
+			
+			<li>
+				<a href="/"><span class="pmenuL"></span><span class="pmenuM">Trang nhất</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<!--<ul style="padding: 0px; height: 16px">
+					<div class="fl icone"></div>
+					<div class="drss fl"><a href="/GL/RSS/" class="link-rss">RSS <span></span></a></div>
+				</ul>-->
+				<ul class="smenu-home">	
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+					<li class="lnknews24h"><a href="/gl/24h-qua/"></a></li>
+					<li class="ico-ct-wrap">
+						<span class="fl ico-ct"></span>
+						<p class="fl phonect"><span>0123.888.0123</span> (HN) - <span>0129.233.3555</span> (TP.HCM)</p>
+					</li>				
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/video/"><span class="pmenuL"></span><span class="pmenuM">Video</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">													
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/xa-hoi/"><span class="pmenuL"></span><span class="pmenuM">Xã hội</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li><a href="/gl/xa-hoi/giao-duc/">Giáo dục</a></li>
+					<li><a href="/gl/xa-hoi/nhip-dieu-tre/">Nhịp điệu trẻ</a></li>
+					<li><a href="/gl/xa-hoi/du-lich/">Du lịch</a></li>
+					<li><a href="/gl/xa-hoi/co-hoi-du-hoc/">Du học</a></li>												
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/the-gioi/"><span class="pmenuL"></span><span class="pmenuM">Thế giới</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->				
+				<ul class="smenu-other">					
+					<li><a href="/gl/the-gioi/cuoc-song-do-day/">Cuộc sống đó đây</a></li>
+					<li><a href="/gl/the-gioi/anh/">Ảnh</a></li>
+					<li><a href="/gl/the-gioi/nguoi-viet-5-chau/">Người Việt 5 châu</a></li>
+					<li><a href="/gl/the-gioi/phan-tich/">Phân tích</a></li>
+					<li><a href="/gl/the-gioi/tu-lieu/">Tư liệu</a></li>								
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/kinh-doanh/"><span class="pmenuL"></span><span class="pmenuM">Kinh doanh</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->					
+				<ul class="smenu-other">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/gl/ebank/">Ebank</a></li>
+					<li><a href="/gl/kinh-doanh/chung-khoan/">Chứng khoán</a></li>
+					<li><a href="/gl/kinh-doanh/bat-dong-san/">Bất động sản</a></li>
+					<li><a target="_blank" href="http://nhadep.vnexpress.net/gl/nha-dep/">Nhà đẹp</a></li>
+					<li><a href="/gl/kinh-doanh/kinh-nghiem/">Doanh nhân</a></li>
+					<li><a href="/gl/kinh-doanh/quoc-te/">Quốc tế</a></li>
+					<li><a href="/gl/doi-song/mua-sam/">Mua sắm</a></li>
+					<li><a href="/gl/kinh-doanh/doanh-nghiep-viet/">Doanh nghiệp viết</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/van-hoa/"><span class="pmenuL"></span><span class="pmenuM">Văn hóa</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">					
+					<li><a href="/gl/van-hoa/hoa-hau/">Hoa hậu</a></li>
+					<li><a href="/gl/van-hoa/guong-mat-nghe-sy/">Nghệ sỹ</a></li>
+					<li><a href="/gl/van-hoa/am-nhac/">Âm nhạc</a></li>
+					<li><a href="/gl/van-hoa/thoi-trang/">Thời trang</a></li>
+					<li><a href="/gl/van-hoa/san-khau-dien-anh/">Điện ảnh</a></li>
+					<li><a href="/gl/van-hoa/my-thuat/">Mỹ thuật</a></li>
+					<li><a target="_blank" href="http://evan.vnexpress.net/">Văn học</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/the-thao/"><span class="pmenuL"></span><span class="pmenuM">Thể thao</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smsport"><a href="/gl/the-thao/bong-da/">Bóng đá</a></li>
+					<li><a href="/gl/the-thao/tennis/">Tennis</a></li>
+					<li><a href="/gl/the-thao/chan-dung/">Chân dung</a></li>
+					<li><a href="/gl/the-thao/anh-video/">Ảnh - Video</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="http://seagames.vnexpress.net/" target="_blank"><span class="pmenuL"></span><span class="pmenuM">SEA Games 26</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li class="smseagames26"><a href="http://seagames.vnexpress.net/tin/lich-dau/" target="_blank">Lịch đấu</a></li>
+					<li><a href="http://seagames.vnexpress.net/tin/xep-hang/" target="_blank">Bảng xếp hạng</a></li>					
+					<li><a href="http://seagames.vnexpress.net/tin/bong-da/" target="_blank">Bóng đá</a></li>					
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/phap-luat/"><span class="pmenuL"></span><span class="pmenuM">Pháp luật</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smlaw"><a href="/gl/phap-luat/hinh-su/">Hình sự</a></li>
+					<li><a href="/gl/phap-luat/ky-su/">Ký sự</a></li>
+					<li><a href="/gl/phap-luat/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/doi-song/"><span class="pmenuL"></span><span class="pmenuM">Đời sống</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smlife"><a href="/gl/doi-song/cau-chuyen-cuoc-song/">Câu chuyện cuộc sống</a></li>
+					<li><a href="/gl/doi-song/gia-dinh/">Gia đình</a></li>
+					<li><a href="/gl/suc-khoe/">Sức khỏe</a></li>
+					<li><a href="/gl/doi-song/am-thuc/">Ẩm thực</a></li>
+					<li><a href="/gl/suc-khoe/lam-dep/">Làm đẹp</a></li>
+					<li><a href="/gl/doi-song/blog/">Cửa sổ Blog</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/khoa-hoc/"><span class="pmenuL"></span><span class="pmenuM">Khoa học</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smscience"><a href="/gl/khoa-hoc/moi-truong/">Môi trường</a></li>
+					<li><a href="/gl/khoa-hoc/thien-nhien/">Thiên nhiên</a></li>
+					<li><a href="/gl/khoa-hoc/anh/">Ảnh</a></li>
+					<li><a href="/gl/khoa-hoc/ky-thuat-moi/">Công nghệ mới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/vi-tinh/"><span class="pmenuL"></span><span class="pmenuM">Vi tính</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smmicrocalculate"><a href="/gl/vi-tinh/san-pham-moi/">Sản phẩm mới</a></li>
+					<li><a href="/gl/vi-tinh/kinh-nghiem/">Kinh nghiệm</a></li>
+					<li><a href="/gl/vi-tinh/giai-tri/">Giải trí</a></li>
+					<li><a href="/gl/vi-tinh/hoi-dap/">Hỏi đáp</a></li>
+					<li><a href="/gl/vi-tinh/hacker-virus/">Hacker &amp; Virus</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/oto-xe-may/"><span class="pmenuL"></span><span class="pmenuM">Ôtô - Xe máy</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">					
+					<li class="smcar"><a href="/gl/oto-xe-may/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li class="active"><a href="/gl/ban-doc-viet/"><span class="pmenuL"></span><span class="pmenuM">Bạn đọc</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->			
+			
+				<ul class="smenu-bdv">					
+					<li><a href="/gl/ban-doc-viet/khoa-hoc/">Khoa học</a></li>						
+					<li><a href="/gl/ban-doc-viet/doi-song/">Đời sống</a></li>
+					<li><a href="/gl/ban-doc-viet/phap-luat/">Pháp luật</a></li>
+					<li><a href="/gl/ban-doc-viet/xa-hoi/">Xã hội</a></li>
+					<li><a href="/gl/ban-doc-viet/kinh-doanh/">Kinh doanh</a></li>
+					<li><a href="/gl/ban-doc-viet/the-thao/">Thể thao</a></li>
+					<li><a href="/gl/ban-doc-viet/van-hoa/">Văn hoá</a></li>
+					<li><a href="/gl/ban-doc-viet/the-gioi/">Thế giới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/ban-doc-viet/tam-su/"><span class="pmenuL"></span><span class="pmenuM">Tâm sự</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other"></ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/rao-vat/"><span class="pmenuL"></span><span class="pmenuM">Rao vặt</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-raovat">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/cuoi/"><span class="pmenuL"></span><span class="pmenuM">Cười</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-bdv">
+					<li><a href="/gl/cuoi/video/">Video</a></li>
+					<li><a href="/gl/cuoi/tieu-pham/">Tiểu phẩm</a></li>						
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+		</ul>
+	</div><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</div>
+
+		<div id="content">			
+			
+			<div class="content-center fl">			
+			<div class="folder-header">
+	<script type="text/javascript" language="javascript">writeFolderTitle(PAGE_FOLDER);</script>
+	<div class="fr">Th&#7913; n&#259;m, 17/11/2011, 09:01 GMT+7</div>
+</div>
+<div class="email-print txtr">
+	<script>
+	writeSociable('http://vnexpress.net/gl/ban-doc-viet/2011/11/thay-giao-co-the-lam-gi-voi-hoc-tro-hu/','Thầy+giáo+có+thể+làm+gì+với+học+trò+hư','Thầy+giáo+có+thể+làm+gì+với+học+trò+hư','sociable',1002161582);
+	</script>
+<font onClick="return EmailSubject(1002161582)"><img border="0" src="/Images/email.gif" align="bottom">&nbsp;E-mail</font>
+&nbsp;&nbsp;&nbsp;<font onClick="return PrintSubject()"><img border="0" src="/Images/print.gif" align="bottom">&nbsp;B&#7843;n In</font>
+</div>
+
+				<div class="content">
+					<div style="overflow:hidden" cpms_content="true">
+				<H1 class=Title>Thầy giáo có thể làm gì với học trò hư</H1>
+<H2 class=Lead>Đã đến lúc chúng ta phải thừa nhận rằng, tỷ lệ trẻ hư đang tăng lên và tất nhiên là kéo theo tỷ lệ phạm tội tuổi thành niên. Bài viết này cũng hướng tới việc giáo dục trẻ hư chứ không phải là giáo dục nói chung. <BR>> <A href="/gl/ban-doc-viet/2011/11/thu-cua-hoc-tro-hu-gui-thay-giao/" class="Lead">Thư của học trò hư gửi thầy giáo</A></H2>
+<P class=Normal>Tôi là một độc giả của <EM DESIGNTIMESP="40">VnExpress </EM>từ đã khá lâu rồi. Tôi đã từng đọc nhiều bài viết đầy tâm huyết của bạn đọc về vấn đề giáo dục. Và cũng trên <EM>VnExpress</EM>, tôi đã và đang nhận ra sự đi xuống của nhân cách trong giới trẻ Việt Nam. Đã đến lúc chúng ta phải thừa nhận rằng, tỉ lệ trẻ hư đang tăng lên và tất nhiên là kéo theo tỉ lệ phạm tội tuổi thành niên. Tất nhiên tôi hoàn toàn không nói rằng trẻ hư là đa số. Bài viết này cũng hướng tới việc giáo dục trẻ hư chứ không phải là giáo dục nói chung. Những vấn nạn về đạo đức giáo viên tôi cũng xin phép không nhắc tới. </P>
+<P class=Normal>Một lần nữa xin nhắc lại, bài viết này chỉ nói về trẻ hư và giáo dục trẻ hư.<BR><BR>Tôi là một người còn trẻ tuổi và không phải là một nhà giáo. Tuy tôi đã từng đứng trên bục giảng của trường đại học nhưng chưa bao giờ tôi thực sự là một người làm nghề dạy học. Tuy vậy, bà tôi và mẹ tôi đều là giáo viên. Tôi còn có hai người cô, một người chú làm nghề dạy học; một người bác làm trong lĩnh vực giáo dục. Tôi cũng đã thấy được rằng tất cả những người thân này của tôi đều là những giáo viên được kính trọng, được quý mến. Hay ít ra là tôi chưa bao giờ thấy học trò hay phụ huynh của học trò trách móc người thân tôi. Nhưng cũng chính những người thân này của tôi, trong những lần đàm đạo với những nhà giáo khác, than thở rằng: Học trò bây giờ không 'dạy' nổi nữa.<BR><BR><STRONG DESIGNTIMESP="46">Tôi thực sự muốn hỏi bạn đọc <EM DESIGNTIMESP="47">VnExpress</EM> rằng:</STRONG> <STRONG DESIGNTIMESP="30852">Nhà giáo hiện nay nhận được gì? Có quyền gì? Có chức năng gì?<BR><BR></STRONG>Tôi xin trả lời theo những gì tôi biết:</P>
+<P class=Normal>Nhà giáo hiện nay nhận được đồng lương ít ỏi, nhận được sự ủy thác một cách vô trách nhiệm của nhiều bậc phụ huynh, nhận được sự chỉ trích của xã hội khi có bất kỳ vấn đề gì xảy ra và nhận được những đứa trẻ được bao bọc quá mức bởi cha mẹ. Họ không có quyền gì ngoài hạ hạnh kiểm và trình bày vấn đề lên ban giám hiệu. Họ có chức năng bơm kiến thức khô khan vào đầu học trò để các em có thể lên lớp và ra trường.<BR><BR>Hình ảnh nhà giáo như vậy có thể khác với những gì các bạn tưởng tượng ra theo khuôn mẫu của một nhà giáo lý tưởng. Nhưng đó là hình ảnh thực sự của đa phần nhà giáo hiện nay. Chuyện lương giáo viên thì ta không cần dẫn chứng gì nhiều. Nó quá rõ ràng và nó hiển hiện ngay trước mắt chúng ta; không ai có thể phủ nhận. Tất nhiên, tiền dạy thêm, tiền làm ngoài giờ có thể khiến thu nhập của họ khá hơn rất nhiều. Thế nhưng "dạy thêm" tức là làm ngoài giờ, tức là ngoài những giờ làm việc chính thức họ phải bỏ thời gian đáng nhẽ dành để nghỉ ngơi ra để mà kiếm thêm nhu nhập. Có ai trong chúng ta muốn làm việc tới 8-10 giờ tối trong khi giờ tan sở là 5 giờ?<BR><BR>Hãy tiếp tục nói về sự ủy thác. Có bao nhiêu bậc phụ huynh ngồi lại cùng giáo viên để bàn bạc cách dạy dỗ con mình? Có bao nhiêu bậc phụ huynh khi nhận ra khuyết điểm của con mình tìm đến giáo viên để cùng tìm đường lối uốn nắn? Hay đa phần các bậc phụ huynh chỉ đem một cái phong bì đến và "trăm sự nhờ cô"? Không biết đã bao nhiêu lần tôi đã thấy mẹ mình khước từ những phong bì như thế. Và cũng chừng ấy lần tôi thấy mẹ tôi mời những vị phụ huynh này ngồi lại để mẹ tôi có thể gợi ý một vài phương thức để họ động viên, dạy dỗ con mình. Có những người chăm chú lắng nghe, có những người rõ ràng là chỉ giả vờ nghe và vô cùng hiếm khi có người chủ động đưa ra ý kiến. Rồi, cứ như lẽ dĩ nhiên, họ lại quay lại học kỳ sau với một kịch bản tương tự. Cái tôi tự hỏi là: Có bao nhiêu trong số những người phụ huynh này thực sự tìm tòi, động não để tìm ra một cách hiệu quả dạy dỗ con em mình? Hay rốt cuộc, họ chỉ quay về với phương thức ít phiền toái nhất: Quát mắng khi con không đạt chỉ tiêu và thưởng hậu hĩnh khi con đạt thành tích.<BR><BR>Sự chỉ trích của xã hội lên giáo viên bắt nguồn từ lăng kính của các ông bố bà mẹ có con em chưa ngoan. Qua lăng kính của họ giáo viên trở thành những người thích tiền, khắt khe, không bao dung, thiếu độ lượng nếu những người giáo viên này có thái độ "quá" nghiêm khắc với con của họ. Ngoại trừ những trường hợp đứa trẻ tỏ ra quá hư tới mức không ai phủ nhận được, các ông bố bà mẹ luôn cảm thấy khó chịu nếu người khác chỉ trích con mình một cách thẳng thừng. Những người giáo viên trẻ muốn có được sự hợp tác của các bậc phụ huynh thường phải tìm những câu từ mang tính giảm nhẹ để nói về sai phạm của học sinh. Những người giáo viên đã già cỗi hay cứng cỏi hơn tuy có thể sẵn sàng viết rõ nhưng đa số trường hợp chỉ nhận được sự "bằng mặt, không bằng lòng" hay đơn giản chỉ là những cái phong bì. Và từ đó cái hình ảnh truyền miệng về giáo viên của đa phần phụ huynh có con em đang trên đà đi xuống trở nên méo mó. Và khi hình ảnh ấy đã hằn vào tâm trí của họ thì khi có vấn đề gì xảy ra, dĩ nhiên trách nhiệm có phần lớn được xem là... không thuộc bản thân họ.<BR><BR><FONT color=#000000>Giờ ta hãy nói về vấn đề nhức nhối nhất đối với giáo viên: Vấn đề quyền hạn.</FONT> Có bao nhiêu trong số các bạn đọc <EM DESIGNTIMESP="701">VnExpress</EM> biết rằng: Giáo viên hiện nay còn không có cả quyền đuổi học sinh ra khỏi lớp. Đừng nói là phạt đòn học sinh, quát mắng chúng cũng là việc mà giáo viên phải suy nghĩ rất kỹ trước khi làm. Tất nhiên giáo viên ở những vùng kém phát triển có thể không thực sự tuân thủ điều này. Nhưng ở các thành phố lớn, giáo viên không có bất kỳ quyền hạn trừng phạt nào lên học sinh ngoài "hạ hạnh kiểm". Nhưng hạnh kiểm thì có gì quan trọng đâu. Học sinh chỉ cần hạnh kiểm trung bình để lên lớp. Còn chuyện chuyển tiếp lên cấp cao hơn thì do học lực quyết định. Học trò đang dần hiểu ra là hạnh kiểm chỉ là một thứ mang tính hình thức. Tôi sẽ đưa ra một ví dụ cụ thể dưới đây, một trường hợp điển hình, một câu chuyện có thật:<BR><BR>Một học sinh A gây mất trật tự trong lớp, gây ảnh hưởng tới những bạn xung quanh. Giáo viên đang dạy tiết học bảo học sinh này đứng dậy nhưng A không đứng. Câu trả lời của cậu ta là: "Tại sao em phải đứng?". Giáo viên nói: "Em gây mất trật tự trong lớp, gây ảnh hưởng tới các bạn, cô yêu cầu em đứng dậy.". A trả lời: "Em không thích đứng".<BR><BR>Xin hỏi quý độc giả: Bạn sẽ làm gì trong trường hợp này? Hãy giữ câu trả lời cho riêng mình. Còn tôi, tôi sẽ kể tiếp câu chuyện này cho các bạn nghe.<BR><BR>Giáo viên nói: "Đây là kỷ luật của lớp. Em đứng dậy cho cô". A ngồi yên không nhúc nhích. Giáo viên tiếp tục: "Thôi được thế em cứ ngồi đấy, nhưng không được gây mất trật tự nữa". A nói lại: "Em không thích ngồi. Cũng không thích giữ trật tự". (Một lần nữa xin hỏi: Bạn sẽ làm gì?) Đến đây người giáo viên này không thể từ tốn được nữa, cô nói: "Anh có bị điên không?". A: "Cô mới điên. Em không điên". Tới lúc này rồi thì người giáo viên không thể làm gì được nữa. Cô tuyên bố ghi tên A vào sổ đầu bài và sẽ đưa việc này ra buổi họp phụ huynh. Còn A, cậu ta không bao giờ trở nên tiến bộ hơn.<BR><BR>Hiện nay giáo viên vẫn bảo nhau học trò là bất trị. Họ quyết định đến với những phương thức ... vô trách nhiệm hơn. Họ mặc kệ học trò hư. Chúng vi phạm nội quy - họ hạ hạnh kiểm, mời phụ huynh. Chúng tiếp tục vi phạm - họ hạ hạnh kiểm, cảnh cáo toàn trường. Chúng vẫn tiếp tục - họ đưa lên hiệu trưởng, cảnh cáo lần cuối. Và nếu chúng không thay đổi - trường đuổi học. Tương lai của đứa trẻ đó sẽ ra sao chẳng liên quan gì tới họ nữa. Bạn nghĩ tương lai chúng sẽ ra sao? Những đứa trẻ mà đến trường học cũng không chứa chấp nữa sẽ trưởng thành như thế nào? Nhưng liệu giáo viên còn có lựa chọn nào khác?<BR><BR>Tôi xin hỏi quý độc giả thêm một câu nữa, đặc biệt là những độc giả đang có con ở tuổi đi học: Liệu bạn có thể ngẩng cao đầu tuyên bố rằng: bạn có thể dạy bảo con mình khi không sử dụng đòn roi, không dọa cắt tiền tiêu, không dọa cắt một số quyền lợi của chúng? Và bây giờ hãy nghĩ xem cái bạn đang đòi hỏi ở giáo viên là gì. Dạy bảo một lớp hơn 40 học sinh mà không có quyền phạt, quyền mắng thậm chí không có quyền đuổi ra khỏi lớp? Trẻ hư bắt chép phạt. Chúng không chép bạn sẽ làm gì? Chúng chép và vẫn tái phạm bạn sẽ làm gì? Mời phụ huynh đến liệu có giải quyết được vấn đề hay lại là "trăm sự nhờ cô"? Ở cái thời của tôi, hạ hạnh kiểm là thứ gì đó rất kinh khủng. Một đứa trẻ bị hạ hạnh kiểm cảm thấy thật là đáng xấu hổ. Lý do vì sao? Tôi cho rằng có những sự khác biệt rất lớn giữa: "Bị hạnh kiểm kém là một việc đáng xấu hổ" với "Bị hạnh kiểm kém là cha mẹ la mắng". Những đứa trẻ thời nay chỉ biết rằng: "Không thể hiện tốt ở trường lớp (cho dù là học lực hay hạnh kiểm) là không vừa lòng bố mẹ". Chúng hoàn toàn không hiểu rằng: "Không cố gắng ở trường lớp thì tương lai của mình sẽ hoàn toàn khác với những gì mình mong muốn hay mơ ước."<BR><BR>Mâu thuẫn là ở chỗ: 'Vì bạn quá thương con không thể khắt khe với chúng nên bạn mới nhờ tới thầy cô để răn đe. Nhưng khi họ răn đe thì cũng vì quá thương con bạn lại cảm thấy khó chịu với họ'.<BR><BR>Chức năng của nhà giáo không phải là làm cho con bạn lên lớp, không phải là làm cho con bạn được điểm cao, không phải là làm cho chúng vào được trường điểm lại càng không phải là chịu trách nhiệm cho cái hư của trẻ. Chức năng của nhà giáo là hướng con bạn tới những phẩm chất tốt và khơi dậy những tiềm năng của chúng. Còn việc học, việc vươn tới tương lai, việc trở thành những con người có ích cho xã hội là việc của bản thân bọn trẻ. Chúng ta không thể bắt một đứa trẻ trở thành người thành đạt. Chúng ta chỉ có thể làm cho chúng thấy "trở thành người thành đạt là một việc tuyệt vời và con có thể làm được điều đó". Những việc sau đó đứa trẻ sẽ có thể tự làm được. Các bạn đừng cho rằng trẻ con ngờ nghệch. Chúng rất thông minh và nhạy bén. Nếu bạn làm cho chúng thấy thích thú với tương lai, chúng sẽ tự chạy về phía đó với tất cả sức lực chúng có. Khi đó bạn không cần phải "dạy" chúng, thậm chí bạn còn không theo kịp chúng nữa. Còn nếu bạn chỉ vẽ ra một tương lai đẹp đẽ nhưng không hợp với bản thân đứa trẻ thì có cố "gò" đến mấy cũng không đến được đâu. Cuối cùng chỉ ra được một sản phẩm nửa vời không cao không thấp. Hãy cho trẻ em những ước mơ, hãy tôn trọng những ước mơ đó (cho dù chúng viển vông tới đâu) và bạn sẽ thấy chúng mạnh mẽ đến mức nào. Bạn cần hiểu rằng: ước mơ của một đứa trẻ sẽ trưởng thành theo con người của nó. Chỉ cần đứa trẻ biết tập trung sức lực vào ước mơ của mình thì khi lớn hơn chúng sẽ tự biết thay đổi mục tiêu hay sửa đổi ước mơ đó để nó thực tế hơn. Bạn không cần phải nói: "Ước mơ đó là ngớ ngẩn" bởi vì khi lớn dần đứa trẻ sẽ tự hiểu điều này.<BR><BR>Tôi thiết nghĩ, thời kì quan trọng nhất trong hình thành ý thức học tập và ý thức xã hội của trẻ là trước khi dậy thì. Chúng cần một nền tảng vững chắc về các quan điểm giá trị. Những quan điểm mà có thể khi đó chúng chưa hiểu nhưng tương lai chúng sẽ hiểu. Và để chúng có được nền tảng đó, một chút hình phạt không phải là việc không chấp nhận được. Một cái vụt bằng thước kẻ vào tay sẽ khiến chúng nhớ lâu hơn là một vài trang chép phạt.<BR><BR>Tôi không ủng hộ việc làm của một cô giáo gần đây. Thậm chí tôi thấy hành động này là phản giáo dục. Phạt học trò phải có cách và phải tinh tế. Việc làm của cô là hoàn toàn sai. Một, hai cái vụt vào tay không khiến cho trẻ cảm thấy bị nhục mạ. Nhưng bắt chúng nằm lên bàn và thẳng cách quật bằng cán chổi là việc hoàn toàn khác. Tôi ủng hộ việc phạt đòn nhưng phải phạt với lương tâm và tình thương của một nhà giáo.<BR><BR>Tôi chưa có con, còn chưa lập gia đình. Nhưng tương lai, tôi sẽ không cố gắng mà tôi chắc chắn sẽ dành thời gian để quan sát con của mình, dành thời gian để tìm hiểu thế mạnh của nó và dành thời gian vắt óc suy nghĩ cách để hướng con mình vào tương lai. Và chắc chắn tôi sẽ ngồi lại với giáo viên của con tôi để làm việc này khi cần. Cho dù tôi có phải bận bịu đến mấy với cơm áo gạo tiền.<BR><BR><STRONG DESIGNTIMESP="83">T.D.Q</STRONG> </P>
+			</div>
+			<div class="tag-parent"><img src='/Images/tags.gif' class="tag"><div class="tag-pos"><h3 class="tag-text"><a href='/tag/74430/tro-hu/'>trò hư</a>, <a href='/tag/74431/nguoi-thay/'>người thầy</a>, <a href='/tag/2316/giao-duc/'>giáo dục</a></h3></div></div>
+			<div class="box-item" style="margin-top:5px;margin-bottom:5px;">
+			
+					<div style="border:1px solid #b7beb6; padding: 2px 3px;">
+						<div style="background-color: #d5d9de; padding: 5px 10px; margin-bottom:13px; font-weight:bold;">									
+							<table cellspacing="0" cellpadding="0" border="0" width="100%">
+								<tr>
+									<td>
+										<a name=aComment>&#221; ki&#7871;n b&#7841;n &#273;&#7885;c (<label style="color:#0033FF">51</label>)</a>
+									</td>
+									<td style="text-align:right; font-family:arial; font-size:11px; font-weight: normal;">
+										S&#7855;p x&#7871;p theo: 
+										<select name="cboOrder" id="cboOrder" onchange="OrderComment(this.value)" style="font-family:arial; font-size:11px; font-weight: normal;">
+											<option value="0" >Mới nhất</option>
+											<option value="1" selected>Cũ nhất</option>
+										</select>									
+									</td>
+								</tr>
+							</table>																		
+						</div>
+						<div style="height:400px; padding:0px 8px; overflow:auto; overflow-x: hidden;">								
+															
+							<div class="comment_ct">
+								<P class=Title>Cảm ơn bài viết </P>
+<P class=Normal>Cảm ơn tác giả. Tôi chỉ biết cảm ơn những thông tin thực tế trong bài viết và những vấn đề cần suy nghĩ và cải thiện. Trân Trọng</P>
+<P class=Normal><I>( Tai Son )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>ý kiến</P>
+<P class=Normal>tôi thấy bài viết này rất đúng với tình cảnh hiện nay. tôi thấy thật thương cho những giáo viên lương thì thấp mà trách nhiệm thì vô cùng lớn. </P>
+<P class=Normal><I>( VNCL )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Ung Ho</P>
+<P class=Normal>Hay lam, ban viet rat hay, day chinh la y nghi cua minh!</P>
+<P class=Normal><I>( Thia )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Giao duc tre</P>
+<P class=Normal>Mot bai viet hay</P>
+<P class=Normal><I>( Phan Thi Anh Dao )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Hay</P>
+<P class=Normal>Thời tôi còn đi học, cách đây 15 năm thôi, chuyện cô đánh, phạt, mắng trò được coi là bình thường. Đôi khi đó là động lực thúc đẩy học trò ngoan ngoãn, chăm chỉ hơn. Bây giờ con cái ít, người ta quý con đâm ra những gì liên quan đến con họ cũng đều bé xé ra to. Thời đại công nghệ thông tin, sức mạnh của những dòng comment trên mạng thật là kinh khủng. Nếu tiếp tục, chúng ta sẽ có một thế hệ học trò là những cô chiêu cậu ấm, bảo bọc từ nhà đến trường, ra xã hội. Nền giáo dục thì đi xuống. Thử hỏi trong tương lai sẽ tạo ra những công dân thế nào? Nghĩ buồn</P>
+<P class=Normal><I>( Hà )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Cam on</P>
+<P class=Normal>Bai viet qua hay, toi da doc va in ra dua dong nghiep coi. Ban than cung phai tu nhin lai minh, cach day do con cua minh. Cam on tac gia TDQ. Toi nghi day la loi canh tinh doi voi hoc sinh va phu huynh ve cach nhin nhan nha giao hien nay, va cung la suy nghi cua toi khi doc bai" hoc troc hu goi thay giao"/</P>
+<P class=Normal><I>( thanh xuan )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Bài viết tuyệt vời!</P>
+<P class=Normal>Bài viết phân tích rất kỹ, cả về chuyên môn nghề giáo cũng như tâm lý phụ huynh và con trẻ. Có vẻ như là phụ huynh, gia đình còn chưa xác định đúng đắn trách nhiệm của mình với con cái, phó mặc cho nhà trường, xã hội nhưng bao bọc, bảo vệ, la làng khi con cái hư hay bị phạt.</P>
+<P class=Normal><I>( Tom )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Giao duc tre hu</P>
+<P class=Normal>Bai viet that sau sac & dang de cac bac cha me nhu chung toi tham khao cung nhu suy nghi them trong hanh trinh giao duc con minh.</P>
+<P class=Normal><I>( Meo )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Tam quan trong cua gia dinh</P>
+<P class=Normal>Cám ơn tác giá của bài viết, rất hay, sâu sắc, và thực tế. Bài viết làm tôi nhớ đến tôi ngày xưa, nhớ đến cách dạy dỗ, uốn nắn của ông bà ngoại và cha mẹ tôi. Tác giả nói rất đúng: "Những quan điểm mà có thể khi đó chúng chưa hiểu nhưng tương lai chúng sẽ hiểu", ông bà ngoại và cha mẹ tôi giáo dục tôi khá nghiêm khắc, lúc đó tôi không thể hiểu hết, chỉ đến bây giờ tôi mới thắm thía từng câu răn dạy. Và nhờ vậy mà hôm nay tôi được nên người và thành đạt, hay ít ra tôi có thể tự hào rằng mình là người có đạo đức, là một công dân nghiêm túc của xã hội. Cách thức giáo dục của thế hệ trước không lỗi thời đâu thưa các độc giả, rất mong nền giáo dục nước nhà sớm thoát khỏi những bất cập như hiện nay.</P>
+<P class=Normal><I>( Tuong Vi )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Bài viết rất hay</P>
+<P class=Normal>Mình rất đồng tình với bài viết của bạn. Xã hội hiện nay trở nên quá khắt khe với các thầy cô giáo. Mẹ mình là một ví dụ. Học sinh học kém hay quậy phá bà chỉ được quyền la mắng nhẹ nhàng vì nếu nặng lời hay đuổi học sẽ ảnh hưởng đến thành tích phổ cập giáo dục. Nhiều người nói dạy thì có nhiều cách dạy đâu cần phải đánh học trò. Tôi nghĩ nếu như thế thì không cần có pháp luật hay cảnh sát công an. </P>
+<P class=Normal><I>( quang duy )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Mong có nhiều quý phụ huynh sẽ đọc</P>
+<P class=Normal>Mình là một người làm trong ngành giáo dục, Mình thấy bài viết của bạn rất hay và nêu được một thực tế đáng lo ngại về những lứa học trò thời @. Mong sẽ có nhiều bậc phụ huynh đọc được bài viết này và từ đó phối hợp tốt hơn với các thầy cô giáo trong việc giáo dục con em mình.</P>
+<P class=Normal><I>( TC )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Hãy chỉ cho trẻ đích đến!</P>
+<P class=Normal>Ngày xưa, mỗi lần làm lý lịch, tới phần ghi thành phần gia đình tôi thường phải ghi: "Bần nông", "Bần cố nông" . Thời đó cha tôi chỉ cho tôi đích đến chỉ bằng một câu nói: "Các con phải học làm sao để thoát khỏi đời sống nông dân như bây giờ, khổ lắm con à". câu nói đó luôn ở trong đầu tôi suốt bao nhiêu năm nay và tôi đã làm được. Các anh chị em tôi giờ ai cũng thành đạt và khá giả. Giờ cha tôi không còn nữa nhưng những lời dạy bảo của cha như kim chỉ nam vẫn còn mãi trong chúng tôi.</P>
+<P class=Normal><I>( Thanh Hằng )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>giáo dục con trẻ</P>
+<P class=Normal>Bài viết hay, đầy đủ từng khía cạnh nhân vật. Tôi cũng ủng hộ quan điểm mọi hành động vì lương tâm trách nhiệm của người thầy, người cô không ai muốn trò mình hư hỏng, nếu có hình phạt nào tốt nhất đem lại cho học trò sự nhìn nhận, ý thức, trách nhiệm, ngoan hơn, giỏi hơn thì tôi luôn ủng hộ. Thật sự bây giờ, hiện nay một số ông bố bà mẹ, học trò, thầy cô cũng có nhiều điều cần phải cải tạo, thay đổi. Vấn đề đạo đức, gia đình XH cần phải xem xét, cải thiện, tất cả đó là mặt trái của cơ chế thị trường, sự suy đồi đạo đức của giới trẻ, không còn tôn sư trọng đạo, kính trên nhường dưới, yêu gia đình, bản thân. Gia đình cần quan tâm, là điểm chính nối tay với nhà trường thầy cô để giáo dục con cái mình ngày một tốt hơn. Tôi hy vọng vấn nạn này mai đây được cải thiện, gia đình ,nhà trường và xh sẽ tốt hơn. Tuổi trẻ cần lắm sự chung tay của người lớn.</P>
+<P class=Normal><I>( nguyen huu )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Một cảm nhận</P>
+<P class=Normal>Tôi đã qua thời phổ thông lâu rồi. Bạn bè tôi đa phần cũng thành đạt. Và có 1 người thầy (từ cấp 2) chúng tôi vẫn tụ tập đến thăm thầy mỗi dịp Tết. Rất quý, rất kính trọng thầy. Nhưng có 1 điều chúng tôi vẫn hay nhắc với nhau:"Giá như ngày xưa thầy nghiêm với mình hơn thì mình đã khá hơn". Có những kinh nghiệm chúng ta phải trả giá nhiều đề rút ra được. Đến khi ngồi cùng nhau, lại thấy cái đó mình đã được nghe thấy nói rồi...</P>
+<P class=Normal><I>( Trần Mạnh Cường )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Cảm ơn tác giả!</P>
+<P class=Normal>Cần nhiều hơn nữa những người như bạn thì ngành giáo dục mới phát triển hơn.</P>
+<P class=Normal><I>( Matdaibang )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>ung ho</P>
+<P class=Normal>Toi nhan thay bai viet rat hay. toi cung la mot nguoi me co con trai o bac THCS. Toi nhan thay day con bay gio that kho, toi cung dang can su goi y ve day con.</P>
+<P class=Normal><I>( hathuy61 )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Cảm ơn tác giả</P>
+<P class=Normal>Tôi thực sự cảm ơn tác giả đã viết bài này. Bạn đã nói hộ cho chúng tôi những bức xúc mà bấy lâu nay giáo viên chúng tôi chưa nói ra. Cảm ơn bạn rất nhiều.</P>
+<P class=Normal><I>( Lê Thị Quỳnh Trang )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>bài viết rất hay và chính xác</P>
+<P class=Normal>bài viết phản ánh rất đúng thực trạng hiện nay. thực sự giáo viên càng lúc càng bị thu hẹp khả năng, vai trò và cả hình ảnh đích thực của mình. thật tội cho những nhà giáo chân chính</P>
+<P class=Normal><I>( Thuỳ Dương )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Cám ơn tác giả!</P>
+<P class=Normal>Một bài viết rất hay, lâu lắm rồi mới thấy một người không phải là giáo viên lại viết một cách sâu sắc và đúng mức như vậy về nghề giáo chúng tôi. Giá như tất cả các bậc phụ huynh, học sinh đều có thể nhìn nhận như bạn. Đúng là nhiều lúc giáo viên chúng tôi không biết bây giờ mình còn quyền gì trong việc giáo dục các em, ngay cả việc mắng các em một câu cũng không được, học trò thì càng dựa vào mấy cái khẩu hiệu, sự bao bọc của bố mẹ để lấn tơi. </P>
+<P class=Normal> Giáo viên chúng tôi cũng là con người, cũng có những cảm xúc, buồn, giận, cũng có lúc không kiềm chế được.  Cám ơn bài viết sâu sắc của tác giả. Hy vọng sẽ có nhiều người hiểu được vấn đề một cách sâu sắc như tác giả, có cái nhìn toàn diện như tác giả thì có lẽ giáo dục nước ta sẽ thành công hơn, giới trẻ sẽ không có nhiều bạo lực học đường như hiện nay, không có những biểu hiện xuống cấp về đạo đức và mất tôn trọng giáo viên như hiện nay.</P>
+<P class=Normal><I>( nguyễn văn tuấn )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Hay lắm</P>
+<P class=Normal>bài viết thật hay, thời nay cha mẹ không quan tâm tới con cái nên chúng ngày càng hư hỏng, phó mặc cho nhà trường, thầy cô bắt phạt thì cũng do thương con nên phản ánh. vòng luẩn quẩn cuối cùng con của họ sẽ ngày càng hư. Khi thầy cô đã không quan tâm tới con của bạn thì chắc chắn một điều là con của bạn sẽ không tiến bộ lên được, sẽ ngày càng hư hỏng, đó sẽ là gánh nặng cho gia đình bạn và xã hội sau này. Cảm ơn bài viết của bạn. rất hay. ngày xưa mình đi học bị thầy cô cầm thước đánh  là bình thường. Bây giờ mình lại quý trọng những điều đó của thầy cô, nhờ đó mà mình mới nên người.</P>
+<P class=Normal><I>( Thanh )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+						
+						</div>
+						<div style="background-color: #d5d9de; padding: 5px 10px; margin-top:13px; min-height:12px;">
+							<font class="Paging">1</font>, <a href="/gl/ban-doc-viet/2011/11/thay-giao-co-the-lam-gi-voi-hoc-tro-hu/?p=2#aComment" class="Paging Red" style="color:#ff0000">2</a>, <a href="/gl/ban-doc-viet/2011/11/thay-giao-co-the-lam-gi-voi-hoc-tro-hu/?p=3#aComment" class="Paging Red" style="color:#ff0000">3</a>
+						</div>
+						<!--<script type="text/javascript" language="javascript" src="/Library/Common/jquery.js"></script>-->
+						<script type="text/javascript" language="javascript">
+							$(document).ready(function(){
+								//$('div.comment_ct p.Title').css('font-size',17);
+							});
+						</script>
+						<script type="text/javascript" language="javascript">
+							function OrderComment(i){
+								setCookie('VOrderComment', '', '', i);
+								location.href = '/gl/ban-doc-viet/2011/11/thay-giao-co-the-lam-gi-voi-hoc-tro-hu#aComment';
+							}									
+						</script>
+					</div>
+					
+<p id=pShow><a class=SForm onclick="ShowFormComment()"><img src="/Images/Y-kien-cua-ban.gif" border="0" style="cursor:pointer" alt="Ý kiến của bạn" /></a></p>
+<div id="dComment" class="dtopitem_all">
+	<form method="post" name="frmComment" id="frmComment" target="_blank" onsubmit="submitForm(this);return false;" action="/service/comment/submit.asp">
+		<div class="adword-hdf">&nbsp;</div>
+		<div class="adword adword-middle" style="padding-top:0px;">					
+			<div class="adword-nav2 fl" style="padding-top:10px; width:476px; background-color:#ffffff">
+				<div style="padding-bottom:5px; overflow:hidden;">
+					<div class="fl" style="width:60%">
+						<input type="text" value="Họ tên" name="txtAddedBy" id="txtAddedBy" style="width:280px;" size="29" onfocus="NameOnFocus(this)" onblur="NameOnBlur(this)" onkeyup="initTyper(this)" class="adword-textbox"">
+					</div>
+					<div class="fr" style="width:180px;">
+						<input type="text" value="Email" name="txtAddedByEmail" id="txtAddedByEmail" style="width:172px" size="29" onfocus="EmailOnFocus(this)" onblur="EmailOnBlur(this)" class="adword-textbox">
+					</div>
+				</div>
+				<div style="padding-bottom:5px; overflow:hidden;">
+					<div class="fl" style="width:60%">
+						<input type="text" value="Tiêu đề" name="txtAddedTitle" id="txtAddedTitle" style="width:280px;" size="29" onfocus="TitleOnFocus(this)" onblur="TitleOnBlur(this)" onkeyup="initTyper(this)" class="adword-textbox"">
+					</div>
+					<div class="fr" style="width:180px;">
+						<input type="text" value="Mã xác nhận" name="txtValidCode" id="txtValidCode" style="width:99px;" size="29" onfocus="ValidateCodeOnFocus(this)" onblur="ValidateCodeOnBlur(this)" onkeyup="initTyper(this)" class="adword-textbox"">
+						<img src="/Service/Vote/securelog/image.asp" name="imgValidCode" id="imgValidCode" style="vertical-align:top; height:20px; padding-top:1px">
+						&nbsp;<img src="/Images/change-image.gif" alt="Thay hình khác" onclick="ChangeImage()" style="vertical-align:top;cursor:pointer; padding-top:1px" />
+					</div>
+				</div>
+				<div style="overflow:hidden;">
+					<div class="fl" style="width:60%">
+						<input type="submit" value="G&#7917;i To&#224; so&#7841;n" name="B1" class="SForm">&nbsp;<input type="button" value="Xo&#225; tr&#7855;ng" name="B2" class="SForm" onclick="InputDefault();">&nbsp;<input type="button" value="&#272;&#243;ng l&#7841;i" class="SForm" onclick="ShowFormComment()">
+						<input type="hidden" name="txtT" id="txtT" value="1002161582" />
+						<input type="hidden" name="txtS" id="txtS" value="0" />
+						<input type="hidden" name="txtF" id="txtF" value="109" />
+						<input type="hidden" name="txtL" id="txtL" value="/gl/ban-doc-viet/2011/11/thay-giao-co-the-lam-gi-voi-hoc-tro-hu" />
+					</div>
+					<div class="fl" style="width:40%; text-align:right;">
+						<input type="radio" name="optInput" value="0" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(0)">Off
+						<input type="radio" name="optInput" value="1" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(1)" checked>Telex
+						<input type="radio" name="optInput" value="2" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(2)">VNI
+						<input type="radio" name="optInput" value="3" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(3)">VIQR								
+					</div>
+				</div>				
+			</div>			
+			<div class="adword-nav2 fl" style="padding-top:0px;">
+				<textarea rows="10" name="txtAddedContent" id="txtAddedContent" cols="43" onkeyup="initTyper(this)" class="SForm" style="width: 470px"></textarea>				
+			</div>
+		</div>
+		<div class="adword-ftf">&nbsp;</div>
+	</form>
+</div>
+<script type="text/javascript">
+	var bshow = false;
+	
+	function ShowFormComment()	{
+		if(bshow){
+			gmobj('dComment').style.display="block";
+			gmobj('pShow').style.display="none";
+			bshow=false;
+		}
+		else{
+			gmobj('dComment').style.display="none";
+			gmobj('pShow').style.display="block";
+			bshow=true;
+		}
+	}
+	ShowFormComment();
+	
+	function submitForm(theform){
+		document.frmComment.txtAddedBy.value = Trim(document.frmComment.txtAddedBy.value);
+		if (document.frmComment.txtAddedBy.value == '' || document.frmComment.txtAddedBy.value == 'Họ tên')
+		{
+			alert('Xin hay nhap Ho ten!');
+			document.frmComment.txtAddedBy.focus();
+			return;
+		}
+
+		if ((SEmail = CheckEmailAddress(document.frmComment.txtAddedByEmail.value))=='')
+		{
+			alert('Dia chi Email khong hop le!');
+			document.frmComment.txtAddedByEmail.focus();
+			return;
+		}
+
+		document.frmComment.txtAddedByEmail.value = SEmail;
+
+		document.frmComment.txtAddedTitle.value = Trim(document.frmComment.txtAddedTitle.value);
+		if (document.frmComment.txtAddedTitle.value == '' || document.frmComment.txtAddedTitle.value == 'Tiêu đề')
+		{
+			alert('Xin hay nhap Tieu de!');
+			document.frmComment.txtAddedTitle.focus();
+			return;
+		}
+		
+		document.frmComment.txtValidCode.value = Trim(document.frmComment.txtValidCode.value);
+		if (document.frmComment.txtValidCode.value == '' || document.frmComment.txtValidCode.value == 'Mã xác nhận')
+		{
+			alert('Xin hay nhap Ma xac nhan!');
+			document.frmComment.txtValidCode.focus();
+			return;
+		}
+
+		document.frmComment.txtAddedContent.value = Trim(document.frmComment.txtAddedContent.value);
+		if (document.frmComment.txtAddedContent.value == '')
+		{
+			alert('Xin hay nhap Noi dung!');
+			document.frmComment.txtAddedContent.focus();
+			return;
+		}
+
+		if (!confirm('Gui yeu cau?'))
+			return;
+			
+		var status = AjaxRequest.submit(
+			theform
+			,{
+				'onSuccess':function(req){
+					if(req.responseText=='ValidCode'){
+						alert('Ma xac nhan khong dung!');
+					}
+					else{
+						alert(req.responseText);
+						ResetDefault();
+					}
+				}				
+				,'onError':function(req){
+					alert(req.responseText);
+				}
+			}
+		);
+		return status;
+	}
+	
+	function ChangeImage() {			
+		var ranNum = Math.floor(Math.random() * 5);
+
+		AjaxRequest.get(
+		  {
+			'onSuccess':function(req){
+				gmobj('imgValidCode').src = "/Service/Vote/securelog/image.asp?Code=" + ranNum;						
+			}
+			,'onError':function(req){					
+			}
+		  }
+
+		)
+    }
+	
+	function InputDefault() {
+		document.frmComment.txtAddedBy.value = 'Họ tên';
+		document.frmComment.txtAddedBy.className = 'adword-textbox';
+		document.frmComment.txtAddedByEmail.value = 'Email';
+		document.frmComment.txtAddedByEmail.className = 'adword-textbox';		
+		document.frmComment.txtAddedTitle.value = 'Tiêu đề';
+		document.frmComment.txtAddedTitle.className = 'adword-textbox';
+		document.frmComment.txtValidCode.value = 'Mã xác nhận';		
+		document.frmComment.txtValidCode.className = 'adword-textbox';
+		document.frmComment.txtAddedContent.value = '';
+		document.frmComment.txtAddedContent.focus();
+	}
+	
+	function ResetDefault() {
+		InputDefault();
+		ChangeImage();
+		
+		ShowFormComment();
+				
+	}
+</script>
+
+			</div>
+			
+			<div style="margin-top:5px;margin-bottom:5px;">							
+				<script language="javascript">					
+					Poly_ShowArticlebanner();										
+				</script>				
+			</div>
+		</div>				
+		<div class="folder-news">
+	<div class="othernews-header">
+		<div class="othernews-title fl">C&#225;c tin kh&#225;c</div>
+		<div class="fr txtr" style="margin-bottom:5px;"><label onClick="history.go(-1)" class="Time" style="cursor:pointer">[<B>Tr&#7903; v&#7873;</B>]</label></div>
+	</div>
+	<div class="othernews">
+		<ul>
+		<li><a href="/gl/ban-doc-viet/2011/11/nhin-tu-cach-sao-hollywood-nuoi-day-con/" class="link-othernews">Nhìn từ cách sao Hollywood nuôi dạy con</a><span style="color: #909090">&nbsp;(16/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/11/nhung-canh-dong-dat-viet-phan-2/" class="link-othernews">Những cánh đồng đất Việt (phần 2)</a><span style="color: #909090">&nbsp;(15/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/11/thu-cua-hoc-tro-hu-gui-thay-giao/" class="link-othernews">Thư của học trò hư gửi thầy giáo</a><span style="color: #909090">&nbsp;(14/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/11/de-xuat-giai-phap-chong-ket-xe-va-giam-thieu-tai-nan-giao-thong/" class="link-othernews">Đề xuất giải pháp chống kẹt xe và giảm thiểu tai nạn giao thông</a><span style="color: #909090">&nbsp;(12/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/11/dieu-chinh-thoi-gian-lam-viec-tai-sao-khong-bo-luon-gio-nghi-trua/" class="link-othernews">Điều chỉnh thời gian làm việc - tại sao không bỏ luôn giờ nghỉ trưa?</a><span style="color: #909090">&nbsp;(11/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/11/giai-phap-song-chung-voi-lut/" class="link-othernews">Giải pháp sống chung với lụt</a><span style="color: #909090">&nbsp;(09/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/11/sung-suong-tren-noi-dau-cua-dong-loai/" class="link-othernews">Sung sướng trên nỗi đau của đồng loại</a><span style="color: #909090">&nbsp;(08/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/11/thi-truong-gas-nguoi-tieu-dung-hay-can-than/" class="link-othernews">Thị trường gas - người tiêu dùng hãy cẩn thận</a><span style="color: #909090">&nbsp;(07/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/11/ngui-thay-mui-gas-trong-nha-ban-se-lam-gi/" class="link-othernews">Ngửi thấy mùi gas trong nhà, bạn sẽ làm gì?</a>&nbsp;<img border="0" src="/Images/video2.gif" />&nbsp;
+<span style="color: #909090">&nbsp;(05/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/11/kieu-hinh-pham-toi-moi/" class="link-othernews">Kiểu hình phạm tội mới</a><span style="color: #909090">&nbsp;(05/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/11/nhung-van-de-can-giai-dap-khi-su-dung-binh-gas-bep-gas-1/" class="link-othernews">Những vấn đề cần giải đáp khi sử dụng bình gas, bếp gas</a><span style="color: #909090">&nbsp;(04/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/11/dung-do-loi-binh-gas-loi-tai-chinh-ta/" class="link-othernews">Đừng đổ lỗi bình gas, lỗi tại chính ta!</a><span style="color: #909090">&nbsp;(03/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/11/chieu-lua-doanh-nghiep/" class="link-othernews">Chiêu lừa doanh nghiệp</a><span style="color: #909090">&nbsp;(02/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/11/phan-lan-chi-la-viec-tat-yeu-toi-thieu-cua-giao-thong-do-thi/" class="link-othernews">Phân làn chỉ là việc tất yếu tối thiểu của giao thông đô thị</a><span style="color: #909090">&nbsp;(01/11)</span></li>
+		<li><a href="/gl/ban-doc-viet/2011/10/giai-phap-chong-lu-trong-thanh-pho/" class="link-othernews">Giải pháp chống lũ trong thành phố</a><span style="color: #909090">&nbsp;(31/10)</span></li>
+		</ul>
+	</div>
+</div>
+
+		</div>
+	<div class="content-left fl">		
+	<div class="linksite-box" style="padding:0px;">
+	<img alt="Link Site" src="/Images/Linksite/site2.gif" usemap="#ctmap" class="img-linksite"/>
+	<map id="ctmap" name="ctmap">
+		<area shape="rect" coords="6,0,72,28" href="http://ngoisao.net/" target="_blank" title="ngoisao.net" />
+		<area shape="rect" coords="83,0,140,28" href="http://sohoa.vnexpress.net/" target="_blank" title="sohoa.vnexpress.net" />		
+		<area shape="rect" coords="152,0,215,28" href="http://gamethu.vnexpress.net/" target="_blank" title="gamethu.vnexpress.net" />
+		<area shape="rect" coords="223,0,296,28" href="http://vieclam.vnexpress.net/" target="_blank" title="viec lam" />
+	</map>
+</div>
+	<div class="box-item">		
+		<script type="text/javascript">
+			cpms_Ap.typ = 2;
+			cpms_Ap.ste = 1;
+			cpms_Ap.reg = 0;
+			cpms_Ap.fol = 109;
+			cpms_Ap.dof = 0;
+			cpms_Ap.wdt = 300;
+			
+			cpms_Ap.itf = 2;
+			
+			cpms_Ap.ShowAd();
+		</script>
+	</div>
+	<TABLE cellSpacing=0 cellPadding=3 width="100%" bgColor=#dfdfdf border=0>
+<TR>
+<TD><FONT size=2>Bài viết của độc giả trên chuyên mục này không nhất thiết trùng với quan điểm của tòa soạn, và không có nhuận bút.</FONT></TD></TR></TABLE>
+<Script language="JavaScript">Poly_ShowLogoLeft(2)</Script>
+<TABLE cellSpacing=1 width=315 bgColor=#800040 border=0>
+<TR>
+<TD class="BoxTitle" align="center"> Bài viết nhiều ý kiến phản hồi nhất </TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=1 cellPadding=1 width="100%" border=0>
+<TR>
+<TD class=BoxLink bgColor=#ffffff><A href="/gl/ban-doc-viet/2011/10/vi-co-gi-bo-truong-cam-quan-chuc-gtvt-choi-golf/" class="BoxLink"><FONT color=#ff0000><STRONG DESIGNTIMESP="45">Vì cớ gì Bộ trưởng cấm quan chức GTVT chơi golf?</STRONG></FONT></A></TD>
+<TD class=BoxLink align=right bgColor=#ffffff><A href="/gl/ban-doc-viet/2011/10/vi-co-gi-bo-truong-cam-quan-chuc-gtvt-choi-golf/" class="BoxLink"><IMG border=1 width="130" height="100" src="/Files/Folder/00/6d/choi-golf.jpg"></A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#ffffff><A href="/gl/ban-doc-viet/van-hoa/2011/10/cau-cua-mieng-co-gi-ma-khung-khieng/" class="BoxLink"><FONT color=#ff0000><STRONG>Câu cửa miệng có gì mà khụng khiệng</STRONG></FONT></A></TD>
+<TD class=BoxLink align=right bgColor=#ffffff><A href="/gl/ban-doc-viet/van-hoa/2011/10/cau-cua-mieng-co-gi-ma-khung-khieng/" class="BoxLink"><IMG border=1 width="130" height="100" src="/Files/Folder/00/6d/satthu.jpg"></A></TD></TR></TABLE></TD></TR></TABLE>
+<TABLE cellSpacing=0 cellPadding=3 width=311 bgColor=#808000 border=0>
+<TR>
+<TD bgColor=#dfdfdf colSpan=2 class="Normal" align="center"><STRONG DESIGNTIMESP="22255"><FONT face=Verdana color=#800000 size=2>Topic nóng</FONT></STRONG></TD></TR>
+<TR>
+<TD bgColor=#ffffff colSpan=2> <A href="/GL/Topic/?ID=5720" class=""><IMG border=1 width="300" height="82" src="/Files/Folder/00/6d/camxuc1.jpg"></A></TD></TR>
+<TR>
+<TD bgColor=#ffffff class="Image" align="center"><STRONG DESIGNTIMESP="22264">Cảm xúc âm nhạc</STRONG></TD>
+<TD bgColor=#ffffff class="BreakLine"><FONT color="#ffffff"> </FONT></TD></TR>
+<TR>
+<TD bgColor=#ffffff> <A href="/GL/Topic/?ID=5989" class=""><IMG border=1 width="300" height="82" src="/Files/Folder/00/6d/tien.jpg"></A></TD>
+<TD bgColor=#ffffff class="BreakLine"><FONT color="#ffffff"> </FONT></TD></TR>
+<TR>
+<TD bgColor=#ffffff class="Normal" align="center"> <A href="/GL/Topic/?ID=5989" class="Image"><STRONG DESIGNTIMESP="22275">Tôi muốn giàu</STRONG></A></TD>
+<TD bgColor=#ffffff class="BreakLine"><FONT color="#ffffff"> </FONT></TD></TR>
+<TR>
+<TD bgColor=#ffffff> <A href="/GL/Topic/?ID=6213" class=""><IMG border=1 width="300" height="82" src="/Files/Folder/00/6d/kyuc.jpg"></A></TD>
+<TD bgColor=#ffffff class="BreakLine"><FONT color="#ffffff"> </FONT></TD></TR>
+<TR>
+<TD bgColor=#ffffff>
+<P class=Image align=center><STRONG DESIGNTIMESP="22285"> </STRONG><A href="/GL/Topic/?ID=6213" class="Image"><STRONG DESIGNTIMESP="22287">Ký ức Hà Nội</STRONG></A><FONT color=#ff0000></P></FONT></TD>
+<TD bgColor=#ffffff class="BreakLine"><FONT color="#ffffff"> </FONT></TD></TR></TABLE>
+<TABLE cellSpacing=1 width=210 bgColor=#800040 border=0>
+<TR>
+<TD class="BoxTitle" align="center"> <A href="/GL/Topic/?ID=5435" class="Image"><FONT face=Verdana color=#ffffff size=2><STRONG DESIGNTIMESP="29447">Cuộc sống qua ống kính độc giả</STRONG></FONT></A></TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=1 cellPadding=1 width=305 border=0>
+<TR>
+<TD class=BoxLink bgColor=#ffffff><A href="/GL/Topic/?ID=5435" class="BoxLink"><IMG border=1 width="295" height="295" src="/Files/Folder/00/6d/mayanh.jpg"></A></TD></TR></TABLE>
+<P class=Normal align=center><FONT color=#ffffff>Chia sẻ ảnh của bạn </FONT><A href="/ContactUs/?id=bandocviet@vnexpress.net" class="Normal"><FONT color=#ffffff>tại đây</FONT></A></P></TD></TR></TABLE>
+<A href="/GL/Topic/?ID=6632" class="Normal"></A>
+<div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(139);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="fl" id="ListItem139">
+		<script type="text/javascript" language="javascript">showlistitem(3, 139, 4);</script>
+	</div>
+	<div class="box-middle1 list-item fl" style="height:5px;padding-top:0px;padding-bottom:0px;">&nbsp;</div>	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+<div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(125);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="fl" id="ListItem125">
+		<script type="text/javascript" language="javascript">showlistitem(5, 125, 4);</script>
+	</div>
+	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+
+<TABLE cellSpacing=1 cellPadding=0 width=278 bgColor=#808000 border=0>
+<TR>
+<TD class="BoxTitle" align="center"> <FONT face=Verdana size=2>Video</FONT></TD></TR>
+<TR>
+<TD>
+<TABLE cellSpacing=1 cellPadding=1 width="100%" border=0>
+<TR>
+<TD bgColor=#ffffff class="Normal" align="center"><A href="/gl/ban-doc-viet/2010/10/3ba21aa9/" class="Image"><STRONG DESIGNTIMESP="17151">Vật thể bay lạ ở Hà Nội</STRONG></A></TD>
+<TD bgColor=#ffffff class="Normal" align="center"><A href="/gl/ban-doc-viet/xa-hoi/2010/09/3ba2064a/" class="Image"><STRONG DESIGNTIMESP="17155">Tàu điện xưa</STRONG></A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#ffffff><A href="/gl/ban-doc-viet/2010/10/3ba21aa9/" class="BoxLink"><IMG border=1 width="130" height="100" src="/Files/Folder/00/6d/vat-the-bay-la-hanoi-1.jpg"></A></TD>
+<TD class=BoxLink align=right bgColor=#ffffff>
+<A href="/gl/ban-doc-viet/xa-hoi/2010/09/3ba2064a/" class="Normal"><IMG border=1 width="130" height="100" src="/Files/Folder/00/6d/tau1.jpg"></A></TD></TR></TABLE>
+<TABLE cellSpacing=0 cellPadding=3 width="100%" bgColor=#800000 border=0>
+</TABLE>
+<P class=Normal align=left><FONT face=Verdana color=#ffffff size=1>Chia sẻ clip của bạn </FONT><A href="/ContactUs/?id=bandocviet@vnexpress.net" class="Normal"><FONT face=Verdana color=#ffffff size=1>tại đây</FONT></A> </P></TD></TR></TABLE>
+<TABLE cellSpacing=0 cellPadding=3 width="100%" bgColor=#dfdfdf border=0>
+<TR>
+<TD><STRONG DESIGNTIMESP="18107"></STRONG></TD></TR></TABLE>
+<TABLE cellSpacing=0 cellPadding=3 width=311 bgColor=#dfdfdf border=0>
+</TABLE>
+<div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(132);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="fl" id="ListItem132">
+		<script type="text/javascript" language="javascript">showlistitem(4, 132, 8);</script>
+	</div>
+	<div class="box-middle1 list-item fl" style="height:5px;padding-top:0px;padding-bottom:0px;">&nbsp;</div>	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+ 
+<TABLE cellSpacing=0 cellPadding=0 width=300 border=0>
+</TABLE>
+<TABLE cellSpacing=1 cellPadding=0 width=210 bgColor=#ffffff border=0>
+<TR>
+<TD class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR></TABLE>
+	</div>
+	
+	<div class="content-right fl">		
+		<div class="adv-header">
+			<div class="adv-title fl">				
+				<a href="http://www.fptad.com/lienhe.aspx" target="_blank"><img style="border:0" src="/Images/Background/adv-title.gif" alt="Lien he quang cao" /></a>				
+			</div>
+		</div>
+		<div id="adgroup"  style="display:none;clear:both;"></div>
+	<Script type="text/javascript" language="JavaScript">Poly_ShowAdScrollBanner(2);</Script>
+				</div>
+				
+			</div>
+			
+			<div id="footer">
+				
+				<script type="text/javascript">Poly_ShowFooterBanner();</script>										
+				
+                <div class="fmenu-top">
+                    <div class="fl icone-footer"></div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-home" rel="nofollow" onclick="javascript:setAsHomePage(this)"><span></span>Đặt làm trang chủ</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ct" rel="nofollow" class="link-contact" href="/ContactUs/?id=bandocviet@vnexpress.net"><span></span>Liên hệ tòa soạn</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ads" rel="nofollow" class="link-contact" href="http://ads.fpt.net/lienhe.aspx" target="_blank"><span></span>Liên hệ quảng cáo</a>
+                    </div>					
+                    <div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">						
+						
+                        <span class="lnkf-hl">Đường dây nóng: 0123.888.0123 (HN) - 0129.233.3555 (TP HCM)<span></span></span>
+						
+                    </div>
+					<div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">
+						 <a rel="nofollow" class="link-contact" href="http://fptad.com/qc/v/vnexpress/2011/phongvienthethao/" target="_blank"><img class="img-search" src="/Images/person.gif" alt="" style="vertical-align:top;" /> VnExpress tuyển dụng </a>
+					</div>					
+                </div>
+                <div class="fmenu-bottom">	
+					<a href="/" class="link-footermenu">Trang chủ</a><i class="sepaf"></i>
+					<a href="/gl/xa-hoi/" class="link-footermenu">Xã hội</a><i class="sepaf"></i>
+					<a href="/gl/the-gioi/" class="link-footermenu">Thế giới</a><i class="sepaf"></i>
+					<a href="/gl/kinh-doanh/" class="link-footermenu">Kinh doanh</a><i class="sepaf"></i>
+					<a href="/gl/van-hoa/" class="link-footermenu">Văn hóa</a><i class="sepaf"></i>
+					<a href="/gl/the-thao/" class="link-footermenu">Thể thao</a><i class="sepaf"></i>
+					<a href="/gl/phap-luat/" class="link-footermenu">Pháp luật</a><i class="sepaf"></i>
+					<a href="/gl/doi-song/" class="link-footermenu">Ðời sống</a><i class="sepaf"></i>
+					<a href="/gl/khoa-hoc/" class="link-footermenu">Khoa học</a><i class="sepaf"></i>
+					<a href="/gl/vi-tinh/" class="link-footermenu">Vi tính</a><i class="sepaf"></i>
+					<a href="/gl/oto-xe-may/" class="link-footermenu">Ôtô - Xe máy</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/" class="link-footermenu">Bạn đọc viết</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/tam-su/" class="link-footermenu">Tâm sự</a><i class="sepaf"></i>
+					<a href="/user/rao-vat/" class="link-footermenu">Rao vặt</a><i class="sepaf"></i>
+					<a href="/gl/cuoi/" class="link-footermenu">Cuời</a>
+					
+                    <script type="text/javascript" language="javascript">
+						//writeFooterMenu();
+						Poly_ShowFixFloatBanner(0);Poly_ShowFixFloatBanner(2);Poly_ShowFixFloatBanner(1);Poly_ShowFixFloatBanner(3);
+						Poly_ShowSlideBanner();Poly_ShowBallonBanner();						
+					</script>
+					
+                    <script type="text/javascript" language="javascript">Poly_ShowPopupUnder();</script>
+					
+                </div>
+                <div class="copyright">
+                    <p><label style="font:bold 11px arial; color:#686E7A;">&#169;&nbsp;Copyright 1997-2011 VnExpress.net</label>, <label style="font:normal 11px arial; color:#686E7A;">All rights reserved <a rel="nofollow" href="/ContactUs/?id=webmaster@vnexpress.net">Contact us</a> - <label onClick="ContactUs()" style="text-decoration:underline;cursor:pointer">Th&#244;ng tin T&#242;a so&#7841;n</label></label</p>
+<p><label style="font:normal 11px arial; color:#686E7A;">&#174;&nbsp;VnExpress gi&#7919; b&#7843;n quy&#7873;n n&#7897;i dung tr&#234;n website n&#224;y.</lable></p>
+
+                </div>
+            </div>
+			</div>
+		</div>		
+		</div>		
+		<script type="text/javascript">
+		<!--//<![CDATA[
+			cpms_Ap.init();
+			cpms_Ap.typ = 1;
+			cpms_Ap.dof = 0;
+			cpms_Ap.ste = 1;
+			cpms_Ap.reg = 0;
+			cpms_Ap.fol = 109;
+			cpms_Ap.pos = 38;
+			cpms_Ap.url = encodeURIComponent(document.location.href);
+			cpms_Ap.show();
+		//]]>-->
+		</script>
+		  	
+		<div style="float:left;">
+			<script type="text/javascript" language="javasript">
+				var strHr = location.href;				
+				if(strHr.substr(0,21)=='http://vnexpress.net/' || strHr.substr(0,27)=='http://ebank.vnexpress.net/' || strHr.substr(0,28)=='http://nhadep.vnexpress.net/'){
+					document.write('<img src="http://180.148.142.10/website/vnexpress/Res.asp?vid=FB52269D-8791-437C-A9F0-A7EA018D25B4&ovt=0&vsd=0&pfd=109&pid=1002161582&ref=&iTime=11/17/2011 4:03:50 PM" border=0>');
+					
+				}
+			</script>
+		</div>
+		<script type="text/javascript">
+	var SERVER_ID = 6;
+</script>
+
+
+		<!--<script type="text/javascript" language="javascript" src="/Library/Common/rss.js"></script>-->
+		<script type="text/javascript" src="http://180.148.142.152/Library/VNELibraryNew.js"></script>
+
+<script type="text/javascript" src="http://180.148.142.152/Library/AdsNov.js"></script>
+		
+<script src="http://180.148.142.152/Vals/1/0/109/Val.js" type="text/javascript"></script>	
+		
+<script type="text/javascript" language="javaScript">checkCookie();</script>
+
+<script type="text/javascript" language="javaScript" src="http://180.148.142.153/script/libMobile.js"></script>     
+
+
+<script type="text/javascript">      
+    Poly_ShowAds();
+</script>
+	
+	</body>			
+</html>

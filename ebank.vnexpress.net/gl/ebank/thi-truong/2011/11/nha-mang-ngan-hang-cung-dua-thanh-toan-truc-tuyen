@@ -1,0 +1,598 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="robots" content="INDEX,FOLLOW" />
+		
+		<meta http-equiv="REFRESH" content="3600" />
+		
+		<meta name="description" content="Ngoài liên kết với nhà băng mở dịch vụ mua thẻ nạp tiền được giảm giá, trúng thưởng, các hãng di động còn đẩy mạnh việc thu cước trả sau online với nhiều ưu đãi lớn. - Ngoai lien ket voi nha bang mo dich vu mua the nap tien duoc giam gia, trung thuong, cac hang di dong con day manh viec thu cuoc tra sau online voi nhieu uu dai lon." />
+		
+		<meta name="keywords" content="Dịch vụ thanh toán trực tuyến,Nhà mạng,MobiFone,VinaPhone,Viettel" />		
+				
+		<title>eBank VnExpress - Nhà mạng, ngân hàng cùng đua thanh toán trực tuyến - Nha mang, ngan hang cung dua thanh toan truc tuyen</title>
+				
+		<link rel="stylesheet" href="/Resource/Common/default.css" type="text/css" />		
+		
+		<link rel="alternate" type="application/rss+xml" title="VnExpress - RSS" href="/RSS/GL/trang-chu.rss" />
+				
+		<script type="text/javascript" language="javascript" src="/Library/Common/Library.js"></script>		
+		<script type="text/javascript" language="javascript" src="/Library/Common/Vne.js"></script>		
+		<script type="text/javascript" language="javascript" src="/Library/Common/AdLib.js"></script>				
+		<script type="text/javascript" language="javascript" src="/Library/Common/AjaxRequest.js"></script>
+		<script type="text/javascript" language="javascript" src="/Library/Common/vietUni.js"></script>				
+		<script type="text/javascript" language="javascript" src="/Resource/00/ArrMenu.js"></script>        		
+		<script type="text/javascript" language="javaScript">
+			var PAGE_SITE=0;
+			var PAGE_FOLDER=613;	
+			var PAGE_ID=1002161726;	
+			var DOMESTIC_IP=1;	
+			setTypingMode(1);
+				
+			sLoDID=sLoDID.concat('1002161726').concat(',');
+			
+		</script>
+		<script type="text/javascript" language="javascript" src="/Resource/Common/Menu.js"></script>		
+		<script type="text/javascript" language="javascript" src="/Library/Common/jquery-1.4.2.min.js"></script>
+		<script type="text/javascript" language="javascript" src="/Library/Common/EBShowAds.js"></script>
+		
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-249346-6']);
+		_gaq.push(['_trackPageview']);
+		
+		_gaq.push(['b._setAccount', 'UA-249346-21']);
+		_gaq.push(['b._trackPageview']);
+		
+		_gaq.push(['c._setAccount', 'UA-249346-22']);
+		_gaq.push(['c._trackPageview']);
+
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+			
+	</head>
+
+	<script type="text/javascript" language="javaScript" src="/Source/Folder/00/02/65/Val.js"></script>
+		
+	<script type="text/javascript" language="javaScript">checkCookie();</script>
+	
+	<body>
+		<div id="outter">
+			<div id="header">
+				<div class="logo">
+					<a onfocus="this.blur()" href="/GL/Ebank/"><img src="/Images/Ebank/logo.gif"/></a>					
+				</div>
+				<div class="topbanner">					
+					<table border="0" cellpadding="0" cellspacing="0" style="height:83px; width:100%;">
+						<tr>
+							<td style="vertical-align:middle">															
+								<script type="text/javascript" language="javascript">Poly_ShowTopBanner();</script>
+							</td>                           
+						</tr>
+					</table>
+				</div>
+			</div>
+			<div class="navigator">
+				<div class="nav-top">
+					<div class="nt-left">
+						<div class="ntL-a"><img src="/Images/eBank/chuyentrang.gif" alt=""></div>
+						<div class="ntL-a"><a href="http://vnexpress.net"><img src="/Images/eBank/vne.gif" alt=""></a></div>
+						<div class="ntL-a"><img src="/Images/eBank/va.gif" alt=""></div>
+						<div class="ntL-a"><a href="http://www.smartlink.com.vn"><img src="/Images/eBank/smart.gif" alt=""></a></div>
+					</div>
+					<div id="parentMenu" class="nt-right">
+	<div class="ntR-right">
+		<div class="ntR-left">								
+			<div class="ntR-mid">
+				<!--[if lte IE 6]>
+				<a id="actie6" href="#"><table cellpadding=0 cellspacing=0 style="border: none; margin-top: 6px; margin-bottom: 2px;"><tr><td><![endif]-->
+				
+				<div class="nav-ct">
+				
+					<a href="/GL/Ebank/"><div class="nav-ctR"><div class="nav-ctL"><div class="nav-ctM">Trang chủ</div></div></div></a>
+				</div>
+				
+				<div class="nav-ct">	
+					<a href="/GL/Ebank/San-pham-moi/"><div class="nav-ctR"><div class="nav-ctL"><div class="nav-ctM">Sản phẩm mới</div></div></div></a>
+				</div>
+				
+				
+				<div class="nav-ctA">
+				
+					<a href="/GL/Ebank/Thi-truong/"><div class="nav-ctR"><div class="nav-ctL"><div class="nav-ctM">Thị trường</div></div></div></a>
+				</div>
+				
+				<div class="nav-ct">	
+					<a href="/GL/Ebank/Quoc-te/"><div class="nav-ctR"><div class="nav-ctL"><div class="nav-ctM">Quốc tế</div></div></div></a>
+				</div>
+				
+				
+				<div class="nav-ct">
+				
+					<a href="/GL/Ebank/Tu-van/"><div class="nav-ctR"><div class="nav-ctL"><div class="nav-ctM">Tư vấn</div></div></div></a>
+				</div>
+				
+				<div class="nav-ct">	
+					<a href="/GL/Ebank/Tuyen-dung/"><div class="nav-ctR"><div class="nav-ctL"><div class="nav-ctM">Tuyển dụng</div></div></div></a>
+				</div>
+				
+				<div class="nav-ct">	
+					<a href="/GL/Ebank/Cong-dong-ebank/"><div class="nav-ctR"><div class="nav-ctL"><div class="nav-ctM">Cộng đồng Ebank</div></div></div></a>
+				</div>	
+				<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</div>					
+		</div>
+	</div>						
+</div>	
+				</div>
+				<div class="nav-down">
+					<div class="nd-left"></div>
+					<div class="nd-mid"></div>
+					<div class="nd-right"></div>
+		    </div>
+			</div>
+			<div class="content">
+			<div class="left-ct">
+			<div class="title">	<script type="text/javascript" language="javascript">writeFolderTitle(PAGE_FOLDER,'Th&#7913; s&#225;u, 18/11/2011, 11:24 GMT+7');</script>
+</div>
+<div class="email-print txtr">
+<a onclick="this.blur(); return EmailSubject(1002161726)" href=""><img border="0" src="/Images/email.gif" align="bottom">&nbsp;E-mail</a>
+&nbsp;&nbsp;&nbsp;<a onclick="this.blur(); return PrintSubject()" href=""><img border="0" src="/Images/print.gif" align="bottom">&nbsp;B&#7843;n In</a>
+</div>
+						
+					<div class="top-story">
+						<div class="TS-top"></div>
+						<div class="tintuc">
+							<div class="otherInside">
+								<div style="overflow:hidden" cpms_content="true">
+				<H1 class=Title>Nhà mạng, ngân hàng cùng đua thanh toán trực tuyến</H1>
+<H2 class=Lead>Ngoài liên kết với nhà băng mở dịch vụ mua thẻ nạp tiền được giảm giá, trúng thưởng, các hãng di động còn đẩy mạnh việc thu cước trả sau online với nhiều ưu đãi lớn.</H2>
+<P class=Normal>Nếu như trước đây, chỉ có nhà mạng tung ra chương trình khuyến mại cho đại lý khi mua thẻ cào thì giờ đây những nhà băng liên kết cũng tham gia ưu đãi. Mới đây, Công ty Smartlink và nhiều ngân hàng cùng tung ra chương trình ưu đãi dành cho khách hàng nạp tiền cho thẻ trả trước (đến hết 31/12/2011) với tổng giá trị giải thưởng lên tới 1 tỷ đồng. </P>
+<P class=Normal>Mặc dù chỉ là một thành viên trong chương trình, nhưng Ngân hàng ACB là đơn vị rất hăng hái quảng bá cho đợt ưu đãi hợp tác cùng Smartlink và các hãng di động. Nhà băng này thực hiện những đợt truyền thông quảng bá khá mạnh về những quà tặng tổng trị giá 1 tỷ đồng và chương trình ưu đãi thanh toán lên đến 10% dành cho khách hàng trả cước online có tài khoản ở ACB.</P>
+<TABLE cellSpacing=0 cellPadding=3 width=1 align=center border=0>
+<TR>
+<TD><IMG src="/Files/Subject/3b/bb/c6/3e/DSC_8826_filtered.jpg" width=480 height=320 border=1 alt="Nhà mạng liên kết với ngân hàng để ưu đãi tới 10% giá trị cho khách hàng thanh toán qua mạng. Ảnh: Hoàng Hà" /></TD></TR>
+<TR>
+<TD class="Image">Nhà mạng liên kết với ngân hàng giảm tới 10% giá trị hóa đơn cho khách hàng thanh toán qua mạng. Ảnh: <EM>Hoàng Hà</EM></TD></TR></TABLE>
+<P class=Normal>Trong khi đó, các hãng di động lớn như Viettel, MobiFone, VinaPhone vẫn tiến hành đẩy mạnh thanh toán trực tuyến với việc giảm 4% cho khách hàng nạp tiền trả trước với giá trị từ 100.000 đồng trở lên.</P>
+<P class=Normal>Hãng viễn thông Viettel kết hợp với FPT Telecom tung ra thị trường dịch vụ thanh toán hóa đơn trực tuyến bằng ví điện tử Payoo. Theo đó, khách hàng sử dụng dịch vụ ADSL, thông tin di động của Viettel, FPT có thể thanh toán cước phí bằng tài khoản ngân hàng thông qua máy tính hoặc thiết bị kết nối Internet.  </P>
+<P class=Normal>Trong khi đó, ngoài việc đưa ra các dịch vụ tương tự, hãng di động MobiFone còn bổ sung thêm một chương trình ưu đãi lớn dành cho khách hàng trả sau nhằm khuyến khích khách hàng thanh toán trực tuyến. Theo đó, cho tới 31/1/2012 khách hàng thanh toán qua các nhà băng thuộc liên minh của Smartlink, VNPay hoặc ATM của Vietcombank sẽ được giảm tới 10% mức cước. Đây cũng là ưu đãi lớn nhất trên thị trường viễn thông hiện nay với thanh toán trực tuyến.</P>
+<P class=Normal>Nguồn tin từ Vietcombank cho biết, so với các tổ chức tín dụng khác, nhờ có mạng lưới ATM lớn và nhiều chủ thẻ, nhà băng này có thể đem lại các lợi ích lớn hơn cho khách hàng khi thanh toán cước trả sau của mọi mạng di động. "Hiện nay, mới có chủ thẻ ATM của Vietcombank là được giảm 10% khi thanh toán cước trả sau của MobiFone", đại diện Trung tâm thẻ Vietcombank nói.</P>
+<P class=Normal>Một lãnh đạo của VinaPhone nhận xét, thanh toán điện tử đã trở nên phổ biến đối với nhiều nước trên thế giới. Chẳng hạn tại Singapore, Malaysia hay Indonesia, tỷ lệ thanh toán cước di động trực tuyến lên tới 90%, còn tại Việt Nam, con số này chưa đầy 2%. </P>
+<P class=Normal>Trong khi đó, hình thức thanh toán này lại tiết kiệm rất nhiều thời gian cho khách hàng. Nhà mạng cũng bớt được chi phí trong việc duy trì một lượng lớn nhân viên chỉ làm nhiệm vụ thu cước hằng tháng. Cũng vì thế, hãng di động này đang dự kiến đẩy mạnh hơn nữa việc thanh toán trực tuyến với các khách hàng trả sau.</P>
+<P class=Normal>Còn đại diện của MobiFone thì cho biết, tháng 10 năm ngoái, lần đầu tiên MobiFone triển khai tặng 5% giá trị hóa đơn cho khách hàng trả sau thanh toán online. Sau chương trình này, tổng giá trị thanh toán trực tuyến của trả sau tăng gấp 2 lần so với ban đầu. Cũng vì thế, với ưu đãi lên tới 10% giá trị của chương trình khuyến mại mới, cộng thêm nhiều biện pháp khác, nhà mạng này dự kiến đẩy lệ thanh toán trực tuyến tăng lên 5% so với tỷ lệ hơn 1% hiện nay.</P>
+<P class=Normal>"Thanh toán qua mạng là một dịch vụ phát triển trong tương lai mà các hãng viễn thông Việt đang tìm cách đưa các ứng dụng này vào phổ biến cho người dùng di động. Chúng tôi cũng không thể đứng ngoài cuộc dù lượng khách hàng trả sau không nhiều", đại diện của một mạng di động nhỏ bình luận. </P>
+<P class=Normal align=right><STRONG>Hồng Anh</P></STRONG>
+		</div>
+		
+			</div></div><div class="box-down"></div></div>
+				<div class="tag-parent"><img src='/Images/Tag/tags.gif' class="tag"><div class="tag-pos"><h3 class="tag-text"><a href='http://ebank.vnexpress.net/tag/65008/dich-vu-thanh-toan-truc-tuyen/'>Dịch vụ thanh toán trực tuyến</a>, <a href='http://ebank.vnexpress.net/tag/1963/mobifone/'>MobiFone</a>, <a href='http://ebank.vnexpress.net/tag/1961/nha-mang/'>nhà mạng</a>, <a href='http://ebank.vnexpress.net/tag/1606/viettel/'>Viettel</a>, <a href='http://ebank.vnexpress.net/tag/1364/vinaphone/'>VinaPhone</a></h3></div></div>
+				<div class="left-box" style="margin-top:5px;margin-bottom:5px;">
+					
+<div class="divcomment" onclick="ShowFormComment();">&#221; ki&#7871;n c&#7911;a b&#7841;n:</div>
+<div class="ViewerComment2" id="dComment" style="display:none;">
+<form method="post" name="frmComment" id="frmComment" target="_blank" onsubmit="submitForm(this);return false;" action="/Service/Comment/Submit.asp">
+	<div class="opinion_ct">
+		<div class="opinion_top"></div>
+		<div class="opinion_bg">
+			<div class="Vright2">
+				<div class="Vright_bottom2">
+					<div class="Vright_line2">
+						<div class="VR_L">Họ tên:</div>
+						<div class="VR_R2">							
+							<input type="text" class="txtHoTen" name="txtAddedBy" id="txtAddedBy" onkeyup="initTyper(this)" />
+						</div>
+					</div>
+					<div class="Vright_line2">
+						<div class="VR_L">Tiêu đề:</div>
+						<div class="VR_R2">							
+							<input type="text" class="txtHoTen" name="txtAddedTitle" id="txtAddedTitle" onkeyup="initTyper(this)" />
+						</div>
+					</div>
+					<div class="Vright_line2">
+						<div class="VR_L">Email:</div>
+						<div class="VR_R2">							
+							<input type="text" class="txtEmail" name="txtAddedByEmail" id="txtAddedByEmail" />
+						</div>
+					</div>
+					<div class="Vright_line2">
+						<div class="VR_L">Mã xác nhận:</div>
+						<div class="VR_R2">							
+							<input type="text" name="txtValidCode" id="txtValidCode" class="txtMa" />
+							<img src="/Service/Vote/securelog/image.asp" name="imgValidCode" id="imgValidCode" style="vertical-align:top; height:20px; padding-top:1px">
+							&nbsp;<img src="/Images/change-image.gif" alt="Thay hình khác" onclick="ChangeImage()" style="vertical-align:top;cursor:pointer; padding-top:1px" />
+						</div>
+					</div>
+					<div class="Vright_line2">
+						<div class="VR_L"></div>
+						<div class="VR_R2">
+							<textarea class="txta" name="txtAddedContent" id="txtAddedContent" onkeyup="initTyper(this)"></textarea>
+						</div>
+					</div>
+					<div class="Vright_line2">
+						<div class="VR_L"></div>
+						<div class="VR_R2">
+							<input type="submit" value="" class="SendTS" name="B1" />
+							<input type="button" class="Delete" name="B2" onclick="InputDefault();" />
+							<!--<input type="button" class="Close" onclick="ShowFormComment()" />-->
+							
+							<input type="radio" name="optInput" value="0" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(0)">Off
+							<input type="radio" name="optInput" value="1" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(1)" checked>Telex
+							<input type="radio" name="optInput" value="2" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(2)">VNI
+							<input type="radio" name="optInput" value="3" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(3)">VIQR													
+							
+							<input type="hidden" name="txtT" id="txtT" value="1002161726" />
+							<input type="hidden" name="txtS" id="txtS" value="0" />
+							<input type="hidden" name="txtF" id="txtF" value="613" />
+							<input type="hidden" name="txtL" id="txtL" value="" />
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="opinion_bottom"></div>
+	</div>
+</form>
+</div>
+<script type="text/javascript">
+	var bshow = true;
+	function ShowFormComment()	{
+		if(bshow){
+			gmobj('dComment').style.display="block";
+			bshow=false;
+		}
+		else{
+			gmobj('dComment').style.display="none";
+			bshow=true;
+		}
+	}
+	function submitForm(theform){
+		document.frmComment.txtAddedBy.value = Trim(document.frmComment.txtAddedBy.value);
+		if (document.frmComment.txtAddedBy.value == '' || document.frmComment.txtAddedBy.value == 'Họ tên')
+		{
+			alert('Xin hay nhap Ho ten!');
+			document.frmComment.txtAddedBy.focus();
+			return;
+		}
+
+		if ((SEmail = CheckEmailAddress(document.frmComment.txtAddedByEmail.value))=='')
+		{
+			alert('Dia chi Email khong hop le!');
+			document.frmComment.txtAddedByEmail.focus();
+			return;
+		}
+
+		document.frmComment.txtAddedByEmail.value = SEmail;
+
+		document.frmComment.txtAddedTitle.value = Trim(document.frmComment.txtAddedTitle.value);
+		if (document.frmComment.txtAddedTitle.value == '' || document.frmComment.txtAddedTitle.value == 'Tiêu đề')
+		{
+			alert('Xin hay nhap Tieu de!');
+			document.frmComment.txtAddedTitle.focus();
+			return;
+		}
+		
+		document.frmComment.txtValidCode.value = Trim(document.frmComment.txtValidCode.value);
+		if (document.frmComment.txtValidCode.value == '' || document.frmComment.txtValidCode.value == 'Mã xác nhận')
+		{
+			alert('Xin hay nhap Ma xac nhan!');
+			document.frmComment.txtValidCode.focus();
+			return;
+		}
+
+		document.frmComment.txtAddedContent.value = Trim(document.frmComment.txtAddedContent.value);
+		if (document.frmComment.txtAddedContent.value == '')
+		{
+			alert('Xin hay nhap Noi dung!');
+			document.frmComment.txtAddedContent.focus();
+			return;
+		}
+
+		if (!confirm('Gui yeu cau?'))
+			return;
+			
+		var status = AjaxRequest.submit(
+			theform
+			,{
+				'onSuccess':function(req){
+					if(req.responseText=='ValidCode'){
+						alert('Ma xac nhan khong dung!');
+					}
+					else{
+						alert(req.responseText);
+						ResetDefault();
+					}
+				}
+				,'onError':function(req){
+					alert(req.responseText);
+				}
+			}
+		);
+		return status;
+	}
+	
+	function ChangeImage() {			
+		var ranNum = Math.floor(Math.random() * 5);
+
+		AjaxRequest.get(
+		  {
+			'onSuccess':function(req){
+				gmobj('imgValidCode').src = "/Service/Vote/securelog/image.asp?Code=" + ranNum;						
+			}
+			,'onError':function(req){					
+			}
+		  }
+
+		)
+    }
+	
+	function InputDefault() {
+		document.frmComment.txtAddedBy.value = '';		
+		document.frmComment.txtAddedByEmail.value = '';		
+		document.frmComment.txtAddedTitle.value = '';		
+		document.frmComment.txtValidCode.value = '';				
+		document.frmComment.txtAddedContent.value = '';
+		document.frmComment.txtAddedContent.focus();
+	}
+	
+	function ResetDefault() {
+		InputDefault();
+		ChangeImage();			
+	}
+</script>
+
+				</div>
+				
+				<div class="left-box" style="margin-top:5px;margin-bottom:5px;">						
+					<script language="javascript">					
+						ShowArticlebanner();										
+					</script>				
+				</div>
+				<div class="left-box">
+	<div class="box-top"><div class="box-bt"><div class="box-tL"></div><div class="box-tM">		C&#225;c tin kh&#225;c		</div><div class="box-tR"></div></div></div>
+	<div class="other-mid">
+		<ul>
+		<li><a href="/gl/ebank/thi-truong/2011/11/tiet-kiem-an-binh-nha-minh-trung-lon-tai-abbank/">'Tiết kiệm An Bình - Nhà mình trúng lớn' tại ABBank<span>&nbsp;(18/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/maritime-bank-trien-khai-he-thong-kondor/">Maritime Bank triển khai hệ thống Kondor+<span>&nbsp;(17/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/nam-a-bank-khai-truong-hoi-so-chinh/">Nam A Bank khai trương hội sở chính<span>&nbsp;(17/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/shb-nhan-huan-chuong-lao-dong-hang-ba-1/">SHB nhận Huân chương lao động hạng ba<span>&nbsp;(16/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/giam-sat-chat-tin-dung-cho-doanh-nghiep-fdi/">Giám sát chặt tín dụng cho doanh nghiệp FDI<span>&nbsp;(16/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/chuyen-trang-ebank-tron-2-tuoi/">Chuyên trang Ebank tròn 2 tuổi<span>&nbsp;(15/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/tienphong-bank-khai-truong-hai-quy-tiet-kiem-tai-ha-noi/">TienPhong Bank khai trương hai quỹ tiết kiệm tại Hà Nội<span>&nbsp;(15/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/khach-hang-trung-thuong-thang-10-tu-smartlink/">Khách hàng trúng thưởng tháng 10 từ Smartlink<span>&nbsp;(15/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/maritime-bank-dat-giai-thuong-do-vinasme-to-chuc/">Maritime Bank đạt giải thưởng do VINASME tổ chức<span>&nbsp;(15/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/ngan-hang-tang-cuong-bien-phap-bao-ve-chu-the-atm/">Ngân hàng tăng cường biện pháp bảo vệ chủ thẻ ATM<span>&nbsp;(15/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/vietcombank-thoai-von-khoi-shinhan-vina/">Vietcombank thoái vốn khỏi Shinhan Vina<span>&nbsp;(15/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/hdbank-khai-truong-diem-giao-dich-theo-mo-hinh-moi/">HDBank khai trương điểm giao dịch theo mô hình mới<span>&nbsp;(15/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/mo-van-tin-dung-cho-bat-dong-san-tieu-dung/">Mở van tín dụng cho bất động sản, tiêu dùng<span>&nbsp;(15/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/se-cong-khai-no-xau-cac-ngan-hang/">Sẽ công khai nợ xấu các ngân hàng<span>&nbsp;(14/11)</span></a></li>
+		<li><a href="/gl/ebank/thi-truong/2011/11/tienphong-bank-dat-doanh-nghiep-viet-nam-vang-2010/">TienPhong Bank đạt 'Doanh nghiệp Việt Nam Vàng 2010'<span>&nbsp;(14/11)</span></a></li>
+		</ul>
+	</div>
+	<div class="box-down"></div></div>
+
+			</div>
+			
+			<div class="right-ct">
+				<div class="right-box">
+	<div class="rb-top">
+		<div class="tagAct" id="toolstab1" onclick="switchToolsTab(1);ShowCommunication()" style="margin: 0 3px 0 0;">
+			<a>
+				<span class="tagL"></span>
+				<span class="tagM" style="width: 66px;">Viễn thông</span>
+				<span class="tagR"></span>
+			</a>
+		</div>
+		<div class="tagNor" id="toolstab2" onclick="switchToolsTab(2);ShowByTicket()" style="margin: 0 3px 0 0;">
+			<a>
+				<span class="tagL"></span>
+				<span class="tagM" style="width: 95px;">Mua vé máy bay</span>
+				<span class="tagR"></span>
+			</a>
+		</div>
+		<div class="tagNor" id="toolstab3" onclick="switchToolsTab(3);ShowInternetBanking()" style="margin: 0px;">
+			<a>
+				<span class="tagL"></span>
+				<span class="tagM" style="width: 95px;">Internet-banking</span>
+				<span class="tagR"></span>
+			</a>
+		</div>
+	</div>
+	<div class="rb-mid" id="dToolsCom">
+		<a href="/Extend/Thanh-toan-truc-tuyen/?srv=1&pdr=VMS"><img src="/Images/eBank/smart-bill.gif" alt=""></a>
+		<a href="/Extend/Thanh-toan-truc-tuyen/"><img src="/Images/eBank/smart-topup.gif" alt=""></a>
+	</div>
+	<div class="rb-mid" id="dByTicket" style="padding:9px 3px 5px; width:300px; overflow:hidden; display:none;">		
+		<div class="content-UF-mid" align="center">
+			<a href="http://vietnamairlines.com/wps/portal/vn/site/home?country=vietnam " target="_blank">
+				<img src="/Images/ebank/home/VNA_300x125_160911.jpg" style="width: 290px; border:0;" alt="" />
+			</a>
+		</div>
+	</div>
+	<div class="rb-mid" id="dIBanking" style="display:none; font-family:Arial; font-size:12px; color: #416FA6;">				
+		<p><span style="font-weight: bold;">Vietcombank </span><a href="http://www.vietcombank.com.vn/EBanking/IBanking/" target="_blank">www.vietcombank.com.vn/EBanking/IBanking/</a></p>
+		<div class="solid2"></div>
+		<p><span style="font-weight: bold;">SHB </span>		
+			<a href="https://ibanking.shb.com.vn/ibhome.aspx" target="_blank">https://ibanking.shb.com.vn/ibhome.aspx</a>
+			</p>
+		<div class="solid2"></div>		
+		<p><span style="font-weight: bold;">Techcombank </span><a href="https://tib.techcombank.com.vn/scripts/tiblive" target="_blank">https://tib.techcombank.com.vn/scripts/tiblive</a></p>
+		<div class="solid2"></div>
+		<p><span style="font-weight: bold;">MilitaryBank </span><a href="http://www.militarybank.com.vn/nhdt/internetbanking.asp" target="_blank">militarybank.com.vn/nhdt/internetbanking.asp</a></p>
+		<div class="solid2"></div>
+		<p><span style="font-weight: bold;">Eximbank </span><a href="https://ebanking.eximbank.com.vn/ebanking/" target="_blank">https://ebanking.eximbank.com.vn/ebanking/</a></p>
+		<div class="solid2"></div>
+		<p><span style="font-weight: bold;">ACB </span><a href="http://acbcard.com.vn/index.php?option=com_content&view=article&id=172&Itemid=107" target="_blank">http://acbcard.com.vn/index.php?option=com_content&view=article&id=172&Itemid=107</a></p>
+		<div class="solid2"></div>
+		<p><span style="font-weight: bold;">Maritimebank </span><a href="http://www.msb.com.vn/b1-san-pham-dich-vu/c-ngan-hang-dien-tu/a-internet-banking" target="_blank">http://www.msb.com.vn/b1-san-pham-dich-vu/c-ngan-hang-dien-tu/a-internet-banking</a></p>
+		<div class="solid2"></div>
+		<p><span style="font-weight: bold;">SCB </span><a href="https://ibanking.scb.com.vn/scb.ibs/" target="_blank">https://ibanking.scb.com.vn/scb.ibs/</a></p>
+		<div class="solid2"></div>
+		<p><span style="font-weight: bold;">VIB </span><a href="https://www.vib4u.com.vn/" target="_blank">https://www.vib4u.com.vn/</a></p>
+		<div class="solid2"></div>
+		<p><span style="font-weight: bold;">OCB </span><a href="https://ebanking.ocb.com.vn" target="_blank">https://ebanking.ocb.com.vn</a></p>
+		<div class="solid2"></div>
+		<p><span style="font-weight: bold;">HDBank </span><a href="https://ebanking.hdbank.vn/ebanking/" target="_blank">https://ebanking.hdbank.vn/ebanking/</a></p>
+		<div class="solid2"></div>
+		<p><span style="font-weight: bold;">Sacombank </span><a href="https://www.e-sacombank.com.vn/sacomweb/index.stb" target="_blank">https://www.e-sacombank.com.vn/sacomweb/index.stb</a></p>
+		<div class="solid2"></div>
+		<p><span style="font-weight: bold;">DongA Bank </span><a href="https://ebanking.dongabank.com.vn/login.jsp" target="_blank">https://ebanking.dongabank.com.vn/login.jsp</a></p>
+		<div class="solid2"></div>
+		<p><span style="font-weight: bold;">TienPhongBank </span><a href="http://www.tpb.com.vn/vn/khach-hang-ca-nhan/ngan-hang-dien-tu/internet-banking" target="_blank">http://www.tpb.com.vn/vn/khach-hang-ca-nhan/ngan-hang-dien-tu/internet-banking</a></p>
+	</div>
+	<div class="rb-mid" id="dNotComplete" style="display:none;">
+		<div class="content-UF">
+			<div class="content-UF-top">
+				<div class="content-UF-top2"></div>
+			</div>
+			<div class="content-UF-mid">
+				<img src="/Images/ebank/home/notComplete.gif" alt="" />
+			</div>
+			<div class="content-UF-bottom">
+				<div class="content-UF-bottom2"></div>
+			</div>
+		</div>
+	</div>	
+ <div class="rb-down"></div>		               		               
+</div>
+<script type="text/javascript" language="javascript">
+	function switchToolsTab(i){		
+		for(var j=1; j<4; j++){
+			if(i==j){				
+				gmobj('toolstab' + j).className = 'tagAct';				
+			}
+			else{
+				gmobj('toolstab' + j).className = 'tagNor';
+			}
+		}
+	}
+	
+	function ShowNotComplete(){
+		gmobj('dToolsCom').style.display = 'none';
+		gmobj('dNotComplete').style.display = '';
+		gmobj('dByTicket').style.display = 'none';
+		gmobj('dIBanking').style.display = 'none';
+	}
+	
+	function ShowCommunication(){
+		gmobj('dToolsCom').style.display = '';
+		gmobj('dNotComplete').style.display = 'none';
+		gmobj('dByTicket').style.display = 'none';
+		gmobj('dIBanking').style.display = 'none';
+	}
+	
+	function ShowInternetBanking(){
+		gmobj('dToolsCom').style.display = 'none';
+		gmobj('dNotComplete').style.display = 'none';
+		gmobj('dByTicket').style.display = 'none';
+		gmobj('dIBanking').style.display = '';
+	}
+	
+	function ShowByTicket(){
+		gmobj('dToolsCom').style.display = 'none';
+		gmobj('dNotComplete').style.display = 'none';
+		gmobj('dByTicket').style.display = '';
+		gmobj('dIBanking').style.display = 'none';
+	}
+</script>					
+				<div class="box-item">
+					<script type="text/javascript">
+						Poly_ShowAdsContext();
+					</script>
+				</div>
+				<div class="right-box">
+	<div class="thanhtoan">
+<div class="tt-tit">
+	<div class="tt-tL"></div>
+	<div class="tt-tM">
+		<script type="text/javascript" language="javascript">writeListItemTitle(602);</script>
+	</div>
+	<div class="tt-tR"></div>
+</div>
+		<div class="tt-ct" id="ListItem602">
+			<script type="text/javascript" language="javascript">showlistitem(1, 602, 4);</script>
+		</div>
+		<div class="rb-down"></div>
+	</div>
+</div>
+<div class="right-box">
+	<div class="thanhtoan">
+<div class="tt-tit">
+	<div class="tt-tL"></div>
+	<div class="tt-tM">
+		<script type="text/javascript" language="javascript">writeListItemTitle(603);</script>
+	</div>
+	<div class="tt-tR"></div>
+</div>
+		<div class="dt-ct" id="ListItem603">
+			<script type="text/javascript" language="javascript">showlistitem(2, 603, 4);</script>
+		</div>
+		<div class="rb-down"></div>
+	</div>
+</div>
+<div class="right-box">
+	<div class="thanhtoan">
+<div class="tt-tit">
+	<div class="tt-tL"></div>
+	<div class="tt-tM">
+		<script type="text/javascript" language="javascript">writeListItemTitle(605);</script>
+	</div>
+	<div class="tt-tR"></div>
+</div>
+		<div class="tt-ct" id="ListItem605">
+			<script type="text/javascript" language="javascript">showlistitem(1, 605, 4);</script>
+		</div>
+		<div class="rb-down"></div>
+	</div>
+</div>
+</div>
+		
+		<div class="ad">
+			<div class="Pserch">
+				<script language="javascript" type="text/javascript">ShowSearch();</script>
+			</div>
+	<Script type="text/javascript" language="JavaScript">Poly_ShowBasicRight(1);</Script>
+			</div></div>
+			<div id="footer">
+				<div class="footer-up">
+					<img src="/Images/Ebank/newsBank/addressIcon.gif" alt=""/>
+					Địa chỉ: Tầng 4 Tòa nhà Hà thành Plaza, 102 Thái Thịnh, Đống Đa, Hà Nội.
+					<img src="/Images/Ebank/newsBank/telephoneIcon.gif" alt=""/>
+					Điện thoại: 04-73008899 (Ext.4513).
+					<img src="/Images/Ebank/newsBank/email.gif" alt=""/>
+					<a href="mailto:ebank@vnexpress.net">Email: ebank@vnexpress.net </a>
+				</div>
+				<div class="footer-down">
+					<div class="footerL"></div>
+					<div class="footerM">
+						<div class="f_left">
+							Chuyên mục tài chính ngân hàng của
+							<span>Vnexpress.</span>
+						</div>
+						<div class="f_right">© Copyright 1997-2009 Vnexpress.net, All right reserved <a href="/ContactUs/?id=webmaster@vnexpress.net">Contact us</a> - <a onclick="ContactUs()">Thông tin Tòa soạn</a> - ® VnExpress giữ bản quyền nội dung trên website này. </div>
+					</div>
+					<div class="footerR"/>
+				</div>
+			</div>
+		</div>
+		  	
+	<div style="float:left;">		
+		<img src="http://180.148.142.10/website/vnexpress/?VisitorID=9709F5F3-FF22-457C-B4C3-AA5A8444204E&OldVisit=0&Visited=&PageFolder=613&PageID=1002161726&Referer=&iTime=11/19/2011 1:23:26 AM" border=0>
+		
+	</div>
+		
+		<link href="http://180.148.142.152/Library/2.css" rel="Stylesheet" style="text/css"> 
+		<link href="http://180.148.142.152/Library/default.css" rel="stylesheet" type="text/css">
+		<script type="text/javascript" src="http://180.148.142.152/Library/AdLibNew.js"></script>
+		<script type="text/javascript" src="http://180.148.142.152/Library/Lib.js"></script>
+		<script type="text/javascript" src="http://180.148.142.152/Library/EBLibraryNew.js"></script>
+		<script src="http://180.148.142.152/Vals/1/0/613/Val.js" type="text/javascript"></script>		
+		<script type="text/javascript">Poly_ShowAds();</script>
+	</body>			
+</html>

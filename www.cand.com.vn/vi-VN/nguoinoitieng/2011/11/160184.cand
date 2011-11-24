@@ -1,0 +1,1616 @@
+
+<HTML>
+	<HEAD>
+		<title id="StoryTitle">CAND Online | “Lời qu&#234;” trữ t&#236;nh, sẽ lan tỏa xa - “Loi que” tru tinh, se lan toa xa</title>
+		<meta id="description" content="Co ca si nho be de gay an tuong voi moi nguoi khong chi boi giong hat muot ma, quyen ru, ma con boi nu cuoi va guong mat baby cung phong cach tre trung, hien dai duong nhu trai nguoc voi dong nhac dan gian ma co theo duoi. Le Man con tao duoc thien cam voi nguoi tiep xuc boi tinh cach coi mo va kha boc truc, chu khong co tinh tao dang nhu mot vai guong mat khac.">
+		</meta>
+		<meta id="refresher" http-equiv="REFRESH" content="600">
+		</meta>
+		<meta content="JavaScript" name="vs_defaultClientScript">
+		<meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema">
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta content="INDEX,FOLLOW" name="robots">
+		<LINK href="/images/CAND/logo_icon.ico" rel="shortcut icon">
+		<script language="JavaScript" src="/JScripts/PopCalendar.js" type="text/javascript"></script>
+		<style>.quest_zone { FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; COLOR: #006; PADDING-TOP: 4px; FONT-FAMILY: Arial, verdana, Georgia, Times }
+	.asker_name { FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; COLOR: gray; PADDING-TOP: 4px; FONT-FAMILY: Arial, verdana, Georgia, Times }
+	.text_box1 { FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; COLOR: #000000; PADDING-TOP: 4px; FONT-FAMILY: Arial, verdana, Georgia, Times }
+	.image_desc { FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; COLOR: #000000; PADDING-TOP: 4px; FONT-FAMILY: Times, verdana, Georgia, Arial }
+		</style>
+		<script language="JavaScript">
+			function setVisibility(evt,id, visibility,obj)
+			{
+				updatebox(evt,id,obj);
+				document.getElementById(id).style.display = visibility;
+			}
+			function updatebox(evt,id,obj)
+			{
+				 mouseX=evt.pageX?evt.pageX:evt.clientX;//
+				 mouseY=evt.pageY?evt.pageY:evt.clientY;//
+				 document.getElementById(id).style.left=mouseX+document.body.scrollLeft;
+				 document.getElementById(id).style.top=mouseY+document.body.scrollTop;
+			}
+		</script>
+	</HEAD>
+	<body>
+		<form name="StoryPg" method="post" action="Story.aspx?ID=160184&amp;culture=vi-vn" id="StoryPg">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjUwMjkyNzkwZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgURRmVlZGJhY2sxJGJ0blNlbmQFE1NlYXJjaGVzMSRidG5TdWJtaXSv8PAeb57TfcDMByZ6jgKwz6GdeA==" />
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBwKcoJenDQKzs/e9DwLrxLWhCAK8jPXcDQKJ9r6xBQL6/e6yBwLh3qCFCeHJN64Hywk0yAbbdiJftoqWoX+M" />
+			<TABLE id="Table5" cellSpacing="0" cellPadding="0" width="1000" align="center" bgColor="#ffffff"
+				border="0">
+				<TBODY>
+					<TR>
+						<TD>
+<LINK href="/JScripts/CAND.CSS" type="text/css" rel="stylesheet">
+<script language="javascript" src="/JScripts/cookieUtility.js"></script>
+<script language="javascript" src="/JScripts/personalize.js"></script>
+<script language="JavaScript" src="/JScripts/adFlash.js"></script>
+<script language="javascript" src="/JScripts/mylib.js"></script>
+<table cellSpacing="0" cellPadding="0" width="100%" bgColor="#ffffff" border="0" id="Table2">
+	<TR>
+		<TD align="center">
+			<TABLE cellSpacing="0" cellPadding="0" width="100%" border="0" id="Table3">
+				<TR height="50">
+					<TD vAlign="top" width="194" bgColor="#cbe2e9">
+						<a id="Header_lnkHomePage" href="http://www.cand.com.vn">
+							<IMG src="/Images/header_candonline228x50.gif" border="0"></a></TD>
+					<TD align="right" width="100%" background="/Images/CAND/bg_head.gif" bgColor="#cbe2e9"
+						height="50">
+						</TD>
+				</TR>
+				<TR>
+					<TD vAlign="middle" align="left" width="194" bgColor="black"><IMG src="/Images/header_sologon229x16.gif"></TD>
+					<TD align="right" width="100%" bgColor="black" height="18">
+<table id="Table1" cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td>
+			<span id="Header_ctlPersonalizeText_lblWelcome"><font color="White">Chào bạn!</font></span></td>
+		<td></td>
+		<td></td>
+		<td>&nbsp;&nbsp;</td>
+		<td>
+			<script>
+        var mydate=new Date()
+        var year=mydate.getYear()
+        if (year < 1000)
+					year+=1900
+        var day=mydate.getDay()
+        var month=mydate.getMonth()
+        var daym=mydate.getDate()
+        if (daym<10)
+					daym="0"+daym
+        var dhour=mydate.getHours()
+        var dmin=mydate.getMinutes()
+        if (dmin<10)
+					dmin="0"+dmin
+        if (dhour<10)
+					dhour="0"+dhour
+        var dayarray=new Array("Ch&#7911; Nh&#7853;t","Th&#7913; Hai","Th&#7913; Ba","Th&#7913; T&#432;","Th&#7913; N&#259;m","Th&#7913; S&#225;u","Th&#7913; B&#7843;y")
+        var montharray=new Array("01","02","03","04","05","06","07","08","09","10","11","12")
+                document.write("<font color=white><b> "+dhour+":"+dmin+" "+daym+"/"+montharray[month]+"/"+year+"</b></font>")
+			</script>
+		</td>
+		<td>&nbsp;&nbsp;</td>
+	</tr>
+</table>
+</TD>
+				</TR>
+			</TABLE>
+		</TD>
+	</TR>
+	<TR>
+		<TD align="center" width="1000" background="/Images/header_background24x6.gif" bgColor="#ac051f"
+			height="24">
+			<TABLE id="Table1" style="WIDTH: 100%; HEIGHT: 24px" height="24" cellSpacing="0" cellPadding="0"
+				width="100%" align="right" background="/Images/header_background24x6.gif" border="0">
+				<TR>
+					<TD style="WIDTH: 223px" width="223" height="24"></TD>
+					<TD style="WIDTH: 100px" width="100" height="24">
+						<img src='/rpc/counter.aspx?ckey=All_view&rand=1605071915' width=0 height=0 border=0 alt=''></TD>
+					<TD style="WIDTH: 120px" align="center" width="120" height="24"><a id="Header_lnkANTG" href="http://antg.cand.com.vn">
+							<img height="24" alt="" src="/Images/header_title_antg102x24.gif" width="102" border="0"></a></TD>
+					<TD style="WIDTH: 12px" width="10" height="24"><IMG src="/Images/header_linedoc12x24.gif"></TD>
+					<TD style="WIDTH: 120px" align="center" width="120" height="24"><a id="Header_lnkANTGCT" href="http://antgct.cand.com.vn">
+							<img height="24" alt="" src="/Images/header_title_antgct105x24.gif" width="105" border="0"></a></TD>
+					<TD style="WIDTH: 12px" width="10" height="24"><IMG src="/Images/header_linedoc12x24.gif"></TD>
+					<TD style="WIDTH: 120px" align="center" width="120" height="24"><a id="Header_lnkVNCA" href="http://vnca.cand.com.vn">
+							<img height="24" alt="" src="/Images/header_title_vnca112x24.gif" width="112" border="0"></a></TD>
+					<TD style="WIDTH: 12px" width="10" height="24"><IMG src="/Images/header_linedoc12x24.gif"></TD>
+					<TD style="WIDTH: 120px" align="center" width="120" height="24"><a id="Header_lnkCAND" href="http://cstc.cand.com.vn">
+							<img height="24" alt="" src="/Images/header_title_cstc115x24.gif" width="115" border="0"></a></TD>
+					<TD style="WIDTH: 12px" width="10" height="24"><IMG src="/Images/header_linedoc12x24.gif"></TD>
+					<!--
+					<TD align="right" width="106" height="24"><a id="Header_lnkCANDTV">
+							<img height="24" alt="" src="/Images/header_thcand106x24.gif" width="106" border="0"></a></TD>
+					-->
+				</TR>
+			</TABLE>
+		</TD>
+	</TR>
+	<TR>
+		<TD style="HEIGHT: 1px" align="center" bgColor="#ac051f"><script language="JavaScript" src="/JScripts/CAND_new.JS"></script>
+<table class="navgrid" height="26" cellSpacing="0" cellPadding="0" width="100%" align="left" border="0" bgColor="#ac051f">
+	<tr bgColor="#ac051f">
+		<td height="26" align="center">
+		<A href="/" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Trang chủ</FONT></A>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<A href="/vi-VN/thoisu.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Thời sự</FONT></A>&nbsp;&nbsp|&nbsp;&nbsp;
+		<A href="/vi-VN/xahoi.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Xã hội</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/quocte.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Quốc tế</FONT></A>&nbsp;&nbsp;|&nbsp&nbsp;
+		<A href="/vi-VN/kinhte.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Kinh tế</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/vanhoa.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Văn hoá</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/phapluat.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Pháp luật</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/nguoinoitieng.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Người nổi tiếng</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/nhanai.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Nhịp cầu nhân ái</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/trongmatdan.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Công an trong lòng dân</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/toiphama-z.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Tội phạm từ A-Z</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/clips.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Video Clip</FONT></A>
+		</td>
+	</tr>
+</table></TD>
+	</TR>
+</table>
+<link href="/JScripts/cand_new.css" rel="stylesheet" media="screen">
+</TD>
+					</TR>
+					<TR>
+						<TD>
+							<TABLE id="Table6" cellSpacing="0" cellPadding="0" width="1000" align="left" bgColor="white"
+								border="0">
+								<TBODY>
+									<TR vAlign="top">
+										<TD class="left_columms" style="PADDING-TOP: 10px" vAlign="top" width="800">
+											<table cellSpacing="0" cellPadding="0" width="100%" align="center" border="0">
+												<TBODY>
+													<TR>
+														<TD style="PADDING-BOTTOM: 6px; HEIGHT: 20px; paddint-top: 6px" align="center">
+															<TABLE id="Table11" style="PADDING-BOTTOM: 10px" cellSpacing="0" cellPadding="0" width="780"
+																border="0">
+																<TR>
+																	<TD style="WIDTH: 500px" width="500"></TD>
+																</TR>
+																<TR>
+																	<TD style="WIDTH: 500px; HEIGHT: 34px" vAlign="top" align="left" width="100%" background="/Images/back_line.gif"><span id="Path1_lbPath" class="cm_title">Người nổi tiếng&nbsp;</span>
+</TD>
+																</TR>
+																<TR>
+																	<TD style="WIDTH: 500px" width="500"></TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR>
+														<TD class="home_subtitle" style="HEIGHT: 7px" align="center"></TD>
+													</TR>
+													<TR>
+														<TD style="HEIGHT: 328px" vAlign="top" align="center">
+															<TABLE id="Table12" height="19" cellSpacing="0" cellPadding="0" width="780" border="0">
+																<TR>
+																	<TD style="PADDING-RIGHT: 6px" vAlign="top" align="center" width="780">
+																		<DIV align="left">
+																			<TABLE cellSpacing="0" cellPadding="0" align="left" border="0">
+																				<TR>
+																					<TD style="HEIGHT: 1px">
+																						<TABLE cellSpacing="0" cellPadding="0" border="0">
+																							<TR>
+																								<TD><img id="StoryAvatar" hspace="4" src="http://www.cand.com.vn/Uploaded_VNCA/thuydt1/thuydt1/6_casi2307.jpg" border="0" width="180" /></TD>
+																							</TR>
+																							<TR>
+																								<TD class="pic_explain"><span id="AvatarDesc" style="display:inline-block;">Ca sĩ Bùi Lê Mận.</span></TD>
+																							</TR>
+																						</TABLE>
+																					</TD>
+																				</TR>
+																				<TR>
+																					<TD style="HEIGHT: 10px"></TD>
+																				</TR>
+																				<TR>
+																					<TD></TD>
+																				</TR>
+																			</TABLE>
+																			<DIV align="left"><B></B></DIV>
+																			<DIV align="left"><span id="lbHeadline" class="main_title">“Lời quê” trữ tình, sẽ lan tỏa xa</span></DIV>
+																			<DIV align="left">
+																				<DIV align="left"><span id="lbDate" class="time_zone">23:29:00 20/11/2011</span></DIV>
+																				<DIV align="left"><span id="lbAuthor1" class="author"><a href='http://cstc.cand.com.vn/News/huuuoc/index.html' target=_blank></a></span></DIV>
+																			</DIV>
+																		</DIV>
+																		<DIV align="left"><span class="main_abstract">Cô ca sĩ nhỏ bé dễ gây ấn tượng với mọi người không chỉ bởi giọng hát mượt mà, quyến rũ, mà còn bởi nụ cười và gương mặt "baby" cùng phong cách trẻ trung, hiện đại dường như trái ngược với dòng nhạc dân gian mà cô theo đuổi. Lê Mận còn tạo được thiện cảm với người tiếp xúc bởi tính cách cởi mở và khá bộc trực, chứ không cố tình "tạo dáng" như một vài gương mặt khác.</span></DIV>
+																		<DIV align="left"><span id="lbContinue" class="time_zone"></span><span id="lbBody" class="main_content"><P><FONT size=2>Sau một thời gian im ắng, mới đây, Lê Mận đã trở lại với âm nhạc một cách bứt phá, khi cho ra mắt album đầu tay mang tên "Lời quê" và tiếp tục chiếm được cảm tình của người nghe với lời đánh giá cao của NSND Thanh Hoa: "Lê Mận là một trong những giọng ca trữ tình tốt nhất hiện nay". Nhân dịp này, PV Báo CAND đã có cuộc trò chuyện với ca sĩ Lê Mận.</FONT></P>
+<P><I><FONT size=2>PV: Sau khi giành cú đúp tại Sao Mai 2009, trong khi nhiều bạn bè cùng lứa Sao Mai ngày ấy đã lần lượt ra album khá sớm, vì sao Lê Mận lại có một thời gian dài "im hơi lặng tiếng"? </FONT></I></P>
+<P><FONT size=2>Ca sĩ Bùi Lê Mận: Sau khi đoạt giải, Lê Mận được nhiều người biết đến hơn nên đã nhận được nhiều lời mời đi hát, cả trong và ngoài nước. Hiểu rằng, đây cũng là một cơ hội cho mình nên Lê Mận tranh thủ "chớp thời cơ", chuyên tâm vào việc biểu diễn. Vì thế, dù biết rằng khán giả yêu quí Lê Mận mong mỏi "đứa con đầu lòng" của Lê Mận, nhưng Lê Mận vẫn phải ra Album chậm.</FONT></P>
+<P><I><FONT size=2>PV: Hẳn là chậm nhưng chắc?</FONT></I></P>
+<P><FONT size=2>Ca sĩ Bùi Lê Mận: Vì là album đầu tay nên "Lời quê" được chuẩn bị rất kỹ càng với mong muốn mang đến cho khán giả một món quà tinh thần đúng nghĩa. Việc phối khí cũng phải làm đi làm lại đến khi ưng ý mới thôi. Hình ảnh do chính Lê Mận tự thiết kế. </FONT></P>
+<P><I><FONT size=2>PV: Ngắm vẻ đẹp rực rỡ và trẻ trung của Lê Mận, hơi ngạc nhiên khi nghe "Lời quê" với các ca khúc đậm chất dân gian và giọng ca thì ngọt ngào và mộc mạc? </FONT></I></P>
+<P><FONT size=2>Ca sĩ Bùi Lê Mận: (Cười) Vẻ ngoài hiện đại thế thôi, nhưng Lê Mận lại là người đam mê dòng nhạc dân gian từ nhỏ, cảm nhận trong đó sự sâu lắng, đi vào lòng người. Mỗi khi nghe hát, Lê Mận luôn thấy xốn xang, xao động, nên Lê Mận cũng mong muốn làm sao khi mình cất lên tiếng hát cũng chinh phục được mọi người. Vì thế, tiêu chí lựa chọn 9 ca khúc cho "Lời quê" cũng là những bài hát rất gần gũi, thân thương, mà Lê Mận yêu thích nhất. "Lời quê" như một bức tranh yên bình của miền quê yêu dấu: con sông nước xanh trong, thơ mộng ghi dấu một tình yêu sâu đậm của "Sông quê", giếng nước trong vắt, thân thuộc với hình ảnh gầu tre, nhành khế của "Giếng quê", hay con sông Cầu lơ thơ nước chảy đôi bờ với lũ trẻ mục đồng khỏa nước giữa trưa hè trong "Lội dòng sông quê"... Đặc biệt, Lê Mận rất yêu thích ca khúc mới "Một câu hò sông Hương" của Trung tướng, nhà văn Hữu Ước vì rất có hồn và thấm đẫm chất dân ca. Lê Mận luôn hóa thân, thấy như mình là cô gái trong nhạc phẩm đó, để mỗi lần hát đều thể hiện bằng tất cả những xúc cảm và rung động chân thành. </FONT></P>
+<P><I><FONT size=2>PV: Đã có không ít lời khen dành cho Lê Mận với "Một câu hò sông Hương" vì sự thể hiện rất thành công. Cơ duyên nào đã đưa Lê Mận lựa chọn ca khúc này?</FONT></I></P>
+<P><FONT size=2>Ca sĩ Bùi Lê Mận: Trước khi album "Lời quê" ra đời một tuần, Lê Mận mới biết đến ca khúc "Một câu hò sông Hương" của Trung tướng, nhà văn Hữu Ước. Ngay lập tức, Lê Mận loại bớt một số ca khúc đã lựa chọn, để thay thế bằng ca khúc này. Để hiểu sâu về bài hát, giúp cho việc thể hiện, Lê Mận đã xin số máy của Trung tướng, nhà văn Hữu Ước, liên lạc đề nghị được hát ca khúc của anh và trao đổi với anh về cách thể hiện. Nhưng vì Trung tướng, nhà văn Hữu Ước quá bận rộn, nên Lê Mận mới chỉ được trao đổi với tác giả qua điện thoại và Lê Mận phải tự tìm hiểu nội dung bài hát để có thể diễn tả đúng tâm sự mà tác giả gửi gắm. Thế mạnh của Lê Mận khi thể hiện ca khúc này là chất giọng miền Trung, nên cách phát âm chuẩn ca từ trong bài hát không quá khó, cùng với sự rung động sâu sắc đã giúp Lê Mận lột tả thành công "Một câu hò sông Hương" bằng một không gian âm nhạc mới mẻ, trong cách phối khí làm bật lên âm hưởng dân ca 3 miền với lối hát giản dị, gần gũi, tạo được dấu ấn riêng, khác biệt với những người đã từng thể hiện ca khúc này.</FONT></P>
+<P><FONT size=2>Có thể nói là Lê Mận đã may mắn khi gặp được bài hát có nội dung sâu sắc, hợp với chất giọng và lại thuộc dòng nhạc mà Lê Mận vốn đam mê. Vì thế, Lê Mận muốn được nói lời cảm ơn Trung tướng, nhà văn Hữu Ước khi đã sáng tác một ca khúc đằm thắm, sâu lắng trong từng nốt nhạc với ca từ đẹp như "Một câu hò sông Hương" để Lê Mận được thể hiện. </FONT></P>
+<P><FONT size=2><B><I>PV:</I></B><I> Sau Sao Mai 2009, trở thành một người nổi tiếng, Lê Mận có cảm thấy bị áp lực khi cuộc sống luôn bị dư luận "săm soi", bình luận?</I></FONT></P>
+<P><FONT size=2><B>Ca sĩ Bùi Lê Mận:</B> Là người của công chúng nên nhiều khi cũng phải biết tiết chế từ những điều nhỏ nhặt trong cuộc sống. Hồi mới đoạt giải, biết tính Lê Mận khá bộc trực, nên thầy An Thuyên đã dặn dò: Giờ đây, đã là người của công chúng, con phải nhớ nói cười nhỏ nhẹ hơn, chứ đừng quá tự nhiên như trước (cười). Khi đã được mọi người biết đến, cũng như làm dâu trăm họ, phải chấp nhận cả những lời khen-chê lẫn tốt-xấu. Nếu là lời khen thì mình cũng cần xem lại đã đúng chưa, để phát huy, ngược lại, với những lời chê bai, nói xấu, cũng phải chắt lọc: nếu đúng thì tiếp thu, còn nếu không đúng thì cũng hiểu rằng, xã hội có nhiều "gu" khác nhau nên có thể mình chỉ hợp với một số đông này mà không thích hợp với một số đông khác, nên cũng không buồn mà tự tin đi lên bằng đôi chân của chính mình. </FONT></P>
+<P><FONT size=2><B><I>PV: </I></B><I>Nhiều nghệ sĩ khi bắt đầu có chút danh vọng, thường kiếm cho mình một nghệ danh "đẹp" hơn. Nhưng Lê Mận thì vẫn giữ cái tên rất giản dị?</I></FONT></P>
+<P><FONT size=2><B>Ca sĩ Bùi Lê Mận:</B> Các ca sĩ khác lấy nghệ danh là phong cách của người ta, nhưng Lê Mận lại vẫn thích giữ cái tên gốc mà cha mẹ đã đặt cho. Lê Mận rất vui và hạnh phúc khi được gọi tên thật, chứ không muốn phải ngượng ngùng khi bị gọi một cái tên không thuộc về mình.</FONT></P>
+<P><I><FONT size=2>PV: <B>Lê Mận có thể chia sẻ quan điểm về việc lựa chọn bạn trai được không?</B></FONT></I></P>
+<P>
+<TABLE style="WIDTH: 20px; HEIGHT: 20px" border=0 rules=none cellSpacing=2 cellPadding=0 frame=void align=center>
+<TBODY>
+<TR>
+<TD><IMG border=0 src="http://vnca.cand.com.vn/Uploaded_VNCA/thuydt1/thuydt1/6_ca2307-450.jpg"></TD></TR>
+<TR>
+<TD><FONT color=#808080>Ca sĩ Lê Mận hát một ca khúc trong chương trình “Giai điệu bạn bè” sẽ phát sóng trên ANTV.</FONT></TD></TR></TBODY></TABLE></P>
+<P><FONT size=2><B>Ca sĩ Bùi Lê Mận: </B>Rất đơn giản: Đó là người có công ăn việc làm ổn định, biết lo cho cuộc sống gia đình, có nhân cách và có đạo đức. Còn về hình thức, trời cho thế nào thì nhận thế, chứ Lê Mận không quan trọng là phải tìm người chồng có hình thức, vì Lê Mận nghĩ, chồng đẹp dễ là của...người ta (cười).</FONT></P>
+<P><FONT size=2><B><I>PV:</I></B><I> Thế mà dư luận đồn rằng, Lê Mận thường chọn "đối tượng" phải là đại gia, hay doanh nhân Việt kiều?</I></FONT></P>
+<P><FONT size=2><B>Ca sĩ Bùi Lê Mận:</B> Có lấy được đại gia hay không là do duyên phận chứ không thể chọn lựa mà được. Còn với Lê Mận, không quan trọng là có lấy chồng đại gia hay không, mà điều quan trọng phải là người có đạo đức. Còn nếu gặp một người vừa có tài, vừa có đức thì quả là điều mà Thượng đế ban tặng. Nếu dựa vào đại gia như tin đồn, thì sao hiện giờ, Lê Mận vẫn ở nhà thuê và chưa có ôtô riêng? (cười)</FONT></P>
+<P><FONT size=2><B><I>PV: </I></B><I>Có phải giờ đây, Lê Mận đã tự lập vững vàng nên mới có quan điểm đó?</I></FONT></P>
+<P><FONT size=2><B>Ca sĩ Bùi Lê Mận:</B> Hiện giờ, thu nhập của Lê Mận không quá lớn, nhưng cũng đủ để đảm đang lo được cho gia đình, nên không cần phải lấy một người chồng giàu có mà không yêu. Lê Mận chỉ muốn tự làm ra đồng tiền thì cuộc sống mới có ý nghĩa, thay vì là sử dụng tiền của người khác. </FONT></P>
+<P><FONT size=2><B><I>PV:</I></B><I> Không ít cô gái chỉ cần có sắc đẹp hoặc một chút tài năng là đã tìm một đại gia để "chống lưng", còn Lê Mận, có cả tài lẫn sắc, chắc chắn nhiều người theo đuổi mà lại không …?</I></FONT></P>
+<P><FONT size=2><B>Ca sĩ Bùi Lê Mận: </B>Mỗi người một tính cách. Từ bé Lê Mận đã thích lao động, yêu tự do, không muốn dựa dẫm vào người khác để phát triển kinh tế hay tiến thân. Lê Mận quan niệm là không thể làm hài lòng người khác để lấy danh tiếng. Một khi đã phụ thuộc thì tư duy sẽ không năng động, càng không thể phát triển được sự nghiệp. Hơn nữa, Lê Mận muốn một cuộc sống có những nguyên tắc riêng để sau này, khi có gia đình thì con cái còn nhìn vào và học theo. </FONT></P>
+<P><FONT size=2><B><I>PV:</I></B><I> Lê Mận khá thân thiết với Đăng Thuật, một ca sĩ đồng hương và có giọng hát ngọt ngào, quyến rũ. Từng có lúc, nhiều người đặt câu hỏi khi thấy 2 người rất thân thiết?</I></FONT></P>
+<P><FONT size=2><B>Ca sĩ Bùi Lê Mận (cười):</B> Lê Mận quí anh Đăng Thuật như một người anh, vì nhà anh ấy ở rất gần nhà Lê Mận, 2 anh em biết nhau từ lâu, lại cùng nghề và nhất là, tính cách của anh Đăng Thuật rất dễ chịu, rất đàn anh, sẵn sàng giúp đỡ khi được nhờ. Chứ tình cảm của 2 anh em hoàn toàn trong sáng, cũng như với ca sĩ Xuân Hảo vậy, dù đã có lúc, có người tưởng giữa Lê Mận và Xuân Hảo "có gì". </FONT></P>
+<P><FONT size=2><B><I>PV: </I></B><I>Nhìn lại một chặng đường sự nghiệp vừa qua, Lê Mận có thấy mình được gì và mất gì?</I></FONT></P>
+<P><FONT size=2><B>Ca sĩ Bùi Lê Mận:</B> Lê Mận thấy mình được nhiều chứ: Được tôi luyện về tính cách để trưởng thành hơn trong các mối quan hệ. Tuy không phải là ngôi sao lớn, nhưng Lê Mận cũng biết được vị trí của mình trong xã hội và được nhiều người biết đến. Lê Mận rất hạnh phúc với điều đó và muốn được nói lời cảm ơn tới bố mẹ, các thầy cô cũng như những người đã yêu mến giọng hát của Lê Mận, cho Lê Mận có được ngày hôm nay.&nbsp; Còn mất gì ư? Không thể gọi là mất vì nghe có vẻ hơi nặng nề, mà chỉ là Lê Mận phải dành nhiều thời gian hơn mà thôi. </FONT></P>
+<P><FONT size=2><B><I>PV: </I></B><I>Lê Mận có thể chia sẻ với độc giả một chút về dự định tới đây của mình chứ?</I></FONT></P>
+<P><FONT size=2><B>Ca sĩ Bùi Lê Mận: </B>Từ nay đến cuối năm, Lê Mận rất bận rộn nên đến sau Tết, Lê Mận mới ra album thứ 2, tất nhiên là vẫn dòng nhạc dân gian mà Lê Mận yêu thích. Tuy nhiên, tên album và các ca khúc lựa chọn vẫn là điều bí mật. Cũng vì bận rộn nên việc học hành vẫn còn gác lại, nhưng chắc chắn là Lê Mận sẽ phải học tiếp để nâng cao khả năng, xứng đáng với tấm lòng yêu mến mà công chúng dành cho Lê Mận thời gian qua. </FONT></P>
+<P><FONT size=2><B><I>PV:</I></B><I> Cảm ơn và chúc Lê Mận tiếp tục gặt hái nhiều thành công trong sự nghiệp cũng như giữ mãi được vẻ đẹp, sự trẻ trung như bây giờ!</I></FONT><img src='/Images/reddot.gif'></P></span></DIV>
+																	</TD>
+																</TR>
+															</TABLE>
+															<BR>
+														</TD>
+													</TR>
+													<TR>
+														<TD style="HEIGHT: 40px" align="center">
+															<P align="center">
+																<TABLE id="Table10" height="19" cellSpacing="0" cellPadding="0" width="780" border="0">
+																	<TR>
+																		<TD align="center" width="780">
+																			<DIV align="right"><span id="lbAuthor2" class="source">Thanh Hằng (thực hiện)</span><br>
+</DIV>
+																		</TD>
+																	</TR>
+																</TABLE>
+															</P>
+														</TD>
+													</TR>
+													<TR>
+														<TD vAlign="top" align="center">
+															<TABLE cellSpacing="0" cellPadding="3" width="780" bgColor="#faf5ed" border="0">
+																<TR>
+																	<TD></TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR class="event">
+														<TD style="PADDING-BOTTOM: 10px" align="center"><div id="pnEvent">
+	
+																
+															
+</div></TD>
+													</TR>
+													<TR>
+														<TD align="center">
+															<TABLE id="Table8" height="19" cellSpacing="0" cellPadding="0" width="780" bgColor="#f1f1f1"
+																border="0">
+																<TR>
+																	<TD align="center" width="580">
+																		<DIV align="center"><IMG height="12" alt="" hspace="4" src="/images/temp.gif" width="14" border="0">
+																			<a id="lnkAddToFavorite2" href="javascript:addFavouriteStory('160184','“Lời quê” trữ tình, sẽ lan tỏa xa','/vi-VN/nguoinoitieng/2011/11/160184.cand'); alert('Tin đã được thêm vào danh sách');">Lưu lại để đọc</a>&nbsp;|<IMG height="12" alt="" hspace="4" src="/images/email.gif" width="14" border="0"><A href='javascript:showDialog("/InfoPages/Email4Friend.aspx?new_url=http://www.cand.com.vn/vi-VN/nguoinoitieng/2011/11/160184.cand",450,350)'  Email4Friend.aspxnew_url='http:/"' InfoPages new_url='http:/"' Email4Friend.aspx  Email4Friend.aspx new_url='http:/"'???????????????????????????????????????????????????????>Email 
+																				của bài này</A> |<IMG height="12" alt="" hspace="4" src="/images/contact.gif" width="14" border="0"><A href='javascript:showDialog("/InfoPages/Republish.aspx?ID=160184",550,350)'  InfoPages Republish.aspxID Republish.aspx  ID Republish.aspx Republish.aspx??????????????????????????????????????????????????????????????????????????????????????????????????????????????>Liên 
+																				hệ đăng bài này</A> |<IMG height="12" alt="" hspace="4" src="/images/print.gif" width="14" border="0"><A href='/News/PrintView.aspx?ID=160184' target=_blank >In 
+																				bài này</A>&nbsp;</A>&nbsp;
+																		</DIV>
+																	</TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR>
+														<TD style="PADDING-BOTTOM: 6px" align="center"></TD>
+													</TR>
+													<TR>
+														<TD style="HEIGHT: 42px" align="center">
+															<TABLE id="Table9" height="19" cellSpacing="0" cellPadding="0" width="780" border="0">
+																<TR>
+																	<TD align="center" width="780">
+																		<DIV align="center">
+<p>
+	<div id="Feedback1_pnlContent">
+	
+		<TABLE id="Table3" cellSpacing="0" cellPadding="0" width="100%" align="center" border="0">
+			<TR height="4">
+				<TD height="4">
+					<SCRIPT language="JavaScript1.2" src="/jscripts/vietuni.js" type="text/javascript"></SCRIPT>
+					<SCRIPT language="JavaScript1.2"> setTypingMode(4); </SCRIPT>
+					<SCRIPT language="JavaScript">
+					function gf(p_el) {	}function lf(p_el) {	}
+					</SCRIPT>
+				</TD>
+			</TR>
+			<TR>
+				<TD vAlign="top">
+					<TABLE id="Table5" cellSpacing="0" cellPadding="0" width="100%" bgColor="#f1f1f1" border="0">
+						<TR>
+							<TD>
+								<DIV align="center">
+									<TABLE id="Table6" cellSpacing="0" cellPadding="0" width="100%" border="0">
+										<TR>
+											<TD>
+												<TABLE id="Table7" cellSpacing="0" cellPadding="0" width="100%" bgColor="#f1f1f1" border="0">
+													<TR height="24">
+														<TD align="center" bgColor="#407080"><B><FONT color="white">Ý kiến của bạn</FONT></B></TD>
+													</TR>
+													<TR>
+														<TD>
+															<TABLE id="Table8" cellSpacing="0" cellPadding="1" width="100%" border="0">
+																<TR>
+																	<TD class="TitleFront" align="right" width="100">Tên của bạn:</TD>
+																	<TD>
+																		<input name="Feedback1$txtName" type="text" id="Feedback1_txtName" class="tbflat" onkeyup="telexingVietUC(this,event);" />
+																		&nbsp;</TD>
+																<TR>
+																	<TD class="TitleFront" align="right" width="100">Email:</TD>
+																	<TD>
+																		<input name="Feedback1$txtEmail" type="text" id="Feedback1_txtEmail" class="tbflat" />
+																		
+																		
+																		</TD>
+																</TR>
+																<TR>
+																	<TD class="TitleFront" align="right" width="100">Tiêu đề:</TD>
+																	<TD>
+																		<input name="Feedback1$txtHeadLine" type="text" id="Feedback1_txtHeadLine" class="tbflat" onkeyup="telexingVietUC(this,event);" />
+																		&nbsp;</TD>
+																</TR>
+																<TR>
+																	<TD style="PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px" align="right" colSpan="2">
+																		<INPUT onfocus="setTypingMode(0);" type="radio" value="OFF" name="switch">Tắt bộ gõ
+																		<INPUT onfocus="setTypingMode(1)" type="radio" CHECKED value="TELEX" name="switch">Tự động
+																		<INPUT onfocus="setTypingMode(1)" type="radio" value="TELEX" name="switch">Telex
+																		<INPUT onfocus="setTypingMode(2)" type="radio" value="VNI" name="switch">VNI <INPUT onfocus="setTypingMode(3)" type="radio" value="VIQR" name="switch">VIQR</TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR>
+														<TD style="PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px" colSpan="2">
+															<textarea name="Feedback1$txtContent" rows="8" cols="20" id="Feedback1_txtContent" class="tbflat1" onkeyup="telexingVietUC(this,event);"></textarea>
+															<span id="Feedback1_lblID"><input type=hidden name=ID value=160184></span>
+															&nbsp;</TD>
+													</TR>
+												</TABLE>
+												</TD>
+										</TR>
+										<TR>
+											<TD style="PADDING-RIGHT: 5px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px">
+												<TABLE width="100%">
+													<TR>
+														<TD><IMG style="CURSOR: hand" onclick="window.scrollTo(0,0)" src="/Images/Gotop.gif" border="0">
+														</TD>
+														<TD align="right">
+															<input type="image" name="Feedback1$btnSend" id="Feedback1_btnSend" DESIGNTIMEDRAGDROP="89" src="/Images/btnSend55x24.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;Feedback1$btnSend&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" border="0" /></TD>
+													</TR>
+												</TABLE>
+											</TD>
+										</TR>
+									</TABLE>
+								</DIV>
+							</TD>
+						</TR>
+					</TABLE>
+				</TD>
+			</TR>
+		</TABLE>
+	
+</div></p>
+</DIV>
+																	</TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR>
+														<TD align="center">
+															<TABLE id="Table7" cellSpacing="0" cellPadding="0" width="780" border="0">
+																<TR>
+																	<TD style="HEIGHT: 18px"></TD>
+																	<TD style="HEIGHT: 18px" vAlign="top" align="right"></TD>
+																</TR>
+																<TR>
+																	<TD style="HEIGHT: 18px"><p align=left><input type=button style="width:140; background-Color: white; color: #003143; font-size: 11px; font-family: Arial, Verdana, Tahoma; Cursor:hand; Border:none; Font-Weight:bold" value="Xem bài theo ngày tháng" onclick="popUpCalendar(this, this, 'dd-mm-yyyy',188, 'vi')"><img src='/Images/detail_2.gif'></p></TD>
+																	<TD style="HEIGHT: 18px" vAlign="top" align="right"><a id="AnotherStory" href="/vi-VN/nguoinoitieng.cand"><b>Xem tiếp</b>&nbsp;<img src='/images/detail.gif' border=0></a></TD>
+																</TR>
+																<TR>
+																	<TD colSpan="2"></TD>
+																</TR>
+																<TR>
+																	<TD colSpan="2"><b>Các bài đã đăng:</b><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159757.cand">Lê Cát Trọng Lý du ca những giấc mơ đời</a> <span class='time_Zone'>(13/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="159305.cand">Nhạc sĩ Lê Minh Sơn vẫn mơ về nàng Dulcinea xinh đẹp</a> <span class='time_Zone'>(05/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="158914.cand">Nhạc sĩ Hoàng Hiệp "lòng vẫn nhớ về Hà Nội"</a> <span class='time_Zone'>(30/10)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="158088.cand">NSND Thế Anh: "Trung úy Phương" vẫn hát</a> <span class='time_Zone'>(15/10)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="157749.cand">Xuân Hinh "vui thì làm, không vui thì thôi..."</a> <span class='time_Zone'>(10/10)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="157684.cand">Phẩm tính nghệ sĩ của một nhà giáo</a> <span class='time_Zone'>(09/10)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="157380.cand">Thái Hoà: “Cái gì tới thì cứ nắm lấy và làm hết mình”</a> <span class='time_Zone'>(04/10)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="157269.cand">Còn mãi "Tiếng vọng sông Ngân"</a> <span class='time_Zone'>(02/10)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="156368.cand">Đàm Khánh Phương - Một thi sĩ tài tử</a> <span class='time_Zone'>(18/09)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="156219.cand">Lặng lẽ nghe danh hài Mỹ Chi kể chuyện đời</a> <span class='time_Zone'>(15/09)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="155763.cand">NSƯT Nguyễn Thước điềm tĩnh trước những "sóng gió"</a> <span class='time_Zone'>(07/09)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="155765.cand">Tử tế Bùi Bài Bình</a> <span class='time_Zone'>(05/09)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="155602.cand">Bích Khê: Rồi những mùa thu vô hạn thương…</a> <span class='time_Zone'>(04/09)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="155213.cand">Giáo sư toán học Vũ Hà Văn: "Chỉ lo thiếu người làm toán giỏi" </a> <span class='time_Zone'>(28/08)</span><BR></TD>
+																</TR>
+																<TR>
+																	<TD style="HEIGHT: 2px" colSpan="2">&nbsp;</TD>
+																</TR>
+																<TR>
+																	<TD colSpan="2">
+																		<HR color="lightgrey" SIZE="1">
+																		<TABLE id="Table3" cellSpacing="0" cellPadding="0" width="100%" border="0">
+																			<TR>
+																				<TD style="WIDTH: 465px" vAlign="top" align="left" width="465"></TD>
+																				<TD align="right"><FONT face="Verdana"><IMG style="CURSOR: hand" onclick="window.scrollTo(0,0)" alt="" src="/Images/Gotop.gif"
+																							stye="Cursor:hand"></FONT></TD>
+																			</TR>
+																		</TABLE>
+																	</TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR>
+														<TD align="center" height="5">
+															<P>&nbsp;</P>
+														</TD>
+													</TR>
+													<TR>
+														<TD></TD>
+													</TR>
+												</TBODY>
+											</table>
+										</TD>
+										<TD class="leftright_columms" vAlign="top" width="200"><TABLE cellSpacing="0" cellPadding="0" width="100%" border="0">
+												<TR>
+													<TD bgColor="#7bb6c8">
+<script language="javascript" src="/JScripts/vietuni.js"></script>
+<script>setTypingMode(4);</script>
+<table width="160" border="0" cellspacing="0" cellpadding="2" bgcolor="#7ab4c7" style="HEIGHT: 20px">
+	<tr style="HEIGHT:30px">
+		<td align="left">
+			<font color="#7ab4c7" style="PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px">
+				<input class="tbflat2" type="text" name="SearchPhrase" onkeyup="telexingVietUC(this,event);"
+					onfocus="if (this.value=='Tìm kiếm') this.value='';" onblur="if (this.value=='') this.value='Tìm kiếm';"
+					border="0" value='Tìm kiếm' size="20"></font>
+		</td>
+		<TD vAlign="middle" align="left">
+			<input type="image" name="Searches1$btnSubmit" id="Searches1_btnSubmit" title="Tìm kiếm" src="/Images/content_searhc_button19x18.gif" border="0" /></TD>
+	</tr>
+</table>
+<INPUT type="hidden" value="0" name="SearchMessage"> <INPUT type="hidden" value="phrase" name="andor">
+</TD>
+												</TR>
+												<TR>
+													<TD>
+</TD>
+												</TR>
+												<TR>
+													<TD>
+<TABLE id="Table1" cellSpacing="0" cellPadding="0" width="200" border="0">
+	
+	<TR>
+		<TD class="rightside_cell">
+			<DIV align="center">
+				
+<TABLE id="Table1" cellSpacing="0" cellPadding="0" width="100%" border="1" style="BORDER-COLLAPSE:collapse" bordercolor="#9a9a9a">
+	<TR>
+		<TD vAlign="top">
+			<TABLE id="Table2" cellSpacing="0" cellPadding="0" width="100%" border="0">
+				<TBODY>
+					<TR height="20">
+						<TD height="20">
+							<img id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_imgBanner" src="/Images/top10_CANDONLINE_Title.gif" width="200" border="0" /></TD>
+					</TR>
+					<TR>
+						<TD style="PADDING-TOP: 2px">
+							<DIV style="OVERFLOW-Y: auto; WIDTH: 200px; HEIGHT: 250px">
+								
+										<table width="100%" border="0" cellspacing="2" cellpadding="0">
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl01_lblSTT"><b>1.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl01_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/bandoc/ykienbandoc/2011/11/160262.cand">"Miệng hùm" trên đường</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl02_lblSTT"><b>2.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl02_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/xahoi/2011/11/160255.cand">Hơn 3.500 lượt cơ sở vi phạm các quy định về an toàn PCCC</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl03_lblSTT"><b>3.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl03_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/xahoi/2011/11/160256.cand">Đồng loạt kiểm tra các DN, HTX container trên toàn quốc</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl04_lblSTT"><b>4.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl04_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/xahoi/2011/11/160257.cand">Qua 2 lần thử nghiệm phân làn phương tiện giao thông</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl05_lblSTT"><b>5.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl05_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/kinhte/2011/11/160254.cand">Bắt vụ vận chuyển gần 300kg pháo nổ</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl06_lblSTT"><b>6.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl06_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/xahoi/2011/11/160261.cand">Miền Bắc nhiệt độ giảm mạnh</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl07_lblSTT"><b>7.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl07_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/kinhte/2011/11/160260.cand">Diễn đàn đối thoại kinh tế Việt Nam - Kansai lần thứ 5</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl08_lblSTT"><b>8.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl08_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/xahoi/2011/11/160259.cand">Ứng cứu tàu cùng 35 ngư dân gặp nạn trên biển</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl09_lblSTT"><b>9.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl09_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/khcn/2011/11/160258.cand">Vẫn khát nhân lực Công nghệ thông tin</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl10_lblSTT"><b>10.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl10_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/trongmatdan/2011/11/160263.cand">Quang Kim, điểm sáng ở vùng biên</a></td>
+										</tr>
+									
+			</TABLE>
+			</DIV>
+		</TD>
+	</TR>
+	<TR>
+		<TD height="7">
+			<img src="/images/top10_bottom_back.gif" width="200"></TD>
+	</TR>
+</TABLE>
+</TD></TR></TBODY></TABLE>
+</DIV>
+		</TD>
+	</TR>
+	<TR>
+		<TD class="rightside_cell"></TD>
+	</TR>
+	<TR>
+		<TD style="HEIGHT: 0px">
+			
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<TD style="PADDING-BOTTOM: 2px;" align="center" bgColor="#ac051f" height="25">
+					<span id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl00_lbTieudiem" class="tieudiem_title">TIÊU ĐIỂM</span></TD>
+			</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="155763" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								NSƯT Nguyễn Thước điềm tĩnh trước những "sóng gió"
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								5:08, 07/09/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Ngay lúc cay đắng nhất, Nguyễn Thước vẫn bình tĩnh hạ hỏa sự nóng giận của một số người thân, đồng nghiệp, bạn bè, cứ khăng khăng đòi làm cho ra nhẽ, để mọi chuyện được êm xuôi, vì bất cứ một sự đình đám bề nổi nào, cũng đều không hợp với giới điện ảnh tài liệu, những người luôn định ra tiêu chí, tôn thờ sự thật như nó vốn có, chứ không phải cái sự thật mà người khác muốn được tung hô. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2011/9/155763.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'155763', 'inline');"
+											onMouseOut="setVisibility(event,'155763', 'none');" >
+											NSƯT Nguyễn Thước điềm tĩnh trước những "sóng gió"
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2011/9/155763.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl01_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\thuydt1/nguyenthuoc2233-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id155033" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								NSƯT Phạm Cường: "Chủ tịch tỉnh" ngại ngùng trước đám đông
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								3:31, 25/08/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Hơn 20 năm dấn thân vào đời nghệ sỹ, dẫu đã thuộc hàng "vua biết mặt chúa biết tên", được định giá thù lao trong top đầu của hàng "sao" phim truyền hình, Phạm Cường vẫn tự trào, mình chưa bỏ được tính nhát và thói quen e dè trước đám đông. Chỉ lúc đứng trên sân khấu trước hàng nghìn người, hay trần mình tại trường quay, Phạm Cường mới thấy yên tâm là mình, tự tin được làm mình như mình vốn có.
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2011/8/155033.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id155033', 'inline');"
+											onMouseOut="setVisibility(event,'id155033', 'none');" >
+											NSƯT Phạm Cường: "Chủ tịch tỉnh" ngại ngùng trước đám đông
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2011/8/155033.cand'>
+											NSƯT Phạm Cường: "Chủ tịch tỉnh" ngại ngùng trước đám đông
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2011/8/155033.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl02_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTGCT\hoabt2/phamcuong2220-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="154452" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								NSND Trọng Khôi: “Nghị Hách” về hưu
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								2:59, 15/08/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Thấy ông nội xuất hiện trong bộ phim “Huyền sử thiên đô” đang trình chiếu trên kênh VTV3, cậu cháu đích tôn ba tuổi rưỡi hết nhìn màn hình vô tuyến lại ngẩn ra ngắm ông, mãi không thôi xuýt xoa trầm trồ: “Sao ông chui vào trong tivi được thế?”. Ông “nghị Hách” Trọng Khôi chỉ cười, niềm hạnh phúc lan tỏa khắp ngôi nhà rộng rãi, được thiết kế khá lãng mạn nhìn ra mặt hồ Ba Mẫu.
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2011/8/154452.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'154452', 'inline');"
+											onMouseOut="setVisibility(event,'154452', 'none');" >
+											NSND Trọng Khôi: “Nghị Hách” về hưu
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2011/8/154452.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl03_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTGCT\hoabt2/trongkhoi2210-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id153594" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								NSƯT Minh Hằng: Yêu đời và yêu nghề
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								3:47, 01/08/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								NSƯT Minh Hằng là một người yêu nghề. Yêu nghề ở chị là cách làm việc chuyên nghiệp, nghiêm túc. Và sẵn sàng tỏ thái độ quyết liệt với những điều chướng tai, gai mắt. Chị không thể chịu được sự vô trách nhiệm, cẩu thả trong công việc.
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2011/8/153594.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id153594', 'inline');"
+											onMouseOut="setVisibility(event,'id153594', 'none');" >
+											NSƯT Minh Hằng: Yêu đời và yêu nghề
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2011/8/153594.cand'>
+											NSƯT Minh Hằng: Yêu đời và yêu nghề
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2011/8/153594.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl04_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTGCT\hoabt2/minhhang1296-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="150478" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Nghệ sĩ Quang Thắng: Làng hài cũng tử tế với nhau lắm chứ!
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								4:56, 08/06/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Không có dáng vẻ ngôi sao, cũng không quen hành xử theo cách của người nổi tiếng, Quang Thắng ngoài đời cũng y như bản thân anh trong các tiểu phẩm gây cười xuất hiện trên màn ảnh truyền hình: Thô mộc, chất phác, hồn nhiên và rất thực tế...
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2011/6/150478.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'150478', 'inline');"
+											onMouseOut="setVisibility(event,'150478', 'none');" >
+											Nghệ sĩ Quang Thắng: Làng hài cũng tử tế với nhau lắm chứ!
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2011/6/150478.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl05_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\thuydt1/quang2142-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id144755" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								NSND Thu Hiền: Níu đời mình vào tiếng hát
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								2:30, 21/02/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Trong số các ca sĩ hàng đầu của Việt Nam, có lẽ ít ai có số lượng băng đĩa nhiều như bà. 49 năm đi hát, bà đã có một số lượng băng đĩa khá lớn, 49 đĩa. Bà quan niệm làm nghề, đến với công chúng bằng tiếng hát, chứ không phải bằng những phát ngôn gây sốc hay những scandal như một số ca sĩ trẻ bây giờ. Chỉ tiếng hát mới neo người nghệ sĩ lại với cuộc đời, dù thời gian có thể làm cho con người già đi, mỏi mệt hơn.
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2011/2/144755.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id144755', 'inline');"
+											onMouseOut="setVisibility(event,'id144755', 'none');" >
+											NSND Thu Hiền: Níu đời mình vào tiếng hát
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2011/2/144755.cand'>
+											NSND Thu Hiền: Níu đời mình vào tiếng hát
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2011/2/144755.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl06_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTGCT\hoabt1/thuhien2035-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="143824" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Hồng Nhung: "Giữa tôi và Trịnh chắc chắn là tình yêu"
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								1:04, 30/01/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Diva nhạc nhẹ có một năm thành công và đang mong chờ một ngày được hoàn thành sứ mệnh thiêng liêng nhất của người phụ nữ. Tuy vậy, khi nhắc đến Trịnh Công Sơn, giọng chị vẫn đầy tha thiết. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2011/1/143824.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'143824', 'inline');"
+											onMouseOut="setVisibility(event,'143824', 'none');" >
+											Hồng Nhung: "Giữa tôi và Trịnh chắc chắn là tình yêu"
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2011/1/143824.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl07_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\anhtu1\anhtu1\anhtu1\anhtu1/hongnhung30-1-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id140496" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								NSƯT Lan Hương: “Hạnh phúc là biết hy sinh”
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								3:38, 25/11/2010
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Ở chị có sự nền nã và linh hoạt, dịu dàng và thông minh, kiên nhẫn và quyết liệt. Trò chuyện lần đầu với Lan Hương nhưng đã thấy thân quen, dường như đã gặp chị rất nhiều lần trước đây, trong những vai chị đóng...
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/11/140496.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id140496', 'inline');"
+											onMouseOut="setVisibility(event,'id140496', 'none');" >
+											NSƯT Lan Hương: “Hạnh phúc là biết hy sinh”
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/11/140496.cand'>
+											NSƯT Lan Hương: “Hạnh phúc là biết hy sinh”
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/11/140496.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl08_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\hoabt1/lanhuong1947-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="137944" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								NSƯT Bích Việt: Bình yên sau giông bão
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								3:15, 04/10/2010
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								"Người ta có những 40 năm cho một cuộc hôn nhân hạnh phúc. Cô bây giờ đã được 10 năm, với cuộc hôn nhân thứ ba… Biết đâu là chốn bình yên... Lâu rồi cô không nhớ về những ký ức, hay ký ức đã trở thành một phần đời sống của cô… dù buồn, dù vui, thì nó cũng trở thành máu thịt của mình rồi…", NSƯT Bích Việt tâm sự.
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/10/137944.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'137944', 'inline');"
+											onMouseOut="setVisibility(event,'137944', 'none');" >
+											NSƯT Bích Việt: Bình yên sau giông bão
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/10/137944.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl09_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\hoabt1/bichviet1895-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id137624" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Ca sĩ Mỹ Linh: Không có cuộc hôn nhân nào đơn giản cả
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								2:51, 27/09/2010
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								"Gia đình tôi cũng như mọi gia đình khác, cũng có những lúc vui, buồn hay có những khó khăn… Chúng tôi đang sống cho mình và gia đình mình chứ không phải đang diễn cho mọi người xem nên giả sử như áp lực nào đó thì cũng không bao giờ từ phía công chúng cả", ca sĩ Mỹ Linh chia sẻ.
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/9/137624.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id137624', 'inline');"
+											onMouseOut="setVisibility(event,'id137624', 'none');" >
+											Ca sĩ Mỹ Linh: Không có cuộc hôn nhân nào đơn giản cả
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/9/137624.cand'>
+											Ca sĩ Mỹ Linh: Không có cuộc hôn nhân nào đơn giản cả
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/9/137624.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl10_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\hoabt1/mylinh1888-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="135527" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								NSƯT Thu Hà và những u uẩn của nhan sắc
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								4:00, 17/08/2010
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Chị vẫn đẹp một cách lạ thường. Dẫu năm tháng và những thăng trầm của cuộc sống đã dội vào cuộc đời chị, thì Thu Hà vẫn mang gương mặt không có tì vết của thời gian. Chị đang trở lại sân khấu, một sự trở lại đầy hứa hẹn cho những vai diễn mới với những nhịp đập đang hồi sinh trong tâm hồn chị…
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/8/135527.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'135527', 'inline');"
+											onMouseOut="setVisibility(event,'135527', 'none');" >
+											NSƯT Thu Hà và những u uẩn của nhan sắc
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/8/135527.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl11_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTG\hoabt1/thuha1847-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id134240" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								“Thị Nở” Đức Lưu từng là người yêu của thi sĩ Chính Hữu
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								5:07, 22/07/2010
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Yêu nhau trong chiến trường, mối tình giữa Đức Lưu và nhà thơ Chính Hữu kéo dài hơn 7 năm. Nhưng sự giận dữ của thi sĩ cùng cái tát nảy lửa đã chia cách 2 người mãi mãi. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/7/134240.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id134240', 'inline');"
+											onMouseOut="setVisibility(event,'id134240', 'none');" >
+											“Thị Nở” Đức Lưu từng là người yêu của thi sĩ Chính Hữu
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/7/134240.cand'>
+											“Thị Nở” Đức Lưu từng là người yêu của thi sĩ Chính Hữu
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/7/134240.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl12_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\anhtu1\anhtu1\anhtu1/Duc-Luu1821-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="131709" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Khánh Huyền: Mùa thu, cây cầu đã gãy
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								3:21, 02/06/2010
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Đã có thời gian, Khánh Huyền là hình mẫu phụ nữ mà nhiều cô gái Hà Nội mơ ước. Một sự nghiệp vững vàng, với những vai diễn xuất sắc. Có việc làm ổn định ở một Nhà hát của Nhà nước (thứ mà nhiều bậc phụ huynh bây giờ vẫn coi như một chuẩn mực của sự nghiệp). Có chồng làm doanh nhân thành đạt. Và có hai đứa con ngoan…Thế nhưng, chị đột ngột rời Hà Nội, bỏ lại tất cả, bỏ lại cả công việc của Nhà hát, với tất cả sự ngỡ ngàng của mọi người. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/6/131709.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'131709', 'inline');"
+											onMouseOut="setVisibility(event,'131709', 'none');" >
+											Khánh Huyền: Mùa thu, cây cầu đã gãy
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/6/131709.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl13_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTG\hoabt1/khanhhuyen1771-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id131630" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Siu Black: “Ly hôn - chuyện phải xảy ra như thế...”
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								8:42, 01/06/2010
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Con trai bị một toán cướp chém đứt gân tay, mặt khâu hơn hai mươi mũi, lại tự cắn đứt một phần ba lưỡi... Siu Black&nbsp; đã đi qua giai đoạn khó khăn ấy để trở thành một trong 3 thí sinh xuất sắc nhất của cuộc thi nhảy Bước nhảy hoàn vũ.
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/6/131630.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id131630', 'inline');"
+											onMouseOut="setVisibility(event,'id131630', 'none');" >
+											Siu Black: “Ly hôn - chuyện phải xảy ra như thế...”
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/6/131630.cand'>
+											Siu Black: “Ly hôn - chuyện phải xảy ra như thế...”
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/6/131630.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl14_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTG\hoabt1/siu1770-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="129742" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								NSND Bạch Diệp: Chuyện nghề và chuyện tình
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								11:29, 26/04/2010
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								“Ông là người rất tốt, tử tế mà giản dị. Lấy nhau được 3 tháng, hai vợ chồng dắt díu nhau đi ra Vịnh Hạ Long chơi. Nhưng cuộc hôn nhân này đúng là chỉ kéo dài 6 tháng. Lúc chia tay nhau ông ấy khóc, mình cũng khóc”, NSND Bạch Diệp kể về cuộc hôn nhân với nhà thơ Xuân Diệu. Bà kể ấn tượng của bà về Xuân Diệu là người lao động nghệ thuật vất vả cực nhọc. Hai người không sống được với nhau do “duyên số không thành”. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/4/129742.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'129742', 'inline');"
+											onMouseOut="setVisibility(event,'129742', 'none');" >
+											NSND Bạch Diệp: Chuyện nghề và chuyện tình
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/4/129742.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl15_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\anhtu1\anhtu1/bachdiep1734-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id128802" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Bình Minh: “Sự đơn thân và cái đói đã đánh gục tôi”
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								8:30, 09/04/2010
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								“Thuê căn nhà trọ 700 ngàn, gặp lúc ốm, nhà không có bếp, tôi phải gượng dậy mò ra ngoài ăn. Đụng ánh mắt bạn nhìn mình ái ngại vì thấy tôi ốm mà ăn bữa ăn quá đạm bạc, nước mắt tôi chảy ròng ròng...” – Người vừa ngồi ghế Giám đốc điều hành sân khấu Superbowl của bà bầu Hồng Vân vẫn chưa quên những ngày đầu bị Sài Gòn “làm khổ” và hóa ra là một tay nam nhi có tật... “mau nước mắt”...
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/4/128802.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id128802', 'inline');"
+											onMouseOut="setVisibility(event,'id128802', 'none');" >
+											Bình Minh: “Sự đơn thân và cái đói đã đánh gục tôi”
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/4/128802.cand'>
+											Bình Minh: “Sự đơn thân và cái đói đã đánh gục tôi”
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/4/128802.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl16_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\hoabt1/binhminh1717-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="126427" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Đạo diễn Lê Hoàng: "Vợ tôi là… Lê Thị Liên Hoan"
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								10:35, 18/02/2010
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Lê Hoàng là một trong số ít đạo diễn ở Việt Nam được gán với nhiều tính từ biểu lộ cảm xúc dữ dội: đanh đá, kiêu căng, ngoa ngoắt… và thích gây “sốc”. Nhưng đằng sau cái vẻ bề ngoài tưởng chừng gai góc và khó gần ấy là một tâm hồn nghệ sỹ tài hoa hóm hỉnh, một đức lang quân kiểu mẫu với suy nghĩ “dù phải vào bếp làm một người đàn bà đi chăng nữa thì vẫn là một ông chồng tuyệt vời”.
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/2/126427.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'126427', 'inline');"
+											onMouseOut="setVisibility(event,'126427', 'none');" >
+											Đạo diễn Lê Hoàng: "Vợ tôi là… Lê Thị Liên Hoan"
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/2/126427.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl17_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\anhtu1\anhtu1/lehoabg1667-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id125521" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Đặng Thái Sơn - danh cầm cô đơn
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								2:22, 25/01/2010
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								“Người không có gia đình như tôi, không phải chịu sức ép nào lên nghệ thuật. Cây đàn trở thành người bạn thân thiết nhất với mình” - nghệ sĩ piano Việt Nam nổi danh trên thế giới tâm sự.
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/1/125521.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id125521', 'inline');"
+											onMouseOut="setVisibility(event,'id125521', 'none');" >
+											Đặng Thái Sơn - danh cầm cô đơn
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/1/125521.cand'>
+											Đặng Thái Sơn - danh cầm cô đơn
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/1/125521.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl18_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\hoabt1/danhcam1643-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="125078" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Jennifer Phạm: "Hôn nhân với Quang Dũng có thể là vội vã"
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								4:37, 13/01/2010
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Gần đây tin đồn gia đình&nbsp; ca sĩ Quang Dũng và hoa hậu Jennifer Phạm gặp nhiều sóng gió. Sự xuất hiện một mình của Jennifer trong hàng loạt các sự kiện càng khiến tin đồn có vẻ... đúng. Thực hư ra sao?
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/1/125078.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'125078', 'inline');"
+											onMouseOut="setVisibility(event,'125078', 'none');" >
+											Jennifer Phạm: "Hôn nhân với Quang Dũng có thể là vội vã"
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2010/1/125078.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl19_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\hoabt1/jen1631-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id123789" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Phương Thanh: Cây xương rồng nở hoa
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								8:05, 15/12/2009
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Từ một giọng hát hoàn toàn bản năng trở thành một cá tính đặc biệt, Phương Thanh như một cây xương rồng tồn tại và nở hoa từ cằn cỗi.
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2009/12/123789.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id123789', 'inline');"
+											onMouseOut="setVisibility(event,'id123789', 'none');" >
+											Phương Thanh: Cây xương rồng nở hoa
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2009/12/123789.cand'>
+											Phương Thanh: Cây xương rồng nở hoa
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/nguoinoitieng/2009/12/123789.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl20_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\hoabt1/phuongthanh1602-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		</table>
+	
+</TD>
+	</TR>
+	<TR>
+		<TD class="rightside_cell"></TD>
+	</TR>
+	<tr>
+		<td>
+			
+		</td>
+	</tr>
+	<TR>
+		<TD class="rightside_cell" align="center"></TD>
+	</TR>
+</TABLE>
+</TD>
+												</TR>
+												<TR>
+													<TD></TD>
+												</TR>
+											</TABLE>
+										</TD>
+									</TR>
+								</TBODY>
+							</TABLE>
+						</TD>
+					</TR>
+					<TR>
+						<TD>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="leftright_columms">
+	<tr>
+		<td vAlign="bottom" align="left">
+			
+		</td>
+	</tr>
+	<tr>
+		<td class="c_right" bgcolor="#920000" height="25">
+			<div align="center">
+				<a href="http://www.cand.com.vn">Trang chủ </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;				
+				<a id="Footer_lnkANTG" href="http://antg.cand.com.vn">An ninh Thế giới </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkANTGCT" href="http://antgct.cand.com.vn">ANTG Cuối tháng </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkVNCA" href="http://vnca.cand.com.vn">Văn nghệ Công An </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkCAND" href="http://cstc.cand.com.vn">Cảnh sát toàn cầu </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkSitemap" href="http://www.cand.com.vn/News/Sitemap.aspx">Sơ đồ Website </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkRSS" href="http://www.cand.com.vn/RSS/Default.aspx">RSS </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkFAQ" href="http://www.cand.com.vn/News/FAQ.aspx">FAQ </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkWeblink" href="http://www.cand.com.vn/News/WebLink.aspx">Liên kết Web</a>
+			</div>
+		</td>
+	</tr>
+	<tr height="36">
+		<td bgcolor="#407080" height="36" style="PADDING-BOTTOM:8px;PADDING-TOP:6px">
+			<!--
+			<div align="center" style="PADDING-BOTTOM:2px"><span id="Footer_lbFooter4" class="footer_title1">Tổng Biên tập: Trung tướng Hữu Ước</span></div>
+			-->
+			<DIV align="center" style="PADDING-BOTTOM:2px">
+				<span id="Footer_lbFooter1" class="footer_title1">Phụ trách biên tập: Trần Thị An Bình - Nguyễn Trang Dũng - Trần Anh Tú</span></DIV>
+			<DIV align="center" style="PADDING-BOTTOM:2px">
+				<span id="Footer_lbFooter2" class="footer_title2">©2007. Báo Công an nhân dân điện tử - CAND Online. All rights reserved.</span>
+			</DIV>
+			<div align="center" style="PADDING-BOTTOM:2px">
+				<span id="Footer_lbFooter3" class="footer_title2">Khi sử dụng lại thông tin từ website này, xin vui lòng ghi rõ nguồn "CAND Online".</span>
+			</div>
+		</td>
+	</tr>
+</table>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4763663-1']);
+  _gaq.push(['_setDomainName', '.cand.com.vn']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></TD>
+					</TR>
+				</TBODY>
+			</TABLE>
+			<img src='/rpc/counter.aspx?ckey=F_view&cvalue=188&story=160184&rand=1530196836' width=1 height=1 border=0 alt=''></form>
+	</body>
+</HTML>

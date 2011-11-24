@@ -1,0 +1,684 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />		
+		
+		<meta name="robots" content="INDEX,FOLLOW" />
+			
+		<meta name="description" content="Khoảng 80% các vụ tai nạn giao thông là do lái xe bị mất tập trung trong vòng 3 giây trước khi gây ra tai nạn. Những lý do phổ biến nhất là tài xế sử dụng điện thoại di động khi lái xe, nhặt vật rơi, buồn ngủ, đọc báo, trang điểm hay không nhìn về phía trước…" />
+			
+		<title>Các nguyên nhân gây tại nạn khi lái xe - VnExpress</title>
+			
+		<meta name="keywords" content="Liberty Insurance,David Melton,tai nạn" />	
+		
+		<meta http-equiv="REFRESH" content="3600" />
+		
+		<link rel="stylesheet" href="/Resource/Common/default.css" type="text/css" />	
+		<link href="http://180.148.142.152/Library/AdsNov.css" rel="Stylesheet" style="text/css"> 		
+		
+		<link rel="alternate" type="application/rss+xml" title="VnExpress - RSS" href="/RSS/GL/trang-chu.rss" />
+			
+		
+		<script type="text/javascript" language="javascript" src="/Library/Common/Library.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/Vne.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/FlashMedia.js"></script>						
+        <script type="text/javascript" language="javascript" src="/Library/Common/AjaxRequest.js"></script>
+		<script type="text/javascript" language="javascript" src="/Library/Common/vietUni.js"></script>
+		<script type="text/javascript" language="javascript" src="/Resource/00/ArrMenu.js"></script>        				
+		<script type="text/javascript" language="javaScript">
+			var PAGE_SITE=0;
+			var PAGE_FOLDER=38;	
+			var PAGE_ID=1002162289;	
+			var DOMESTIC_IP=1;	
+			setTypingMode(1);
+				
+			sLoDID=sLoDID.concat('1002162289').concat(',');
+			
+		</script>
+		<script type="text/javascript" language="javascript" src="/Resource/Common/Menu.js"></script>
+		
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-249346-1']);
+		_gaq.push(['_trackPageview']);
+		
+		_gaq.push(['b._setAccount', 'UA-249346-21']);
+		_gaq.push(['b._trackPageview']);
+		
+		_gaq.push(['c._setAccount', 'UA-249346-22']);
+		_gaq.push(['c._trackPageview']);
+		
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	
+		<script src="/Library/Common/jquery-1.6.3.min.js"></script>		
+		
+<script type="text/javascript" src="/library/Common/VNEShowAds.js"></script>
+<script src="/library/common/rs.js" type="text/javascript"></script>
+
+	</head>
+	<body>	
+		
+				
+		<input type="hidden" id="CurrentBrowserWidth" value="" />
+		<input type="hidden" id="ShowBackground" value="1" />
+		<div id="divSlideResultLeft" style="background-repeat:no-repeat;background-position:right top;over-flow:hidden;cursor:pointer;text-align:right;padding:0px;position: fixed!important;position: absolute; /*ie6 and above*/;left: 0px; top: 0px;overflow:hidden;"></div>
+		<div id="divSlideResultRight" style="background-repeat:no-repeat;over-flow:hidden;cursor:pointer;text-align:left;padding:0px;position: fixed!important; position: absolute; /*ie6 and above*/;right: 0px; top: 0px;overflow:hidden;"></div>				
+		
+		<div id="outter">		
+		<div id="divMove" style="width:1000px;">
+		<div class="fpr2">
+			<div id="header">
+				<div id="logoEH" class="logo fl" >
+					
+					<a onfocus="this.blur()" hidefocus="" href="/"><img class="img-logo" src="/Images/blank.gif" alt="" /></a>
+					
+				</div>
+				<div id="topbannerEH" class="topbanner fr">
+					
+					<table border="0" cellpadding="0" cellspacing="0" style="width:100%;">
+						<tr>
+							<td style="vertical-align:middle">
+																
+									<script type="text/javascript" language="javascript">
+										Poly_ShowTopBanner();
+									</script>								
+								
+							</td>                           
+						</tr>
+					</table>				
+					
+				</div>
+			</div>			
+		</div>				
+		<div id="menu">
+	<div class="searchmenu">
+		<div class="fl icone"></div>
+		<div class="drss fl"><a href="/GL/RSS/" class="link-rss lnkrss">RSS<span></span></a></div>
+		<div id="mn-search" class="search fr">
+			<form onsubmit="return CheckValue(document.Search.s);" action="http://search.vnexpress.net/news" id="Search" name="Search">
+				<span class="fl borright"></span>
+				<input type="text" value="Từ khóa tìm kiếm" onfocus="SearchOnFocus(this)" onkeydown="" onkeyup="initTyper(this)" onblur="SearchOnBlur(this)" id="s" name="s" class="txtsearch fl">
+				<img onclick="return CheckValue(document.Search.s);" alt="" src="/images/blank.gif" class="img-search fl">
+				<input type="hidden" value="66FD8EC7-FA76-4A7C-8FE3-DB605B4C9CE0" name="g">
+				<input type="hidden" value="yes" name="butS">
+			</form>
+		</div>
+	</div>
+	<!--[if lte IE 6]><a id="lnkIE6" href="#"><table cellpadding=0 cellspacing=0 style="border: 0; margin: 0; padding: 0; width: 1000px; height: 25px;"><tr><td><![endif]-->
+	<div class="menu">
+		<ul>
+			<li><div class="fl mn-borleft"></div></li>
+			
+			<li>
+				<a href="/"><span class="pmenuL"></span><span class="pmenuM">Trang nhất</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<!--<ul style="padding: 0px; height: 16px">
+					<div class="fl icone"></div>
+					<div class="drss fl"><a href="/GL/RSS/" class="link-rss">RSS <span></span></a></div>
+				</ul>-->
+				<ul class="smenu-home">	
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+					<li class="lnknews24h"><a href="/gl/24h-qua/"></a></li>
+					<li class="ico-ct-wrap">
+						<span class="fl ico-ct"></span>
+						<p class="fl phonect"><span>0123.888.0123</span> (HN) - <span>0129.233.3555</span> (TP.HCM)</p>
+					</li>				
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/video/"><span class="pmenuL"></span><span class="pmenuM">Video</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">													
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/xa-hoi/"><span class="pmenuL"></span><span class="pmenuM">Xã hội</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li><a href="/gl/xa-hoi/giao-duc/">Giáo dục</a></li>
+					<li><a href="/gl/xa-hoi/nhip-dieu-tre/">Nhịp điệu trẻ</a></li>
+					<li><a href="/gl/xa-hoi/du-lich/">Du lịch</a></li>
+					<li><a href="/gl/xa-hoi/co-hoi-du-hoc/">Du học</a></li>												
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/the-gioi/"><span class="pmenuL"></span><span class="pmenuM">Thế giới</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->				
+				<ul class="smenu-other">					
+					<li><a href="/gl/the-gioi/cuoc-song-do-day/">Cuộc sống đó đây</a></li>
+					<li><a href="/gl/the-gioi/anh/">Ảnh</a></li>
+					<li><a href="/gl/the-gioi/nguoi-viet-5-chau/">Người Việt 5 châu</a></li>
+					<li><a href="/gl/the-gioi/phan-tich/">Phân tích</a></li>
+					<li><a href="/gl/the-gioi/tu-lieu/">Tư liệu</a></li>								
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/kinh-doanh/"><span class="pmenuL"></span><span class="pmenuM">Kinh doanh</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->					
+				<ul class="smenu-other">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/gl/ebank/">Ebank</a></li>
+					<li><a href="/gl/kinh-doanh/chung-khoan/">Chứng khoán</a></li>
+					<li><a href="/gl/kinh-doanh/bat-dong-san/">Bất động sản</a></li>
+					<li><a target="_blank" href="http://nhadep.vnexpress.net/gl/nha-dep/">Nhà đẹp</a></li>
+					<li><a href="/gl/kinh-doanh/kinh-nghiem/">Doanh nhân</a></li>
+					<li><a href="/gl/kinh-doanh/quoc-te/">Quốc tế</a></li>
+					<li><a href="/gl/doi-song/mua-sam/">Mua sắm</a></li>
+					<li><a href="/gl/kinh-doanh/doanh-nghiep-viet/">Doanh nghiệp viết</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/van-hoa/"><span class="pmenuL"></span><span class="pmenuM">Văn hóa</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">					
+					<li><a href="/gl/van-hoa/hoa-hau/">Hoa hậu</a></li>
+					<li><a href="/gl/van-hoa/guong-mat-nghe-sy/">Nghệ sỹ</a></li>
+					<li><a href="/gl/van-hoa/am-nhac/">Âm nhạc</a></li>
+					<li><a href="/gl/van-hoa/thoi-trang/">Thời trang</a></li>
+					<li><a href="/gl/van-hoa/san-khau-dien-anh/">Điện ảnh</a></li>
+					<li><a href="/gl/van-hoa/my-thuat/">Mỹ thuật</a></li>
+					<li><a target="_blank" href="http://evan.vnexpress.net/">Văn học</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/the-thao/"><span class="pmenuL"></span><span class="pmenuM">Thể thao</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smsport"><a href="/gl/the-thao/bong-da/">Bóng đá</a></li>
+					<li><a href="/gl/the-thao/tennis/">Tennis</a></li>
+					<li><a href="/gl/the-thao/chan-dung/">Chân dung</a></li>
+					<li><a href="/gl/the-thao/anh-video/">Ảnh - Video</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="http://seagames.vnexpress.net/" target="_blank"><span class="pmenuL"></span><span class="pmenuM">SEA Games 26</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li class="smseagames26"><a href="http://seagames.vnexpress.net/tin/lich-dau/" target="_blank">Lịch đấu</a></li>
+					<li><a href="http://seagames.vnexpress.net/tin/xep-hang/" target="_blank">Bảng xếp hạng</a></li>					
+					<li><a href="http://seagames.vnexpress.net/tin/bong-da/" target="_blank">Bóng đá</a></li>					
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/phap-luat/"><span class="pmenuL"></span><span class="pmenuM">Pháp luật</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smlaw"><a href="/gl/phap-luat/hinh-su/">Hình sự</a></li>
+					<li><a href="/gl/phap-luat/ky-su/">Ký sự</a></li>
+					<li><a href="/gl/phap-luat/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/doi-song/"><span class="pmenuL"></span><span class="pmenuM">Đời sống</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smlife"><a href="/gl/doi-song/cau-chuyen-cuoc-song/">Câu chuyện cuộc sống</a></li>
+					<li><a href="/gl/doi-song/gia-dinh/">Gia đình</a></li>
+					<li><a href="/gl/suc-khoe/">Sức khỏe</a></li>
+					<li><a href="/gl/doi-song/am-thuc/">Ẩm thực</a></li>
+					<li><a href="/gl/suc-khoe/lam-dep/">Làm đẹp</a></li>
+					<li><a href="/gl/doi-song/blog/">Cửa sổ Blog</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/khoa-hoc/"><span class="pmenuL"></span><span class="pmenuM">Khoa học</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smscience"><a href="/gl/khoa-hoc/moi-truong/">Môi trường</a></li>
+					<li><a href="/gl/khoa-hoc/thien-nhien/">Thiên nhiên</a></li>
+					<li><a href="/gl/khoa-hoc/anh/">Ảnh</a></li>
+					<li><a href="/gl/khoa-hoc/ky-thuat-moi/">Công nghệ mới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/vi-tinh/"><span class="pmenuL"></span><span class="pmenuM">Vi tính</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smmicrocalculate"><a href="/gl/vi-tinh/san-pham-moi/">Sản phẩm mới</a></li>
+					<li><a href="/gl/vi-tinh/kinh-nghiem/">Kinh nghiệm</a></li>
+					<li><a href="/gl/vi-tinh/giai-tri/">Giải trí</a></li>
+					<li><a href="/gl/vi-tinh/hoi-dap/">Hỏi đáp</a></li>
+					<li><a href="/gl/vi-tinh/hacker-virus/">Hacker &amp; Virus</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li class="active"><a href="/gl/oto-xe-may/"><span class="pmenuL"></span><span class="pmenuM">Ôtô - Xe máy</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+			
+				<ul class="smenu-other">					
+					<li class="smcar"><a href="/gl/oto-xe-may/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/ban-doc-viet/"><span class="pmenuL"></span><span class="pmenuM">Bạn đọc</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-bdv">					
+					<li><a href="/gl/ban-doc-viet/khoa-hoc/">Khoa học</a></li>						
+					<li><a href="/gl/ban-doc-viet/doi-song/">Đời sống</a></li>
+					<li><a href="/gl/ban-doc-viet/phap-luat/">Pháp luật</a></li>
+					<li><a href="/gl/ban-doc-viet/xa-hoi/">Xã hội</a></li>
+					<li><a href="/gl/ban-doc-viet/kinh-doanh/">Kinh doanh</a></li>
+					<li><a href="/gl/ban-doc-viet/the-thao/">Thể thao</a></li>
+					<li><a href="/gl/ban-doc-viet/van-hoa/">Văn hoá</a></li>
+					<li><a href="/gl/ban-doc-viet/the-gioi/">Thế giới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/ban-doc-viet/tam-su/"><span class="pmenuL"></span><span class="pmenuM">Tâm sự</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other"></ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/rao-vat/"><span class="pmenuL"></span><span class="pmenuM">Rao vặt</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-raovat">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/cuoi/"><span class="pmenuL"></span><span class="pmenuM">Cười</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-bdv">
+					<li><a href="/gl/cuoi/video/">Video</a></li>
+					<li><a href="/gl/cuoi/tieu-pham/">Tiểu phẩm</a></li>						
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+		</ul>
+	</div><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</div>
+
+		<div id="content">			
+			
+			<div class="content-center fl">			
+			<div class="folder-header">
+	<script type="text/javascript" language="javascript">writeFolderTitle(PAGE_FOLDER);</script>
+	<div class="fr">Th&#7913; ba, 22/11/2011, 07:30 GMT+7</div>
+</div>
+<div class="email-print txtr">
+	<script>
+	writeSociable('http://vnexpress.net/gl/oto-xe-may/2011/11/cac-nguyen-nhan-gay-tai-nan-khi-lai-xe/','Các+nguyên+nhân+gây+tại+nạn+khi+lái+xe','Các+nguyên+nhân+gây+tại+nạn+khi+lái+xe','sociable',1002162289);
+	</script>
+<font onClick="return EmailSubject(1002162289)"><img border="0" src="/Images/email.gif" align="bottom">&nbsp;E-mail</font>
+&nbsp;&nbsp;&nbsp;<font onClick="return PrintSubject()"><img border="0" src="/Images/print.gif" align="bottom">&nbsp;B&#7843;n In</font>
+</div>
+
+				<div class="content">
+					<div style="overflow:hidden" cpms_content="true">
+				<H1 class=Title>Các nguyên nhân gây tại nạn khi lái xe</H1>
+<H2 class=Lead>Khoảng 80% các vụ tai nạn giao thông là do lái xe bị mất tập trung trong vòng 3 giây trước khi gây ra tai nạn. Những lý do phổ biến nhất là tài xế sử dụng điện thoại di động khi lái xe, nhặt vật rơi, buồn ngủ, đọc báo, trang điểm hay không nhìn về phía trước… </H2>
+<P class=Normal>Để khắc phục các nguyên nhân trên, các nghiên cứu và loạt phim hướng dẫn lái xe an toàn của David Melton (Giáo sư Dave) sẽ giúp bạn lái xe an toàn hơn. </P>
+<TABLE cellSpacing=0 cellPadding=3 width=288 align=center bgColor=#ffffff border=0>
+<TR>
+<TD>
+				<script type="text/javascript" src="/video/swfobject.js"></script>				
+				
+			<div id="flashContent" style="text-align:center;width:100%;">													
+				<span id="FlashPlayer60808" class="Normal" align="center">B&#7841;n c&#7847;n c&#224;i <a href="http://www.macromedia.com/go/getflashplayer">Flash Player</a> &#273;&#7875; xem &#273;&#432;&#7907;c Clip n&#224;y.</span>				
+			</div>			
+			
+			<script type="text/javascript" language="javascript">createPlayerEmbed(60808,480,380,"false",38, "FlashPlayer60808");</script>
+			</TD></TR>
+<TR>
+<TD class=Image> Clip an toàn khi lái xe.</TD></TR></TABLE>
+<P class=Normal align=left>David Melton là Giám đốc Viện Nghiên cứu An toàn của Tập đoàn bảo hiểm Liberty Mutual (Mỹ) - nơi nổi tiếng thế giới với những nghiên cứu và phát minh quan trọng trong lĩnh vực an toàn lao động và an toàn giao thông. Ngay từ đầu thập niên 50, Liberty Mutual đã kết hợp với Đại học Cornell đưa ra hai mẫu xe an toàn Survival Cars I và II nhằm chứng minh rằng những tính năng như cột lái có khả năng xếp lại (collapsible steering column), kệ để tay, miếng tựa đầu, túi khí và dây an toàn có thể giảm khả năng thương tích hay tử vong khi xảy ra va chạm.</P>
+<TABLE cellSpacing=0 cellPadding=3 width=1 align=center border=0>
+<TR>
+<TD><IMG src="/Files/Subject/3b/bb/c8/71/Hinh-1_400x266.jpg" width=400 height=266 border=1 /></TD></TR>
+<TR>
+<TD class="Image">Giáo sư David Melton chia sẻ kỹ năng lái xe an toàn cùng các bạn sinh viên Trường CĐ KT- KT Phú Lâm.</TD></TR></TABLE>
+<P class=Normal>17 tính năng an toàn được phát hiện từ đó đến nay vẫn là tiêu chuẩn chế tạo của các hãng xe ôtô Mỹ. Trong thập niên 60, Liberty Mutual hợp tác với Viện Công nghệ Massachusetts (MIT) và Đại học Y khoa Harvard phát triển loại khuỷu tay giả sử dụng pin đầu tiên trên thế giới, đặt tên là Boston Elbow (khuỷu tay Boston), giúp khôi phục chức năng cho người tàn tật chi trên.</P>
+<P class=Normal>Boston Elbow có khả năng bắt tín hiệu cơ từ bề mặt da để kiểm soát tốc độ và hướng hoạt động của tay, qua đó cải thiện cuộc sống của người sử dụng. Sau đó, nhóm nghiên cứu liên tục cải tiến và nâng cao các chức năng của thiết bị này. Đến năm 2001, Liberty Mutual giới thiệu loại khuỷu tay giả sử dụng hệ thống vi xử lý đầu tiên trên thị trường, mang tên Boston Digital Arm.</P>
+<P class=Normal>Trong vài năm qua, Liberty Mutual đã giới thiệu rất nhiều đoạn phim hướng dẫn kỹ năng lái xe an toàn nhằm góp phần hiện thực hóa phương châm “mang đến cuộc sống an toàn và đảm bảo hơn cho mọi người”, đồng thời tích cực triển khai các chương trình tuyên truyền về an toàn giao thông tại 15 quốc gia trên thế giới, trong đó có Việt Nam.</P>
+<P class=Normal align=right><EM>(</EM>Nguồn: <EM>Liberty Insurance)</EM></P>
+			</div>
+			<div class="tag-parent"><img src='/Images/tags.gif' class="tag"><div class="tag-pos"><h3 class="tag-text"><a href='/tag/75066/liberty-insurance/'>Liberty Insurance</a>, <a href='/tag/75067/david-melton/'>David Melton</a>, <a href='/tag/1485/tai-nan/'>tai nạn</a></h3></div></div>
+			<div style="margin-top:5px;margin-bottom:5px;">							
+				<script language="javascript">					
+					Poly_ShowArticlebanner();										
+				</script>				
+			</div>
+		</div>				
+		<div class="folder-news">
+	<div class="boxnew-header">
+		<div class="boxnew-title fl">Tin mới</div>
+	</div>
+	<div class="boxnew">
+		<ul>
+		<li><a href="/gl/oto-xe-may/2011/11/nghe-san-sieu-xe-cho-dai-gia/" class="link-othernews">Nghề săn siêu xe cho đại gia</a><span style="color: #909090">&nbsp;(24/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/toyota-viet-nam-gioi-thieu-altis-trd/" class="link-othernews">Toyota Việt Nam giới thiệu Altis TRD</a><span style="color: #909090">&nbsp;(23/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/lexus-trinh-lang-gs-the-he-moi-o-quang-chau/" class="link-othernews">Lexus trình làng GS thế hệ mới ở Quảng Châu</a><span style="color: #909090">&nbsp;(23/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/thoi-trang-honda-cbr600f-tren-pho-sai-gon/" class="link-othernews">'Thời trang' Honda CBR600F trên phố Sài Gòn</a><span style="color: #909090">&nbsp;(23/11)</span></li>
+		<li><a href="/gl/oto-xe-may/tu-van/2011/11/he-thong-dan-duong-3d-cho-oto/" class="link-othernews">Hệ thống dẫn đường 3D cho ôtô</a><span style="color: #909090">&nbsp;(23/11)</span></li>
+		</ul>
+	</div>
+</div>
+<div class="folder-news">
+	<div class="othernews-header">
+		<div class="othernews-title fl">C&#225;c tin kh&#225;c</div>
+		<div class="fr txtr" style="margin-bottom:5px;"><label onClick="history.go(-1)" class="Time" style="cursor:pointer">[<B>Tr&#7903; v&#7873;</B>]</label></div>
+	</div>
+	<div class="othernews">
+		<ul>
+		<li><a href="/gl/oto-xe-may/2011/11/audi-trinh-lang-a1-sportback/" class="link-othernews">Audi trình làng A1 Sportback</a><span style="color: #909090">&nbsp;(22/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/toyota-viet-nam-trieu-hoi-xe-camry-3-0/" class="link-othernews">Toyota Việt Nam triệu hồi xe Camry 3.0</a><span style="color: #909090">&nbsp;(21/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/kia-cadenza-ra-mat-tai-viet-nam/" class="link-othernews">Kia Cadenza ra mắt tại Việt Nam</a><span style="color: #909090">&nbsp;(21/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/sieu-moto-duong-truong-vision-8-ball-ve-sai-gon/" class="link-othernews">Siêu môtô đường trường Vision 8-Ball về Sài Gòn</a><span style="color: #909090">&nbsp;(21/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/kinh-nghiem-ghep-xe-vao-noi-do/" class="link-othernews">Kinh nghiệm ghép xe vào nơi đỗ</a><span style="color: #909090">&nbsp;(21/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/drift-moto-dieu-nghe/" class="link-othernews">Drift môtô điệu nghệ</a>&nbsp;<img border="0" src="/Images/video2.gif" />&nbsp;
+<span style="color: #909090">&nbsp;(21/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/mercedes-cls-net-dep-coupe-4-cua/" class="link-othernews">Mercedes CLS - nét đẹp 'coupe 4 cửa'</a><span style="color: #909090">&nbsp;(20/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/toan-canh-los-angeles-auto-show-2011/" class="link-othernews">Toàn cảnh Los Angeles Auto Show 2011</a><span style="color: #909090">&nbsp;(19/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/lambretta-lj-scooter-50-phan-khoi/" class="link-othernews">Lambretta LJ - scooter 50 phân khối</a><span style="color: #909090">&nbsp;(19/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/ford-fiesta-co-the-them-phien-ban-moi/" class="link-othernews">Ford Fiesta có thể thêm phiên bản mới</a><span style="color: #909090">&nbsp;(19/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/phep-thu-chevrolet-camaro-cho-thi-truong-viet-nam/" class="link-othernews">Phép thử Chevrolet Camaro cho thị trường Việt Nam</a>&nbsp;<img border="0" src="/Images/photo2.gif" />
+<span style="color: #909090">&nbsp;(19/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/ft-86-g-sports-xu-huong-moi-cua-toyota/" class="link-othernews">FT-86 G Sports - xu hướng mới của Toyota</a><span style="color: #909090">&nbsp;(18/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/kymco-trinh-lang-people-one-125i/" class="link-othernews">Kymco trình làng People One 125i</a><span style="color: #909090">&nbsp;(18/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/dung-go-che-tao-vespa-co/" class="link-othernews">Dùng gỗ chế tạo Vespa cổ</a><span style="color: #909090">&nbsp;(18/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/hang-doc-honda-cafe-racer-xuat-hien-tai-sai-gon/" class="link-othernews">Hàng độc Honda Cafe racer xuất hiện tại Sài Gòn</a>&nbsp;<img border="0" src="/Images/video2.gif" />&nbsp;
+<span style="color: #909090">&nbsp;(18/11)</span></li>
+		</ul>
+	</div>
+</div>
+
+		</div>
+	<div class="content-left fl">		
+	<div class="linksite-box" style="padding:0px;">
+	<img alt="Link Site" src="/Images/Linksite/site2.gif" usemap="#ctmap" class="img-linksite"/>
+	<map id="ctmap" name="ctmap">
+		<area shape="rect" coords="6,0,72,28" href="http://ngoisao.net/" target="_blank" title="ngoisao.net" />
+		<area shape="rect" coords="83,0,140,28" href="http://sohoa.vnexpress.net/" target="_blank" title="sohoa.vnexpress.net" />		
+		<area shape="rect" coords="152,0,215,28" href="http://gamethu.vnexpress.net/" target="_blank" title="gamethu.vnexpress.net" />
+		<area shape="rect" coords="223,0,296,28" href="http://vieclam.vnexpress.net/" target="_blank" title="viec lam" />
+	</map>
+</div>
+	<div class="box-item">		
+		<script type="text/javascript">
+			cpms_Ap.typ = 2;
+			cpms_Ap.ste = 1;
+			cpms_Ap.reg = 0;
+			cpms_Ap.fol = 38;
+			cpms_Ap.dof = 0;
+			cpms_Ap.wdt = 300;
+			
+			cpms_Ap.itf = 3;
+			
+			cpms_Ap.ShowAd();
+		</script>
+	</div>
+	<Script language="JavaScript">Poly_ShowLogoLeft(2)</Script>
+<TABLE cellSpacing=0 cellPadding=0 width=300 border=0>
+<TR>
+<TD colSpan=3><IMG width="300" height="3" src="/Files/Folder/00/26/box_top1.gif"></TD></TR>
+<TR>
+<TD width=1 bgColor=#d5d8de class="BreakLine"><FONT color="#d5d8de"> </FONT></TD>
+<TD width=298>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff border=0>
+<TR>
+<TD colSpan=3 height=5 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD>
+<TD class="Normal" align="center"><B><FONT face=arial color=#8a0000 size=2>Diễn đàn tư vấn</FONT></B></TD>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD colSpan=3 height=5 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR></TABLE></TD>
+<TD width=1 bgColor=#d5d8de class="BreakLine"><FONT color="#d5d8de"> </FONT></TD></TR>
+<TR>
+<TD width=1 bgColor=#d5d8de class="BreakLine"><FONT color="#d5d8de"> </FONT></TD>
+<TD width=298>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#e6ecf0 border=0>
+<TR>
+<TD colSpan=3 height=5 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD>
+<TD>
+<TABLE cellSpacing=0 cellPadding=3 width=288 align=center border=0>
+<TR>
+<TD colSpan=2 class="Image">Bạn đặt câu hỏi <A href="/gl/oto-xe-may/tu-van/2004/03/dat-cau-hoi-tu-van/" onClick="return openMeExt(this,0,0,1,0,0,0,0,1,600,520,0,0,0)" class=Image>tại đây</A>. <EM>VnExpress</EM> giữ quyền biên tập.</TD></TR>
+<TR>
+<TD class=Image colSpan=2>
+<TABLE cellSpacing=2 cellPadding=3 width=281 bgColor=#ffffff border=0>
+<TR>
+<TD class=BoxLink bgColor=#c8d5dd>
+<A href="/GL/Topic/?ID=5227" class="BoxLink"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/DC_B.jpg"></A></TD>
+<TD bgColor=#c8d5dd class="BoxLink" align="center"><A href="/GL/Topic/?ID=5227" class="BoxLink">Hỏng hóc động cơ  </A></TD>
+<TD class=BoxLink bgColor=#e6ecf0> <A href="/GL/Topic/?ID=3694" class="BoxLink"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/xecu_B.jpg"></A></TD>
+<TD bgColor=#e6ecf0 class="BoxLink" align="center">Mua xe<A href="/GL/Topic/?ID=3694" class="BoxLink"> cũ</A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c8d5dd> <A href="/GL/Topic/?ID=5717" class="BoxLink"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/Camlai1111.jpg"></A></TD>
+<TD bgColor=#c8d5dd class="Normal" align="center"> <A href="/GL/Topic/?ID=5717" class="BoxLink">Kinh nghiệm cầm lái</A></TD>
+<TD class=BoxLink bgColor=#e6ecf0> <A href="/GL/Topic/?ID=5614" class="BoxLink"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/Muaxe1112.jpg"></A></TD>
+<TD bgColor=#e6ecf0 class="Normal" align="center"> <A href="/GL/Topic/?ID=5614" class="BoxLink">Tư vấn mua xe mới</A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c8d5dd>
+<A href="/GL/Topic/?ID=5762" class="Normal"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/PH111111.jpg"></A></TD>
+<TD bgColor=#c8d5dd class="Normal" align="center"><A href="/GL/Topic/?ID=5762" class="BoxLink"> Các sự cố phanh</A></TD>
+<TD class=BoxLink bgColor=#e6ecf0>
+<A href="/GL/Topic/?ID=5763" class="BoxLink"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/DH1111.jpg"></A></TD>
+<TD bgColor=#e6ecf0 class="Normal" align="center"> <A href="/GL/Topic/?ID=5763" class="BoxLink">Những vấn đề về điều hòa</A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c8d5dd>
+<A href="/GL/Topic/?ID=5767" class="Normal"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/Noithat1111.jpg"></A></TD>
+<TD bgColor=#c8d5dd class="Normal" align="center"><A href="/GL/Topic/?ID=5767" class="BoxLink"> Nội, ngoại thất</A></TD>
+<TD class=BoxLink bgColor=#e6ecf0>
+<A href="/GL/Topic/?ID=5766" class="Normal"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/Con11111.jpg"></A></TD>
+<TD bgColor=#e6ecf0 class="Normal" align="center"> <A href="/GL/Topic/?ID=5766" class="BoxLink">Côn và hộp số</A></TD></TR></TABLE></TD></TR></TABLE></TD>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD colSpan=3 height=5 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR></TABLE></TD>
+<TD width=1 bgColor=#d5d8de class="BreakLine"><FONT color="#d5d8de"> </FONT></TD></TR>
+<TR>
+<TD colSpan=3><IMG width="300" height="10" src="/Files/Folder/00/26/box_bottom1.gif"></TD></TR></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=300 border=0>
+<TR>
+<TD colSpan=3>
+<Script type="text/javascript" language="JavaScript">Poly_ShowLogoLeft2(4)</Script>
+ </TD></TR></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=297 bgColor=#ffffff border=0>
+<TR>
+<TD bgColor=#ffffff colSpan=3 height=5><div class="box-item">
+	<div class="tmp1_hot_header">
+		<div class="tmp1_hot_content">
+			<ul>	<li><a href="/gl/oto-xe-may/2011/11/honda-jazz-kinh-dich-tuong-lai-cua-yaris-o-viet-nam/">Honda Jazz - kình địch tương lai của Yaris ở Việt Nam?</a></li>
+	<li><a href="/gl/oto-xe-may/2011/11/bo-doi-sieu-xe-lamborghini-den-tuyen-o-sai-gon/">Bộ đôi siêu xe Lamborghini đen tuyền ở Sài Gòn</a></li>
+	<li><a href="/gl/oto-xe-may/2011/11/kia-cadenza-ra-mat-tai-viet-nam/">Kia Cadenza ra mắt tại Việt Nam</a></li>
+	<li><a href="/gl/oto-xe-may/2011/11/mercedes-cls-net-dep-coupe-4-cua/">Mercedes CLS - nét đẹp 'coupe 4 cửa'</a></li>
+	<li><a href="/gl/oto-xe-may/2011/11/phep-thu-chevrolet-camaro-cho-thi-truong-viet-nam/">Phép thử Chevrolet Camaro cho thị trường Việt Nam</a>&nbsp;<img border="0" src="/Images/photo.gif" alt="" /></li>
+	<li><a href="/gl/oto-xe-may/2011/11/hang-doc-honda-cafe-racer-xuat-hien-tai-sai-gon/">Hàng độc Honda Cafe racer xuất hiện tại Sài Gòn</a>&nbsp;<img border="0" src="/Images/video.gif" alt="" /></li>
+	<li><a href="/gl/oto-xe-may/2011/11/mercedes-slk350-mui-tran-hang-sang-o-viet-nam-motor-show-1/">Mercedes SLK350 - mui trần hạng sang ở Việt Nam Motor Show</a></li>
+	<li><a href="/gl/oto-xe-may/2011/11/chevrolet-orlando-trinh-lang-viet-nam/">Chevrolet Orlando trình làng Việt Nam</a>&nbsp;<img border="0" src="/Images/photo.gif" alt="" /></li>
+	<li><a href="/gl/oto-xe-may/2011/11/viet-nam-motor-show-2011-khai-mac-1/">Việt Nam Motor Show 2011 khai mạc</a></li>
+	<li><a href="/gl/oto-xe-may/2011/11/bo-doi-sieu-sang-maybach-o-sai-gon/">Bộ đôi siêu sang Maybach ở Sài Gòn</a></li>
+</ul>
+		</div>
+	</div>
+</div>
+</TD></TR></TABLE><A href="/GL/Topic/?ID=1355" class=""></A>
+<TABLE cellSpacing=0 cellPadding=0 width=300 border=0>
+<TR>
+<TD colSpan=3><IMG width="300" height="3" src="/Files/Folder/00/26/box_top1.gif"></TD></TR>
+<TR>
+<TD width=1 bgColor=#d5d8de class="BreakLine"><FONT color="#d5d8de"> </FONT></TD>
+<TD width=298>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff border=0>
+<TR>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD>
+<TD class="Normal" align="center"><B><FONT face=arial color=#8a0000 size=2>Bài theo chủ đề</FONT></B></TD>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD colSpan=3 height=5 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR></TABLE></TD>
+<TD width=1 bgColor=#d5d8de class="BreakLine"><FONT color="#d5d8de"> </FONT></TD></TR>
+<TR>
+<TD width=1 bgColor=#d5d8de class="BreakLine"><FONT color="#d5d8de"> </FONT></TD>
+<TD width=298>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#e6ecf0 border=0>
+<TR>
+<TD colSpan=3 height=5 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD>
+<TD>
+<TABLE cellSpacing=2 cellPadding=3 width=281 bgColor=#ffffff border=0>
+<TR>
+<TD class=BoxLink bgColor=#c8d5dd>
+<A href="/GL/Topic/?ID=1355" class="BoxLink"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/CN-B.jpg"></A></TD>
+<TD bgColor=#c8d5dd class="BoxLink" align="center"><A href="/GL/Topic/?ID=1355" class="BoxLink">Công nghệ </A></TD>
+<TD class=BoxLink bgColor=#e6ecf0> <A href="/GL/Topic/?ID=432" class="BoxLink"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/thitruong.jpg"></A></TD>
+<TD bgColor=#e6ecf0 class="BoxLink" align="center"><A href="/GL/Topic/?ID=432" class="BoxLink">Thị trường</A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c8d5dd>
+<A href="/GL/Topic/?ID=1353" class="BoxLink"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/baoduong.jpg"></A></TD>
+<TD bgColor=#c8d5dd class="BoxLink" align="center"><A href="/GL/Topic/?ID=1353" class="BoxLink">Bảo dưỡng</A></TD>
+<TD class=BoxLink bgColor=#e6ecf0> <A href="/GL/Topic/?ID=5165" class="BoxLink"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/Sieuxe.jpg"></A></TD>
+<TD bgColor=#e6ecf0 class="BoxLink" align="center"><A href="/GL/Topic/?ID=5165" class="BoxLink"> Xe độc</A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c8d5dd>
+<A href="/GL/Topic/?ID=3715" class="BoxLink"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/nguoidep.jpg"></A></TD>
+<TD bgColor=#c8d5dd class="BoxLink" align="center"> <A href="/GL/Topic/?ID=3715" class="BoxLink">Xe và người đẹp</A></TD>
+<TD class=BoxLink bgColor=#e6ecf0> <A href="/GL/Topic/?ID=3087" class="BoxLink"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/logo111.jpg"></A></TD>
+<TD bgColor=#e6ecf0 class="BoxLink" align="center"> <A href="/GL/Topic/?ID=3087" class="BoxLink">Lịch sử logo</A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c8d5dd>
+<A href="/Folder/FolderPage/00000026/page_3.asp" onClick="return openMeExt(this,0,0,1,0,0,0,0,1,500,420,0,0,0)" class=BoxLink><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/thuatngu111.jpg"></A></TD>
+<TD bgColor=#c8d5dd class="BoxLink" align="center"><A href="/Folder/FolderPage/00000026/page_3.asp" onClick="return openMeExt(this,0,0,1,0,0,0,0,1,500,420,0,0,0)" class=BoxLink> Thuật ngữ</A></TD>
+<TD class=BoxLink bgColor=#e6ecf0> <A href="/Folder/FolderPage/00000026/page_2.asp" onClick="return openMeExt(this,0,0,1,0,0,0,0,1,650,585,0,0,0)" class=BoxLink><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/giaxe111.jpg"></A></TD>
+<TD bgColor=#e6ecf0 class="BoxLink" align="center"> <A href="/Folder/FolderPage/00000026/page_2.asp" onClick="return openMeExt(this,0,0,1,0,0,0,1,1,650,585,0,0,0)" class=BoxLink>Giá xe</A></TD></TR></TABLE></TD>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD colSpan=3 height=5 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR></TABLE></TD>
+<TD width=1 bgColor=#d5d8de class="BreakLine"><FONT color="#d5d8de"> </FONT></TD></TR>
+<TR>
+<TD colSpan=3><IMG width="300" height="10" src="/Files/Folder/00/26/box_bottom1.gif"></TD></TR></TABLE>
+<div class="box-item">
+	<div class="hot fl">
+		<div class="fl"><img src="/Images/Background/hot-topleft.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/hot-topright.gif" alt="" /></div>
+	</div>
+	<div class="fl" id="HotItem38">		<script type="text/javascript" language="javascript">showhotitem(38, 18);</script>
+	</div>
+	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+
+	</div>
+	
+	<div class="content-right fl">		
+		<div class="adv-header">
+			<div class="adv-title fl">				
+				<a href="http://www.fptad.com/lienhe.aspx" target="_blank"><img style="border:0" src="/Images/Background/adv-title.gif" alt="Lien he quang cao" /></a>				
+			</div>
+		</div>
+		<div id="adgroup"  style="display:none;clear:both;"></div>
+	<Script type="text/javascript" language="JavaScript">Poly_ShowAdScrollBanner(2);</Script>
+				</div>
+				
+			</div>
+			
+			<div id="footer">
+				
+				<script type="text/javascript">Poly_ShowFooterBanner();</script>										
+				
+                <div class="fmenu-top">
+                    <div class="fl icone-footer"></div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-home" rel="nofollow" onclick="javascript:setAsHomePage(this)"><span></span>Đặt làm trang chủ</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ct" rel="nofollow" class="link-contact" href="/ContactUs/?id=xemay@vnexpress.net"><span></span>Liên hệ tòa soạn</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ads" rel="nofollow" class="link-contact" href="http://ads.fpt.net/lienhe.aspx" target="_blank"><span></span>Liên hệ quảng cáo</a>
+                    </div>					
+                    <div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">						
+						
+                        <span class="lnkf-hl">Đường dây nóng: 0123.888.0123 (HN) - 0129.233.3555 (TP HCM)<span></span></span>
+						
+                    </div>
+					<div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">
+						 <a rel="nofollow" class="link-contact" href="http://fptad.com/qc/v/vnexpress/2011/phongvienthethao/" target="_blank"><img class="img-search" src="/Images/person.gif" alt="" style="vertical-align:top;" /> VnExpress tuyển dụng </a>
+					</div>					
+                </div>
+                <div class="fmenu-bottom">	
+					<a href="/" class="link-footermenu">Trang chủ</a><i class="sepaf"></i>
+					<a href="/gl/xa-hoi/" class="link-footermenu">Xã hội</a><i class="sepaf"></i>
+					<a href="/gl/the-gioi/" class="link-footermenu">Thế giới</a><i class="sepaf"></i>
+					<a href="/gl/kinh-doanh/" class="link-footermenu">Kinh doanh</a><i class="sepaf"></i>
+					<a href="/gl/van-hoa/" class="link-footermenu">Văn hóa</a><i class="sepaf"></i>
+					<a href="/gl/the-thao/" class="link-footermenu">Thể thao</a><i class="sepaf"></i>
+					<a href="/gl/phap-luat/" class="link-footermenu">Pháp luật</a><i class="sepaf"></i>
+					<a href="/gl/doi-song/" class="link-footermenu">Ðời sống</a><i class="sepaf"></i>
+					<a href="/gl/khoa-hoc/" class="link-footermenu">Khoa học</a><i class="sepaf"></i>
+					<a href="/gl/vi-tinh/" class="link-footermenu">Vi tính</a><i class="sepaf"></i>
+					<a href="/gl/oto-xe-may/" class="link-footermenu">Ôtô - Xe máy</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/" class="link-footermenu">Bạn đọc viết</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/tam-su/" class="link-footermenu">Tâm sự</a><i class="sepaf"></i>
+					<a href="/user/rao-vat/" class="link-footermenu">Rao vặt</a><i class="sepaf"></i>
+					<a href="/gl/cuoi/" class="link-footermenu">Cuời</a>
+					
+                    <script type="text/javascript" language="javascript">
+						//writeFooterMenu();
+						Poly_ShowFixFloatBanner(0);Poly_ShowFixFloatBanner(2);Poly_ShowFixFloatBanner(1);Poly_ShowFixFloatBanner(3);
+						Poly_ShowSlideBanner();Poly_ShowBallonBanner();						
+					</script>
+					
+                    <script type="text/javascript" language="javascript">Poly_ShowPopupUnder();</script>
+					
+                </div>
+                <div class="copyright">
+                    <p><label style="font:bold 11px arial; color:#686E7A;">&#169;&nbsp;Copyright 1997-2011 VnExpress.net</label>, <label style="font:normal 11px arial; color:#686E7A;">All rights reserved <a rel="nofollow" href="/ContactUs/?id=webmaster@vnexpress.net">Contact us</a> - <label onClick="ContactUs()" style="text-decoration:underline;cursor:pointer">Th&#244;ng tin T&#242;a so&#7841;n</label></label</p>
+<p><label style="font:normal 11px arial; color:#686E7A;">&#174;&nbsp;VnExpress gi&#7919; b&#7843;n quy&#7873;n n&#7897;i dung tr&#234;n website n&#224;y.</lable></p>
+
+                </div>
+            </div>
+			</div>
+		</div>		
+		</div>		
+		<script type="text/javascript">
+		<!--//<![CDATA[
+			cpms_Ap.init();
+			cpms_Ap.typ = 1;
+			cpms_Ap.dof = 0;
+			cpms_Ap.ste = 1;
+			cpms_Ap.reg = 0;
+			cpms_Ap.fol = 38;
+			cpms_Ap.pos = 38;
+			cpms_Ap.url = encodeURIComponent(document.location.href);
+			cpms_Ap.show();
+		//]]>-->
+		</script>
+		  	
+		<div style="float:left;">
+			<script type="text/javascript" language="javasript">
+				var strHr = location.href;				
+				if(strHr.substr(0,21)=='http://vnexpress.net/' || strHr.substr(0,27)=='http://ebank.vnexpress.net/' || strHr.substr(0,28)=='http://nhadep.vnexpress.net/'){
+					document.write('<img src="http://180.148.142.10/website/vnexpress/Res.asp?vid=FB63B005-C753-4148-88AE-8C967A45F260&ovt=0&vsd=0&pfd=38&pid=1002162289&ref=&iTime=11/24/2011 1:31:00 AM" border=0>');
+					
+				}
+			</script>
+		</div>
+		<script type="text/javascript">
+	var SERVER_ID = 6;
+</script>
+
+
+		<!--<script type="text/javascript" language="javascript" src="/Library/Common/rss.js"></script>-->
+		<script type="text/javascript" src="http://180.148.142.152/Library/VNELibraryNew.js"></script>
+
+<script type="text/javascript" src="http://180.148.142.152/Library/AdsNov.js"></script>
+		
+<script src="http://180.148.142.152/Vals/1/0/38/Val.js" type="text/javascript"></script>	
+		
+<script type="text/javascript" language="javaScript">checkCookie();</script>
+
+<script type="text/javascript" language="javaScript" src="http://180.148.142.153/script/libMobile.js"></script>     
+
+
+<script type="text/javascript">      
+    Poly_ShowAds();
+</script>
+	
+	</body>			
+</html>

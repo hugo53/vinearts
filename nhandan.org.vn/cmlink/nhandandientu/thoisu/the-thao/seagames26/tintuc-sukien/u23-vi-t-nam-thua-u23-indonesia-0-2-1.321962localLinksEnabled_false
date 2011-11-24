@@ -1,0 +1,1245 @@
+	
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+
+
+          <meta name="robots" content="index">
+      <meta name="robots" content="ACAP allow-index">
+    
+    
+    
+     
+        
+		
+				
+                	
+
+    <title>TIN TỨC - SỰ KIỆN - NHÂN DÂN ĐIỆN TỬ</title>
+    <link href="/polopoly_fs/3.149!/css/commons/jquery.lightbox-0.4.min.css" rel="stylesheet" type="text/css" title="default" />
+
+
+	<link href="/polopoly_fs/3.149!/css/commons/reset.min.css" rel="stylesheet" type="text/css" title="default" />
+    <link href="/polopoly_fs/3.149!/css/pdv/pdv_layout.min.css" rel="stylesheet" type="text/css" title="default" />
+	<link href="/polopoly_fs/3.149!/css/article/article.min.css" rel="stylesheet" type="text/css" title="default"   />
+    <link href="/polopoly_fs/3.149!/css/pdv/pdv_topborder_c.min.css" rel="stylesheet" type="text/css" title="default" />
+	<link href="/polopoly_fs/3.149!/css/pdv/pdv_col.min.css" rel="stylesheet" type="text/css" title="default" />
+	<link href="/polopoly_fs/3.149!/css/pdv/pdv_ui_green.min.css" rel="stylesheet" type="text/css" title="default" />
+    <link href="/polopoly_fs/3.149!/css/pdv/ui_tabs.min.css" rel="stylesheet" type="text/css" title="default" />
+    <link href="/polopoly_fs/3.149!/css/pdv/pdv_ui_tabs.min.css" rel="stylesheet" type="text/css" title="default" />
+	<link href="/polopoly_fs/3.149!/css/pdv/poll.min.css" rel="stylesheet" type="text/css" title="default" />
+    <link href="/polopoly_fs/3.149!/css/pdv/membership.min.css" rel="stylesheet" type="text/css" title="default" />
+	<link href="/polopoly_fs/3.149!/css/pdv.min.css" rel="stylesheet" type="text/css" title="default" />
+	<link href="/polopoly_fs/3.149!/css/pdv/custom-list.min.css"rel="stylesheet" type="text/css" title="default"  />
+	<link href="/polopoly_fs/3.149!/css/article/formMail.min.css" rel="stylesheet" type="text/css" title="default"  />
+	<link href="/polopoly_fs/3.149!/css/article/custombookmark.min.css" rel="stylesheet" type="text/css" title="default"  />
+	<link href="/polopoly_fs/3.149!/css/article/article-comments.min.css" rel="stylesheet" type="text/css"  title="default"  />
+	<link href="/polopoly_fs/3.149!/css/search/AdvancedSearch.min.css" rel="stylesheet" type="text/css" title="default"  />
+	<link href="/polopoly_fs/3.149!/css/search/quicksearch.min.css" rel="stylesheet" type="text/css"  title="default"  />
+
+              <link rel="stylesheet" type="text/css" href="/cmlink/dau-vi-css-7.263242">
+          <link rel="stylesheet" type="text/css" href="/cmlink/mycss-7.202712">
+          <link rel="stylesheet" type="text/css" href="/cmlink/css-articleupdated-7.210936">
+          <link rel="stylesheet" type="text/css" href="/cmlink/css-thoisu-7.210465">
+          <link rel="stylesheet" type="text/css" href="/cmlink/dau-vi-css-7.263242">
+          <link rel="stylesheet" type="text/css" href="/cmlink/css-thethao-7.202275">
+          <link rel="stylesheet" type="text/css" href="/cmlink/top-menu-7.272913">
+          <link rel="stylesheet" type="text/css" href="/cmlink/seagames-7.272859">
+    
+    <!--
+	[if IE 7]>
+      <link rel="stylesheet" type="text/css" href="/css/commons/ie7fixes.css">
+    [endif]
+	-->
+
+              
+        <link rel="alternate" type="application/rss+xml" title="Thời sự" href="/cmlink/th-i-s-1.287327?localLinksEnabled=false" >
+                
+        <link rel="alternate" type="application/rss+xml" title="Thể thao" href="/cmlink/th-thao-1.287338?localLinksEnabled=false" >
+          
+	<script type="text/javascript" src="/js/yui/utilities.min.js"></script>
+    <script type="text/javascript" src="/js/jquery-1.3.1.min.js"></script>
+    <script type="text/javascript" src="/js/jquery-ui-core-1.5.packed.js"></script>
+    <script type="text/javascript" src="/js/jquery-ui-tabs-1.5.packed.js"></script>
+    <script type="text/javascript" src="/js/swfobject.min.js"></script>
+    <script type="text/javascript" src="/js/poll.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.polopoly.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.validate-1.5.1.min.js"></script>
+    <script type="text/javascript" src="/js/membership.min.js"></script>
+    <script type="text/javascript" src="/js/blog.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.lightbox-0.4.min.js"></script>
+        <script type="text/javascript" src="/polopoly_fs/3.149!/js/sidewiki-defeat.min.js" ></script>
+    <script type="text/javascript" src="/polopoly_fs/3.149!/js/vietuni.min.js" ></script>
+
+    
+	    
+      
+
+      
+
+<script type="text/javascript">
+/* <![CDATA[ */
+// Handles body.onload event (may use addLoadEvent method)
+$(window).load(function() {
+  var vUni = new vietUni();
+
+  if (vUni) {
+    // Enables Vietnamese typing for some fields
+    $(".vuni").each(function() { vUni.initTyper(this); });
+
+    // Switchs Vietnamese typing method
+    $("input[name=typer_mode]").change(function() { vUni.setMethod(parseInt($(this).val())); });
+  }
+});
+/* ]]> */
+</script>
+
+	  
+</head>
+  
+  
+<body>
+<center>
+	<div id="mastheadover">
+	<div id="masthead">
+		        <div class="topBorderLayout header">
+       	          										
+                  
+    
+        
+        
+        
+<div class="image">
+  <img src="/polopoly_fs/7.272863.1320134967!/image/1612973815.jpg_gen/derivatives/default/1612973815.jpg" alt="" />
+</div>
+      
+      
+      
+  
+      			                  </div>
+	
+
+	
+    <div class="borderLayout">
+
+        	  <div class="borderLayoutMastHead">
+                                                                        		    				                      
+                  
+    
+        
+        
+        
+            <div class="sg_menu">
+<div class="sg_hovermenu">
+<ul>
+<li><a href="/nhandandientu/thoisu/the-thao/seagames26/">SEA Games 26</a></li>
+<li><a href="/nhandandientu/thoisu/the-thao/seagames26/tintuc-sukien">Tin t&#7913;c - S&#7921; ki&#7879;n</a></li>
+<li><a href="/nhandandientu/thoisu/the-thao/seagames26/binhluan-nhandinh">Bình lu&#7853;n - Nh&#7853;n &#273;&#7883;nh</a></li>
+<li><a href="/nhandandientu/thoisu/the-thao/seagames26/lichthidau">L&#7883;ch thi &#273;&#7845;u</a></li>
+<li><a href="/nhandandientu/thoisu/the-thao/seagames26/benle">Bên l&#7873; SEA Games</a></li>
+<li><a href="/nhandandientu/thoisu/the-thao/seagames26/guongmat">G&#432;&#417;ng m&#7863;t</a></li>
+</ul>
+</div>
+<div class="sg_btm">
+<a href="/nhandandientu/thoisu/">NHÂN DÂN &#272;I&#7878;N T&#7916;</a>
+</div>
+</div>
+
+        
+      
+          
+        <style type="text/css">
+.breadCrumb {
+margin-top: 5px;
+margin-bottom: 5px;
+margin-left:3px;
+}
+
+.breadCrumb a {
+font: 12px arial;
+color: #000000;
+background: url('/img/bread-crumb-sep.png') no-repeat 3px;
+padding-left: 20px;
+margin-left: 5px;
+text-decoration: none;
+float:left;
+}
+
+.breadCrumb .first {
+background: 0px;
+padding-left: 0;
+margin-left: 0;
+}
+
+.breadCrumb .active {
+color: #000000;
+text-decoration: none;
+}
+
+.breadCrumb a:hover{
+color: #CF2127;
+text-decoration: underline;
+}
+</style>
+<div class="breadCrumb">
+           <a href="/cmlink/nhandandientu/thoisu" 
+                 class="first"
+         >
+  THỜI SỰ
+  </a>
+           <a href="/cmlink/nhandandientu/thoisu/the-thao" 
+                 class="active"
+         >
+  THỂ THAO
+  </a>
+           <a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26" 
+                 class="active"
+         >
+  SEA Games 26
+  </a>
+           <a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/tintuc-sukien" 
+                 class="active"
+         >
+  TIN TỨC - SỰ KIỆN
+  </a>
+  </div>
+<div  style="clear:both" ></div>
+
+
+      
+  
+                          
+            	  <div class="folder-header">
+            		
+            			<table border="0" width="993" >
+            				<tr>
+            					<td style="vertical-align:bottom" >
+            					            					<span class="date">
+																			Chủ nhật,
+										ngày 
+										 20 
+										tháng
+										 11
+										năm
+										 2011&nbsp;
+																	</span>
+        
+            					</td>
+            					<td  style="vertical-align:bottom">
+        							<div class="fr">
+            						        							</div>
+            					</td>
+            				</tr>
+            			</table>
+            	  </div>
+				              </div>
+	      		<table border="0" width="993">
+    				<tr>
+    					<td valign="top">
+    											 
+                            
+                            						       							     								<div class="borderLayoutColumn mainColumn" id="col3">
+									    								
+
+
+
+
+
+
+
+	    <div>
+          <div class="element article">
+            							
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td>          
+		<div class="titleNetwork fr">
+			<table width="100%" border="0" cellspacing="10" cellpadding="5">
+				<tr> 
+											<td> <a href="" class="increaseTextSize" style="color:#000000;">+ Chữ to</a>&nbsp;&nbsp;</td> 
+						<td> <a href="" class="decreaseTextSize" style="color:#000000;">- Chữ nhỏ</a>&nbsp;&nbsp;</td> 
+																	<td><a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/tintuc-sukien/u23-vi-t-nam-thua-u23-indonesia-0-2-1.321962?mode=print" target="_blank" style="color:#000000;">
+							<img src="/polopoly_fs/3.147!/print.gif" alt="" title="Bản in"  border="0" style="float:left"/>
+							&nbsp; Bản in</a>&nbsp;&nbsp;</td> 
+					
+											<td> 
+						<div class="articlePDF">
+
+						  						  						  
+							<form method="post" action="/pdf" id="pdfform">
+									  <input type="hidden" name="url" value="http://nhandan.org.vn/cmlink/nhandandientu/thoisu/the-thao/seagames26/tintuc-sukien/u23-vi-t-nam-thua-u23-indonesia-0-2-1.321962?mode=print"/>
+									 <input type="hidden" name="title" value="U23 Việt Nam thua U23 Indonesia 0-2"/>
+									 <a href="javascript:document.forms['pdfform'].submit();" style="color:#000000;"><img src="/polopoly_fs/3.147!/print.gif" border="0" style="float:left" />&nbsp; In ra PDF</a>
+							</form> 
+
+							<script type="text/javascript">
+
+
+									  $(document).ready(function() {  
+									     
+									      $(".PDFbutton").click(function() {
+
+									     var dataString = 'url='+'http://nhandan.org.vn/cmlink/nhandandientu/thoisu/the-thao/seagames26/tintuc-sukien/u23-vi-t-nam-thua-u23-indonesia-0-2-1.321962'+'&title='+'U23 Việt Nam thua U23 Indonesia 0-2';
+									 
+									      jQuery.ajax({
+									              type: "POST",
+									              url: "/pdf",
+									              data: dataString,
+									              success: function() {
+									              }
+									         });
+									        return false;
+									    });
+									  });
+
+
+							</script>
+						</div>
+						</td> 
+									</tr>
+			</table>
+		</div>
+	<br /><br />
+	</td>
+  </tr>
+</table>
+			
+							<div class="titleHint" style="font-style:italic;"><strong></strong></div>
+			          
+            <div class="parentfolder-lead1">
+            	            		U23 Việt Nam thua U23 Indonesia 0-2
+            	            </div>
+
+<div class="articleupdated">Cập nhật lúc 
+    22:00, Thứ bảy, 19/11/2011 (GMT+7)
+</div>  
+          
+                        <div class="parentfolder-content">
+            
+
+            
+
+	
+							<div align="justify">
+						<b>NDĐT- Đội U23 Việt Nam đã trải qua trận bán kết rất căng thẳng và quyết liệt trước đội U23 Indonesia. Chơi đầy quyết tâm nhưng trước đội chủ nhà có nhiều ưu thế, U23 Việt Nam thua chung cuộc 0-2. Hành trình chinh phục SEA Games của bóng đá Việt Nam đã dừng lại và lại phải chờ đến kỳ SEA Games sau.</b></div>
+				   
+		        
+		                                                
+
+			
+                          <div class="parentfolder-content">
+              <p><p>Tốc độ trận đấu được đẩy nhanh ngay từ phút đầu tiên với những pha tranh bóng quyết liệt của cả hai bên. Mặc dù trải qua trận vòng bảng căng thẳng với U23 Malaysia, nhưng thể lực của các cầu thủ U23 Indonesia vẫn rất tốt. Tận dụng ưu thế sân nhà và sức vóc, các cầu thủ Indonesia chơi bóng dài xuống hai cánh để các cầu thủ tuyến trên như Patric, Bonai… dùng tốc độ càn lướt, đưa bóng vào trung lộ cho tuyến hai dứt điểm. Để đối phó, các cầu thủ U23 Việt Nam chơi lăn xà và thường phải phá bóng an toàn ra biên. 15 phút đầu tiên, chưa có cú dứt điểm nào của cả hai bên. Phút 17, thủ môn Bửu Ngọc cứu thua cho U23 Việt Nam khi anh chặn được cú sút cận thành của tiền đạo U23 Indonesia. Sau đó, liên tiếp các phút 18, 19, Bửu Ngọc lại cản phá hai cú phạt góc rất nguy hiểm của đội chủ nhà. Phút 25, sau pha nỗ lực bắt bóng, Bửu Ngọc bị đau. Phải đến phút 35, U23 Việt Nam mới có cú sút đầu tiên của Trọng Hoàng nhưng không trúng đích. Hàng phòng ngự của U23 Indonesia chơi áp sát khiến các cầu thủ tiền đạo của U23 Việt Nam khó xâm nhập vòng cấm. Phút 37, từ pha phối hợp của Trọng Hoàng, Đình Tùng sút bóng chính xác nhưng không đủ hiểm, thủ môn Meiga bắt gọn. Phút bù giờ thứ 5 của hiệp một, hậu vệ Ngọc Anh đã cướp được bóng trong chân tiền đạo Indonesia ở tư thế đối mặt với thủ môn Bửu Ngọc, giải nguy cho U23 Việt Nam. Hiệp một không có bên nào ghi được bàn thắng trong thế trận lấn sân của U23 Indonesia.</p><p>Đầu hiệp hai, cầu thủ Việt Nam để mất bóng nguy hiểm, nhưng cầu thủ Indonesia Bonai không tận dụng được. Pha bóng nguy hiểm nhất mà U23 Việt Nam tạo ra là cú đi bóng và sút khá mạnh của Văn Quyết ở phút 55, nhưng thủ môn Meiga tung người đẩy ra. Phút 61, Patric sút phạt, bóng đi chìm vào góc xa khung thành khiến Bửu Ngọc không cản phá được, U23 Indonesia dẫn 1-0.</p><p>Sau bàn thắng, các cầu thủ U23 Indonesia chơi chắc chắn phần sân nhà và phản công rất nguy hiểm trong lúc U23 Việt Nam dồn lên tìm bàn gỡ. Trận đấu đã được định đoạt ở phút 89 : cầu thủ Bonai sút bóng trúng một hậu vệ U23 Việt Nam và vào lưới, giúp Indonesia ấn định chiến thắng 2-0.</p><p>Thua trận bán kết, U23 Việt Nam sẽ tranh HCĐ với U23 Myanmar trong trận đấu diễn ra ngày 21-11.</p></p>
+              </div>
+
+                            
+              				<div style="clear:both;"></div>
+                <div class="parentfolder-content" style="float:right;">
+                                          <b> PV</b>
+                                                            
+                                    </div>
+                          
+
+	
+		
+			<div class="clearfix"></div>
+			
+			                                
+                               
+                                <div style="margin-top:-5px;">
+                   <div class="content">
+                   <table border="0" width="670">
+    				<tr>
+    					<td>                  
+            			   <div style="float:right; text-decoration:none; color:#000000;">
+                                <table border="0" cellpadding="5">
+                                    <tr>
+                                      <td style="vertical-align:top;padding-top:18px;">
+										
+       
+
+<script src="/polopoly_fs/3.139!/js/formbuilder/jquery.js"></script>
+<script src="/polopoly_fs/3.139!/js/formbuilder/formMail.js"></script>
+<script src="/polopoly_fs/3.139!/js/formbuilder/jquery.field.js"></script>
+<script src="/polopoly_fs/3.139!/js/formbuilder/jquery.field.min.js"></script>
+<script src="/polopoly_fs/3.139!/js/formbuilder/jquery-ui-1.7.2.custom.min.js"></script>
+<script type="text/javascript" src="/polopoly_fs/3.139!/js/vietuni.min.js" ></script>
+
+
+
+
+
+
+
+
+      
+            
+  
+
+
+
+
+  
+  
+  
+<div class="sendMail">
+     <form id="emailform123"> 
+     <input type="hidden" name="url" value="http://nhandan.org.vn/cmlink/nhandandientu/thoisu/the-thao/seagames26/tintuc-sukien/u23-vi-t-nam-thua-u23-indonesia-0-2-1.321962"/>
+     <a href="javascript:document.forms['emailform123'].submit();" id="email_this_article-123" style="text-decoration:none;color:#000000;">
+    
+     <img src="/polopoly_fs/3.139!/img/email.gif"  border="0"  style="display:inline;"/>
+        E-mail
+     </a>     
+     </form>
+</div>
+<script>
+
+JNewQuery().ready(function() { 
+    JNewQuery("#email_this_article-123").click(function() {
+        sendMail();
+    });
+	
+});
+
+
+function sendMail(){
+$j('.sendMail').sendMail("/cmlink/mail-configuration-17.123?sendMail=init&title=U23 Việt Nam thua U23 Indonesia 0-2&url=http://nhandan.org.vn/cmlink/nhandandientu/thoisu/the-thao/seagames26/tintuc-sukien/u23-vi-t-nam-thua-u23-indonesia-0-2-1.321962&locale=vi_VN");
+return false;
+}
+
+JNewQuery.fn.sendMail = function(url)
+    {
+    if(url == null) 
+    return;
+    
+    window.open(url,"_blank","Send article through email","location=0,status=0,scrollbars=0,width=300,height=400"); 
+    }
+</script> 
+
+<script type="text/javascript">
+var resetRand=false;
+var first_time_to_render_captcha_123 = true;
+      var captchaLink="";
+      function firstTimeCaptcha123() {
+        if (first_time_to_render_captcha_123) {
+            renderCaptcha123();
+            JNewQuery("#email_container-123").show();
+        }
+      }
+      
+    function renderCaptcha123() {
+     var randNum = Math.ceil(Math.random()*10000000);
+     var captchaImg = JNewQuery("#captcha_image-123");
+     
+     if(resetRand){
+         randNum = Math.ceil(Math.random()*10000000);
+     }
+     
+     captchaLink=window.location.protocol+"//"+window.location.host+"/captcha?" + randNum;
+     
+     if (captchaImg.length > 0) {
+        captchaImg.attr("src",captchaLink); 
+     } else {
+        var captcha = JNewQuery('#captcha_container-123');
+        captcha.html('<img src="' +captchaLink+'" class="captcha_img" id="captcha_image-123" name="picture"/>');
+     }
+     var img = new Image();
+     img.src=captchaLink;
+     temp="document['picture'].src =img.src;";
+     eval( temp);
+     resetRand=true;
+    
+}
+
+
+
+  	var vUni = new vietUni();
+	if (vUni) {	
+		vUni.initTyper(document.getElementById("sendermail"));
+		vUni.initTyper(document.getElementById("recipientmail"));
+		vUni.initTyper(document.getElementById("message"));
+  	}
+	
+</script>  
+
+&nbsp;&nbsp;
+                                      </td>
+                                      <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                                      <td style="vertical-align:top;">
+                                        
+
+<div class="bookmarks">
+
+      <ul>
+
+			
+	    <li class="pdSocialBookmark" >
+		<a style="text-decoration:none;" 
+    		rel="nofollow" 
+    		href="http://www.facebook.com" 
+    		onClick="window.open('http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnhandan.org.vn%2Fcmlink%2Fnhandandientu%2Fthoisu%2Fthe-thao%2Fseagames26%2Ftintuc-sukien%2Fu23-vi-t-nam-thua-u23-indonesia-0-2-1.321962&t=U23+Vi%E1%BB%87t+Nam+thua+U23+Indonesia+0-2'); return false;" 
+			title="FaceBook"  > 
+    	<img style="padding-bottom:1px;display:block;" src="/polopoly_fs/17.122.1320980758!/work_5420facebook.png"  alt="FaceBook" name="FaceBook" border="0" id="FaceBook" > 			
+    </a>
+	</li>
+			
+	    <li class="pdSocialBookmark" >
+		<a style="text-decoration:none;" 
+    		rel="nofollow" 
+    		href="http://twitter.com" 
+    		onClick="window.open('http://twitter.com/home?status=http%3A%2F%2Fnhandan.org.vn%2Fcmlink%2Fnhandandientu%2Fthoisu%2Fthe-thao%2Fseagames26%2Ftintuc-sukien%2Fu23-vi-t-nam-thua-u23-indonesia-0-2-1.321962'); return false;" 
+			title="Twitter"  > 
+    	<img style="padding-bottom:1px;display:block;" src="/polopoly_fs/17.122.1320980758!/work_5743twitter.GIF"  alt="Twitter" name="Twitter" border="0" id="Twitter" > 			
+    </a>
+	</li>
+			
+	    <li class="pdSocialBookmark" >
+		<a style="text-decoration:none;" 
+    		rel="nofollow" 
+    		href="http://digg.com" 
+    		onClick="window.open('http://digg.com/submit?phase=2&url=http%3A%2F%2Fnhandan.org.vn%2Fcmlink%2Fnhandandientu%2Fthoisu%2Fthe-thao%2Fseagames26%2Ftintuc-sukien%2Fu23-vi-t-nam-thua-u23-indonesia-0-2-1.321962&bodytext=&tags=&title=U23+Vi%E1%BB%87t+Nam+thua+U23+Indonesia+0-2'); return false;" 
+			title="Digg"  > 
+    	<img style="padding-bottom:1px;display:block;" src="/polopoly_fs/17.122.1320980758!/work_5894digg.png"  alt="Digg" name="Digg" border="0" id="Digg" > 			
+    </a>
+	</li>
+			
+	    <li class="pdSocialBookmark" >
+		<a style="text-decoration:none;" 
+    		rel="nofollow" 
+    		href="http://www.webnews.de" 
+    		onClick="window.open('http://www.webnews.de/einstellen?url=http%3A%2F%2Fnhandan.org.vn%2Fcmlink%2Fnhandandientu%2Fthoisu%2Fthe-thao%2Fseagames26%2Ftintuc-sukien%2Fu23-vi-t-nam-thua-u23-indonesia-0-2-1.321962&title=U23+Vi%E1%BB%87t+Nam+thua+U23+Indonesia+0-2'); return false;" 
+			title="WebNews"  > 
+    	<img style="padding-bottom:1px;display:block;" src="/polopoly_fs/17.122.1320980758!/work_5981webnews.png"  alt="WebNews" name="WebNews" border="0" id="WebNews" > 			
+    </a>
+	</li>
+		
+</ul>
+
+</div>
+<div  style="clear:both" ></div>
+                                     </td>
+                                    </tr>
+                              </table>
+            				</div>							  
+    					</td>
+    				</tr>
+    			   </table>
+                   </div>
+                </div>
+				 
+                  
+    
+        
+        
+
+
+
+<div>
+  <div class="articleComments" id="comment-276197">
+  
+
+<div id="commentsForm-276197">
+      
+   <script type="text/javascript">
+
+	var first_time_to_render_captcha_276197 = true;
+      
+      function firstTimeCaptcha276197() {
+        if (first_time_to_render_captcha_276197) {
+            renderCaptcha276197();
+            first_time_to_render_captcha_276197 = false;
+        }
+      }
+      
+      
+      
+    jQuery().ready(function() {
+    
+									  
+											  
+	
+	if (polopoly.user.isLoggedIn() && polopoly.user.screenName().length > 0) {
+        jQuery(".authorRealNameWrapper").html(polopoly.user.screenName());
+    }else{
+
+		
+		jQuery(".authorRealNameWrapper").html('<input name="comment_author" id="comment_author-276197"' + 
+                                              'value=""' + 
+                                              'class="inputField vuni" style="display: block;border-color:#ccc" type="text"/>');
+
+		//VUni.initTyper(document.getElementById("comment_author-276197"));
+    }
+
+	//VUni.initTyper(document.getElementById("comment_text"));
+	//VUni.initTyper(document.getElementById("comment_email-276197"));
+	//VUni.initTyper(document.getElementById("comment_title-276197"));
+
+    
+	    
+    });
+    </script>
+    <form id="commentform276197">
+        <input type="button" class="button submit" id="comment_this_article-276197" value="Ý kiến của bạn" style="border:0;background-color:#cccccc;color:#C00000;"/>
+
+	    	
+    </form>
+	&nbsp;
+    <div class="comment_contents form clearfix" style="display: none;" id="comments_container-276197">
+      <form action="/cmlink/nhandandientu/thoisu/the-thao/seagames26/tintuc-sukien/u23-vi-t-nam-thua-u23-indonesia-0-2-1.321962#commentsForm-276197" method="post" id="commentBlogPostForm-276197">
+        <input name="commentsId" value="7.276197" type="hidden">
+        <input type="hidden" name="action" value="CREATE_COMMENT"/>
+        
+		<table width="500px" border="0" cellspacing="0" cellpadding="0">
+			
+			<tr>
+				<td width="100px" height="40px" style="vertical-align:top;font-family:arial" >
+					Họ và tên
+				</td>
+				<td width="200px" height="40px" style="vertical-align:top;font-family:arial" >
+					<span class="authorRealNameWrapper"></span>
+				</td>
+				<td width="60px" height="40px" style="vertical-align:top;font-family:arial" >
+					Email
+				</td>
+				<td height="40px" style="vertical-align:top;font-family:arial" >
+					<input name="comment_email" id="comment_email-276197" value="" class="vuni required e-mail " style="width:170px display: block;border-color:#ccc;" type="text"/>
+				</td>	
+			</tr>
+			<tr>
+				<td height="40px" style="vertical-align:top;font-family:arial" >
+					Tiêu đề
+				</td>
+    			<td colspan="3" style="vertical-align:top;font-family:arial">
+    				<input name="comment_title" id="comment_title-276197" value="" class="inputField vuni" style="display: block;border-color:#ccc;" type="text"/>
+    			</td>
+			</tr>
+		
+		<tr>
+    <td colspan="4" style="height:35px;font-family:arial;">Mã xác nhận ( Click chuột vào ảnh để thay đổi ảnh khác )</td>  
+</tr>
+<tr>
+    <td><div id="captcha_container-276197" class="captcha_container">
+        </div></td>
+    <td colspan="3" style="vertical-align:middle;"><input name="captcha_response" id="captcha_response-276197" type="text" style="border-color:#ccc;"/></td>
+</tr>
+<tr>
+    <td colspan="4" style="font-family:arial">Mời bạn nhập ý kiến vào ô bên dưới. Xin vui lòng gõ tiếng Việt có dấu. Tòa soạn có thể biên tập lại ý kiến của bạn để phù hợp với tiêu chí chung của toàn soạn.</td>   
+</tr>
+<tr>
+    <td colspan="4"><textarea name="comment_text" id="comment_text" class="vuni" style="width:530px;border-color:#ccc;" cols="100" rows="5"></textarea></td>  
+</tr> 
+<tr>
+    <td colspan="1">
+    <input id="submitCommentBlogPost-276197" class="button submit" value="Gửi tòa soạn" type="submit" style="border:0;background-color:#cccccc;color:#C00000;" >
+		 
+    </td>
+    <td colspan="3" class="font-char" align="right" style="text-align:right;font-family:arial">
+    Gõ tiếng việt
+	
+    <input type="radio" id="typer_mode_1" name="typer_mode" class="sform" value="1" style="border-width:0;" /><label for="typer_mode_1">Telex</label>&nbsp;
+    <input type="radio" id="typer_mode_2" name="typer_mode" class="sform" value="2" style="border-width:0;" /><label for="typer_mode_2">VNI</label>&nbsp;
+    <input type="radio" id="typer_mode_3" name="typer_mode" class="sform" value="3" style="border-width:0;" /><label for="typer_mode_3">VIQR</label>&nbsp;
+    <input type="radio" id="typer_mode_0" name="typer_mode" class="sform" value="0" style="border-width:0;" checked="checked" /><label for="typer_mode_0">OFF</label>            
+	
+	</td>
+    </tr>  
+</table>
+      </form>
+    </div>
+<script type="text/javascript">
+
+    var validation = {
+      rules: {
+        comment_text: {
+          required: true
+        },
+        comment_author: {
+          required: true
+        },
+		        comment_email: {
+		        required: true,
+		        email:true
+		        },
+		        comment_title: {
+		        required: true
+		        },
+		        captcha_response: {
+          required: true
+        }
+      },
+      messages: {
+        comment_text: {
+          required: "Xin hãy nhập Ý kiến."
+        },
+        comment_author: {
+          required: "Xin hãy nhập Họ và tên."
+        },
+        comment_title: {
+          required: "Xin hãy nhập Tiêu đề."
+        },
+        captcha_response: {
+          required: "Mã xác thực không đúng. Xin hãy nhập lại."
+        },
+		        comment_email: {
+          required: "Bạn chưa nhập email hoặc email không đúng. Xin hãy nhập lại.",
+          email: "Bạn chưa nhập email hoặc email không đúng. Xin hãy nhập lại."
+        },
+        captcha_title: {
+          required: "Xin hãy nhập Tiêu đề."
+        }
+      },
+      submitHandler: function(form) {
+        jQuery("#submitCommentBlogPost-276197").css("background-color", "#ccc");
+        jQuery("#submitCommentBlogPost-276197").attr("disabled", true);
+        
+        form.submit();
+        		alert("Cảm ơn Quý vị đã đóng góp ý kiến về bài viết, chúng tôi đã nhận được ý kiến của Quý vị");
+		      }
+    };
+
+function renderCaptcha276197() {
+     var randNum = Math.ceil(Math.random()*10000000);
+     var captchaImg = jQuery("#captcha_image-276197");
+     if (captchaImg.length > 0) {
+        captchaImg.attr("src","/captcha?" + randNum); 
+     } else {
+        var captcha = jQuery('#captcha_container-276197');
+        captcha.html('<img src="/captcha?' +randNum +'" class="captcha_img" id="captcha_image-276197" />');
+        jQuery("#captcha_image-276197").click(renderCaptcha276197);
+    }
+}
+
+jQuery().ready(function() { 
+            
+    
+    //jQuery("#captcha_container-276197").click(renderCaptcha276197);
+    
+    jQuery("#comment_this_article-276197").click(function() {
+        firstTimeCaptcha276197();
+        jQuery("#comments_container-276197").slideToggle("fast");
+        jQuery("#comment_author-276197").focus();
+    });
+    
+});
+
+  jQuery().ready(function() {
+    /* "Error management" */  
+    var validator = jQuery("#commentBlogPostForm-276197").validate(validation);
+  });
+  
+</script>
+</div>
+
+  <div id="commentsField-276197" style="display: none;"></div>
+  <script type="text/javascript">
+	function showComments276197() {
+//if (jQuery("#commentsField-276197 .commentList").length == 0) {
+      		polopoly.comments.get('/cmlink/nhandandientu/thoisu/the-thao/seagames26/tintuc-sukien/u23-vi-t-nam-thua-u23-indonesia-0-2-1.321962/7.276197', 0, "#commentsField-276197",
+       		function() {
+				jQuery("#commentsField-276197").slideDown("fast"); }
+			);
+//      	}
+    }
+	
+	function doComments276197() {
+    
+		if (jQuery("#commentsField-276197 .commentList").length == 0) {
+      		polopoly.comments.get('/cmlink/nhandandientu/thoisu/the-thao/seagames26/tintuc-sukien/u23-vi-t-nam-thua-u23-indonesia-0-2-1.321962/7.276197', 0, "#commentsField-276197",
+       		function() {
+				}
+			);
+      	}
+    }
+	
+    
+    
+    jQuery("#show_comments-276197").click(showComments276197);
+    jQuery("#comment_this_article-276197").click(doComments276197);
+  </script>
+  </div>
+</div>
+
+      
+  
+                      
+				                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td class="externalTable1" >
+                     
+                    <div class="neo-category1 hlo-newsleft clearfix folder-header2"> 
+                    <div class="parentfolder-title fl ml" style="margin-left:-2px;"><a href="#"><strong>Các tin bài khác</strong></a></div>
+                    <div style="clear:both;"></div>
+                    
+					                                            																					                       
+                																                            <div class="font-char" id="link-normal" style="margin-bottom:10px;">
+                               <div style="border: solid 1px #000000; width:15px; text-align:center; float:left; margin-right:10px;">1</div>
+                               <a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/tintuc-sukien/o-t-68-huy-ch-ng-vang-th-thao-vi-t-nam-g-n-t-ch-tieu-va-gi-v-ng-v-tri-th-hai-toan-oan-1.321625"> Ðoạt 68 Huy chương vàng, thể thao Việt Nam gần đạt chỉ tiêu và giữ vững vị trí thứ hai toàn đoàn</a> (18/11)
+                            </div>
+							 														                       
+                																                            <div class="font-char" id="link-normal" style="margin-bottom:10px;">
+                               <div style="border: solid 1px #000000; width:15px; text-align:center; float:left; margin-right:10px;">2</div>
+                               <a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/tintuc-sukien/thua-u23-malaysia-0-1-u23-indonesia-g-p-u23-vi-t-nam-ban-k-t-1.321614"> Thua U23 Malaysia 0-1, U23 Indonesia gặp U23 Việt Nam ở bán kết</a> (17/11)
+                            </div>
+							 														                       
+                																                            <div class="font-char" id="link-normal" style="margin-bottom:10px;">
+                               <div style="border: solid 1px #000000; width:15px; text-align:center; float:left; margin-right:10px;">3</div>
+                               <a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/tintuc-sukien/u23-vi-t-nam-ng-c-dong-th-ng-u23-lao-3-1-1.321605"> U23 Việt Nam ngược dòng thắng U23 Lào 3-1</a> (17/11)
+                            </div>
+							 														                       
+                																                            <div class="font-char" id="link-normal" style="margin-bottom:10px;">
+                               <div style="border: solid 1px #000000; width:15px; text-align:center; float:left; margin-right:10px;">4</div>
+                               <a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/tintuc-sukien/n-15-gi-ngay-17-11-vi-t-nam-gianh-67-hcv-v-t-kha-xa-oan-thai-lan-1.321594"> Đến 15 giờ ngày 17-11 : Việt Nam giành 67 HCV, vượt khá xa đoàn Thái-lan</a> (17/11)
+                            </div>
+							 														                       
+                																                            <div class="font-char" id="link-normal" style="margin-bottom:10px;">
+                               <div style="border: solid 1px #000000; width:15px; text-align:center; float:left; margin-right:10px;">5</div>
+                               <a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/tintuc-sukien/th-thao-vi-t-nam-v-t-qua-thai-lan-gianh-v-tri-th-hai-toan-oan-1.321529"> Thể thao Việt Nam vượt qua Thái-lan, giành vị trí thứ hai toàn đoàn</a> (17/11)
+                            </div>
+							 														                       
+                																                            <div class="font-char" id="link-normal" style="margin-bottom:10px;">
+                               <div style="border: solid 1px #000000; width:15px; text-align:center; float:left; margin-right:10px;">6</div>
+                               <a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/tintuc-sukien/th-ng-u23-ong-ti-mo-1-0-u23-mi-an-ma-gianh-l-i-ngoi-u-b-ng-b-1.321390"> Thắng U23 Ðông Ti-mo 1-0, U23 Mi-an-ma giành lại ngôi đầu bảng B</a> (16/11)
+                            </div>
+							 														                       
+                																                            <div class="font-char" id="link-normal" style="margin-bottom:10px;">
+                               <div style="border: solid 1px #000000; width:15px; text-align:center; float:left; margin-right:10px;">7</div>
+                               <a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/tintuc-sukien/o-t-44-huy-ch-ng-vang-th-thao-vi-t-nam-gi-v-ng-v-tri-th-ba-toan-oan-1.321388"> Ðoạt 44 Huy chương vàng, thể thao Việt Nam giữ vững vị trí thứ ba toàn đoàn</a> (16/11)
+                            </div>
+							 														                       
+                																                            <div class="font-char" id="link-normal" style="margin-bottom:10px;">
+                               <div style="border: solid 1px #000000; width:15px; text-align:center; float:left; margin-right:10px;">8</div>
+                               <a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/tintuc-sukien/c-u-th-bruei-ph-i-a-vi-ni-m-t-hao-1.321283"> Cầu thủ Bruei phải đá vì niềm tự hào </a> (15/11)
+                            </div>
+							 														                       
+                																                            <div class="font-char" id="link-normal" style="margin-bottom:10px;">
+                               <div style="border: solid 1px #000000; width:15px; text-align:center; float:left; margin-right:10px;">9</div>
+                               <a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/tintuc-sukien/th-thao-vi-t-nam-ti-p-t-c-duy-tri-t-p-ba-toan-oan-v-i-26-huy-ch-ng-vang-1.321255"> Thể thao Việt Nam tiếp tục duy trì ở tốp ba toàn đoàn với 26 Huy chương vàng</a> (15/11)
+                            </div>
+							 														                       
+                																                            <div class="font-char" id="link-normal" style="margin-bottom:10px;">
+                               <div style="border: solid 1px #000000; width:15px; text-align:center; float:left; margin-right:10px;">10</div>
+                               <a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/tintuc-sukien/thua-u23-mi-an-ma-0-5-u23-phi-li-pin-b-lo-i-1.321063"> Thua U23 Mi-an-ma: 0-5, U23 Phi-li-pin bị loại</a> (14/11)
+                            </div>
+							 														                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                		                	</div>	
+                    </td>
+                  </tr>
+                </table>
+                				</div>	
+  </div>
+</div>	
+    								</div>
+    							 							    					</td>
+						    					<td style="vertical-align: top" bgcolor="#f0f0f0">
+                    	  <div class="borderLayoutColumn bannerColumn" id="col4">
+                                                          
+                  
+    
+        
+        
+
+<script type="text/javascript">
+var loadlist=1;
+            function loadContent7_272872(elementSelector, sourceUrl,count) {
+            $(""+elementSelector+"").removeClass();
+            loadlist=count;
+            var teaserlist = $(""+elementSelector+"");
+            teaserlist.animate({'opacity':'0.25'},10);
+            var position = teaserlist.offset();
+            var loader = jQuery('<div id="loader" class="loader"></div>');
+            loader.appendTo(document.body);
+            var el = $('#loader');
+            var left = position.left + (teaserlist.width() - el.width()) / 2 + "px";
+            var top = position.top + 100 + "px";
+            el.css({ position: "absolute",marginLeft: 0, marginTop: 0,top: top, left: left});
+            teaserlist.load(sourceUrl, function() {
+            $(this).css('opacity','');
+            loader.remove();
+            
+            });
+            }
+
+</script>
+
+
+        
+
+  
+     
+     
+                        
+            <div id="binh-lu-n-nh-n-nh7_272872" class="element list custom-list ">
+        
+                            							  <h5 class="deptheader" style="display:inline;">BÌNH LUẬN - NHẬN ĐỊNH</h5>
+    			  &nbsp;<img src="/polopoly_fs/3.123!/DoubleArrow.gif" style="display:inline;"/>
+                			            
+              <ul class="linklist">
+                                                                                                                                                                
+            	            	
+                                                    	 	
+                                                                                                                       <li>
+
+
+
+
+
+
+<div class="element teaser">
+	
+  
+            
+  <div class="parentfolder-content">
+      <div class="titleHint" style="font-style:italic;"><strong><p>Trước trận b&aacute;n kết b&oacute;ng đ&aacute; nam SEA Games 26</p></strong></div>
+    <div class="parentfolder-title">
+	<a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/binhluan-nhandinh/dung-v-malaysia-i-pho-v-i-u23-indonesia-1.321810">
+					<p>D&ugrave;ng &quot;v&otilde;&quot; Malaysia đối ph&oacute; với U23 Indonesia ?</p>
+			</a>
+  </div>
+  
+ <div style="float: left;">
+              <img title='Photo: N/A, License: N/A' height='102' alt='vv' width='140' class='teaser-image' src='/polopoly_fs/1.321811.1321607687!/image/4006288938.jpg_gen/derivatives/box_w140/4006288938.jpg' />
+      </div>
+  
+    	  		<div class="custom-list_newmode"><span class="time">16:14 | </span><span class="date">18/11/2011</span></div>
+  	    
+        <div><p style="font-family:arial;font-size:12px;"><p>NDĐT- C&aacute;c trận v&ograve;ng bảng b&oacute;ng đ&aacute; nam đ&atilde; kết th&uacute;c với những vị trị xứng đ&aacute;ng cho c&aacute;c đội đứng đầu mỗi bảng. Đội tuyển U23 Việt Nam đứng đầu bảng B, sẽ gặp đội nh&igrave; bảng A v&agrave; l&agrave; đội chủ nh&agrave; U23 Indonesia trong trận b&aacute;n kết diễn ra l&uacute;c 19 giờ  ng&agrave;y 19-11. R&otilde; r&agrave;ng, đ&acirc;y l&agrave; thử th&aacute;ch lớn, lớn hơn rất nhiều so với những trận v&ograve;ng bảng kh&aacute; thuận lợi của U23 Việt Nam.</p></p></div>
+    
+</div>
+
+<div style="clear:both;"></div>
+<div class="sep-content"></div>
+</div>
+
+</li>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/binhluan-nhandinh/u23-indonesia-mu-n-g-p-u23-myanmar-hay-u23-vi-t-nam-1.321565" class="arial" style="font-size: 12px;">U23 Indonesia muốn gặp U23 Myanmar hay U23 Việt Nam ?</a> <span style="color:#000000;font:12px arial;">(17/11)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/binhluan-nhandinh/u23-thai-lan-ang-lo-1.320962" class="arial" style="font-size: 12px;">U23 Thái-lan đang lo</a> <span style="color:#000000;font:12px arial;">(13/11)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/binhluan-nhandinh/b-t-c-trong-d-t-i-m-u23-vi-t-nam-bu-c-ph-i-chia-i-m-v-i-u23-mi-an-ma-1.319790" class="arial" style="font-size: 12px;">Bế tắc trong dứt điểm, U23 Việt Nam buộc phải chia điểm với U23 Mi-an-ma</a> <span style="color:#000000;font:12px arial;">(06/11)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/binhluan-nhandinh/u23-vi-t-nam-b-u23-myanmar-chia-i-m-1.319752" class="arial" style="font-size: 12px;">U23 Việt Nam bị U23 Myanmar chia điểm</a> <span style="color:#000000;font:12px arial;">(05/11)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/binhluan-nhandinh/oan-th-thao-vi-t-nam-xu-t-quan-d-sea-games-26-1.319079" class="arial" style="font-size: 12px;">Ðoàn thể thao Việt Nam xuất quân dự SEA Games 26</a> <span style="color:#000000;font:12px arial;">(01/11)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/binhluan-nhandinh/kho-kh-n-m-i-c-a-i-tuy-n-u23-vi-t-nam-1.318773" class="arial" style="font-size: 12px;">Khó khăn mới của đội tuyển U23 Việt Nam</a> <span style="color:#000000;font:12px arial;">(30/10)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                    				                 </ul>
+              
+            </div>
+           
+  
+          
+        
+
+<script type="text/javascript">
+var loadlist=1;
+            function loadContent7_272871(elementSelector, sourceUrl,count) {
+            $(""+elementSelector+"").removeClass();
+            loadlist=count;
+            var teaserlist = $(""+elementSelector+"");
+            teaserlist.animate({'opacity':'0.25'},10);
+            var position = teaserlist.offset();
+            var loader = jQuery('<div id="loader" class="loader"></div>');
+            loader.appendTo(document.body);
+            var el = $('#loader');
+            var left = position.left + (teaserlist.width() - el.width()) / 2 + "px";
+            var top = position.top + 100 + "px";
+            el.css({ position: "absolute",marginLeft: 0, marginTop: 0,top: top, left: left});
+            teaserlist.load(sourceUrl, function() {
+            $(this).css('opacity','');
+            loader.remove();
+            
+            });
+            }
+
+</script>
+
+
+        
+
+  
+     
+     
+                        
+            <div id="ben-l-sea-games7_272871" class="element list custom-list ">
+        
+                            							  <h5 class="deptheader" style="display:inline;">BÊN LỀ SEA GAMES</h5>
+    			  &nbsp;<img src="/polopoly_fs/3.123!/DoubleArrow.gif" style="display:inline;"/>
+                			            
+              <ul class="linklist">
+                                                                                                                                                                
+            	            	
+                                                    	 	
+                                                                                                                       <li>
+
+
+
+
+
+
+<div class="element teaser">
+	
+  
+            
+  <div class="parentfolder-content">
+      <div class="titleHint" style="font-style:italic;"><strong></strong></div>
+    <div class="parentfolder-title">
+	<a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/benle/th-t-v-ng-c-u-long-vi-t-nam-1.321622">
+					<p>Thất vọng cầu l&ocirc;ng Việt Nam</p>
+			</a>
+  </div>
+  
+ <div style="float: left;">
+              <img title='Photo: , License: N/A' height='185' alt='21906.jpg' width='140' class='teaser-image' src='/polopoly_fs/1.321621.1321562250!/image/1091378917.jpg_gen/derivatives/box_w140/1091378917.jpg' />
+      </div>
+  
+    	  		<div class="custom-list_newmode"><span class="time">03:36 | </span><span class="date">18/11/2011</span></div>
+  	    
+        <div><p style="font-family:arial;font-size:12px;"><p>Niềm kỳ vọng về một Huy chương v&agrave;ng SEA Games cho cầu l&ocirc;ng Việt Nam của tay vợt hạng 7 thế giới Nguyễn Tiến Minh kh&ocirc;ng th&agrave;nh khi anh để thua đối thủ người Xin-ga-po &ETH;i-rếch V&ocirc;ng 0-2 (14-21, 15-21) ở v&ograve;ng tứ kết diễn ra ng&agrave;y 17-11.</p></p></div>
+    
+</div>
+
+<div style="clear:both;"></div>
+<div class="sep-content"></div>
+</div>
+
+</li>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/benle/b-t-ng-mon-i-n-kinh-1.321519" class="arial" style="font-size: 12px;">Bất ngờ ở môn điền kinh</a> <span style="color:#000000;font:12px arial;">(17/11)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/benle/b-ch-n-th-ng-nh-ng-v-n-chinh-ph-c-m-c-xa-1-m-90-1.321252" class="arial" style="font-size: 12px;">Bị chấn thương nhưng vẫn chinh phục mức  xà 1 m 90</a> <span style="color:#000000;font:12px arial;">(15/11)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/benle/ha-n-i-s-soi-ng-nh-nh-ng-ngay-h-i-c-a-aff-cup-2008-1.321047" class="arial" style="font-size: 12px;">Hà Nội sẽ sôi động như những ngày hội của AFF Cup 2008</a> <span style="color:#000000;font:12px arial;">(14/11)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/benle/m-t-vang-vi-ch-n-th-ng-1.320911" class="arial" style="font-size: 12px;">Mất vàng vì chấn thương</a> <span style="color:#000000;font:12px arial;">(13/11)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/benle/hy-v-ng-v-t-ng-ng-tam-huy-ch-ng-vang-c-a-i-n-kinh-vi-t-nam-1.320828" class="arial" style="font-size: 12px;">Hy vọng vượt ngưỡng tám huy chương vàng của điền kinh Việt Nam</a> <span style="color:#000000;font:12px arial;">(12/11)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/benle/trung-tam-bao-chi-v-n-ch-a-s-n-sang-1.320398" class="arial" style="font-size: 12px;">Trung tâm báo chí vẫn chưa sẵn sàng</a> <span style="color:#000000;font:12px arial;">(10/11)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/benle/l-ch-s-m-t-s-k-sea-games-1.320352" class="arial" style="font-size: 12px;">Lịch sử một số kỳ SEA Games</a> <span style="color:#000000;font:12px arial;">(10/11)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/benle/c-u-th-thai-lan-quy-t-ph-c-h-n-u23-malaysia-1.320068" class="arial" style="font-size: 12px;">Cầu thủ Thái-lan quyết "phục hận" U23 Malaysia</a> <span style="color:#000000;font:12px arial;">(08/11)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/benle/v-v-indonesia-c-h-a-th-ng-l-n-1.319820" class="arial" style="font-size: 12px;">VĐV Indonesia được hứa thưởng lớn</a> <span style="color:#000000;font:12px arial;">(06/11)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                    				                   <br/>
+                <div align="center">
+                    
+                                                                                                                                                            1
+                                                                                                                        <a href="javascript:loadContent7_272871('#ben-l-sea-games7_272871','/cmlink/7.272871?subPage=2&locale=vi_VN','2');">2</a>
+                                                                                                                                <a href="javascript:loadContent7_272871('#ben-l-sea-games7_272871','/cmlink/7.272871?subPage=2&locale=vi_VN','2');" class="next">Tiếp theo</a>
+                                            
+                </div>
+                          </ul>
+              
+            </div>
+           
+  
+          
+        
+
+<script type="text/javascript">
+var loadlist=1;
+            function loadContent7_272870(elementSelector, sourceUrl,count) {
+            $(""+elementSelector+"").removeClass();
+            loadlist=count;
+            var teaserlist = $(""+elementSelector+"");
+            teaserlist.animate({'opacity':'0.25'},10);
+            var position = teaserlist.offset();
+            var loader = jQuery('<div id="loader" class="loader"></div>');
+            loader.appendTo(document.body);
+            var el = $('#loader');
+            var left = position.left + (teaserlist.width() - el.width()) / 2 + "px";
+            var top = position.top + 100 + "px";
+            el.css({ position: "absolute",marginLeft: 0, marginTop: 0,top: top, left: left});
+            teaserlist.load(sourceUrl, function() {
+            $(this).css('opacity','');
+            loader.remove();
+            
+            });
+            }
+
+</script>
+
+
+        
+
+  
+     
+     
+                        
+            <div id="g-ng-m-t7_272870" class="element list custom-list ">
+        
+                            							  <h5 class="deptheader" style="display:inline;">GƯƠNG MẶT</h5>
+    			  &nbsp;<img src="/polopoly_fs/3.123!/DoubleArrow.gif" style="display:inline;"/>
+                			            
+              <ul class="linklist">
+                                                                                                                                                                
+            	            	
+                                                    	 	
+                                                                                                                       <li>
+
+
+
+
+
+
+<div class="element teaser">
+	
+  
+            
+  <div class="parentfolder-content">
+      <div class="titleHint" style="font-style:italic;"><strong></strong></div>
+    <div class="parentfolder-title">
+	<a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/guongmat/n-kinh-ng-gianh-5-hcv-1.321807">
+					<p>Nữ &quot;k&igrave;nh ngư&quot; gi&agrave;nh 5 HCV</p>
+			</a>
+  </div>
+  
+ <div style="float: left;">
+    </div>
+  
+    	  		<div class="custom-list_newmode"><span class="time">16:13 | </span><span class="date">18/11/2011</span></div>
+  	    
+        <div><p style="font-family:arial;font-size:12px;"><p>NDĐT- VĐV bơi lội Th&aacute;i-lan Natthanan Jankrajang đ&atilde; gi&agrave;nh 5 HCV v&agrave; l&agrave; VĐV thi đấu th&agrave;nh c&ocirc;ng nhất của đo&agrave;n Th&aacute;i-lan. Chiếc HCV thứ năm của Natthanan l&agrave; nội dung bơi hỗn hợp 200 m hỗn hợp nữ. C&ocirc; g&aacute;i người Bangkok n&agrave;y về đ&iacute;ch với th&agrave;nh t&iacute;ch 2 ph&uacute;t 18 gi&acirc;y 75.</p></p></div>
+    
+</div>
+
+<div style="clear:both;"></div>
+<div class="sep-content"></div>
+</div>
+
+</li>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/guongmat/8-tu-i-gianh-hcv-1.321729" class="arial" style="font-size: 12px;">8 tuổi giành HCV</a> <span style="color:#000000;font:12px arial;">(18/11)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/guongmat/ba-n-i-76-tu-i-gianh-hcb-1.321463" class="arial" style="font-size: 12px;">Bà nội 76 tuổi giành HCB</a> <span style="color:#000000;font:12px arial;">(16/11)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/guongmat/hoang-qu-ph-c-kinh-ng-tr-pha-k-l-c-sea-games-1.321258" class="arial" style="font-size: 12px;">Hoàng Quý Phước - "kình ngư" trẻ phá kỷ lục SEA Games</a> <span style="color:#000000;font:12px arial;">(15/11)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26/guongmat/ngh-ch-l-le-bich-ph-ng-1.319082" class="arial" style="font-size: 12px;">Nghịch lý Lê Bích Phương</a> <span style="color:#000000;font:12px arial;">(01/11)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                    				                 </ul>
+              
+            </div>
+           
+  
+      
+  
+                                                              
+                                                                                                                              </div>
+    					</td>
+					       				</tr>
+    			</table>
+    </div>
+    
+	
+	
+	<!-- Footer Banner -->
+	
+		<div class="footer-banner">	
+					
+                  
+    
+    
+  
+      			</div>	
+	<!-- Footer -->
+	<div class="footer-style" id="footer">
+					
+                  
+    
+        
+        
+        
+            <div class="gachchan"></div>
+        
+      
+          
+        
+        
+            <div style="background-color: #fff;color:#000000;display:block;font-family:Arial;font-size:12px;font-weight:normal;text-align:left;border:solid 0px;"><p>Tổng biên tập <strong>THUẬN HỮU</strong>. © Báo <font color="#A31C20" style="font-weight:bold;">Nhân Dân </font> thiết kế và giữ bản quyền. Mong bạn đọc góp ý kiến, phê bình.</p><p>Trụ sở Bộ biên tập: 71 Hàng Trống - Hà Nội.&nbsp;Tel: (84 4) 38254231/38254232 Fax:(84 4) 38255593/38289432.E-mail: <a href="mailto:toasoan@nhandan.org.vn" style="text-decoration:none;">toasoan@nhandan.org.vn</a></p></div><div style="background:#A31C20top
+ left 
+repeat-x;width:100%;float:left;height:3px;margin-bottom:5px;overflow:hidden;border:solid
+ 0px;margin-top:5px;" ></div>
+        
+      
+      
+  
+      			</div>
+	
+	
+	</div>
+	</div>
+	
+	<!-- js -->
+
+    
+
+</center>	
+
+    	    <div>
+      	        	<img src='/logger/p.gif?a=1.321962&amp;d=/2.617/2.618/2.629/2.1185/2.1190' alt='' />      	    </div>
+	   <script type="text/javascript" src="/js/site-min.min.js"></script>
+
+<!--  PopCalendar(tag name and id must match) Tags should not be enclosed in tags other than the html body tag. -->
+<iframe width=132 height=142 name="gToday:contrast:agenda.min.js" id="gToday:contrast:agenda.min.js" src="/DateRange/ipopeng.htm" scrolling="no" frameborder="0" style="visibility:visible; z-index:999; position:absolute; top:-500px; left:-500px;">
+</iframe>
+ </body>
+</html>

@@ -1,0 +1,732 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><link href="../../../App_Themes/Hanoimoi/Contact.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/mouseovertabs.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/newscategory.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/newsdetail.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/stylehome.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/thickbox.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/Top_Tip.css" type="text/css" rel="stylesheet" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta http-equiv="refresh" content="600" /><title>
+	
+        Bồ Đào Nha lách qua cửa hẹp
+</title><link href="/Client/slide/featuredcontentglider.css" rel="stylesheet" type="text/css" /><link href="/Client/jquery.ui.tab/css/flick/jquery-ui-1.7.2.custom.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        body
+        {
+            margin: 0px;
+            padding: 0px 0px 60px;
+            background: #FFFFFF no-repeat fixed center 0px;
+        }
+        .divFixed
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            left: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixed_R
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            right: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixedBg_IE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_RIE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_IE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+        .divFixedBg_RIE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+    </style>
+    <script language="JavaScript" type="text/javascript"> 
+//    function LoadImages(s,c)
+//    {
+//   
+//        s.getAttribute("loi")==null?s.setAttribute("loi","1"):s.setAttribute("loi",eval(s.getAttribute("loi"))+1);
+//        if(eval(s.getAttribute("loi"))>=2){c=c.substr(c.lastIndexOf("=")+1,c.length-c.lastIndexOf("="));
+//        s.onerror=null;s.src="/App_Themes/Default/Images/no_image_"+c+".jpg"}
+//        else s.src=c
+//    }
+     function returnUrl12() {
+            var key = document.getElementById('txt_search')
+	       
+            if (key.value.length != 0) {
+                location= "/NewsSearch.aspx?keyword=" + encodeURIComponent(key.value);
+		return false;	
+            }
+            else {
+                alert("Cần nhập từ khóa để tìm kiếm");
+                document.getElementById('txt_search').focus();
+                return false;
+            }
+        }
+    </script>
+  <link href="/StyleSheets/Poll/style.css" rel="stylesheet" type="text/css" /><link rel="shortcut icon" href="../../../Images/hanoimoi.ico" />
+    <script src="/Scripts/jquery.js" type="text/javascript"></script>
+    <script src="/Scripts/AdsFloat.js" type="text/javascript"></script>
+    <script src="/Client/slide/featuredcontentglider2.js" type="text/javascript"></script>    
+    <script src="/Scripts/jquery.query.js" type="text/javascript"></script>
+    <script src="/Scripts/swfobject.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/Scripts/hanoimoi.js"></script>
+    <script src="/Client/jquery.ui.tab/js/jquery-ui-1.7.2.tab.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/Scripts/thickbox-compressed.js"></script>
+	<script type="text/javascript" src="http://media.adnetwork.vn/js/adnetwork.js"></script>
+    
+    
+   
+
+    <!--###################End Tooltip##########################-->
+    <style type="text/css">
+        .highlight
+        {
+            background: yellow;
+            color: black;
+            text-decoration: none;
+        }
+        #dhtmltooltip
+        {
+            position: absolute;
+            left: -300px;
+            width: 150px;
+            border: 1px solid black;
+            padding: 2px;
+            background-color: lightyellow;
+            visibility: hidden;
+            z-index: 9999 !important; /*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+            filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+        }
+        #dhtmlpointer
+        {
+            position: absolute;
+            left: -300px;
+            z-index: 99999 !important;
+            visibility: hidden;
+        }
+        body
+        {
+            margin: 0px;
+            padding: 0px 0px 60px;
+            background: #FFFFFF url(/Customize/ExtendBanner/bg_tgdd_0410.jpg) no-repeat fixed center 0px;
+        }
+        .divFixed
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            left: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixed_R
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            right: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixedBg_IE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_RIE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_IE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+        .divFixedBg_RIE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+    </style>
+
+    <script type="text/javascript" src="/Scripts/ActiveX_Template.js"></script>
+    
+    
+    </head>
+<body style="margin:0; padding:0;">
+    <form name="aspnetForm" method="post" action="bo-đao-nha-lach-qua-cua-hep.htm" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJLTk4MjQ1MDU1ZGQLirYfKepuowXRUZVsUWmlThW1Ag==" />
+
+
+<script src="/ScriptResource.axd?d=TEJ5JDBYH8iDXkMoP-kI-NQ-GMWRyqfqR2ZcDEQ53TBKfLB1QB-Wg2EUcTAzsCtACvAWKyvj54Or-yLWqpm83NMKMR4kCUPEHYGRwb2U49JunkeN_GhVgoWGxhXiSc03ZcazNYuJa848n0WT__HiZQTW1Mip5ZBmjnO8exsnFHeVV9UU0&amp;t=ffffffffea696f7c" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWFQKYnrHlCwLiydb3BgKA4oCQBQKPs5q3DQKzqrHfCAKIzPeOAQKLwJnaCgLU4dDxBwLhocvvAwLV48O+CwLUpYXRBwLG+9tdAtHP1+4MAvTq4aQDAurX1ecJAvfgtPQMAt3E+90MAtuu0ogPAtO368wBAtiWq7sNAueVloQCRwmP6/46rzxwysZ2330knBp+YKU=" />
+        <!-- Quang cao 2 ben trang -->
+    <div id="divResult"></div>
+    
+
+ 
+    <div >
+        
+        <div id="main_body" >
+            <div id="top">
+                <div class="wrapbar" id="dvBanner">
+                    <div class="left_logo">
+                        <a href="#">
+                            <img alt="" src="/images/hanoimoi_logo.png" border="0" /></a>
+                    </div>
+                    <div class="right_adv">
+                       <a href='/newscategory/361/SEAGames26.htm'><img src='/Uploads/NCC/2011/ads-chuyenmuc/Segame_640x87.jpg'></img></a>
+
+                    </div>
+                </div>
+                <div id="dvTopMenu">
+                    <div class="wrapbar">
+                        <div class="menu_content2">
+                            <div id="mytabsmenu" class="tabsmenuclass">
+                                <ul class="menutop"><li><a href="/index.htm" rel="gotsubmenu[selected]">Trang chủ</a></li><li><a id='Chinh-tri' rel="gotsubmenu" href="/categoryparent/192/Chinh-tri.htm">Chính trị</a></li><li><a id='Xa-hoi' rel="gotsubmenu" href="/categoryparent/163/Xa-hoi.htm">Xã hội</a></li><li><a id='Kinh-te' rel="gotsubmenu" href="/categoryparent/190/Kinh-te.htm">Kinh tế</a></li><li><a id='The-gioi' rel="gotsubmenu" href="/categoryparent/189/The-gioi.htm">Thế giới</a></li><li><a id='Van-hoa' rel="gotsubmenu" href="/categoryparent/179/Van-hoa.htm">Văn hóa</a></li><li><a id='The-thao' rel="gotsubmenu[selected]" href="/categoryparent/170/The-thao.htm">Thể thao</a></li><li><a id='Giao-duc' rel="gotsubmenu" href="/categoryparent/164/Giao-duc.htm">Giáo dục</a></li><li><a id='1000_nam_thang_long' rel="gotsubmenu" href="/categoryparent/204/1000_nam_thang_long.htm">Thăng Long - Hà Nội</a></li><li><a id='Phap-luat' rel="gotsubmenu" href="/categoryparent/175/Phap-luat.htm">Pháp luật</a></li><li><a id='Khoa-hoc' rel="gotsubmenu" href="/categoryparent/100/Khoa-hoc.htm">Khoa học</a></li><li><a id='Doi-song' rel="gotsubmenu" href="/categoryparent/224/Doi-song.htm">Đời sống</a></li></ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="wrapbar">
+                        <div class="menu_boder_left">
+                            <!---->
+                        </div>
+                        <div class="sub_menu_content">
+                            <div id="mysubmenuarea" class="tabsmenucontentclass">
+                                <!--1st link within submenu container should point to the external submenu contents file-->
+                                <a href="/submenucontents.aspx" style="visibility: hidden">
+                                    Sub Menu contents</a>
+                            </div>
+
+                            <script type="text/javascript">
+                                //mouseovertabsmenu.init("tabs_container_id", "submenu_container_id", "bool_hidecontentsmouseout")
+                                mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
+
+                            </script>
+
+                        </div>
+                        <div class="menu_boder_right">
+                            <!---->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+
+<div id="main_wrap">
+        <div class="wrapbar">
+           <div class="left_news_category_box">
+                <div class="left_category_news">
+                    
+
+<script language="javascript" type="text/javascript">
+    $(function() {
+
+        // hides the slickbox as soon as the DOM is ready
+        // (a little sooner than page load)
+        $('#slickbox').hide();
+        $('#sendcomment').hide();
+        // shows the slickbox on clicking the noted link  
+        $('a#slick-show').click(function() {
+            $('#slickbox').show('slow');
+            return false;
+        });
+        $(".btnEmai").click(function() {
+            var pID = $(this).attr("id");
+            var pShortName = $(this).parent().attr("id");
+            tb_show('Kết quả bình luận', '/PrintNews.aspx?newsID=' + pID + '&shortname=' + pShortName + '&no_refresh=1&TB_iframe=true&height=430&width=450&modal=true');
+            return false;
+        });
+        // hides the slickbox on clicking the noted link  
+        $('a#slick-hide').click(function() {
+            $('#slickbox').hide('fast');
+            return false;
+        });
+
+        // toggles the slickbox on clicking the noted link  
+        $('a#slick-toggle').click(function() {
+            $('#slickbox').toggle(400);
+            return false;
+        });
+        // toggles the slickbox on clicking the noted link  
+        $('a#slick-toggle-send').click(function() {
+            $('#sendcomment').toggle(400);
+            return false;
+        });
+        $(".keyword").live('click', function() {
+            location='/NewsSearch.aspx?keyword='+$.trim($(this).html());
+            return false;
+        });
+    });
+</script>
+
+<div class="content_category_news">
+    <div class="content_category_news_title">
+        <a id="ctl00_MainContent_NewsDetailControl_lnkNameCategory"></a>
+        <span class='content_category_news_title_parent'><a href='/categoryparent/170/The-thao.htm' class='parentCatTitle' rel='The-thao' style='font-family:Arial;color:#0066CC;font-weight:bold;font-size:12px;text-transform:uppercase;'>Thể thao</a>&nbsp;>&nbsp;<a style='font-family:Arial;color:#0066CC;font-weight:bold;font-size:11px;text-transform:uppercase;' href='/newscategory/321/euro2012.htm'>Euro 2012</a></span>
+    </div>
+    <div class="content_category_news_dot">
+    </div>
+    <br class="clearfloat" />
+    <div class="content_news_detail">
+        <div class="icon_print_email">
+            <a href="#" id="euro2012">
+                <img src="/images/email.gif" /><span class="btnEmai"
+                    id="530332">Email</span></a><a href="/print/530332/print.htm"><img
+                        src="/images/print.gif" /><span>Print</span></a>
+        </div>
+        <br class="clearfloat" />
+        <div class="content_body_detail">
+            <table id="ctl00_MainContent_NewsDetailControl_rptNewsDetail" cellspacing="0" border="0">
+	<tr>
+		<td>
+                    <div class="subtitle_news_detail" style="color: #808080; font-size: 9pt; font-weight: bold">
+                        Các trận Play-off vòng loại Euro 2012:
+                    </div>
+                    <div class="title_news_detail">
+                        Bồ Đào Nha lách qua cửa hẹp&nbsp;
+                    </div>
+                    <div style="float:left;font-size: small; color: Gray">
+                        17/11/2011 07:07
+                    </div>
+                    
+                    <div  style="color:#777777;float:left;padding-left:5px;">
+                           
+                           </div>
+                            
+                    <br class="clearfloat" />
+                    <div class="body">
+                        
+                    </div>
+                    <div class="body_detail">
+                        <p style="text-align: justify"><strong>(HNM) - C&aacute;c &quot;&ocirc;ng lớn&quot; T&acirc;y Ban Nha, Italia, Đức, H&agrave; Lan, Ph&aacute;p, Anh đều đ&atilde; gi&agrave;nh v&eacute; ch&iacute;nh thức dự VCK Euro 2012. Ri&ecirc;ng Bồ Đ&agrave;o Nha phải tranh v&eacute; vớt. Đối thủ Bosnia &amp; Herzegovina của họ kh&ocirc;ng phải l&agrave; đội b&oacute;ng dễ bị đ&aacute;nh bại, nhưng đẳng cấp v&agrave; một ch&uacute;t may mắn đ&atilde; gi&uacute;p Bồ Đ&agrave;o Nha l&aacute;ch qua khung cửa hẹp.</strong></p>
+<table border="0" cellspacing="1" cellpadding="2" width="200" align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center"><img alt="" width="398" height="274" src="/Uploads/tuanphong/2011/11/17/ronaldo.jpg" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><span style="color: #003366"><span style="font-size: 11px">Ronaldo v&agrave; đồng đội đ&atilde; c&oacute; một trận đấu tưng bừng gi&uacute;p đội tuyển Bồ Đ&agrave;o Nha gi&agrave;nh quyền tham dự euro 2012.</span></span></td>
+        </tr>
+    </tbody>
+</table>
+<p style="text-align: justify">Thực tế đ&atilde; chứng minh Bosnia &amp; Herzegovina l&agrave; đối thủ rất kh&oacute; chơi khi họ cầm ch&acirc;n Bồ Đ&agrave;o Nha 0-0 ở trận lượt đi tại Sarajevo trong thế trận trội hơn đội b&oacute;ng c&oacute; si&ecirc;u sao Cristiano Ronaldo. Ngay cả khi gặp Ph&aacute;p, Bosnia &amp; Herzegovina cũng chơi ngang ngửa. Đ&aacute;ng tiếc, khi họ chỉ c&aacute;ch VCK Euro 2012 c&oacute; 12 ph&uacute;t th&igrave; Samir Nasri ghi b&agrave;n từ chấm phạt đền gi&uacute;p tuyển Ph&aacute;p gi&agrave;nh được trận h&ograve;a ngay tr&ecirc;n s&acirc;n nh&agrave;, đoạt v&eacute; ch&iacute;nh thức dự VCK Euro 2012, c&ograve;n Bosnia &amp; Herzegovina phải tranh v&eacute; vớt. Nhưng chừng đ&oacute; đủ cho thấy Bosnia &amp; Herzegovina sẵn s&agrave;ng g&acirc;y bất ngờ trước bất kỳ &quot;&ocirc;ng lớn&quot; n&agrave;o. Trong đội h&igrave;nh Bosnia &amp; Herzegovina c&oacute; những cầu thủ xuất sắc như Edin Dzeko của Manchester City hay Miralem Pjanic của AS Roma. Lối chơi nhanh, đậm chất kỹ thuật v&agrave; đầy bất ngờ của Bosnia &amp; Herzegovina l&agrave; b&agrave;i &quot;test&quot; khắc nghiệt d&agrave;nh cho Bồ Đ&agrave;o Nha.<br />
+<br />
+Hơn hẳn Bosnia &amp; Herzegovina về mặt lực lượng với những ng&ocirc;i sao như Cristiano Ronaldo, Pepe, Nani, Coentrao, Meireles... nhưng qua c&aacute;c trận đấu v&ograve;ng loại của Bồ Đ&agrave;o Nha c&oacute; thể thấy r&otilde; nhược điểm về mặt kinh nghiệm của HLV trẻ Paulo Bento. Đ&acirc;y l&agrave; một nh&agrave; cầm qu&acirc;n c&oacute; t&agrave;i nhưng vẫn cần th&ecirc;m thời gian cọ x&aacute;t. Được nắm một đội b&oacute;ng lớn từ khi c&ograve;n qu&aacute; trẻ chưa hẳn l&agrave; điều tốt, Bento chưa thể ph&aacute;t huy hết t&agrave;i năng của Ronaldo v&agrave; đồng đội, chọn những con người v&agrave; chiến thuật ph&ugrave; hợp nhất trong từng trận đấu, đặc biệt l&agrave; những trận quan trọng. Hai trận đấu giữa Bồ Đ&agrave;o Nha v&agrave; Bosnia &amp; Herzegovina thuộc dạng n&agrave;y, kh&oacute; khăn dồn về ph&iacute;a Bồ Đ&agrave;o Nha v&igrave; &aacute;p lực t&acirc;m l&yacute; rất lớn. Đội b&oacute;ng n&agrave;y từng thi đấu rất th&agrave;nh c&ocirc;ng trong v&ograve;ng 10 năm qua (b&aacute;n kết Euro 2000, chung kết Euro 2004, b&aacute;n kết World Cup 2006, tứ kết Euro 2008, v&ograve;ng 2 World Cup 2010 sau khi thất bại s&aacute;t n&uacute;t trước đội sau đ&oacute; trở th&agrave;nh nh&agrave; v&ocirc; địch l&agrave; T&acirc;y Ban Nha), nếu đội b&oacute;ng của Ronaldo kh&ocirc;ng lọt được v&agrave;o VCK Euro 2012 sẽ l&agrave; một thất bại lớn. <br />
+<br />
+May cho giới h&acirc;m mộ Bồ Đ&agrave;o Nha, ở trận lượt về tại Lisbon, chiến thắng đ&atilde; thuộc về đội b&oacute;ng của Ronaldo. Cầu thủ n&agrave;y ghi 2 b&agrave;n, g&oacute;p 2 đường chuyền th&agrave;nh b&agrave;n. Thực ra, c&oacute; l&uacute;c Bồ Đ&agrave;o Nha đ&atilde; v&ocirc; c&ugrave;ng lo lắng khi Bosnia &amp; Herzegovina li&ecirc;n tiếp rượt đuổi về tỷ số: sau khi bị dẫn 0-2 đ&atilde; r&uacute;t ngắn c&aacute;ch biệt c&ograve;n 1-2, khi bị dẫn 1-3 đ&atilde; r&uacute;t ngắn c&aacute;ch biệt c&ograve;n 2-3. Ở những thời điểm đ&oacute;, chỉ cần Bosnia &amp; Herzegovina ghi th&ecirc;m 1 b&agrave;n l&agrave; Bồ Đ&agrave;o Nha sẽ bị loại. May sao, v&agrave;o l&uacute;c kh&oacute; khăn nhất, những c&aacute; nh&acirc;n nổi bật của Bồ Đ&agrave;o Nha đ&atilde; tỏa s&aacute;ng kịp thời. Helder Postiga ghi 2 b&agrave;n, Nani v&agrave; Miguel Veloso cũng lập c&ocirc;ng gi&uacute;p Bồ Đ&agrave;o Nha thắng chung cuộc 6-2, gi&agrave;nh v&eacute; dự VCK Euro 2012 v&agrave;o ph&uacute;t ch&oacute;t. <br />
+<br />
+Ở c&aacute;c cặp đấu kh&aacute;c, sau khi sớm tạo ưu thế ở lượt đi c&aacute;c đội Ireland, Czech v&agrave; Croatia kh&ocirc;ng gặp kh&oacute; khăn n&agrave;o tr&ecirc;n s&acirc;n nh&agrave; trước Estonia, Montenegro v&agrave; Thổ Nhĩ Kỳ. <br />
+<br />
+Như vậy, c&aacute;c đội Bồ Đ&agrave;o Nha, Ireland, Czech v&agrave; Croatia gi&agrave;nh v&eacute; vớt, sẽ c&ugrave;ng với Ba Lan v&agrave; Ukraine (đồng chủ nh&agrave;), Ph&aacute;p, Italia, Anh, T&acirc;y Ban Nha, Đức, H&agrave; Lan, Thụy Điển, Nga, Đan Mạch, Hy Lạp&hellip; dự VCK Euro 2012. Lễ bốc thăm chia bảng sẽ diễn ra v&agrave;o ng&agrave;y 2-12.</p>
+                    </div>
+                    <div class="author">
+                        <br />
+                        Vũ Nguyên&nbsp;<span style="font-weight: normal; font-style: italic"></span>
+                    </div>
+                    <br class="clearfloat" />
+                </td>
+	</tr>
+</table>
+            
+            
+            
+            <br class="clearfloat" />
+        </div>
+        <div>
+            <span id="ctl00_MainContent_NewsDetailControl_lblDate"></span>
+        </div>
+        <div class="new_detail_adv">
+        <br>
+
+        </div>
+        <div style="padding:5px;">
+        <div style="display:block;">
+            <div class="news_detail_comment">
+                <a style="font-size:12px;text-transform:uppercase;font-weight:bold;font-family:Verdana,Arial;" href="#" id="slick-toggle">Xem phản hồi</a> | <a style="font-size:12px;text-transform:uppercase;font-weight:bold;font-family:Verdana,Arial;" href="#" id="slick-toggle-send">
+                    Gửi phản hồi</a>
+            </div>
+            <div class="content_comment">
+                <div class='content_category_news_title'>Ý KIẾN BẠN ĐỌC(0)</div><br class='clearfloat' /><div id='slickbox'></div>
+                <div id="sendcomment" style="padding-top: 10px">
+                    <div id="contenDiv" class="contenDiv">
+                        <table cellpadding="0" cellspacing="0" border="0" width="470px">
+                            <tr>
+                                <td>
+                                    <input value="Họ và Tên" onfocus="if(this.value=='Họ và Tên') this.value='';" onblur="if(this.value=='') this.value='Họ và Tên';"
+                                        type="text" name="txtName" id="txtName" class="adword-textbox"">
+                                </td>
+                                <td>
+                                    <input type="text" onfocus="if(this.value=='Email') this.value='';" onblur="if(this.value=='') this.value='Email';"
+                                        value="Email" name="txtEmail" id="txtEmail" class="adword-textbox">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="padding-top: 10px;">
+                                    <input type="text" onfocus="if(this.value=='Địa chỉ') this.value='';" onblur="if(this.value=='') this.value='Địa chỉ';"
+                                        value="Địa chỉ" name="txtAddress" id="txtAddress" class="adword-textbox"">
+                                </td>
+                                <td style="padding-top: 10px;">
+                                    <input type="text" onfocus="if(this.value=='Mã an toàn') this.value='';" onblur="if(this.value=='') this.value='Mã an toàn';"
+                                        value="Mã an toàn" name="txtValidCode" id="txtValidCode" class="adword-textbox2">
+                                    <span id="ctl00_MainContent_NewsDetailControl_lblCode" class="lbl_randomtext">OEQUWL</span>
+                                    <div style="display: none;">
+                                        <input name="ctl00$MainContent$NewsDetailControl$txtNewsCode" type="text" value="OEQUWL" id="ctl00_MainContent_NewsDetailControl_txtNewsCode" />
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" style="padding-top: 5px">
+                                    <textarea rows="10" name="txtAddedContent" id="txtAddedContent" cols="46" class="SForm"
+                                        style="width: 470px"></textarea>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2">
+                                    <input type="button" class="bg_button_send_comment2" onclick="getData('/CommentADD.aspx?newsID=530332','contenDiv')"
+                                        value="Gửi ý kiến">
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+    <div class="news_other_main">
+        <div class="content_category_news_title">
+            CÁC TIN KHÁC
+        </div>
+        <br class="clearfloat" />
+        <div class="list_news_other_item">
+            <ul class='category_item_other_main'><li><a href='/newsdetail/euro2012/530219/tranh-ve-vot-euro-2012-bo-đao-nha-vuot-can.htm' style='padding-right:5px'>Tranh vé vớt EURO 2012: Bồ Đào Nha vượt cạn</a><span style='font-size:8pt'>(16/11/2011)</span></li><li><a href='/newsdetail/euro2012/530122/04h-ngay-1611-bo-đao-nha--bosnia.htm' style='padding-right:5px'>04h ngày 16/11: Bồ Đào Nha - Bosnia</a><span style='font-size:8pt'>(15/11/2011)</span></li><li><a href='/newsdetail/euro2012/529863/cua-doat-ve-vot-du-euro-2012-van-rong-mo-voi-bo-đao-nha.htm' style='padding-right:5px'>Cửa đoạt vé vớt dự Euro 2012 vẫn rộng mở với Bồ Đào Nha</a><span style='font-size:8pt'>(12/11/2011)</span></li><li><a href='/newsdetail/euro2012/526912/playoff-du-euro-2012-bo-kho-xoi-bosnia.htm' style='padding-right:5px'>Play-off dự EURO 2012: Bồ khó "xơi" Bosnia</a><span style='font-size:8pt'>(14/10/2011)</span></li><li><a href='/newsdetail/euro2012/526784/tieng-gay-yeu-ot-cua-ga-trong-gaulois.htm' style='padding-right:5px'>Tiếng gáy yếu ớt của gà trống Gaulois</a><span style='font-size:8pt'>(13/10/2011)</span></li><li><a href='/newsdetail/euro2012/526708/euro-2012-nasri-giai-cuu-les-bleus.htm' style='padding-right:5px'>EURO 2012: Nasri giải cứu Les Bleus</a><span style='font-size:8pt'>(12/10/2011)</span></li><li><a href='/newsdetail/euro2012/526707/đt-đan-mach-21-đt-bo-đao-nha-sinh-tu-cho-bo.htm' style='padding-right:5px'>ĐT Đan Mạch 2-1 ĐT Bồ Đào Nha: Sinh tử chờ Bồ</a><span style='font-size:8pt'>(12/10/2011)</span></li><li><a href='/newsdetail/euro2012/526434/tro-lai-trong-lo-au.htm' style='padding-right:5px'>“Trở lại” trong lo âu</a><span style='font-size:8pt'>(09/10/2011)</span></li><li><a href='/newsdetail/euro2012/526357/phap-30-albania-gian-nan-to-mat-anh-hung.htm' style='padding-right:5px'>Pháp 3-0 Albania: Gian nan tỏ mặt anh hùng</a><span style='font-size:8pt'>(08/10/2011)</span></li><li><a href='/newsdetail/euro2012/526355/montenegro-22-anh-tam-su-nhoc-nhan-gianh-ve.htm' style='padding-right:5px'>Montenegro 2-2 Anh: Tam Sư nhọc nhằn giành vé</a><span style='font-size:8pt'>(08/10/2011)</span></li><li><a href='/newsdetail/euro2012/526353/vong-loai-euro-2012-thuy-chien-o-helsinki.htm' style='padding-right:5px'>Vòng loại EURO 2012: Thủy chiến ở Helsinki</a><span style='font-size:8pt'>(08/10/2011)</span></li><li><a href='/newsdetail/euro2012/526352/vong-loai-euro-2012-chang-cuoi-bat-ngo.htm' style='padding-right:5px'>Vòng loại EURO 2012: Chặng cuối bất ngờ</a><span style='font-size:8pt'>(08/10/2011)</span></li><li><a href='/newsdetail/euro2012/526214/euro-2012--02h00-ngay-810-montenegro-vs-anh.htm' style='padding-right:5px'>EURO 2012 - 02h00 ngày 8/10: Montenegro vs Anh</a><span style='font-size:8pt'>(07/10/2011)</span></li></ul>
+        </div>
+        <br class="clearfloat" />
+    </div>
+    <div id="news_search_datetime">
+        <div class="content_category_news_title">
+            XEM THEO NGÀY THÁNG
+        </div>
+        <br class="clearfloat" />
+       <div style="clear:both;float:left;width:100%;text-align:right;margin-top:10px">
+<script type="text/javascript">
+    $(function()
+    {
+        var d=new Date();
+        var currentYear=d.getFullYear();
+        $("select[id$=cboYear]").empty();
+        for(i=currentYear;i>=currentYear-5;i--)
+        {
+            $("select[id$=cboYear]").append("<option value='"+i+"'>"+i+"</option>");
+        }
+    });
+</script>
+Xem tin theo ngày: &nbsp;
+<select name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$cboDay" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_cboDay">
+	<option value="1">1</option>
+	<option value="2">2</option>
+	<option value="3">3</option>
+	<option value="4">4</option>
+	<option value="5">5</option>
+	<option value="6">6</option>
+	<option value="7">7</option>
+	<option value="8">8</option>
+	<option value="9">9</option>
+	<option value="10">10</option>
+	<option value="11">11</option>
+	<option value="12">12</option>
+	<option value="13">13</option>
+	<option value="14">14</option>
+	<option value="15">15</option>
+	<option value="16">16</option>
+	<option selected="selected" value="17">17</option>
+	<option value="18">18</option>
+	<option value="19">19</option>
+	<option value="20">20</option>
+	<option value="21">21</option>
+	<option value="22">22</option>
+	<option value="23">23</option>
+	<option value="24">24</option>
+	<option value="25">25</option>
+	<option value="26">26</option>
+	<option value="27">27</option>
+	<option value="28">28</option>
+	<option value="29">29</option>
+	<option value="30">30</option>
+	<option value="31">31</option>
+</select>
+<select name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$cboMonth" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_cboMonth">
+	<option value="1">Th&#225;ng 1</option>
+	<option value="2">Th&#225;ng 2</option>
+	<option value="3">Th&#225;ng 3</option>
+	<option value="4">Th&#225;ng 4</option>
+	<option value="5">Th&#225;ng 5</option>
+	<option value="6">Th&#225;ng 6</option>
+	<option value="7">Th&#225;ng 7</option>
+	<option value="8">Th&#225;ng 8</option>
+	<option value="9">Th&#225;ng 9</option>
+	<option value="10">Th&#225;ng 10</option>
+	<option selected="selected" value="11">Th&#225;ng 11</option>
+	<option value="12">Th&#225;ng 12</option>
+</select>
+<select name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$cboYear" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_cboYear">
+</select>
+<input type="submit" name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$btnView" value="Xem" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_btnView" />
+<br />
+</div>
+    </div>
+</div>
+
+                </div>
+                <div class="right_category_box">
+                           
+                            <div class="box_adv_newscategory">
+                                <div class="right_content_box_bottom_adv">
+                                <body topmargin="0" leftmargin="0">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="302">
+
+<tr><td valign=bottom align=center>
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#E9EEA7" 
+width="302">
+<tr><td valign=bottom align=center bgcolor="#EEF3C2">
+<img src='http://hanoimoi.com.vn/Uploads/NCC/2011/ads-chuyenmuc/tongsap.jpg'></img></a></td></tr>
+<tr><td valign=top align=center>
+<iframe src="http://hanoimoi.com.vn/Modules/CMS_ARTICLE/ArticleGetContent.aspx?articleID=529121&height=600" width="298" height="345" frameborder="0" scrolling="no"></iframe></td></tr>
+</table></td></tr>
+
+<tr><td valign=top align=center>
+<a href='/newsdetail/SEAGames26/528870/lich-thi-dau-bong-da-tai-sea-games-26.htm'><img src='/Uploads/NCC/2011/ads-chuyenmuc/lichdauBD.jpg'></img></a>
+</td></tr>
+</table>
+</body>
+
+                                </div>  
+                            </div>
+                            <div  style="float:right;padding-top:5px;display:none">
+                                   
+                             </div>
+                            <div id="Div1" style="float:right;padding-top:5px">
+                              <div id='box_flow' style='display:block'><div class='box_top_ovan'><!----></div><div class='box_center_ovan'><div class='box_news_event_title'><a href='#' class='content_news_main_link'>Tin mới nhận</a></div><div class='content_ul'><table cellpadding='0' cellspacing='0' border='0'><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/SEAGames26/530370/tien-minh-bai-tran-cay-dang-o-tu-ket-sea-games.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/11/17/tien-minh.jpg"></a><a class='link_news_focus' href='/newsdetail/SEAGames26/530370/tien-minh-bai-tran-cay-dang-o-tu-ket-sea-games.htm'>Tiến Minh bại trận cay đắng ở tứ kết SEA Games</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/SEAGames26/530352/cho-cu-dot-pha-cua-hoang-quy-phuoc.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails17382011103819phuoc.jpg"></a><a  class='link_news_focus' href='/newsdetail/SEAGames26/530352/cho-cu-dot-pha-cua-hoang-quy-phuoc.htm'>Chờ cú đột phá của Hoàng Quý Phước</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Bong-da/530341/guus-hiddink-roi-đt-tho-nhi-ky.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/11/17/hiddink.jpg"></a><a class='link_news_focus' href='/newsdetail/Bong-da/530341/guus-hiddink-roi-đt-tho-nhi-ky.htm'>Guus Hiddink rời ĐT Thổ Nhĩ Kỳ</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/SEAGames26/530340/16h00-1711-u23-viet-nam--u23-lao.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/11/17/quyet.jpg"></a><a  class='link_news_focus' href='/newsdetail/SEAGames26/530340/16h00-1711-u23-viet-nam--u23-lao.htm'>16h00 17-11: U23 Việt Nam - U23 Lào</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/SEAGames26/530323/nuoc-mat-luong-thi-quyen.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/11/17/Nuoc-mat.jpg"></a><a class='link_news_focus' href='/newsdetail/SEAGames26/530323/nuoc-mat-luong-thi-quyen.htm'>Nước mắt Lương Thị Quyên</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/SEAGames26/530318/viet-nam-xep-thu-hai-toan-doan.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/11/17/boi.jpg"></a><a  class='link_news_focus' href='/newsdetail/SEAGames26/530318/viet-nam-xep-thu-hai-toan-doan.htm'>Việt Nam xếp thứ hai toàn đoàn</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/The-thao/530315/ngay-cang-lan-toa-o-huyen-thanh-tri.htm'><img style="display:none" src=""></a><a class='link_news_focus' href='/newsdetail/The-thao/530315/ngay-cang-lan-toa-o-huyen-thanh-tri.htm'>Ngày càng lan tỏa ở huyện Thanh Trì</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/SEAGames26/530297/đoat-them-1-hcv-hoang-quy-phuoc-tao-nen-dau-moc-moi.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/11/16/qphuoc.jpg"></a><a  class='link_news_focus' href='/newsdetail/SEAGames26/530297/đoat-them-1-hcv-hoang-quy-phuoc-tao-nen-dau-moc-moi.htm'>Đoạt thêm 1 HCV, Hoàng Quý Phước tạo nên dấu mốc mới</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/SEAGames26/530289/ban-sung-viet-nam-hoan-thanh-chi-tieu.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/11/16/bsung.jpg"></a><a class='link_news_focus' href='/newsdetail/SEAGames26/530289/ban-sung-viet-nam-hoan-thanh-chi-tieu.htm'>Bắn súng Việt Nam hoàn thành chỉ tiêu</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/SEAGames26/530288/bi-xu-ep-vat-viet-nam-mat-1-hcv.htm'><img style="display:none" src=""></a><a  class='link_news_focus' href='/newsdetail/SEAGames26/530288/bi-xu-ep-vat-viet-nam-mat-1-hcv.htm'>Bị xử ép, vật Việt Nam mất 1 HCV</a><br class='clearfloat'></div></div></td></tr></table></div></div><div class='box_bottom_ovan'><!----></div></div>
+                            </div>
+                            <div  style="float:right;padding-top:5px">
+                                  <div id='center_box' style='display:none'><div class='box_top_ovan'><!----></div><div class='box_center_ovan'><div class='box_news_event_title'><a href='#' class='content_news_main_link'>Theo dòng sự kiện</a></div><div class='box_news_event_content'></div></div><div class='box_bottom_ovan'><!----></div></div> 
+                             </div>
+                            <div id="box_flow" style="float:right;">
+                              <div id='box_flow' style='display:block'><div class='box_top_ovan'><!----></div><div class='box_center_ovan'><div class='box_news_event_title'><a href='#' class='content_news_main_link'>Tiêu điểm</a></div><div class='content_ul'><table cellpadding='0' cellspacing='0' border='0'><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/euro2012/530219/tranh-ve-vot-euro-2012-bo-đao-nha-vuot-can.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/11/16/bdn.jpg"></a><a class='link_news_focus' href='/newsdetail/euro2012/530219/tranh-ve-vot-euro-2012-bo-đao-nha-vuot-can.htm'>Tranh vé vớt EURO 2012: Bồ Đào Nha vượt cạn</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/euro2012/530122/04h-ngay-1611-bo-đao-nha--bosnia.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/11/15/bdn.jpg"></a><a  class='link_news_focus' href='/newsdetail/euro2012/530122/04h-ngay-1611-bo-đao-nha--bosnia.htm'>04h ngày 16/11: Bồ Đào Nha - Bosnia</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/euro2012/526912/playoff-du-euro-2012-bo-kho-xoi-bosnia.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/10/14/boctham.jpg"></a><a class='link_news_focus' href='/newsdetail/euro2012/526912/playoff-du-euro-2012-bo-kho-xoi-bosnia.htm'>Play-off dự EURO 2012: Bồ khó "xơi" Bosnia</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/euro2012/526784/tieng-gay-yeu-ot-cua-ga-trong-gaulois.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/10/13/Nasri.jpg"></a><a  class='link_news_focus' href='/newsdetail/euro2012/526784/tieng-gay-yeu-ot-cua-ga-trong-gaulois.htm'>Tiếng gáy yếu ớt của gà trống Gaulois</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/euro2012/526708/euro-2012-nasri-giai-cuu-les-bleus.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/10/12/phap.jpg"></a><a class='link_news_focus' href='/newsdetail/euro2012/526708/euro-2012-nasri-giai-cuu-les-bleus.htm'>EURO 2012: Nasri giải cứu Les Bleus</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/euro2012/526707/đt-đan-mach-21-đt-bo-đao-nha-sinh-tu-cho-bo.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/10/12/bo.jpg"></a><a  class='link_news_focus' href='/newsdetail/euro2012/526707/đt-đan-mach-21-đt-bo-đao-nha-sinh-tu-cho-bo.htm'>ĐT Đan Mạch 2-1 ĐT Bồ Đào Nha: Sinh tử chờ Bồ</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/euro2012/526357/phap-30-albania-gian-nan-to-mat-anh-hung.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/10/8/a3.jpg"></a><a class='link_news_focus' href='/newsdetail/euro2012/526357/phap-30-albania-gian-nan-to-mat-anh-hung.htm'>Pháp 3-0 Albania: Gian nan tỏ mặt anh hùng</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/euro2012/526355/montenegro-22-anh-tam-su-nhoc-nhan-gianh-ve.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/10/8/go.jpg"></a><a  class='link_news_focus' href='/newsdetail/euro2012/526355/montenegro-22-anh-tam-su-nhoc-nhan-gianh-ve.htm'>Montenegro 2-2 Anh: Tam Sư nhọc nhằn giành vé</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/euro2012/526353/vong-loai-euro-2012-thuy-chien-o-helsinki.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/10/8/tdien.jpg"></a><a class='link_news_focus' href='/newsdetail/euro2012/526353/vong-loai-euro-2012-thuy-chien-o-helsinki.htm'>Vòng loại EURO 2012: Thủy chiến ở Helsinki</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/euro2012/526352/vong-loai-euro-2012-chang-cuoi-bat-ngo.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/10/8/duc.jpg"></a><a  class='link_news_focus' href='/newsdetail/euro2012/526352/vong-loai-euro-2012-chang-cuoi-bat-ngo.htm'>Vòng loại EURO 2012: Chặng cuối bất ngờ</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/euro2012/526214/euro-2012--02h00-ngay-810-montenegro-vs-anh.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/10/7/roony.jpg"></a><a class='link_news_focus' href='/newsdetail/euro2012/526214/euro-2012--02h00-ngay-810-montenegro-vs-anh.htm'>EURO 2012 - 02h00 ngày 8/10: Montenegro vs Anh</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/euro2012/522977/uefa-xac-nhan-ha-lan-cung-da-gianh-ve-euro-2012.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/9/8/halan.jpg"></a><a  class='link_news_focus' href='/newsdetail/euro2012/522977/uefa-xac-nhan-ha-lan-cung-da-gianh-ve-euro-2012.htm'>UEFA xác nhận Hà Lan cũng đã giành vé Euro 2012</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/euro2012/522790/them-tay-ban-nha-va-italy-gianh-ve-du-euro-2012.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/9/7/villa.jpg"></a><a class='link_news_focus' href='/newsdetail/euro2012/522790/them-tay-ban-nha-va-italy-gianh-ve-du-euro-2012.htm'>Thêm Tây Ban Nha và Italy giành vé dự Euro 2012</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/euro2012/522434/ha-lan-lap-ky-luc-thang-dam-moi.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/9/Thumbnails03042011120415halan.jpg"></a><a  class='link_news_focus' href='/newsdetail/euro2012/522434/ha-lan-lap-ky-luc-thang-dam-moi.htm'>Hà Lan lập kỷ lục thắng đậm mới</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/euro2012/522431/italy-may-man-gianh-ba-diem-truoc-faroe.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/9/Thumbnails03562011115602italia.jpg"></a><a class='link_news_focus' href='/newsdetail/euro2012/522431/italy-may-man-gianh-ba-diem-truoc-faroe.htm'>Italy may mắn giành ba điểm trước Faroe</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/euro2012/522420/bulgaria--anh-03-rooney-dua-tuyen-anh-len-ngoi-dau.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/9/Thumbnails03052011070549tuyenanh.jpg"></a><a  class='link_news_focus' href='/newsdetail/euro2012/522420/bulgaria--anh-03-rooney-dua-tuyen-anh-len-ngoi-dau.htm'>Bulgaria - Anh 0-3: Rooney đưa tuyển Anh lên ngôi đầu</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/euro2012/522419/đuc-dai-thang-trong-ngay-doat-ve-du-euro-2012.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/9/Thumbnails03582011065836Podolski.jpg"></a><a class='link_news_focus' href='/newsdetail/euro2012/522419/đuc-dai-thang-trong-ngay-doat-ve-du-euro-2012.htm'>Đức đại thắng trong ngày đoạt vé dự Euro 2012</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/euro2012/516234/viet-nam-chua-to-ra-man-ma-voi-ban-quyen-truyen-hinh-euro-2012.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/Chienvn/Tonghop/Euro2012.jpg"></a><a  class='link_news_focus' href='/newsdetail/euro2012/516234/viet-nam-chua-to-ra-man-ma-voi-ban-quyen-truyen-hinh-euro-2012.htm'>Việt Nam chưa tỏ ra mặn mà với bản quyền truyền hình Euro 2012</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/euro2012/510265/đe-bep-azerbaijan-đuc-dat-mot-chan-vao-vong-chung-ket-euro.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/vdco/2011/6/8/Aaze_ger_gomez.jpg"></a><a class='link_news_focus' href='/newsdetail/euro2012/510265/đe-bep-azerbaijan-đuc-dat-mot-chan-vao-vong-chung-ket-euro.htm'>Đè bẹp Azerbaijan, Đức đặt một chân vào vòng chung kết Euro</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/euro2012/509086/đt-anh-chia-diem-tren-san-wembley.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/6/Thumbnails05072011060715_53246189_young_464.jpg"></a><a  class='link_news_focus' href='/newsdetail/euro2012/509086/đt-anh-chia-diem-tren-san-wembley.htm'>ĐT Anh chia điểm trên sân Wembley</a><br class='clearfloat'></div></div></td></tr></table></div></div><div class='box_bottom_ovan'><!----></div></div>
+                            </div>
+                            <div class="box_video" style="float:right;padding-top:5px">
+                                 
+ <script language="javascript" type="text/javascript">  
+    $(function()
+    {
+        $('.videoTitle').live('click',function() {
+        $(".box_video_bg .title_box_video_pic").load("/Modules/CMS_ARTICLE/ArticleGetTitle.aspx?articleID="+$(this).attr("id")); 
+        $(".video_body").load("/Modules/CMS_ARTICLE/ArticleGetContent.aspx?articleID="+$(this).attr("id")); 
+        var newsID = $(this).attr("id");
+        var data = "{'newsID':'" + newsID +"'}"; //create the JSON data to send to server
+        $.ajax(
+                { //call the Page method using JQuery ajax
+                  type: "POST",
+                  url: "/ShowVideo.aspx/ShowVideoOther",
+                  data: data,
+                  contentType: "application/json; charset=utf-8",
+                  dataType: "json",
+                  success: function(msg)  //show the result
+                  {
+                                     
+                    $(".video_other").fadeOut("fast").html(msg.d).fadeIn("fast");
+                  }
+                });
+        return false;
+        });
+    });
+ </script>
+<div class="box_video_bg">
+    <div class="top_title_video"><a style="color: rgb(0, 102, 204); font-family: Verdana,Times New Roman,Arial,Tahoma; font-size: 9pt; font-weight: bold; text-decoration: none;" href='/categoryparent/196/video.htm'>&nbsp;&nbsp;&nbsp;Video</a></div>
+    <div  class='title_box_video_pic'>Clip: Trái đất tuyệt đẹp nhìn từ ISS</div><div class='video_body'><table border="0" cellspacing="1" cellpadding="1" width="200" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <div style="text-align: center" id="player693647-parent">
+            <div style="background-image: url(/FCKeditor/editor/plugins/flvPlayer/flvPlayer.gif); border-bottom-style: none; border-right-style: none; background-color: rgb(220,220,220); width: 292px; background-repeat: no-repeat; background-position: center 50%; border-top-style: none; height: 230px; border-left-style: none; overflow: hidden"><script src="/FCKeditor/editor/plugins/flvPlayer/swfobject.js" type="text/javascript"></script>
+            <div id="player693647">
+            <div><a href="http://www.macromedia.com/go/getflashplayer">Get the Flash Player</a> to see this player.</div>
+            <div style="width: 0px; display: none; height: 0px; visibility: hidden; overflow: hidden" id="player693647-config">url=/Uploads/flash/tuanphong/2011/11/traidat.flv iurl=/Uploads/tuanphong/2011/11/15/traidat.jpg width=292 height=230 loop=false play=false downloadable=false fullscreen=true displayNavigation=true displayDigits=true playlistThumbs=false</div>
+            </div>
+            <script type="text/javascript">
+	var s1 = new SWFObject("/FCKeditor/editor/plugins/flvPlayer/mediaplayer.swf","single","292","230","7");
+	s1.addVariable("width","292");
+	s1.addVariable("height","230");
+	s1.addVariable("autostart","false");
+	s1.addVariable("file","/Uploads/flash/tuanphong/2011/11/traidat.flv");
+	s1.addVariable("repeat","false");
+	s1.addVariable("image","/Uploads/tuanphong/2011/11/15/traidat.jpg");
+	s1.addVariable("showdownload","false");
+	s1.addVariable("link","/Uploads/flash/tuanphong/2011/11/traidat.flv");
+	s1.addParam("allowfullscreen","true");
+	s1.addVariable("showdigits","true");
+	s1.addVariable("shownavigation","true");
+	s1.addVariable("logo","");
+	s1.write("player693647");
+</script></div>
+            </div>
+            </td>
+        </tr>
+    </tbody>
+</table></div><br class='clearfloat' /><div class='video_other'><ul class='content_other_action'><li><a href='#' class='videoTitle' id='530009'>SEA Games 26: U23 Indonesia 3-1 U23 Thái Lan</a></li><li><a href='#' class='videoTitle' id='529878'>Clip: U23 Việt Nam 8-0 U23 Brunei</a></li><li><a href='#' class='videoTitle' id='529818'>Video: Lễ diễu hành của đoàn TTVN tham dự SEA Games 26</a></li></ul></div>
+  </div>
+                            </div>
+                            <div id="box_picture" style="float:right;margin-right:-3px">
+                                 
+<div class="box_picture_bg">
+    <div class="top_title_video">&nbsp;&nbsp;&nbsp;<a href='/categoryparent/195/Anh.htm' style='color:#0066CC;
+font-family:Verdana,Times New Roman,Arial,Tahoma;
+font-size:9pt;
+font-weight:bold;text-decoration:none'>Góc ảnh</a></div>
+    <div class='title_box_video_pic'><a class='blueLink' href='/newsdetail/Anh/530265/cho-chanh-ben-dong-chau-giang.htm'>Chợ Chanh bên dòng Châu Giang </a></div><div class='box_pic_content'><a href='/newsdetail/Anh/530265/cho-chanh-ben-dong-chau-giang.htm'><img src='/GetThumbnail.ashx?width=280&height=200&ImgFilePath=/Uploads/anhthu/2011/11/16/cho6(1).jpg' /></a></div><div class='box_pic_other'><ul class='content_other_action'><li><a href='/newsdetail/Anh/529884/7-ung-vien-ky-quan-the-gioi-moi.htm'>7 'ứng viên' kỳ quan thế giới mới</a></li><li><a href='/newsdetail/Anh/529783/tung-bung-le-hoi-that-luang-lao.htm'>Tưng bừng Lễ hội That Luang (Lào)</a></li><li><a href='/newsdetail/Anh/529364/lung-linh-vung-song-nuoc-viet-nam.htm'>Lung linh vùng sông nước Việt Nam</a></li></ul></div>
+ </div>
+                            </div>
+                            <div class="box_adv_newscategory">
+                              <div class="right_content_box_bottom_adv">
+                                <br>
+
+                               </div>  
+                            </div>
+                        </div>
+           </div>
+           <div class="right_news_category_box">
+              <ul class="right_content_box_adv_main">
+                    <li>
+                    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" name="wmode" height="360" width="180">
+	<param name="movie" value="/Uploads/NCC/2011-NBN/ads-chuyenmuc/BD&CS-180x360.swf">
+	<param name="quality" value="high">
+	<param name="wmode" value="transparent">
+	<embed wmode="transparent" src="/Uploads/NCC/2011-NBN/ads-chuyenmuc/BD&CS-180x360.swf" allowscriptaccess="always" type="application/x-shockwave-flash" height="360" width="180">
+</object>
+
+                    </li>
+                    <li>
+                    <a href="/newsdetail/Van-hoa/424354/%C4%91on-doc-ha-noi-ngay-nay-so-1-bo-moi.htm">
+<img src="/Uploads/NCC/2011/ads-homepage/HN-Ngaynay.jpg" border="0">
+</a>
+
+                    </li>
+                    <li>
+                    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" name="wmode" height="180" width="180">
+<param name="movie" value="/Uploads/NCC/ads-homepage/4D-homeduhoc_180x180.swf">
+<param name="quality" value="high">
+<param name="wmode" value="transparent">
+<embed wmode="transparent" src="/Uploads/NCC/ads-homepage/4D-homeduhoc_180x180.swf" allowscriptaccess="always" type="application/x-shockwave-flash" height="180" width="180">
+</object>
+
+                    </li>
+                    <li>
+                    <object width="180" height="180" name="wmode" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+    <param value="/Uploads/NCC/ads-homepage/4A-chuyenmuckinhte_180x180.swf" name="movie">
+                  <param value="high" name="quality">
+                  <param value="transparent" name="wmode">
+                 <embed width="180" height="180" type="application/x-shockwave-flash" allowscriptaccess="always" src="/Uploads/NCC/ads-homepage/4A-chuyenmuckinhte_180x180.swf" wmode="transparent">
+</object>
+
+                    </li>
+                 
+                </ul>
+           </div> 
+        </div>
+      </div>
+
+            <div id="footer">
+                <div id="footer_wrap">
+                    <div class="menu">
+                        <div class="tabsmenuclass">
+                            <ul class='menutop'>
+                                <li><a href=''>Trang chủ</a></li>
+                                <li><a href='/contact/contact.htm'>
+                                    <img width='10px' height='11px' style='border: 0px none; float: left; margin-top: 10px;'
+                                        src='/images/icon01.png' />&nbsp;Liên hệ tòa soạn</a></li>
+                                <li><a onclick='setHomepage();' href='javascript:void(0);'>
+                                    <img width='12px' height='9px' style='border: 0px none; float: left; margin-top: 10px;'
+                                        src='/images/icon02.png' />&nbsp;Đặt HNM làm trang chủ</a></li>
+                                <li><a href='/Modules/NewsLetter/NewsLetterRegister.aspx'>
+                                    <img width='12px' height='9px' style='border: 0px none; float: left; margin-top: 10px;'
+                                        src='/images/icon03.png' />&nbsp;Đăng ký nhận tin mới</a></li>
+                                <li>
+                                    <select name="ctl00$ddlWebLink" id="ctl00_ddlWebLink" onchange="window.open(this.value)" style="float: left; margin: 5px 20px 0 180px;">
+	<option value="Liên kết Website">Li&#234;n kết Website</option>
+	<option value="http://www.dangcongsan.vn">B&#225;o Điện tử Đảng CSVN</option>
+	<option value="http://www.nhandan.com.vn">B&#225;o Nh&#226;n D&#226;n</option>
+	<option value="http://www.vietnamplus.vn">TTXVN</option>
+	<option value="http://www.cuocsongvantuoidep.vn">&quot;Cuộc sống vẫn tươi đẹp&quot; tr&#234;n VTV4</option>
+	<option value="http://chinhphu.vn">Website Ch&#237;nh phủ</option>
+	<option value="http://www.na.gov.vn">Quốc hội Việt Nam</option>
+	<option value="http://www.vnexpress.net">VnExpress</option>
+	<option value="http://www.vnn.vn">Vietnamnet</option>
+	<option value="http://tienphong.vn">Tiền Phong</option>
+	<option value="http://www.tuoitre.com.vn">Tuổi trẻ</option>
+	<option value="http://www.anninhthudo.vn">An ninh Thủ đ&#244;</option>
+	<option value="http://www.nld.com.vn">B&#225;o Người Lao Động</option>
+	<option value="http://www.baothuathienhue.vn/">B&#225;o Thừa Thi&#234;n Huế</option>
+	<option value="http://www.baobinhthuan.com.vn">B&#225;o B&#236;nh Thuận</option>
+
+</select>
+                                </li>
+                                <li><a href="#top" style="margin: 0; padding: 0 5px 0 5px; color: white; font-weight: bold">
+                                    Về đầu trang</a> </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="footer_text">
+                        Bản quyền © 2003-2010 Báo Hànộimới - CQCQ: Thành ủy Hà Nội<br/>
+                        Giấy phép số 1123/GP-BTTTT, cấp ngày: 21/7/2011. Tổng biên tập: TÔ QUANG PHÁN<br/>
+                        Địa chỉ: 44 Lê Thái Tổ - Hà Nội . ĐT (04) 38253067 – 39287445 . Fax: (04) 39287445 . Email:<a style='color:blue' href='mailto:webmaster@hanoimoi.com.vn'>webmaster@hanoimoi.com.vn</a><br/>
+                        Ghi rõ nguồn "Báo Hànộimới" khi phát hành lại thông tin từ website này.
+                  </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+
+    <script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12223163-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

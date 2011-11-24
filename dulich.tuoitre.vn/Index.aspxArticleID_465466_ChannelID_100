@@ -1,0 +1,908 @@
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>.: Tuoi Tre Online - Du Lich :.</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema" />
+
+    <script src="Tianyon.js" type="text/javascript"></script>
+    <script src="http://www.tuoitre.com.vn/Calendar/PopCalendar.js" type="text/javascript"></script>
+    
+
+    <link href="Tianyon.css" type="text/css" rel="stylesheet" />
+    <link rel="shortcut icon" href="favicon.ico" />
+</head>
+<body>
+    <div id="main">
+        <div style="width: 778px; height: 101px; background-color: #035DA2; background-image: url(Images/RightHead.gif);">
+            <div style="width: 180px; float: left; overflow: hidden">
+                <a href="http://www.tuoitre.com.vn">
+                    <img src="Images/Logo.gif" style="border-width: 0px; width: 178px; margin: 8px 5px 0 5px;" />
+                </a>
+            </div>
+            <div style="float: left; padding: 0 0 0 0; width: 66px;">
+                <a style="float: left; margin: 4px 0 0 2px; padding: 0 0 0 0; display: block; width: 66px;"
+                    href="http://dulich.tuoitre.com.vn">
+                    <img src="Images/LogoDulich.jpg" style="border-style: none; width: 66px;" alt="" />
+                </a>    
+            </div>
+            <div style="float: left; width: 528px; overflow: hidden; text-align:center; ">                
+                <!--<Cache Time='18/11/2011 1:40:47 SA'>--><script type="text/javascript" src="http://quangcao.tuoitre.com.vn/service/js/ad.js"></script>
+<script type="text/javascript" src="http://quangcao.tuoitre.com.vn/service/js/top-dulich.js"></script>
+<div style="margin-top:3px;clear:both;">
+<div style="margin-left:0px;margin-top:10px;clear:both; overflow:hidden; height:80px">
+		<div id="topdulich"></div>
+</div>
+</div>
+<script type="text/javascript">
+function swapImgTop1()
+{	
+	if (addl_ID==0 || addl_ID>=arandom_topdl.length-1)
+	{
+		arandom_topdl = getRandom(addl.length);
+		addl_ID= 1;
+	}
+	else
+	{
+		addl_ID++;
+	}
+	topdulich.innerHTML = addl[arandom_topdl[addl_ID]];
+}
+var topdulich = document.getElementById("topdulich");
+//var str = document.getElementById("str");
+swapImgTop1();
+//var swaptop1=setInterval("swapImgTop1()",10000);
+</script><!--</Cache>-->
+            </div>
+        </div>
+        <div id="branding">
+            <div style="clear: both; height: 25px; width: 778px; background-color: #f5f5f5; background-image: url(Images/ndHeadBgr_Tour.gif);
+                background-repeat: repeat-x; border: 1px solid #f5f5f5">
+                <span style="float: left; vertical-align: middle; border-right-color: White; margin-left: 10px;
+                    margin-top: 5px">ISSN 1859 - 1094</span> <a href="http://www.tuoitre.com.vn/tianyon/RssView.aspx"
+                        style="display: block; float: right; height: 16px; width: 29px; margin-top: 4px;
+                        margin-right: 7px; background-image: url(Images/rss_Red.gif); background-repeat: no-repeat;
+                        background-position: left bottom"></a>
+                
+
+ <div style="float:right; width: 288px; height:25px;">
+  
+        <input 	value="Tìm kiếm" onblur="if (this.value=='') this.value='Tìm kiếm';" onfocus="if (this.value=='Tìm kiếm') this.value='';"  
+		    style="margin-right:5px; margin-bottom:0px; vertical-align:top; background-color:white; border: solid 1px #868b93;font-size:11px; width:165px; color:#555555"
+		    type="text"  id="txtKeyword" name="SearchQuery" onkeypress="return trapEnterKey(this.value,event);" />
+        <input type="image" src="Images/SearchIcon.gif" alt="Tìm Kiếm" style="vertical-align:top; margin-top:2px; height:15px; width:19px" name="image" onclick="searchEngine();"/>
+        <select id="cboInputMethodTop" class="cboInputMethodTop" style="margin-bottom:0px; margin-left:5px;" onchange="setTypingMode(this.value * 1)"
+		    name="Select1">
+		    <option value="0">Off</option>
+		    <option value="1">Telex</option>
+		    <option value="2">VNI</option>
+	    </select>    
+
+</div>
+<script type="text/javascript" language="javascript">
+    /* URL encode / decode */
+    var Url =
+    {
+        // public method for url encoding
+        encode: function(string) {
+            return escape(this._utf8_encode(string));
+        },
+
+        // public method for url decoding
+        decode: function(string) {
+            return this._utf8_decode(unescape(string));
+        },
+
+        // private method for UTF-8 encoding
+        _utf8_encode: function(string) {
+            string = string.replace(/\r\n/g, "\n");
+            var utftext = "";
+
+            for (var n = 0; n < string.length; n++) {
+
+                var c = string.charCodeAt(n);
+
+                if (c < 128) {
+                    utftext += String.fromCharCode(c);
+                }
+                else if ((c > 127) && (c < 2048)) {
+                    utftext += String.fromCharCode((c >> 6) | 192);
+                    utftext += String.fromCharCode((c & 63) | 128);
+                }
+                else {
+                    utftext += String.fromCharCode((c >> 12) | 224);
+                    utftext += String.fromCharCode(((c >> 6) & 63) | 128);
+                    utftext += String.fromCharCode((c & 63) | 128);
+                }
+
+            }
+
+            return utftext;
+        },
+
+        // private method for UTF-8 decoding
+        _utf8_decode: function(utftext) {
+            var string = "";
+            var i = 0;
+            var c = c1 = c2 = 0;
+
+            while (i < utftext.length) {
+
+                c = utftext.charCodeAt(i);
+
+                if (c < 128) {
+                    string += String.fromCharCode(c);
+                    i++;
+                }
+                else if ((c > 191) && (c < 224)) {
+                    c2 = utftext.charCodeAt(i + 1);
+                    string += String.fromCharCode(((c & 31) << 6) | (c2 & 63));
+                    i += 2;
+                }
+                else {
+                    c2 = utftext.charCodeAt(i + 1);
+                    c3 = utftext.charCodeAt(i + 2);
+                    string += String.fromCharCode(((c & 15) << 12) | ((c2 & 63) << 6) | (c3 & 63));
+                    i += 3;
+                }
+            }
+            return string;
+        }
+    }
+
+
+    function searchEngine() {
+        var url = "http://tuoitre.vn/Tim-kiem/Index.html?keyword=";
+
+        url += Url.encode(document.getElementById("txtKeyword").value) + "&scope=*&channel=-1&from=&to=&page=1";
+        window.open(url, "_blank", "", "");
+    }
+  
+</script>
+
+<script type="text/javascript" language="javascript">
+    function trapEnterKey(value, e) {
+        // the purpose of this function is to allow the enter key to
+        // point to the correct button to click.
+        var key;
+
+        if (window.event) {
+            // IE
+            key = window.event.keyCode;
+        }
+        else {
+            // firefox
+            key = e.which;
+        }
+
+        if (key == 13) {
+            var q = value;
+
+            if (q == '') {
+                return false;
+            }
+
+            if ((q.indexOf('AND') == -1) && (q.indexOf('OR') == -1) && (q.indexOf('"') == -1)) {
+                //q = '"' + q + '"';
+                q = q;
+            }
+
+            // endcode
+            q = Url.encode(q);
+
+            var urltto = "http://tuoitre.vn/Tim-kiem/Index.html?scope=*&channel=-1&from=&to=&page=1&keyword=" + q;
+            window.open(urltto, "_blank", "", "");
+
+            event.keyCode = 0;
+
+            return false;
+        }
+
+        return true;
+    }                         
+</script>
+<script language="javascript" type="text/javascript">
+	//setTypingMode(document.getElementById("cboInputMethodTop").selectedIndex);
+	//initTyper(document.getElementById("SearchQueryTop"));
+	//document.getElementById("SearchQueryTop").value = destroyURL(GetPostVariable('SearchQuery', '').replace(/\+/g, ' '));
+</script>
+
+            </div>
+            <div class="div-Menu">
+                
+<div class="div-Menu-Left">&nbsp;</div> 
+    <div class="div-Menu-Center" style="overflow:hidden;">
+         <ul id="MenuNew1" style="margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px;list-style-type:none; float:left; width:770px;" >
+             
+                 <li style="float:left; vertical-align:middle; padding:3px;">                
+                    <a href="http://www.tuoitre.com.vn" title="Về Trang Chủ"  style="background-image:url(Images/HomeIcon_Tour.gif); display: block; line-height: 26px; width:29px; background-repeat:no-repeat; background-position:left; border:0px"> &nbsp; </a>
+                </li>       
+                <li style="float:left;padding:2px;">
+                    <a class="MenuNewa" href="Default.aspx" style="text-align:center;display: block;"> Trang nhất </a>
+                </li>
+                             
+                <li style="float:left;padding:2px;">
+                    <a class="MenuNewa" href='Index.aspx?ChannelID=333'>  Những miền đất lạ  </a>
+                <span style="display:none">
+                    
+                </span>
+                </li>
+                               
+                <li style="float:left;padding:2px;">
+                    <a class="MenuNewa" href='Index.aspx?ChannelID=481'>  Khám phá  </a>
+                <span style="display:none">
+                    
+                </span>
+                </li>
+                               
+                <li style="float:left;padding:2px;">
+                    <a class="MenuNewa" href='Index.aspx?ChannelID=218'>  Ẩm thực  </a>
+                <span style="display:none">
+                    
+                </span>
+                </li>
+                               
+                <li style="float:left;padding:2px;">
+                    <a class="MenuNewa" href='Index.aspx?ChannelID=219'>  Chuyến đi của bạn  </a>
+                <span style="display:none">
+                    
+                </span>
+                </li>
+                               
+                <li style="float:left;padding:2px;">
+                    <a class="MenuNewa" href='Index.aspx?ChannelID=384'>  Tư vấn Du lịch  </a>
+                <span style="display:none">
+                    
+                </span>
+                </li>
+                               
+                <li style="float:left;padding:2px;">
+                    <a class="MenuNewa" href='Index.aspx?ChannelID=480'>  Văn hóa  </a>
+                <span style="display:none">
+                    
+                </span>
+                </li>
+                               
+                <li style="float:left;padding:2px;">
+                    <a class="MenuNewa" href='Index.aspx?ChannelID=483'>  * Thông tin dịch vụ  </a>
+                <span style="display:none">
+                    
+                </span>
+                </li>
+                               
+                <li style="float:left;padding:2px;">
+                    <a class="MenuNewa" href='Index.aspx?ChannelID=495'>  Góc ảnh lữ hành  </a>
+                <span style="display:none">
+                    
+                </span>
+                </li>
+                               
+                <li style="float:left;padding:2px;">
+                    <a class="MenuNewa" href='Index.aspx?ChannelID=496'>  DL Video của bạn  </a>
+                <span style="display:none">
+                    
+                </span>
+                </li>
+                
+       </ul>
+    </div>                       
+<div class="div-Menu-Right">&nbsp;</div>                 
+
+
+<!-- -->
+            </div>
+        </div>
+        <div id="left">
+            <!-- Left Panel -->
+            
+
+<script type="text/javascript">
+    function onResponseClick()
+    {
+        showDialog('MailTo.aspx?ArticleID=' + GetPostVariable("ArticleID", null), 350, 420)
+    }
+</script>
+
+<div style="float:left; margin: 7px 0 0 0; padding: 0 0 0 0; width:558px">
+    <h2 style="; margin: 0 0 0 0; padding: 0 0 0 0; font-family:Arial; font-size: 16px; height:20px; border-bottom: solid 1px #898989;">
+        <a style="font-family: Arial; font-size:16px; line-height:20px; text-transform:uppercase; color:#898989" href="Index.aspx?ChannelID=100">Du Lịch</a>
+    </h2>
+    <div id="divContent" style="float:left; margin:0 0 0 0; padding: 0 0 0 0">
+        <script>getTimeString('2011/11/17 11:23:11');</script><br><P class=pTitle>Brazil: cá ăn thịt sống tấn công bãi tắm du lịch</P>
+<P class=pHead>TTO - Hàng nghìn con cá piranha ăn thịt sống đã tràn ngập một điểm du lịch nổi tiếng phía tây Brazil và tấn công ít nhất 15 khách du lịch.</P>
+<P class=pHead>
+<TABLE style="BORDER-COLLAPSE: separate" cellSpacing=0 cellPadding=0 width=40 align=center border=0>
+<TBODY>
+<TR>
+<TD><IMG class=lImage onclick="return showImage(this.src)" hspace=0 src="ImageView.aspx?ThumbnailID=532383" border=1 Hyperlink></TD></TR>
+<TR>
+<TD>
+<P class=tLegend>Một đàn cá piranha - Ảnh: aquariumfish.net</P></TD></TR></TBODY></TABLE></P>
+<P class=pBody>AP dẫn lời chính quyền thành phố Caceres, bang Mato Grosso cho biết đây là lần đầu tiên họ gặp vấn đề này tại bãi tắm Daveron, điểm du lịch nổi tiếng nằm trên con sông Paraguay. Những con cá piranha hung dữ đã đột ngột đổ về từng quần thể lớn trong suốt&nbsp;hai tuần qua.</P>
+<P class=pBody>Piranha từng được mô tả như “loài cá hung dữ nhất thế giới”, không chỉ bởi hàm răng sắc nhọn của chúng mà còn bởi thói quen xâu xé cả những sinh vật lớn hơn.</P>
+<P class=pBody>“Mọi người cần phải hết sức cẩn thận. Nếu bị cắn, phải ngay lập tức lên bờ và không để cho máu loang ra trên mặt nước” - Oliveira, một người dân địa phương, nói với kênh Globo TV.</P>
+<P class=pBody>Đã có ít nhất 15 người&nbsp;là nạn nhân của piranha trong những ngày qua.</P>
+<P class=pBody>“Tôi lặn xuống sông và khi trồi lên thì cảm thấy một cơn đau ở chân&nbsp;- một nạn nhân tên Elson Pinto kể lại - &nbsp;Con&nbsp;cá đã cắn mất đầu ngón chân tôi. Tôi bỏ chạy trối chết lên bờ vì sợ&nbsp;chúng sẽ đổ xô đến khi nghe mùi máu”.</P>
+<P class=pBody>Thế nhưng các quan chức Caceres cho biết bãi tắm sẽ vẫn mở cửa vì đây là một điểm thu hút khách du lịch quan trọng tại vùng Pantanal, vốn nổi tiếng về du lịch sinh thái. Cứ vào tháng 9 hằng năm, thành phố lại tổ chức một trong những festival câu cá lớn nhất Brazil với sự tham gia của khoảng 200.000 khách du lịch. </P>
+<P class=pBody>Một biển báo lớn đã được dựng lên với dòng chữ đỏ: “Người bơi lội chú ý. Vùng có cá piranha. Nguy hiểm!”. Tuy nhiên lượng khách du lịch đã giảm rõ rệt trong những ngày qua và bãi tắm&nbsp;không có một bóng người vào hôm 15-11, vốn là ngày nghỉ lễ của Brazil.</P>
+<P class=pBody>Cá piranha đã có mặt tại khu vực từ lâu, nhưng chính quyền thành phố và người dân địa phương khẳng định đây là lần đầu tiên xảy ra hiện tượng loài cá ăn thịt hung dữ này xuất hiện ở vùng nước cạn.</P>
+<P class=pAuthor>XUÂN TÙNG</P>
+    </div>
+    <div style="border-top:1px dashed #8F8F8F; clear:both;">
+			
+    </div> 
+    <ul style="float:left; clear:left; width:100%; padding:0 0 0 0; margin:0 0 0 0; list-style-type:none">            
+
+</ul>
+    <div style="width:100%; float:left;">
+        <form name="aspnetForm" method="post" action="Index.aspx?ArticleID=465466&amp;ChannelID=100" id="aspnetForm" enctype="multipart/form-data">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM4NzQyOTgwNA9kFgICBw9kFgJmD2QWBmYPFgIeBFRleHQFwxg8c2NyaXB0PmdldFRpbWVTdHJpbmcoJzIwMTEvMTEvMTcgMTE6MjM6MTEnKTs8L3NjcmlwdD48YnI+PFAgY2xhc3M9cFRpdGxlPkJyYXppbDogY8OhIMSDbiB0aOG7i3Qgc+G7kW5nIHThuqVuIGPDtG5nIGLDo2kgdOG6r20gZHUgbOG7i2NoPC9QPg0KPFAgY2xhc3M9cEhlYWQ+VFRPIC0gSMOgbmcgbmdow6xuIGNvbiBjw6EgcGlyYW5oYSDEg24gdGjhu4t0IHPhu5FuZyDEkcOjIHRyw6BuIG5n4bqtcCBt4buZdCDEkWnhu4NtIGR1IGzhu4tjaCBu4buVaSB0aeG6v25nIHBow61hIHTDonkgQnJhemlsIHbDoCB04bqlbiBjw7RuZyDDrXQgbmjhuqV0IDE1IGtow6FjaCBkdSBs4buLY2guPC9QPg0KPFAgY2xhc3M9cEhlYWQ+DQo8VEFCTEUgc3R5bGU9IkJPUkRFUi1DT0xMQVBTRTogc2VwYXJhdGUiIGNlbGxTcGFjaW5nPTAgY2VsbFBhZGRpbmc9MCB3aWR0aD00MCBhbGlnbj1jZW50ZXIgYm9yZGVyPTA+DQo8VEJPRFk+DQo8VFI+DQo8VEQ+PElNRyBjbGFzcz1sSW1hZ2Ugb25jbGljaz0icmV0dXJuIHNob3dJbWFnZSh0aGlzLnNyYykiIGhzcGFjZT0wIHNyYz0iSW1hZ2VWaWV3LmFzcHg/VGh1bWJuYWlsSUQ9NTMyMzgzIiBib3JkZXI9MSBIeXBlcmxpbms+PC9URD48L1RSPg0KPFRSPg0KPFREPg0KPFAgY2xhc3M9dExlZ2VuZD5N4buZdCDEkcOgbiBjw6EgcGlyYW5oYSAtIOG6om5oOiBhcXVhcml1bWZpc2gubmV0PC9QPjwvVEQ+PC9UUj48L1RCT0RZPjwvVEFCTEU+PC9QPg0KPFAgY2xhc3M9cEJvZHk+QVAgZOG6q24gbOG7nWkgY2jDrW5oIHF1eeG7gW4gdGjDoG5oIHBo4buRIENhY2VyZXMsIGJhbmcgTWF0byBHcm9zc28gY2hvIGJp4bq/dCDEkcOieSBsw6AgbOG6p24gxJHhuqd1IHRpw6puIGjhu40gZ+G6t3AgduG6pW4gxJHhu4EgbsOgeSB04bqhaSBiw6NpIHThuq9tIERhdmVyb24sIMSRaeG7g20gZHUgbOG7i2NoIG7hu5VpIHRp4bq/bmcgbuG6sW0gdHLDqm4gY29uIHPDtG5nIFBhcmFndWF5LiBOaOG7r25nIGNvbiBjw6EgcGlyYW5oYSBodW5nIGThu68gxJHDoyDEkeG7mXQgbmfhu5l0IMSR4buVIHbhu4EgdOG7q25nIHF14bqnbiB0aOG7gyBs4bubbiB0cm9uZyBzdeG7kXQmbmJzcDtoYWkgdHXhuqduIHF1YS48L1A+DQo8UCBjbGFzcz1wQm9keT5QaXJhbmhhIHThu6tuZyDEkcaw4bujYyBtw7QgdOG6oyBuaMawIOKAnGxvw6BpIGPDoSBodW5nIGThu68gbmjhuqV0IHRo4bq/IGdp4bubaeKAnSwga2jDtG5nIGNo4buJIGLhu59pIGjDoG0gcsSDbmcgc+G6r2Mgbmjhu41uIGPhu6dhIGNow7puZyBtw6AgY8OybiBi4bufaSB0aMOzaSBxdWVuIHjDonUgeMOpIGPhuqMgbmjhu69uZyBzaW5oIHbhuq10IGzhu5tuIGjGoW4uPC9QPg0KPFAgY2xhc3M9cEJvZHk+4oCcTeG7jWkgbmfGsOG7nWkgY+G6p24gcGjhuqNpIGjhur90IHPhu6ljIGPhuqluIHRo4bqtbi4gTuG6v3UgYuG7iyBj4bqvbiwgcGjhuqNpIG5nYXkgbOG6rXAgdOG7qWMgbMOqbiBi4budIHbDoCBraMO0bmcgxJHhu4MgY2hvIG3DoXUgbG9hbmcgcmEgdHLDqm4gbeG6t3Qgbsaw4bubY+KAnSAtIE9saXZlaXJhLCBt4buZdCBuZ8aw4budaSBkw6JuIMSR4buLYSBwaMawxqFuZywgbsOzaSB24bubaSBrw6puaCBHbG9ibyBUVi48L1A+DQo8UCBjbGFzcz1wQm9keT7EkMOjIGPDsyDDrXQgbmjhuqV0IDE1IG5nxrDhu51pJm5ic3A7bMOgIG7huqFuIG5ow6JuIGPhu6dhIHBpcmFuaGEgdHJvbmcgbmjhu69uZyBuZ8OgeSBxdWEuPC9QPg0KPFAgY2xhc3M9cEJvZHk+4oCcVMO0aSBs4bq3biB4deG7kW5nIHPDtG5nIHbDoCBraGkgdHLhu5NpIGzDqm4gdGjDrCBj4bqjbSB0aOG6pXkgbeG7mXQgY8ahbiDEkWF1IOG7nyBjaMOibiZuYnNwOy0gbeG7mXQgbuG6oW4gbmjDom4gdMOqbiBFbHNvbiBQaW50byBr4buDIGzhuqFpIC0gJm5ic3A7Q29uJm5ic3A7Y8OhIMSRw6MgY+G6r24gbeG6pXQgxJHhuqd1IG5nw7NuIGNow6JuIHTDtGkuIFTDtGkgYuG7jyBjaOG6oXkgdHLhu5FpIGNo4bq/dCBsw6puIGLhu50gdsOsIHPhu6MmbmJzcDtjaMO6bmcgc+G6vSDEkeG7lSB4w7QgxJHhur9uIGtoaSBuZ2hlIG3DuWkgbcOhdeKAnS48L1A+DQo8UCBjbGFzcz1wQm9keT5UaOG6vyBuaMawbmcgY8OhYyBxdWFuIGNo4bupYyBDYWNlcmVzIGNobyBiaeG6v3QgYsOjaSB04bqvbSBz4bq9IHbhuqtuIG3hu58gY+G7rWEgdsOsIMSRw6J5IGzDoCBt4buZdCDEkWnhu4NtIHRodSBow7p0IGtow6FjaCBkdSBs4buLY2ggcXVhbiB0cuG7jW5nIHThuqFpIHbDuW5nIFBhbnRhbmFsLCB24buRbiBu4buVaSB0aeG6v25nIHbhu4EgZHUgbOG7i2NoIHNpbmggdGjDoWkuIEPhu6kgdsOgbyB0aMOhbmcgOSBo4bqxbmcgbsSDbSwgdGjDoG5oIHBo4buRIGzhuqFpIHThu5UgY2jhu6ljIG3hu5l0IHRyb25nIG5o4buvbmcgZmVzdGl2YWwgY8OidSBjw6EgbOG7m24gbmjhuqV0IEJyYXppbCB24bubaSBz4buxIHRoYW0gZ2lhIGPhu6dhIGtob+G6o25nIDIwMC4wMDAga2jDoWNoIGR1IGzhu4tjaC4gPC9QPg0KPFAgY2xhc3M9cEJvZHk+TeG7mXQgYmnhu4NuIGLDoW8gbOG7m24gxJHDoyDEkcaw4bujYyBk4buxbmcgbMOqbiB24bubaSBkw7JuZyBjaOG7ryDEkeG7jzog4oCcTmfGsOG7nWkgYsahaSBs4buZaSBjaMO6IMO9LiBWw7luZyBjw7MgY8OhIHBpcmFuaGEuIE5ndXkgaGnhu4NtIeKAnS4gVHV5IG5oacOqbiBsxrDhu6NuZyBraMOhY2ggZHUgbOG7i2No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" />
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCgLPnYCoAQKujo7vDQKes8HnAQK9vtWLDwLi8/XjAgLkw8LgDwKpweLXBgL/hbSVDgLQytrXCAKLh5j9DaIHEEXV6+IsNwehJXu3iGmehCnV" />
+  <div style="background-color:#eaf1f9; width:550px; height:380px; background-repeat:repeat; padding:2 10 0 0; margin:0 0 0 0">                
+        <p style="float:left; margin:0; padding:0">
+            <span class="ContactText" style="width:65px; float:left">Họ và tên</span>
+            <input name="_ctl1:contactInline:txtName" type="text" id="_ctl1_contactInline_txtName" class="PanelContent" />&nbsp;&nbsp;        
+            <span class="ContactText" style="width:90px">Địa chỉ Email</span>
+            <input name="_ctl1:contactInline:txtEmail" type="text" id="_ctl1_contactInline_txtEmail" class="PanelContent" />
+        </p>                 
+        <p style="float:left; margin:3px 0 0 0; padding:0 0 0 0">
+            <span class="ContactText" style="width:65px; float:left">Gửi tới&nbsp;&nbsp;&nbsp;&nbsp;</span>
+            <select name="_ctl1:contactInline:cboContact" id="_ctl1_contactInline_cboContact" class="PanelContent">
+	<option value="online@tuoitre.net.vn;tto@tuoitre.com.vn;nguyenhanh@tuoitre.com.vn;ctbd@tuoitre.com.vn">To&#224; soạn</option>
+	<option value="quangcao@tuoitre.com.vn">Ph&#242;ng quảng c&#225;o</option>
+	<option value="phathanh@tuoitre.com.vn">Ph&#242;ng ph&#225;t h&#224;nh</option>
+
+</select>&nbsp;&nbsp;        
+            <span class="ContactText" style="width:90px">Tiêu đề&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+            <input name="_ctl1:contactInline:txtTitle" type="text" id="_ctl1_contactInline_txtTitle" class="PanelContent" />
+        </p>                  
+                
+       <div style="width:502px; float:left; padding:0; margin:0">
+            <p style="float:left; padding-left:3px; padding-top:2px; width: 76px;" class="ContactText">Nội dung</p>
+            <p style="float:right; padding-top:2px; padding-right:10px; width: 220px;">
+                <span class="ContactText">Gõ tiếng Việt</span>							            
+	            <select  id="cboInputMethodContactInline"  style="background-image:url(Skin/Banner/); width:60px; height:19px; font-size:11px; border-color:#b9b9bb; border-width:1px"  onchange="setTypingMode(this.value * 1)"
+                    name="Select1">
+                    <option value="0" selected>Off</option>
+                    <option value="1">Telex</option>
+                    <option value="2">VNI</option>
+                </select> 
+                <a style="color:#003399; font-family:Arial; font-size:13px" href="http://www.tuoitre.com.vn/Tianyon/Index.aspx?ArticleID=29762&amp;ChannelID=67">
+					Hướng dẫn
+	            </a>
+			</p>
+        </div>                
+        <div style="float:left;background-color:#eaf1f9; margin:0 0 0 0; padding:0 0 0 0; width:500px; padding-left:3px;" class="ContactText1">
+             <textarea name="_ctl1:contactInline:txtContent" id="_ctl1_contactInline_txtContent" class="ContactText"></textarea>
+        </div>     
+        <div style="float:left;padding-left:3px; padding-top:8px; width:500px" class="ContactText1">Đính kèm tài liệu</div>                    
+        <p style="float:left; margin:0; padding:0">
+            <span class="ContactText">Tài liệu 1</span>
+            <input name="_ctl1:contactInline:File1" type="file" id="_ctl1_contactInline_File1" style="line-height:10px; padding:0 0 0 0; margin:0 0 0 0" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         
+            <span class="ContactText2">(Tối đa 1MB)</span>&nbsp;&nbsp;&nbsp;
+            <input type="submit" name="_ctl1:contactInline:cmdSend" value="Gửi đi" id="_ctl1_contactInline_cmdSend" /> 
+        </p>               
+        <p style="float:left;margin:0; padding:0">
+            <span class="ContactText">Tài liệu 2</span>
+            <input name="_ctl1:contactInline:File2" type="file" id="_ctl1_contactInline_File2" style="padding:0 0 0 0; margin:0 0 0 0" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      
+            <span class="ContactText2">(Tối đa 1MB) </span>           
+        </p>              
+        <p style="float:left;margin:0; padding:0">
+            <span class="ContactText">Tài liệu 3</span>
+            <input name="_ctl1:contactInline:File3" type="file" id="_ctl1_contactInline_File3" style="padding:0 0 0 0; margin:0 0 0 0" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         
+            <span class="ContactText2">(Tối đa 1MB)</span>            
+        </p>              
+        <p style="float:left;margin:0; padding:0">
+            <span class="ContactText">Tài liệu 4</span>
+            <input name="_ctl1:contactInline:File4" type="file" id="_ctl1_contactInline_File4" style="padding:0 0 0 0; margin:0 0 0 0" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      
+            <span class="ContactText2">(Tối đa 1MB)</span>
+        </p> 
+        <p><input name="_ctl1:contactInline:hidReferrer" type="hidden" id="_ctl1_contactInline_hidReferrer" value="http://dulich.tuoitre.vn/Index.aspx?ArticleID=465466&amp;ChannelID=100" /></p>       
+    </div>   
+</form>
+<script language="javascript" type="text/javascript">
+    function onContactSubmit()
+    {
+	    alert("Cảm ơn bạn đã gửi thư tới Tuổi Trẻ.");
+    	
+	    return true;
+    }
+    
+     // Form Clearn
+	document.getElementById("_ctl1_contactInline_txtContent").value = "";
+	document.getElementById("_ctl1_contactInline_txtTitle").value = "";	
+    
+    // Set Typing Mode
+    setTypingMode(document.getElementById("cboInputMethodContactInline").selectedIndex);
+	initTyper(document.getElementById("_ctl1_contactInline_txtContent"));
+	initTyper(document.getElementById("_ctl1_contactInline_txtName"));
+	initTyper(document.getElementById("_ctl1_contactInline_txtTitle"));	
+</script>
+    </div>    
+    <!--In Phản hồi Gửi Top-->
+     <div style="float:right" align="right" >	
+        <a href="JavaScript:location.href='PrintView.aspx'+location.search">
+                    <img src="Images/print.gif" alt="In bài" width="61px" height="22" border="0" />&nbsp; &nbsp;&nbsp;	        
+         <a href="#">
+            <img src="images/returnTop.gif" border="0" alt="Về đầu trang" /> 
+        </a>&nbsp; &nbsp;&nbsp;
+        <input onclick="popUpCalendar(this, this, 'dd-mm-yyyy')" type="image" src="images/ViewDay.gif" alt="" />&nbsp;&nbsp;&nbsp;                   
+    </div>
+    <div style="height:5px; width:100%; clear:both" ></div>
+    <span class="TopicTitle" style="color:#990000; font-size:12px; letter-spacing:1px">Các tin khác</span>
+		<br />
+    <ul style="float:left; clear:left; width:100%; padding:0 0 0 0; margin:0 0 0 0; list-style-type:none">        
+        
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=465119&ChannelID=100' title='TTO - Theo kết quả cuộc&nbsp;tuyển chọn&nbsp;NewNowNext do&nbsp;trang tin du lịch&nbsp;TripOut Travel tổ chức, thành phố Montréal của Canada đã vượt qua&nbsp;các thành phố du lịch nổi tiếng trên thế giới để đứng đầu danh sách những điểm đến tuyệt vời nhất thế giới.'>
+                        Montréal:&nbsp;điểm&nbsp;đến tuyệt vời nhất thế giới - <span style="font-size:12px; font-family:Arial; color:#616161"> (16/11)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=464975&ChannelID=100' title='TTO - Xe đạp được xem là cách tốt nhất để khám phá một địa điểm mới. Dưới đây là 10 cung đường mà mọi tay lái đều mong được đến theo bình chọn của tạp chí BBC. Quốc lộ 1A của Việt Nam nằm trong danh sách này.'>
+                        Những cung đường xe đạp cuốn hút nhất thế giới - <span style="font-size:12px; font-family:Arial; color:#616161"> (14/11)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=464638&ChannelID=100' title='TTCT - Ở Bắc Giang có một hệ thống các lăng tẩm bằng đá đã có tuổi hơn 300 năm nằm rải rác ở nhiều huyện, với hàng nghìn hiện vật đá được tạo tác công phu, thẩm mỹ, tới nay vẫn còn nhiều bí ẩn chưa được giải mã.'>
+                        Lạc cõi đá xưa - <span style="font-size:12px; font-family:Arial; color:#616161"> (13/11)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=464803&ChannelID=100' title='TT - Vịnh Hạ Long vừa được Tổ chức New Open World (NOW) công bố là một trong bảy kỳ quan thiên nhiên mới của thế giới.'>
+                        Vịnh Hạ Long vào top 7 kỳ quan mới - <span style="font-size:12px; font-family:Arial; color:#616161"> (13/11)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=464577&ChannelID=100' title='TTO - Kết thúc cuộc bầu chọn, 18g11 ngày 11-11 theo giờ VN (11g11 giờ GMT), vịnh Hạ Long là 1 trong 13 địa danh tăng hạng trong tổng số 28 địa danh lọt vào vòng chung kết cuộc bình chọn 7 kỳ quan thiên nhiên thế giới mới.'>
+                        Vịnh Hạ Long lọt top 13 địa danh tăng hạng - <span style="font-size:12px; font-family:Arial; color:#616161"> (11/11)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=464421&ChannelID=100' title='TTO - Núi Thần Đinh mang nhiều huyền tích về một cõi tâm linh, từng được người xưa coi là “chốn đa Phật”. Vài năm trở lại đây, khi tỉnh Quảng Bình mở đường lên núi thì Thần Đinh trở thành điểm du lịch được nhiều du khách tìm đến.'>
+                        Lên chốn Thần Đinh đa Phật - <span style="font-size:12px; font-family:Arial; color:#616161"> (11/11)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=464508&ChannelID=100' title='TTO - 11g11 giờ GMT hôm nay 11-11-2011 (tức 18g11 giờ&nbsp;VN) là thời hạn kết thúc bầu chọn bảy kỳ quan thiên nhiên mới của thế giới và dự kiến sau 2g sáng 12-11 sẽ có kết quả cuối cùng cuộc bình chọn.'>
+                        Bầu chọn Hạ Long đến phút cuối cùng - <span style="font-size:12px; font-family:Arial; color:#616161"> (11/11)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=464240&ChannelID=100' title='TTO - Chỉ còn&nbsp;hai ngày nữa, 7 kỳ quan thiên nhiên mới của thế giới sẽ được New Open World công bố. Trước thời điểm này, TTO giới thiệu đến bạn đọc hình ảnh và một số thông tin thú vị của 28 ứng viên trong cuộc đua bầu chọn 7 kỳ quan thiên nhiên mới của thế giới.'>
+                        Chiêm ngưỡng các "ứng viên"&nbsp;kỳ quan mới - <span style="font-size:12px; font-family:Arial; color:#616161"> (09/11)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=464026&ChannelID=100' title='TTO - Đêm 9-11-2011, bộ Văn hóa- Thể thao và Du lịch sẽ phối hợp với UBND TP.Hà Nội tổ chức chương trình giao lưu văn hóa nghệ thuật tại tượng đài Lý Thái Tổ để vận động nhân dân Thủ đô tham gia bầu chọn cho Vịnh Hạ Long trở thành kì quan thiên nhiên thế giới mới.'>
+                        Truyền hình trực tiếp bầu chọn cho Vịnh Hạ Long - <span style="font-size:12px; font-family:Arial; color:#616161"> (07/11)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 22px; padding-left:12px; background-image:url(Images/DarkBlueSquare.gif); background-position:top left; background-repeat:no-repeat">
+                    <a style="font-size:12px; font-family:Arial; color:#23619b" href='Index.aspx?ArticleID=463854&ChannelID=100' title='TTO - Hôm nay (6-11),&nbsp; Tổ chức New Open World (NOW) vừa tạm thời công bố top 10 kỳ quan thiên nhiên mới của thế giới, trong đó có địa danh vịnh Hạ Long của Việt Nam.'>
+                        Vịnh Hạ Long nằm trong top 10 kỳ quan - <span style="font-size:12px; font-family:Arial; color:#616161"> (06/11)</span>
+                    </a>
+                </li>
+            
+                <li style="line-height: 24px; padding-left:12px; font-family:Arial; font-size:14px">
+                    &nbsp;
+                </li>
+            
+    </ul> 
+</div>  
+ 
+    
+        </div>
+        <div id="right" style="width: 200px;">
+            <!-- Right Panel -->
+            <!--<Cache Time='18/11/2011 1:40:47 SA'>-->
+  	<!--div style="margin-top:2px">
+	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="200" height="120">
+      <param name="movie" value="http://s.tuoitre.vn/ndquangcao/2011/03/21/sunplay.swf">
+      <param name="quality" value="high">
+      <embed src="http://s.tuoitre.vn/ndquangcao/2011/03/21/sunplay.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="200" height="120"></embed>
+    </object>
+  </div-->
+  
+   <!--div style="margin-top:2px">
+	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="200" height="60">
+      <param name="movie" value="http://quangcao.tuoitre.vn/ndquangcao/2010/08/18/lienmy.swf">
+      <param name="quality" value="high">
+      <embed src="http://quangcao.tuoitre.vn/ndquangcao/2010/08/18/lienmy.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="200" height="60"></embed>
+    </object>
+  </div-->
+  
+  <div style="margin-top:2px">
+	<div style="float:left;padding-left:10px;padding-right:18px"><a href="http://quangcao.tuoitre.vn/service/counter.aspx?CounterID=316" target="_blank"><img src="http://quangcao.tuoitre.vn/ndquangcao/2010/09/01/hasatour.gif" border="0" /></a></div>
+    <div><a href="http://quangcao.tuoitre.vn/service/counter.aspx?counterid=372" target="_blank"><img src="http://quangcao.tuoitre.vn/ndquangcao/2010/11/23/logo_Samurai.gif" border="0" /></a></div>
+  </div>
+  
+  <!--div style="margin-top:2px">
+	<div style="float:left;padding-left:10px;padding-right:18px"><a href="http://quangcao.tuoitre.vn/service/counter.aspx?CounterID=316" target="_blank"><img src="http://quangcao.tuoitre.vn/ndquangcao/2010/09/01/hasatour.gif" border="0" /></a></div>
+    <div><a href="http://quangcao.tuoitre.vn/service/counter.aspx?counterid=372" target="_blank"><img src="http://quangcao.tuoitre.com.vn/ndquangcao/logo.gif" border="0" /></a></div>
+  </div-->
+
+
+<div style="margin:10px 0 0 0; padding: 0 0 0 0; background-color:#f8f8f8; border: 1px solid #cccccc;">
+    <h2 style="margin: 0 0 0 0; padding: 0 0 0 0px; background-image:url(Images/RightHeader.gif); height:26px; width:200px; background-color:#e7e7e7; font-family: Arial; font-size: 12px; font-weight:bold; text-transform:uppercase;">
+        <a style=" margin-left:6px;line-height:22px; font-size:12px; color:#FFFFFF;" href="index.aspx?ArticleID=464440&ChannelID=100">Tin ảnh</a>
+    </h2>
+    <div style="margin: 0 0 0 0; padding: 8px 0 0 0; font-family: Arial; font-size:12px;">
+        <a href="JavaScript:showImage(ImageNews.src)" style="margin: 0 25px 0 25px">
+            <img style="width:150px; border-style:none" src="ImageView.aspx?ThumbnailID=530910" id="ImageNews" alt="" />
+        </a>
+        <p style="margin:0 0 0 0; padding: 10px 8px 0 8px;">
+            TTO - Chiều tối 10-11, hàng ngàn học sinh&nbsp;sinh viên và cán bộ nhân viên Trường ĐH Nguyễn Tất Thành (TP.HCM)&nbsp;đã tham gia bình chọn cho vịnh Hạ Long.
+        </p> 
+        <p style="margin:0 0 0 0; padding: 0 8px 5px 8px; text-align:right">
+            <a href='Index.aspx?ArticleID=464440&amp;ChannelID=100' 
+                style="font-size:12px; font-family:Arial; color:#23619b; margin-right:8px; white-space:nowrap">
+                Xem tiếp <span style="font-size:12px; vertical-align:middle">&gt;&gt;</span>
+            </a>
+        </p>              
+    </div>           
+</div>
+
+<div style="margin:10px 0 0 0; padding: 0 0 0 0; background-color:#f8f8f8; border: 1px solid #cccccc; overflow:hidden;">
+    <h2 style="margin: 0 0 0 0; padding: 0 0 0 6px; background-image:url(Images/RightHeader.gif); height:26px;  width:200px; background-color:#e7e7e7;font-family: Arial; font-size: 12px; font-weight:bold; text-transform:uppercase;">
+        <a style="; line-height:22px; font-size:12px; color:#FFFFFF;" href="Index.aspx?TopicID=215">Tour mới</a>
+    </h2>
+    	
+            <div style="padding: 0 0 8px 0; margin: 4px 8px 0px 8px; border-bottom: solid 0px #e1e1e1; display: block">
+                <img width='62'style='float:left; border: solid 1px #ccccca'  src=ImageView.aspx?ArticleID=460810 border=0>
+                <p style="padding: 0 0 0 0; margin: 0 0 0 0; width:110px; float:right;">
+                    <a style="color: #000000; font-family: Arial; font-size:12px; vertical-align:middle" href='Index.aspx?ArticleID=460810&ChannelID=100' title='TT - Tổng giám đốc Tập đoàn Life Resorts Chris Duffy cho biết đầu tháng 11 sẽ giới thiệu nhiều chương trình du ngoạn trên vịnh Hạ Long cho du khách trong và ngoài nước.'>
+					    Nhiều tour hấp dẫn trên vịnh Hạ Long
+				    </a>
+                </p>
+                <div style="clear:both"></div>
+            </div>
+			
+            <div style="padding: 0 0 8px 0; margin: 4px 8px 0px 8px; border-bottom: solid 0px #e1e1e1; display: block">
+                <img width='62'style='float:left; border: solid 1px #ccccca'  src=ImageView.aspx?ArticleID=447988 border=0>
+                <p style="padding: 0 0 0 0; margin: 0 0 0 0; width:110px; float:right;">
+                    <a style="color: #000000; font-family: Arial; font-size:12px; vertical-align:middle" href='Index.aspx?ArticleID=447988&ChannelID=100' title='TT - Những điều thường thấy ở một tour du lịch bình thường như xe đưa đón, khách du lịch với hàng tá vật dụng cầu kỳ sẽ không có trong tour du lịch chạy bộ - jogging tour. Du lịch chạy bộ đang được tổ chức hằng ngày tại London (Anh) và có nhiều khả năng trở thành một loại hình du lịch mới phổ biến trên toàn thế giới.'>
+					    Độc đáo du lịch chạy bộ
+				    </a>
+                </p>
+                <div style="clear:both"></div>
+            </div>
+			
+            <div style="padding: 0 0 8px 0; margin: 4px 8px 0px 8px; border-bottom: solid 0px #e1e1e1; display: none">
+                <img width='62'style='float:left; border: solid 1px #ccccca'  src=ImageView.aspx?ArticleID=438599 border=0>
+                <p style="padding: 0 0 0 0; margin: 0 0 0 0; width:110px; float:right;">
+                    <a style="color: #000000; font-family: Arial; font-size:12px; vertical-align:middle" href='Index.aspx?ArticleID=438599&ChannelID=100' title='TT - Sở Văn hóa - thể thao và du lịch TP.HCM vừa trình UBND TP kế hoạch phát triển du lịch đường sông năm 2011 và những năm sau. Theo đó những điểm tuyến sẽ khai thác trong năm 2011 bao gồm ba điểm dừng tại huyện Cần Giờ (xã Tam Thôn Hiệp, văn phòng phân khu 2, khu vực tiểu khu 19).'>
+					    TP.HCM: thêm nhiều tuyến du lịch đường sông
+				    </a>
+                </p>
+                <div style="clear:both"></div>
+            </div>
+			
+            <div style="padding: 0 0 8px 0; margin: 4px 8px 0px 8px; border-bottom: solid 0px #e1e1e1; display: none">
+                <img width='62'style='float:left; border: solid 1px #ccccca'  src=ImageView.aspx?ArticleID=435949 border=0>
+                <p style="padding: 0 0 0 0; margin: 0 0 0 0; width:110px; float:right;">
+                    <a style="color: #000000; font-family: Arial; font-size:12px; vertical-align:middle" href='Index.aspx?ArticleID=435949&ChannelID=100' title='TT - Sau khi Bộ Văn hóa - thể thao và du lịch công nhận Trường Lũy (Quảng Ngãi) là di tích lịch sử văn hóa quốc gia (ngày 9-3-2011), đã có nhiều khách du lịch chọn Trường Lũy làm nơi khám phá...'>
+					    Khám phá Trường Lũy
+				    </a>
+                </p>
+                <div style="clear:both"></div>
+            </div>
+			
+            <div style="padding: 0 0 8px 0; margin: 4px 8px 0px 8px; border-bottom: solid 0px #e1e1e1; display: none">
+                <img width='62'style='float:left; border: solid 1px #ccccca'  src=ImageView.aspx?ArticleID=429739 border=0>
+                <p style="padding: 0 0 0 0; margin: 0 0 0 0; width:110px; float:right;">
+                    <a style="color: #000000; font-family: Arial; font-size:12px; vertical-align:middle" href='Index.aspx?ArticleID=429739&ChannelID=100' title='TT - Bỏ lại sau lưng những tòa nhà sừng sững và phố xá ồn ào đầy khói bụi, chúng tôi rời bến Bạch Đằng trên hai chiếc canô ngược sông Sài Gòn hướng ra Củ Chi. Trời trong, nắng nhạt, canô lướt nhẹ trên mặt nước tạo cảm giác bồng bềnh, phấn chấn.'>
+					    Một ngày trên sông Sài Gòn
+				    </a>
+                </p>
+                <div style="clear:both"></div>
+            </div>
+		
+</div><!--</Cache>-->
+            <div style="background-image:url(Images/VTourHeader.gif); background-repeat:no-repeat; background-position:left top; width:200px; height:26px; vertical-align:middle; text-align:left; margin-top:10px;">
+    <a href="javascript:void(0);" style="color:#fff; font-family:Arial, Sans-Serif; font-size:13px; font-weight:bold; margin-left:10px; margin-top:5px; line-height:24px;" >Du lịch ảo</a> 
+</div>
+
+<div style="background-image:url(Images/background-TourMagic.gif); background-position:left top; background-repeat:repeat-x; width:200px; background-color:#70b46b; margin-top:0px; padding-left:0px; padding-top:5px; padding-bottom:3px;" >
+    <a href="http://tuoitre.vn/VirtualTour.aspx" target="_blank"> 
+		<img src="Images/imgVirtual.gif" alt="" style="border:0px; margin-left:2px;"  />
+	</a>
+
+    
+</div>
+
+
+
+            
+
+<div style="border: 1px solid #cccccc; margin-top:10px; overflow:hidden;">
+    <h2 style="margin: 0 0 0 0; padding: 0 0 0 6px; background-image:url(Images/RightHeader.gif); height:26px;  width:200px; background-color:#e7e7e7;font-family: Arial; font-size: 12px; font-weight:bold; text-transform:uppercase;">
+        <span style="line-height:26px;color:#FFF" > Thông tin cần biết</span>  
+    </h2>
+    <div style="width:197px;background-image:url(Images/dot1.gif); background-position:left bottom; background-repeat:repeat-x; height:25px;">
+		<div style="width:95px; float:left; padding-left:2px; line-height:25px; "> 
+			<img src="Images/Orange_dot.gif" style="vertical-align:middle"/>
+			<a href="javascript:displayInfo('weather')" style="line-height:25px;color:#23619b"  class="OTitleRightSmall">Thời Tiết</a>
+		
+		</div> 
+		<div style="float:right; width:97px;padding-left:2px;height:25px;"> 
+			<img src="Images/Orange_dot.gif" style="vertical-align:middle"/>
+           <a href="javascript:displayInfo('forex')"  style="line-height:25px;color:#23619b"  class="OTitleRightSmall">Tỷ Giá Ngoại Tệ</a>
+		</div> 
+		<br style="clear:both" />
+	</div>
+	<div style="clear:both; width:197px;background-image:url(Images/dot1.gif); background-position:left bottom; background-repeat:repeat-x;height:25px;" >
+		<div style="width:97px; float:left ; padding-left:2px;"> 
+			<img src="Images/Orange_dot.gif" style="vertical-align:middle"/>
+			<a href="javascript:displayInfo('gold')"  style="line-height:25px; color:#23619b"  class="OTitleRightSmall">Giá Vàng</a>
+		</div> 
+		<div style="float:right; width:97px;">
+			<img src="Images/Orange_dot.gif" style="vertical-align:middle"/>
+			<a href="Index.aspx?ChannelID=385"   style="line-height:25px;color:#23619b"  class="OTitleRightSmall">Truyền Hình</a>
+		</div> 
+		<br style="clear:both" />
+	</div>
+	<div style="clear:both; width:197px;  background-image:url(Images/dot1.gif); background-position:left bottom; background-repeat:repeat-x;height:25px; " >
+		<div style="width:98px; float:left"> 
+            <img src="Images/Orange_dot.gif" style="vertical-align:middle"/>
+            <a href="javascript:displayInfo('lottery')"   style="line-height:25px;color:#23619b"  class="OTitleRightSmall">Xổ Số Kiến Thiết</a>
+		</div> 
+		<div style="float:right; width:98px;">
+			<img src="Images/Orange_dot.gif" style="vertical-align:middle"/>
+			<a href="http://www.tuoitre.com.vn/Tianyon/Index.aspx?ChannelID=344"  style="line-height:25px;color:#23619b"  class="OTitleRightSmall">Tuyến Xe Bus</a>
+		</div> 
+		<br style="clear:both" />
+	</div>
+	<div style="clear:both; width:197px;background-image:url(Images/dot1.gif); background-position:left bottom; background-repeat:repeat-x;height:25px;" >
+        <img src="Images/Orange_dot.gif" style="vertical-align:middle"/>
+        <a href="javascript:displayInfo('stock_ho')" style="line-height:25px;color:#23619b"  class="OTitleRightSmall">Chứng Khoán TP.HCM</a>
+    </div>
+    <div style="background-image:url(Images/dot1.gif); width:197px; background-position:left bottom; background-repeat:repeat-x;height:25px;" >	                        
+		<img src="Images/Orange_dot.gif" style="vertical-align:middle"/>
+		<a href="javascript:displayInfo('stock_ha')"  style="line-height:25px;color:#23619b"  class="OTitleRightSmall">Chứng Khoán TP.Hà Nội</a>
+	</div>   
+</div>
+        </div>
+        <div id="bottom" style="text-align: center;">
+            
+
+<div id=divAdLeft style="Display: none; POSITION: absolute; TOP: 71px">
+	
+	
+		<a href='http://quangcao.tuoitre.com.vn/quangcao/?t=95&h=4' title='' target="_blank">
+		<img src='http://quangcao.tuoitre.com.vn/ndquangcao/2009/12/03/quangcao.jpg' border="0">
+	</a>	
+</div>
+
+<script language="JavaScript">
+	
+	window.onresize=ShowAdDiv;
+
+	function FloatTopDivLeft()
+	{
+		startX = ((document.body.clientWidth -774)/2) - 20 - 95, startY = 168;
+		var d = document;
+		
+		function ml(id)
+		{
+			var el=d.getElementById?d.getElementById(id):d.all?d.all[id]:d.layers[id];
+			el.sP=function(x,y){this.style.left=x;this.style.top=y;};
+			el.x = startX;
+			el.y = startY;
+			return el;
+		}
+		
+		window.stayTopLeft=function()
+		{
+			if (document.documentElement && document.documentElement.scrollTop)
+				var pY =  document.documentElement.scrollTop;
+			else if (document.body)
+				var pY =  document.body.scrollTop;
+				
+			if (document.body.scrollTop > 71)
+			{
+				startY = 3
+			}
+			else 
+			{
+				startY = 168
+			};
+			
+			ftlObjLeft.y += (pY + startY - ftlObjLeft.y) / (66 - 60);
+			ftlObjLeft.sP(ftlObjLeft.x, ftlObjLeft.y);
+//			setTimeout("stayTopLeft()", 20);
+		}
+		
+		ftlObjLeft = ml("divAdLeft");
+		stayTopLeft();
+	}	
+
+	function ShowAdDiv()
+	{
+		var objAdDivLeft = document.getElementById("divAdLeft");
+		if (document.body.clientWidth < 778)
+		{
+		    objAdDivLeft.style.display = "none";
+		}
+		else
+		{
+			objAdDivLeft.style.display = "block";
+			FloatTopDivLeft();
+		}
+	}
+	
+	ShowAdDiv();
+</script>
+            
+
+<DIV id=divAdRight style="Display: none; POSITION: absolute; TOP: 71px">
+	
+	<!--a style="margin-top:2px;" href='http://quangcao.tuoitre.com.vn/service/counter.aspx?counterID=528' title='' target="_blank">
+		<img src='http://quangcao.tuoitre.com.vn/service/fsc/Vietravel.gif' border="0"><br clear="all">
+	</a-->
+		<a href='http://quangcao.tuoitre.com.vn/quangcao/?t=95&h=4' title='' target="_blank">
+		<img src='http://quangcao.tuoitre.com.vn/ndquangcao/2009/12/03/quangcao.jpg' border="0">
+	</a>
+</DIV>
+<script language="JavaScript">
+	window.onresize=ShowAdDiv;
+
+	function FloatTopDiv()
+	{
+		startX = ((document.body.clientWidth -774)/2) + 770 + 9, startY = 168;
+		var d = document;
+		
+		function ml(id)
+		{
+			var el=d.getElementById?d.getElementById(id):d.all?d.all[id]:d.layers[id];
+			el.sP=function(x,y){this.style.left=x;this.style.top=y;};
+			el.x = startX;
+			el.y = startY;
+			return el;
+		}
+		
+		window.stayTopRight=function()
+		{
+			if (document.documentElement && document.documentElement.scrollTop)
+				var pY =  document.documentElement.scrollTop;
+			else if (document.body)
+				var pY =  document.body.scrollTop;
+				
+			if (document.body.scrollTop > 71)
+			{
+				startY = 3
+			} 
+			else 
+			{
+				startY = 168
+			};
+			
+			ftlObjRight.y += (pY + startY - ftlObjRight.y) / (66 - 60);			
+			ftlObjRight.sP(ftlObjRight.x, ftlObjRight.y);
+			
+//			setTimeout("stayTopRight()", 20);
+		}
+		
+		ftlObjRight = ml("divAdRight");
+		
+		stayTopRight();
+	}
+	
+	function ShowAdDiv()
+	{
+		var objAdDivRight = document.getElementById("divAdRight");
+		var objAdDivLeft = document.getElementById("divAdLeft");
+		
+		if (document.body.clientWidth < 980)
+		{
+		    objAdDivRight.style.display = "none";
+		}
+		else
+		{
+			objAdDivRight.style.display = "block";
+			FloatTopDiv();			
+		}
+	}
+	
+	ShowAdDiv();
+	
+var getNumber2='-1';
+
+function PlayRandom2()
+{
+var irandom =0;
+while(true)
+{
+	if (parseInt(irandom,10)=='0')
+	irandom = Math.random( )*2;
+	else
+	break;
+}
+return (parseInt(irandom));
+}
+
+function display2()
+{
+	var a1 = document.getElementById("a21");
+	var a2 = document.getElementById("a22");
+	if (getNumber2=='-1') getNumber2 = PlayRandom2();
+	if (getNumber2=='1')
+	{
+	  a1.style.display ="";
+		a2.style.display ="none";
+		getNumber2='2';
+	}
+	else
+	{
+	  a1.style.display ="none";
+		a2.style.display ="";
+		getNumber2='1';
+	}
+}
+//display2();
+//var m2=setInterval("display2()",6000);	
+</script>
+            <!-- Bottom Panel -->
+            <div style="clear: both; margin: 5px 0 5px;">
+                <!--<Cache Time='18/11/2011 1:40:47 SA'>--><!--</Cache>-->
+            </div>
+        </div>
+        <div>
+            <div id="Footer" style="margin: 0; padding:; float:left; width:780px; height:34px; background-color:#e3f1fd; background-image:url(Images/FooterBgr.gif); background-repeat:repeat-x; background-position:top left">
+    <ul style="margin:0; padding:0; float:left; list-style-type:none;">
+        <li><a href="http://tuoitre.vn" target="_blank"><span style="font-size:11px">&nbsp;Bản quyền &copy; 2003 - 2010 Tuổi Trẻ</span>&nbsp;&nbsp;&nbsp;</a></li>
+        <li><a href="http://tuoitre.vn/Support/unicode.zip"><span style="font-size:11px">&nbsp;&nbsp;Font Unicode</span></a></li>
+        <li><a href="http://quangcao.tuoitre.vn/Bang-gia-quang-cao/Tuoi-Tre-Online/index.html" ><span style="font-size:11px">&nbsp;&nbsp;Bảng Giá Quảng Cáo</span></a></li>
+        <li><a href=" http://quangcao.tuoitre.vn/Dat-bao-truc-tuyen/index.html" ><span style="font-size:11px">&nbsp;&nbsp;Đặt Báo</span></a></li>
+        <li><a href="http://tuoitre.vn/So-do-Web/Index.html"><span style="font-size:11px">&nbsp;&nbsp;Sơ Đồ Web</span></a></li>
+        <li><a href="http://tuoitre.vn/Support/support.htm"><span style="font-size:11px">&nbsp;&nbsp;Hướng Dẫn</span></a></li>
+        <li><a href="javascript:showWindow('http://chuyentrang.tuoitre.vn/Service/Contact.aspx', false, false, false, false, false, false, true, true, 800, 650, 0, 0);"><span style="font-size:11px">&nbsp;&nbsp;Liên Hệ</span></a></li>          
+        <li style="margin-left:6px"><a href="http://moore.vn" target="_blank"><span style="font-size:11px">&nbsp;&nbsp;&nbsp;&nbsp;Phát triển bởi Moore Corp.</span></a></li>
+    </ul>    
+</div>
+
+
+        </div>
+    </div>
+    
+
+    
+    
+    <!-- Google Analytics: dulich.tuoitre.com.vn -->
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+        try {
+            var pageTracker = _gat._getTracker("UA-6569960-1");
+            pageTracker._trackPageview();
+        } catch(err) {}
+    </script>
+
+    <!-- Google Analytics: dulich.tuoitre.com.vn -->
+    
+
+    <!-- CMS Statistics -->
+    <script language="javascript" type="text/javascript" src="http://statistics.tuoitre.com.vn/TotalStatistics.js"></script>
+    <script language="javascript" type="text/javascript">
+        var paramSta    = "App=DULICH";
+        var search      = document.location.search;
+        if(search != '')
+        {
+            paramSta = paramSta + "&" + search.replace("?","")
+        }
+        IframeRender(paramSta);
+    </script> 
+</body>
+</html>

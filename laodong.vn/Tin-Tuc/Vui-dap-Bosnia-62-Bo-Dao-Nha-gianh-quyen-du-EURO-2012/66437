@@ -1,0 +1,372 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="robots" content="index,follow" />
+    <meta name="Googlebot" content="index,follow" />
+    <meta name="author" content="laodong.com.vn" />
+    <meta http-equiv="imagetoolbar" content="no" />
+    <meta http-equiv="refresh" content="1200" />
+    <link rel="shortcut icon" href="/Content/favicon.ico" />
+    <link href="/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="/Content/css/base.css" type="text/css" rel="Stylesheet" />
+    <link href="/Content/css/common.css" type="text/css" rel="Stylesheet" />
+    <link href="/Content/jquery.calendar.css" type="text/css" rel="stylesheet" />
+    <link href="/Content/css/droplinetabs.css" rel="stylesheet" type="text/css" />
+
+    <script type="text/javascript" src="/Scripts/jquery-1.3.2.min.js"></script>
+
+    <script src="/Scripts/js/droplinemenu.js" type="text/javascript"></script>
+
+    <script src="/Content/player/swfobject.js" type="text/javascript"></script>
+
+    <script type="text/javascript" src="/Scripts/common.js"></script>
+
+    <script src="/Scripts/MicrosoftAjax.js" type="text/javascript"></script>
+
+    <script src="/Scripts/MicrosoftMvcAjax.js" type="text/javascript"></script>
+
+    <script type="text/javascript" src="http://ads.laodong.vn/www/delivery/spcjs.php?id=1"></script>
+
+    <title>Báo Lao Động Điện Tử - Bao Lao Dong Dien Tu | LAODONG.COM.VN</title>
+
+    <script type="text/javascript" src="/Slider/js/layout-base.js"></script>
+
+    <script type="text/javascript" src="/Slider/js/jquery.timers-1.1.3.js"></script>
+
+    <script type="text/javascript" src="/Slider/js/ja.news.js"></script>
+
+    <meta name="description" content="LAODONG.COM.VN - Báo Lao Động Điện Tử - Tin tức thời sự Việt Nam và thế giới, cập nhật liên tục 24/24" />
+    <meta name="keywords" content="lao động, Việt Nam, TP HCM, báo điện tử, hà nội, công đoàn, phóng sự, kinh tế, chính trị, pháp luật, văn hóa, thể thao, báo lao động, việc làm, quốc tế, công nghệ thông tin, tấm lòng vàng, trí tuệ việt nam, tuyển sinh, tin nóng, tư vấn, bất động sản" />
+    <link rel="stylesheet" type="text/css" href="/Slider/css/index.css" media="all" />
+</head>
+<body>
+    <div id="Wrap">
+        <!-- Top -->
+
+        <script type="text/javascript">
+            dateFormat.i18n = {dayNames: ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat","Chủ nhật", "Thứ hai", "Thứ ba", "Thứ tư", "Thứ năm", "Thứ sáu", "Thứ bảy"],
+                            monthNames: ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec",
+		                    "Tháng một", "Tháng hai", "Tháng ba", "Tháng tư", "Tháng năm", "Tháng sáu", "Tháng bảy", "Tháng tám", "Tháng chín", "Tháng mười", "Tháng mười một", "Tháng mười hai"]};
+        </script>
+        <div>
+            <div class="Logo">
+                <h1>
+                    <a href="/">
+                        <img src="/Content/images/logo2.jpg" border="0" alt="laodong.vn" title="Lao động điện tử" /></a>
+                    <span style="display: none">Báo laodong điện tử tin tức thời sự cập nhật liên tục</span>
+                </h1>
+                <p class="Time">
+                    <script type="text/javascript">document.write(dateFormat( new Date(), "dddd, dd.mm.yyyy | hh:MM (Z) "));</script>
+                </p>
+            </div>
+            <div class="AdsTopRight">
+                <div class="TopMiddleAds">
+                    <script type='text/javascript'><!--// <![CDATA[
+            OA_show(2);
+        // ]]> --></script>
+                </div>
+                <div class="TopRightAds">
+                    <script type='text/javascript'><!--// <![CDATA[
+            OA_show(3);
+        // ]]> --></script>
+                </div>
+            </div>
+            <div id="droplinetabs1" class="droplinetabs">
+                <ul>
+                    <li>
+                        <h3>
+                            <a href="/Trang-chu/">Trang chủ</a></h3>
+                    </li>
+                    <li>
+                        <h3>
+                            <a href="/Chuyen-Muc/Chinh-tri/250" id="dive250" onmouseover="Hide(250);" onmouseout="Show(250);">
+                                Ch&#237;nh trị </a>
+                            <ul style="margin-left: 6em;" onmouseover="Hide(250);" onmouseout="Show(250);">
+                                <li><a href="/Chuyen-Muc/Dang-Chinh-phu/251">Đảng, Ch&#237;nh phủ </a></li>
+                                <li><a href="/Chuyen-Muc/Quoc-hoi/252">Quốc hội </a></li>
+                                <li><a href="/Chuyen-Muc/Doi-ngoai/284">Đối ngoại </a></li>
+                                <li class="FinalSubMenu"><a href="/Chuyen-Muc/Su-kien-binh-luan/282">Sự kiện b&#236;nh
+                                    luận </a></li>
+                            </ul>
+                        </h3>
+                    </li>
+                    <li>
+                        <h3>
+                            <a href="/Chuyen-Muc/Cong-doan/253" id="dive253" onmouseover="Hide(253);" onmouseout="Show(253);">
+                                C&#244;ng đo&#224;n </a>
+                            <ul style="margin-left: 6em;" onmouseover="Hide(253);" onmouseout="Show(253); ">
+                                <li><a href="/Chuyen-Muc/Hoat-dong/254">Hoạt động </a></li>
+                                <li class="FinalSubMenu"><a href="/Chuyen-Muc/Tranh-chap-lao-dong/255">Tranh chấp lao
+                                    động </a></li>
+                            </ul>
+                        </h3>
+                    </li>
+                    <li>
+                        <h3>
+                            <a href="/Chuyen-Muc/Xa-Hoi/3" id="dive3" onmouseover="Hide(3);" onmouseout="Show(3);">
+                                X&#227; hội </a>
+                            <ul style="margin-left: 6em;" onmouseover="Hide(3);" onmouseout="Show(3);">
+                                <li><a href="/Chuyen-Muc/Giao-duc/6">Gi&#225;o dục </a></li>
+                                <li><a href="/Chuyen-Muc/Y-te/248">Y tế </a></li>
+                                <li><a href="/Chuyen-Muc/Tuyen-sinh/4">Tuyển sinh </a></li>
+                                <li><a href="/Chuyen-Muc/Moi-truong/283">M&#244;i trường </a></li>
+                                <li><a href="/Chuyen-Muc/Noi-hay-dung/281">N&#243;i hay đừng </a></li>
+                                <li class="FinalSubMenu"><a href="/Chuyen-Muc/Tam-long-vang/263">Tấm l&#242;ng v&#224;ng
+                                </a></li>
+                            </ul>
+                        </h3>
+                    </li>
+                    <li>
+                        <h3>
+                            <a href="/Chuyen-Muc/The-Thao/2" id="dive2" onmouseover="Hide(2);" onmouseout="Show(2);">
+                                Thể thao </a>
+                            <ul style="margin-left: 14em;" onmouseover="Hide(2);" onmouseout="Show(2);">
+                                <li><a href="/Chuyen-Muc/Bong-da/256">B&#243;ng đ&#225; </a></li>
+                                <li><a href="/Chuyen-Muc/Tennis/312">Tennis </a></li>
+                                <li><a href="/Chuyen-Muc/Golf/313">Golf </a></li>
+                                <li><a href="/Chuyen-Muc/Guong-mat/8">Gương mặt </a></li>
+                                <li class="FinalSubMenu"><a href="/Chuyen-Muc/Binh-luan/25">B&#236;nh luận </a></li>
+                            </ul>
+                        </h3>
+                    </li>
+                    <li>
+                        <h3>
+                            <a href="/Chuyen-Muc/Van-Hoa/9" id="dive9" onmouseover="Hide(9);" onmouseout="Show(9);">
+                                Văn h&#243;a </a>
+                            <ul style="margin-left: 18em;" onmouseover="Hide(9);" onmouseout="Show(9);">
+                                <li><a href="/Chuyen-Muc/San-khau-Dien-Anh/32">S&#226;n khấu - Điện ảnh </a></li>
+                                <li><a href="/Chuyen-Muc/Am-Nhac/11">&#194;m nhạc </a></li>
+                                <li class="FinalSubMenu"><a href="/Chuyen-Muc/Thoi-Trang/10">Thời trang </a></li>
+                            </ul>
+                        </h3>
+                    </li>
+                    <li>
+                        <h3>
+                            <a href="/Chuyen-Muc/Quoc-Te/16" id="dive16" onmouseover="Hide(16);" onmouseout="Show(16);">
+                                Quốc tế </a>
+                            <ul style="margin-left: 20em;" onmouseover="Hide(16);" onmouseout="Show(16);">
+                                <li><a href="/Chuyen-Muc/The-Gioi-qua-anh/17">Thế giới qua ảnh </a></li>
+                                <li><a href="/Chuyen-Muc/The-Gioi-Do-day/19">Thế giới đ&#243; đ&#226;y </a></li>
+                                <li><a href="/Chuyen-Muc/Nguoi-Viet-xa-xu/286">Người Việt xa xứ </a></li>
+                                <li class="FinalSubMenu"><a href="/Chuyen-Muc/Ho-so/265">Hồ sơ </a></li>
+                            </ul>
+                        </h3>
+                    </li>
+                    <li>
+                        <h3>
+                            <a href="/Chuyen-Muc/Kinh-Te/12" id="dive12" onmouseover="Hide(12);" onmouseout="Show(12);">
+                                Kinh tế </a>
+                            <ul style="margin-left: 28em;" onmouseover="Hide(12);" onmouseout="Show(12);">
+                                <li><a href="/Chuyen-Muc/Chung-Khoan/14">Chứng kho&#225;n </a></li>
+                                <li><a href="/Chuyen-Muc/Doanh-nghiep-/276">Doanh nghiệp </a></li>
+                                <li class="FinalSubMenu"><a href="/Chuyen-Muc/Tai-chinh/285">T&#224;i ch&#237;nh </a>
+                                </li>
+                            </ul>
+                        </h3>
+                    </li>
+                    <li>
+                        <h3>
+                            <a href="/Chuyen-Muc/Bat-dong-san/233" id="dive233" onmouseover="Hide(233);" onmouseout="Show(233);">
+                                Bất động sản </a>
+                        </h3>
+                    </li>
+                    <li>
+                        <h3>
+                            <a href="/Chuyen-Muc/Phap-Luat/5" id="dive5" onmouseover="Hide(5);" onmouseout="Show(5);">
+                                Ph&#225;p luật </a>
+                        </h3>
+                    </li>
+                    <li>
+                        <h3>
+                            <a href="/Chuyen-Muc/Cong-nghe/268" id="dive268" onmouseover="Hide(268);" onmouseout="Show(268);">
+                                C&#244;ng nghệ </a>
+                            <ul style="margin-left: 46em;" onmouseover="Hide(268);" onmouseout="Show(268);">
+                                <li><a href="/Chuyen-Muc/So-hoa/292">Số h&#243;a </a></li>
+                                <li><a href="/Chuyen-Muc/O-to-Xe-may/293">&#212; t&#244; - Xe m&#225;y </a></li>
+                                <li><a href="/Chuyen-Muc/Vu-khi/315">Vũ kh&#237; </a></li>
+                                <li class="FinalSubMenu"><a href="/Chuyen-Muc/khoa-hoc/294">Khoa học </a></li>
+                            </ul>
+                        </h3>
+                    </li>
+                    <li>
+                        <h3>
+                            <a href="/Chuyen-Muc/Phong-su/262" id="dive262" onmouseover="Hide(262);" onmouseout="Show(262);">
+                                Ph&#243;ng sự </a>
+                        </h3>
+                    </li>
+                    <li>
+                        <h3>
+                            <a href="/Chuyen-Muc/Tu-van/288" id="dive288" onmouseover="Hide(288);" onmouseout="Show(288);">
+                                Tư vấn </a>
+                            <ul style="margin-left: 50em;" onmouseover="Hide(288);" onmouseout="Show(288);">
+                                <li><a href="/Chuyen-Muc/Tu-van-suc-khoe/289">Tư vấn sức khỏe </a></li>
+                                <li><a href="/Chuyen-Muc/Tu-van-tieu-dung/290">Tư vấn ti&#234;u d&#249;ng </a></li>
+                                <li><a href="/Chuyen-Muc/Tu-van-phap-luat/308">Tư vấn ph&#225;p luật </a></li>
+                                <li class="FinalSubMenu"><a href="/Chuyen-Muc/Tam-su/291">T&#226;m sự </a></li>
+                            </ul>
+                        </h3>
+                    </li>
+                    <li>
+                        <h3>
+                            <a href="/Chuyen-Muc/Doi-song/287" id="dive287" onmouseover="Hide(287);" onmouseout="Show(287);">
+                                Đời sống </a>
+                            <ul style="margin-left: 64em;" onmouseover="Hide(287);" onmouseout="Show(287);">
+                                <li><a href="/Chuyen-Muc/Du-lich/295">Du lịch </a></li>
+                                <li><a href="/Chuyen-Muc/Am-thuc/296">Ẩm thực </a></li>
+                                <li class="FinalSubMenu"><a href="/Chuyen-Muc/Dep/297">Đẹp </a></li>
+                            </ul>
+                        </h3>
+                    </li>
+                    <li class="Fi">
+                        <h3>
+                            <a href="/Chuyen-Muc/Ban-Doc-Viet/20" id="dive20" onmouseover="Hide(20);" onmouseout="Show(20);">
+                                Bạn đọc viết </a>
+                        </h3>
+                    </li>
+                </ul>
+            </div>
+            <div class="BgSubMenu">
+                <div id="divContact">
+                    <div class="Phone" id="divPhone">
+                        <ul>
+                            <li>&nbsp;</li>
+                            <li>&nbsp;</li>
+                            <li></li>
+                        </ul>
+                    </div>
+                    <div class="RightSunmenu0">
+                        <ul>
+                            <li><a href="/Chuyen-Muc/Lao-Dong-Cuoi-Tuan/30">
+                                <img src="/Content/images/chuamotcot.gif" width="20" height="15" border="0" alt="Image"
+                                    align="absmiddle" />
+                                <strong>Lao động cuối tuần</strong> </a></li>
+                        </ul>
+                    </div>
+                    <div class="RightSunmenu">
+                        <ul>
+                            <li><a href="/Chuyen-muc/Tam-long-vang/263">
+                                <img src="/Content/images/icon/qtlv.gif" width="22" height="17" border="0" alt="Image"
+                                    align="absmiddle" />
+                                <strong>Quỹ tấm lòng vàng</strong> </a></li>
+                        </ul>
+                    </div>
+                    <div class="RightSunmenu1">
+                        <ul>
+                            <li><a href="/Chuyen-muc/Trang-Viec-Lam/205">
+                                <img src="/Content/images/Icon/bds.gif" width="20" height="15" border="0" alt="Image"
+                                    align="absmiddle" />
+                                <strong>Việc làm</strong> </a></li>
+                        </ul>
+                    </div>
+                    <div class="Search">
+                        <form action="/Tim-kiem" method="get">
+                        <span class="BoxButton"><a href="javascript:void(0);" onclick="FormSubmit();">
+                            <img src="/Content/Images/Icon/search.jpg" alt="Tim kiem" width="19" height="16"
+                                border="0" /></a>
+                            <input type="submit" id="btnTim" value="Tìm kiếm" style="display: none;" />
+                        </span><span class="BoxInput">
+                            <input id="searchInput" name="q" type="text" value="Tìm kiếm" onclick="clickToDelete(this, 'Tìm kiếm');"
+                                onblur="mouseOutToRestore(this, 'Tìm kiếm')" class="TextField" />
+                        </span>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="Middle" style="min-height:200px">
+            <div class="line_notfound">
+                <p>
+                    <img src="/Content/images/inffo.jpg" height="38" width="38" border="0" align="absmiddle" />&nbsp;
+                    <span class="textgray_big">
+                        <b>Không tìm thấy đường dẫn này</b>
+                    </span>
+                </p>
+            </div>
+            <div class="line_notfound_search">
+                <p>
+                    Bạn có thể truy cập vào <a href="/"><u>trang chủ</u></a> hoặc sử dụng ô dưới đây
+                    để tìm kiếm.
+                </p>
+                <form action="/Tim-kiem" method="get">
+                <p class="notfound_search">
+                    <input name="q" type="text" value="Tìm kiếm..." size="60" onclick="clickToDelete(this, 'Tìm kiếm...');" onblur="mouseOutToRestore(this, 'Tìm kiếm...')"  />&nbsp;
+                    <a href="javascript:void(0);" onclick="FormSubmit();">
+                        <img src="/Content/images/Icon/search.jpg" alt="search" height="16" width="19" border="0" />
+                    </a>
+                    <input type="submit" id="Submit1" value="Tìm kiếm" style="display:none;" />
+                </p>
+                </form>
+            </div>
+        </div>
+        
+        <div class="Footer">
+            <div class="NavFooter">
+                <ul>
+                    <li class="NavFooterFirst"><a href="/Trang-chu/">Trang chủ</a></li>
+                    <li><a href="/Chuyen-Muc/Chinh-tri/250" id="A1" onmouseover="Hide(250);" onmouseout="Show(250);">
+                        Ch&#237;nh trị </a></li>
+                    <li><a href="/Chuyen-Muc/Cong-doan/253" id="A1" onmouseover="Hide(253);" onmouseout="Show(253);">
+                        C&#244;ng đo&#224;n </a></li>
+                    <li><a href="/Chuyen-Muc/Xa-Hoi/3" id="A1" onmouseover="Hide(3);" onmouseout="Show(3);">
+                        X&#227; hội </a></li>
+                    <li><a href="/Chuyen-Muc/The-Thao/2" id="A1" onmouseover="Hide(2);" onmouseout="Show(2);">
+                        Thể thao </a></li>
+                    <li><a href="/Chuyen-Muc/Van-Hoa/9" id="A1" onmouseover="Hide(9);" onmouseout="Show(9);">
+                        Văn h&#243;a </a></li>
+                    <li><a href="/Chuyen-Muc/Quoc-Te/16" id="A1" onmouseover="Hide(16);" onmouseout="Show(16);">
+                        Quốc tế </a></li>
+                    <li><a href="/Chuyen-Muc/Kinh-Te/12" id="A1" onmouseover="Hide(12);" onmouseout="Show(12);">
+                        Kinh tế </a></li>
+                    <li><a href="/Chuyen-Muc/Bat-dong-san/233" id="A1" onmouseover="Hide(233);" onmouseout="Show(233);">
+                        Bất động sản </a></li>
+                    <li><a href="/Chuyen-Muc/Phap-Luat/5" id="A1" onmouseover="Hide(5);" onmouseout="Show(5);">
+                        Ph&#225;p luật </a></li>
+                    <li><a href="/Chuyen-Muc/Cong-nghe/268" id="A1" onmouseover="Hide(268);" onmouseout="Show(268);">
+                        C&#244;ng nghệ </a></li>
+                    <li><a href="/Chuyen-Muc/Phong-su/262" id="A1" onmouseover="Hide(262);" onmouseout="Show(262);">
+                        Ph&#243;ng sự </a></li>
+                    <li><a href="/Chuyen-Muc/Tu-van/288" id="A1" onmouseover="Hide(288);" onmouseout="Show(288);">
+                        Tư vấn </a></li>
+                    <li><a href="/Chuyen-Muc/Doi-song/287" id="A1" onmouseover="Hide(287);" onmouseout="Show(287);">
+                        Đời sống </a></li>
+                    <li><a href="/Chuyen-Muc/Ban-Doc-Viet/20" id="A1" onmouseover="Hide(20);" onmouseout="Show(20);">
+                        Bạn đọc viết </a></li>
+                </ul>
+            </div>
+            <div class="LinkFooter">
+                <span class="MenuFooter"><a href="javascript:setHomepage('http://laodong.vn')">Đặt làm
+                    trang chủ</a> &nbsp;|&nbsp;<a href="/Lien-he/">Liên hệ tòa soạn</a>&nbsp; |&nbsp;<a
+                        href="/Lien-he-quang-cao">Liên hệ quảng cáo &nbsp; |&nbsp;</a><a href="#"> Quay về đầu
+                            trang </a></span>
+                <div class="ClearBoth">
+                </div>
+            </div>
+            <div class="FooterLeft">
+                <p>
+                    ©2010 Báo Lao Động - Cơ quan của Tổng Liên đoàn Lao động Việt Nam. All rights reserved.<br />
+                    Giấy phép số: 221/GP-BVHTT • Tổng Biên tập: VƯƠNG VĂN VIỆT. Phó Tổng Biên tập: Vũ
+                    Mạnh Cường<br />
+                    Địa chỉ liên hệ: Lô B52 Nguyễn Thị Định, Trung Hòa, Cầu Giấy, Hà Nội • ĐT: 04-35562295
+                    • Fax: 04-35562275
+                    <br />
+                    Email: webmaster@laodong.vn
+                </p>
+            </div>
+            <div class="FooterRight">
+                <p>
+                    Hợp tác và phát triển bởi VietClever ©2010 <a href="http://vietclever.com">
+                        <img src="/Content/images/logo-vc.jpg" width="68" height="34" align="absmiddle" border="0"
+                            alt="Việc làm, tuyển dụng, lương cao - HRC" />
+                        <span style="display: none">HRC - Việc làm, tuyển dụng, lương cao</span> </a>
+                    <!-- Solution by thanhtung1806@gmail.com -->
+                </p>
+            </div>
+        </div>
+        <!-- //Bottom -->
+    </div>
+</body>
+</html>

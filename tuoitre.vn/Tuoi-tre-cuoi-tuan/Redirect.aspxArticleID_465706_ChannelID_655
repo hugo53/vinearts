@@ -1,0 +1,956 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_mainHead"><title>
+	Sách giáo khoa: một thế giới của đàn ông? - Tuổi trẻ cuối tuần - Tuổi Trẻ Online
+</title><meta content="Tuoi Tre, Tuoi Tre Online, Tin tuc, Thoi su, Kinh te, Kinh doanh, Chinh tri, Xa hoi, The gioi, The thao, Giao duc, Tuyen sinh, Viec lam, Khoa hoc, Nhip song so, Van hoa, Giai tri, Nhip song tre, Phap luat, Thu vien Phap luat, Nguoi Viet, Nguoi Viet xa que, Song khoe, Ban doc, Ban doc vie, Bao dien tu, CMS, Game, Game Online, Tuoi Tre Cuoi, Ao Trang, Tu sach, Media, TVO" name="description" /><meta content="Tuoi Tre, Tuoi Tre Online, Tin tuc, Thoi su, Kinh te, Kinh doanh, Chinh tri, Xa hoi, The gioi, The thao, Giao duc, Tuyen sinh, Viec lam, Khoa hoc, Nhip song so, Van hoa, Giai tri, Nhip song tre, Phap luat, Thu vien Phap luat, Nguoi Viet, Nguoi Viet xa que, Song khoe, Ban doc, Ban doc vie, Bao dien tu, CMS, Game, Game Online, Tuoi Tre Cuoi, Ao Trang, Tu sach, Media, TVO" name="keywords" /><meta content="index, follow" name="Robots" /><meta content="index,follow" name="GOOGLEBOT" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta content="Thanhnt" name="developer" /><meta name="author" content="Thanhnt - ntthanh0106@yahoo.com" /><meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema" /><link rel="shortcut icon" href="http://tuoitre.vn/favicon.ico" /><link href="../../../App_Themes/StyleTTCT.css" type="text/css" rel="stylesheet" /><link href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/App_Themes/Tianyon.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Blue/Core.css" type="text/css" rel="stylesheet" /><meta name="keywords" content="Tuoi tre cuoi tuan,Câu chuyện cuộc sống - Cuộc sống muôn mầu - Tuổi Trẻ Cuối tuần - Tuổi trẻ Online" /><meta name="description" content="Câu chuyện cuộc sống - Cuộc sống muôn mầu - Tuổi Trẻ Cuối tuần - Tuổi trẻ Online" /><meta name="date" content="2011-11-20" scheme="YYYY-MM-DD" /></head>
+<body style="padding: 0px; margin: 0px;background-color:#fff;">
+    <form name="aspnetForm" method="post" action="Sach-giao-khoa-mot-the-gioi-cua-dan-ong.html" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1NDY1ODk4MjIPFgYeCVBhZ2VUaXRsZQVqQ8OidSBjaHV54buHbiBjdeG7mWMgc+G7kW5nIC0gQ3Xhu5ljIHPhu5FuZyBtdcO0biBt4bqndSAtIFR14buVaSBUcuG6uyBDdeG7kWkgdHXhuqduIC0gVHXhu5VpIHRy4bq7IE9ubGluZR4LRGVzY3JpcHRpb24FakPDonUgY2h1eeG7h24gY3Xhu5ljIHPhu5FuZyAtIEN14buZYyBz4buRbmcgbXXDtG4gbeG6p3UgLSBUdeG7lWkgVHLhursgQ3Xhu5FpIHR14bqnbiAtIFR14buVaSB0cuG6uyBPbmxpbmUeCEtleXdvcmRzBX1UdW9pIHRyZSBjdW9pIHR1YW4sQ8OidSBjaHV54buHbiBjdeG7mWMgc+G7kW5nIC0gQ3Xhu5ljIHPhu5FuZyBtdcO0biBt4bqndSAtIFR14buVaSBUcuG6uyBDdeG7kWkgdHXhuqduIC0gVHXhu5VpIHRy4bq7IE9ubGluZRYCZg9kFgICAw9kFggCAw9kFgIFDHdwMTQ3NDU4NzY0Ng9kFgJmD2QWBAIBD2QWAmYPZBYEZg8WAh4LXyFJdGVtQ291bnQCBBYIZg9kFgJmDxUCXmh0dHA6Ly90dW9pdHJlLnZuL1R1b2ktdHJlLWN1b2ktdHVhbi9WYW4tZGUtU3Uta2llbi9UaWV1LWRpZW0vNDY0Nzg3L0hhdC10aG9jLWNhbi1sYW0tdGFtLmh0bWwbSOG6oXQgdGjDs2MgY+G6r24gbMOgbSB0w6FtZAIBD2QWAmYPFQJ2aHR0cDovL3R1b2l0cmUudm4vVHVvaS10cmUtY3VvaS10dWFuL1Zhbi1kZS1TdS1raWVuL1RpZXUtZGllbS80NjM2MzUvQ2h1YS10aGF5LW5odW5nLXRpbmgtdG9hbi12ZS1sb2ktaWNoLWNoaS1waGkuaHRtbDlDaMawYSB0aOG6pXkgbmjhu69uZyB0w61uaCB0b8OhbiB24buBIGzhu6NpIMOtY2ggY2hpIHBow61kAgIPZBYCZg8VAmxodHRwOi8vdHVvaXRyZS52bi9UdW9pLXRyZS1jdW9pLXR1YW4vVmFuLWRlLVN1LWtpZW4vVGlldS1kaWVtLzQ1ODM4Ni9UaWV1LXR1bmctZG9uZy1tb3QtY2FjaC1raG9uLW5nb2FuLmh0bWwsVGnDqnUgdOG7q25nIMSR4buTbmcgbeG7mXQgY8OhY2gga2jDtG4gbmdvYW5kAgMPZBYCZg8VAnBodHRwOi8vdHVvaXRyZS52bi9UdW9pLXRyZS1jdW9pLXR1YW4vVmFuLWRlLVN1LWtpZW4vVGlldS1kaWVtLzQ1NzI2Ni/igJxCYXQtcXVhLXRhbmctdmEtZ2lhaS1waGFwLW1pbmgtYmFjaC5odG1sMeKAnELhuq90IHF14bqjIHRhbmciIHbDoCBnaeG6o2kgcGjDoXAgbWluaCBi4bqhY2hkAgEPFgIfAwIEFghmD2QWAmYPFQJTaHR0cDovL3R1b2l0cmUudm4vVHVvaS10cmUtY3VvaS10dWFuL1Zhbi1kZS1TdS1raWVuL1F1b2MtdGUvNDY0NzkyL1RydW9uZy1jaGF5Lmh0bWwSIlRyxrDhu51uZyBjaOG6oXkiZAIBD2QWAmYPFQJ1aHR0cDovL3R1b2l0cmUudm4vVHVvaS10cmUtY3VvaS10dWFuL1Zhbi1kZS1TdS1raWVuL1F1b2MtdGUvNDY0Nzg4L0hhaS1jYW5oLWJhby10aGlldC10aHVjLW5oYXQtdHUtaG9pLW5naGktRy0yMC5odG1sPEhhaSBj4bqjbmggYsOhbyB0aGnhur90IHRo4buxYyBuaOG6pXQgdOG7qyBo4buZaSBuZ2jhu4sgRy0yMGQCAg9kFgJmDxUCbWh0dHA6Ly90dW9pdHJlLnZuL1R1b2ktdHJlLWN1b2ktdHVhbi9WYW4tZGUtU3Uta2llbi9RdW9jLXRlLzQ2MzY1My9QYWxlc3RpbmUtLS10aGFuaC12aWVuLTE5NS1jdWEtVU5FU0NPLmh0bWwpUGFsZXN0aW5lIC0gdGjDoG5oIHZpw6puIDE5NSBj4bunYSBVTkVTQ09kAgMPZBYCZg8VAltodHRwOi8vdHVvaXRyZS52bi9UdW9pLXRyZS1jdW9pLXR1YW4vVmFuLWRlLVN1LWtpZW4vUXVvYy10ZS80NjI3MzEvVGhlLWdpb2ktNy10aS1uZ3VvaS5odG1sHFRo4bq/IGdp4bubaSA3IHThu4kgbmfGsOG7nWlkAgMPDxYCHgdWaXNpYmxlZ2QWBAICDxYCHgRUZXh0BZQEPGEgY2xhc3M9ImNvbG9yQmxhY2siIHN0eWxlPSJsaW5lLWhlaWdodDoyOHB4OyIgaHJlZj1odHRwOi8vdHVvaXRyZS52bi90YWcvaW5kZXguaHRtbD90PSdHaSVjMyVhMW8lMmJkJWUxJWJiJWE1Yyc+R2nDoW8gZOG7pWMsPC9hPjxhIGNsYXNzPSJjb2xvckJsYWNrIiBzdHlsZT0ibGluZS1oZWlnaHQ6MjhweDsiIGhyZWY9aHR0cDovL3R1b2l0cmUudm4vdGFnL2luZGV4Lmh0bWw/dD0ncyVjMyVhMWNoJTJiZ2klYzMlYTFvJTJia2hvYSc+IHPDoWNoIGdpw6FvIGtob2EsPC9hPjxhIGNsYXNzPSJjb2xvckJsYWNrIiBzdHlsZT0ibGluZS1oZWlnaHQ6MjhweDsiIGhyZWY9aHR0cDovL3R1b2l0cmUudm4vdGFnL2luZGV4Lmh0bWw/dD0ncGglZTElYmIlYTUlMmJuJWUxJWJiJWFmJz4gcGjhu6UgbuG7ryw8L2E+PGEgY2xhc3M9ImNvbG9yQmxhY2siIHN0eWxlPSJsaW5lLWhlaWdodDoyOHB4OyIgaHJlZj1odHRwOi8vdHVvaXRyZS52bi90YWcvaW5kZXguaHRtbD90PSclYzQlOTElYzMlYTBuJTJiJWMzJWI0bmcnPiDEkcOgbiDDtG5nPC9hPmQCAw8WAh8DAggWEGYPZBYCZg8VAzYuLi80NjU3MDYvU2FjaC1naWFvLWtob2EtbW90LXRoZS1naW9pLWN1YS1kYW4tb25nLmh0bWw2U8OhY2ggZ2nDoW8ga2hvYTogbeG7mXQgdGjhur8gZ2nhu5tpIGPhu6dhIMSRw6BuIMO0bmc/BTE5LzExZAIBD2QWAmYPFQMyLi4vNDY0NjQyL1BodS1odXluaC1jdW5nLeKAnG11b24tZ2hldC10aWVu4oCdLmh0bWwrUGjhu6UgaHV5bmggY8Wpbmcg4oCcbXXhu5FuIGdow6l0IHRp4buBbuKAnQUxMi8xMWQCAg9kFgJmDxUDGy4uLzQ2MzY1OS9PaS1zYW5nLWtpZW4uaHRtbBLDlGksIHPDoW5nIGtp4bq/biEFMTEvMTFkAgMPZBYCZg8VAyouLi80NjI3NTMvQ29uLXZvLWxvcC0xLW1hLWNodWEtY28tdGVuLmh0bWwiQ29uIHbDtCBs4bubcCAxIG3DoCBjaMawYSBjw7MgdMOqbgUzMS8xMGQCBA9kFgJmDxUDGi4uLzQ1ODUyNC9UaGF5LXZhLXRyby5odG1sD1Ro4bqneSB2w6AgdHLDsgUwMy8xMGQCBQ9kFgJmDxUDIy4uLzQ2MDI4MC9Ib2Mtc3V5LW5naGktZ2lhbi1kaS5odG1sG0jhu41jIHN1eSBuZ2jEqSBnaeG6o24gZOG7iwUwMi8xMGQCBg9kFgJmDxUDIy4uLzQ1NTIyOS/igJxTby1ub+KAnS1jdWEtdGhheS5odG1sHOKAnFPhu5UgbuG7o+KAnSBj4bunYSB0aOG6p3kFMTEvMDlkAgcPZBYCZg8VAzYuLi80NTQyMTMvS2hvbmctdGhlLWRhbmgtZG9uZy10aGktcm90LWxhLXRoYXQtYmFpLmh0bWw2S2jDtG5nIHRo4buDIMSRw6FuaCDEkeG7k25nIHRoaSBy4bubdCBsw6AgdGjhuqV0IGLhuqFpBTAzLzA5ZAIFD2QWAmYPFgIfAwIEFghmD2QWAmYPFQNqaHR0cDovL3R1b2l0cmUudm4vVHVvaS10cmUtY3VvaS10dWFuL1R1b2ktdHJlLWN1b2ktdHVhbi80NjQ0ODIvRG9uLWRvYy1UdW9pLVRyZS1jdW9pLXR1YW7CoHNvLTQ1LTIwMTEuaHRtbAY0NjQ0ODJQaHR0cDovL3R1b2l0cmUudm4vVHVvaS10cmUtY3VvaS10dWFuL1VwbG9hZHMvTWFpbkhlYWRJbWFnZS80ODIvNDY0NDgyXzEwMF83MS5qcGdkAgEPZBYCZg8VA2podHRwOi8vdHVvaXRyZS52bi9UdW9pLXRyZS1jdW9pLXR1YW4vVHVvaS10cmUtY3VvaS10dWFuLzQ2MzQzOS9Eb24tZG9jLVR1b2ktVHJlLUN1b2ktVHVhbsKgc28tNDQtMjAxMS5odG1sBjQ2MzQzOVBodHRwOi8vdHVvaXRyZS52bi9UdW9pLXRyZS1jdW9pLXR1YW4vVXBsb2Fkcy9NYWluSGVhZEltYWdlLzQzOS80NjM0MzlfMTAwXzcxLmpwZ2QCAg9kFgJmDxUDamh0dHA6Ly90dW9pdHJlLnZuL1R1b2ktdHJlLWN1b2ktdHVhbi9UdW9pLXRyZS1jdW9pLXR1YW4vNDYyNTM3L0Rvbi1kb2MtVHVvaS1UcmUtQ3VvaS1UdWFuwqBzby00My0yMDExLmh0bWwGNDYyNTM3UGh0dHA6Ly90dW9pdHJlLnZuL1R1b2ktdHJlLWN1b2ktdHVhbi9VcGxvYWRzL01haW5IZWFkSW1hZ2UvNTM3LzQ2MjUzN18xMDBfNzEuanBnZAIDD2QWAmYPFQNpaHR0cDovL3R1b2l0cmUudm4vVHVvaS10cmUtY3VvaS10dWFuL1R1b2ktdHJlLWN1b2ktdHVhbi80NjE0NzgvRG9uLWRvYy1UdW9pLVRyZS1jdW9pLXR1YW4tc28tNDItMjAxMS5odG1sBjQ2MTQ3OFBodHRwOi8vdHVvaXRyZS52bi9UdW9pLXRyZS1jdW9pLXR1YW4vVXBsb2Fkcy9NYWluSGVhZEltYWdlLzQ3OC80NjE0NzhfMTAwXzcxLmpwZ2QCCQ9kFgICAw9kFgYCAQ9kFgJmDxYCHwMCAxYGZg9kFgJmDxUEBWJsb2NrBjQ1MTAzNVdodHRwOi8vdHVvaXRyZS52bi9UdW9pLXRyZS1jdW9pLXR1YW4vQ2h1eWVuLWRlLzQ1MTAzNS9UaHVvYy1ub2ktLS1jaGF0LXZhdC10aW0tbG9pLmh0bWwnVGh14buRYyBu4buZaSAtIGNo4bqtdCB24bqtdCB0w6xtIGzhu5FpZAIBD2QWAmYPFQQFYmxvY2sGNDQ4ODUzZ2h0dHA6Ly90dW9pdHJlLnZuL1R1b2ktdHJlLWN1b2ktdHVhbi9DaHV5ZW4tZGUvNDQ4ODUzL0R1LWhvYy1UdS1jaHV5ZW4tY2Etbmhhbi1kZW4tY2h1eWVuLWRhdC1udW9jLmh0bWxARHUgaOG7jWM6IFThu6sgY2h1eeG7h24gY8OhIG5ow6JuIMSR4bq/biBjaHV54buHbiDEkeG6pXQgbsaw4bubY2QCAg9kFgJmDxUEBG5vbmUGNDQxOTI1VGh0dHA6Ly90dW9pdHJlLnZuL1R1b2ktdHJlLWN1b2ktdHVhbi9DaHV5ZW4tZGUvNDQxOTI1L1JhYy0tLXJhYy1yb2ktZGFuZy1jYW4ta2UuaHRtbCRSw6FjIC0gcuG6r2MgcuG7kWkgxJFhbmcgY+G6rW4ga+G7gT9kAgMPZBYCAgEPFgIfAwIDFgZmD2QWAmYPFQRSaHR0cDovL3R1b2l0cmUudm4vVHVvaS10cmUtY3VvaS10dWFuL0Jhbi1kb2MtdmEtVFRDVC80NjU3MjgvT25nLXRoYXktVmlldC12YW4uaHRtbE1odHRwOi8vdHVvaXRyZS52bi9UdW9pLXRyZS1jdW9pLXR1YW4vVXBsb2Fkcy9IZWFkSW1hZ2UvNzI4LzQ2NTcyOF8yMDBfMjAwLmpwZ1JodHRwOi8vdHVvaXRyZS52bi9UdW9pLXRyZS1jdW9pLXR1YW4vQmFuLWRvYy12YS1UVENULzQ2NTcyOC9PbmctdGhheS1WaWV0LXZhbi5odG1sF8OUbmcgdGjhuqd5IFZp4buHdCB2xINuZAIBD2QWAmYPFQRYaHR0cDovL3R1b2l0cmUudm4vVHVvaS10cmUtY3VvaS10dWFuL0Jhbi1kb2MtdmEtVFRDVC80NjQ3OTAvQ2h1YS1DYXUtY28tbmd1eS1jby1zdXAuaHRtbE1odHRwOi8vdHVvaXRyZS52bi9UdW9pLXRyZS1jdW9pLXR1YW4vVXBsb2Fkcy9IZWFkSW1hZ2UvNzkwLzQ2NDc5MF8yMDBfMjAwLmpwZ1hodHRwOi8vdHVvaXRyZS52bi9UdW9pLXRyZS1jdW9pLXR1YW4vQmFuLWRvYy12YS1UVENULzQ2NDc5MC9DaHVhLUNhdS1jby1uZ3V5LWNvLXN1cC5odG1sH0Now7lhIEPhuqd1IGPDsyBuZ3V5IGPGoSBz4bulcCFkAgIPZBYCZg8VBFZodHRwOi8vdHVvaXRyZS52bi9UdW9pLXRyZS1jdW9pLXR1YW4vQmFuLWRvYy12YS1UVENULzQ2MzY0OS9DaHV5ZW4tbmhvLW8tdGh1LXZpZW4uaHRtbE1odHRwOi8vdHVvaXRyZS52bi9UdW9pLXRyZS1jdW9pLXR1YW4vVXBsb2Fkcy9IZWFkSW1hZ2UvNjQ5LzQ2MzY0OV8yMDBfMjAwLmpwZ1ZodHRwOi8vdHVvaXRyZS52bi9UdW9pLXRyZS1jdW9pLXR1YW4vQmFuLWRvYy12YS1UVENULzQ2MzY0OS9DaHV5ZW4tbmhvLW8tdGh1LXZpZW4uaHRtbB5DaHV54buHbiBuaOG7jyDhu58gdGjGsCB2aeG7h25kAgUPZBYCZg8WAh8DAgMWBmYPZBYCZg8VBAVibG9jawY0NjQ2NTVKaHR0cDovL3R1b2l0cmUudm4vVHVvaS10cmUtY3VvaS10dWFuL1RodS1naWFuLzQ2NDY1NS9Dby10aWNoLXRhbi10aG9pLmh0bWwWQ+G7lSB0w61jaCB0w6JuIHRo4budaWQCAQ9kFgJmDxUEBG5vbmUGNDY0NjU0TGh0dHA6Ly90dW9pdHJlLnZuL1R1b2ktdHJlLWN1b2ktdHVhbi9UaHUtZ2lhbi80NjQ2NTQvVGh1LWdpYW4tY3VvaS10dWFuLmh0bWwYVGjGsCBnacOjbiBjdeG7kWkgdHXhuqduZAICD2QWAmYPFQQEbm9uZQY0NjM2NDJHaHR0cDovL3R1b2l0cmUudm4vVHVvaS10cmUtY3VvaS10dWFuL1RodS1naWFuLzQ2MzY0Mi9Wby1sYW0taGFjLWJhLmh0bWwSVsO1IGzDom0gaOG6r2MgYsOhZAIND2QWAgIBDw8WAh8EaGRkGAEFM2N0bDAwJFBsYWNlSG9sZGVyVG9vbEJveCR3ZWJQYXJ0VG9vbEJveCRjYXRhbG9nWm9uZQ8UKwACZAUPc2l0ZUNhdGFsb2dQYXJ0ZA==" />
+
+
+<script src="/Tuoi-tre-cuoi-tuan/ScriptResource.axd?d=cWA4ZR-kf55Yevsme1k5BDwiHb4Kry_xblCNH2FweSdzNAl0mqoibWVha36qTWGd9KUhe4t3u2D-HsVr_m9oeRg0RjtGyTzeYdWLsJ2Yz7-BbkbiqFUMzFYNVwmvTOdR3EeNvLwLqi2hRytZCgfmTmzuMNQZHYtXFEmh481UvAMr1lkM0&amp;t=ffffffffad80f624" type="text/javascript"></script>
+<script src="/Tuoi-tre-cuoi-tuan/ScriptResource.axd?d=14uvJXoXQFuXWrWg4pLb8glxTdkYc57JNhjYIFhisvINRLE4nQypV-L0sDP0dw5QKFSMK2Uxk8SaH5IhcQl68qM4OzlzMIq3HkRDg9uZY8HmrzYF92lNFYcQrMCVU4tsN39Wcg2&amp;t=4e768d7e" type="text/javascript"></script>
+<script src="/Tuoi-tre-cuoi-tuan/ScriptResource.axd?d=7D7PFtOyzx0M73wJfxq6f4VS68Su9VbmEKuUB88WPlT-6oWclKd6fIrHvf0wBhiISh5pEVMeKt740yYgyF-dl6W7rYm76SYYxt0RRlCGtMalswDheNE7JXPBjn5i54W-07h4Dg2&amp;t=4e768d7e" type="text/javascript"></script>
+<script src="/Tuoi-tre-cuoi-tuan/ScriptResource.axd?d=kGFOgpXzenRWN9yHdM6quB9rUZkKA1HtS5rLYdUknJZyNBMUnwzaqQ_GV4SMGv5PpYMuAwF92hbwOFxp-I60Hw6w4OmZrJfO51KDSR8XHVRqV-qpwcj6xEESGBEjb-1CdIvNsg2&amp;t=4e768d7e" type="text/javascript"></script>
+    
+    <script type="text/javascript" language="javascript" src="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Jscripts/jquery-1.3.2.min.js"></script>    
+    <script type="text/javascript" language="javascript" src="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Jscripts/Tianyon.js"></script>
+
+    <script type="text/javascript" language="javascript" src="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Jscripts/ToolTip/ajax-dynamic-content.js"></script>
+    <script type="text/javascript" language="javascript" src="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Jscripts/ToolTip/ajax.js"></script>		
+    <script type="text/javascript" language="javascript" src="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Jscripts/ToolTip/ajax-tooltip.js" defer="defer"></script>
+
+    
+    
+   <div id="mainBdy">
+        <!-- Header -->                
+        
+<div class="topHeader">
+	<span class="paddingLr10 floatLeft"><a class="tuansan" href="http://tuoitre.vn/tuoi-tre-cuoi-tuan/index.html">Tuần san của báo</a></span>
+    <div class="floatLeft" style="width: 280px; text-align:center"><span class="colorF"><script>writeTime('2011/11/20 01:05:41')</script></span></div>
+    <div style="width:465px" class="floatRight">
+    	<a class="CreateHome" href="#">Đặt  làm trang chủ</a>
+        <a class="newsLetter" href="http://chuyentrang.tuoitre.vn/Newsletter/">Newsletter</a>
+        <a class="mobileWeb" href="http://m.tuoitre.vn/">Mobile Web</a>    
+        <a class="rssLink" href="http://tuoitre.vn/RssFeeds.aspx?ChannelID=119">RSS</a>
+        <div class="clearfix"></div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+<div class="banner">
+	<div class="blockDvtc">
+    	<div class="floatLeft" style="width:300px; padding:6px;">
+        	<a href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Tuoi-tre-cuoi-tuan/465468/Don-doc-Tuoi-Tre-cuoi-tuan so-46-2011.html"><img class="imgDatbao" src="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Uploads/MainHeadImage/468/465468_100_71.jpg" /></a>
+            <div>
+            	<div class="paddingBt4 fontsize11"><a href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Tuoi-tre-cuoi-tuan/465468/Don-doc-Tuoi-Tre-cuoi-tuan so-46-2011.html"><strong>Đón đọc Tuổi Trẻ cuối tuần&nbsp;số 46-2011</strong></a><br />            	  
+            	 TTO - Lắng đọng sau một tuần nhiều sự kiện, Tuổi Trẻ cuối tuần số 46-2011 phát hành ngày 18-11-2011 với nhiều nội dung mới lạ. Đặc biệt câu chuyện ngày 20-11 với "Tự sự của những người thầy".</div>
+            </div>
+        <div class="paddingR10"><a class="datbao" href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Tuoi-tre-cuoi-tuan/465468/Don-doc-Tuoi-Tre-cuoi-tuan so-46-2011.html">Xem báo điện tử</a></div>
+        </div>
+        <div class="floatLeft" style="width:176px; padding:8px 0 0 10px">
+        <div class="bold fontsize13 paddingBt10"><a class="color4">Các số cũ hơn</a></div>
+        <ul class="listItemBaocu">
+            
+                    <li><a href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Tuoi-tre-cuoi-tuan/464482/Don-doc-Tuoi-Tre-cuoi-tuan so-45-2011.html" onmouseout="VietAd_HideTooltip();" onmouseover="VietAd_ShowTooltip('http://tuoitre.vn/tuoi-tre-cuoi-tuan/Ajax/ArticleToolTip.aspx?ArticleID=464482'); return false"><img alt="" src="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Uploads/MainHeadImage/482/464482_100_71.jpg" /></a></li>                             
+                
+                    <li><a href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Tuoi-tre-cuoi-tuan/463439/Don-doc-Tuoi-Tre-Cuoi-Tuan so-44-2011.html" onmouseout="VietAd_HideTooltip();" onmouseover="VietAd_ShowTooltip('http://tuoitre.vn/tuoi-tre-cuoi-tuan/Ajax/ArticleToolTip.aspx?ArticleID=463439'); return false"><img alt="" src="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Uploads/MainHeadImage/439/463439_100_71.jpg" /></a></li>                             
+                
+                    <li><a href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Tuoi-tre-cuoi-tuan/462537/Don-doc-Tuoi-Tre-Cuoi-Tuan so-43-2011.html" onmouseout="VietAd_HideTooltip();" onmouseover="VietAd_ShowTooltip('http://tuoitre.vn/tuoi-tre-cuoi-tuan/Ajax/ArticleToolTip.aspx?ArticleID=462537'); return false"><img alt="" src="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Uploads/MainHeadImage/537/462537_100_71.jpg" /></a></li>                             
+                
+                    <li><a href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Tuoi-tre-cuoi-tuan/461478/Don-doc-Tuoi-Tre-cuoi-tuan-so-42-2011.html" onmouseout="VietAd_HideTooltip();" onmouseover="VietAd_ShowTooltip('http://tuoitre.vn/tuoi-tre-cuoi-tuan/Ajax/ArticleToolTip.aspx?ArticleID=461478'); return false"><img alt="" src="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Uploads/MainHeadImage/478/461478_100_71.jpg" /></a></li>                             
+                
+            <div class="clearfix"></div>
+        </ul>
+        <div><a class="btndatbao" href="http://quangcao.tuoitre.vn/quangcao/Dat-bao-truc-tuyen/index.html"></a></div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+</div>     
+        <!-- Menu -->
+        
+<div class="boxMnuMainTop">
+    	<ul>
+            <li><a href="http://tuoitre.vn" class="iconHome"></a></li>
+            <li><a id="mnu_0" href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/index.html">Trang Nhất</a></li>
+            <li><a id="mnu_1" href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Van-de-su-kien/index.html">Vấn đề & Sự kiện </a></li>
+            <li><a id ="mnu_2" href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Cuoc-song-muon-mau/index.html">Cuộc sống muôn màu </a></li>
+            <li><a id ="mnu_3" href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Van-hoa-nghe-thuat/index.html">Văn hóa Giải trí</a></li>
+           
+        </ul>
+       
+<div class="boxSearch">
+                <div class="padding2">
+                    <div class="floatLeft" style="padding-top:6px; padding-left:3px;display:none;">
+                        <select class="option" style="width:46px; height:18px;">
+                	        <option>Tắt</option>
+                        </select>
+                	</div>
+                    <div class="floatLeft" style="padding-left: 10px;">
+                    	<input  id="txtKeyword"  name="SearchQuery" onkeypress="return trapEnterKey('chkYahoo',this.value,event);" type="text" class="inputSearch floatLeft" style="width:156px; height:20px;" value="Tìm trên Tuổi Trẻ"  onblur="if(this.value==''){this.value='Tìm trên Tuổi Trẻ';}" onfocus="if(this.value=='Tìm trên Tuổi Trẻ'){this.value='';}"/>
+                        <input type="button"  onclick="searchEngine();" alt="Tìm Kiếm" id="go_search_yahoo"  class="inputSearch floatLeft" style="width:60px; height:26px; cursor:pointer" />
+                    </div>
+                    <div class="floatLeft" style="padding-top:9px; padding-left:9px;"><input type="checkbox" id="chkYahoo" onclick="setvalueYahoo();"  /></div>
+                </div>
+        </div>
+<script type="text/javascript" language="javascript">
+    /* URL encode / decode */
+    var Url =
+    {
+        // public method for url encoding
+        encode: function(string) {
+            return escape(this._utf8_encode(string));
+        },
+
+        // public method for url decoding
+        decode: function(string) {
+            return this._utf8_decode(unescape(string));
+        },
+
+        // private method for UTF-8 encoding
+        _utf8_encode: function(string) {
+            string = string.replace(/\r\n/g, "\n");
+            var utftext = "";
+
+            for (var n = 0; n < string.length; n++) {
+
+                var c = string.charCodeAt(n);
+
+                if (c < 128) {
+                    utftext += String.fromCharCode(c);
+                }
+                else if ((c > 127) && (c < 2048)) {
+                    utftext += String.fromCharCode((c >> 6) | 192);
+                    utftext += String.fromCharCode((c & 63) | 128);
+                }
+                else {
+                    utftext += String.fromCharCode((c >> 12) | 224);
+                    utftext += String.fromCharCode(((c >> 6) & 63) | 128);
+                    utftext += String.fromCharCode((c & 63) | 128);
+                }
+
+            }
+
+            return utftext;
+        },
+
+        // private method for UTF-8 decoding
+        _utf8_decode: function(utftext) {
+            var string = "";
+            var i = 0;
+            var c = c1 = c2 = 0;
+
+            while (i < utftext.length) {
+
+                c = utftext.charCodeAt(i);
+
+                if (c < 128) {
+                    string += String.fromCharCode(c);
+                    i++;
+                }
+                else if ((c > 191) && (c < 224)) {
+                    c2 = utftext.charCodeAt(i + 1);
+                    string += String.fromCharCode(((c & 31) << 6) | (c2 & 63));
+                    i += 2;
+                }
+                else {
+                    c2 = utftext.charCodeAt(i + 1);
+                    c3 = utftext.charCodeAt(i + 2);
+                    string += String.fromCharCode(((c & 15) << 12) | ((c2 & 63) << 6) | (c3 & 63));
+                    i += 3;
+                }
+            }
+            return string;
+        }
+    }
+
+    function setvalueYahoo() {
+        if (document.getElementById("chkYahoo").checked) {
+            document.getElementById('txtKeyword').value = "Tìm trên Yahoo";
+        }
+        else {
+            document.getElementById('txtKeyword').value = "Tìm trên Tuổi trẻ";
+        }
+    }
+        
+    function searchEngine() 
+    {
+        var url = "http://tuoitre.vn/Tim-kiem/Index.html?keyword=";
+
+        if (document.getElementById("chkYahoo").checked) 
+        {
+            url = "http://search.yahoo.com/search?p=";
+            window.open(url, "_blank", "", "");
+        }
+        else 
+        {
+            url += Url.encode(document.getElementById("txtKeyword").value) + "&scope=*&channel=-1&from=&to=&page=1";
+            window.open(url, "_blank", "", "");
+        }
+    }
+
+    
+   
+</script>
+
+<script type="text/javascript" language="javascript">
+    function trapEnterKey(chkYM, value, e) {
+        // the purpose of this function is to allow the enter key to
+        // point to the correct button to click.
+        var key;
+
+        if (window.event) {
+            // IE
+            key = window.event.keyCode;
+        }
+        else {
+            // firefox
+            key = e.which;
+        }
+
+        if (key == 13) {
+            var q = value;
+
+            if (q == '') {
+                return false;
+            }
+
+            if ((q.indexOf('AND') == -1) && (q.indexOf('OR') == -1) && (q.indexOf('"') == -1)) {
+                //q = '"' + q + '"';
+                q = q;
+            }
+
+            // endcode
+            q = Url.encode(q);
+
+            if (document.getElementById(chkYM).checked) {
+                //window.location = "http://search.yahoo.com/search?p=" + q;
+                var urlyahoo = "http://search.yahoo.com/search?p=" + q;
+                window.open(urlyahoo, "_blank", "", "");
+            }
+            else {
+                var urltto = "http://tuoitre.vn/Tim-kiem/Index.html?scope=*&channel=-1&from=&to=&page=1&keyword=" + q;
+                window.open(urltto, "_blank", "", "");
+            }
+
+            event.keyCode = 0;
+
+            return false;
+        }
+
+        return true;
+    }                         
+</script>
+</div>
+<script language="javascript" type="text/javascript">
+    var url = window.location.href;
+    Items = new Array("mnu_0", "mnu_1", "mnu_2", "mnu_3");
+    if (url.toString().toLowerCase().match(/trang-nhat/)) {
+        try {
+            document.getElementById("mnu_0").className = "actived";
+        }
+        catch (err) { }
+    }
+    else if (url.toString().toLowerCase().match(/van-de-su-kien/)) {
+        try {
+            document.getElementById("mnu_1").className = "actived";            
+        }
+        catch (err) { }
+    }
+    else if (url.toString().toLowerCase().match(/cuoc-song-muon-mau/)) {
+        try {
+            document.getElementById("mnu_2").className = "actived";           
+        }
+        catch (err) { }
+    }
+    else if (url.toString().toLowerCase().match(/van-hoa-nghe-thuat/)) {
+        try {
+            document.getElementById("mnu_3").className = "actived";
+        }
+        catch (err) { }
+    }
+    else {
+        try {
+            document.getElementById("mnu_0").className = "actived";            
+        }
+        catch (err) { }
+    } 
+</script>
+<script language="javascript" type="text/javascript">
+    function setHomepage()
+    {
+        if (document.all)
+        {
+            document.body.style.behavior = 'url(#default#homepage)';
+            document.body.setHomePage('http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Index.html');
+        }
+        else {
+            alert("Kéo Logo Tuổi trẻ vào nút Home bên cạnh thanh địa chỉ để đặt làm trang chủ");
+        }
+    }  
+</script>        
+        <!-- Main Panel -->
+        <div id="mainCtentBdy">
+              
+   <div id="colunmLeft">        
+        
+
+<link href="http://tuoitre.vn/Tuyensinh/Calendar/App_Themes/ui.all.css" rel="stylesheet" type="text/css" />
+<script language="javascript" src="http://tuoitre.vn/Tuyensinh/Calendar/jquery-1.3.1.js"  type="text/javascript"></script>
+<script language="javascript" src="http://tuoitre.vn/Tuyensinh/Calendar/jquery-ui-personalized-1.6rc6.js" type="text/javascript"></script>
+
+
+<!-- ArticleView -->
+
+<script type="text/javascript" language="javascript">
+        window.onload = function() { initComment(1); }                  
+        
+        function initComment(pageIndex)
+        {
+            getDataComment(pageIndex);
+        }
+        
+        function ProcessLayoutComment()
+        {
+            var wallSong = document.getElementById("PanelComment");
+            if (wallSong) 
+            {
+                wallSong.innerHTML = '<div style="width:100%;vertical-align:top;text-align:center;"><img src="http://tuoitre.vn/images/loading.gif" style="margin-top:10px;" /></div>';
+            }
+        }       
+        
+        function GetXmlHttpObject()
+        { 
+            var objXMLHttp=null
+            if (window.XMLHttpRequest)
+            {
+            objXMLHttp=new XMLHttpRequest()
+            }
+            else if (window.ActiveXObject)
+            {
+                objXMLHttp=new ActiveXObject("Microsoft.XMLHTTP")
+            }
+            return objXMLHttp
+        }               
+        
+        function getDataComment(pageIndex)
+        {
+            var xmlHttp;
+            ProcessLayoutComment();
+            xmlHttp=GetXmlHttpObject();
+            if (xmlHttp==null)
+            {
+                alert ("Browser does not support HTTP Request")
+                return
+            }
+            var rnd = Math.random()*5;           
+            var url= "http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Ajax/Comment.aspx?pIndex=" + pageIndex+"&ArticleID=" + 465706;
+                    
+            xmlHttp.onreadystatechange = function(){
+                if(xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
+                { 
+                //div chua du lieu load ve
+                    var wallSong = document.getElementById("PanelComment");
+                    if (wallSong)
+                    {
+                        wallSong.innerHTML = xmlHttp.responseText;
+                    }
+                 }
+            };
+            
+            if(BrowserDetect.browser == "Firefox")
+            {
+                xmlHttp.open("GET",url,true)
+            }
+            else
+            {
+                xmlHttp.open("POST",url,true)
+            }
+            xmlHttp.send(null)
+        }
+    
+        var BrowserDetect = {
+	        init: function () {
+		        this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
+		        this.version = this.searchVersion(navigator.userAgent)
+			        || this.searchVersion(navigator.appVersion)
+			        || "an unknown version";
+		        this.OS = this.searchString(this.dataOS) || "an unknown OS";
+	        },
+	        searchString: function (data) {
+		        for (var i=0;i<data.length;i++)	{
+			        var dataString = data[i].string;
+			        var dataProp = data[i].prop;
+			        this.versionSearchString = data[i].versionSearch || data[i].identity;
+			        if (dataString) {
+				        if (dataString.indexOf(data[i].subString) != -1)
+					        return data[i].identity;
+			        }
+			        else if (dataProp)
+				        return data[i].identity;
+		        }
+	        },
+	        searchVersion: function (dataString) {
+		        var index = dataString.indexOf(this.versionSearchString);
+		        if (index == -1) return;
+		        return parseFloat(dataString.substring(index+this.versionSearchString.length+1));
+	        },
+	        dataBrowser: [
+		        { 	string: navigator.userAgent,
+			        subString: "OmniWeb",
+			        versionSearch: "OmniWeb/",
+			        identity: "OmniWeb"
+		        },
+		        {
+			        string: navigator.vendor,
+			        subString: "Apple",
+			        identity: "Safari"
+		        },
+		        {
+			        prop: window.opera,
+			        identity: "Opera"
+		        },
+		        {
+			        string: navigator.vendor,
+			        subString: "iCab",
+			        identity: "iCab"
+		        },
+		        {
+			        string: navigator.vendor,
+			        subString: "KDE",
+			        identity: "Konqueror"
+		        },
+		        {
+			        string: navigator.userAgent,
+			        subString: "Firefox",
+			        identity: "Firefox"
+		        },
+		        {
+			        string: navigator.vendor,
+			        subString: "Camino",
+			        identity: "Camino"
+		        },
+		        {		// for newer Netscapes (6+)
+			        string: navigator.userAgent,
+			        subString: "Netscape",
+			        identity: "Netscape"
+		        },
+		        {
+			        string: navigator.userAgent,
+			        subString: "MSIE",
+			        identity: "Explorer",
+			        versionSearch: "MSIE"
+		        },
+		        {
+			        string: navigator.userAgent,
+			        subString: "Gecko",
+			        identity: "Mozilla",
+			        versionSearch: "rv"
+		        },
+		        { 		// for older Netscapes (4-)
+			        string: navigator.userAgent,
+			        subString: "Mozilla",
+			        identity: "Netscape",
+			        versionSearch: "Mozilla"
+		        }
+	        ],
+	        dataOS : [
+		        {
+			        string: navigator.platform,
+			        subString: "Win",
+			        identity: "Windows"
+		        },
+		        {
+			        string: navigator.platform,
+			        subString: "Mac",
+			        identity: "Mac"
+		        },
+		        {
+			        string: navigator.platform,
+			        subString: "Linux",
+			        identity: "Linux"
+		        }
+	        ]
+
+        };
+        
+        BrowserDetect.init(); 
+</script>
+
+<style type="text/css">
+    .div-next-prev
+    {
+        text-align: center;
+        color: #000;
+        font-size: 12px;
+        clear: both;
+    }
+    .div-next-prev ul
+    {
+        margin: 0;
+        padding: 0 0 0 0px;
+        text-align: center;
+    }
+    .div-next-prev ul li
+    {
+        float: left;
+        line-height: 25px;
+        list-style: none;
+    }
+    .div-next-prev ul li a
+    {
+        color: #000;
+        font-size: 12px;
+        padding: 2px 4px 2px 4px;
+        margin: 0;
+        font-family: Arial;
+        text-decoration: none;
+        line-height: 25px;
+    }
+    .div-next-prev ul li a:hover
+    {
+        color: #000;
+        font-size: 12px;
+        margin: 0;
+        background: #dadada;
+        font-family: Arial;
+        text-decoration: none;
+    }
+    .PSelected
+    {
+        color: #c6040b;
+        font-weight: bold;
+    }
+</style>
+<style type="text/css">
+    #divContent
+    {
+        font-family: 'arial'; 
+        font-size: 12px; 
+        color: #000;  
+    }
+    .pager {clear: both; width: 95%; text-align: center;padding: 12px 0px 5px 0px; font-size: 14px; }
+    .pager li{display: inline-block; }
+    .pager a{color:#777;text-decoration: none;display: inline-block; border: 1px solid #d8d8d8; padding: 0px 5px; margin-right: 5px; }
+    .pager a.select{color:#0070a0;font-weight: bold;border: none;}
+    .pager a.select:hover{border: none;}
+    .pager a.none{border: none;}
+    .pager a.none:hove{color: #777;background: #fff;border: none;}
+    .pager a:hover{color: #fff; background: #0070a0; border: 1px solid #0070a0;}
+</style>
+<script language="javascript" type="text/javascript">
+    function onResponseClick(articlid) {
+        showDialog('http://tuoitre.vn/EmailTo.aspx?ArticleID=' + articlid, 550, 620)
+    }
+</script>
+    
+<div class="boxfullNews">
+    <div class="boxNewsHot">
+        <div class="tabPathCde">
+          <div class="tabTitleDetail"> Câu chuyện cuộc sống</div>          
+        </div>
+        <div class="boxDetailFullNews">          
+            <div id="divContent">
+                <div class="f-12" style="position:absolute;left:600px;top:215px;width:220px;overflow:hidden;"><script type="text/javascript"> getTimeString('2011/11/19 09:59:24');</script></div>                    
+                <P class=pTitle>Sách giáo khoa: một thế giới của đàn ông?</P>
+<P class=pHead>TTCT - Kết quả phân tích nội dung sách giáo khoa của nền giáo dục phổ thông Việt Nam hiện nay đã cung cấp những dữ kiện và bằng chứng cho thấy có những xu hướng thiên lệch về giới khá rõ rệt. </P>
+<P class=pBody>
+<TABLE class=tLegend style="BORDER-COLLAPSE: separate" cellSpacing=2 cellPadding=0 width=40 align=center border=0>
+<TBODY>
+<TR>
+<TD><IMG class=lImage onclick="return showImage(this.src)" hspace=0 src="http://phienbancu.tuoitre.vn/tianyon/ImageView.aspx?ThumbnailID=532723" border=1 Hyperlink></TD></TR>
+<TR>
+<TD>
+<P class=tLegend>Trong sáu bức tranh đầu tiên của bài học mang tên “Woman in society” (Phụ nữ trong xã hội), sách giáo khoa môn tiếng Anh lớp 12 (NXB Giáo Dục), có tới năm bức mô tả người phụ nữ trong các nhiệm vụ gia đình</P></TD></TR></TBODY></TABLE></P>
+<P class=pBody>Trong khoa học xã hội, việc tìm hiểu các vấn đề xã hội từ góc độ giới đang ngày càng trở nên phổ biến. Nhân sinh quan và thế giới quan của con người được hình thành từ môi trường gia đình, nhà trường và xã hội. Trong định chế nhà trường, “sách giáo khoa không chỉ là người tổ chức các kiến thức cho trẻ em... mà còn xây dựng và chuyển tải một cách rõ ràng hình ảnh của tổ chức xã hội tạo ra nó, nói rộng hơn là hình ảnh của thế giới. Nó phổ biến các chuẩn mực, hình mẫu ứng xử xã hội, đóng góp vào việc tạo ra tính cách cá nhân và tập thể”. Vì thế, các nghiên cứu và khảo sát sách giáo khoa dưới góc độ giới nhằm tìm hiểu công cụ này có gieo mầm những định kiến về giới trong việc hình thành nhân sinh quan của con người hay không.</P>
+<P class=pBody>Ở Việt Nam, một số nhóm nghiên cứu đã lên tiếng về “những dấu hiệu định kiến với giới nữ” trong sách giáo khoa tiểu học. Nhưng nhìn chung, các nghiên cứu này chỉ ở mức độ rà soát, đánh giá lại, chưa đi vào khảo sát một cách hệ thống toàn bộ sách giáo khoa trong nền giáo dục phổ thông hiện nay.</P>
+<P class=pInterTitle>Nam giới xuất hiện nhiều hơn</P>
+<P class=pBody>Nhóm nghiên cứu của Viện Phát triển bền vững vùng Nam bộ (Viện Khoa học xã hội Việt Nam) đã mã hóa và thống kê tất cả nhân vật xuất hiện trong văn bản và hình ảnh theo giới tính, tuổi tác, nghề nghiệp, hoạt động... trong các quyển sách giáo khoa của sáu môn học chính ở ba cấp (tiểu học, trung học cơ sở và trung học phổ thông). Bao gồm tiếng Việt (từ lớp 1-5), ngữ văn (lớp 6-12); toán (lớp 1-9), hình học (lớp 10-12), đại số lớp 10, đại số và giải tích lớp 11, 12; đạo đức (lớp 1-5), giáo dục công dân (lớp 6-12); khoa học tự nhiên và xã hội (lớp 1-3), khoa học (lớp 4-5); lịch sử, địa lý (lớp 4-12) và tiếng Anh (lớp 6-12).</P>
+<P class=pBody>Kết quả phân tích cho thấy các nhân vật nam giới xuất hiện nhiều hơn nữ giới cả trong văn bản lẫn hình ảnh. Trong tổng số 8.276 nhân vật xuất hiện trong nội dung văn bản, nam giới chiếm đến 69%. Về hình ảnh, nam giới chiếm 58% trong tổng số 7.987 nhân vật. Sự chênh lệnh giữa nhân vật nam và nữ cũng có sự khác biệt theo các cấp học, càng lên cấp học cao sự chênh lệch càng lớn. </P>
+<P class=pBody>Vai trò mà các nhân vật đảm nhiệm trong gia đình sẽ cho thấy những hình ảnh về giới rõ ràng hơn. Trong cả văn bản lẫn hình ảnh, số nhân vật xuất hiện trong vai trò làm mẹ/làm bà nhiều hơn so với sự xuất hiện của nam giới trong vai trò làm cha/làm ông. Và hình ảnh của phụ nữ luôn xuất hiện trong vai trò “nội tướng”: chăm sóc gia đình, nấu nướng, dạy dỗ và đưa đón con/cháu. </P>
+<P class=pBody>Ngoài những nhân vật nổi tiếng trong lịch sử hoặc đương đại, nhóm nghiên cứu cũng quan tâm đến các nhân vật đời thường để xem loại nhân vật này được mô tả và trình bày như thế nào trong sách giáo khoa, đặc biệt về mặt cơ cấu nghề nghiệp và không gian hoạt động của các nhân vật. </P>
+<P class=pBody>Xét về mặt cơ cấu nghề nghiệp của nam/nữ, nếu chỉ tính lứa tuổi đã thành niên thì kết quả thống kê cho biết 80%&nbsp; nhân vật nam giới trong sách giáo khoa có nghề nghiệp cụ thể, trong khi tỉ lệ này nơi nữ giới chỉ đạt 66%, trong đó nữ làm nội trợ chiếm đến 25%. Nữ giới có hai nghề chiếm tỉ lệ cao nhất là giáo viên và nhân viên văn phòng, trong khi đó nam giới có nhiều nghề đa dạng hơn. Điều này bộc lộ một quan niệm đã nằm sẵn trong tiềm thức của văn hóa Việt Nam: phụ nữ luôn làm các công việc gia đình, những loại nghề có tính chất nhẹ nhàng, không đòi hỏi nhiều kỹ năng như nam giới. Phụ nữ xuất hiện nhiều hơn trong không gian gia đình và ngược lại, nam giới xuất hiện nhiều hơn trong không gian công cộng, không gian lao động, sản xuất.</P>
+<P class=pInterTitle>Cần mô tả nữ giới công bằng</P>
+<P class=pBody>Kết quả phân tích nội dung sách giáo khoa của nền giáo dục phổ thông Việt Nam đã cung cấp những dữ kiện và bằng chứng cho thấy có những xu hướng thiên lệch về giới khá rõ rệt. Trong số các nhân vật xuất hiện trong 76 quyển sách giáo khoa của sáu môn học, thấy rõ xu hướng thiên lệch về số lượng nhân vật nam cả trong văn bản lẫn trong hình ảnh. Không chỉ xuất hiện ít hơn nam giới, nữ giới chủ yếu xuất hiện trong hình ảnh người mẹ, người bà, cho thấy những nhà biên soạn sách đã khuôn hẹp “thế giới của người phụ nữ” vào “không gian gia đình”. </P>
+<P class=pBody>Tình hình này bộc lộ một nhu cầu xem xét lại một cách có hệ thống nội dung các quyển sách giáo khoa trên bình diện quan điểm giới. Nhóm nghiên cứu cho rằng Bộ Giáo dục - đào tạo cần lưu tâm hơn đến chiều kích này nhằm làm các nhân vật nữ xuất hiện nhiều hơn trên các trang sách giáo khoa và việc trình bày, mô tả nữ giới công bằng, phù hợp hơn với thực tiễn đang diễn ra trong xã hội Việt Nam.</P>
+<P class=pAuthor>VŨ THỊ THU THANH</P>    
+            </div>
+            
+        </div>
+         
+        <div style="clear:both;width:100%;">
+            <div style="width:88px;height:28px;background-image:url(http://123.30.128.11/Images/btnTukhoa.jpg);float:left;overflow:hidden;"></div>
+            <div style="width:590px;height:28px;background-image:url(http://123.30.128.11/Images/rptTag.jpg);background-repeat:repeat-x;float:left;overflow:hidden;padding-left:5px;">              
+               <a class="colorBlack" style="line-height:28px;" href=http://tuoitre.vn/tag/index.html?t='Gi%c3%a1o%2bd%e1%bb%a5c'>Giáo dục,</a><a class="colorBlack" style="line-height:28px;" href=http://tuoitre.vn/tag/index.html?t='s%c3%a1ch%2bgi%c3%a1o%2bkhoa'> sách giáo khoa,</a><a class="colorBlack" style="line-height:28px;" href=http://tuoitre.vn/tag/index.html?t='ph%e1%bb%a5%2bn%e1%bb%af'> phụ nữ,</a><a class="colorBlack" style="line-height:28px;" href=http://tuoitre.vn/tag/index.html?t='%c4%91%c3%a0n%2b%c3%b4ng'> đàn ông</a>            
+            </div>
+        </div>
+        <div class="boxBartools">
+              <a class="sendfriend" href="JavaScript:onResponseClick();"></a>
+              <a class="prints" href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/PrintView.aspx?ArticleID=465706"></a>
+                 <div style="width: 60px; float: left;height:23px;">
+                <span style="line-height:28px;">Chia sẻ:</span>   
+            </div>
+            <div style="width: 250px; float: left;height:23px;text-align:left;padding-top:3px;">                                
+            <a id="iFacebook" target="_blank" href="http://www.facebook.com/sharer.php?u=http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Cuoc-song-muon-mau/Cau-chuyen-cuoc-song/465706/Sach-giao-khoa-mot-the-gioi-cua-dan-ong.html&t=Sách giáo khoa: một thế giới của đàn ông?" style="border: 0pt none ; margin: 0pt;" title="Facebook" ><img alt="http://tuoitre.vn/Images/bookmark/facebook_48.png" style="margin:0px;border:0px;width:20px;margin-left:5px;" src="http://tuoitre.vn/Images/bookmark/facebook_48.png" /></a>                
+            <a id="A1" target="_blank" href="http://bookmarks.yahoo.com/toolbar/savebm?u=http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Cuoc-song-muon-mau/Cau-chuyen-cuoc-song/465706/Sach-giao-khoa-mot-the-gioi-cua-dan-ong.html&t=Sách giáo khoa: một thế giới của đàn ông?" style="border: 0pt none ; margin: 0pt;" title="Yahoo" ><img alt="http://tuoitre.vn/Images/bookmark/yahoo.jpg" style="margin:0px;border:0px;width:20px;margin-left:5px;" src="http://tuoitre.vn/Images/bookmark/yahoo.jpg" /></a>                
+            <a id="iTwistthis" target="_blank" href="http://twitthis.com/twit?url='http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Cuoc-song-muon-mau/Cau-chuyen-cuoc-song/465706/Sach-giao-khoa-mot-the-gioi-cua-dan-ong.html'&amp;title='Sách giáo khoa: một thế giới của đàn ông?'" style="border: 0pt none ; margin: 0pt;" title="TwitThis"><img alt="http://tuoitre.vn/Images/bookmark/twitter_48.png" style="margin:0px;border:0px;width:20px;margin-left:5px;" src="http://tuoitre.vn/Images/bookmark/twitter_48.png" /></a>
+            
+            <a id="iGoogle" target="_blank" href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk='http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Cuoc-song-muon-mau/Cau-chuyen-cuoc-song/465706/Sach-giao-khoa-mot-the-gioi-cua-dan-ong.html'&amp;title='Sách giáo khoa: một thế giới của đàn ông?'" style="border: 0pt none ; margin: 0pt;" title="Google"><img alt="http://tuoitre.vn/Images/bookmark/google_48.png" style=" margin:0px;border:0px;width:20px;" src="http://tuoitre.vn/Images/bookmark/google_48.png" /></a>                                            
+            <a id="iMyspace" target="_blank" href="http://www.myspace.com/Modules/PostTo/Pages/?u='http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Cuoc-song-muon-mau/Cau-chuyen-cuoc-song/465706/Sach-giao-khoa-mot-the-gioi-cua-dan-ong.html'&amp;t='Sách giáo khoa: một thế giới của đàn ông?'" style="border: 0pt none ; margin: 0pt;" title="Myspace"><img alt="http://tuoitre.vn/Images/bookmark/myspace_48.png" style="margin:0px;border:0px;width:20px;margin-left:5px;" src="http://tuoitre.vn/Images/bookmark/myspace_48.png" /></a>                
+
+
+            
+            
+                
+            </div>  
+              
+              <a class="goTophead" href="#"></a>
+        </div>                               
+        <div class="blockCtentComment">
+            <div class="boxcomment">
+                <a class="help" href="#"></a>
+                <div class="titleBlcoment">Ý kiến của bạn</div>
+                    <div style="width: 100%; clear: both;" id="PanelComment"></div>
+                 <div class="padding10px">
+                        <iframe src="http://chuyentrang.tuoitre.vn/Service/Comment_tet2011.aspx?ArticleID=465706&ChannelID=655" width="98%" height="260" scrolling='no' frameborder='0'></iframe>                        
+                 </div>
+            </div>
+        </div>
+        <div class="padding10px textTrans bold color1" style="color:#ce0221;">Các tin bài khác</div>                
+            <ul class="classMnu">
+            	 
+                        <li><a href="../465706/Sach-giao-khoa-mot-the-gioi-cua-dan-ong.html"><strong> Sách giáo khoa: một thế giới của đàn ông?</strong></a> - (19/11)</li>                        
+                    
+                        <li><a href="../464642/Phu-huynh-cung-“muon-ghet-tien”.html"><strong> Phụ huynh cũng “muốn ghét tiền”</strong></a> - (12/11)</li>                        
+                    
+                        <li><a href="../463659/Oi-sang-kien.html"><strong> Ôi, sáng kiến!</strong></a> - (11/11)</li>                        
+                    
+                        <li><a href="../462753/Con-vo-lop-1-ma-chua-co-ten.html"><strong> Con vô lớp 1 mà chưa có tên</strong></a> - (31/10)</li>                        
+                    
+                        <li><a href="../458524/Thay-va-tro.html"><strong> Thầy và trò</strong></a> - (03/10)</li>                        
+                    
+                        <li><a href="../460280/Hoc-suy-nghi-gian-di.html"><strong> Học suy nghĩ giản dị</strong></a> - (02/10)</li>                        
+                    
+                        <li><a href="../455229/“So-no”-cua-thay.html"><strong> “Sổ nợ” của thầy</strong></a> - (11/09)</li>                        
+                    
+                        <li><a href="../454213/Khong-the-danh-dong-thi-rot-la-that-bai.html"><strong> Không thể đánh đồng thi rớt là thất bại</strong></a> - (03/09)</li>                        
+                     
+            </ul>      
+    </div>
+</div>
+<!-- STATISTIC -->
+<script language="javascript" type="text/javascript" src="http://statistics.tuoitre.com.vn/TotalStatistics.js"></script>
+<script language="javascript" type="text/javascript">
+    var paramSta = "App=TTCT&ChannelID=655&ArticleID=465706";
+    IframeRender(paramSta);
+</script>
+                   
+        <div class="clearfix"></div>
+    </div>
+    <div id="colunmRight">                        
+          
+ <div class="blockQcRightcl">
+    <a href="#"><img src="http://thethao.tuoitre.vn/images/qc-right300x150.jpg" /></a>
+    <a href="#"><img src="http://thethao.tuoitre.vn/images/qc-right300x150.jpg" /></a>
+</div>
+ 
+<div class="blockClunmShare">
+    	<div class="blockClunmShareBtom">
+          <div class="blockClunmShareTop">
+            <div class="titleCde"><span class="paddingLr10 bold"><a class="color1" href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Chuyen-de/index.html">Chuyên đề</a></span></div>
+                <div class="CtentShareRightcol">
+                    <a href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Chuyen-de/453100/Dien-gio---nhung-loi-giai-cu-the.html"><img class="imgNews" src="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Uploads/Thumbnail/161/516161_336_600.jpg" /></a>
+                    <div class="padding8">
+                    <div class="paddingBt4 bold fontsize14"><a class="color2" href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Chuyen-de/453100/Dien-gio---nhung-loi-giai-cu-the.html">Điện gió - những lời giải cụ thể</a></div>
+                    <div class="textJustify">TTCT - Những chỉ dấu cụ thể về sự ủng hộ của Chính phủ đối với việc phát triển các dạng năng lượng...
+                    <div style="padding-top:4px;"><a class="readmore" href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Chuyen-de/453100/Dien-gio---nhung-loi-giai-cu-the.html">Xem tiếp »</a></div>
+                     </div>
+                     <div class="clearfix"></div>
+                </div>
+                                            </div>
+                <div class="clearfix paddingBt4 bderTop">
+                	<ul class="linkNewsOther">
+                    
+                            <li style="display: block;"><a onmouseout="VietAd_HideTooltip();" onmouseover="VietAd_ShowTooltip('http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Ajax/ArticleToolTip.aspx?ArticleID=451035'); return false" href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Chuyen-de/451035/Thuoc-noi---chat-vat-tim-loi.html" >Thuốc nội - chật vật tìm lối</a></li>        
+                        
+                            <li style="display: block;"><a onmouseout="VietAd_HideTooltip();" onmouseover="VietAd_ShowTooltip('http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Ajax/ArticleToolTip.aspx?ArticleID=448853'); return false" href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Chuyen-de/448853/Du-hoc-Tu-chuyen-ca-nhan-den-chuyen-dat-nuoc.html" >Du học: Từ chuyện cá nhân đến chuyện đất nước</a></li>        
+                        
+                            <li style="display: none;"><a onmouseout="VietAd_HideTooltip();" onmouseover="VietAd_ShowTooltip('http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Ajax/ArticleToolTip.aspx?ArticleID=441925'); return false" href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Chuyen-de/441925/Rac---rac-roi-dang-can-ke.html" >Rác - rắc rối đang cận kề?</a></li>        
+                        
+                	
+                </ul>
+                </div>
+          </div>
+        </div>
+    </div>
+  
+
+<div class="blockClunmShare">
+    	<div class="blockClunmShareBtom">
+          <div class="blockClunmShareTop">
+            <div class="titleBdCtuan">
+            	<div class="titleBdCtuanLeft">
+                	<div class="titleBdCtuanRight">
+                   		<span class="bold paddingLr10 fontsize14"><a href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Ban-doc-va-TTCT/Index.html" class="colorF">Bạn đọc và Tuổi Trẻ Cuối Tuần</a></span>
+                    </div>
+                </div>
+            </div>
+            <ul class="listBdCtuan">
+                   
+	                    <li>
+    	                    <a href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Ban-doc-va-TTCT/465728/Ong-thay-Viet-van.html"><img src="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Uploads/HeadImage/728/465728_200_200.jpg" class="itemListBd" /></a>
+                            <div class="paddingBt4 bold"><a class="colorBlack" href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Ban-doc-va-TTCT/465728/Ong-thay-Viet-van.html">Ông thầy Việt văn</a></div>
+                            <div class="clearfix"></div>
+                        </li>                
+                       
+	                    <li>
+    	                    <a href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Ban-doc-va-TTCT/464790/Chua-Cau-co-nguy-co-sup.html"><img src="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Uploads/HeadImage/790/464790_200_200.jpg" class="itemListBd" /></a>
+                            <div class="paddingBt4 bold"><a class="colorBlack" href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Ban-doc-va-TTCT/464790/Chua-Cau-co-nguy-co-sup.html">Chùa Cầu có nguy cơ sụp!</a></div>
+                            <div class="clearfix"></div>
+                        </li>                
+                       
+	                    <li>
+    	                    <a href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Ban-doc-va-TTCT/463649/Chuyen-nho-o-thu-vien.html"><img src="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Uploads/HeadImage/649/463649_200_200.jpg" class="itemListBd" /></a>
+                            <div class="paddingBt4 bold"><a class="colorBlack" href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Ban-doc-va-TTCT/463649/Chuyen-nho-o-thu-vien.html">Chuyện nhỏ ở thư viện</a></div>
+                            <div class="clearfix"></div>
+                        </li>                
+                         
+            </ul>
+                            
+          </div>
+        </div>
+</div>
+          
+
+<div class="blockClunmShare">
+	<div class="blockClunmShareBtom">
+      <div class="blockClunmShareTop">
+            <div class="padding10px bdBtom"><span class="paddingLr10 bold fontsize14"><a href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Thu-gian/index.html" class="colorBlack">Thư giãn cuối tuần</a></span></div>
+            <div class="CtentShareRightcol">
+            <a href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Thu-gian/465545/Thu-gian-cuoi-tuan.html"><img class="imgNews" src="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Uploads/Thumbnail/482/532482_336_600.jpg" /></a>
+            </div>
+            <div class="clearfix paddingBt4 bderTop">
+       	        <ul class="linkbiemhoa">
+                    <li><a href="http://tuoitre.vn/Tuoi-tre-cuoi-tuan/Thu-gian/465545/Thu-gian-cuoi-tuan.html">Thư giãn cuối tuần</a></li>
+                	
+                </ul>
+            </div>
+      </div>
+    </div>
+</div>       
+                        
+        <div class="clearfix"></div>
+    </div>    
+
+              <div class="clearfix"></div>
+          
+
+         </div>      
+        <!-- Fotter -->
+        <div id="footer">
+	        <div class="boxMenuFooter">
+                    <div class="floatLeft paddingLr10 colorF" style="line-height:33px;">Bản quyền © 2011 Tuổi Trẻ </div>
+        	        <div style="width:580px; padding-left: 10px;" class="floatLeft">
+                    <ul>
+            	        <li><a href="http://tuoitre.vn/Support/unicode.zip">Font Unicode</a> |</li>
+                        <li><a href="http://quangcao.tuoitre.vn/Bang-gia-quang-cao/Tuoi-Tre-Online/index.html">Bảng Giá Quảng Cáo</a> |</li>
+                        <li><a href="http://quangcao.tuoitre.vn/Dat-bao-truc-tuyen/index.html">Đặt Báo</a> |</li>
+                        <li><a href="#">Sơ Đồ Web </a> |</li>
+                        <li><a href="http://tuoitre.vn/Support/support.htm"> Hướng Dẫn </a> |</li>
+                        <li><a href="http://chuyentrang.tuoitre.vn/Service/Contact.aspx"> Liên Hệ</a></li>
+                    </ul>
+                    </div>
+                     <div class="floatRight" style="line-height:33px; width:200px;"><a class="colorF" href="http://moore.vn">  Phát triển bởi Moore Corp.  </a></div>
+                </div>
+        </div>        
+        <!-- Not Use -->
+        
+    </div>
+    <!-- EDIT PAGECONTROL-->
+    
+        
+    
+    <!-- CATEGORY ZONE -->
+    
+        
+
+<style type="text/css">
+    #modalPage
+    {
+        display: none;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0px;
+        left: 0px;
+    }
+    
+    .modalBackground
+    {
+         filter: Alpha(Opacity=40);
+        -moz-opacity: 0.4;
+        opacity: 0.4;
+        width: 100%;
+        height: 100%;
+        background-color: #999999;
+        position: absolute;
+        z-index: 500;
+        top: 0px;
+        left: 0px;
+    }
+    
+    .modalContainer
+    {
+        position: absolute;        
+        width: 100%;
+        height: 100%;        
+        top: 30px;
+        left: 30%;
+        /*
+        left: 40%;
+        top: 40%;
+        */
+        z-index: 750;
+    }
+    
+    .modal
+    {
+        background-color: white;
+        border: solid 1px black;
+        padding: 0px;
+        position: relative;
+        /*
+        top: -150px;
+        left: -150px;
+        */
+        z-index: 1000;
+        width: 400px;
+        height: 500px;
+    }
+    
+    .modalTop
+    {
+        width: 100%;
+        height: 25px;
+        background-color: #7FBAE4;
+        padding: 0px;
+        color: #ffffff;
+        font-family: Arial;
+        font-weight: bold;
+        text-align: right;
+    }
+    
+    .modalTop a, .modalTop a:visited
+    {
+        color: #ffffff;
+    }
+    
+    .modalBody
+    {
+        width:100%;
+        height:100%;
+        padding: 0px;
+    }
+</style>
+
+<div id="modalPage">
+    <div class="modalBackground" id="modalBackground"></div>
+    <div class="modalContainer" id="modalContainer">
+        <div class="modal">
+            <div class="modalTop" style="display:none;">
+                <a href="javascript:hideModal('modalPage')">[Đóng lại]</a>
+            </div>
+            <div class="modalBody" id="modalContent">
+                
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<script language="javascript" type="text/javascript">
+    String.prototype.trim = function () 
+    {
+        return this.replace(/^\s*/, "").replace(/\s*$/, "");
+    }
+    
+    function GetDocHeight()
+    {
+        var db = document.body;
+        var dde = document.documentElement;
+ 
+        var docHeight = Math.max(db.scrollHeight, dde.scrollHeight, db.offsetHeight, dde.offsetHeight, db.clientHeight, dde.clientHeight)
+        
+        return docHeight;
+    }
+    
+    function GetDocWidth()
+    {
+        var db = document.body;
+        var dde = document.documentElement;
+ 
+        var docWidth = Math.max(db.scrollWidth, dde.scrollWidth, db.offsetWidth, dde.offsetWidth, db.clientWidth, dde.clientWidth)
+        
+        return docWidth;
+    }    
+    
+    function revealModal(divID)
+    {
+        window.onscroll = function () 
+        { 
+            document.getElementById(divID).style.top = document.body.scrollTop; 
+        };
+        
+        document.getElementById(divID).style.display = "block";
+        document.getElementById(divID).style.top = document.body.scrollTop;
+        
+        // Set Modal Width and Modal Height
+        var modalContainer = document.getElementById("modalContainer");        
+        modalContainer.style.width = GetDocWidth();
+        modalContainer.style.height = GetDocHeight();
+        
+        var modalBackground = document.getElementById("modalBackground"); 
+        modalBackground.style.width = GetDocWidth();
+        modalBackground.style.height = GetDocHeight();
+    }
+
+    function hideModal(divID)
+    {
+        document.getElementById(divID).style.display = "none";
+    }
+
+    var content = document.getElementById("modalContent").innerHTML.toLowerCase().replace('<strong>', '').replace('</strong>', '').replace('<em>', '').replace('</em>', '').replace('<em><em>', '').replace('</em></em>', '').trim();
+    if (content == "")
+    {
+        hideModal('modalPage');
+    }
+    else
+    {
+        revealModal('modalPage');
+    }
+</script>
+    
+    
+   <!-- Google Analytics: thethao -->    
+       <script type="text/javascript">
+           var _gaq = _gaq || [];
+           _gaq.push(['_setAccount', 'UA-12518695-1']);
+           _gaq.push(['_trackPageview']);
+
+           (function() {
+               var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+               ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+               var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+           })();
+        </script>
+
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';Sys.Application.initialize();
+//]]>
+</script>
+</form>
+</body>
+</html>

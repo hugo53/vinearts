@@ -1,0 +1,1125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />		
+		
+		<meta name="robots" content="INDEX,FOLLOW" />
+			
+		<meta name="description" content="Tôi đã nghĩ rằng bò Mỹ ngon nên phở sẽ khỏi chê, nhưng ăn đũa đầu tiên thì ôi thôi không biết nên cười hay khóc. Cứ tưởng tượng là lấy sợi hủ tiếu nam vang Hồng Phát mà bỏ vào nước phở thì các bạn sẽ có ngay tô phở Cali chính hiệu.> San Joe ký sự" />
+			
+		<title>Cuộc sống của tôi ở California - VnExpress</title>
+			
+		<meta name="keywords" content="California,cuộc sống,người Việt" />	
+		
+		<meta http-equiv="REFRESH" content="3600" />
+		
+		<link rel="stylesheet" href="/Resource/Common/default.css" type="text/css" />	
+		<link href="http://180.148.142.152/Library/AdsNov.css" rel="Stylesheet" style="text/css"> 		
+		
+		<link rel="alternate" type="application/rss+xml" title="VnExpress - RSS" href="/RSS/GL/trang-chu.rss" />
+			
+		
+		<script type="text/javascript" language="javascript" src="/Library/Common/Library.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/Vne.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/FlashMedia.js"></script>						
+        <script type="text/javascript" language="javascript" src="/Library/Common/AjaxRequest.js"></script>
+		<script type="text/javascript" language="javascript" src="/Library/Common/vietUni.js"></script>
+		<script type="text/javascript" language="javascript" src="/Resource/00/ArrMenu.js"></script>        				
+		<script type="text/javascript" language="javaScript">
+			var PAGE_SITE=0;
+			var PAGE_FOLDER=130;	
+			var PAGE_ID=1002162479;	
+			var DOMESTIC_IP=1;	
+			setTypingMode(1);
+				
+			sLoDID=sLoDID.concat('1002162479').concat(',');
+			
+		</script>
+		<script type="text/javascript" language="javascript" src="/Resource/Common/Menu.js"></script>
+		
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-249346-1']);
+		_gaq.push(['_trackPageview']);
+		
+		_gaq.push(['b._setAccount', 'UA-249346-21']);
+		_gaq.push(['b._trackPageview']);
+		
+		_gaq.push(['c._setAccount', 'UA-249346-22']);
+		_gaq.push(['c._trackPageview']);
+		
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	
+		<script src="/Library/Common/jquery-1.6.3.min.js"></script>		
+		
+<script type="text/javascript" src="/library/Common/VNEShowAds.js"></script>
+<script src="/library/common/rs.js" type="text/javascript"></script>
+
+	</head>
+	<body>	
+		
+				
+		<input type="hidden" id="CurrentBrowserWidth" value="" />
+		<input type="hidden" id="ShowBackground" value="1" />
+		<div id="divSlideResultLeft" style="background-repeat:no-repeat;background-position:right top;over-flow:hidden;cursor:pointer;text-align:right;padding:0px;position: fixed!important;position: absolute; /*ie6 and above*/;left: 0px; top: 0px;overflow:hidden;"></div>
+		<div id="divSlideResultRight" style="background-repeat:no-repeat;over-flow:hidden;cursor:pointer;text-align:left;padding:0px;position: fixed!important; position: absolute; /*ie6 and above*/;right: 0px; top: 0px;overflow:hidden;"></div>				
+		
+		<div id="outter">		
+		<div id="divMove" style="width:1000px;">
+		<div class="fpr2">
+			<div id="header">
+				<div id="logoEH" class="logo fl" >
+					
+					<a onfocus="this.blur()" hidefocus="" href="/"><img class="img-logo" src="/Images/blank.gif" alt="" /></a>
+					
+				</div>
+				<div id="topbannerEH" class="topbanner fr">
+					
+					<table border="0" cellpadding="0" cellspacing="0" style="width:100%;">
+						<tr>
+							<td style="vertical-align:middle">
+																
+									<script type="text/javascript" language="javascript">
+										Poly_ShowTopBanner();
+									</script>								
+								
+							</td>                           
+						</tr>
+					</table>				
+					
+				</div>
+			</div>			
+		</div>				
+		<div id="menu">
+	<div class="searchmenu">
+		<div class="fl icone"></div>
+		<div class="drss fl"><a href="/GL/RSS/" class="link-rss lnkrss">RSS<span></span></a></div>
+		<div id="mn-search" class="search fr">
+			<form onsubmit="return CheckValue(document.Search.s);" action="http://search.vnexpress.net/news" id="Search" name="Search">
+				<span class="fl borright"></span>
+				<input type="text" value="Từ khóa tìm kiếm" onfocus="SearchOnFocus(this)" onkeydown="" onkeyup="initTyper(this)" onblur="SearchOnBlur(this)" id="s" name="s" class="txtsearch fl">
+				<img onclick="return CheckValue(document.Search.s);" alt="" src="/images/blank.gif" class="img-search fl">
+				<input type="hidden" value="66FD8EC7-FA76-4A7C-8FE3-DB605B4C9CE0" name="g">
+				<input type="hidden" value="yes" name="butS">
+			</form>
+		</div>
+	</div>
+	<!--[if lte IE 6]><a id="lnkIE6" href="#"><table cellpadding=0 cellspacing=0 style="border: 0; margin: 0; padding: 0; width: 1000px; height: 25px;"><tr><td><![endif]-->
+	<div class="menu">
+		<ul>
+			<li><div class="fl mn-borleft"></div></li>
+			
+			<li>
+				<a href="/"><span class="pmenuL"></span><span class="pmenuM">Trang nhất</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<!--<ul style="padding: 0px; height: 16px">
+					<div class="fl icone"></div>
+					<div class="drss fl"><a href="/GL/RSS/" class="link-rss">RSS <span></span></a></div>
+				</ul>-->
+				<ul class="smenu-home">	
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+					<li class="lnknews24h"><a href="/gl/24h-qua/"></a></li>
+					<li class="ico-ct-wrap">
+						<span class="fl ico-ct"></span>
+						<p class="fl phonect"><span>0123.888.0123</span> (HN) - <span>0129.233.3555</span> (TP.HCM)</p>
+					</li>				
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/video/"><span class="pmenuL"></span><span class="pmenuM">Video</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">													
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/xa-hoi/"><span class="pmenuL"></span><span class="pmenuM">Xã hội</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li><a href="/gl/xa-hoi/giao-duc/">Giáo dục</a></li>
+					<li><a href="/gl/xa-hoi/nhip-dieu-tre/">Nhịp điệu trẻ</a></li>
+					<li><a href="/gl/xa-hoi/du-lich/">Du lịch</a></li>
+					<li><a href="/gl/xa-hoi/co-hoi-du-hoc/">Du học</a></li>												
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li class="active"><a href="/gl/the-gioi/"><span class="pmenuL"></span><span class="pmenuM">Thế giới</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+							
+				<ul class="smenu-other">					
+					<li><a href="/gl/the-gioi/cuoc-song-do-day/">Cuộc sống đó đây</a></li>
+					<li><a href="/gl/the-gioi/anh/">Ảnh</a></li>
+					<li><a href="/gl/the-gioi/nguoi-viet-5-chau/">Người Việt 5 châu</a></li>
+					<li><a href="/gl/the-gioi/phan-tich/">Phân tích</a></li>
+					<li><a href="/gl/the-gioi/tu-lieu/">Tư liệu</a></li>								
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/kinh-doanh/"><span class="pmenuL"></span><span class="pmenuM">Kinh doanh</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->					
+				<ul class="smenu-other">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/gl/ebank/">Ebank</a></li>
+					<li><a href="/gl/kinh-doanh/chung-khoan/">Chứng khoán</a></li>
+					<li><a href="/gl/kinh-doanh/bat-dong-san/">Bất động sản</a></li>
+					<li><a target="_blank" href="http://nhadep.vnexpress.net/gl/nha-dep/">Nhà đẹp</a></li>
+					<li><a href="/gl/kinh-doanh/kinh-nghiem/">Doanh nhân</a></li>
+					<li><a href="/gl/kinh-doanh/quoc-te/">Quốc tế</a></li>
+					<li><a href="/gl/doi-song/mua-sam/">Mua sắm</a></li>
+					<li><a href="/gl/kinh-doanh/doanh-nghiep-viet/">Doanh nghiệp viết</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/van-hoa/"><span class="pmenuL"></span><span class="pmenuM">Văn hóa</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">					
+					<li><a href="/gl/van-hoa/hoa-hau/">Hoa hậu</a></li>
+					<li><a href="/gl/van-hoa/guong-mat-nghe-sy/">Nghệ sỹ</a></li>
+					<li><a href="/gl/van-hoa/am-nhac/">Âm nhạc</a></li>
+					<li><a href="/gl/van-hoa/thoi-trang/">Thời trang</a></li>
+					<li><a href="/gl/van-hoa/san-khau-dien-anh/">Điện ảnh</a></li>
+					<li><a href="/gl/van-hoa/my-thuat/">Mỹ thuật</a></li>
+					<li><a target="_blank" href="http://evan.vnexpress.net/">Văn học</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/the-thao/"><span class="pmenuL"></span><span class="pmenuM">Thể thao</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smsport"><a href="/gl/the-thao/bong-da/">Bóng đá</a></li>
+					<li><a href="/gl/the-thao/tennis/">Tennis</a></li>
+					<li><a href="/gl/the-thao/chan-dung/">Chân dung</a></li>
+					<li><a href="/gl/the-thao/anh-video/">Ảnh - Video</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="http://seagames.vnexpress.net/" target="_blank"><span class="pmenuL"></span><span class="pmenuM">SEA Games 26</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li class="smseagames26"><a href="http://seagames.vnexpress.net/tin/lich-dau/" target="_blank">Lịch đấu</a></li>
+					<li><a href="http://seagames.vnexpress.net/tin/xep-hang/" target="_blank">Bảng xếp hạng</a></li>					
+					<li><a href="http://seagames.vnexpress.net/tin/bong-da/" target="_blank">Bóng đá</a></li>					
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/phap-luat/"><span class="pmenuL"></span><span class="pmenuM">Pháp luật</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smlaw"><a href="/gl/phap-luat/hinh-su/">Hình sự</a></li>
+					<li><a href="/gl/phap-luat/ky-su/">Ký sự</a></li>
+					<li><a href="/gl/phap-luat/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/doi-song/"><span class="pmenuL"></span><span class="pmenuM">Đời sống</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smlife"><a href="/gl/doi-song/cau-chuyen-cuoc-song/">Câu chuyện cuộc sống</a></li>
+					<li><a href="/gl/doi-song/gia-dinh/">Gia đình</a></li>
+					<li><a href="/gl/suc-khoe/">Sức khỏe</a></li>
+					<li><a href="/gl/doi-song/am-thuc/">Ẩm thực</a></li>
+					<li><a href="/gl/suc-khoe/lam-dep/">Làm đẹp</a></li>
+					<li><a href="/gl/doi-song/blog/">Cửa sổ Blog</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/khoa-hoc/"><span class="pmenuL"></span><span class="pmenuM">Khoa học</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smscience"><a href="/gl/khoa-hoc/moi-truong/">Môi trường</a></li>
+					<li><a href="/gl/khoa-hoc/thien-nhien/">Thiên nhiên</a></li>
+					<li><a href="/gl/khoa-hoc/anh/">Ảnh</a></li>
+					<li><a href="/gl/khoa-hoc/ky-thuat-moi/">Công nghệ mới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/vi-tinh/"><span class="pmenuL"></span><span class="pmenuM">Vi tính</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smmicrocalculate"><a href="/gl/vi-tinh/san-pham-moi/">Sản phẩm mới</a></li>
+					<li><a href="/gl/vi-tinh/kinh-nghiem/">Kinh nghiệm</a></li>
+					<li><a href="/gl/vi-tinh/giai-tri/">Giải trí</a></li>
+					<li><a href="/gl/vi-tinh/hoi-dap/">Hỏi đáp</a></li>
+					<li><a href="/gl/vi-tinh/hacker-virus/">Hacker &amp; Virus</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/oto-xe-may/"><span class="pmenuL"></span><span class="pmenuM">Ôtô - Xe máy</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">					
+					<li class="smcar"><a href="/gl/oto-xe-may/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/ban-doc-viet/"><span class="pmenuL"></span><span class="pmenuM">Bạn đọc</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-bdv">					
+					<li><a href="/gl/ban-doc-viet/khoa-hoc/">Khoa học</a></li>						
+					<li><a href="/gl/ban-doc-viet/doi-song/">Đời sống</a></li>
+					<li><a href="/gl/ban-doc-viet/phap-luat/">Pháp luật</a></li>
+					<li><a href="/gl/ban-doc-viet/xa-hoi/">Xã hội</a></li>
+					<li><a href="/gl/ban-doc-viet/kinh-doanh/">Kinh doanh</a></li>
+					<li><a href="/gl/ban-doc-viet/the-thao/">Thể thao</a></li>
+					<li><a href="/gl/ban-doc-viet/van-hoa/">Văn hoá</a></li>
+					<li><a href="/gl/ban-doc-viet/the-gioi/">Thế giới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/ban-doc-viet/tam-su/"><span class="pmenuL"></span><span class="pmenuM">Tâm sự</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other"></ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/rao-vat/"><span class="pmenuL"></span><span class="pmenuM">Rao vặt</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-raovat">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/cuoi/"><span class="pmenuL"></span><span class="pmenuM">Cười</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-bdv">
+					<li><a href="/gl/cuoi/video/">Video</a></li>
+					<li><a href="/gl/cuoi/tieu-pham/">Tiểu phẩm</a></li>						
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+		</ul>
+	</div><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</div>
+
+		<div id="content">			
+			
+			<div class="content-center fl">			
+			<div class="folder-header">
+	<script type="text/javascript" language="javascript">writeFolderTitle(PAGE_FOLDER);</script>
+	<div class="fr">Th&#7913; t&#432;, 23/11/2011, 12:05 GMT+7</div>
+</div>
+<div class="email-print txtr">
+	<script>
+	writeSociable('http://vnexpress.net/gl/the-gioi/nguoi-viet-5-chau/2011/11/cuoc-song-cua-toi-o-california/','Cuộc+sống+của+tôi+ở+California','Cuộc+sống+của+tôi+ở+California','sociable',1002162479);
+	</script>
+<font onClick="return EmailSubject(1002162479)"><img border="0" src="/Images/email.gif" align="bottom">&nbsp;E-mail</font>
+&nbsp;&nbsp;&nbsp;<font onClick="return PrintSubject()"><img border="0" src="/Images/print.gif" align="bottom">&nbsp;B&#7843;n In</font>
+</div>
+
+				<div class="content">
+					<div style="overflow:hidden" cpms_content="true">
+				<H1 class=Title>Cuộc sống của tôi ở California</H1>
+<H2 class=Lead>Tôi đã nghĩ rằng bò Mỹ ngon nên phở sẽ khỏi chê, nhưng ăn đũa đầu tiên thì ôi thôi không biết nên cười hay khóc. Cứ tưởng tượng là lấy sợi hủ tiếu nam vang Hồng Phát mà bỏ vào nước phở thì các bạn sẽ có ngay tô phở Cali chính hiệu.<BR>> <A href="/gl/the-gioi/nguoi-viet-5-chau/2011/11/san-jose-ky-su/" class="Lead">San Joe ký sự</A></H2>
+<P class=Normal>Nay tôi xin kể về cuộc sống ở Mỹ một cách chi tiết và tôi tin rằng cuộc sống ở những nước văn minh khác đều na ná như Mỹ vậy.</P>
+<TABLE cellSpacing=0 cellPadding=3 width=1 align=center border=0>
+<TR>
+<TD><IMG src="/Files/Subject/3b/bb/c9/2f/cali3.jpg" width=480 height=309 border=1 /></TD></TR>
+<TR>
+<TD class="Image">Thành phố San Francisco, California, Mỹ. Ảnh: <EM>newvietart</EM></TD></TR></TABLE>
+<P class=Normal>Ngay khi mới qua Mỹ dĩ nhiên ai cũng thấy bao điều mới lạ hết, xứ giàu mạnh nhất hành tinh mà! Ngày đầu tôi đến Mỹ, sau khi gặp gỡ gia đình bạn bè xong thì trời hãy còn sáng lắm. Đây là điều lạ đầu tiên với tôi. Tôi qua nhằm mùa hè nên trời hè Cali là 9 có khi 10 giờ đêm mới tối hẳn. Tôi nghĩ bụng “bây giờ là 8 giờ tối đó sao trời? Lạ vậy?”. Tối đó trằn trọc mãi, tâm trạng rối bời!</P>
+<P class=Normal>Ngày hôm sau, 9 giờ sáng thức dậy đã thấy người nhà tôi đi mua phở “to go”(có nghĩa là mua về ăn). Thú thật tôi từ nhỏ đến lớn ăn có 3 món phở, cơm tấm, hủ tiếu mì mà thôi nhưng phở Cali thì đây là lần đầu. Tôi nghĩ rằng bò Mỹ thì ngon lắm, thơm và mềm nữa nên phở thì khỏi phải chê nhưng ăn đũa đầu tiên thì ôi thôi không biết nên cười hay khóc. Tôi cắt nghĩa vậy các bạn sẽ dễ hiểu, cứ tưởng tượng là lấy sợi hủ tiếu nam vang Hồng Phát trên đường Võ Văn Tần mà bỏ vào nước phở thì các bạn sẽ có ngay tô phở Cali chính hiệu! Tôi ăn được vài đũa rồi đầu hàng luôn.</P>
+<P class=Normal>Thay đồ chuẩn bị đi San Francisco chơi….</P>
+<P class=Normal>Trên đường đi thì phải nói công nhận rằng cơ sở hạ tầng của Mỹ có vẻ như là tuyệt vời thật, nào là cầu vượt mấy tầng rồi thì freeway (xa lộ) rộng 10 lane (làn đường) là ít nhất. Xe cộ chạy có thứ tự đúng luật dù không thấy “bồ câu” (cảnh sát, đây là tiếng lóng hồi xưa tôi ở Việt Nam). Đến San Francisco, tôi thấy người ta buôn bán tấp nập và đường xá chật chội, nhà cửa cũ kĩ. Đấy nhé, xứ nhất thế giới vẫn có chỗ ổ chuột như thường nhưng ghi chú là nhà San Francisco tuy cũ và chật nhưng giá thì trên trời đấy các bạn. Có vài chỗ ăn uống cũng tốt và cũng khá vui chẳng hạn như Pier 39 là nơi các bạn nhớ ghé qua khi đi San Francisco. Ở đây có bán món Soup nghêu (Claim Chowder) ăn với bánh mì chua (Sour Dough) ngon lắm. Nhắc đến bánh mì chua mới nhớ lúc đó tôi mới ăn vào một miếng liền bảo “bánh mì này hư rồi!”. Thiệt là hai lúa.</P>
+<P class=Normal>Đến cầu cổng vàng (Golden gate bridge) thì cả đời chưa bao giờ thấy cái cầu dài và đẹp đến vậy (lúc đó thôi, giờ đi riết thấy thường rồi). Rồi thì cũng chụp hình, quay phim, đi ngắm cảnh trầm trồ chỗ này chỗ kia. Ăn uống xong lại quay về thành phố tôi ở - San Jose. Cả ngày đi chơi mệt đừ nhưng điều này sau 8 năm tôi mới biết để có một buổi đi chơi cả ngày như vậy thì tiêu tốn trên 200 USD là giá chót! Ôi chao rất nhiều người Việt kiều không có kiếm nổi 200 USD/ ngày nữa là!</P>
+<P class=Normal>Thật ra chính đến bây giờ tôi cũng công nhận một điều là ở Mỹ không hiểu sao quang cảnh và nhà cửa khi chụp lên hình nhìn sang thiệt! Dù là căn nhà đó ở ngoài nhìn thiệt là ghê, lạ lắm! Ai có ở Mỹ mới thấy tôi nói điều này là đúng, chả trách gì rất nhiều người bị đánh lừa bởi một cái Mỹ qua hình, qua phim. Rất nhiều người gửi hình về Việt Nam đeo kiếng đen rồi đứng dựa chiếc xe châu Âu (Benz, BMW…) hay một chiếc xe đắt tiền nào đó là lập tức bà con ở Việt Nam nghĩ rằng “Thấy chưa, mới qua vài năm chẳng mấy chốc mà khá rồi đó...” Thật ra nhiều khi người trong hình cũng không biết đó là xe ai nữa? Bó tay!</P>
+<P class=Normal>Sau đó thì tôi đi làm bán thời gian (part-time) ở chợ Việt Nam tuần hai ngày còn năm ngày thường phải đi học nữa. Làm việc ở đâu đi nữa thì cực khổ là phải chịu rồi nhưng cái khác biệt ở chỗ là Việt Nam có thiếu có hụt thì còn kêu réo nước ngoài giúp vài trăm còn Việt kiều thiếu hụt kêu ai đây? Ở Mỹ rồi kêu ai nữa? Chẳng lẽ kêu người ngoài hành tinh? Là vậy, ý tôi là ở Mỹ làm cực, Việt Nam làm cũng cực nhưng mà ở Việt Nam xứ nghèo làm không dư thì không nói. Ở Mỹ làm quần quật mà không dư thì mới là vỡ mộng. Tôi lúc đó làm 2 ngày/tuần thì không dư là đúng vì là học sinh trung học thôi nhưng khi giờ lớn rồi đi làm toàn thời gian (full-time) mà cũng không xong luôn. Lý do là khi làm full-time thì tiền nhiều hơn nhưng lớn lên nên chi cũng nhiều hơn đâm ra cũng vậy, “của thiên trả địa”.</P>
+<P class=Normal>80% dân Việt ở Mỹ là tầng lớp lao động nghèo, tức là có thu nhập dưới 50.000 USD mỗi năm. Ở Mỹ mà nói một người giàu hay nghèo thì phải xem đó là so với cộng đồng Việt Nam hay so với Mỹ. Nếu so với nước Mỹ thì xin lỗi 99% chúng ta (cộng đồng Việt Nam tại Mỹ) là trung bình trở xuống! Còn nếu chỉ so trong cộng đồng thì vâng, có giàu có nghèo. Nhưng may thay xứ Mỹ là một xứ có thể mua này nọ mà không cần tiền mặt ,chỉ cần có thẻ tín dụng (credit card) là xong. Cái thẻ tín dụng là thứ đưa bạn lên và đá bạn xuống trong tích tắc ở xứ Mỹ này. Tôi sẽ nói sâu về phần này vì đây là chuyện rất quan trọng khi ở nước ngoài!</P>
+<P class=Normal>Khi mới đến Mỹ, mình đi làm thì mình phải khai thuế thu nhập cá nhân và cái ba-rem thì tùy theo yếu tố là có nuôi ai không, có nhà không hoặc lương thấp hay cao….Ví dụ như mình làm 12 USD/giờ thì tháng khoảng 1.960 USD chưa thuế. Nếu còn độc thân sẽ bị trừ thẳng vào lương khoảng 500 USD nên mình còn khoảng 1460 USD. Và nhắc lại đây là trừ thẳng không đến lượt bạn quyết định là trả hay không hoặc chịu hay không! Nhắc lại rằng lương càng cao thì thuế càng cao, có thể lên đến 40%.</P>
+<TABLE cellSpacing=0 cellPadding=3 width=1 align=center border=0>
+<TR>
+<TD><IMG src="/Files/Subject/3b/bb/c9/2f/Little-Saigon-533x400.jpg" width=480 height=360 border=1 /></TD></TR>
+<TR>
+<TD class="Image">Một góc khu chợ Little Saigon của người Việt ở California. Ảnh: <EM>thenewgay</EM></TD></TR></TABLE>
+<P class=Normal>Trong năm đầu bạn sang, Credit Bereau (tạm dịch là Cục quản lý tín dụng) sẽ xem bạn như người mới nên họ xác định bạn là tín dụng mới, tức là không xấu mà không tốt. Sau một năm có đi làm đóng thuế thì bạn sẽ được cho thẻ tín dụng. Mọi việc bắt đầu từ đây, một là ngon lành hai là tanh bành. Ghi chú là các bạn phải đi làm đóng thuế thì mới có được tín dụng tốt và thẻ mới có mức sử dụng cao nhất trong khả năng tài chính của bạn được. Nếu đi làm tiền mặt, gọi là làm chui, thì Credit Bereau họ không thấy được là mình làm bao nhiêu, ở đâu. Mỹ là vậy, cái gì cũng giấy tờ sổ sách, khó lòng qua mặt lắm.</P>
+<P class=Normal>Sau khi bạn đã xin được thẻ tín dụng thì bạn phải xài vì bạn có xài có trả mới chứng minh là bạn có uy tín nếu không số điểm của bạn chỉ nằm ở mức đó hoài khó lên điểm lắm. Điểm càng cao nghĩa là uy tín người đó càng cao. Giờ nghĩ lại tôi thấy cái trò này là của các nước cường quốc là muốn đồng tiền trôi chảy chứ không đóng cục như các nước nghèo. Mặt khác họ có thể nắm tẩy các bạn được như là biết rõ tài sản của bạn hay bạn không thể quỵt nợ ai cả.</P>
+<P class=Normal>Tôi có thể nói là cũng khá rành về credit card vì bị nó vật vã nhiều năm rồi nhưng có thể là có vài chỗ thiếu sót nên bạn nào nhận ra thì bổ sung giùm. Khi bạn có thẻ lần đầu thì đa số ngân hàng sẽ cho cái thẻ cỡ khoảng 500-1.500 tùy theo lương. Họ sẽ tính tiền lời và theo mình thì cũng là khá cắt cổ. Thông thường thì người mới có thẻ vào khoảng 18-25%/tháng. Ví dụ: bạn mua đồ 1.000 USD bằng thẻ thì bạn sẽ phải trả tiền lời là 180-250 USD/tháng cho lần mua sắm đó. Tuy nhiên nếu bạn trả 1.000 trong vòng 3 tuần kể từ ngày mua thì bạn sẽ không phải trả tiền lời. Nhưng mà làm kiểu đó mấy ông ngân hàng coi bộ không khoái mình, mà không khoái thì cho điểm ít hoặc chậm.</P>
+<P class=Normal>Người có tín dụng trung bình ở Mỹ là phải 620 điểm, còn 680-720 là tốt, trên 720 là tuyệt vời. Đến đây bạn chưa thấy rõ là nó quan trọng ở chỗ nào? Là đây, khi bạn đi mua một cái điện thoại cầm tay như Iphone chẳng hạn, mua kiểu Việt Nam trả tiền hết 700 USD được không? Được chứ! Nhưng mà nếu bạn có tín dụng, bạn sẽ kí hợp đồng hai năm với nhà mạng vừa mua được Iphone giá 199 USD + thuế, vừa hưởng giá cước hàng tháng rẻ hơn là bạn mua đứt điện thoại như kiểu Việt Nam. Đằng nào thì mình cũng đóng tiền điện thoại hàng tháng, thôi thì kí cái hợp đồng cho nó rẻ đồng nào đỡ đồng đó! Mà ở Mỹ muốn ký bất cứ cái gì thì đều phải có tín dụng, tức là có uy tín nếu không có uy tín thì cái chữ ký của mình có giá trị gì đâu nữa mà ký?</P>
+<P class=Normal>Khi xài thẻ thì sướng tay lắm vì mình không thấy tiền mặt nên mình không nghĩ là nó nhiều, đến khi hóa đơn hàng tháng về mới tá hỏa thì sự việc đã rồi! Nếu như mình có việc làm đều và đủ để trả tiền thẻ hàng tháng thì không nói gì. Nhưng lỡ thất nghiệp thì thôi rồi “vẫy tay chào nhau” với số điểm của mình. Đến đây nhiều người nói là “ai bảo xài cố mạng rồi than”, nhưng bạn ơi bạn chưa vô tròng bạn không biết sức cám dỗ của vật chất xứ Mỹ này đôi khi nó chiến thắng lý trí mình một cách “ngoạn mục”. </P>
+<P class=Normal>Ở đây, với một người bình thường đi làm, sau khi chi trả các khoản cần thiết hàng tháng thì dư lại được 1.000 USD là một chuyện hiếm và khó lắm! Vậy nên dù bạn dư 1.000 USD/tháng đi nữa thì bạn sẽ phải mất 10 năm để có được 100.000 USD với điều kiện đừng để vật chất làm bạn phải “ngứa ngáy” tiêu xài! Khi bạn dư 100.000 USD thì sao? Mua nhà? Mua xe mới? Chà, đến lúc này bạn cần phải có tín dụng rồi đấy! Căn nhà ở Cali được được cũng cỡ 400.000 USD, thế thì bạn trả trước tối thiểu là 10% là 40.000 USD còn 360.000 USD còn lại được trả trong 30 năm + tiền lời “chợ búa” là 4%/năm. Mỗi tháng bạn trả 2,135 USD, trong 30 năm. Sau 30 năm, 768,000 USD ra khỏi túi bạn cho căn nhà trị giá 400.000 USD. Thuế năm là 1% trên giá trị nhà, tức khoảng 4.000 USD/năm. Bảo hiểm nhà là khoảng 100 USD/tháng.</P>
+<P class=Normal>Vậy thì để có được uy tín mượn 360.000 USD của ngân hàng, bạn cần có nguồn thu nhập hàng tháng gấp ba lần số tiền mà bạn phải trả hàng tháng khi mượn nợ, tức là trong ví dụ này bạn cần có tiền lương ít nhất là 6.000/tháng và đồng thời tín dụng phải tốt tức trên 700 điểm. Mức lương này là mức lương phổ biến tại San Jose dành cho các kĩ sư người Việt nhưng với người lao động chân tay thì để mua nhà là vất vả đến tột cùng. Tín dụng là quan trọng vậy đấy. Bạn mua gì cũng cần tín dụng cả, nếu không có tín dụng thì bạn không thể mượn tiền được, thế thôi! Còn nếu có cả núi tiền mặt như đại gia thì không còn gì phải bàn cãi, sống đâu cũng là thiên đường! Người Việt ở Việt Nam thì tôi không dám nói tất cả nhưng tôi nghĩ là 80% họ đều có nhà dù lớn nhỏ hay mục nát. Người Việt ở Mỹ thì ngược lại, 80% không có nhà! </P>
+<P class=Normal>Tôi xin tạm dừng ở đây. Xin hẹn gặp lại các bạn ở bài sau sẽ nói tiếp những chuyện trên đất Mỹ!</P>
+<P class=Normal align=right><STRONG>Chí Vân Tâm</STRONG></P>
+<P class=Normal><EM>Chia sẻ trải nghiệm những ngày đầu ở nước ngoài <A href="/contactus/?id=thegioi@vnexpress.net" class="">tại đây</A>. Đọc giả vui lòng viết tiếng Việt có dấu.</EM></P>
+<EM></EM> 
+ 
+			</div>
+			<div class="tag-parent"><img src='/Images/tags.gif' class="tag"><div class="tag-pos"><h3 class="tag-text"><a href='/tag/7148/california/'>California</a>, <a href='/tag/3188/cuoc-song/'>cuộc sống</a>, <a href='/tag/7174/nguoi-viet/'>người Việt</a></h3></div></div>
+			<div class="box-item" style="margin-top:5px;margin-bottom:5px;">
+			
+					<div style="border:1px solid #b7beb6; padding: 2px 3px;">
+						<div style="background-color: #d5d9de; padding: 5px 10px; margin-bottom:13px; font-weight:bold;">									
+							<table cellspacing="0" cellpadding="0" border="0" width="100%">
+								<tr>
+									<td>
+										<a name=aComment>&#221; ki&#7871;n b&#7841;n &#273;&#7885;c (<label style="color:#0033FF">33</label>)</a>
+									</td>
+									<td style="text-align:right; font-family:arial; font-size:11px; font-weight: normal;">
+										S&#7855;p x&#7871;p theo: 
+										<select name="cboOrder" id="cboOrder" onchange="OrderComment(this.value)" style="font-family:arial; font-size:11px; font-weight: normal;">
+											<option value="0" >Mới nhất</option>
+											<option value="1" selected>Cũ nhất</option>
+										</select>									
+									</td>
+								</tr>
+							</table>																		
+						</div>
+						<div style="height:400px; padding:0px 8px; overflow:auto; overflow-x: hidden;">								
+															
+							<div class="comment_ct">
+								<P class=Title>Re: Cuộc sống của tôi ở California</P>
+<P class=Normal>Cảm ơn bạn. Bài viết của bạn thật sự rất hay và chưa đựng nhiều thông tin.</P>
+<P class=Normal><I>( Thien Minh )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Thank you</P>
+<P class=Normal>Rất cám ơn bạn đã cho những người chưa đi nước ngoài bao giờ như tôi có thể biết sơ qua về cuộc sống ở những nơi mình từng mong ước đến</P>
+<P class=Normal><I>( Nguyen Van Phu )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>nhieu chuyen</P>
+<P class=Normal>ban la con trai ma sao nhieu chuyen qua,toi hy vong ban khong bao gio ke nua,ok.</P>
+<P class=Normal><I>( hung nguyen )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>GUI NGUOI VIET BAI VE CUOC SONG O CALI</P>
+<P class=Normal>Toi tinh co doc duoc bai viet tren mang cua ban rat hay cam on da co cong va co long de ghi lai tung chi tiet,co dieu toi khong duoc biet la anh den o my duoc bao lau roi.Toi doan la anh o my cung kha lau,vi theo nhung kinh nghiem va nhung dieu anh ke neu qua that nhu vay ma anh con luan quan o SAN JOE thoi that la 1 dieu dang tiec cho anh,hay nen lay 1 thoi gian nghi phep va di 1 vong,de nhin va hoc hoi them,de thuong thuc nhung huong vi,co the la lan dau tien anh duoc thuong thuc ngoai to pho o San Joe ma anh mieu ta,nhung dieu anh viet toi khong biet la anh viet cho nguoi Viet o trong nuoc doc hay la viet cho nguoi o Viet Nam doc,khi dat nuoc chung ta mo cua,hau nhu nguoi VN nao cung da hieu va biet het roi.Toi khong biet khi ay anh o noi dau ma den bay gio moi biet,</P>
+<P class=Normal><I>( Michelle Tran )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>CẢM ƠN BẠN ĐÃ CHIA SẺ THẬT BỔ ÍCH. !!!</P>
+<P class=Normal>bài viết của bạn đúng với thực tại cuộc sống người việt tại mỹ , mình cũng từng sống ở pháp được 5 nam giờ thì về việt nam rồi . những điều cần nêu bạn đã chia sẻ hết , đây là điều mọi người cần suy nghĩ trước khi quyết định bán nhà qua mỹ sống :)) thân</P>
+<P class=Normal><I>( TUNG SONG O PHAP )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Rất chân thực!</P>
+<P class=Normal>Anh Tâm viết vui quá, giọng văn rất chân thực và hài hước. Anh đã giúp tôi hiểu thêm được nhiều về cuộc sống của người Việt tại Mỹ. Rất mong được đọc những bài viết tiếp theo của anh. Chúc anh sống vui khỏe!</P>
+<P class=Normal><I>( Minh Nguyen )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Good idea about Credit Card, anh Tâm</P>
+<P class=Normal>Ngày em mới đặt chân đến Canada thật lòng cũng không nghĩ là hàng tháng mình sẽ tốn vài trăm có khi đến cả ngàn đồng tiền credit card. Giờ thì thật là thấm thía mỗi khi "cà thẻ". Ở Vn ai cũng nghĩ "sướng thật, có credit card tha hồ "cà" !!" nhưng không ai biết hậu quả của việc "cà" liên tục là như thế nào đâu?? phải sở hửu nó thì mới biết được nỗi khổ hàng tháng khi bill về. </P>
+<P class=Normal>Còn về vấn đề nhà cửa, anh Tâm phân tích rất hay. Nhưng có 1 việc anh quên là nếu anh sở hữu 1 căn nhà với giá trị 400 ngàn USD hiện giờ và down payment trong 30 năm thì sau 30, anh sẽ tốn 768 ngàn USD. Tuy nhiên, cũng sau 30 năm đó, chắc chắn rằng rằng giá nhà của anh sẽ lên. Còn nếu anh đi thuê nhà (em không biết ở Mỹ giá thuê trung bình là bao nhiêu nhưng ở Canada này, giá trung bình vào khoảng 1500-2000/nhà/3-4 phòng bao điện nước), cứ cho là 1500 USD/ tháng thì anh phải tốn 18.000 USD/ năm và 540.000 USD sau 30 năm. </P>
+<P class=Normal>Làm 1 phép tính như vậy thì thấy rằng nếu đi thuê nhà sau 30 năm thì giá cũng bằng 2/3 sở hữu 1 căn nhà rồi còn gì? Theo em nghĩ nếu là single thì nên thuê condo sống, còn có gia đình, 2 vợ chồng cùng có stable job thì nên down payment 1 căn nhà như vậy sẽ tốt hơn là đi thuê. Vì khi đi thuê, mình đâu biết trước rằng chủ nhà sẽ bán đi khi nào. Nếu họ bán nhà, mình lại lục tục đi tìm chỗ thuê mới, rồi dọn nhà, rồi phải tính toán lại giờ đi làm, giờ về, rồi đủ thứ việc linh tinh kèm theo. </P>
+<P class=Normal>Đây chỉ là ý kiến của riêng em. Không biết anh chị có ý kiến nào hay hơn xin vui lòng chia sẽ để cộng đồng Việt Nam tại hải ngoại cùng phát triển. Và cũng mong rằng những người đồng hương đang sống tại Việt Nam đừng nghĩ rằng đồng tiền nơi xứ Mỹ hay Canada hay Úc Châu hay bất kỳ nơi đâu khác là dễ kiếm. Nơi nào cũng vậy, chúng ta phải lao động chân chính và phải có sự kiên trì thì mới thành công. Lam Nguyen</P>
+<P class=Normal><I>( Lam Nguyen )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>tran06@yahoo.com</P>
+<P class=Normal>thiệt đúng như bài viết, nếu mình có thể nhận xét thì 95% số người Việt vùng ,mình đang sống Vancouver Washington. còn 5% kia là những người sống xa hoa tiền sài không hết nhà mấy cái. trong đó một nữa là mhững nhà kinh doanh nhỏ, còn một nữa là những người sống bằng nghề trồng cần sa. người Mỹ gọi là "gang green". thế hệ thứ ba trở lên có học nhiều hơn một chút hy vong sẽ có nhiều thay đổi hơn trong tương lai.</P>
+<P class=Normal><I>( tran06@yahoo.com )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Tao Lao</P>
+<P class=Normal>Noi chuyen tao lao, ai bat minh qua My o dau, ma trach voi moc. Sam. Sebástien.</P>
+<P class=Normal><I>( bserives@yahoo.ca )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>CHUYỆN PHỠ CALI CŨA TÁC GIÃ BÀI VIẾT ..</P>
+<P class=Normal>Tôi chĩ đọc đến đoạn " phỡ Cali " cũa tác giã thì tôi bye bye bài viết ngay : nếu tác giã ăn phỡ tại vùng Little Saigon ỡ quận Cam thì chắc là tác giã sẽ xóa bài viết lại liền ! Phỡ Bắc và Cơm tấm bì sườn nướng là hai món ăn người Việt ỡ đây thích nhất đấy , vì ngon !</P>
+<P class=Normal><I>( tuy can )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Sống ở Mĩ</P>
+<P class=Normal>cuộc sống ở Mĩ của ông này nhiều mâu thuẫn quá. Ông nên về Viêt nam sống thì tốt hơn</P>
+<P class=Normal><I>( trần quân )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>chuyện viết hay thiệt</P>
+<P class=Normal>nghe đọc cũng nhiều mà lần nào nghe đọc lại cũng vẫn thấy mắc cười. Đúng là ở xứ Mỹ cái gì cũng có thể xảy ra. đến đó chơi thì vui chứ làm thì chết chắc.</P>
+<P class=Normal><I>( Linh )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Cám ơn!</P>
+<P class=Normal>Cam ơn bạn đã cho người đọc hình dung được cuộc sống của cách chi tiêu của người dân tại Mỹ, đúng là mức thu nhập cao nhưng chi tiêu cũng gần bằng^^</P>
+<P class=Normal><I>( 2ndFACE )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Đúng vậy!</P>
+<P class=Normal>Đúng vậy! Có qua Mỹ, ở chơi lâu dài, tìm hiểu kỹ mới hiểu được bạn Tâm nói rất đúng. Đi du lịch, cưỡi ngựa xem hoa thì chẳng hiểu được đâu! Ma về VN có kể lại những gì mình hiểu được ở Mỹ thì bị cho là nói quá! Người ở Vn có hiểu được ngọn ngành mọi chuyện đâu chứ, họ chị nghe nói sơ sơ chứ có nghe được ai kể hết đâu ( chưa chắc người bên Mỹ về lại dám kể hết mọi chuyện của họ cho người ở VN nghe nựa kia!). Do đó nhiềi người cứ ngồi mơ mộng. Các em gái Vn lại càng mơ mộng "hung". Hahaha! Chưa chắc ở đâu sướng hơn. Đừng có mà đứng núi này trông núi nọ!</P>
+<P class=Normal><I>( Yến Xuân )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>chia sẻ với bài viết</P>
+<P class=Normal>Chí Vân Tâm thân mến<BR>Tôi đọc bài viết trước của bạn tôi rất thích. Tôi cũng mới qua Mỹ 4 tháng rưỡi thôi bạn à. Bài viết này của bạn cũng hay và như một kinh nghiệm để tôi học hỏi cách sống. Nhưng sao bạn lại nói Việt Nam nghèo thì có thể vay tiền dễ dàng. "Ở đời không ai cho không ai cái gì đâu bạn". Khi bạn nhận một sự giúp đỡ thì bạn phải làm thế nào để được giúp chứ. Đâu phải chỉ la lên "tôi nghèo, tôi đói và tôi khổ " là được giúp! <BR>Thân mến</P>
+<P class=Normal><I>( huong_vi_con-gai )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Ở VN sướng nhất!</P>
+<P class=Normal>Theo như bạn kể , thì với thu nhập 8-12 triệu VND / tháng , thì ở VN là sướng nhất , Muốn mua sắm gì , tiết kiện vài tháng là có. nhưng chắc là không mua được Oto đâu. Mà có mua cũng không biết chạy đường nào , kẹt xe tùm lum.</P>
+<P class=Normal><I>( Khoi Ta Trong )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>CUỘC SỐNG Ở USA</P>
+<P class=Normal>Bài viết rất hay,rất thực tế -mong bạn sẽ có thêm nhiều bài viết về cuộc tại USA để mọi người Việt trong và ngoài nước cùng tìm hiểu</P>
+<P class=Normal><I>( LUU HOANG )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>gui ban</P>
+<P class=Normal>ech ngoi day gieng...ban o cali nen biet cali thoi...con 49 tieu ban nua lan...khong the noi la toan nuoc My nhu vay. Tieu bang toi oi thi 80% co nha do ban a. Ban moi qua chua biet het duoc.</P>
+<P class=Normal><I>( tan nguyen )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Chưa hiểu rõ ý của tác giả.</P>
+<P class=Normal>bạn nói cho rõ dùm "Người Việt ở Mỹ thì ngược lại, 80% không có nhà!" tức là 80% hộ gia dình không có nhà ở hay là 80 % dân số. Tại vì bạn nên nhớ trung bình 1 gia đình thì có 4 người mà có một căn nhà thì cũng là 75% người không có nhà nếu theo cách tính 1 người một căn nhà rồi. Còn nữa con số đó có đáng tin cậy không? và từ đâu để bạn nói như vậy.</P>
+<P class=Normal><I>( Nguyễn Huy )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Hay</P>
+<P class=Normal>Một bài viết hay, cảm nhận như đang ở đất Mỹ , đúng là cái gì cũng có cái giá của nó.</P>
+<P class=Normal><I>( Quốc )</I></P>
+							</div>									
+						
+							<!--<hr />-->
+						
+						</div>
+						<div style="background-color: #d5d9de; padding: 5px 10px; margin-top:13px; min-height:12px;">
+							<font class="Paging">1</font>, <a href="/gl/the-gioi/nguoi-viet-5-chau/2011/11/cuoc-song-cua-toi-o-california/?p=2#aComment" class="Paging Red" style="color:#ff0000">2</a>
+						</div>
+						<!--<script type="text/javascript" language="javascript" src="/Library/Common/jquery.js"></script>-->
+						<script type="text/javascript" language="javascript">
+							$(document).ready(function(){
+								//$('div.comment_ct p.Title').css('font-size',17);
+							});
+						</script>
+						<script type="text/javascript" language="javascript">
+							function OrderComment(i){
+								setCookie('VOrderComment', '', '', i);
+								location.href = '/gl/the-gioi/nguoi-viet-5-chau/2011/11/cuoc-song-cua-toi-o-california#aComment';
+							}									
+						</script>
+					</div>
+					
+<p id=pShow><a class=SForm onclick="ShowFormComment()"><img src="/Images/Y-kien-cua-ban.gif" border="0" style="cursor:pointer" alt="Ý kiến của bạn" /></a></p>
+<div id="dComment" class="dtopitem_all">
+	<form method="post" name="frmComment" id="frmComment" target="_blank" onsubmit="submitForm(this);return false;" action="/service/comment/submit.asp">
+		<div class="adword-hdf">&nbsp;</div>
+		<div class="adword adword-middle" style="padding-top:0px;">					
+			<div class="adword-nav2 fl" style="padding-top:10px; width:476px; background-color:#ffffff">
+				<div style="padding-bottom:5px; overflow:hidden;">
+					<div class="fl" style="width:60%">
+						<input type="text" value="Họ tên" name="txtAddedBy" id="txtAddedBy" style="width:280px;" size="29" onfocus="NameOnFocus(this)" onblur="NameOnBlur(this)" onkeyup="initTyper(this)" class="adword-textbox"">
+					</div>
+					<div class="fr" style="width:180px;">
+						<input type="text" value="Email" name="txtAddedByEmail" id="txtAddedByEmail" style="width:172px" size="29" onfocus="EmailOnFocus(this)" onblur="EmailOnBlur(this)" class="adword-textbox">
+					</div>
+				</div>
+				<div style="padding-bottom:5px; overflow:hidden;">
+					<div class="fl" style="width:60%">
+						<input type="text" value="Tiêu đề" name="txtAddedTitle" id="txtAddedTitle" style="width:280px;" size="29" onfocus="TitleOnFocus(this)" onblur="TitleOnBlur(this)" onkeyup="initTyper(this)" class="adword-textbox"">
+					</div>
+					<div class="fr" style="width:180px;">
+						<input type="text" value="Mã xác nhận" name="txtValidCode" id="txtValidCode" style="width:99px;" size="29" onfocus="ValidateCodeOnFocus(this)" onblur="ValidateCodeOnBlur(this)" onkeyup="initTyper(this)" class="adword-textbox"">
+						<img src="/Service/Vote/securelog/image.asp" name="imgValidCode" id="imgValidCode" style="vertical-align:top; height:20px; padding-top:1px">
+						&nbsp;<img src="/Images/change-image.gif" alt="Thay hình khác" onclick="ChangeImage()" style="vertical-align:top;cursor:pointer; padding-top:1px" />
+					</div>
+				</div>
+				<div style="overflow:hidden;">
+					<div class="fl" style="width:60%">
+						<input type="submit" value="G&#7917;i To&#224; so&#7841;n" name="B1" class="SForm">&nbsp;<input type="button" value="Xo&#225; tr&#7855;ng" name="B2" class="SForm" onclick="InputDefault();">&nbsp;<input type="button" value="&#272;&#243;ng l&#7841;i" class="SForm" onclick="ShowFormComment()">
+						<input type="hidden" name="txtT" id="txtT" value="1002162479" />
+						<input type="hidden" name="txtS" id="txtS" value="0" />
+						<input type="hidden" name="txtF" id="txtF" value="130" />
+						<input type="hidden" name="txtL" id="txtL" value="/gl/the-gioi/nguoi-viet-5-chau/2011/11/cuoc-song-cua-toi-o-california" />
+					</div>
+					<div class="fl" style="width:40%; text-align:right;">
+						<input type="radio" name="optInput" value="0" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(0)">Off
+						<input type="radio" name="optInput" value="1" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(1)" checked>Telex
+						<input type="radio" name="optInput" value="2" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(2)">VNI
+						<input type="radio" name="optInput" value="3" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(3)">VIQR								
+					</div>
+				</div>				
+			</div>			
+			<div class="adword-nav2 fl" style="padding-top:0px;">
+				<textarea rows="10" name="txtAddedContent" id="txtAddedContent" cols="43" onkeyup="initTyper(this)" class="SForm" style="width: 470px"></textarea>				
+			</div>
+		</div>
+		<div class="adword-ftf">&nbsp;</div>
+	</form>
+</div>
+<script type="text/javascript">
+	var bshow = false;
+	
+	function ShowFormComment()	{
+		if(bshow){
+			gmobj('dComment').style.display="block";
+			gmobj('pShow').style.display="none";
+			bshow=false;
+		}
+		else{
+			gmobj('dComment').style.display="none";
+			gmobj('pShow').style.display="block";
+			bshow=true;
+		}
+	}
+	ShowFormComment();
+	
+	function submitForm(theform){
+		document.frmComment.txtAddedBy.value = Trim(document.frmComment.txtAddedBy.value);
+		if (document.frmComment.txtAddedBy.value == '' || document.frmComment.txtAddedBy.value == 'Họ tên')
+		{
+			alert('Xin hay nhap Ho ten!');
+			document.frmComment.txtAddedBy.focus();
+			return;
+		}
+
+		if ((SEmail = CheckEmailAddress(document.frmComment.txtAddedByEmail.value))=='')
+		{
+			alert('Dia chi Email khong hop le!');
+			document.frmComment.txtAddedByEmail.focus();
+			return;
+		}
+
+		document.frmComment.txtAddedByEmail.value = SEmail;
+
+		document.frmComment.txtAddedTitle.value = Trim(document.frmComment.txtAddedTitle.value);
+		if (document.frmComment.txtAddedTitle.value == '' || document.frmComment.txtAddedTitle.value == 'Tiêu đề')
+		{
+			alert('Xin hay nhap Tieu de!');
+			document.frmComment.txtAddedTitle.focus();
+			return;
+		}
+		
+		document.frmComment.txtValidCode.value = Trim(document.frmComment.txtValidCode.value);
+		if (document.frmComment.txtValidCode.value == '' || document.frmComment.txtValidCode.value == 'Mã xác nhận')
+		{
+			alert('Xin hay nhap Ma xac nhan!');
+			document.frmComment.txtValidCode.focus();
+			return;
+		}
+
+		document.frmComment.txtAddedContent.value = Trim(document.frmComment.txtAddedContent.value);
+		if (document.frmComment.txtAddedContent.value == '')
+		{
+			alert('Xin hay nhap Noi dung!');
+			document.frmComment.txtAddedContent.focus();
+			return;
+		}
+
+		if (!confirm('Gui yeu cau?'))
+			return;
+			
+		var status = AjaxRequest.submit(
+			theform
+			,{
+				'onSuccess':function(req){
+					if(req.responseText=='ValidCode'){
+						alert('Ma xac nhan khong dung!');
+					}
+					else{
+						alert(req.responseText);
+						ResetDefault();
+					}
+				}				
+				,'onError':function(req){
+					alert(req.responseText);
+				}
+			}
+		);
+		return status;
+	}
+	
+	function ChangeImage() {			
+		var ranNum = Math.floor(Math.random() * 5);
+
+		AjaxRequest.get(
+		  {
+			'onSuccess':function(req){
+				gmobj('imgValidCode').src = "/Service/Vote/securelog/image.asp?Code=" + ranNum;						
+			}
+			,'onError':function(req){					
+			}
+		  }
+
+		)
+    }
+	
+	function InputDefault() {
+		document.frmComment.txtAddedBy.value = 'Họ tên';
+		document.frmComment.txtAddedBy.className = 'adword-textbox';
+		document.frmComment.txtAddedByEmail.value = 'Email';
+		document.frmComment.txtAddedByEmail.className = 'adword-textbox';		
+		document.frmComment.txtAddedTitle.value = 'Tiêu đề';
+		document.frmComment.txtAddedTitle.className = 'adword-textbox';
+		document.frmComment.txtValidCode.value = 'Mã xác nhận';		
+		document.frmComment.txtValidCode.className = 'adword-textbox';
+		document.frmComment.txtAddedContent.value = '';
+		document.frmComment.txtAddedContent.focus();
+	}
+	
+	function ResetDefault() {
+		InputDefault();
+		ChangeImage();
+		
+		ShowFormComment();
+				
+	}
+</script>
+
+			</div>
+			
+			<div style="margin-top:5px;margin-bottom:5px;">							
+				<script language="javascript">					
+					Poly_ShowArticlebanner();										
+				</script>				
+			</div>
+		</div>				
+		<div class="folder-news">
+	<div class="boxnew-header">
+		<div class="boxnew-title fl">Tin mới</div>
+	</div>
+	<div class="boxnew">
+		<ul>
+		<li><a href="/gl/the-gioi/2011/11/40-oto-dam-lien-hoan-trong-suong-mu/" class="link-othernews">40 ôtô đâm liên hoàn trong sương mù</a>&nbsp;<img border="0" src="/Images/photo2.gif" />
+<span style="color: #909090">&nbsp;(23/11)</span></li>
+		<li><a href="/gl/the-gioi/2011/11/libya-cong-bo-noi-cac-moi/" class="link-othernews">Libya công bố nội các mới</a><span style="color: #909090">&nbsp;(23/11)</span></li>
+		<li><a href="/gl/the-gioi/2011/11/thoat-chet-than-ky-trong-tai-nan-truc-thang/" class="link-othernews">Thoát chết thần kỳ trong tai nạn trực thăng</a>&nbsp;<img border="0" src="/Images/video2.gif" />&nbsp;
+<span style="color: #909090">&nbsp;(23/11)</span></li>
+		<li><a href="/gl/the-gioi/2011/11/nghi-si-han-xu-ly-nhau-bang-hoi-cay/" class="link-othernews">Nghị sĩ Hàn 'xử lý' nhau bằng hơi cay</a>&nbsp;<img border="0" src="/Images/video2.gif" />&nbsp;
+<span style="color: #909090">&nbsp;(23/11)</span></li>
+		<li><a href="/gl/the-gioi/2011/11/bo-qua-1-trieu-euro-de-bay-con-trai-thu-gadhafi/" class="link-othernews">Bỏ qua 1 triệu euro để 'bẫy' con trai thứ Gadhafi</a><span style="color: #909090">&nbsp;(23/11)</span></li>
+		</ul>
+	</div>
+</div>
+<div class="folder-news">
+	<div class="othernews-header">
+		<div class="othernews-title fl">C&#225;c tin kh&#225;c</div>
+		<div class="fr txtr" style="margin-bottom:5px;"><label onClick="history.go(-1)" class="Time" style="cursor:pointer">[<B>Tr&#7903; v&#7873;</B>]</label></div>
+	</div>
+	<div class="othernews">
+		<ul>
+		<li><a href="/gl/the-gioi/nguoi-viet-5-chau/2011/11/lao-dao-nghe-nail-o-my/" class="link-othernews">Lao đao nghề nail ở Mỹ</a><span style="color: #909090">&nbsp;(23/11)</span></li>
+		<li><a href="/gl/the-gioi/nguoi-viet-5-chau/2011/11/cha-con-viet-kieu-tim-duoc-nhau-sau-34-nam-bat-tin/" class="link-othernews">Cha con Việt kiều tìm được nhau sau 34 năm bặt tin</a><span style="color: #909090">&nbsp;(22/11)</span></li>
+		<li><a href="/gl/the-gioi/nguoi-viet-5-chau/2011/11/hoc-sinh-viet-thiet-mang-vi-tai-nan-tham-khoc-o-my/" class="link-othernews">Học sinh Việt thiệt mạng vì tai nạn thảm khốc ở Mỹ</a><span style="color: #909090">&nbsp;(22/11)</span></li>
+		<li><a href="/gl/the-gioi/nguoi-viet-5-chau/2011/11/kyoto-mua-thu/" class="link-othernews">Kyoto mùa thu</a>&nbsp;<img border="0" src="/Images/photo2.gif" />
+<span style="color: #909090">&nbsp;(22/11)</span></li>
+		<li><a href="/gl/the-gioi/nguoi-viet-5-chau/2011/11/du-hoc-sinh-viet-trong-ngay-sinh-vien-quoc-te-o-nga/" class="link-othernews">Du học sinh Việt trong ngày sinh viên quốc tế ở Nga</a>&nbsp;<img border="0" src="/Images/photo2.gif" />
+<span style="color: #909090">&nbsp;(22/11)</span></li>
+		<li><a href="/gl/the-gioi/nguoi-viet-5-chau/2011/11/toi-yeu-viet-kieu-cho-mai-anh-chua-cau-hon/" class="link-othernews">Tôi yêu Việt kiều, chờ mãi anh chưa cầu hôn</a><span style="color: #909090">&nbsp;(21/11)</span></li>
+		<li><a href="/gl/the-gioi/nguoi-viet-5-chau/2011/11/nhat-ban-mua-thu/" class="link-othernews">Nhật Bản mùa thu</a>&nbsp;<img border="0" src="/Images/photo2.gif" />
+<span style="color: #909090">&nbsp;(19/11)</span></li>
+		<li><a href="/gl/the-gioi/nguoi-viet-5-chau/2011/11/thu-thuy-si/" class="link-othernews">Thu Thụy Sĩ</a>&nbsp;<img border="0" src="/Images/photo2.gif" />
+<span style="color: #909090">&nbsp;(19/11)</span></li>
+		<li><a href="/gl/the-gioi/nguoi-viet-5-chau/2011/11/thich-nghi-voi-cuoc-song-o-nuoc-ngoai-the-nao/" class="link-othernews">Thích nghi với cuộc sống ở nước ngoài thế nào?</a><span style="color: #909090">&nbsp;(18/11)</span></li>
+		<li><a href="/gl/the-gioi/nguoi-viet-5-chau/2011/11/san-jose-ky-su/" class="link-othernews">San Jose ký sự</a><span style="color: #909090">&nbsp;(16/11)</span></li>
+		<li><a href="/gl/the-gioi/nguoi-viet-5-chau/2011/11/sang-canada-dinh-cu-can-chuan-bi-nhung-gi/" class="link-othernews">Sang Canada định cư cần chuẩn bị những gì?</a><span style="color: #909090">&nbsp;(16/11)</span></li>
+		<li><a href="/gl/the-gioi/nguoi-viet-5-chau/2011/11/du-hoc-sinh-viet-nam-o-my-dat-con-so-ky-luc/" class="link-othernews">Du học sinh Việt Nam ở Mỹ đạt con số kỷ lục</a><span style="color: #909090">&nbsp;(16/11)</span></li>
+		<li><a href="/gl/the-gioi/nguoi-viet-5-chau/2011/11/nhung-ngay-dau-cua-mot-nguoi-viet-o-canada/" class="link-othernews">Những ngày đầu của một người Việt ở Canada</a><span style="color: #909090">&nbsp;(14/11)</span></li>
+		<li><a href="/gl/the-gioi/nguoi-viet-5-chau/2011/11/hungary-thanh-binh/" class="link-othernews">Hungary thanh bình</a>&nbsp;<img border="0" src="/Images/photo2.gif" />
+<span style="color: #909090">&nbsp;(11/11)</span></li>
+		<li><a href="/gl/the-gioi/nguoi-viet-5-chau/2011/11/thu-lang-yen-o-duc/" class="link-othernews">Thu lặng yên ở Đức</a>&nbsp;<img border="0" src="/Images/photo2.gif" />
+<span style="color: #909090">&nbsp;(10/11)</span></li>
+		</ul>
+	</div>
+</div>
+
+		</div>
+	<div class="content-left fl">		
+	<div class="linksite-box" style="padding:0px;">
+	<img alt="Link Site" src="/Images/Linksite/site2.gif" usemap="#ctmap" class="img-linksite"/>
+	<map id="ctmap" name="ctmap">
+		<area shape="rect" coords="6,0,72,28" href="http://ngoisao.net/" target="_blank" title="ngoisao.net" />
+		<area shape="rect" coords="83,0,140,28" href="http://sohoa.vnexpress.net/" target="_blank" title="sohoa.vnexpress.net" />		
+		<area shape="rect" coords="152,0,215,28" href="http://gamethu.vnexpress.net/" target="_blank" title="gamethu.vnexpress.net" />
+		<area shape="rect" coords="223,0,296,28" href="http://vieclam.vnexpress.net/" target="_blank" title="viec lam" />
+	</map>
+</div>
+	<div class="box-item">		
+		<script type="text/javascript">
+			cpms_Ap.typ = 2;
+			cpms_Ap.ste = 1;
+			cpms_Ap.reg = 0;
+			cpms_Ap.fol = 130;
+			cpms_Ap.dof = 0;
+			cpms_Ap.wdt = 300;
+			
+			cpms_Ap.itf = 2;
+			
+			cpms_Ap.ShowAd();
+		</script>
+	</div>
+	<Script language="JavaScript">Poly_ShowLogoLeft(2)</Script>
+<TABLE cellSpacing=3 cellPadding=1 width="100%" bgColor=#8080c0 border=0>
+<TR>
+<TD class="BoxTitle" align="center"><A href="/GL/Topic/?ID=4993" class="BoxTitle">Góc ảnh của bạn đọc</A></TD></TR>
+<TR>
+<TD>
+<A href="/gl/the-gioi/nguoi-viet-5-chau/2011/11/thu-quyen-ru-o-phap/" class="Normal"><IMG border=0 width="290" height="110" src="/Files/Folder/00/82/anhbandoc1.jpg"></A></TD></TR>
+<TR>
+<TD>
+<P class=Normal align=center> <EM><FONT color=#ffffff><EM>Gửi ảnh hoặc bài viết về cuộc sống ở nước ngoài </EM><A href="http://vnexpress.net/ContactUs/?id=thegioi@vnexpress.net" class="Normal"><EM>tại đây</EM></A><EM>. </EM></P></FONT></EM></TD></TR></TABLE>
+<TABLE cellspacing=0 cellpadding=0 border=0 width="100%" bgcolor="#FFFFFF"><TR><TD height=0 class=BreakLine><FONT color="#FFFFFF">&nbsp;</FONT></TD></TR></TABLE>
+<TABLE cellSpacing=3 cellPadding=1 width="100%" bgColor=#8080c0 border=0>
+<TR>
+<TD class="BoxTitle" align="center"><A href="/GL/Topic/?ID=6338" class="BoxTitle">Chuyện tình yêu, hôn nhân</A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c0c0c0>- <A href="http://vnexpress.net/gl/the-gioi/nguoi-viet-5-chau/2011/04/co-nen-sang-sydney-song-voi-moi-tinh-dau/" class="BoxLink">Có nên sang Sydney sống với mối tình đầu?</A> </TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c0c0c0>- <A href="http://vnexpress.net/gl/the-gioi/nguoi-viet-5-chau/2011/04/me-con-toi-phai-lam-gi-de-ton-tai-o-my/" class="BoxLink">Mẹ con tôi phải làm gì để tồn tại ở Mỹ?</A> </TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c0c0c0>- <A href="http://vnexpress.net/gl/the-gioi/nguoi-viet-5-chau/2011/04/ban-khoan-khi-theo-chong-sang-ha-lan/" class="BoxLink">Băn khoăn khi theo chồng sang Hà Lan</A>  </TD></TR></TABLE>
+<TABLE cellspacing=0 cellpadding=0 border=0 width="100%" bgcolor="#FFFFFF"><TR><TD height=0 class=BreakLine><FONT color="#FFFFFF">&nbsp;</FONT></TD></TR></TABLE>
+<TABLE cellSpacing=3 cellPadding=1 width="100%" bgColor=#8080c0 border=0>
+<TR>
+<TD class="BoxTitle" align="center"><A href="/GL/Topic/?ID=6342" class="BoxTitle">Kinh nghiệm sống/hòa nhập ở nước ngoài</A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c0c0c0>- <A href="/gl/the-gioi/nguoi-viet-5-chau/2011/11/nhung-ngay-dau-cua-mot-nguoi-viet-o-canada/" class="BoxLink">Những ngày đầu của một người Việt ở Canada</A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c0c0c0>- <A href="http://vnexpress.net/gl/the-gioi/nguoi-viet-5-chau/2011/04/cuoc-song-o-nuoc-ngoai-bat-dau-nhu-the-nao/" class="BoxLink">Cuộc sống ở nước ngoài bắt đầu như thế nào?</A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c0c0c0>- <A href="http://vnexpress.net/gl/the-gioi/nguoi-viet-5-chau/2011/03/viet-kieu-ban-cach-lam-giau-nho-dia-oc/" class="BoxLink">Việt kiều bàn cách làm giàu nhờ địa ốc</A>  </TD></TR></TABLE>
+<TABLE cellspacing=0 cellpadding=0 border=0 width="100%" bgcolor="#FFFFFF"><TR><TD height=0 class=BreakLine><FONT color="#FFFFFF">&nbsp;</FONT></TD></TR></TABLE>
+<TABLE cellSpacing=3 cellPadding=1 width="100%" bgColor=#8080c0 border=0>
+<TR>
+<TD class="BoxTitle" align="center"><A href="/GL/Topic/?ID=6341" class="BoxTitle">Tư vấn cho Việt kiều về nước</A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c0c0c0>- <A href="http://vnexpress.net/gl/the-gioi/nguoi-viet-5-chau/2011/04/hoi-huong-co-duoc-nhan-tien-tro-cap/" class="BoxLink">Hồi hương có được nhận tiền trợ cấp?</A> </TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c0c0c0>- <A href="http://vnexpress.net/gl/the-gioi/nguoi-viet-5-chau/2011/03/ve-viet-nam-lay-lai-ngan-hang/" class="BoxLink">Về Việt Nam lấy lãi ngân hàng</A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c0c0c0>- <A href="http://vnexpress.net/gl/the-gioi/nguoi-viet-5-chau/2011/03/ve-huu-o-viet-nam-hay-my/" class="BoxLink">Về hưu ở Việt Nam hay Mỹ?</A></TD></TR></TABLE>
+<TABLE cellspacing=0 cellpadding=0 border=0 width="100%" bgcolor="#FFFFFF"><TR><TD height=0 class=BreakLine><FONT color="#FFFFFF">&nbsp;</FONT></TD></TR></TABLE>
+<TABLE cellSpacing=3 cellPadding=1 width="100%" bgColor=#8080c0 border=0>
+<TR>
+<TD class="BoxTitle" align="center"><A href="/GL/Topic/?ID=6339" class="BoxTitle">Du học, học nghề ở nước ngoài</A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c0c0c0>- <A href="http://vnexpress.net/gl/the-gioi/nguoi-viet-5-chau/2011/04/nen-chon-nganh-thiet-ke-gi-o-australia/" class="BoxLink">Nên chọn ngành thiết kế gì ở Australia?</A> </TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c0c0c0>- <A href="http://vnexpress.net/gl/the-gioi/nguoi-viet-5-chau/2011/04/muon-sang-my-nhung-tieng-anh-rat-te/" class="BoxLink">Muốn sang Mỹ nhưng tiếng Anh rất tệ</A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c0c0c0>- <A href="http://vnexpress.net/gl/the-gioi/nguoi-viet-5-chau/2011/04/hanh-nghe-ky-su-dien-o-australia/" class="BoxLink">Hành nghề kỹ sư điện ở Australia</A> </TD></TR></TABLE>
+<TABLE cellspacing=0 cellpadding=0 border=0 width="100%" bgcolor="#FFFFFF"><TR><TD height=0 class=BreakLine><FONT color="#FFFFFF">&nbsp;</FONT></TD></TR></TABLE>
+<TABLE cellSpacing=3 cellPadding=1 width="100%" bgColor=#8080c0 border=0>
+<TR>
+<TD class="BoxTitle" align="center"><A href="/GL/Topic/?ID=6340" class="BoxTitle">Tư vấn về visa, định cư ở nước ngoài</A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c0c0c0>- <A href="http://vnexpress.net/gl/the-gioi/nguoi-viet-5-chau/2011/04/hoi-ve-thu-tuc-nhap-cu-my/" class="BoxLink">Hỏi về thủ tục nhập cư Mỹ</A>  </TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c0c0c0>- <A href="http://vnexpress.net/gl/the-gioi/nguoi-viet-5-chau/2011/04/co-duoc-sang-my-khi-chong-ve-huu/" class="BoxLink">Có được sang Mỹ khi chồng về hưu?</A> </TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c0c0c0>- <A href="http://vnexpress.net/gl/the-gioi/nguoi-viet-5-chau/2011/04/hoi-ve-bao-lanh-hon-nhan-sang-canada/" class="BoxLink">Hỏi về bảo lãnh hôn nhân sang Canada</A></TD></TR></TABLE>
+<TABLE cellspacing=0 cellpadding=0 border=0 width="100%" bgcolor="#FFFFFF"><TR><TD height=0 class=BreakLine><FONT color="#FFFFFF">&nbsp;</FONT></TD></TR></TABLE><div class="box-item">
+	<style type="text/css">
+		.headerR{ background: url(/images/CareerLink/Hot/headerR.gif) top left;height:19px;width:4px;float:left;}
+		.boderTB{ background: url(/images/CareerLink/Hot/boderTB.gif) repeat-x top left; width:292px;float:left;height:19px;}
+		.boderTB h2{color:#FFFFFF;font-size:12px;font-weight:bold;margin:0px;padding-left:5px;padding-top:2px;}
+		.boderTB a{text-decoration:none; color:#FFFFFF}
+		.headerL{ background: url(/images/CareerLink/Hot/headerL.gif) top left;height:19px;width:4px;float:left;}
+
+		.BoderR{ background: url(/images/CareerLink/Hot/BoderR.gif) repeat-y top left;width:4px;float:left;}
+		.BoderLR{ width:292px;float:left;margin-right:4px;margin-left:4px;}
+		.BoderL{ background: url(/images/CareerLink/Hot/BoderL.gif) repeat-y top right;float:left;}
+		.BoderLR span{font-size:12px;font-weight:bold; padding:0px 8px 0px 8px;}
+		.BoderLR span a{text-decoration: none;color:#ec6720;}
+
+		.FooterR{ background: url(/images/CareerLink/Hot/footerR.gif) no-repeat bottom left;height:5px;width:4px;float:left;}
+		.FooterBT{ background: url(/images/CareerLink/Hot/footerBT.gif) repeat-x bottom left; width:292px;float:left;height:5px;}
+		.FooterL{ background: url(/images/CareerLink/Hot/footerL.gif) no-repeat bottom left;height:5px;width:4px;float:left;}
+
+		.FooterA{ background: url(/images/CareerLink/Hot/footerA.gif.gif)  no-repeat bottom left; width:292px;float:left;height:5px;}
+
+		.boderLR_Content{margin:4px;padding:10px;}
+		.boderLR_Content_Logo{background: url(/images/CareerLink/Hot/Logo_work.gif) bottom left no-repeat;height:22px;padding:5px 0px 5px 0px; }		
+		.space_footer{padding:2px 0px 2px 0px;}
+	</style>
+	<div style="width:300px; float: left;background: url(/images/CareerLink/Hot/footerA.gif) no-repeat bottom left;">
+		<div>
+			<div class="headerR"></div>
+			<div class="boderTB">
+				<h2><a target="_blank" href="http://www.careerlink.vn">Việc làm hấp dẫn</a></h2>
+			</div>
+			<div class="headerL"></div>		
+		</div>
+		<div style="width:300px; float: left;margin-bottom:3px;">
+			<div class="BoderR">
+				<div class="BoderL">
+					<div class="BoderLR">
+						<table style="width:292px;">
+							<tr>
+	<td valign="top" style="padding-right: 3px;"><img style="padding-top:2px" src="/images/CareerLink/Hot/iconNext.gif"></td>
+	<td>
+		<a style="text-decoration:none; color:#545454; font-weight:bold; font-family: Arial; font-size:8.5pt" target="_blank" href="http://www.careerlink.vn/tim-viec-lam/ky-su-co-khi/139738/">Kỹ Sư Cơ Khí</a>
+		<span style="color:#ec6720; font-weight:normal; font-family: Arial; font-size:8.5pt">
+		<i><a target="_blank" href="http://www.careerlink.vn/viec-lam-cua/cty-nippon-steel-pipe-vn-npv-/8238/">CTy Nippon Steel Pipe VN (NPV)</a></i></span>
+	</td>
+</tr><tr>
+	<td valign="top" style="padding-right: 3px;"><img style="padding-top:2px" src="/images/CareerLink/Hot/iconNext.gif"></td>
+	<td>
+		<a style="text-decoration:none; color:#545454; font-weight:bold; font-family: Arial; font-size:8.5pt" target="_blank" href="http://www.careerlink.vn/tim-viec-lam/nv-kinh-doanh-quang-cao/139207/">NV Kinh Doanh Quảng Cáo</a>
+		<span style="color:#ec6720; font-weight:normal; font-family: Arial; font-size:8.5pt">
+		<i><a target="_blank" href="http://www.careerlink.vn/viec-lam-cua/cong-ty-co-phan-truyen-thong-tvshopping/41593/">CTy CP TT TVShopping</a></i></span>
+	</td>
+</tr><tr>
+	<td valign="top" style="padding-right: 3px;"><img style="padding-top:2px" src="/images/CareerLink/Hot/iconNext.gif"></td>
+	<td>
+		<a style="text-decoration:none; color:#545454; font-weight:bold; font-family: Arial; font-size:8.5pt" target="_blank" href="http://www.careerlink.vn/tim-viec-lam/nv-duoc-hoa-trang-theo-kieu-halloween/137162/">NV Được Hoá Trang Theo Kiểu Halloween</a>
+		<span style="color:#ec6720; font-weight:normal; font-family: Arial; font-size:8.5pt">
+		<i><a target="_blank" href="http://www.careerlink.vn/viec-lam-cua/cong-ty-co-phan-dau-tu-hiep-hung-phat/15426/">CTy Giải Trí Universe Entertainment</a></i></span>
+	</td>
+</tr>					
+						</table>	
+						<a href="http://www.careerlink.vn/" target="_blank"><img height="22px" border="0px" style="padding:5px 0px 5px 0px;" alt="viec lam & tuyen dung nhan su" title="viec lam & tuyen dung nhan su" src="/images/CareerLink/Hot/Logo_work.gif" /></a>
+						<div class="space_footer"></div>
+					</div>	
+				</div>
+			</div>
+		</div>
+	</div>
+</div><div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(146);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="box-middle1 list-item1 fl" id="ListItem146">
+		<script type="text/javascript" language="javascript">showlistitem(1, 146, 6);</script>
+	</div>	<div class="fl">
+		<div class="fl"><img src="/Images/Background/box-bottomleft1.gif" alt="" /></div>
+		<div class="box-bottomcenter1 fl">&nbsp;</div>
+		<div class="fl"><img src="/Images/Background/box-bottomright1.gif" alt="" /></div>
+	</div>
+</div>
+<div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(108);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="box-middle1 list-item1 fl" id="ListItem108">
+		<script type="text/javascript" language="javascript">showlistitem(1, 108, 6);</script>
+	</div>	<div class="fl">
+		<div class="fl"><img src="/Images/Background/box-bottomleft1.gif" alt="" /></div>
+		<div class="box-bottomcenter1 fl">&nbsp;</div>
+		<div class="fl"><img src="/Images/Background/box-bottomright1.gif" alt="" /></div>
+	</div>
+</div>
+<div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(118);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="fl" id="ListItem118">
+		<script type="text/javascript" language="javascript">showlistitem(5, 118, 10);</script>
+	</div>
+	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+<div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(2);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="box-middle1 list-item1 fl" id="ListItem2">
+		<script type="text/javascript" language="javascript">showlistitem(1, 2, 4);</script>
+	</div>	<div class="fl">
+		<div class="fl"><img src="/Images/Background/box-bottomleft1.gif" alt="" /></div>
+		<div class="box-bottomcenter1 fl">&nbsp;</div>
+		<div class="fl"><img src="/Images/Background/box-bottomright1.gif" alt="" /></div>
+	</div>
+</div>
+<div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(145);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="fl" id="ListItem145">
+		<script type="text/javascript" language="javascript">showlistitem(5, 145, 10);</script>
+	</div>
+	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+
+	</div>
+	
+	<div class="content-right fl">		
+		<div class="adv-header">
+			<div class="adv-title fl">				
+				<a href="http://www.fptad.com/lienhe.aspx" target="_blank"><img style="border:0" src="/Images/Background/adv-title.gif" alt="Lien he quang cao" /></a>				
+			</div>
+		</div>
+		<div id="adgroup"  style="display:none;clear:both;"></div>
+	<Script type="text/javascript" language="JavaScript">Poly_ShowAdScrollBanner(2);</Script>
+				</div>
+				
+			</div>
+			
+			<div id="footer">
+				
+				<script type="text/javascript">Poly_ShowFooterBanner();</script>										
+				
+                <div class="fmenu-top">
+                    <div class="fl icone-footer"></div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-home" rel="nofollow" onclick="javascript:setAsHomePage(this)"><span></span>Đặt làm trang chủ</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ct" rel="nofollow" class="link-contact" href="/ContactUs/?id=thegioi@vnexpress.net"><span></span>Liên hệ tòa soạn</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ads" rel="nofollow" class="link-contact" href="http://ads.fpt.net/lienhe.aspx" target="_blank"><span></span>Liên hệ quảng cáo</a>
+                    </div>					
+                    <div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">						
+						
+                        <span class="lnkf-hl">Đường dây nóng: 0123.888.0123 (HN) - 0129.233.3555 (TP HCM)<span></span></span>
+						
+                    </div>
+					<div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">
+						 <a rel="nofollow" class="link-contact" href="http://fptad.com/qc/v/vnexpress/2011/phongvienthethao/" target="_blank"><img class="img-search" src="/Images/person.gif" alt="" style="vertical-align:top;" /> VnExpress tuyển dụng </a>
+					</div>					
+                </div>
+                <div class="fmenu-bottom">	
+					<a href="/" class="link-footermenu">Trang chủ</a><i class="sepaf"></i>
+					<a href="/gl/xa-hoi/" class="link-footermenu">Xã hội</a><i class="sepaf"></i>
+					<a href="/gl/the-gioi/" class="link-footermenu">Thế giới</a><i class="sepaf"></i>
+					<a href="/gl/kinh-doanh/" class="link-footermenu">Kinh doanh</a><i class="sepaf"></i>
+					<a href="/gl/van-hoa/" class="link-footermenu">Văn hóa</a><i class="sepaf"></i>
+					<a href="/gl/the-thao/" class="link-footermenu">Thể thao</a><i class="sepaf"></i>
+					<a href="/gl/phap-luat/" class="link-footermenu">Pháp luật</a><i class="sepaf"></i>
+					<a href="/gl/doi-song/" class="link-footermenu">Ðời sống</a><i class="sepaf"></i>
+					<a href="/gl/khoa-hoc/" class="link-footermenu">Khoa học</a><i class="sepaf"></i>
+					<a href="/gl/vi-tinh/" class="link-footermenu">Vi tính</a><i class="sepaf"></i>
+					<a href="/gl/oto-xe-may/" class="link-footermenu">Ôtô - Xe máy</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/" class="link-footermenu">Bạn đọc viết</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/tam-su/" class="link-footermenu">Tâm sự</a><i class="sepaf"></i>
+					<a href="/user/rao-vat/" class="link-footermenu">Rao vặt</a><i class="sepaf"></i>
+					<a href="/gl/cuoi/" class="link-footermenu">Cuời</a>
+					
+                    <script type="text/javascript" language="javascript">
+						//writeFooterMenu();
+						Poly_ShowFixFloatBanner(0);Poly_ShowFixFloatBanner(2);Poly_ShowFixFloatBanner(1);Poly_ShowFixFloatBanner(3);
+						Poly_ShowSlideBanner();Poly_ShowBallonBanner();						
+					</script>
+					
+                    <script type="text/javascript" language="javascript">Poly_ShowPopupUnder();</script>
+					
+                </div>
+                <div class="copyright">
+                    <p><label style="font:bold 11px arial; color:#686E7A;">&#169;&nbsp;Copyright 1997-2011 VnExpress.net</label>, <label style="font:normal 11px arial; color:#686E7A;">All rights reserved <a rel="nofollow" href="/ContactUs/?id=webmaster@vnexpress.net">Contact us</a> - <label onClick="ContactUs()" style="text-decoration:underline;cursor:pointer">Th&#244;ng tin T&#242;a so&#7841;n</label></label</p>
+<p><label style="font:normal 11px arial; color:#686E7A;">&#174;&nbsp;VnExpress gi&#7919; b&#7843;n quy&#7873;n n&#7897;i dung tr&#234;n website n&#224;y.</lable></p>
+
+                </div>
+            </div>
+			</div>
+		</div>		
+		</div>		
+		<script type="text/javascript">
+		<!--//<![CDATA[
+			cpms_Ap.init();
+			cpms_Ap.typ = 1;
+			cpms_Ap.dof = 0;
+			cpms_Ap.ste = 1;
+			cpms_Ap.reg = 0;
+			cpms_Ap.fol = 130;
+			cpms_Ap.pos = 38;
+			cpms_Ap.url = encodeURIComponent(document.location.href);
+			cpms_Ap.show();
+		//]]>-->
+		</script>
+		  	
+		<div style="float:left;">
+			<script type="text/javascript" language="javasript">
+				var strHr = location.href;				
+				if(strHr.substr(0,21)=='http://vnexpress.net/' || strHr.substr(0,27)=='http://ebank.vnexpress.net/' || strHr.substr(0,28)=='http://nhadep.vnexpress.net/'){
+					document.write('<img src="http://180.148.142.10/website/vnexpress/Res.asp?vid=5EB7A84F-69CE-47EA-9B37-ED4D9C3408A1&ovt=0&vsd=0&pfd=130&pid=1002162479&ref=&iTime=11/24/2011 2:05:51 AM" border=0>');
+					
+				}
+			</script>
+		</div>
+		<script type="text/javascript">
+	var SERVER_ID = 3;
+</script>
+		<!--<script type="text/javascript" language="javascript" src="/Library/Common/rss.js"></script>-->
+		<script type="text/javascript" src="http://180.148.142.152/Library/VNELibraryNew.js"></script>
+
+<script type="text/javascript" src="http://180.148.142.152/Library/AdsNov.js"></script>
+		
+<script src="http://180.148.142.152/Vals/1/0/130/Val.js" type="text/javascript"></script>	
+		
+<script type="text/javascript" language="javaScript">checkCookie();</script>
+
+<script type="text/javascript" language="javaScript" src="http://180.148.142.153/script/libMobile.js"></script>     
+
+
+<script type="text/javascript">      
+    Poly_ShowAds();
+</script>
+	
+	</body>			
+</html>

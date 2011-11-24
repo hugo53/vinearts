@@ -1,0 +1,848 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />		
+		
+		<meta name="robots" content="INDEX,FOLLOW" />
+			
+		<meta name="description" content="Để phòng trị viêm xoang, viêm mũi dị ứng, hai phó giáo sư, tiến sĩ Nguyễn Thị Ngọc Dinh và Lê Lương Đống khuyên ngoài điều trị bằng thuốc Đông, Tây y, người bệnh nên kiêng cữ thức ăn gây dị ứng, tránh lạnh ẩm kéo dài..." />
+			
+		<title>'Viêm xoang - mũi, trị đúng nguyên nhân mới khỏi bệnh' - VnExpress</title>
+			
+		<meta name="keywords" content="trực tuyến,VnExpress,viêm mũi dị ứng" />	
+		
+		<meta http-equiv="REFRESH" content="3600" />
+		
+		<link rel="stylesheet" href="/Resource/Common/default.css" type="text/css" />	
+		<link href="http://180.148.142.152/Library/AdsNov.css" rel="Stylesheet" style="text/css"> 		
+		
+		<link rel="alternate" type="application/rss+xml" title="VnExpress - RSS" href="/RSS/GL/trang-chu.rss" />
+			
+		
+		<script type="text/javascript" language="javascript" src="/Library/Common/Library.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/Vne.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/FlashMedia.js"></script>						
+        <script type="text/javascript" language="javascript" src="/Library/Common/AjaxRequest.js"></script>
+		<script type="text/javascript" language="javascript" src="/Library/Common/vietUni.js"></script>
+		<script type="text/javascript" language="javascript" src="/Resource/00/ArrMenu.js"></script>        				
+		<script type="text/javascript" language="javaScript">
+			var PAGE_SITE=0;
+			var PAGE_FOLDER=78;	
+			var PAGE_ID=1002161649;	
+			var DOMESTIC_IP=1;	
+			setTypingMode(1);
+				
+			sLoDID=sLoDID.concat('1002161649').concat(',');
+			
+		</script>
+		<script type="text/javascript" language="javascript" src="/Resource/Common/Menu.js"></script>
+		
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-249346-1']);
+		_gaq.push(['_trackPageview']);
+		
+		_gaq.push(['b._setAccount', 'UA-249346-21']);
+		_gaq.push(['b._trackPageview']);
+		
+		_gaq.push(['c._setAccount', 'UA-249346-22']);
+		_gaq.push(['c._trackPageview']);
+		
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	
+		<script src="/Library/Common/jquery-1.6.3.min.js"></script>		
+		
+<script type="text/javascript" src="/library/Common/VNEShowAds.js"></script>
+<script src="/library/common/rs.js" type="text/javascript"></script>
+
+	</head>
+	<body>	
+		
+				
+		<input type="hidden" id="CurrentBrowserWidth" value="" />
+		<input type="hidden" id="ShowBackground" value="1" />
+		<div id="divSlideResultLeft" style="background-repeat:no-repeat;background-position:right top;over-flow:hidden;cursor:pointer;text-align:right;padding:0px;position: fixed!important;position: absolute; /*ie6 and above*/;left: 0px; top: 0px;overflow:hidden;"></div>
+		<div id="divSlideResultRight" style="background-repeat:no-repeat;over-flow:hidden;cursor:pointer;text-align:left;padding:0px;position: fixed!important; position: absolute; /*ie6 and above*/;right: 0px; top: 0px;overflow:hidden;"></div>				
+		
+		<div id="outter">		
+		<div id="divMove" style="width:1000px;">
+		<div class="fpr2">
+			<div id="header">
+				<div id="logoEH" class="logo fl" >
+					
+					<a onfocus="this.blur()" hidefocus="" href="/"><img class="img-logo" src="/Images/blank.gif" alt="" /></a>
+					
+				</div>
+				<div id="topbannerEH" class="topbanner fr">
+					
+					<table border="0" cellpadding="0" cellspacing="0" style="width:100%;">
+						<tr>
+							<td style="vertical-align:middle">
+																
+									<script type="text/javascript" language="javascript">
+										Poly_ShowTopBanner();
+									</script>								
+								
+							</td>                           
+						</tr>
+					</table>				
+					
+				</div>
+			</div>			
+		</div>				
+		<div id="menu">
+	<div class="searchmenu">
+		<div class="fl icone"></div>
+		<div class="drss fl"><a href="/GL/RSS/" class="link-rss lnkrss">RSS<span></span></a></div>
+		<div id="mn-search" class="search fr">
+			<form onsubmit="return CheckValue(document.Search.s);" action="http://search.vnexpress.net/news" id="Search" name="Search">
+				<span class="fl borright"></span>
+				<input type="text" value="Từ khóa tìm kiếm" onfocus="SearchOnFocus(this)" onkeydown="" onkeyup="initTyper(this)" onblur="SearchOnBlur(this)" id="s" name="s" class="txtsearch fl">
+				<img onclick="return CheckValue(document.Search.s);" alt="" src="/images/blank.gif" class="img-search fl">
+				<input type="hidden" value="66FD8EC7-FA76-4A7C-8FE3-DB605B4C9CE0" name="g">
+				<input type="hidden" value="yes" name="butS">
+			</form>
+		</div>
+	</div>
+	<!--[if lte IE 6]><a id="lnkIE6" href="#"><table cellpadding=0 cellspacing=0 style="border: 0; margin: 0; padding: 0; width: 1000px; height: 25px;"><tr><td><![endif]-->
+	<div class="menu">
+		<ul>
+			<li><div class="fl mn-borleft"></div></li>
+			
+			<li>
+				<a href="/"><span class="pmenuL"></span><span class="pmenuM">Trang nhất</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<!--<ul style="padding: 0px; height: 16px">
+					<div class="fl icone"></div>
+					<div class="drss fl"><a href="/GL/RSS/" class="link-rss">RSS <span></span></a></div>
+				</ul>-->
+				<ul class="smenu-home">	
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+					<li class="lnknews24h"><a href="/gl/24h-qua/"></a></li>
+					<li class="ico-ct-wrap">
+						<span class="fl ico-ct"></span>
+						<p class="fl phonect"><span>0123.888.0123</span> (HN) - <span>0129.233.3555</span> (TP.HCM)</p>
+					</li>				
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/video/"><span class="pmenuL"></span><span class="pmenuM">Video</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">													
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/xa-hoi/"><span class="pmenuL"></span><span class="pmenuM">Xã hội</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li><a href="/gl/xa-hoi/giao-duc/">Giáo dục</a></li>
+					<li><a href="/gl/xa-hoi/nhip-dieu-tre/">Nhịp điệu trẻ</a></li>
+					<li><a href="/gl/xa-hoi/du-lich/">Du lịch</a></li>
+					<li><a href="/gl/xa-hoi/co-hoi-du-hoc/">Du học</a></li>												
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/the-gioi/"><span class="pmenuL"></span><span class="pmenuM">Thế giới</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->				
+				<ul class="smenu-other">					
+					<li><a href="/gl/the-gioi/cuoc-song-do-day/">Cuộc sống đó đây</a></li>
+					<li><a href="/gl/the-gioi/anh/">Ảnh</a></li>
+					<li><a href="/gl/the-gioi/nguoi-viet-5-chau/">Người Việt 5 châu</a></li>
+					<li><a href="/gl/the-gioi/phan-tich/">Phân tích</a></li>
+					<li><a href="/gl/the-gioi/tu-lieu/">Tư liệu</a></li>								
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/kinh-doanh/"><span class="pmenuL"></span><span class="pmenuM">Kinh doanh</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->					
+				<ul class="smenu-other">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/gl/ebank/">Ebank</a></li>
+					<li><a href="/gl/kinh-doanh/chung-khoan/">Chứng khoán</a></li>
+					<li><a href="/gl/kinh-doanh/bat-dong-san/">Bất động sản</a></li>
+					<li><a target="_blank" href="http://nhadep.vnexpress.net/gl/nha-dep/">Nhà đẹp</a></li>
+					<li><a href="/gl/kinh-doanh/kinh-nghiem/">Doanh nhân</a></li>
+					<li><a href="/gl/kinh-doanh/quoc-te/">Quốc tế</a></li>
+					<li><a href="/gl/doi-song/mua-sam/">Mua sắm</a></li>
+					<li><a href="/gl/kinh-doanh/doanh-nghiep-viet/">Doanh nghiệp viết</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/van-hoa/"><span class="pmenuL"></span><span class="pmenuM">Văn hóa</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">					
+					<li><a href="/gl/van-hoa/hoa-hau/">Hoa hậu</a></li>
+					<li><a href="/gl/van-hoa/guong-mat-nghe-sy/">Nghệ sỹ</a></li>
+					<li><a href="/gl/van-hoa/am-nhac/">Âm nhạc</a></li>
+					<li><a href="/gl/van-hoa/thoi-trang/">Thời trang</a></li>
+					<li><a href="/gl/van-hoa/san-khau-dien-anh/">Điện ảnh</a></li>
+					<li><a href="/gl/van-hoa/my-thuat/">Mỹ thuật</a></li>
+					<li><a target="_blank" href="http://evan.vnexpress.net/">Văn học</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/the-thao/"><span class="pmenuL"></span><span class="pmenuM">Thể thao</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smsport"><a href="/gl/the-thao/bong-da/">Bóng đá</a></li>
+					<li><a href="/gl/the-thao/tennis/">Tennis</a></li>
+					<li><a href="/gl/the-thao/chan-dung/">Chân dung</a></li>
+					<li><a href="/gl/the-thao/anh-video/">Ảnh - Video</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="http://seagames.vnexpress.net/" target="_blank"><span class="pmenuL"></span><span class="pmenuM">SEA Games 26</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li class="smseagames26"><a href="http://seagames.vnexpress.net/tin/lich-dau/" target="_blank">Lịch đấu</a></li>
+					<li><a href="http://seagames.vnexpress.net/tin/xep-hang/" target="_blank">Bảng xếp hạng</a></li>					
+					<li><a href="http://seagames.vnexpress.net/tin/bong-da/" target="_blank">Bóng đá</a></li>					
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/phap-luat/"><span class="pmenuL"></span><span class="pmenuM">Pháp luật</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smlaw"><a href="/gl/phap-luat/hinh-su/">Hình sự</a></li>
+					<li><a href="/gl/phap-luat/ky-su/">Ký sự</a></li>
+					<li><a href="/gl/phap-luat/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li class="active"><a href="/gl/doi-song/"><span class="pmenuL"></span><span class="pmenuM">Đời sống</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+			
+				<ul class="smenu-other">										
+					<li class="smlife"><a href="/gl/doi-song/cau-chuyen-cuoc-song/">Câu chuyện cuộc sống</a></li>
+					<li><a href="/gl/doi-song/gia-dinh/">Gia đình</a></li>
+					<li><a href="/gl/suc-khoe/">Sức khỏe</a></li>
+					<li><a href="/gl/doi-song/am-thuc/">Ẩm thực</a></li>
+					<li><a href="/gl/suc-khoe/lam-dep/">Làm đẹp</a></li>
+					<li><a href="/gl/doi-song/blog/">Cửa sổ Blog</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/khoa-hoc/"><span class="pmenuL"></span><span class="pmenuM">Khoa học</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smscience"><a href="/gl/khoa-hoc/moi-truong/">Môi trường</a></li>
+					<li><a href="/gl/khoa-hoc/thien-nhien/">Thiên nhiên</a></li>
+					<li><a href="/gl/khoa-hoc/anh/">Ảnh</a></li>
+					<li><a href="/gl/khoa-hoc/ky-thuat-moi/">Công nghệ mới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/vi-tinh/"><span class="pmenuL"></span><span class="pmenuM">Vi tính</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smmicrocalculate"><a href="/gl/vi-tinh/san-pham-moi/">Sản phẩm mới</a></li>
+					<li><a href="/gl/vi-tinh/kinh-nghiem/">Kinh nghiệm</a></li>
+					<li><a href="/gl/vi-tinh/giai-tri/">Giải trí</a></li>
+					<li><a href="/gl/vi-tinh/hoi-dap/">Hỏi đáp</a></li>
+					<li><a href="/gl/vi-tinh/hacker-virus/">Hacker &amp; Virus</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/oto-xe-may/"><span class="pmenuL"></span><span class="pmenuM">Ôtô - Xe máy</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">					
+					<li class="smcar"><a href="/gl/oto-xe-may/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/ban-doc-viet/"><span class="pmenuL"></span><span class="pmenuM">Bạn đọc</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-bdv">					
+					<li><a href="/gl/ban-doc-viet/khoa-hoc/">Khoa học</a></li>						
+					<li><a href="/gl/ban-doc-viet/doi-song/">Đời sống</a></li>
+					<li><a href="/gl/ban-doc-viet/phap-luat/">Pháp luật</a></li>
+					<li><a href="/gl/ban-doc-viet/xa-hoi/">Xã hội</a></li>
+					<li><a href="/gl/ban-doc-viet/kinh-doanh/">Kinh doanh</a></li>
+					<li><a href="/gl/ban-doc-viet/the-thao/">Thể thao</a></li>
+					<li><a href="/gl/ban-doc-viet/van-hoa/">Văn hoá</a></li>
+					<li><a href="/gl/ban-doc-viet/the-gioi/">Thế giới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/ban-doc-viet/tam-su/"><span class="pmenuL"></span><span class="pmenuM">Tâm sự</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other"></ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/rao-vat/"><span class="pmenuL"></span><span class="pmenuM">Rao vặt</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-raovat">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/cuoi/"><span class="pmenuL"></span><span class="pmenuM">Cười</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-bdv">
+					<li><a href="/gl/cuoi/video/">Video</a></li>
+					<li><a href="/gl/cuoi/tieu-pham/">Tiểu phẩm</a></li>						
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+		</ul>
+	</div><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</div>
+
+		<div id="content">			
+			
+			<div class="content-center fl">			
+			<div class="folder-header">
+	<script type="text/javascript" language="javascript">writeFolderTitle(PAGE_FOLDER);</script>
+	<div class="fr">Th&#7913; n&#259;m, 17/11/2011, 09:33 GMT+7</div>
+</div>
+<div class="email-print txtr">
+	<script>
+	writeSociable('http://vnexpress.net/gl/suc-khoe/2011/11/viem-xoang-mui-tri-dung-nguyen-nhan-moi-khoi-benh/','Viêm+xoang+-+mũi,+trị+đúng+nguyên+nhân+mới+khỏi+bệnh','Viêm+xoang+-+mũi,+trị+đúng+nguyên+nhân+mới+khỏi+bệnh','sociable',1002161649);
+	</script>
+<font onClick="return EmailSubject(1002161649)"><img border="0" src="/Images/email.gif" align="bottom">&nbsp;E-mail</font>
+&nbsp;&nbsp;&nbsp;<font onClick="return PrintSubject()"><img border="0" src="/Images/print.gif" align="bottom">&nbsp;B&#7843;n In</font>
+</div>
+
+				<div class="content">
+					<div style="overflow:hidden" cpms_content="true">
+				<H1 class=Title>'Viêm xoang - mũi, trị đúng nguyên nhân mới khỏi bệnh'</H1>
+<H2 class=Lead>Để phòng trị viêm xoang, viêm mũi dị ứng, hai phó giáo sư, tiến sĩ Nguyễn Thị Ngọc Dinh và Lê Lương Đống khuyên ngoài điều trị bằng thuốc Đông, Tây y, người bệnh nên kiêng cữ thức ăn gây dị ứng, tránh lạnh ẩm kéo dài...</H2>
+<P class=Normal>Gần 4.000 câu hỏi đã được độc giả <EM>VnExpress.net</EM> gửi đến hai bác sĩ trong buổi tư vấn trực tuyến về viêm xoang, viêm mũi dị ứng sáng 17/11. Để phòng bệnh, các bác sĩ khuyên nên có lối sống lành mạnh, chế độ ăn uống khoa học và tập thể dục thường xuyên, đúng cách. Phải biết rõ nguyên nhân bệnh mới điều trị được dứt điểm. </P>
+<P class=Normal><EM>- Xin bác sĩ cho biết cách phòng ngừa và điều trị bệnh viêm mũi dị ứng. Có nên dùng thuốc chống dị ứng khi hắt hơi nhiều hay không. Hiện tại, tôi đang dùng thuốc chống dị ứng hiệu TELFAST 180mg nhưng không biết sau khi sử dụng thuốc có bị phản ứng phụ gì không? (Nguyễn Văn Hưng, 42 tuổi, TP HCM)</EM></P>
+<P class=Normal><STRONG>- Phó giáo sư, tiến sĩ Nguyễn Thị Ngọc Dinh:</STRONG> Để phòng ngừa và điều trị viêm mũi dị ứng chủ yếu phải tránh các nguyên nhân gây ra như: bụi nhà, phấn hoa, lông vũ (các vật nuôi trong nhà như chó, mèo, chim...). Khi dùng thuốc dị ứng, thường được dùng trước khi cơn dị ứng xảy ra. Thuốc Telfast là thuốc chống dị ứng hiệu quả, thường không gây phản ứng phụ, tuy nhiên, chỉ nên sử dụng ở trẻ em trên 12 tuổi và không dùng cho phụ nữ có thai.</P>
+<P class=Normal><EM>- Tôi mắc chứng viêm mũi dị ứng đã rất nhiều năm. Quanh năm ngày tháng tôi đều bị nghẹt mũi, hắt hơi, sổ mũi, ngứa mũi. Vậy tôi xin hỏi có cách nào chữa khỏi được bệnh đó không ạ? (Đỗ Thị Mai, 30 tuổi, HN)</EM></P>
+<P class=Normal><STRONG>- Phó giáo sư, tiến sĩ Lê Lương Đống:</STRONG> Bệnh viêm xoang là bệnh mạn tính hay gọi là cơ địa dị ứng nhiễm trùng. Do đó, bệnh này không thể chữa tức thời mà phải điều trị lâu dài. Hai cách chữa là trong đợt cấp tính có thể kết hợp y học hiện đại như dùng kháng sinh, khánh viêm, giảm dị ứng. Sau đợt cấp, chúng ta phải điều trị lâu dài. Tôi có 3 lời khuyên cho người bệnh viêm xoang: điều trị lâu dài, tạo điều kiện môi trường sống tốt tránh lạnh và ẩm kéo dài, ăn uống phòng thức ăn dị ứng gây xuất tiết như của nếp, uống nhiều sữa, rượu bia. Trong giai đoạn điều trị củng cố, chúng ta nên dùng các phương pháp y học cổ truyền. </P>
+<P class=Normal><EM>- Em bị nghẹt mũi cách đây khoảng 8 năm, một năm nay lúc nào cũng nghẹt rất khó thở, hay bị đau đầu vùng sau gáy, đỉnh đầu, trán, má, đau vùng hàm, vùng tai. 3 tháng nay, thị lực giảm và mắt khó chịu khi bị tắc mũi, em không bị chảy nước mũi và không có đờm ở họng. Vậy em bị bệnh gì? Cách chữa trị làm sao? (Nguyễn Thị Thu Hương, 22 tuổi, TP HCM)</EM></P>
+<P class=Normal><STRONG>- BS Lê Lương Đống:</STRONG> Bạn đã bị viêm xoang mũi dị ứng mạn tính. Với trường hợp này, trong đợt viêm cấp tính, bạn có thể dùng kháng sinh để giảm viêm, giải dị ứng để điều trị, sau đó dùng thuốc y học cổ truyền để củng cố. Đồng thời, bạn nên tạo môi trường sống tốt và có những phương pháp hỗ trợ khác để tăng sức đề kháng của cơ thể. Tóm lại, bạn nên có kế hoạch điều trị lâu dài để có được kết quả tốt và bền vững. </P>
+<TABLE cellSpacing=0 cellPadding=3 width=1 align=center border=0>
+<TR>
+<TD><IMG src="/Files/Subject/3b/bb/c5/f1/BS_Dinh_1.jpg" width=350 height=470 border=1 alt="Phó giáo sư, tiến sĩ Nguyễn Thị Ngọc Dinh." /></TD></TR>
+<TR>
+<TD class="Image">Phó giáo sư, tiến sĩ Nguyễn Thị Ngọc Dinh.</TD></TR></TABLE>
+<P class=Normal><EM>- Em rất hay bị hắt xì liên tục khi thay đổi thời tiết, đang nắng gắt chuyển sang mưa, hay giao mùa, sáng sớm, ở máy lạnh bước ra ngoài trời nóng... Liền sau đó là nghẹt mũi, chảy mũi và choáng váng, mệt mỏi... Tuy nhiên, nếu nhẹ thì nắng lên, khoảng tầm 8, 9h là hết. Còn nặng thì bị sốt luôn. Xin hỏi bác sĩ em có phải bị viêm mũi dị ứng không, và cách điều trị. (Phan Duy Tuyên, 33 tuổi, HN)</EM></P>
+<P class=Normal><STRONG>- BS Nguyễn Thị Ngọc Dinh:</STRONG> Bạn có biểu hiện của bệnh viêm mũi dị ứng và kèm theo có viêm xoang. Cách điều trị thì bạn nên đi khám ở thầy thuốc chuyên khoa tai mũi họng để có một chỉ dẫn cụ thể. Tuy nhiên, bạn nên giữ ấm khi thay đổi thời tiết.</P>
+<P class=Normal><EM>- Cháu bị viêm mũi dị ứng đã hơn 10 năm rồi, nhất là vào mùa thu và mùa đông. Ngày nào cũng bị chảy nước mũi, ngạt mũi. Vậy bác sĩ cho cháu hỏi, hiện nay đã có phương pháp chữa trị triệt để bệnh này chưa ah? Đặc biệt, với phụ nữ đang mang bầu, cách nào để giảm bớt và thuyên giảm bệnh này. (Thụy Miên, 22 tuổi, HN)</EM></P>
+<P class=Normal><STRONG>- BS Lê Lương Đống:</STRONG> Đây là bệnh dị ứng thời tiết do lạnh và ẩm. Nếu để tiến triển lâu dài, bệnh trở thành viêm đa xoang mạn tính. Bạn nên dùng phương pháp y học cổ truyền để chữa trị triệt để. Tuy nhiên, ngoài phương pháp chữa trị, môi trường sống, và chế độ ăn uống ảnh hưởng lớn đến kết quả điều trị. Với phụ nữ đang mang bầu, việc giữ ấm hai bàn chân là điều rất quan trọng. Buổi tối, phụ nữ có bầu nên ngâm chân bằng nước ấm 10-20 phút, sau đó lau khô chân, đi tất để giữ ấm hai bàn chân. Việc làm này tưởng chừng đơn giản nhưng lại mang lại hiệu quả điều trị rất cao. </P>
+<P class=Normal><EM>- Con trai tôi năm nay 9 tuổi, cháu bị chảy mũi xanh quanh năm. Tôi đã nạo VA, cho cháu uống các thuốc để điều trị viêm xoang như: thông xoang tán, cota xoang, kể cá kháng sinh... Nhưng cháu vẫn không khỏi. Cháu chỉ chảy mũi chứ không bị viêm tai giữa, không ho. Vậy, bác sĩ cho tôi hỏi có cách nào để chữa cho cháu không? (Le Kim Chung, 10 tuổi, Hà Nội)</EM></P>
+<P class=Normal><STRONG>- BS Nguyễn Thị Ngọc Dinh:</STRONG> Con trai chị bị chảy mũi quanh năm có màu xanh, chứng tỏ cháu có nhiễm khuẩn vùng xoang. Chị nên cho cháu đi khám nội soi tai mũi họng để xem mức độ viêm nhiễm và có chỉ dẫn cụ thể, vì điều trị viêm xoang trẻ em đòi hỏi một quá trình điều trị lâu dài (bao gồm: hút rửa xoang, kháng sinh, chống phù nề). Thường quá trình điều trị kéo dài tới hàng tháng. Nếu không khỏi, bác sĩ sẽ có chỉ định cụ thể.</P>
+<P class=Normal><EM>- Xin chào giáo sư, tôi năm nay 51 tuổi bị viêm mũi dị ứng 30 năm, bố tôi bị bệnh hen có lẽ di truyền sang tôi. Ban ngày tôi rất ít khi bị ngạt mũi trừ khi thời tiết quá lạnh và gió, nhưng đêm đến vào khoảng 3h30 sáng là tôi không thể ngủ được vì nhức dọc sống mũi và hắt hơi ngạt mũi. Khi hắt hơi nhiều là chảy nước mắt và nhức đầu ,rất khó chịu. Những lúc như vậy tôi uống PACEMIN sau một lát là hết. Hiện nay con trai tôi 29 tuổi cũng bị di truyền từ tôi. Hai mẹ con tôi rất khổ vì bệnh này. (Nguyenthihien, 51 tuổi, Hà Nội)</EM></P>
+<P class=Normal><STRONG>- BS Nguyễn Thị Ngọc Dinh:</STRONG> Trường hợp của bác có biểu hiện rõ của bệnh viêm mũi dị ứng mà nguyên nhân do di truyền. Vì bác thấy rất rõ cả gia đình đều khổ vì căn bệnh này. Để để phòng căn bệnh này và giảm thiểu cái khó chịu khi cơn bệnh xuất hiện, bác uống thuốc như vậy là rất tốt. Tuy nhiên, bác có thể uống thêm thuốc Đông y.</P>
+<P class=Normal><EM>- Nhức đầu Migranine có phải cũng là triệu chứng của viêm xoang? Các chữa như thế nào? (Huynh Trung Nghi, 20 tuổi, HP)</EM></P>
+<P class=Normal><STRONG>- BS Lê Lương Đống:</STRONG> Hội chứng Migranine là hội chứng đau nửa đầu, không phải là bệnh viêm xoang. Nguyên nhân là do co thắt mạch máu một nửa bán cầu đại não. Chứng bệnh này mang yếu tố gia đình, chủ yếu gặp ở nữ giới. Khi căng thẳng hoặc do thay đổi thời tiết xuất hiện cơn đau kèm theo buồn nôn, ù tai, mờ mắt... Tuy nhiên, viêm xoang có thể là yếu tố kích thích xuất hiện cơn đau trong chứng này. Muốn chữa Migranine có nhiều cách khác nhau. Tuy nhiên, y học hiện đại hay dùng các chế phẩm có nguồn gốc từ nấm cựa gà (Ecgotamin) như Tamik có tác dụng giãn mạch, cắt cơn đau. Sau đó, bạn có thể điều trị các thuốc y học cổ truyền cùng những phương pháp tập luyện khác như yoga, dưỡng sinh, châm cứu...</P>
+<P class=Normal><EM>- Tôi năm nay 33 tuổi, đang mang thai được 3 tháng. Năm ngoái tôi đi khám ở Viện Tai mũi họng TW và được bác sĩ chuẩn đoán là bị viêm mũi xoang. Bệnh của tôi thường xuất hiện vào lúc chuyển sang đông hoặc vào mùa đông. Hiện nay tôi đang bị trở lại, mũi đau, có nhiều mủ xanh, ngẹt mũi, tôi đã xịt nước muối biển nhiều lần trong ngày nhưng chưa đỡ, vậy tôi muốn được bác sĩ tư vấn điều trị khi tôi đang mang thai và xịt nước muối bao nhiêu lần trong ngày là đủ ạ. Tôi xin cảm ơn! (Mai Thanh Hồng, 33 tuổi, Từ Liêm - Hà Nội)</EM></P>
+<P class=Normal><STRONG>- BS Nguyễn Thị Ngọc Dinh:</STRONG> Trong trường hợp của bạn có thể xịt nước muối được nhiều lần trong ngày vì nó không có tác dụng phụ. Tuy nhiên, nước mũi có màu xanh, bạn cần đi khám bác sĩ chuyên khoa tai mũi họng để được tư vấn cụ thể thuốc nào có thể sử dụng trên phụ nữ mang thai.</P>
+<P class=Normal><EM>- Tôi rất hay bị viêm họng, 2 năm gần đây tôi hay ngậm nước muối loãng thấy đỡ nhiều, nhưng thời gian gần đây tôi lại hay bị lại. Xin hỏi bác sĩ ngậm nước muối loãng có tốt cho họng không, nên phòng chống bệnh này thế nào cho hiệu quả (Nguyễn Văn Cường, 34 tuổi, Hoàng Mai, Hà Nội)</EM></P>
+<P class=Normal><STRONG>- BS Nguyễn Thị Ngọc Dinh:</STRONG> Khi viêm họng, ngậm nước muối là rất tốt, tuy nhiên phải là nước muối 0,9%. Để phòng chống căn bệnh này, bạn cũng cần đi khám bác sĩ chuyên khoa tai mũi họng vì viêm họng do nhiều nguyên nhân gây ra, có thể do viêm Amidan, viêm họng hạt, do mủ từ xoang chảy xuống thành họng sau. Bạn phải điều trị đúng nguyên nhân thì mới khỏi được bệnh.</P>
+<TABLE cellSpacing=0 cellPadding=3 width=1 align=center border=0>
+<TR>
+<TD><IMG src="/Files/Subject/3b/bb/c5/f1/BS_Dong_1.jpg" width=480 height=337 border=1 alt="Phó giáo sư, tiến sĩ Lê Lương Đống." /></TD></TR>
+<TR>
+<TD class="Image">Phó giáo sư, tiến sĩ Lê Lương Đống.</TD></TR></TABLE>
+<P class=Normal><EM>- Tôi nghe nói hiện nay có phương pháp chữa viêm mũi, viêm xoang bằng việc bắn chỉ vào một số huyệt ở lưng và gáy, cho kết quả rất tốt. Bác sĩ có thể cho tôi biết về cách chữa này? (Nguyễn Văn Tuấn, 39 tuổi, BN)</EM></P>
+<P class=Normal><STRONG>- Bác sĩ Lê Lương Đống:</STRONG> Đây là một phương pháp cấy chỉ. Chỉ hay dùng là catgut để cấy vào các huyệt tạo các kích thích và đưa đến những phản ứng cơ thể về thần kinh và thể dịch để chữa bệnh. Phương pháp này hiện này được ứng dụng tại nhiều cơ sở y học cổ truyền. Đây cũng không hẳn là phương pháp tối ưu. Tuy nhiên, nó có tác dụng hỗ trợ hoặc phối hợp với các phương pháp khác. Bệnh của bạn là cơ địa dị ứng nhiễm trùng. Do đó, trường hợp của bạn nên kết hợp các thuốc uống trong, có tác dụng giảm viêm, giải dị ứng, giảm xuất tiết, thay đổi chuyển hóa tăng sức đề kháng cơ thể. Ngoài ra, thông xoang tán cũng là một thuốc thông dụng, có hiệu quả trong việc chữa trị viêm mũi, viêm xoang. Bên cạnh đó, bạn cùng cần lưu ý chế độ ăn uống, môi trường sống và cách tập luyện thể dục. </P>
+<P class=Normal><EM>- Chào bác sĩ, em có con nhỏ 9 tháng tuổi, cháu rất hay bị ngạt mũi, chảy mũi, ho. Hiện tại cháu đang bị ngạt mũi hai tuần nay không bú và không ngủ đc. Cháu không bị ho và không bị sốt. Em có nhỏ thuốc muối sinh lý nhưng vẫn không khỏi. Xin hỏi bác sĩ cách chữa trị và phòng chống bệnh này. Em cảm ơn! (Nguyễn Thị Hoa, 27 tuổi, Hải Phòng)</EM></P>
+<P class=Normal><STRONG>- BS Nguyễn Thị Ngọc Dinh:</STRONG> Cháu của bạn bị ngạt mũi kéo dài đã hai tuần, bạn đã cho cháu đi khám bác sĩ chuyên khoa tai mũi họng chưa? Vì khi cháu nhỏ bị ngạt mũi kéo dài thường do viêm VA (sủi vòm). Khối VA thường to, quá phát, lấp kín cửa mũi sau làm em bé không thở được. Bệnh của bé cần được các bác sĩ chuyên khoa tư vấn cụ thể.</P>
+<P class=Normal><EM>- Em bị viêm mũi dị do lệch vách ngăn, đã đi khám và uống thuốc nhiều lần nhưng vẫn không hết hẳn. Cho em hỏi có cách nào điều trị hết hẳn bệnh này không? (Giang, 33 tuổi, HN)</EM></P>
+<P class=Normal><STRONG>- BS Lê Lương Đống:</STRONG> Với trường hợp của bạn, việc đầu tiên là phải đến các cơ sở điều trị tai - mũi - họng để xem có cần can thiệp vách ngăn hay không. Thường những trường hợp này dễ lạm dụng thuốc kháng sinh. Bệnh này phải kết hợp nhiều phương pháp khác nhau bên cạnh việc điều trị bằng thuốc như thay đổi chế độ ăn uống, môi trường sống, thường xuyên tập thể dục... để có thể hy vọng thay đổi cơ địa dị ứng nhiễm trùng. Ngoài ra, hàng ngày bạn có thể ngâm chân vào nước muối (có hòa chút muối) trước khi đi ngủ. </P>
+<P class=Normal><EM>- Tôi bị viêm mũi dị ứng đã khá lâu, hễ lạnh là lại bị sổ mũi, hắt hơi. Tôi đã dùng thử thuốc thông xoang tán nhưng không có kết quả. Tôi cũng từng đi khám và chữa bệnh nhiều lần, những lần đó bác sĩ thường kê đơn thuốc kháng sinh. Nhưng chỉ được một thời gian, sau đó lại bị lại. Vậy xin bác sĩ có thể giúp tôi điều trị dứt điểm bệnh này được không ạ. Tôi xin chân thành cám ơn. (Thuy, 28 tuổi, Cầu Giấy)</EM></P>
+<P class=Normal><STRONG>- BS Nguyễn Thị Ngọc Dinh:</STRONG> Bệnh viêm mũi dị ứng thường dẫn đến viêm xoang, lâu ngày niêm mạc mũi xoang bị quá phát, nếu bệnh tái phát nhiều lần điều trị kháng sinh, Đông y không hiệu quả thường có chỉ định phẫu thuật nội soi mũi xoang, sau đó, tiếp tục kết hợp điều trị bằng thuốc (Đông, Tây y) sẽ mang lại kết quả. Tuy nhiên, bạn cần có chỉ định cụ thể của bác sĩ chuyên khoa tai mũi họng.</P>
+<P class=Normal><EM>- Cháu muốn hỏi bác sĩ về việc điều trị viêm mũi và viêm xoang, Cháu hay bị nghẹt mũi, đau đầu, có thể dùng máy xông khí dung nước muối và nhỏ muối để hạn chế xoang không ạ, vì cháu rất muốn hạn chế dùng thuốc và kháng sinh? (Hán Thị Thu Phương, 25 tuổi, Hà Nội)</EM></P>
+<P class=Normal><STRONG>- BS Nguyễn Thị Ngọc Dinh:</STRONG> Để phòng nghẹt mũi và chống đau đầu, việc sử dụng máy khí dung bằng nước muối và nhỏ nước muối là rất tốt, nhưng phải là nước muối sinh lý. Khi ra đường, bạn nên đeo khẩu trang để tránh bụi. Nếu bệnh không tiến triển thì bạn vẫn cần đi khám bệnh để có chỉ định cụ thể. </P>
+<P class=Normal><EM>- Con tôi 6 tuổi cháu hay hắt hơi vào buổi sáng (khoảng 7-8 lần), sau đó là sổ mũi, ngứa mắt và viêm kết mạc. Đi khám nhiều nơi nhưng bác sĩ bảo là không thể trị dứt được phải lớn lên mới hết, nhưng nếu phải dùng thuốc thường xuyên liệu có ảnh hưởng gì cho mắt và mũi của bé không? (Nguyễn Thị Kin Huyên, 33 tuổi, Hà Nội)</EM></P>
+<P class=Normal><STRONG>- BS Lê Lương Đống:</STRONG> Đây là chứng viêm mũi dị ứng gây ngứa mũi, hắt hơi dài khiến mắt bị đỏ, chảy nước mắt. Khi nói đến dị ứng nghĩa là chứng bệnh thuộc về cơ địa. Do đó, khi muốn thay đổi cơ địa, bạn nên điều trị lâu dài đặc biệt là chế độ ăn (tránh các thức ăn gây dị ứng như tôm, cua, cá, nhộng tằm...). Ngoài ra, bạn nên tạo môi trường sống trong lành cho con, chú ý xem bé có bị dị ứng lông vật nuôi trong nhà, các mùi hương, không khí ô nhiễm hay không? Khi cháu lớn nên sử dụng các thuốc giải dị ứng tiêu viêm giải độc theo y học cổ truyền như thông xoang tán ngày 4 viên, chia hai lần. Bạn cùng có thể dùng kết hợp nước muối sinh lý 9 phần nghìn để nhỏ mắt, nhỏ để rửa mũi cho con. Chúc cháu chóng khỏe!</P>
+<P class=Normal><EM>- Tôi bị viêm xoang hàm và trán khoảng 10 năm nay, tôi đã đi khám và điều trị tại viện tai mũi họng cũng đỡ nhưng một thời gian sau tái phát. Sau đó tôi chuyển sang chữa trị bằng thuốc bắc và thuốc nam nhưng cũng chỉ đỡ được một thời gian. Hiện tại, tôi thường xuyên bị đau nhức dữ dội vùng trán và mặt nên không tập trung làm việc được. Vậy rất mong bác sĩ tư vấn giúp tôi chữa trị như thế nào và tôi nên đến đâu. Xin chân thành cảm ơn bác sĩ (Nguyễn Thị Thu Hồng, 33 tuổi, Thanh Xuân, Hà Nội)</EM></P>
+<P class=Normal><STRONG>- BS Nguyễn Thị Ngọc Dinh:</STRONG> Viêm mũi xoang mãn tính đặc biệt là viêm đa xoang như trường hợp của bạn hay gây đau đầu vì tắc các lỗ thông mũi xoang. Bạn cần được sự chăm sóc đặc biệt của các bác sĩ (tư vấn về cách dùng thuốc, được làm thuốc mũi, chụp phim, chỉ định về cách điều trị phẫu thuật). Tôi nghĩ rằng, nếu bạn đau cần đi khám bệnh ngay.</P>
+<P class=Normal><EM>- Tôi bị polyp mũi và veo vách ngăn, thường hay hắt xì và chảy nước mũi nhiều khi nghẹt cả hai mũi không thở được. Điều trị uống thuốc thì đỡ nhưng ngưng thuốc thì bị lại. Vậy xin hỏi tôi có phải làm phẫu thuật để chỉnh vách ngăn hay không? (Lê Duy Thịnh, 30 tuổi, PT)</EM></P>
+<P class=Normal><STRONG>- BS Lê Lương Đống:</STRONG> Việc có can thiệp phẫu thuật hay không, bạn nên tới các cơ sở tai mũi họng để được khám và tư vấn, có chỉ định chính xác. Tuy nhiên, dù đã phẫu thuật nếu không được điều trị củng cố, bệnh vẫn dễ tái phát. Trường hợp bạn uống thuốc đỡ nhưng ngưng lại bị là do chưa có kế hoạch điều trị tổng thể đối với bệnh này. Theo tôi, dù phải phẫu thuật hay không, bạn vẫn nên dùng thuốc y học cổ truyền để đạt kết quả bền vững, tránh lạm dụng kháng sinh. Ngoài ra, bạn có thể dùng các phương pháp hỗ trợ khác như chế độ ăn uống, tập luyện, tránh bia rượu. </P>
+<P class=Normal><EM>- Môt năm nay chồng tôi bị hắt hơi, ngạt mũi liên tục. Dù đã uống, thay đổi các loại thuốc nhưng chỉ được vài ngày lại bị lại. Không biết chồng tôi bị viêm mũi dị ứng hay bị viêm xoang. Xin bác sĩ cho biết và cách điều trị như thế nào (Hoàng Thơ, 31 tuổi, TP HCM)</EM></P>
+<P class=Normal><STRONG>- BS Lê Lương Đống:</STRONG> Theo như bạn miêu tả, chồng bạn đã bị viêm mũi dị ứng. Nếu bị viêm xoang thì phải kèm theo một số triệu chứng như nhức đầu, dịch mũi vàng nặng là xanh, ngứa mũi, điếc mũi (không ngửi thấy mùi). Bạn nên đi chụp X-quang đặc biệt là X-quang điện toán cho phép chuẩn đoán chính xác có bị viêm xoang hay không. Đây là bệnh cơ địa dị ứng nhiễm trùng không thể chữa khỏi cấp thời. Do đó, dù thay đổi nhiều loại thuốc nhưng không có kế hoạch điều trị dài, đúng phương pháp, bệnh sẽ dễ tái phát. Trong trường hợp này, bạn nên kết hợp thuốc y học cổ truyền. Bạn nên đến cơ sở điều trị y học cổ truyền có kinh nghiệm để được khám xét và điều trị thích hợp. Nếu chưa có điều kiện, bạn có thể dùng thông xoang tán. </P>
+<P class=Normal><EM>- Tôi có một cháu 11 tháng tuổi, nặng 9,5kg. Cháu đang bị chảy nước mũi và đi nội soi thì bác sĩ bảo bị viêm tai giữa và viêm VA nếu không điều trị kịp thời thì sẽ phải nạo VA. Bác sĩ cho tôi hỏi nạo VA có ảnh hưởng gì không và độ tuổi của cháu như vậy có làm được không? (Lan Hương, 25 tuổi, Hà Giang)</EM></P>
+<P class=Normal><STRONG>- BS Nguyễn Thị Ngọc Dinh:</STRONG> Bệnh của cháu là bị viêm VA có biến chứng viêm tai giữa có chỉ định nạo VA. Sau khi nạo VA cháu sẽ hết chảy mũi đỡ viêm tai. Tuy nhiên, chỉ nạo VA khi điều trị nội khoa thất bại (bệnh tái phát liên tục thường xuyên phải dùng kháng sinh mà không khỏi) mới có chỉ định phẫu thuật. Còn ở độ tuổi của cháu có chỉ định phẫu thuật không có ảnh hưởng gì.</P>
+<P class=Normal><EM>- Tôi năm nay 26 tuổi, bị viêm xoang cách đây 2 tháng, đi bênh viện thì bác sĩ bảo bị lệch vách ngăn mũi gây viêm xoang, và phải mổ mới hết. Vậy cho tôi hỏi nếu mổ thì có tái lại không, có cách nào không cần mổ mà vẫn chữa được không. Tôi không bị nhức đầu, chỉ bị nghẹt mũi, hắt hơi và khó chịu, nóng mũi thôi. (Truong Thi Thu Trang, 25 tuổi, HN)</EM></P>
+<P class=Normal><STRONG>- BS Lê Lương Đống:</STRONG> Trong trường hợp bị lệch vách ngăn, nếu có chỉ định mổ thì đó là một giải pháp cần thiết. Tuy nhiên, việc phẫu thuật đó không thể giải quyết được viêm xoang, chỉ làm thông mũi, loại một số tổ chức viêm tại chỗ. Viêm xoang là bệnh mang tính toàn thân nên phải điều trị thay đổi cơ địa dị ứng nhiễm trùng, giảm xuất tiết để có kết quả bền vững. </P>
+<P class=Normal><EM>- Tôi thường xuyên bị hắt hơi, chảy nước mũi, tắt mũi nhiều năm nay. Tôi đã đi khám và được chuẩn đoán lệch vách ngăn. Thời gian gần đây, mỗi lần bị ngạt mũi lại kèm theo đầy hơi chướng bụng và khó thở ở ngực, tôi nghĩ do co thắt phế quản nên dùng thuốc xịt Ventolin và thấy dễ thở ngay. Tôi bị như vậy có phải bệnh của tôi đã biến chứng và dùng thuốc đó lâu dài có sao không ạ. Cám ơn bác sĩ. (Trần Quang Huy, 36 tuổi, Hoàng Mai, Hà Nội)</EM></P>
+<P class=Normal><STRONG>- BS Nguyễn Thị Ngọc Dinh:</STRONG> Bệnh của bạn là có biểu hiện của bệnh viêm mũi dị ứng và lệch vách ngăn, gần đây, có kèm theo dị ứng đường hô hấp dưới (Co thắt phế quản). Bạn nên đi khám bác sĩ hô hấp để có chỉ định cụ thể, không nên tự ý dùng thuốc vì dùng nhưng thuốc này kéo dài rất nguy hiểm cho đường hô hấp của bạn.</P>
+<TABLE cellSpacing=0 cellPadding=3 width=1 align=center border=0>
+<TR>
+<TD><IMG src="/Files/Subject/3b/bb/c5/f1/BS_Phi_2.jpg" width=480 height=338 border=1 alt="Bác sĩ Ngọc Dinh:" /></TD></TR>
+<TR>
+<TD class="Image">Bác sĩ Ngọc Dinh: "Viêm mũi cần khám bác sĩ để có chỉ định cụ thể, không nên tự ý dùng thuốc nếu kéo dài sẽ nguy hiểm đường hô hấp".</TD></TR></TABLE>
+<P class=Normal><EM>- Thưa bác sĩ, tôi nghe có người mách bảo cây cứt lợn (cây ngũ sắc) chữa được viêm xoang dị ứng, vậy theo bác sĩ có đúng không và sử dụng như thế nào (Phạm Văn Minh, 35 tuổi, TP Yên Bái)</EM></P>
+<P class=Normal><STRONG>- BS Lê Lương Đống:</STRONG> Cây này có kết quả chữa viêm mũi dị ứng tốt nhờ tinh dầu trong đó vừa có tính chất kháng khuẩn, giảm ngứa, giảm xuất tiết và đỡ dị ứng. Tuy nhiên, bạn nên lưu ý xông, tránh giã lấy nước nhỏ trực tiếp vì điều này không đảm bảo vệ sinh. </P>
+<P class=Normal><EM>- Con trai tôi thường xuyên bị nghẹt mũi nên khi ngủ rất thích nằm sấp. Vì cơ thể cháu rất nhiều mồ hôi nên mùa này tôi vẫn phải cho cháu nằm điều hoà, hôm nào tắt đi bật quạt là nửa đêm lại phải dậy để thay áo vì áo ướt sũng tôi sợ gió quạt vào viêm phổi. Vậy nằm điều hòa có ảnh hưởng đến hệ hô hấp của cháu không? Xin cảm ơn bác sĩ. (Khanhnga, 30 tuổi, Hà Đông, Hà Nội)</EM></P>
+<P class=Normal><STRONG>- BS Nguyễn Thị Ngọc Dinh:</STRONG> Nằm điều hòa là tốt, tuy nhiên trong phòng điều hòa nên có một chậu nước để giữ ẩm trong phòng, nhiệt độ không nên để lạnh quá. Chị nên cho cháu đi khám bệnh để biết nguyên nhân gây ngạt mũi là do đâu để điều trị tận gốc.</P>
+<P class=Normal><EM>- Cháu bị viêm xoang sau. Cháu xin hỏi, viêm xoang sau có điều trị khỏi được không? Nếu để kéo dài sẽ ảnh hưởng đến sức khỏe như thế nào? (Nguyễn Ánh Nhật, 31 tuổi, Hoàng Mai, Hà Nội)</EM></P>
+<P class=Normal><STRONG>- BS Lê Lương Đống:</STRONG> Bệnh này có thể điều trị khỏi nhưng bạn nên lưu ý nó thuộc diện bệnh cơ địa dị ứng nhiễm trùng xuất tiết. Do đó, bạn phải có phương pháp điều trị lâu dài, thay đổi cơ địa trên đồng thời tạo môi trường sống tốt, chế độ ăn uống hợp lý, luyện tập phù hợp. Bạn có thể khỏi hoàn toàn. Nếu không được điều trị, bệnh chắc chắn ảnh hưởng sức khỏe. Ngoài các viêm lan tỏa những tổ chức lân cận như viêm Amydal, viêm họng mạn tính, viêm phổi, viêm phế quản. hen phế quản, rối loạn tiêu hóa kéo dài, bạn còn có thể bị suy thận, nhiễm độc, biến dạng mũi...</P>
+<P class=Normal><EM>- Viêm mũi dị ứng có cách gì phòng bệnh, điều trị hiệu quả? Có thể chữa được bệnh khỏi dứt điểm không ạ?Xin các bác sĩ tư vấn giúp. Xin cảm ơn! (Đinh Tiến Dũng, 51 tuổi, Tổ 3 La Khê, Hà Đông, Hà Nội)</EM></P>
+<P class=Normal><STRONG>- BS Nguyễn Thị Ngọc Dinh:</STRONG> Để phòng bệnh viêm mũi dị ứng có hiệu quả là bệnh nhân không nên tiếp xúc với nguyên nhân gây bệnh (bụi nhà, phấn hoa, lông vũ hoặc đồ ăn gây dị ứng...) kể cả phải chuyển đi nơi khác sống. Việc điều trị hiệu quả cần có sự tư vấn cụ thể của bác sĩ tai mũi họng. Phương pháp điều trị dứt điểm là miễn dịch liệu pháp có thể tiến hành tại Bệnh viện Tai - Mũi - Họng Trung Ương. Tuy nhiên, bệnh nhân phải theo đuổi phương pháp này từ 3 đến 5 năm mới có hiệu quả.</P>
+<P class=Normal><EM>- Em bị viêm xoang cách đây 3 năm nhưng không uống thuốc. Như vậy có ảnh hưởng gì không? Hoàng Thị Hằng, 30 tuổi, Biên Hòa, Đồng Nai)</EM></P>
+<P class=Normal><STRONG>- BS Lê Lương Đống:</STRONG> Theo như cách bạn nói, tôi nghĩ bệnh viêm xoang của bạn chưa nặng. Tuy nhiên, đã có bệnh thì nên chữa kịp thời. Các bệnh mãn tính có thể tiến triển âm thầm sau đó biến chứng một lúc nào đó. Bệnh của bạn đang nhẹ thì rất dễ chữa. Bạn nên đi thăm khám để chữa bệnh kịp thời hoặc dùng một số loại thuốc có nguồn gốc thực vật như thông xoang tán </P>
+<P class=Normal><EM>- Tôi muốn hỏi có thuốc gì ( thuốc tây, thuốc bắc..) uống hàng ngày mà có thể phòng bệnh viêm mũi dị ứng được không? Vì cứ khi mùa đông về, lạnh, là tôi lại bị viêm mũi dẫn đến sốt phải uống kháng sinh, trung bình mỗi năm tôi phải uống kháng sinh một lần, vì vậy tôi muốn hỏi phương pháp nào phòng chống bệnh viêm mũi dị ứng? (Nguyễn Thu Hà, 36 tuổi, Hà Nội)</EM></P>
+<P class=Normal><STRONG>- BS Lê Lương Đống:</STRONG> Đa số, người ta hay dùng thuốc chống dị ứng tân dược, thậm chí một số người hay lạm dụng kháng sinh. Bạn nên chuyển sang dùng thuốc có nguồn gốc thực vật để có tác dụng bền vững và tránh những tác dụng không mong muốn. Các thuốc đó nên có tính kháng sinh giải dị ứng như kim ngân hoa, liên kiều, thổ phục linh, ké đầu ngựa, phòng phong và những thuốc giảm xuất tiết như tân di, trần bì, bán hạ chế, thuốc tăng sức đề kháng: hoàng kỳ, đẳng sâm, bạch truật...</P>
+<P class=Normal><EM>- Xin hỏi tiến sĩ Dinh về cách chữa trị viêm xoang sàng trong điều kiện thời tiết như ở Hà Nội? Cháu 30 tuổi bị viêm xoang này khoảng 10 năm nay và luôn cảm thấy hai bên mũi không thở được nên cảm thấy sức khỏe không được như ý muốn. Cảm ơn tiến sĩ. (Đào Duy Thanh, 30 tuổi, Hàng Điếu, Hà Nội)</EM></P>
+<P class=Normal><STRONG>- BS Nguyễn Thị Ngọc Dinh:</STRONG> Bệnh viêm xoang sàng là căn bệnh rất hay tái phát và điều trị khó dứt điểm vì xoang sàng có nhiều xoang nhỏ. Mỗi khi thay đổi thời tiết, bệnh lại tái phát, dịch xuất tiết tăng, chảy xuống họng làm họng đau, ngạt mũi. Nếu bạn đã bị kéo dài 10 năm rồi thì đã chuyển sang giai đoạn mãn tính. Cách chữa trị hiện nay với trường hợp của bạn cần dùng thuốc Đông, Tây y để niêm mạc mũi đỡ phù nề, dịch thoát được ra ngoài. Nếu không có kết quả thì phương pháp cuối cùng là phẫu thuật nội soi mũi xoang.</P>
+<P class=Normal><EM>- Cháu xin chào các bác sĩ. Các bác cho cháu hỏi bệnh viêm mũi dị ứng có nguy hiểm không. Nguy cơ phát triển tăng nặng của bệnh do những nguyên nhân nào? (Đỗ Văn Đức, 29 tuổi, Vạn Phúc - Hà Đông - Hà Nội)</EM></P>
+<P class=Normal><STRONG>- BS Lê Lương Đống:</STRONG> Bệnh này không nguy hiểm trực tiếp tới tính mạng. Tuy nhiên, đây là bệnh không chữa trị nhanh chóng được. Về lâu dài, nó có thể tiến triển thành mạn tính. Trong môi trường không tốt, chế độ ăn uống không phù hợp, sức khỏe kém có thể trở thành viêm xoang mạn tính và những biến chứng sau viêm xoang như suy nhược cơ thể... Bạn nên đến gặp bác sĩ sớm để được thăm khám, tư vấn, chữa trị kịp thời. </P>
+<P class=Normal><EM>- Giáo sư có thể cho biết phương pháp cơ bản để khắc phục tình trạng dị ứng mũi vào buổi sáng sớm. (Ngọc Diệp, 32 tuổi, Quảng Nam)</EM></P>
+<P class=Normal><STRONG>- BS Lê Lương Đống:</STRONG> Bạn nên tránh lạnh và ẩm như dùng khẩu trang, xoa nóng mũi trước khi ra lạnh. Buổi tối trước khi đi ngủ, bạn có thể ngâm chân bằng nước nóng ấm từ 15 đến 20 phút. Hàng ngày, bạn lưu ý giữ ấm hai bàn chân, dùng các thuốc giải dị ứng, tăng sức đề kháng có nguồn gốc thực vật để có kết quả bền vững. Ngoài ra, bạn cũng cần có chế độ ăn uống khoa học, tập luyện phù hợp, tạo điều kiện môi trường sống tốt, trong lành.</P>
+<P class=Normal><EM>- Em nghe có người nói tìm mèo đen lấy đầu ninh cháo ăn sẽ khỏi viêm xoang, xin hỏi bác sĩ điều này có đúng không ạ? (Phương Lan, 35 tuổi, Hai Bà Trưng, Hà Nội)</EM></P>
+<P class=Normal><STRONG>- BS Lê Lương Đống:</STRONG> Đầu mèo đen không phải thuốc chữa viêm xoang. Thay vào đó, nhiều phương pháp có thể chữa bệnh như theo y học hiện đại hoặc y học hiện đại kết hợp y học cổ truyền, duy trì và củng cố kết quả điều trị bằng phương pháp y học cổ truyền. Bên cạnh đó, bạn cũng cần có chế độ sống lành mạnh, ăn uống khoa học, tập thể dục thể thao thường xuyên và đúng cách. </P>
+<P class=Normal><EM>- Tôi luôn bị mỏi vùng gáy và bả vai bên phải, lấy tay ấn vào vùng xoang từ mũi lên trán bên phải và lên nửa đầu bên phải thấy đau và luôn có cảm giác khó chịu, hơi thở có mùi hôi (vệ sinh sạch và không có bệnh gì về răng miệng, dạ dày). Hôi miệng có phải từ viêm xoang? Tôi đã đi khám xoang ở bệnh viện (chụp X-quang xoang) và nội soi xoang mũi. Bác sĩ kết luận tôi chỉ bị viêm xoang mũi nhẹ và mũi phải bị lệch vách ngăn. Nhờ bác sĩ tư vấn? (Thu Chiều, 27 tuổi, 26 Trần Não, quận 2).</EM></P>
+<P class=Normal><STRONG>- BS Nguyễn Thị Ngọc Dinh:</STRONG> Chứng hôi miệng có thể từ viêm xoang. Tuy nhiên, bạn nên đi chụp thêm phim cắt lớp để có kết quả và sự tư vấn cụ thể. Trước mắt, bạn nên xịt nước biển 4-6 lần trong ngày và dùng thuốc Đông, Tây y. </P>
+<P class=Normal><EM>- Thưa bác sĩ, cháu bị viêm mũi dị ứng, đã uống thuốc điều trị khỏi, ngoài ra còn bị quá phát cuốn mũi 2 bên. Bác sĩ cho cháu hỏi quá phát cuốn mũi có phải phẫu thuật không và nó ảnh hưởng như thế nào đến sức khoẻ ạ? Cháu cảm ơn bác sĩ! (Nguyễn Thị Dung, 30 tuổi, Phú Thọ)</EM></P>
+<P class=Normal><STRONG>- BS Nguyễn Thị Ngọc Dinh:</STRONG> Quá phát cuốn mũi có nhiều mức độ. Mức độ nhẹ có thể điều trị bằng thuốc co mạch, mức độ vừa có thể điều trị bằng đốt cuốn mũi, mức độ nặng thì cần phẫu thuật. Bạn cần đi khám để có tư vấn cụ thể và nếu có phẫu thuật cũng không có ảnh hưởng đến sức khỏe.</P>
+<P class=Normal><EM>- Bây giờ tôi phải điều trị như thế nào để khỏi bệnh và có cần kiêng cữ gì không? Bệnh này có chữa khỏi không? (Lê Thị Út Chánh, 30 tuổi, phường 27, quận Bình Thạnh, TP HCM)</EM></P>
+<P class=Normal><STRONG>- BS Lê Lương Đống:</STRONG> Viêm xoang là bệnh cơ địa dị ứng nhiễm trùng xuất tiết. Ngoài việc điều trị bằng thuốc thì việc kiêng cữ rất quan trọng. Trước tiên, bạn nên tránh những thức ăn dễ gây dị ứng như tôm, cua, cá, nhộng tằm và các thức ăn chứa vỏ kitin như châu chấu, dế mèn... Tùy từng cơ địa từng người để tránh các thức ăn dị ứng. Tiếp theo, bạn nên tránh thức ăn gây xuất tiết nhiều như đồ nếp, sữa, hoa quả có tính nóng như mít, dứa, xoài, vải..., đồ ăn có thể gây ngộ độc như sắn, măng tươi. Đặc biệt, bạn cũng nên kiêng đồ uống dễ gây viêm, xuất tiết như rượu bia, nhất là những rượu không được khử metylic, aldehyde tức là rượu tự nấu. Ngoài ra, bạn lưu ý tránh lạnh, ẩm kéo dài, môi trường ô nhiễm. Tùy từng trường hợp cụ thể, bác sĩ thăm khám trực tiếp sẽ tư vấn thêm. </P>
+<P class=Normal align=right><STRONG>Đời Sống</STRONG></P>
+			</div>
+			<div class="tag-parent"><img src='/Images/tags.gif' class="tag"><div class="tag-pos"><h3 class="tag-text"><a href='/tag/1591/truc-tuyen/'>trực tuyến</a>, <a href='/tag/2689/vnexpress/'>VnExpress</a>, <a href='/tag/46063/viem-mui-di-ung/'>viêm mũi dị ứng</a></h3></div></div>
+			<div class="box-item" style="margin-top:5px;margin-bottom:5px;">
+			
+<p id=pShow><a class=SForm onclick="ShowFormComment()"><img src="/Images/Y-kien-cua-ban.gif" border="0" style="cursor:pointer" alt="Ý kiến của bạn" /></a></p>
+<div id="dComment" class="dtopitem_all">
+	<form method="post" name="frmComment" id="frmComment" target="_blank" onsubmit="submitForm(this);return false;" action="/service/comment/submit.asp">
+		<div class="adword-hdf">&nbsp;</div>
+		<div class="adword adword-middle" style="padding-top:0px;">					
+			<div class="adword-nav2 fl" style="padding-top:10px; width:476px; background-color:#ffffff">
+				<div style="padding-bottom:5px; overflow:hidden;">
+					<div class="fl" style="width:60%">
+						<input type="text" value="Họ tên" name="txtAddedBy" id="txtAddedBy" style="width:280px;" size="29" onfocus="NameOnFocus(this)" onblur="NameOnBlur(this)" onkeyup="initTyper(this)" class="adword-textbox"">
+					</div>
+					<div class="fr" style="width:180px;">
+						<input type="text" value="Email" name="txtAddedByEmail" id="txtAddedByEmail" style="width:172px" size="29" onfocus="EmailOnFocus(this)" onblur="EmailOnBlur(this)" class="adword-textbox">
+					</div>
+				</div>
+				<div style="padding-bottom:5px; overflow:hidden;">
+					<div class="fl" style="width:60%">
+						<input type="text" value="Tiêu đề" name="txtAddedTitle" id="txtAddedTitle" style="width:280px;" size="29" onfocus="TitleOnFocus(this)" onblur="TitleOnBlur(this)" onkeyup="initTyper(this)" class="adword-textbox"">
+					</div>
+					<div class="fr" style="width:180px;">
+						<input type="text" value="Mã xác nhận" name="txtValidCode" id="txtValidCode" style="width:99px;" size="29" onfocus="ValidateCodeOnFocus(this)" onblur="ValidateCodeOnBlur(this)" onkeyup="initTyper(this)" class="adword-textbox"">
+						<img src="/Service/Vote/securelog/image.asp" name="imgValidCode" id="imgValidCode" style="vertical-align:top; height:20px; padding-top:1px">
+						&nbsp;<img src="/Images/change-image.gif" alt="Thay hình khác" onclick="ChangeImage()" style="vertical-align:top;cursor:pointer; padding-top:1px" />
+					</div>
+				</div>
+				<div style="overflow:hidden;">
+					<div class="fl" style="width:60%">
+						<input type="submit" value="G&#7917;i To&#224; so&#7841;n" name="B1" class="SForm">&nbsp;<input type="button" value="Xo&#225; tr&#7855;ng" name="B2" class="SForm" onclick="InputDefault();">&nbsp;<input type="button" value="&#272;&#243;ng l&#7841;i" class="SForm" onclick="ShowFormComment()">
+						<input type="hidden" name="txtT" id="txtT" value="1002161649" />
+						<input type="hidden" name="txtS" id="txtS" value="0" />
+						<input type="hidden" name="txtF" id="txtF" value="78" />
+						<input type="hidden" name="txtL" id="txtL" value="/gl/suc-khoe/2011/11/viem-xoang-mui-tri-dung-nguyen-nhan-moi-khoi-benh" />
+					</div>
+					<div class="fl" style="width:40%; text-align:right;">
+						<input type="radio" name="optInput" value="0" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(0)">Off
+						<input type="radio" name="optInput" value="1" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(1)" checked>Telex
+						<input type="radio" name="optInput" value="2" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(2)">VNI
+						<input type="radio" name="optInput" value="3" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(3)">VIQR								
+					</div>
+				</div>				
+			</div>			
+			<div class="adword-nav2 fl" style="padding-top:0px;">
+				<textarea rows="10" name="txtAddedContent" id="txtAddedContent" cols="43" onkeyup="initTyper(this)" class="SForm" style="width: 470px"></textarea>				
+			</div>
+		</div>
+		<div class="adword-ftf">&nbsp;</div>
+	</form>
+</div>
+<script type="text/javascript">
+	var bshow = false;
+	
+	function ShowFormComment()	{
+		if(bshow){
+			gmobj('dComment').style.display="block";
+			gmobj('pShow').style.display="none";
+			bshow=false;
+		}
+		else{
+			gmobj('dComment').style.display="none";
+			gmobj('pShow').style.display="block";
+			bshow=true;
+		}
+	}
+	ShowFormComment();
+	
+	function submitForm(theform){
+		document.frmComment.txtAddedBy.value = Trim(document.frmComment.txtAddedBy.value);
+		if (document.frmComment.txtAddedBy.value == '' || document.frmComment.txtAddedBy.value == 'Họ tên')
+		{
+			alert('Xin hay nhap Ho ten!');
+			document.frmComment.txtAddedBy.focus();
+			return;
+		}
+
+		if ((SEmail = CheckEmailAddress(document.frmComment.txtAddedByEmail.value))=='')
+		{
+			alert('Dia chi Email khong hop le!');
+			document.frmComment.txtAddedByEmail.focus();
+			return;
+		}
+
+		document.frmComment.txtAddedByEmail.value = SEmail;
+
+		document.frmComment.txtAddedTitle.value = Trim(document.frmComment.txtAddedTitle.value);
+		if (document.frmComment.txtAddedTitle.value == '' || document.frmComment.txtAddedTitle.value == 'Tiêu đề')
+		{
+			alert('Xin hay nhap Tieu de!');
+			document.frmComment.txtAddedTitle.focus();
+			return;
+		}
+		
+		document.frmComment.txtValidCode.value = Trim(document.frmComment.txtValidCode.value);
+		if (document.frmComment.txtValidCode.value == '' || document.frmComment.txtValidCode.value == 'Mã xác nhận')
+		{
+			alert('Xin hay nhap Ma xac nhan!');
+			document.frmComment.txtValidCode.focus();
+			return;
+		}
+
+		document.frmComment.txtAddedContent.value = Trim(document.frmComment.txtAddedContent.value);
+		if (document.frmComment.txtAddedContent.value == '')
+		{
+			alert('Xin hay nhap Noi dung!');
+			document.frmComment.txtAddedContent.focus();
+			return;
+		}
+
+		if (!confirm('Gui yeu cau?'))
+			return;
+			
+		var status = AjaxRequest.submit(
+			theform
+			,{
+				'onSuccess':function(req){
+					if(req.responseText=='ValidCode'){
+						alert('Ma xac nhan khong dung!');
+					}
+					else{
+						alert(req.responseText);
+						ResetDefault();
+					}
+				}				
+				,'onError':function(req){
+					alert(req.responseText);
+				}
+			}
+		);
+		return status;
+	}
+	
+	function ChangeImage() {			
+		var ranNum = Math.floor(Math.random() * 5);
+
+		AjaxRequest.get(
+		  {
+			'onSuccess':function(req){
+				gmobj('imgValidCode').src = "/Service/Vote/securelog/image.asp?Code=" + ranNum;						
+			}
+			,'onError':function(req){					
+			}
+		  }
+
+		)
+    }
+	
+	function InputDefault() {
+		document.frmComment.txtAddedBy.value = 'Họ tên';
+		document.frmComment.txtAddedBy.className = 'adword-textbox';
+		document.frmComment.txtAddedByEmail.value = 'Email';
+		document.frmComment.txtAddedByEmail.className = 'adword-textbox';		
+		document.frmComment.txtAddedTitle.value = 'Tiêu đề';
+		document.frmComment.txtAddedTitle.className = 'adword-textbox';
+		document.frmComment.txtValidCode.value = 'Mã xác nhận';		
+		document.frmComment.txtValidCode.className = 'adword-textbox';
+		document.frmComment.txtAddedContent.value = '';
+		document.frmComment.txtAddedContent.focus();
+	}
+	
+	function ResetDefault() {
+		InputDefault();
+		ChangeImage();
+		
+		ShowFormComment();
+				
+	}
+</script>
+
+			</div>
+			
+			<div style="margin-top:5px;margin-bottom:5px;">							
+				<script language="javascript">					
+					Poly_ShowArticlebanner();										
+				</script>				
+			</div>
+		</div>				
+		<div class="folder-news">
+	<div class="boxnew-header">
+		<div class="boxnew-title fl">Tin mới</div>
+	</div>
+	<div class="boxnew">
+		<ul>
+		<li><a href="/gl/doi-song/gia-dinh/2011/11/me-dan-con-gai-di-va-mang-trinh/" class="link-othernews">Mẹ dẫn con gái đi vá màng trinh</a><span style="color: #909090">&nbsp;(17/11)</span></li>
+		<li><a href="/gl/doi-song/gia-dinh/2011/11/doc-ly-lich-phai-dep-biet-ngay-chang-do-hay-hap-dan/" class="link-othernews">Đọc lý lịch, phái đẹp biết ngay chàng dở hay hấp dẫn</a><span style="color: #909090">&nbsp;(17/11)</span></li>
+		<li><a href="/gl/doi-song/giam-beo-cho-nguoi-thua-can-lau-nam/2011/11/10-loi-khuyen-giam-can-hieu-qua/" class="link-othernews">10 lời khuyên giảm cân hiệu quả</a><span style="color: #909090">&nbsp;(17/11)</span></li>
+		<li><a href="/gl/suc-khoe/2011/11/xa-tri-ung-thu-ba-bau-van-sinh-con-khoe/" class="link-othernews">Xạ trị ung thư, bà bầu vẫn sinh con khỏe</a><span style="color: #909090">&nbsp;(17/11)</span></li>
+		<li><a href="/gl/doi-song/2011/11/nu-tri-thuc-trung-quoc-ngay-cang-thich-lay-chong-tay/" class="link-othernews">Nữ trí thức Trung Quốc ngày càng thích lấy chồng Tây</a><span style="color: #909090">&nbsp;(17/11)</span></li>
+		</ul>
+	</div>
+</div>
+<div class="folder-news">
+	<div class="othernews-header">
+		<div class="othernews-title fl">C&#225;c tin kh&#225;c</div>
+		<div class="fr txtr" style="margin-bottom:5px;"><label onClick="history.go(-1)" class="Time" style="cursor:pointer">[<B>Tr&#7903; v&#7873;</B>]</label></div>
+	</div>
+	<div class="othernews">
+		<ul>
+		<li><a href="/gl/suc-khoe/2011/11/phong-kham-co-yeu-to-ngoai-tiep-tuc-vi-pham/" class="link-othernews">Phòng khám có yếu tố ngoại tiếp tục vi phạm</a><span style="color: #909090">&nbsp;(17/11)</span></li>
+		<li><a href="/gl/suc-khoe/2011/11/bac-si-chan-doan-sai-khien-be-gai-dot-tu-o-trung-tam-y-te/" class="link-othernews">Bác sĩ chẩn đoán sai khiến bé gái đột tử ở trung tâm y tế</a><span style="color: #909090">&nbsp;(16/11)</span></li>
+		<li><a href="/gl/suc-khoe/2011/11/em-be-dau-tien-khoi-benh-gan-nho-ky-thuat-moi/" class="link-othernews">Em bé đầu tiên khỏi bệnh gan nhờ kỹ thuật mới</a><span style="color: #909090">&nbsp;(16/11)</span></li>
+		<li><a href="/gl/suc-khoe/2011/11/giam-ham-muon-boc-hoa-dau-hieu-bao-to-tuoi-xe-chieu/" class="link-othernews">'Giảm ham muốn, bốc hỏa: dấu hiệu bão tố tuổi xế chiều'</a><span style="color: #909090">&nbsp;(16/11)</span></li>
+		<li><a href="/gl/suc-khoe/2011/11/sang-nay-tu-van-phong-tri-viem-xoang-viem-mui-di-ung-1/" class="link-othernews">Sáng nay tư vấn phòng trị viêm xoang, viêm mũi dị ứng</a><span style="color: #909090">&nbsp;(16/11)</span></li>
+		<li><a href="/gl/suc-khoe/2011/11/be-so-sinh-4-tay-xuat-vien/" class="link-othernews">Bé sơ sinh 4 tay xuất viện</a><span style="color: #909090">&nbsp;(15/11)</span></li>
+		<li><a href="/gl/suc-khoe/2011/11/sang-nay-tu-van-truc-tuyen-ve-sinh-ly-phu-nu-tuoi-tren-40-1/" class="link-othernews">Sáng nay tư vấn trực tuyến về sinh lý phụ nữ tuổi trên 40</a><span style="color: #909090">&nbsp;(15/11)</span></li>
+		<li><a href="/gl/suc-khoe/2011/11/qua-than-cua-nguoi-di-cuu-song-chau-gai/" class="link-othernews">Quả thận của người dì cứu sống cháu gái</a><span style="color: #909090">&nbsp;(14/11)</span></li>
+		<li><a href="/gl/suc-khoe/2011/11/dau-hieu-cho-thay-he-mien-dich-cua-ban-co-van-de/" class="link-othernews">Dấu hiệu cho thấy hệ miễn dịch của bạn có vấn đề</a><span style="color: #909090">&nbsp;(14/11)</span></li>
+		<li><a href="/gl/suc-khoe/2011/11/canh-giac-khi-tre-dot-ngot-dau-bung-oi-lien-tuc/" class="link-othernews">Cảnh giác khi trẻ đột ngột đau bụng, ói liên tục</a><span style="color: #909090">&nbsp;(14/11)</span></li>
+		<li><a href="/gl/suc-khoe/2011/11/co-the-du-bao-chinh-xac-ba-bau-bi-tien-san-giat/" class="link-othernews">Có thể dự báo chính xác bà bầu bị tiền sản giật</a><span style="color: #909090">&nbsp;(13/11)</span></li>
+		<li><a href="/gl/suc-khoe/2011/11/thuc-don-khoe-cho-nguoi-tieu-duong/" class="link-othernews">Thực đơn khỏe cho người tiểu đường</a><span style="color: #909090">&nbsp;(12/11)</span></li>
+		<li><a href="/gl/suc-khoe/2011/11/niem-phong-benh-an-chet-nguoi-cong-an-lam-kho-trung-tam-y-te/" class="link-othernews">Niêm phong bệnh án chết người, công an làm khó trung tâm y tế</a><span style="color: #909090">&nbsp;(12/11)</span></li>
+		<li><a href="/gl/suc-khoe/2011/11/phong-ngua-rang-mieng-cho-tre-ngay-tu-nho/" class="link-othernews">Phòng ngừa răng miệng cho trẻ ngay từ nhỏ</a><span style="color: #909090">&nbsp;(12/11)</span></li>
+		<li><a href="/gl/suc-khoe/2011/11/them-nhieu-ca-benh-tay-chan-mieng-tai-o-dich-ninh-thuan/" class="link-othernews">Thêm nhiều ca bệnh tay chân miệng tại ổ dịch Ninh Thuận</a><span style="color: #909090">&nbsp;(12/11)</span></li>
+		</ul>
+	</div>
+</div>
+
+		</div>
+	<div class="content-left fl">		
+	<div class="linksite-box" style="padding:0px;">
+	<img alt="Link Site" src="/Images/Linksite/site2.gif" usemap="#ctmap" class="img-linksite"/>
+	<map id="ctmap" name="ctmap">
+		<area shape="rect" coords="6,0,72,28" href="http://ngoisao.net/" target="_blank" title="ngoisao.net" />
+		<area shape="rect" coords="83,0,140,28" href="http://sohoa.vnexpress.net/" target="_blank" title="sohoa.vnexpress.net" />		
+		<area shape="rect" coords="152,0,215,28" href="http://gamethu.vnexpress.net/" target="_blank" title="gamethu.vnexpress.net" />
+		<area shape="rect" coords="223,0,296,28" href="http://vieclam.vnexpress.net/" target="_blank" title="viec lam" />
+	</map>
+</div>
+	<div class="box-item">		
+		<script type="text/javascript">
+			cpms_Ap.typ = 2;
+			cpms_Ap.ste = 1;
+			cpms_Ap.reg = 0;
+			cpms_Ap.fol = 78;
+			cpms_Ap.dof = 0;
+			cpms_Ap.wdt = 300;
+			
+			cpms_Ap.itf = 2;
+			
+			cpms_Ap.ShowAd();
+		</script>
+	</div>
+	<Script language="JavaScript">Poly_ShowLogoLeft(2)</Script><div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(110);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="box-middle1 list-item1 fl" id="ListItem110">
+		<script type="text/javascript" language="javascript">showlistitem(1, 110, 5);</script>
+	</div>	<div class="fl">
+		<div class="fl"><img src="/Images/Background/box-bottomleft1.gif" alt="" /></div>
+		<div class="box-bottomcenter1 fl">&nbsp;</div>
+		<div class="fl"><img src="/Images/Background/box-bottomright1.gif" alt="" /></div>
+	</div>
+</div>
+<div class="box-item">
+<div class="list-item-header fl">
+	<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+	<div class="folder-active2 fl">
+		<script type="text/javascript" language="javascript">writeListItemTitle(106);</script>
+	</div>
+	<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+	<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+</div>
+<div class="box-middle1 list-item fl" id="ListItem106">
+	<script type="text/javascript" language="javascript">showlistitem(2, 106, 5);</script>
+</div>
+	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+<div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(101);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="fl" id="ListItem101">
+		<script type="text/javascript" language="javascript">showlistitem(5, 101, 4);</script>
+	</div>
+	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+<div class="box-item">
+	<div class="list-item-header fl">
+		<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+		<div class="folder-active2 fl">
+			<script type="text/javascript" language="javascript">writeListItemTitle(26);</script>
+		</div>
+		<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+	</div>
+	<div class="box-middle1 list-item1 fl" id="ListItem26">
+		<script type="text/javascript" language="javascript">showlistitem(1, 26, 5);</script>
+	</div>	<div class="fl">
+		<div class="fl"><img src="/Images/Background/box-bottomleft1.gif" alt="" /></div>
+		<div class="box-bottomcenter1 fl">&nbsp;</div>
+		<div class="fl"><img src="/Images/Background/box-bottomright1.gif" alt="" /></div>
+	</div>
+</div>
+<div class="box-item">
+<div class="list-item-header fl">
+	<div class="fl"><img src="/Images/Background/folder-activeleft2.gif" alt="" /></div>
+	<div class="folder-active2 fl">
+		<script type="text/javascript" language="javascript">writeListItemTitle(120);</script>
+	</div>
+	<div class="fl"><img src="/Images/Background/folder-activeright2.gif" alt="" /></div>
+	<div class="fr"><img src="/Images/Background/folder-topright.gif" alt="" /></div>
+</div>
+<div class="box-middle1 list-item fl" id="ListItem120">
+	<script type="text/javascript" language="javascript">showlistitem(2, 120, 4);</script>
+</div>
+	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+
+	</div>
+	
+	<div class="content-right fl">		
+		<div class="adv-header">
+			<div class="adv-title fl">				
+				<a href="http://www.fptad.com/lienhe.aspx" target="_blank"><img style="border:0" src="/Images/Background/adv-title.gif" alt="Lien he quang cao" /></a>				
+			</div>
+		</div>
+		<div id="adgroup"  style="display:none;clear:both;"></div>
+	<A href="/Topic/?ID=2004" class=BoxTitle><FONT color=#ffffff>
+</FONT></A><Script type="text/javascript" language="JavaScript">Poly_ShowAdScrollBanner(2);</Script>
+				</div>
+				
+			</div>
+			
+			<div id="footer">
+				
+				<script type="text/javascript">Poly_ShowFooterBanner();</script>										
+				
+                <div class="fmenu-top">
+                    <div class="fl icone-footer"></div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-home" rel="nofollow" onclick="javascript:setAsHomePage(this)"><span></span>Đặt làm trang chủ</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ct" rel="nofollow" class="link-contact" href="/ContactUs/?id=suckhoe@vnexpress.net"><span></span>Liên hệ tòa soạn</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ads" rel="nofollow" class="link-contact" href="http://ads.fpt.net/lienhe.aspx" target="_blank"><span></span>Liên hệ quảng cáo</a>
+                    </div>					
+                    <div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">						
+						
+                        <span class="lnkf-hl">Đường dây nóng: 0123.888.0123 (HN) - 0129.233.3555 (TP HCM)<span></span></span>
+						
+                    </div>
+					<div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">
+						 <a rel="nofollow" class="link-contact" href="http://fptad.com/qc/v/vnexpress/2011/phongvienthethao/" target="_blank"><img class="img-search" src="/Images/person.gif" alt="" style="vertical-align:top;" /> VnExpress tuyển dụng </a>
+					</div>					
+                </div>
+                <div class="fmenu-bottom">	
+					<a href="/" class="link-footermenu">Trang chủ</a><i class="sepaf"></i>
+					<a href="/gl/xa-hoi/" class="link-footermenu">Xã hội</a><i class="sepaf"></i>
+					<a href="/gl/the-gioi/" class="link-footermenu">Thế giới</a><i class="sepaf"></i>
+					<a href="/gl/kinh-doanh/" class="link-footermenu">Kinh doanh</a><i class="sepaf"></i>
+					<a href="/gl/van-hoa/" class="link-footermenu">Văn hóa</a><i class="sepaf"></i>
+					<a href="/gl/the-thao/" class="link-footermenu">Thể thao</a><i class="sepaf"></i>
+					<a href="/gl/phap-luat/" class="link-footermenu">Pháp luật</a><i class="sepaf"></i>
+					<a href="/gl/doi-song/" class="link-footermenu">Ðời sống</a><i class="sepaf"></i>
+					<a href="/gl/khoa-hoc/" class="link-footermenu">Khoa học</a><i class="sepaf"></i>
+					<a href="/gl/vi-tinh/" class="link-footermenu">Vi tính</a><i class="sepaf"></i>
+					<a href="/gl/oto-xe-may/" class="link-footermenu">Ôtô - Xe máy</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/" class="link-footermenu">Bạn đọc viết</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/tam-su/" class="link-footermenu">Tâm sự</a><i class="sepaf"></i>
+					<a href="/user/rao-vat/" class="link-footermenu">Rao vặt</a><i class="sepaf"></i>
+					<a href="/gl/cuoi/" class="link-footermenu">Cuời</a>
+					
+                    <script type="text/javascript" language="javascript">
+						//writeFooterMenu();
+						Poly_ShowFixFloatBanner(0);Poly_ShowFixFloatBanner(2);Poly_ShowFixFloatBanner(1);Poly_ShowFixFloatBanner(3);
+						Poly_ShowSlideBanner();Poly_ShowBallonBanner();						
+					</script>
+					
+                    <script type="text/javascript" language="javascript">Poly_ShowPopupUnder();</script>
+					
+                </div>
+                <div class="copyright">
+                    <p><label style="font:bold 11px arial; color:#686E7A;">&#169;&nbsp;Copyright 1997-2011 VnExpress.net</label>, <label style="font:normal 11px arial; color:#686E7A;">All rights reserved <a rel="nofollow" href="/ContactUs/?id=webmaster@vnexpress.net">Contact us</a> - <label onClick="ContactUs()" style="text-decoration:underline;cursor:pointer">Th&#244;ng tin T&#242;a so&#7841;n</label></label</p>
+<p><label style="font:normal 11px arial; color:#686E7A;">&#174;&nbsp;VnExpress gi&#7919; b&#7843;n quy&#7873;n n&#7897;i dung tr&#234;n website n&#224;y.</lable></p>
+
+                </div>
+            </div>
+			</div>
+		</div>		
+		</div>		
+		<script type="text/javascript">
+		<!--//<![CDATA[
+			cpms_Ap.init();
+			cpms_Ap.typ = 1;
+			cpms_Ap.dof = 0;
+			cpms_Ap.ste = 1;
+			cpms_Ap.reg = 0;
+			cpms_Ap.fol = 78;
+			cpms_Ap.pos = 38;
+			cpms_Ap.url = encodeURIComponent(document.location.href);
+			cpms_Ap.show();
+		//]]>-->
+		</script>
+		  	
+		<div style="float:left;">
+			<script type="text/javascript" language="javasript">
+				var strHr = location.href;				
+				if(strHr.substr(0,21)=='http://vnexpress.net/' || strHr.substr(0,27)=='http://ebank.vnexpress.net/' || strHr.substr(0,28)=='http://nhadep.vnexpress.net/'){
+					document.write('<img src="http://180.148.142.10/website/vnexpress/Res.asp?vid=445C8BA7-6FD7-4737-94FA-F9082E50DB94&ovt=0&vsd=0&pfd=78&pid=1002161649&ref=&iTime=11/17/2011 4:04:17 PM" border=0>');
+					
+				}
+			</script>
+		</div>
+		<script type="text/javascript">
+	var SERVER_ID = 6;
+</script>
+
+
+		<!--<script type="text/javascript" language="javascript" src="/Library/Common/rss.js"></script>-->
+		<script type="text/javascript" src="http://180.148.142.152/Library/VNELibraryNew.js"></script>
+
+<script type="text/javascript" src="http://180.148.142.152/Library/AdsNov.js"></script>
+		
+<script src="http://180.148.142.152/Vals/1/0/78/Val.js" type="text/javascript"></script>	
+		
+<script type="text/javascript" language="javaScript">checkCookie();</script>
+
+<script type="text/javascript" language="javaScript" src="http://180.148.142.153/script/libMobile.js"></script>     
+
+
+<script type="text/javascript">      
+    Poly_ShowAds();
+</script>
+	
+	</body>			
+</html>

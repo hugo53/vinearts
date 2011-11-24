@@ -1,0 +1,1021 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />		
+		
+		<meta name="robots" content="INDEX,FOLLOW" />
+			
+		<meta name="description" content="Ghép xe theo kiểu song song với lề đường khó nhất khi có hai xe chặn đầu và đuôi. Nếu biết cách, chỉ cần một 'đỏ' là xe đã chuẩn rồi." />
+			
+		<title>Kinh nghiệm ghép xe vào nơi đỗ - VnExpress</title>
+			
+		<meta name="keywords" content="Hồ Quang Quí,kinh nghiệm cầm lái,đỗ xe,mẹo lùi chuồng,ô tô,xe hơi" />	
+		
+		<meta http-equiv="REFRESH" content="3600" />
+		
+		<link rel="stylesheet" href="/Resource/Common/default.css" type="text/css" />	
+		<link href="http://180.148.142.152/Library/AdsNov.css" rel="Stylesheet" style="text/css"> 		
+		
+		<link rel="alternate" type="application/rss+xml" title="VnExpress - RSS" href="/RSS/GL/trang-chu.rss" />
+			
+		
+		<script type="text/javascript" language="javascript" src="/Library/Common/Library.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/Vne.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/FlashMedia.js"></script>						
+        <script type="text/javascript" language="javascript" src="/Library/Common/AjaxRequest.js"></script>
+		<script type="text/javascript" language="javascript" src="/Library/Common/vietUni.js"></script>
+		<script type="text/javascript" language="javascript" src="/Resource/00/ArrMenu.js"></script>        				
+		<script type="text/javascript" language="javaScript">
+			var PAGE_SITE=0;
+			var PAGE_FOLDER=38;	
+			var PAGE_ID=1000524633;	
+			var DOMESTIC_IP=1;	
+			setTypingMode(1);
+				
+			sLoDID=sLoDID.concat('1000524633').concat(',');
+			
+		</script>
+		<script type="text/javascript" language="javascript" src="/Resource/Common/Menu.js"></script>
+		
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-249346-1']);
+		_gaq.push(['_trackPageview']);
+		
+		_gaq.push(['b._setAccount', 'UA-249346-21']);
+		_gaq.push(['b._trackPageview']);
+		
+		_gaq.push(['c._setAccount', 'UA-249346-22']);
+		_gaq.push(['c._trackPageview']);
+		
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	
+		<script src="/Library/Common/jquery-1.6.3.min.js"></script>		
+		
+<script type="text/javascript" src="/library/Common/VNEShowAds.js"></script>
+<script src="/library/common/rs.js" type="text/javascript"></script>
+
+	</head>
+	<body>	
+		
+				
+		<input type="hidden" id="CurrentBrowserWidth" value="" />
+		<input type="hidden" id="ShowBackground" value="1" />
+		<div id="divSlideResultLeft" style="background-repeat:no-repeat;background-position:right top;over-flow:hidden;cursor:pointer;text-align:right;padding:0px;position: fixed!important;position: absolute; /*ie6 and above*/;left: 0px; top: 0px;overflow:hidden;"></div>
+		<div id="divSlideResultRight" style="background-repeat:no-repeat;over-flow:hidden;cursor:pointer;text-align:left;padding:0px;position: fixed!important; position: absolute; /*ie6 and above*/;right: 0px; top: 0px;overflow:hidden;"></div>				
+		
+		<div id="outter">		
+		<div id="divMove" style="width:1000px;">
+		<div class="fpr2">
+			<div id="header">
+				<div id="logoEH" class="logo fl" >
+					
+					<a onfocus="this.blur()" hidefocus="" href="/"><img class="img-logo" src="/Images/blank.gif" alt="" /></a>
+					
+				</div>
+				<div id="topbannerEH" class="topbanner fr">
+					
+					<table border="0" cellpadding="0" cellspacing="0" style="width:100%;">
+						<tr>
+							<td style="vertical-align:middle">
+																
+									<script type="text/javascript" language="javascript">
+										Poly_ShowTopBanner();
+									</script>								
+								
+							</td>                           
+						</tr>
+					</table>				
+					
+				</div>
+			</div>			
+		</div>				
+		<div id="menu">
+	<div class="searchmenu">
+		<div class="fl icone"></div>
+		<div class="drss fl"><a href="/GL/RSS/" class="link-rss lnkrss">RSS<span></span></a></div>
+		<div id="mn-search" class="search fr">
+			<form onsubmit="return CheckValue(document.Search.s);" action="http://search.vnexpress.net/news" id="Search" name="Search">
+				<span class="fl borright"></span>
+				<input type="text" value="Từ khóa tìm kiếm" onfocus="SearchOnFocus(this)" onkeydown="" onkeyup="initTyper(this)" onblur="SearchOnBlur(this)" id="s" name="s" class="txtsearch fl">
+				<img onclick="return CheckValue(document.Search.s);" alt="" src="/images/blank.gif" class="img-search fl">
+				<input type="hidden" value="66FD8EC7-FA76-4A7C-8FE3-DB605B4C9CE0" name="g">
+				<input type="hidden" value="yes" name="butS">
+			</form>
+		</div>
+	</div>
+	<!--[if lte IE 6]><a id="lnkIE6" href="#"><table cellpadding=0 cellspacing=0 style="border: 0; margin: 0; padding: 0; width: 1000px; height: 25px;"><tr><td><![endif]-->
+	<div class="menu">
+		<ul>
+			<li><div class="fl mn-borleft"></div></li>
+			
+			<li>
+				<a href="/"><span class="pmenuL"></span><span class="pmenuM">Trang nhất</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<!--<ul style="padding: 0px; height: 16px">
+					<div class="fl icone"></div>
+					<div class="drss fl"><a href="/GL/RSS/" class="link-rss">RSS <span></span></a></div>
+				</ul>-->
+				<ul class="smenu-home">	
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+					<li class="lnknews24h"><a href="/gl/24h-qua/"></a></li>
+					<li class="ico-ct-wrap">
+						<span class="fl ico-ct"></span>
+						<p class="fl phonect"><span>0123.888.0123</span> (HN) - <span>0129.233.3555</span> (TP.HCM)</p>
+					</li>				
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/video/"><span class="pmenuL"></span><span class="pmenuM">Video</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">													
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/xa-hoi/"><span class="pmenuL"></span><span class="pmenuM">Xã hội</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li><a href="/gl/xa-hoi/giao-duc/">Giáo dục</a></li>
+					<li><a href="/gl/xa-hoi/nhip-dieu-tre/">Nhịp điệu trẻ</a></li>
+					<li><a href="/gl/xa-hoi/du-lich/">Du lịch</a></li>
+					<li><a href="/gl/xa-hoi/co-hoi-du-hoc/">Du học</a></li>												
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/the-gioi/"><span class="pmenuL"></span><span class="pmenuM">Thế giới</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->				
+				<ul class="smenu-other">					
+					<li><a href="/gl/the-gioi/cuoc-song-do-day/">Cuộc sống đó đây</a></li>
+					<li><a href="/gl/the-gioi/anh/">Ảnh</a></li>
+					<li><a href="/gl/the-gioi/nguoi-viet-5-chau/">Người Việt 5 châu</a></li>
+					<li><a href="/gl/the-gioi/phan-tich/">Phân tích</a></li>
+					<li><a href="/gl/the-gioi/tu-lieu/">Tư liệu</a></li>								
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/kinh-doanh/"><span class="pmenuL"></span><span class="pmenuM">Kinh doanh</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->					
+				<ul class="smenu-other">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/gl/ebank/">Ebank</a></li>
+					<li><a href="/gl/kinh-doanh/chung-khoan/">Chứng khoán</a></li>
+					<li><a href="/gl/kinh-doanh/bat-dong-san/">Bất động sản</a></li>
+					<li><a target="_blank" href="http://nhadep.vnexpress.net/gl/nha-dep/">Nhà đẹp</a></li>
+					<li><a href="/gl/kinh-doanh/kinh-nghiem/">Doanh nhân</a></li>
+					<li><a href="/gl/kinh-doanh/quoc-te/">Quốc tế</a></li>
+					<li><a href="/gl/doi-song/mua-sam/">Mua sắm</a></li>
+					<li><a href="/gl/kinh-doanh/doanh-nghiep-viet/">Doanh nghiệp viết</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/van-hoa/"><span class="pmenuL"></span><span class="pmenuM">Văn hóa</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">					
+					<li><a href="/gl/van-hoa/hoa-hau/">Hoa hậu</a></li>
+					<li><a href="/gl/van-hoa/guong-mat-nghe-sy/">Nghệ sỹ</a></li>
+					<li><a href="/gl/van-hoa/am-nhac/">Âm nhạc</a></li>
+					<li><a href="/gl/van-hoa/thoi-trang/">Thời trang</a></li>
+					<li><a href="/gl/van-hoa/san-khau-dien-anh/">Điện ảnh</a></li>
+					<li><a href="/gl/van-hoa/my-thuat/">Mỹ thuật</a></li>
+					<li><a target="_blank" href="http://evan.vnexpress.net/">Văn học</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/the-thao/"><span class="pmenuL"></span><span class="pmenuM">Thể thao</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smsport"><a href="/gl/the-thao/bong-da/">Bóng đá</a></li>
+					<li><a href="/gl/the-thao/tennis/">Tennis</a></li>
+					<li><a href="/gl/the-thao/chan-dung/">Chân dung</a></li>
+					<li><a href="/gl/the-thao/anh-video/">Ảnh - Video</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="http://seagames.vnexpress.net/" target="_blank"><span class="pmenuL"></span><span class="pmenuM">SEA Games 26</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li class="smseagames26"><a href="http://seagames.vnexpress.net/tin/lich-dau/" target="_blank">Lịch đấu</a></li>
+					<li><a href="http://seagames.vnexpress.net/tin/xep-hang/" target="_blank">Bảng xếp hạng</a></li>					
+					<li><a href="http://seagames.vnexpress.net/tin/bong-da/" target="_blank">Bóng đá</a></li>					
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/phap-luat/"><span class="pmenuL"></span><span class="pmenuM">Pháp luật</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smlaw"><a href="/gl/phap-luat/hinh-su/">Hình sự</a></li>
+					<li><a href="/gl/phap-luat/ky-su/">Ký sự</a></li>
+					<li><a href="/gl/phap-luat/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/doi-song/"><span class="pmenuL"></span><span class="pmenuM">Đời sống</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smlife"><a href="/gl/doi-song/cau-chuyen-cuoc-song/">Câu chuyện cuộc sống</a></li>
+					<li><a href="/gl/doi-song/gia-dinh/">Gia đình</a></li>
+					<li><a href="/gl/suc-khoe/">Sức khỏe</a></li>
+					<li><a href="/gl/doi-song/am-thuc/">Ẩm thực</a></li>
+					<li><a href="/gl/suc-khoe/lam-dep/">Làm đẹp</a></li>
+					<li><a href="/gl/doi-song/blog/">Cửa sổ Blog</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/khoa-hoc/"><span class="pmenuL"></span><span class="pmenuM">Khoa học</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smscience"><a href="/gl/khoa-hoc/moi-truong/">Môi trường</a></li>
+					<li><a href="/gl/khoa-hoc/thien-nhien/">Thiên nhiên</a></li>
+					<li><a href="/gl/khoa-hoc/anh/">Ảnh</a></li>
+					<li><a href="/gl/khoa-hoc/ky-thuat-moi/">Công nghệ mới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/vi-tinh/"><span class="pmenuL"></span><span class="pmenuM">Vi tính</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smmicrocalculate"><a href="/gl/vi-tinh/san-pham-moi/">Sản phẩm mới</a></li>
+					<li><a href="/gl/vi-tinh/kinh-nghiem/">Kinh nghiệm</a></li>
+					<li><a href="/gl/vi-tinh/giai-tri/">Giải trí</a></li>
+					<li><a href="/gl/vi-tinh/hoi-dap/">Hỏi đáp</a></li>
+					<li><a href="/gl/vi-tinh/hacker-virus/">Hacker &amp; Virus</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li class="active"><a href="/gl/oto-xe-may/"><span class="pmenuL"></span><span class="pmenuM">Ôtô - Xe máy</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+			
+				<ul class="smenu-other">					
+					<li class="smcar"><a href="/gl/oto-xe-may/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/ban-doc-viet/"><span class="pmenuL"></span><span class="pmenuM">Bạn đọc</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-bdv">					
+					<li><a href="/gl/ban-doc-viet/khoa-hoc/">Khoa học</a></li>						
+					<li><a href="/gl/ban-doc-viet/doi-song/">Đời sống</a></li>
+					<li><a href="/gl/ban-doc-viet/phap-luat/">Pháp luật</a></li>
+					<li><a href="/gl/ban-doc-viet/xa-hoi/">Xã hội</a></li>
+					<li><a href="/gl/ban-doc-viet/kinh-doanh/">Kinh doanh</a></li>
+					<li><a href="/gl/ban-doc-viet/the-thao/">Thể thao</a></li>
+					<li><a href="/gl/ban-doc-viet/van-hoa/">Văn hoá</a></li>
+					<li><a href="/gl/ban-doc-viet/the-gioi/">Thế giới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/ban-doc-viet/tam-su/"><span class="pmenuL"></span><span class="pmenuM">Tâm sự</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other"></ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/rao-vat/"><span class="pmenuL"></span><span class="pmenuM">Rao vặt</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-raovat">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/cuoi/"><span class="pmenuL"></span><span class="pmenuM">Cười</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-bdv">
+					<li><a href="/gl/cuoi/video/">Video</a></li>
+					<li><a href="/gl/cuoi/tieu-pham/">Tiểu phẩm</a></li>						
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+		</ul>
+	</div><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</div>
+
+		<div id="content">			
+			
+			<div class="content-center fl">			
+			<div class="folder-header">
+	<script type="text/javascript" language="javascript">writeFolderTitle(PAGE_FOLDER);</script>
+	<div class="fr">Th&#7913; hai, 21/11/2011, 11:16 GMT+7</div>
+</div>
+<div class="email-print txtr">
+	<script>
+	writeSociable('http://vnexpress.net/gl/oto-xe-may/2011/11/kinh-nghiem-ghep-xe-vao-noi-do/','Kinh+nghiệm+ghép+xe+vào+nơi+đỗ','Kinh+nghiệm+ghép+xe+vào+nơi+đỗ','sociable',1000524633);
+	</script>
+<font onClick="return EmailSubject(1000524633)"><img border="0" src="/Images/email.gif" align="bottom">&nbsp;E-mail</font>
+&nbsp;&nbsp;&nbsp;<font onClick="return PrintSubject()"><img border="0" src="/Images/print.gif" align="bottom">&nbsp;B&#7843;n In</font>
+</div>
+
+				<div class="content">
+					<div style="overflow:hidden" cpms_content="true">
+				<H1 class=Title>Kinh nghiệm ghép xe vào nơi đỗ</H1>
+<H2 class=Lead>Ghép xe theo kiểu song song với lề đường khó nhất khi có hai xe chặn đầu và đuôi. Nếu biết cách, chỉ cần một "đỏ" là xe đã chuẩn rồi.</H2>
+<P class=Normal>Để đỡ mất thời gian nghiêng ngó cũng như đỡ mất công tiến ra lùi vào mà lẽ ra chỉ cần một hoặc hai 'đỏ' là có thể ghép được xe vào nơi đỗ, bạn nên tập làm quen và xác định đến chỗ nào thì dừng, chỗ nào thì đánh lái, chỗ nào thì trả lái....Ghép xe vào nơi đỗ có 4 dạng cơ bản, đa phần là lùi vào nơi đỗ, khi ra thì tiến. Bạn tưởng tượng là đến với một cao ốc lớn bạn gửi xe ở nơi đỗ mà ở đó người ta kẻ vạch qui định cho các ô tô phải xếp gọn, ngay ngắn trong các ô đó.</P>
+<P class=Normal>Giả sử người ta kẻ những chuồng đỗ liên tiếp nhau có thứ tự từ 1- 10 ( mười xe đỗ), mũi xe hướng ra đường và vuông góc với vỉa hè. Hoặc người ta kẻ chuồng chéo, tức là mười cái xe đấy phải xếp chéo, mũi hướng ra đường. Có những nơi do địa hình chật, phải bố trí nhiều xe nên họ tận dụng tối đa diện tích, họ sẽ xây gờ gạch hoặc bê tông cao chừng 10 -12cm, chắn ở đuôi xe theo dạng bậc thang, so le, cốt để khi đỗ sẽ không bị vướng cửa khi mở, tài xế vẫn chui ra được mà không bị đụng cửa vào xe bên cạnh.</P>
+<TABLE cellSpacing=0 cellPadding=3 width=288 align=center border=0>
+<TR>
+<TD class=Image>
+				<script type="text/javascript" src="/video/swfobject.js"></script>				
+				
+			<div id="flashContent" style="text-align:center;width:100%;">													
+				<span id="FlashPlayer60806" class="Normal" align="center">B&#7841;n c&#7847;n c&#224;i <a href="http://www.macromedia.com/go/getflashplayer">Flash Player</a> &#273;&#7875; xem &#273;&#432;&#7907;c Clip n&#224;y.</span>				
+			</div>			
+			
+			<script type="text/javascript" language="javascript">createPlayerEmbed(60806,480,380,"false",38, "FlashPlayer60806");</script>
+			</TD></TR>
+<TR>
+<TD class="Image" align="left"><STRONG>Nguồn video</STRONG>: <EM>Youtube.</EM></TD></TR></TABLE>
+<P class=Normal>Hay gặp ở trên phố là kiểu đỗ song song với vỉa hè mà người ta hay gọi là ghép dọc. Tôi xin chia sẻ chút kinh nghiệm về việc ghép xe cho 4 dạng cơ bản trên.</P>
+<P class=Normal>1- Ghép ngang (xe lùi vuông góc với vỉa hè): </P>
+<P class=Normal>a- Gác chéo đầu: Giống như với bài thi sát hạch cấp GPLX.</P>
+<P class=Normal>Bạn cho xe tiến vào bãi, song song với cửa chuồng, cách các mũi xe khác chừng 50 cm. Giả dụ bạn lùi vào ô số 5, khi vai của bạn ngang và giữa ô số 5 thì đánh hết lái sang bên trái (nếu ô số 5 ở bên phải), tiến cho xe chếch khoảng 45 - 60 độ so với đường kẻ ngang nơi của chuồng là lý tưởng, cài R và lùi. Một đỏ, Ok. </P>
+<P class=Normal>b- Nếu không gác chéo được đầu do đường hẹp... thì hãy tiến thẳng xe song song và cách các mũi xe khác từ 1,2 - 1,4 m, tiến qua ô số 5, qua ô số 4, qua ô số 3, khi tay gương ngang với vạch dọc phân cách giữa ô số 3 và ô số 2 thì dừng. Về số R, hết lái sang phải, nhìn gương và lùi từ từ. Một đỏ, Ok. </P>
+<P class=Normal>2 - Ghép chéo: Gần giống như kiểu ghép ngang, gác chéo đầu, chỉ khác là khi tay gương ngang với vạch dọc phân cách giữa ô số 6 và ô số 5 thì đánh hết lái sang trái, hãy nhìn gương xem xe đã nằm giữa chuồng thứ 5 chưa, nếu giữa rồi thì cứ thế mà lùi. Một đỏ, Ok. </P>
+<P class=Normal>3- Ghép so le theo kiểu bậc thang: Cái này tùy thực tế, nhưng cách thì giống như 2 dạng trước.</P>
+<P class=Normal>4 - Ghép dọc: Khó nhất là phải chui vào giữa hai xe đã đậu sẵn, cái chắn đầu cái chắn đuôi. Phải xác định được khoảng cách, chỗ muốn vào phải lớn hơn chiều dài của xe mình khoảng 2m nghĩa là khi lọt vô xe mình cách xe trên khoảng 1m và đuôi xe mình cách xe sau cũng khoảng 1 m. </P>
+<P class=Normal>Xe tiến thẳng, chậm qua chỗ muốn vào để xác định khoảng cách, nếu vào được tiếp tục tiến lên song song với xe đang đỗ phía trên, cách xe đấy khoảng 50 - 60 cm. Đuôi xe của mình ngan bằng với đuôi xe bên cạnh thì nhìn gương, cài số R, đánh hết lái về bên phải, lùi thật chậm có thể dùng phanh để hỗ trợ (nếu là AT), lúc này đầu xe đã vếch ra, nhìn gương trái để kiểm tra tình trạng người đi đường, lùi đến khi tay gương xe mình ngang với góc ngoài xe trên thì trả thẳng lái và lùi tiếp khi bánh sau xe mình cách vỉa hè 50 cm thì hết lái về bên trái. </P>
+<P class=Normal>Tiếp tục lùi, khi xe gần song song với vỉa hè thì vào D để tiến lên cho song song và thẳng lái, nếu chưa được thì lại tiếp tục lùi xuống, tiến lên cho đến khi song song với vỉa hè và thẳng lái, cách vỉa 25 cm là chuẩn.</P>
+<P class=Normal>Với khoảng cách đầu đuôi mỗi xe 1 m thì một đỏ đã chuẩn rồi. Tiến thêm một đỏ chỉ để cân bàng với xe đầu đuôi thôi. Trên đây là hướng dẫn với xe dòng sedan, các xe khác thì cũng vẫn là cách đấy nhưng khoảng cách dừng, đánh lái, trả lái phải kiểm tra lại và thực tế nó cũng hơi khác tùy vào mỗi người.</P>
+<P class=Normal>Chúc bạn sớm khắc phục được ''vấn đề'' này.</P>
+<P class=Normal><STRONG>Hồ Quang Quí</STRONG></P>
+			</div>
+			<div class="tag-parent"><img src='/Images/tags.gif' class="tag"><div class="tag-pos"><h3 class="tag-text"><a href='/tag/75029/ho-quang-qui/'>Hồ Quang Quí</a>, <a href='/tag/35711/kinh-nghiem-cam-lai/'>kinh nghiệm cầm lái</a>, <a href='/tag/11592/do-xe/'>đỗ xe</a>, <a href='/tag/56523/meo-lui-chuong/'>mẹo lùi chuồng</a>, <a href='/tag/4802/o-to/'>ô tô</a>, <a href='/tag/4801/xe-hoi/'>xe hơi</a></h3></div></div>
+			<div class="box-item" style="margin-top:5px;margin-bottom:5px;">
+			
+					<div style="border:1px solid #b7beb6; padding: 2px 3px;">
+						<div style="background-color: #d5d9de; padding: 5px 10px; margin-bottom:13px; font-weight:bold;">									
+							<table cellspacing="0" cellpadding="0" border="0" width="100%">
+								<tr>
+									<td>
+										<a name=aComment>&#221; ki&#7871;n b&#7841;n &#273;&#7885;c (<label style="color:#0033FF">15</label>)</a>
+									</td>
+									<td style="text-align:right; font-family:arial; font-size:11px; font-weight: normal;">
+										S&#7855;p x&#7871;p theo: 
+										<select name="cboOrder" id="cboOrder" onchange="OrderComment(this.value)" style="font-family:arial; font-size:11px; font-weight: normal;">
+											<option value="0" >Mới nhất</option>
+											<option value="1" selected>Cũ nhất</option>
+										</select>									
+									</td>
+								</tr>
+							</table>																		
+						</div>
+						<div style="height:400px; padding:0px 8px; overflow:auto; overflow-x: hidden;">								
+															
+							<div class="comment_ct">
+								<P class=Title>Trường hợp hay gặp nhất trong thành phố</P>
+<P class=Normal>Trong thành phố rất thiếu chỗ đỗ và chúng ta hay gặp nhất là trường hợp đỗ dọc như bạn Hồ Quang Quí đã nói. Đây là một bài đỗ khá khó đòi hỏi các tài phải có kinh nghiệm đúc kết nhiều năm. Bạn Hồ Quang Quí phân tích tình huống này rất đúng và các bạn khi thực hiện những thao tác này theo một nguyên tắc không được sáng tạo nhé ! </P>
+<P class=Normal>Chúc các bạn thành công</P>
+<P class=Normal><I>vũ thái hùng </I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Chưa chuẩn</P>
+<P class=Normal>Cảm ơn bạn về công sức đã bỏ ra nhưng rất tiếc là chưa chuẩn lắm. Các mục khác quá dễ mình không ý kiến, nhưng mục ghép dọc vào lỗ trống giữa 2 xe đậu bên lề thì chưa chuẩn lắm.<BR>1 - Khoảng trống giữa 2 xe trước chỉ cần dài hơn xe mình khoảng trên 1m là đã có thể vào ngon lành.<BR>2 - Khi bạn đánh hết lái qua phải mà "lùi đến khi tay gương xe mình ngang với góc ngoài xe trên thì trả thẳng lái và lùi tiếp ... " thì bánh sau của bạn đã leo lề mất rồi!<BR><BR>Mong bạn kiểm tra lại.</P>
+<P class=Normal>Thân.</P>
+<P class=Normal><I>Nguyễn Văn Liêm </I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Không dễ đâu !!... cần phải có nhiều kinh nghiệm</P>
+<P class=Normal>Về kỹ thật này, theo tôi không hề dễ (trên thực địa), nhất là đối với người mới biết lái xe. Muốn đạt được kỹ thật này thành thạo, ít nhất người lái xe phải đảm bảo , tự tin với tay lái của mình và một số kỹ năng lái xe khác nữa,... thì cả nên vào chỗ đỗ kiểu này. </P>
+<P class=Normal>Đối với tôi, tôi cũng có thể vào chỗ đỗ kiểu này, với chỗ trống còn lại (sau khi trừ đi độ dài của xe mình) khoảng 80 cm - 1 mét. Tất nhiên không lần nào cũng vào theo ý mình được, có lần cũng mất đến 3-4 đỏ mới vào được xe thẳng hàng,ngay ngắn được, có lần cũng vào được rất hoàn hảo, đánh xe lên vừa với ý định, lùi , căn , đánh lái , gần chạm xe sau, tiến lên, đánh lái và xe thẳng hàng " Hoàn hảo ". Nói chung, kỹ thật này rất khó , không phải ai cũng thực hiện được. Nhưng đã có kỹ thật, thì tất cả chúng ta đều có thể thực hiên được. </P>
+<P class=Normal>Chúc các bạn thành công</P>
+<P class=Normal><I>Lê Hoàng </I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Tập luyện đi hình zichzac</P>
+<P class=Normal>Cám ơn bạn Hồ Quang Quý đã giúp cho mọi người kỹ năng cơ bản khi lùi , đặc biệt là lùi ghép dọc. Thực tế phải luyện nhiều vì địa hình có thể không đủ chiều rộng nên có thể vửa đành lái sang phải một chút sau đó lùi, rồi đánh lại bẻ lái sang phải một chút khi đầu xe vừa sát với đuôi xe trước bạn lúi một chút sau đó bẻ lái phải hết mức và lùi sau đó tiến lên và trả lái cho phù họp. Với kỹ năng thuần thục, chúc các bạn thành công</P>
+<P class=Normal><I>Bảo Minh </I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Cách tập lùi xe đây  các bạn!</P>
+<P class=Normal>Chào các bạn! Bạn nào muốn tập ghép xe song song sao cho thật nhanh và chính xác hãy vào trang Web sau đây mà luyện, vụng về lắm chỉ mất khoảng 1 giờ tập là trở thành tay lái lụa ngay. Nếu thành công nhớ gửi lời cám ơn nhé! www.driverseddirect.com/game danghuyquyen@gmail.com</P>
+<P class=Normal><I>Đặng Huy Quyền </I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Nắm lý thuyết và thực tập nhiều vào!</P>
+<P class=Normal>Lý thuyết là như vậy tuy nhiên nếu ít cơ hội thực tập thì bạn sẽ toát mồ hôi hột và 5-7 đỏ vẫn chưa vào đâu. Chỉ cần khoảng trống đầu, đuôi hơi hắn, phía trong là cột hoặc tường rào (hoặc bồn cây hơi cao), và phải đậu cách vách tường không quá 25cm theo quy định thì càng khó. Hãy luyện tập nhiều vào.</P>
+<P class=Normal><I>hmq </I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Kinh nghiệm của tôi</P>
+<P class=Normal>Qua kinh nghiệm và suy ngẫm của mình sau một thời gian cầm lái. Tôi xin được chia sẻ một số đúc kết mà tôi cho là những nguyên tắc cơ bản để giúp mình lái xe được chính xác và an toàn hơn.</P>
+<P class=Normal>1 – Nguyên tắc bàn tay vẫy (trong phạm vi và thời gian ngắn). Hẳn ai cũng có lần vẫy tay chào ai đó. Thì khi bẻ lái tiến hay lùi, chuyển động của chiếc ô tô cũng gần như vậy. Đuôi xe là tâm vẫy, và đầu xe như đầu ngón tay vẫy, có thêm chuyển động tiến lùi, giống như lên xuống của cẳng tay. Đầu xe chuyển động theo phương ngang nhiều hơn. Đuôi xe theo phương dọc nhiều hơn. Ng/tắc này cho thấy khi ghép xe vào chỗ đỗ thì lùi đuôi xe vào là phương án tối ưu. Hoặc giúp ta chú ý nhiều đến đuôi, hay đầu xe hơn khi bẻ lái tiến hoặc lùi.</P>
+<P class=Normal>2- Nguyên tắc bảo toàn chuyển động. Nếu bạn giữ nguyên vô lăng, thì khi bạn tiến, hoặc lùi thì xe sẽ chuyển động theo những quĩ đạo giống nhau. Ng/tắc này giúp ích ở chỗ: nếu bạn căn sai trong việc lùi hoặc tiến, cách an toàn nhất là giữ nguyên vô lăng và tiến hoặc lùi ngược lại. Bạn sẽ an toàn.</P>
+<P class=Normal>3 – Nguyên tắc giai đoạn độc lập. Với những tình huống đòi hỏi sự chính xác, ko chú ý tới tốc độ. Bạn cần chia ra các giai đoạn riêng biệt nhau, sau mỗi giai đoạn sẽ đánh giá và đưa ra phương án tiếp theo. Việc thay đổi tốc độ, bán kính cua quá nhanh sẽ dẫn tới những sai lầm đáng tiếc.</P>
+<P class=Normal>4 – Bình tĩnh và chậm rãi. Nếu xe có điều hòa thì hãy bật điều hòa lên, và nếu chân bạn không thể khiến cho xe “bò như con rùa” thì tốt nhất là tránh những tình huống khó ra. </P>
+<P class=Normal>Có những khi bạn đỗ xe hoặc lấy xe trong một căn hầm toàn ô tô, chẳng có ai trợ giúp, cạnh bạn là cô vợ không biết lái xe và đứa con nhỏ, thì nguyên tắc 4 rất quan trọng đó. Tôi không nêu ra những con số và khoảng cách cụ thể, vì nó hoàn toàn khác nhau với các xe khác nhau (cho dù cùng một dòng sedan).</P>
+<P class=Normal>Với 4 nguyên tắc này thì tôi nghĩ đã đủ để mình có thể “tập luyện” việc đỗ xe cho đến lúc thành thục. Đừng quan tâm tới những người đang ngồi uống cafe, nhìn và đếm xem bạn đã bao nhiêu “đỏ” rồi. Quan trọng là đến hôm sau lại quán đó bạn ngồi uống cafe và ngồi nghĩ “Tưởng gì, hóa ra đỗ xe là chuyện nhỏ”. <BR>Chúc thành công.</P>
+<P class=Normal><I>Xe thì tã nhưng lái thì đã! </I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Ghép xe và nơi đỗ</P>
+<P class=Normal>Theo bạn Quí, ghép xe dọc mà khoảng trống còn được 2 mét trước và sau là quá nhiều so với các bãi xe ở TP.HCM. Các bạn thử ra đường Lê Lợi Q.1, có công việc ra khu vực này tìm được 1 chổ trống để đỗ xe là việc không đơn giản, và các nhân viên bán vé đỗ xe họ xếp cho bạn khoảng trống lớn hơn xe bạn tầm 0.7 mét. Theo tôi, đỗ xe trong TP.HCM thì phải tập dượt nhiều ở nhà. Chúc các bạn lái xe an toàn.</P>
+<P class=Normal><I>Đặng Đức Thế Huy </I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Chưa chuẩn tập 2</P>
+<P class=Normal>Thứ nhất bạn nói gương xe bên fụ ngang với đuôi xe trưóc thì đánh lái ngay lại lùi típ,!! nếu xe bạn là dòng mini như Morning, hay Yaris thì dc, sedan ko tính dc vậy.!!<BR><BR>Thứ 2: bạn có nói "đến khi tay gương xe mình ngang với góc ngoài xe trên thì trả thẳng lái và lùi tiếp khi bánh sau xe mình cách vỉa hè 50 cm thì hết lái về bên trái. "<BR>nếu ai canh dc 50 cm tui quỳ lại liền, cái rương bé xíu nhìn xuống bánh xe đã khó sao canh khoản 50cm.???<BR><BR>theo tui cảm giác lái thật tối mới có thể làm dc việc này. Nhưng nếu khoản trống giữa 2 xe trước sau cách 1m Tôi dùng 1/2 đỏ ko cần 1 đỏ đâu^_* TP xe nó đậu sát rạt à bạn ơi <BR>thân chào</P>
+<P class=Normal><I>kend </I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>NHÌN NGƯỜI KHÁC CHẠY</P>
+<P class=Normal>Cứ ôm xe ra đường chạy nhiều vào là đâu vào đấy tất, lý thuyết nhiều chỉ làm rối , kinh nghiệm của tôi là nhìn người khác chạy hay thì học dở thì tránh và không bao giờ được chủ quan.</P>
+<P class=Normal><I>nguyễn thanh </I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Cách của em</P>
+<P class=Normal>Các bác vào chuồng cổ điển quá, cách này của em nhé. các bác cho lái trước vào chuồng (vị trí muốn) lúc này mông vợ 2 đang chổng ra đường, các bác làm 1 phát drip tóe khói là lôi mông vợ 2 vào ngay. Sành điệu không tiếc tiền triệu. keke các bác cố lên, không thành công thì cũng thành ...gà.</P>
+<P class=Normal><I>Long </I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Lùi đít vào chuồng và kéo phanh tay</P>
+<P class=Normal>chỉ cần khoảng cách 1m cho xe đầu bằng và 1.6m cho xe đầu dài "tính gộp khoảng cách đầu + đuôi xe". Cho đít vào trước, cách ba toa 15cm giật phanh tay, đạp ga tỳ côn đánh lái đưa bánh trước rê vào. Đảm bảo thử một vài lần ở chỗ trống, lần sau thực hành lại vào ngay nhưng hơi tốn tiền vì lốp hay bị mòn một bên</P>
+<P class=Normal><I>Lưu Quốc Tuấn </I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Có vấn đề khi thực hiện công thức lùi</P>
+<P class=Normal>Với người mới lái xe thì việc thực hiện một số công thức lùi xe vào chỗ đố là hữu ích, tuy vậy bạn đừng nghĩ đó là khuôn vàng thước ngọc mà hãy tập để rutd kinh nghiệm cho mình nếu không muốn mất nhiều tiền học phí. Lý do là: mỗi xe có một kích thước khác nhau như xe đầu ngắn khác với đầu dài, chiều dài cơ sở khác nhau, bố trí bánh xe khác nhau. </P>
+<P class=Normal>Nếu xe đầu ngắn mà đợi đến khi gương xe hoặc tay lái ngang với cản sau xe trước (trường hợp ghép xe dọc) là đã quá muộn, khi đó nhiều khả băng bánh sau của bạn đã leo lên vỉa hè rồi, trường hợp này bạn phải quan sát vị trí của bánh xe sau, khi cách mép hè khoảng 30cm phải đánh hết lái về bên phải. Tóm lại, dướng dẫn trên thường có ích cho xe sedan, nhưng không phải xe nào cũng vậy vì kích thước xe khác nhau như trên mình đã nói. Bạn cần luyện tập để thực hiện tốt với xe của mình nhưng cần điều chỉnh lại một số vị trí chuẩn để đánh lái cho phù hợp, về cơ bản hướng dẫn trên là dùng được.</P>
+<P class=Normal><I>Hùng </I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Bài tư vấn chính xác</P>
+<P class=Normal>Tất nhiên là tuỳ từng loại xe, tuỳ khoảng cách đầu tiên khi mình đỗ song song cách xe trên về chiều ngang là 40cm, 60cm, 80cm...Nếu khoảng cách là 50 - 60cm thì khi hết lái sang bên phải, đuôi xe lùi vào hình, đầu xe vếch ra ngoài, thân xe chéo với vỉa hè khoảng 45độ, lúc đấy trả thẳng lái lùi tiếp. </P>
+<P class=Normal>Khi vị trí gương bên phải ngang với góc ngoài, phía sau, bên trái của xe phía trên ( ngang là điểm nhìn của người lái, lúc đấy xe đang chéo so với vỉa hè ), lúc đấy mới trả hết lái... để đưa đầu xe vào. Nếu trả lái sớm hơn có thể mũi xe phía góc bên phải xe của mình cọ quẹt với góc sau bên tái của xe trên. Tôi đã thực nghiệm, kết quả tốt. Tôi cho rằng bài tư vấn chính xác. </P>
+<P class=Normal><I>Lê Văn Cường </I></P>
+							</div>									
+						
+							<!--<hr />-->
+														
+							<div class="comment_ct">
+								<P class=Title>Ghép xe phải tập nhiều</P>
+<P class=Normal>Các bác cứ vội làm gì? Đầu tiên 10 đỏ cũng chả ai cười, lâu rồi sẽ còn 1 đỏ thôi. Quan trọng là mình điều khiển dược con xe, đừng để xe nó điều khiển mình. Chúc các bác luôn an toàn mỗi lần lên xe. Thân!</P>
+<P class=Normal><I>Phạm Anh Phương </I></P>
+							</div>									
+						
+						</div>
+						<div style="background-color: #d5d9de; padding: 5px 10px; margin-top:13px; min-height:12px;">
+							
+						</div>
+						<!--<script type="text/javascript" language="javascript" src="/Library/Common/jquery.js"></script>-->
+						<script type="text/javascript" language="javascript">
+							$(document).ready(function(){
+								//$('div.comment_ct p.Title').css('font-size',17);
+							});
+						</script>
+						<script type="text/javascript" language="javascript">
+							function OrderComment(i){
+								setCookie('VOrderComment', '', '', i);
+								location.href = '/gl/oto-xe-may/2011/11/kinh-nghiem-ghep-xe-vao-noi-do#aComment';
+							}									
+						</script>
+					</div>
+					
+<p id=pShow><a class=SForm onclick="ShowFormComment()"><img src="/Images/Y-kien-cua-ban.gif" border="0" style="cursor:pointer" alt="Ý kiến của bạn" /></a></p>
+<div id="dComment" class="dtopitem_all">
+	<form method="post" name="frmComment" id="frmComment" target="_blank" onsubmit="submitForm(this);return false;" action="/service/comment/submit.asp">
+		<div class="adword-hdf">&nbsp;</div>
+		<div class="adword adword-middle" style="padding-top:0px;">					
+			<div class="adword-nav2 fl" style="padding-top:10px; width:476px; background-color:#ffffff">
+				<div style="padding-bottom:5px; overflow:hidden;">
+					<div class="fl" style="width:60%">
+						<input type="text" value="Họ tên" name="txtAddedBy" id="txtAddedBy" style="width:280px;" size="29" onfocus="NameOnFocus(this)" onblur="NameOnBlur(this)" onkeyup="initTyper(this)" class="adword-textbox"">
+					</div>
+					<div class="fr" style="width:180px;">
+						<input type="text" value="Email" name="txtAddedByEmail" id="txtAddedByEmail" style="width:172px" size="29" onfocus="EmailOnFocus(this)" onblur="EmailOnBlur(this)" class="adword-textbox">
+					</div>
+				</div>
+				<div style="padding-bottom:5px; overflow:hidden;">
+					<div class="fl" style="width:60%">
+						<input type="text" value="Tiêu đề" name="txtAddedTitle" id="txtAddedTitle" style="width:280px;" size="29" onfocus="TitleOnFocus(this)" onblur="TitleOnBlur(this)" onkeyup="initTyper(this)" class="adword-textbox"">
+					</div>
+					<div class="fr" style="width:180px;">
+						<input type="text" value="Mã xác nhận" name="txtValidCode" id="txtValidCode" style="width:99px;" size="29" onfocus="ValidateCodeOnFocus(this)" onblur="ValidateCodeOnBlur(this)" onkeyup="initTyper(this)" class="adword-textbox"">
+						<img src="/Service/Vote/securelog/image.asp" name="imgValidCode" id="imgValidCode" style="vertical-align:top; height:20px; padding-top:1px">
+						&nbsp;<img src="/Images/change-image.gif" alt="Thay hình khác" onclick="ChangeImage()" style="vertical-align:top;cursor:pointer; padding-top:1px" />
+					</div>
+				</div>
+				<div style="overflow:hidden;">
+					<div class="fl" style="width:60%">
+						<input type="submit" value="G&#7917;i To&#224; so&#7841;n" name="B1" class="SForm">&nbsp;<input type="button" value="Xo&#225; tr&#7855;ng" name="B2" class="SForm" onclick="InputDefault();">&nbsp;<input type="button" value="&#272;&#243;ng l&#7841;i" class="SForm" onclick="ShowFormComment()">
+						<input type="hidden" name="txtT" id="txtT" value="1000524633" />
+						<input type="hidden" name="txtS" id="txtS" value="0" />
+						<input type="hidden" name="txtF" id="txtF" value="38" />
+						<input type="hidden" name="txtL" id="txtL" value="/gl/oto-xe-may/2011/11/kinh-nghiem-ghep-xe-vao-noi-do" />
+					</div>
+					<div class="fl" style="width:40%; text-align:right;">
+						<input type="radio" name="optInput" value="0" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(0)">Off
+						<input type="radio" name="optInput" value="1" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(1)" checked>Telex
+						<input type="radio" name="optInput" value="2" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(2)">VNI
+						<input type="radio" name="optInput" value="3" class="SForm" style="vertical-align:middle; margin-top:0px;" onfocus="setTypingMode(3)">VIQR								
+					</div>
+				</div>				
+			</div>			
+			<div class="adword-nav2 fl" style="padding-top:0px;">
+				<textarea rows="10" name="txtAddedContent" id="txtAddedContent" cols="43" onkeyup="initTyper(this)" class="SForm" style="width: 470px"></textarea>				
+			</div>
+		</div>
+		<div class="adword-ftf">&nbsp;</div>
+	</form>
+</div>
+<script type="text/javascript">
+	var bshow = false;
+	
+	function ShowFormComment()	{
+		if(bshow){
+			gmobj('dComment').style.display="block";
+			gmobj('pShow').style.display="none";
+			bshow=false;
+		}
+		else{
+			gmobj('dComment').style.display="none";
+			gmobj('pShow').style.display="block";
+			bshow=true;
+		}
+	}
+	ShowFormComment();
+	
+	function submitForm(theform){
+		document.frmComment.txtAddedBy.value = Trim(document.frmComment.txtAddedBy.value);
+		if (document.frmComment.txtAddedBy.value == '' || document.frmComment.txtAddedBy.value == 'Họ tên')
+		{
+			alert('Xin hay nhap Ho ten!');
+			document.frmComment.txtAddedBy.focus();
+			return;
+		}
+
+		if ((SEmail = CheckEmailAddress(document.frmComment.txtAddedByEmail.value))=='')
+		{
+			alert('Dia chi Email khong hop le!');
+			document.frmComment.txtAddedByEmail.focus();
+			return;
+		}
+
+		document.frmComment.txtAddedByEmail.value = SEmail;
+
+		document.frmComment.txtAddedTitle.value = Trim(document.frmComment.txtAddedTitle.value);
+		if (document.frmComment.txtAddedTitle.value == '' || document.frmComment.txtAddedTitle.value == 'Tiêu đề')
+		{
+			alert('Xin hay nhap Tieu de!');
+			document.frmComment.txtAddedTitle.focus();
+			return;
+		}
+		
+		document.frmComment.txtValidCode.value = Trim(document.frmComment.txtValidCode.value);
+		if (document.frmComment.txtValidCode.value == '' || document.frmComment.txtValidCode.value == 'Mã xác nhận')
+		{
+			alert('Xin hay nhap Ma xac nhan!');
+			document.frmComment.txtValidCode.focus();
+			return;
+		}
+
+		document.frmComment.txtAddedContent.value = Trim(document.frmComment.txtAddedContent.value);
+		if (document.frmComment.txtAddedContent.value == '')
+		{
+			alert('Xin hay nhap Noi dung!');
+			document.frmComment.txtAddedContent.focus();
+			return;
+		}
+
+		if (!confirm('Gui yeu cau?'))
+			return;
+			
+		var status = AjaxRequest.submit(
+			theform
+			,{
+				'onSuccess':function(req){
+					if(req.responseText=='ValidCode'){
+						alert('Ma xac nhan khong dung!');
+					}
+					else{
+						alert(req.responseText);
+						ResetDefault();
+					}
+				}				
+				,'onError':function(req){
+					alert(req.responseText);
+				}
+			}
+		);
+		return status;
+	}
+	
+	function ChangeImage() {			
+		var ranNum = Math.floor(Math.random() * 5);
+
+		AjaxRequest.get(
+		  {
+			'onSuccess':function(req){
+				gmobj('imgValidCode').src = "/Service/Vote/securelog/image.asp?Code=" + ranNum;						
+			}
+			,'onError':function(req){					
+			}
+		  }
+
+		)
+    }
+	
+	function InputDefault() {
+		document.frmComment.txtAddedBy.value = 'Họ tên';
+		document.frmComment.txtAddedBy.className = 'adword-textbox';
+		document.frmComment.txtAddedByEmail.value = 'Email';
+		document.frmComment.txtAddedByEmail.className = 'adword-textbox';		
+		document.frmComment.txtAddedTitle.value = 'Tiêu đề';
+		document.frmComment.txtAddedTitle.className = 'adword-textbox';
+		document.frmComment.txtValidCode.value = 'Mã xác nhận';		
+		document.frmComment.txtValidCode.className = 'adword-textbox';
+		document.frmComment.txtAddedContent.value = '';
+		document.frmComment.txtAddedContent.focus();
+	}
+	
+	function ResetDefault() {
+		InputDefault();
+		ChangeImage();
+				
+	}
+</script>
+
+			</div>
+			
+			<div style="margin-top:5px;margin-bottom:5px;">							
+				<script language="javascript">					
+					Poly_ShowArticlebanner();										
+				</script>				
+			</div>
+		</div>				
+		<div class="folder-news">
+	<div class="boxnew-header">
+		<div class="boxnew-title fl">Tin mới</div>
+	</div>
+	<div class="boxnew">
+		<ul>
+		<li><a href="/gl/oto-xe-may/2011/11/nghe-san-sieu-xe-cho-dai-gia/" class="link-othernews">Nghề săn siêu xe cho đại gia</a><span style="color: #909090">&nbsp;(24/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/toyota-viet-nam-gioi-thieu-altis-trd/" class="link-othernews">Toyota Việt Nam giới thiệu Altis TRD</a><span style="color: #909090">&nbsp;(23/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/lexus-trinh-lang-gs-the-he-moi-o-quang-chau/" class="link-othernews">Lexus trình làng GS thế hệ mới ở Quảng Châu</a><span style="color: #909090">&nbsp;(23/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/thoi-trang-honda-cbr600f-tren-pho-sai-gon/" class="link-othernews">'Thời trang' Honda CBR600F trên phố Sài Gòn</a><span style="color: #909090">&nbsp;(23/11)</span></li>
+		<li><a href="/gl/oto-xe-may/tu-van/2011/11/he-thong-dan-duong-3d-cho-oto/" class="link-othernews">Hệ thống dẫn đường 3D cho ôtô</a><span style="color: #909090">&nbsp;(23/11)</span></li>
+		</ul>
+	</div>
+</div>
+<div class="folder-news">
+	<div class="othernews-header">
+		<div class="othernews-title fl">C&#225;c tin kh&#225;c</div>
+		<div class="fr txtr" style="margin-bottom:5px;"><label onClick="history.go(-1)" class="Time" style="cursor:pointer">[<B>Tr&#7903; v&#7873;</B>]</label></div>
+	</div>
+	<div class="othernews">
+		<ul>
+		<li><a href="/gl/oto-xe-may/2011/11/drift-moto-dieu-nghe/" class="link-othernews">Drift môtô điệu nghệ</a>&nbsp;<img border="0" src="/Images/video2.gif" />&nbsp;
+<span style="color: #909090">&nbsp;(21/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/mercedes-cls-net-dep-coupe-4-cua/" class="link-othernews">Mercedes CLS - nét đẹp 'coupe 4 cửa'</a><span style="color: #909090">&nbsp;(20/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/toan-canh-los-angeles-auto-show-2011/" class="link-othernews">Toàn cảnh Los Angeles Auto Show 2011</a><span style="color: #909090">&nbsp;(19/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/lambretta-lj-scooter-50-phan-khoi/" class="link-othernews">Lambretta LJ - scooter 50 phân khối</a><span style="color: #909090">&nbsp;(19/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/ford-fiesta-co-the-them-phien-ban-moi/" class="link-othernews">Ford Fiesta có thể thêm phiên bản mới</a><span style="color: #909090">&nbsp;(19/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/phep-thu-chevrolet-camaro-cho-thi-truong-viet-nam/" class="link-othernews">Phép thử Chevrolet Camaro cho thị trường Việt Nam</a>&nbsp;<img border="0" src="/Images/photo2.gif" />
+<span style="color: #909090">&nbsp;(19/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/ft-86-g-sports-xu-huong-moi-cua-toyota/" class="link-othernews">FT-86 G Sports - xu hướng mới của Toyota</a><span style="color: #909090">&nbsp;(18/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/kymco-trinh-lang-people-one-125i/" class="link-othernews">Kymco trình làng People One 125i</a><span style="color: #909090">&nbsp;(18/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/dung-go-che-tao-vespa-co/" class="link-othernews">Dùng gỗ chế tạo Vespa cổ</a><span style="color: #909090">&nbsp;(18/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/hang-doc-honda-cafe-racer-xuat-hien-tai-sai-gon/" class="link-othernews">Hàng độc Honda Cafe racer xuất hiện tại Sài Gòn</a>&nbsp;<img border="0" src="/Images/video2.gif" />&nbsp;
+<span style="color: #909090">&nbsp;(18/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/can-canh-ford-escape-the-he-moi/" class="link-othernews">Cận cảnh Ford Escape thế hệ mới</a><span style="color: #909090">&nbsp;(18/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/nguoi-dep-viet-nam-motor-show-1/" class="link-othernews">Người đẹp Việt Nam Motor Show</a><span style="color: #909090">&nbsp;(17/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/mercedes-slk350-mui-tran-hang-sang-o-viet-nam-motor-show-1/" class="link-othernews">Mercedes SLK350 - mui trần hạng sang ở Việt Nam Motor Show</a><span style="color: #909090">&nbsp;(17/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/bao-ve-xe-ngay-tu-khi-khoi-dong/" class="link-othernews">Bảo vệ xe ngay từ khi khởi động</a><span style="color: #909090">&nbsp;(17/11)</span></li>
+		<li><a href="/gl/oto-xe-may/2011/11/honda-trinh-lang-cr-v-the-he-moi/" class="link-othernews">Honda trình làng CR-V thế hệ mới</a><span style="color: #909090">&nbsp;(17/11)</span></li>
+		</ul>
+	</div>
+</div>
+
+		</div>
+	<div class="content-left fl">		
+	<div class="linksite-box" style="padding:0px;">
+	<img alt="Link Site" src="/Images/Linksite/site2.gif" usemap="#ctmap" class="img-linksite"/>
+	<map id="ctmap" name="ctmap">
+		<area shape="rect" coords="6,0,72,28" href="http://ngoisao.net/" target="_blank" title="ngoisao.net" />
+		<area shape="rect" coords="83,0,140,28" href="http://sohoa.vnexpress.net/" target="_blank" title="sohoa.vnexpress.net" />		
+		<area shape="rect" coords="152,0,215,28" href="http://gamethu.vnexpress.net/" target="_blank" title="gamethu.vnexpress.net" />
+		<area shape="rect" coords="223,0,296,28" href="http://vieclam.vnexpress.net/" target="_blank" title="viec lam" />
+	</map>
+</div>
+	<div class="box-item">		
+		<script type="text/javascript">
+			cpms_Ap.typ = 2;
+			cpms_Ap.ste = 1;
+			cpms_Ap.reg = 0;
+			cpms_Ap.fol = 38;
+			cpms_Ap.dof = 0;
+			cpms_Ap.wdt = 300;
+			
+			cpms_Ap.itf = 3;
+			
+			cpms_Ap.ShowAd();
+		</script>
+	</div>
+	<Script language="JavaScript">Poly_ShowLogoLeft(2)</Script>
+<TABLE cellSpacing=0 cellPadding=0 width=300 border=0>
+<TR>
+<TD colSpan=3><IMG width="300" height="3" src="/Files/Folder/00/26/box_top1.gif"></TD></TR>
+<TR>
+<TD width=1 bgColor=#d5d8de class="BreakLine"><FONT color="#d5d8de"> </FONT></TD>
+<TD width=298>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff border=0>
+<TR>
+<TD colSpan=3 height=5 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD>
+<TD class="Normal" align="center"><B><FONT face=arial color=#8a0000 size=2>Diễn đàn tư vấn</FONT></B></TD>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD colSpan=3 height=5 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR></TABLE></TD>
+<TD width=1 bgColor=#d5d8de class="BreakLine"><FONT color="#d5d8de"> </FONT></TD></TR>
+<TR>
+<TD width=1 bgColor=#d5d8de class="BreakLine"><FONT color="#d5d8de"> </FONT></TD>
+<TD width=298>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#e6ecf0 border=0>
+<TR>
+<TD colSpan=3 height=5 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD>
+<TD>
+<TABLE cellSpacing=0 cellPadding=3 width=288 align=center border=0>
+<TR>
+<TD colSpan=2 class="Image">Bạn đặt câu hỏi <A href="/gl/oto-xe-may/tu-van/2004/03/dat-cau-hoi-tu-van/" onClick="return openMeExt(this,0,0,1,0,0,0,0,1,600,520,0,0,0)" class=Image>tại đây</A>. <EM>VnExpress</EM> giữ quyền biên tập.</TD></TR>
+<TR>
+<TD class=Image colSpan=2>
+<TABLE cellSpacing=2 cellPadding=3 width=281 bgColor=#ffffff border=0>
+<TR>
+<TD class=BoxLink bgColor=#c8d5dd>
+<A href="/GL/Topic/?ID=5227" class="BoxLink"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/DC_B.jpg"></A></TD>
+<TD bgColor=#c8d5dd class="BoxLink" align="center"><A href="/GL/Topic/?ID=5227" class="BoxLink">Hỏng hóc động cơ  </A></TD>
+<TD class=BoxLink bgColor=#e6ecf0> <A href="/GL/Topic/?ID=3694" class="BoxLink"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/xecu_B.jpg"></A></TD>
+<TD bgColor=#e6ecf0 class="BoxLink" align="center">Mua xe<A href="/GL/Topic/?ID=3694" class="BoxLink"> cũ</A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c8d5dd> <A href="/GL/Topic/?ID=5717" class="BoxLink"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/Camlai1111.jpg"></A></TD>
+<TD bgColor=#c8d5dd class="Normal" align="center"> <A href="/GL/Topic/?ID=5717" class="BoxLink">Kinh nghiệm cầm lái</A></TD>
+<TD class=BoxLink bgColor=#e6ecf0> <A href="/GL/Topic/?ID=5614" class="BoxLink"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/Muaxe1112.jpg"></A></TD>
+<TD bgColor=#e6ecf0 class="Normal" align="center"> <A href="/GL/Topic/?ID=5614" class="BoxLink">Tư vấn mua xe mới</A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c8d5dd>
+<A href="/GL/Topic/?ID=5762" class="Normal"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/PH111111.jpg"></A></TD>
+<TD bgColor=#c8d5dd class="Normal" align="center"><A href="/GL/Topic/?ID=5762" class="BoxLink"> Các sự cố phanh</A></TD>
+<TD class=BoxLink bgColor=#e6ecf0>
+<A href="/GL/Topic/?ID=5763" class="BoxLink"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/DH1111.jpg"></A></TD>
+<TD bgColor=#e6ecf0 class="Normal" align="center"> <A href="/GL/Topic/?ID=5763" class="BoxLink">Những vấn đề về điều hòa</A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c8d5dd>
+<A href="/GL/Topic/?ID=5767" class="Normal"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/Noithat1111.jpg"></A></TD>
+<TD bgColor=#c8d5dd class="Normal" align="center"><A href="/GL/Topic/?ID=5767" class="BoxLink"> Nội, ngoại thất</A></TD>
+<TD class=BoxLink bgColor=#e6ecf0>
+<A href="/GL/Topic/?ID=5766" class="Normal"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/Con11111.jpg"></A></TD>
+<TD bgColor=#e6ecf0 class="Normal" align="center"> <A href="/GL/Topic/?ID=5766" class="BoxLink">Côn và hộp số</A></TD></TR></TABLE></TD></TR></TABLE></TD>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD colSpan=3 height=5 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR></TABLE></TD>
+<TD width=1 bgColor=#d5d8de class="BreakLine"><FONT color="#d5d8de"> </FONT></TD></TR>
+<TR>
+<TD colSpan=3><IMG width="300" height="10" src="/Files/Folder/00/26/box_bottom1.gif"></TD></TR></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=300 border=0>
+<TR>
+<TD colSpan=3>
+<Script type="text/javascript" language="JavaScript">Poly_ShowLogoLeft2(4)</Script>
+ </TD></TR></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=297 bgColor=#ffffff border=0>
+<TR>
+<TD bgColor=#ffffff colSpan=3 height=5><div class="box-item">
+	<div class="tmp1_hot_header">
+		<div class="tmp1_hot_content">
+			<ul>	<li><a href="/gl/oto-xe-may/2011/11/honda-jazz-kinh-dich-tuong-lai-cua-yaris-o-viet-nam/">Honda Jazz - kình địch tương lai của Yaris ở Việt Nam?</a></li>
+	<li><a href="/gl/oto-xe-may/2011/11/bo-doi-sieu-xe-lamborghini-den-tuyen-o-sai-gon/">Bộ đôi siêu xe Lamborghini đen tuyền ở Sài Gòn</a></li>
+	<li><a href="/gl/oto-xe-may/2011/11/kia-cadenza-ra-mat-tai-viet-nam/">Kia Cadenza ra mắt tại Việt Nam</a></li>
+	<li><a href="/gl/oto-xe-may/2011/11/mercedes-cls-net-dep-coupe-4-cua/">Mercedes CLS - nét đẹp 'coupe 4 cửa'</a></li>
+	<li><a href="/gl/oto-xe-may/2011/11/phep-thu-chevrolet-camaro-cho-thi-truong-viet-nam/">Phép thử Chevrolet Camaro cho thị trường Việt Nam</a>&nbsp;<img border="0" src="/Images/photo.gif" alt="" /></li>
+	<li><a href="/gl/oto-xe-may/2011/11/hang-doc-honda-cafe-racer-xuat-hien-tai-sai-gon/">Hàng độc Honda Cafe racer xuất hiện tại Sài Gòn</a>&nbsp;<img border="0" src="/Images/video.gif" alt="" /></li>
+	<li><a href="/gl/oto-xe-may/2011/11/mercedes-slk350-mui-tran-hang-sang-o-viet-nam-motor-show-1/">Mercedes SLK350 - mui trần hạng sang ở Việt Nam Motor Show</a></li>
+	<li><a href="/gl/oto-xe-may/2011/11/chevrolet-orlando-trinh-lang-viet-nam/">Chevrolet Orlando trình làng Việt Nam</a>&nbsp;<img border="0" src="/Images/photo.gif" alt="" /></li>
+	<li><a href="/gl/oto-xe-may/2011/11/viet-nam-motor-show-2011-khai-mac-1/">Việt Nam Motor Show 2011 khai mạc</a></li>
+	<li><a href="/gl/oto-xe-may/2011/11/bo-doi-sieu-sang-maybach-o-sai-gon/">Bộ đôi siêu sang Maybach ở Sài Gòn</a></li>
+</ul>
+		</div>
+	</div>
+</div>
+</TD></TR></TABLE><A href="/GL/Topic/?ID=1355" class=""></A>
+<TABLE cellSpacing=0 cellPadding=0 width=300 border=0>
+<TR>
+<TD colSpan=3><IMG width="300" height="3" src="/Files/Folder/00/26/box_top1.gif"></TD></TR>
+<TR>
+<TD width=1 bgColor=#d5d8de class="BreakLine"><FONT color="#d5d8de"> </FONT></TD>
+<TD width=298>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff border=0>
+<TR>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD>
+<TD class="Normal" align="center"><B><FONT face=arial color=#8a0000 size=2>Bài theo chủ đề</FONT></B></TD>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD colSpan=3 height=5 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR></TABLE></TD>
+<TD width=1 bgColor=#d5d8de class="BreakLine"><FONT color="#d5d8de"> </FONT></TD></TR>
+<TR>
+<TD width=1 bgColor=#d5d8de class="BreakLine"><FONT color="#d5d8de"> </FONT></TD>
+<TD width=298>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#e6ecf0 border=0>
+<TR>
+<TD colSpan=3 height=5 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD>
+<TD>
+<TABLE cellSpacing=2 cellPadding=3 width=281 bgColor=#ffffff border=0>
+<TR>
+<TD class=BoxLink bgColor=#c8d5dd>
+<A href="/GL/Topic/?ID=1355" class="BoxLink"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/CN-B.jpg"></A></TD>
+<TD bgColor=#c8d5dd class="BoxLink" align="center"><A href="/GL/Topic/?ID=1355" class="BoxLink">Công nghệ </A></TD>
+<TD class=BoxLink bgColor=#e6ecf0> <A href="/GL/Topic/?ID=432" class="BoxLink"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/thitruong.jpg"></A></TD>
+<TD bgColor=#e6ecf0 class="BoxLink" align="center"><A href="/GL/Topic/?ID=432" class="BoxLink">Thị trường</A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c8d5dd>
+<A href="/GL/Topic/?ID=1353" class="BoxLink"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/baoduong.jpg"></A></TD>
+<TD bgColor=#c8d5dd class="BoxLink" align="center"><A href="/GL/Topic/?ID=1353" class="BoxLink">Bảo dưỡng</A></TD>
+<TD class=BoxLink bgColor=#e6ecf0> <A href="/GL/Topic/?ID=5165" class="BoxLink"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/Sieuxe.jpg"></A></TD>
+<TD bgColor=#e6ecf0 class="BoxLink" align="center"><A href="/GL/Topic/?ID=5165" class="BoxLink"> Xe độc</A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c8d5dd>
+<A href="/GL/Topic/?ID=3715" class="BoxLink"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/nguoidep.jpg"></A></TD>
+<TD bgColor=#c8d5dd class="BoxLink" align="center"> <A href="/GL/Topic/?ID=3715" class="BoxLink">Xe và người đẹp</A></TD>
+<TD class=BoxLink bgColor=#e6ecf0> <A href="/GL/Topic/?ID=3087" class="BoxLink"><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/logo111.jpg"></A></TD>
+<TD bgColor=#e6ecf0 class="BoxLink" align="center"> <A href="/GL/Topic/?ID=3087" class="BoxLink">Lịch sử logo</A></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#c8d5dd>
+<A href="/Folder/FolderPage/00000026/page_3.asp" onClick="return openMeExt(this,0,0,1,0,0,0,0,1,500,420,0,0,0)" class=BoxLink><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/thuatngu111.jpg"></A></TD>
+<TD bgColor=#c8d5dd class="BoxLink" align="center"><A href="/Folder/FolderPage/00000026/page_3.asp" onClick="return openMeExt(this,0,0,1,0,0,0,0,1,500,420,0,0,0)" class=BoxLink> Thuật ngữ</A></TD>
+<TD class=BoxLink bgColor=#e6ecf0> <A href="/Folder/FolderPage/00000026/page_2.asp" onClick="return openMeExt(this,0,0,1,0,0,0,0,1,650,585,0,0,0)" class=BoxLink><IMG border=1 width="80" height="60" src="/Files/Folder/00/26/giaxe111.jpg"></A></TD>
+<TD bgColor=#e6ecf0 class="BoxLink" align="center"> <A href="/Folder/FolderPage/00000026/page_2.asp" onClick="return openMeExt(this,0,0,1,0,0,0,1,1,650,585,0,0,0)" class=BoxLink>Giá xe</A></TD></TR></TABLE></TD>
+<TD width=10 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR>
+<TR>
+<TD colSpan=3 height=5 class="BreakLine"><FONT color="#FFFFFF"> </FONT></TD></TR></TABLE></TD>
+<TD width=1 bgColor=#d5d8de class="BreakLine"><FONT color="#d5d8de"> </FONT></TD></TR>
+<TR>
+<TD colSpan=3><IMG width="300" height="10" src="/Files/Folder/00/26/box_bottom1.gif"></TD></TR></TABLE>
+<div class="box-item">
+	<div class="hot fl">
+		<div class="fl"><img src="/Images/Background/hot-topleft.gif" alt="" /></div>
+		<div class="fr"><img src="/Images/Background/hot-topright.gif" alt="" /></div>
+	</div>
+	<div class="fl" id="HotItem38">		<script type="text/javascript" language="javascript">showhotitem(38, 18);</script>
+	</div>
+	<div class="folder-bottom listitem-bottom fl">
+		<div class="fl"><img src="/Images/Background/folder-bottomleft.gif" alt="" /></div>
+		<div class="listitem-bottomcenter fl">&nbsp;</div>
+		<div class="fr"><img src="/Images/Background/folder-bottomright.gif" alt="" /></div>
+	</div>
+</div>
+
+	</div>
+	
+	<div class="content-right fl">		
+		<div class="adv-header">
+			<div class="adv-title fl">				
+				<a href="http://www.fptad.com/lienhe.aspx" target="_blank"><img style="border:0" src="/Images/Background/adv-title.gif" alt="Lien he quang cao" /></a>				
+			</div>
+		</div>
+		<div id="adgroup"  style="display:none;clear:both;"></div>
+	<Script type="text/javascript" language="JavaScript">Poly_ShowAdScrollBanner(2);</Script>
+				</div>
+				
+			</div>
+			
+			<div id="footer">
+				
+				<script type="text/javascript">Poly_ShowFooterBanner();</script>										
+				
+                <div class="fmenu-top">
+                    <div class="fl icone-footer"></div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-home" rel="nofollow" onclick="javascript:setAsHomePage(this)"><span></span>Đặt làm trang chủ</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ct" rel="nofollow" class="link-contact" href="/ContactUs/?id=xemay@vnexpress.net"><span></span>Liên hệ tòa soạn</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ads" rel="nofollow" class="link-contact" href="http://ads.fpt.net/lienhe.aspx" target="_blank"><span></span>Liên hệ quảng cáo</a>
+                    </div>					
+                    <div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">						
+						
+                        <span class="lnkf-hl">Đường dây nóng: 0123.888.0123 (HN) - 0129.233.3555 (TP HCM)<span></span></span>
+						
+                    </div>
+					<div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">
+						 <a rel="nofollow" class="link-contact" href="http://fptad.com/qc/v/vnexpress/2011/phongvienthethao/" target="_blank"><img class="img-search" src="/Images/person.gif" alt="" style="vertical-align:top;" /> VnExpress tuyển dụng </a>
+					</div>					
+                </div>
+                <div class="fmenu-bottom">	
+					<a href="/" class="link-footermenu">Trang chủ</a><i class="sepaf"></i>
+					<a href="/gl/xa-hoi/" class="link-footermenu">Xã hội</a><i class="sepaf"></i>
+					<a href="/gl/the-gioi/" class="link-footermenu">Thế giới</a><i class="sepaf"></i>
+					<a href="/gl/kinh-doanh/" class="link-footermenu">Kinh doanh</a><i class="sepaf"></i>
+					<a href="/gl/van-hoa/" class="link-footermenu">Văn hóa</a><i class="sepaf"></i>
+					<a href="/gl/the-thao/" class="link-footermenu">Thể thao</a><i class="sepaf"></i>
+					<a href="/gl/phap-luat/" class="link-footermenu">Pháp luật</a><i class="sepaf"></i>
+					<a href="/gl/doi-song/" class="link-footermenu">Ðời sống</a><i class="sepaf"></i>
+					<a href="/gl/khoa-hoc/" class="link-footermenu">Khoa học</a><i class="sepaf"></i>
+					<a href="/gl/vi-tinh/" class="link-footermenu">Vi tính</a><i class="sepaf"></i>
+					<a href="/gl/oto-xe-may/" class="link-footermenu">Ôtô - Xe máy</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/" class="link-footermenu">Bạn đọc viết</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/tam-su/" class="link-footermenu">Tâm sự</a><i class="sepaf"></i>
+					<a href="/user/rao-vat/" class="link-footermenu">Rao vặt</a><i class="sepaf"></i>
+					<a href="/gl/cuoi/" class="link-footermenu">Cuời</a>
+					
+                    <script type="text/javascript" language="javascript">
+						//writeFooterMenu();
+						Poly_ShowFixFloatBanner(0);Poly_ShowFixFloatBanner(2);Poly_ShowFixFloatBanner(1);Poly_ShowFixFloatBanner(3);
+						Poly_ShowSlideBanner();Poly_ShowBallonBanner();						
+					</script>
+					
+                    <script type="text/javascript" language="javascript">Poly_ShowPopupUnder();</script>
+					
+                </div>
+                <div class="copyright">
+                    <p><label style="font:bold 11px arial; color:#686E7A;">&#169;&nbsp;Copyright 1997-2011 VnExpress.net</label>, <label style="font:normal 11px arial; color:#686E7A;">All rights reserved <a rel="nofollow" href="/ContactUs/?id=webmaster@vnexpress.net">Contact us</a> - <label onClick="ContactUs()" style="text-decoration:underline;cursor:pointer">Th&#244;ng tin T&#242;a so&#7841;n</label></label</p>
+<p><label style="font:normal 11px arial; color:#686E7A;">&#174;&nbsp;VnExpress gi&#7919; b&#7843;n quy&#7873;n n&#7897;i dung tr&#234;n website n&#224;y.</lable></p>
+
+                </div>
+            </div>
+			</div>
+		</div>		
+		</div>		
+		<script type="text/javascript">
+		<!--//<![CDATA[
+			cpms_Ap.init();
+			cpms_Ap.typ = 1;
+			cpms_Ap.dof = 0;
+			cpms_Ap.ste = 1;
+			cpms_Ap.reg = 0;
+			cpms_Ap.fol = 38;
+			cpms_Ap.pos = 38;
+			cpms_Ap.url = encodeURIComponent(document.location.href);
+			cpms_Ap.show();
+		//]]>-->
+		</script>
+		  	
+		<div style="float:left;">
+			<script type="text/javascript" language="javasript">
+				var strHr = location.href;				
+				if(strHr.substr(0,21)=='http://vnexpress.net/' || strHr.substr(0,27)=='http://ebank.vnexpress.net/' || strHr.substr(0,28)=='http://nhadep.vnexpress.net/'){
+					document.write('<img src="http://180.148.142.10/website/vnexpress/Res.asp?vid=F9B2F198-9C71-4A3B-A2AE-A427BBE1B709&ovt=0&vsd=0&pfd=38&pid=1000524633&ref=&iTime=11/24/2011 12:38:07 AM" border=0>');
+					
+				}
+			</script>
+		</div>
+		<script type="text/javascript">
+	var SERVER_ID = 3;
+</script>
+		<!--<script type="text/javascript" language="javascript" src="/Library/Common/rss.js"></script>-->
+		<script type="text/javascript" src="http://180.148.142.152/Library/VNELibraryNew.js"></script>
+
+<script type="text/javascript" src="http://180.148.142.152/Library/AdsNov.js"></script>
+		
+<script src="http://180.148.142.152/Vals/1/0/38/Val.js" type="text/javascript"></script>	
+		
+<script type="text/javascript" language="javaScript">checkCookie();</script>
+
+<script type="text/javascript" language="javaScript" src="http://180.148.142.153/script/libMobile.js"></script>     
+
+
+<script type="text/javascript">      
+    Poly_ShowAds();
+</script>
+	
+	</body>			
+</html>
