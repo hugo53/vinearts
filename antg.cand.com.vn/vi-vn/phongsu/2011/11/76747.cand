@@ -1,0 +1,1206 @@
+
+<html>
+	<head>
+		<title id="StoryTitle">CAND.COM | C&#244; gi&#225;o tham gia ph&#225; &#225;n - Co giao tham gia pha an</title>
+		<meta id="description" content="Tu hang chuc nam nay, co giao Tran Thi Vang tro thanh mot nhan chung dac biet cua rat nhieu vu an ma nguoi trong cuoc - gom ca nan nhan, nhan chung, toi pham va dieu tra vien - di biet ngon ngu voi nhau&amp;nbsp; o khap cac tinh thanh khu vuc phia Nam...">
+		</meta>
+		<meta id="refresher" http-equiv="REFRESH" content="1800">
+		</meta>
+		<meta content="JavaScript" name="vs_defaultClientScript">
+		<meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema">
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta content="INDEX,FOLLOW" name="robots">
+		<link rel="shortcut icon" href="/images/ANTG/logo_icon.ico">
+		<script language="JavaScript" src="/JScripts/PopCalendar.js" type="text/javascript"></script>
+	</head>
+	<body>
+		<form name="StoryPg" method="post" action="Story.aspx?ID=76747&amp;culture=vi-vn" id="StoryPg">
+<input type="hidden" name="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" value="dDwtNDYxMzcwODY3OztsPFJpZ2h0TmF2QmFyMTpfY3RsMTpidG5TdWJtaXQ7UmlnaHROYXZCYXIxOl9jdGwxOnJkb1pvbmU7UmlnaHROYXZCYXIxOl9jdGwxOnJkb1pvbmU7UmlnaHROYXZCYXIxOl9jdGwxOnJkb0FsbDs+PlZ5qtMjsstP9nCptWzM8fnfD32a" />
+
+<script language="javascript" type="text/javascript">
+<!--
+	function __doPostBack(eventTarget, eventArgument) {
+		var theform;
+		if (window.navigator.appName.toLowerCase().indexOf("microsoft") > -1) {
+			theform = document.StoryPg;
+		}
+		else {
+			theform = document.forms["StoryPg"];
+		}
+		theform.__EVENTTARGET.value = eventTarget.split("$").join(":");
+		theform.__EVENTARGUMENT.value = eventArgument;
+		theform.submit();
+	}
+// -->
+</script>
+
+			
+<script language="javascript" src="/JScripts/cookieUtility.js"></script>
+<script language="javascript" src="/JScripts/personalize.js"></script>
+<script language="JavaScript" src="/JScripts/adFlash.js"></script>
+<link href="/JScripts/antg.css" rel="stylesheet" media="screen">
+<table cellspacing="0" cellpadding="0" width="100%" bgcolor="#4b717c" border="0">
+	<tr>
+		<td bgcolor="#b3b3b3">
+			<table cellspacing="0" cellpadding="0" width="100%" bgcolor="#807b67" border="0">
+				<tr height="50">
+					<td width="194" rowspan="2"><a id="Header1_lnkHomePage" href="http://www.cand.com.vn"><img height="68" alt="" src="/images/ANTG/head_01.gif" width="194" border="0"></a></td>
+					<td align="right" width="100%"><img height="50" alt="" src="/images/ANTG/head_02.gif" width="492" border="0"></td>
+				</tr>
+				<tr>
+					<td width="100%" bgcolor="black" height="18" align="right">
+
+
+
+<table id="Table1" cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td>
+
+
+			<span id="Header1_ctlPersonalizeText_lblWelcome"><font color="White">Chào bạn!</font></span></td>
+		<td></td>
+		<td></td>
+		<td>&nbsp;&nbsp;</td>
+		<td>
+			<script>
+        var mydate=new Date()
+        var year=mydate.getYear()
+        if (year < 1000)
+					year+=1900
+        var day=mydate.getDay()
+        var month=mydate.getMonth()
+        var daym=mydate.getDate()
+        if (daym<10)
+					daym="0"+daym
+        var dhour=mydate.getHours()
+        var dmin=mydate.getMinutes()
+        if (dmin<10)
+					dmin="0"+dmin
+        if (dhour<10)
+					dhour="0"+dhour
+        var dayarray=new Array("Ch&#7911; Nh&#7853;t","Th&#7913; Hai","Th&#7913; Ba","Th&#7913; T&#432;","Th&#7913; N&#259;m","Th&#7913; S&#225;u","Th&#7913; B&#7843;y")
+        var montharray=new Array("01","02","03","04","05","06","07","08","09","10","11","12")
+                document.write("<font color=white><b> "+dhour+":"+dmin+" "+daym+"/"+montharray[month]+"/"+year+"</b></font>")
+			</script>
+		</td>
+		<td>&nbsp;&nbsp;</td>
+	</tr></table>
+
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td bgcolor="#b3b3b3" align="center" height="5"><img src='/rpc/counter.aspx?ckey=All_view&rand=375381145' width=1 height=1 border=0 alt=''></td>
+	</tr>
+	<tr>
+		<td align="left" bgcolor="#b3b3b3">
+			<table cellspacing="0" cellpadding="0" bgcolor="#b3b3b3" border="0">
+				<tr>
+					<td width="128"><a id="Header1_lnkCAND" href="http://www.cand.com.vn"><img height="20" alt="" src="/Images/ANTG/head_online_02.gif" width="128" border="0"></a></td>
+					<td width="19"><img height="20" alt="" src="/Images/ANTG/head_online_02_2.gif" width="20" border="0"></td>
+					<td width="120"><a id="Header1_lnkANTG" href="http://antg.cand.com.vn"><img height="20" alt="" src="/Images/ANTG/head_08.gif" width="120" border="0"></a></td>
+					<td width="20"><img height="20" alt="" src="/Images/ANTG/head_09.gif" width="20" border="0"></td>
+					<td width="128"><a id="Header1_lnkANTGCT" href="http://antgct.cand.com.vn"><img height="20" alt="" src="/Images/ANTG/head_10.gif" width="128" border="0"></a></td>
+					<td width="20"><img height="20" alt="" src="/Images/ANTG/head_11.gif" width="20" border="0"></td>
+					<td width="142"><a id="Header1_lnkVNCA" href="http://vnca.cand.com.vn"><img height="20" alt="" src="/Images/ANTG/head_12.gif" width="142" border="0"></a></td>
+					<td width="20"><img height="20" alt="" src="/Images/ANTG/head_11.gif" width="20" border="0"></td>
+					<td width="148"><a href="http://cstc.cand.com.vn/"><img height="20" alt="" src="/Images/ANTG/head_16.gif" width="148" border="0"></a></td>
+					<td width="20"><img height="20" alt="" src="/Images/ANTG/head_17.gif" width="20" border="0"></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+			<table cellspacing="0" cellpadding="0" width="100%" align="left" border="0">
+				<tr valign="top">
+					<td colspan="3" style="border-right: 1px solid #8b8b8b;">
+						
+		<table cellspacing="0" cellpadding="0" width="100%" align="left" border="0">
+			<tr>
+				<td class="hori_nav" bgcolor="#691312">
+					<div align="center">
+	
+		<a id="Menu2_rptHorzMenu__ctl1_hlZone" href="/vi-vn/hautruong.cand"><b>Hậu trường</b></a>
+	
+		&nbsp;<img src="/images/ANTG/p_dot.gif" alt="" height="5" width="5" border="0" hspace="4">&nbsp;
+	
+		<a id="Menu2_rptHorzMenu__ctl3_hlZone" href="/vi-vn/vuan.cand"><b>Vụ án nổi tiếng</b></a>
+	
+		&nbsp;<img src="/images/ANTG/p_dot.gif" alt="" height="5" width="5" border="0" hspace="4">&nbsp;
+	
+		<a id="Menu2_rptHorzMenu__ctl5_hlZone" href="/vi-vn/hosomat.cand"><b>Hồ sơ mật</b></a>
+	
+		&nbsp;<img src="/images/ANTG/p_dot.gif" alt="" height="5" width="5" border="0" hspace="4">&nbsp;
+	
+		<a id="Menu2_rptHorzMenu__ctl7_hlZone" href="/vi-vn/sukien.cand"><b>Sự kiện & Bình luận</b></a>
+	
+		&nbsp;<img src="/images/ANTG/p_dot.gif" alt="" height="5" width="5" border="0" hspace="4">&nbsp;
+	
+		<a id="Menu2_rptHorzMenu__ctl9_hlZone" href="/vi-vn/phongsu.cand"><b><u>Phóng sự</u></b></a>
+	
+		&nbsp;<img src="/images/ANTG/p_dot.gif" alt="" height="5" width="5" border="0" hspace="4">&nbsp;
+	
+		<a id="Menu2_rptHorzMenu__ctl11_hlZone" href="/vi-vn/ktvhkh.cand"><b>Kinh tế - Văn hoá - Khoa học</b></a>
+	
+		&nbsp;<img src="/images/ANTG/p_dot.gif" alt="" height="5" width="5" border="0" hspace="4">&nbsp;
+	
+		<a id="Menu2_rptHorzMenu__ctl13_hlZone" href="/vi-vn/tulieu.cand"><b>Tư liệu</b></a>
+	
+		&nbsp;<img src="/images/ANTG/p_dot.gif" alt="" height="5" width="5" border="0" hspace="4">&nbsp;
+	
+		<a id="Menu2_rptHorzMenu__ctl15_hlZone" href="/vi-vn/hosointepol.cand"><b>Hồ sơ Intepol</b></a>
+	
+		</div> </td> </tr> </table>
+	
+
+					</td>
+				</tr>				
+				<tr>
+					<td>
+						<table width="1000" border="0" cellspacing="0" cellpadding="0" align="left" bgcolor="white">
+							<tr valign="top">
+								<td class="left_columm" valign="top" width="150">
+<script language="JavaScript" src="/JScripts/ANTG.JS"></script>
+<link href="/JScripts/menuStyle_antg.css" rel="stylesheet" media="screen">
+<script>
+	onload = preloadImages;
+</script>
+<table class="navgrid" cellspacing="0" cellpadding="0" width="150" align="center" border="0">
+	<tr>
+		<td>
+			<div align="center">
+				<img src="/Uploaded_ANTG/Advertisment/5.gif" border="0" width="150" height="124" alt=""> 
+				<!--				-->
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="PADDING-RIGHT: 4px; PADDING-LEFT: 4px" bgcolor="#c1c1a6" height="6"></td>
+	</tr>
+	<tr>
+		<td valign="top"><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td>
+	<table id="NavBarNew1_MN" cellpadding="0" border="0" width="'100%'" class cellspacing="0" width="100%">
+		<tr>
+			<td title="" align="left" class="Menu_HomePageImg"><img src="/images/cand.gif" alt="" height="17" width="138" border="0"></td>
+		</tr><tr>
+			<td title="" align="left" class="Menu_NavBar">Thời sự</td>
+		</tr><tr>
+			<td width="1" title="" align="left" class="Menu_Separator"></td>
+		</tr><tr>
+			<td title="" align="left" class="Menu_NavBar">Xã hội</td>
+		</tr><tr>
+			<td width="1" title="" align="left" class="Menu_Separator"></td>
+		</tr><tr>
+			<td title="" align="left" class="Menu_NavBar">Quốc tế</td>
+		</tr><tr>
+			<td width="1" title="" align="left" class="Menu_Separator"></td>
+		</tr><tr>
+			<td title="" align="left" class="Menu_NavBar">Kinh tế</td>
+		</tr><tr>
+			<td width="1" title="" align="left" class="Menu_Separator"></td>
+		</tr><tr>
+			<td title="" align="left" class="Menu_NavBar">Văn hoá</td>
+		</tr><tr>
+			<td width="1" title="" align="left" class="Menu_Separator"></td>
+		</tr><tr>
+			<td title="" align="left" class="Menu_NavBar">Pháp luật</td>
+		</tr><tr>
+			<td width="1" title="" align="left" class="Menu_Separator"></td>
+		</tr><tr>
+			<td title="" align="left" class="Menu_NavBar">Thể thao</td>
+		</tr><tr>
+			<td width="1" title="" align="left" class="Menu_Separator"></td>
+		</tr><tr>
+			<td title="" align="left" class="Menu_NavBar">KH - CN</td>
+		</tr><tr>
+			<td width="1" title="" align="left" class="Menu_Separator"></td>
+		</tr><tr>
+			<td title="" align="left" class="Menu_NavBar">Người nổi tiếng</td>
+		</tr><tr>
+			<td width="1" title="" align="left" class="Menu_Separator"></td>
+		</tr><tr>
+			<td title="" align="left" class="Menu_NavBar">Tội phạm từ A-Z</td>
+		</tr><tr>
+			<td width="1" title="" align="left" class="Menu_Separator"></td>
+		</tr><tr>
+			<td title="" align="left" class="Menu_NavBar">Nhịp cầu nhân ái</td>
+		</tr><tr>
+			<td width="1" title="" align="left" class="Menu_Separator"></td>
+		</tr><tr>
+			<td title="" align="left" class="Menu_NavBar">Công an trong lòng dân</td>
+		</tr><tr>
+			<td width="1" title="" align="left" class="Menu_Separator"></td>
+		</tr><tr>
+			<td title="" align="left" class="Menu_NavBar">Sự kiện - Bình luận</td>
+		</tr><tr>
+			<td width="1" title="" align="left" class="Menu_Separator"></td>
+		</tr><tr>
+			<td title="" align="left" class="Menu_NavBar">Phóng sự - Tư liệu</td>
+		</tr><tr>
+			<td width="1" title="" align="left" class="Menu_Separator"></td>
+		</tr><tr>
+			<td title="" align="left" class="Menu_NavBar">Video Clip</td>
+		</tr>
+	</table>
+</td></tr></table></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #bf0020; PADDING-RIGHT: 2px; PADDING-LEFT: 5px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px"><a onmouseover="changeImages('docbailuu','/Images/docbailuu_2.gif');return true" onmouseout="changeImages('docbailuu','/Images/docbailuu.gif');return true"
+				href="javascript:showDialog('/News/PersonalizeStories.aspx',450,320);"><img src="/Images/docbailuu.gif" alt="" name="docbailuu" height="20" width="140" border="0"></a></td>
+	</tr>
+	<tr>
+		<td style="PADDING-RIGHT: 2px; BORDER-BOTTOM: #bf0020 1px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px"><a onmouseover="changeImages('cand_rss','/Images/cand_rss_over.gif');return true" onmouseout="changeImages('cand_rss','/Images/cand_rss.gif');return true"
+				href="http://antg.cand.com.vn/RSS/Default.aspx" target="_blank"><img src="/images/cand_rss.gif" alt="" name="cand_rss" height="20" width="140" border="0"></a></td>
+	</tr>
+	<tr>
+		<td class="leftside_cell" bgcolor="#e5decf">
+			<table width="100%" border="0" cellspacing="0" cellpadding="2">
+				<tr>
+					<td class="menu">&nbsp;&nbsp;<img src="/images/ANTG/bull_1.gif" alt="" height="9" width="9" border="0">
+						<a id="NavBarNew1_lnkFAQ" href="http://www.cand.com.vn/News/FAQ.aspx"><b>Trợ giúp</b></a></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td class="navbar" onmouseover="navBar(this,1,1)" onmouseout="navBar(this,0,1)"><font color="#63576e"><b>&nbsp;&nbsp;<a id="NavBarNew1_lnkAuthor" href="http://www.cand.com.vn/News/CANDAuthor.aspx">Tác 
+						giả CAND</a></b></font></td>
+	</tr>
+	<tr>
+		<td background="/images/ANTG/dot_bg.gif"><img src="/images/ANTG/blank.gif" alt="" height="1" width="1" border="0"></td>
+	</tr>
+	<tr>
+		<td style=" border-bottom: 1px solid #bf0020" class="navbar" onmouseover="navBar(this,1,1)"
+			onmouseout="navBar(this,0,1)"><font color="#63576e"><b>&nbsp;&nbsp;<a id="NavBarNew1_lnkContact" href="http://www.cand.com.vn/News/Contact.aspx">Thông tin toà soạn</a></b></font></td>
+	</tr>
+</table>
+
+									
+									<img src='/rpc/counter.aspx?ckey=F_view&cvalue=138&story=76747&rand=562652899' width=1 height=1 border=0 alt=''></td>
+								<td style="PADDING-RIGHT: 4px; PADDING-LEFT: 6px; PADDING-TOP: 6px;PADDING-BOTTOM: 8px" valign=top align=center width=690>
+									<table cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
+										<tr>
+											<td style="PADDING-BOTTOM: 6px"><span id="Path1_lbPath"><b><font face="verdana,arial,tahoma" color="Black" size="1"><a href='http://www.cand.com.vn' style="color:DarkRed;font-family:verdana,arial,tahoma;font-size:XX-Small;font-weight:bold;">Trang nhất</a> &gt; <a href='http://antg.cand.com.vn' style="color:DarkRed;font-family:verdana,arial,tahoma;font-size:XX-Small;font-weight:bold;">An Ninh Thế Giới</a> &gt; <a href='/vi-vn/phongsu.cand' style="color:DarkRed;font-family:verdana,arial,tahoma;font-size:XX-Small;font-weight:bold;">Phóng sự</a></font></b></span>
+</td>
+										</tr>
+										<tr>
+											<td class="home_subtitle"></td>
+										</tr>
+										<tr>
+											<td><span id="lbHeadline" class="main_title">Cô giáo tham gia phá án</span><br>
+												<span id="lbDate" class="time_zone">10:30, 26/11/2011</span><br>
+												<span id="lbAuthor1" class="author"><a href='http://www.cand.com.vn/News/HuuUoc/index.html' target=_blank></a></span>
+												<hr color="lightgrey" size="1">
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<table cellspacing="0" cellpadding="4" align="right" border="0">
+													<tr>
+														<td style="HEIGHT: 1px">
+															<table cellspacing="0" cellpadding="0" border="0">
+																<tr>
+																	<td><img id="StoryAvatar" src="http://antg.cand.com.vn/Uploaded_ANTG/honghai/30_co1113.jpg" alt="" border="0" width="180" /></td>
+																</tr>
+																<tr>
+																	<td class="pic_explain"><span id="AvatarDesc">Cô giáo Trần Thị Vàng.</span></td>
+																</tr>
+															</table>
+														</td>
+													</tr>
+													<tr>
+														<td>
+															<table style="BORDER-COLLAPSE: collapse" bordercolor="#cad3d3" cellspacing="0" cellpadding="0"
+																width="100%" border="1">
+																<tr>
+																	<td>
+																		<table cellspacing="0" cellpadding="2" width="100%" border="0">
+																			<tr>
+																				<td class="sm_list" bgcolor="#f4f4f4">
+																					<div align="right"><a id="lnkAddToFavourite" href="javascript:addFavouriteStory('76747','Cô giáo tham gia phá án','/vi-VN/phongsu/2011/11/76747.cand'); alert('Tin đã được thêm vào danh sách');">Lưu để đọc sau</a><a href="#"><img height="12" alt="" hspace="4" src="/images/temp.gif" width="14" border="0"></a></div>
+																				</td>
+																			</tr>
+																			<tr>
+																				<td class="sm_list" bgcolor="#f4f4f4">
+																					<div align="right"><a href='javascript:showDialog("/InfoPages/Email4Friend.aspx?new_url=http://antg.cand.com.vn/vi-VN/phongsu/2011/11/76747.cand",450,350)'>Email 
+																							bài này<img height="12" alt="" hspace="4" src="/images/email.gif" width="14" border="0"></a></div>
+																				</td>
+																			</tr>
+																			<tr>
+																				<td class="sm_list" bgcolor="#f4f4f4">
+																					<div align="right"><a href="javascript:window.print();">In trang này<img height="12" alt="" hspace="4" src="/images/print.gif" width="14" border="0"></a></div>
+																				</td>
+																			</tr>
+																			<tr>
+																				<td class="sm_list" bgcolor="#f4f4f4">
+																					<div align="right"><a href='/News/PrintView.aspx?ID=76747' target=_blank>In 
+																							bài này<img height="12" alt="" hspace="4" src="/images/print.gif" width="14" border="0"></a></div>
+																				</td>
+																			</tr>
+																			<tr>
+																				<td class="sm_list" bgcolor="#f4f4f4">
+																					<div align="right"><a href='/news/reply.aspx?ID=76747' target=_blank >Ý 
+																							kiến của bạn</a><img height="12" alt="" hspace="4" src="/images/idea.gif" width="14" border="0"></div>
+																				</td>
+																			</tr>
+																			<tr>
+																				<td class="sm_list" bgcolor="#f4f4f4">
+																					<div align="right"><a href='javascript:showDialog("/InfoPages/Republish.aspx?ID=76747",550,350)'>Liên hệ đăng lại bài<img height="12" alt="" hspace="4" src="/images/contact.gif" width="14" border="0"></div>
+																					</A></td>
+																			</tr>
+																			<tr>
+																				<td class="sm_list" bgcolor="#f4f4f4">
+																					<div align="right"><a href="javascript:showDialog('/News/TopNewsOfZone.aspx?ID=138', 450, 400)" >10&nbsp;bài 
+																							được đọc nhiều nhất<img height="12" alt="" hspace="4" src="/images/10.gif" width="14" border="0"></a></div>
+																				</td>
+																			</tr>
+																		</table>
+																	</td>
+																</tr>
+															</table>
+														</td>
+													</tr>
+												</table>
+												<span class="sapeau_box">
+													<p align="justify">Từ hàng chục năm nay, cô giáo Trần Thị Vàng trở thành một nhân chứng đặc biệt của rất nhiều vụ án mà người trong cuộc - gồm cả nạn nhân, nhân chứng, tội phạm và điều tra viên - "dị biệt ngôn ngữ" với nhau&nbsp; ở khắp các tỉnh thành khu vực phía Nam...
+												</span>
+												</P>
+												<p align="justify"><span id="lbContinue" class="time_zone"></span><span id="lbBody" class="text_box"><P><FONT size=3 face="Times New Roman">Cô giáo Trần Thị Vàng (49 tuổi) là một giáo viên dạy trẻ khiếm thính&nbsp; tại Trung tâm Giáo dục Trẻ Khuyết tật Thuận An, Bình Dương (Thuộc trường Đại học Sư phạm&nbsp;Tp HCM). Ngoài nghề dạy học, cô còn là một phiên dịch viên ngôn ngữ ký hiệu cho chương trình thời sự Đài Truyền hình&nbsp;Tp HCM.</FONT></P>
+<P><FONT size=3 face="Times New Roman"><STRONG>"Tôi đã từng là giáo viên... lậu"</STRONG></FONT></P>
+<P><FONT size=3 face="Times New Roman">Trước khi trở thành một giáo viên có bằng cấp sư phạm, chị đã dạy… không phép suốt 10 năm. Ai cũng biết chị không bằng cấp, kể cả các nhà quản lý chuyên môn nhưng phải làm ngơ để chị dạy, thậm chí còn phải trả lương cho chị. Bởi lúc đó, trẻ khiếm thính thì nhiều mà giáo viên biết ngôn ngữ ký hiệu thì ít, người ta đành để chị dạy một cách… hợp pháp.</FONT></P>
+<P><FONT size=3 face="Times New Roman">Chị kể, lý do chị không có bằng cấp là bởi cái nghèo. </FONT></P>
+<P><FONT size=3 face="Times New Roman">"Ngày xưa, ba tôi mồ côi, mồ cút, ở đợ cho một chủ điền ở Lái Thiêu. Nhờ siêng năng, hiền lành nên chủ rất thương. Họ đứng ra cưới má tôi cho ba tôi rồi cho mượn một miếng đất cất nhà. Ba má tôi tiếp tục làm thuê cho họ. Má tôi sinh được 5 người con, 2 trai, 3 gái. Ba tôi mất khi tôi vừa chào đời. Một mình má làm thuê không đủ tiền lo cho cái gia đình leo nheo, lóc nhóc ăn cháo trắng với muối cục. Anh Hai tôi mất chỉ vì ốm mà không có tiền uống thuốc". </FONT></P>
+<P><FONT size=3 face="Times New Roman">Một ngày nọ (vào khoảng năm 1964), một mệnh phụ phu nhân nổi tiếng xinh đẹp và quyền uy của Sài Gòn) về Lái Thiêu mua một khoảnh đất gần căn nhà lá xiêu vẹo của mẹ con chị. Mua đất xong, người phụ nữ quyền thế ấy tìm người thuê phát hoang, dọn cỏ. Điều kiện đưa ra là ngoài mức lương ngày còn được bao cơm ăn. Bà Út Nhỏ, tức mẹ của chị, được giới thiệu đến làm. Thế là bà Út Nhỏ lùa hết đám con 4 đứa ra bãi đất cùng dọn đất. Đứa lớn nhất 8 tuổi, đứa nhỏ nhất (là chị Vàng) chỉ mới 2 tuổi cùng ra làm để có cơm ăn. Chẳng đứa nào có bộ đồ trên người lành lặn. Động lòng, bà chủ đất bảo mẹ chị đưa 2 con về nhà của bà ở Sài Gòn ở đợ. Chị Vàng nhớ rõ: "Lúc đó, nhà bà chủ này ở đường Sương Nguyệt Anh. Nói tiếng ở đợ chứ không có lương, chỉ được cơm ăn, áo mặc. Anh Ba tôi khoảng 8 tuổi. Chị Tư tôi khoảng 6 tuổi. Sau này, khi anh Ba lớn thêm chút xíu, bà chủ giao cho người khác để tiếp tục làm ôsin. Đó là một gia đình cũng làm lớn trong chính quyền Sài Gòn. Bị vu khống ăn cắp, anh tôi uất ức bỏ đi. Năm đó anh mới 16 tuổi".</FONT></P>
+<P><FONT size=3 face="Times New Roman">Còn lại 2 đứa con nhỏ, mẹ chị đi lang thang làm thuê từ Lâm Đồng đến Bình Thuận, Đồng Nai. Khi thiếu việc thì vô chùa làm công quả để có cơm ăn.</FONT></P>
+<P><FONT size=3 face="Times New Roman">Khi chị được 8 tuổi thì anh Ba có gởi cho mẹ chị được một ít tiền. Từ đó mẹ chị trở về Lái Thiêu, cất cái chòi lá trong rừng Bình Đức để ở. Chị được đi học. Chị phải làm thuê phụ giúp mẹ nên việc học cứ lam nham. Tuy học giỏi nhưng có năm chị nghỉ học đi làm thuê mất hơn 3 tháng. Chị còn nhớ, những ngày bỏ học tìm kế sinh nhai đó, chị đã được 2 cô giáo Đỗ Thị Thúy và Hồ Ngọc Lượm cưu mang và động viên chị trở lại lớp. Đến năm 1983, chị mới tốt nghiệp cấp ba.</FONT></P>
+<P><FONT size=3 face="Times New Roman">Tốt nghiệp xong, không đủ tiền tiếp tục thi vào đại học sư phạm mặc dù ước mơ làm cô giáo luôn ám ảnh chị từng đêm trong giấc ngủ, chị đành gạt nước mắt xin làm công nhân sản xuất chén sành. Nhà chị gần Trường Câm điếc Lái Thiêu. Trường được các nữ tu của nhà thờ Lái Thiêu biết sử dụng ngôn ngữ ký hiệu phụ trách giảng dạy. Một hôm thèm làm cô giáo quá, chị đánh bạo đi thẳng vào trường xin làm… cô giáo. Người đầu tiên chị gặp là nữ tu Mai Anh. May cho chị, thời điểm đó học sinh khiếm thính từ các tỉnh đổ về trường rất đông nhưng giáo viên biết sử dụng ngôn ngữ ký hiệu lại hiếm. Thấy chị nhiệt thành, nữ tu Mai Anh nhận chị vào trường để đào tạo phiên dịch viên ngôn ngữ ký hiệu. Sau 6 tháng miệt mài vừa học vừa làm trợ giảng cho nữ tu Mai Anh, chị rành hết loại ngôn ngữ xa lạ này. Như có năng khiếu bẩm sinh, không những rành mà chị còn thuộc dạng siêu về loại ngôn ngữ "nói" bằng tay so với các giáo viên chính quy.</FONT></P>
+<P><FONT size=3 face="Times New Roman">Dịp may nữa đến với chị, Trường Câm điếc trực thuộc Bộ Lao động-Thương binh &amp; Xã hội được giao lại cho Bộ Giáo dục &amp; Đào tạo, chịu sự quản lý trực tiếp của trường Đại học Sư phạm Tp HCM. Do thiếu giáo viên trầm trọng, chị lại giỏi ngôn ngữ ký hiệu nên được trưng dụng làm giáo viên chính thức, dù chưa có bằng cấp. Giấc mơ sư phạm của cô gái lọ lem đã chạm ngõ sự thật. </FONT></P>
+<P><FONT size=3 face="Times New Roman">Một thời gian sau, chị được trường cho đi học Trung học Sư phạm rồi Cao đẳng Sư phạm hệ tại chức. Học xong, chị thi vào Đại học Sư phạm hệ tại chức tốt nghiệp năm 2009, khi đã 47 tuổi. Chị đã phải đi một con đường vòng suốt 25 năm để có tấm bằng cử nhân sư phạm.</FONT></P>
+<P>
+<TABLE style="WIDTH: 20px; HEIGHT: 20px" border=0 rules=none cellSpacing=2 cellPadding=2 frame=void align=center>
+<TBODY>
+<TR>
+<TD><IMG border=0 src="http://antg.cand.com.vn/Uploaded_ANTG/honghai/31_co1113-450.jpg"></TD></TR>
+<TR>
+<TD><FONT color=#808080>Cô giáo Trần Thị Vàng và một lớp học của trẻ khiếm thính.</FONT></TD></TR></TBODY></TABLE></P>
+<P><STRONG><FONT size=3 face="Times New Roman">Nhân chứng những vụ án liên quan đến người khiếm thị</FONT></STRONG></P>
+<P><FONT size=3 face="Times New Roman">Nếu nói về ngôn ngữ ký hiệu thì chị thuộc dạng "siêu của những người siêu". Cái "siêu" trong việc sử dụng loại ngôn ngữ dành cho người khiếm thính không chỉ là "tay lanh, mắt lẹ" mà phải biết diễn đạt những từ chưa có quy ước trên thế giới của người không nghe, không nói được. Với chị, đó chỉ là "chuyện nhỏ". Người khiếm thính diễn đạt kiểu gì chị cũng hiểu. Nổi tiếng về tài phiên dịch nên từ năm 1980 đến nay, hầu hết các vụ án liên quan đến người khiếm thính ở khắp các tỉnh thành phía Nam, các điều tra viên đều đánh xe đến tận trường đón chị đi làm phiên dịch.</FONT></P>
+<P><FONT size=3 face="Times New Roman">Nhiều vụ án bế tắc chỉ vì các điều tra viên không thể khai thác lời khai của nạn nhân hoặc nghi phạm khiếm thính, khiếm âm. Với người bình thường phạm tội, khi ngồi trước mặt điều tra viên còn câm như hến huống chi nghi phạm lại thuộc dạng 2 không, tức không nghe được, không nói được. Với người bình thường, khi bị hiếp dâm còn ngại mở miệng, huống chi người bị khuyết tật phát âm và khuyết tật thính giác. Bằng nhạy cảm của nghề sư phạm, chị có cách khai thác riêng để những đối tượng này "mở lời". Có lần một người đàn ông khiếm thính là nghi phạm một vụ giết người ở Vĩnh Long. Tận dụng khuyết tật của mình, ông ta vờ như không biết gì về vụ án. Khi chị đến phiên dịch, ông ta cũng vờ không hiểu ngôn ngữ ký hiệu. Để lấy điểm "đồng cảnh", chỉ phải vờ làm người khiếm thính để "trò chuyện" bằng tay với ông ta. Thế là ông ta đã tự khẳng định biết và hiểu ngôn ngữ ký hiệu. Buổi điều tra thành công vì sau đó nghi phạm kể tuốt mọi chi tiết phạm tội của mình.</FONT></P>
+<P><FONT size=3 face="Times New Roman">Nhiều vụ án hiếp dâm mà nạn nhân là người khuyết tật thính giác khiến chị đau lòng suốt nhiều ngày liền. Một số con yêu râu xanh nghĩ rằng những em gái khiếm thính, khiếm âm không thể khai báo tội trạng của chúng nên có dịp là chúng ra tay phạm tội. Khi cơ quan điều tra mời đến làm việc, hầu hết những tên tội phạm này đều chối bay chối biến hành vi của chúng, đồng thời khiêu khích các điều tra viên lấy lời khai của bị hại. Tuy tin chắc đó là hung thủ nhưng nạn nhân chỉ ú ớ thì không thể ghi thành lời khai. Khi chị xuất hiện, trông thấy cảnh chị "trò chuyện" thoải mái với nạn nhân, rồi phiên dịch để thành lời khai bằng văn bản, hung thủ không còn đường chối đành cúi đầu nhận tội. Dù biên bản lời khai của nạn nhân khiếm thính đã được xác lập nhưng khi ra tòa, chị vẫn phải xuất hiện để tiếp tục phiên dịch, đồng thời làm nhân chứng cho bản cung.</FONT></P>
+<P><FONT size=3 face="Times New Roman">Một cô bé khiếm thính 15 tuổi ở Bình Phước bị hiếp dâm. Nhờ có chị, kẻ dâm ô bí mật được đưa ra ánh sáng công lý nhận bản án thích đáng. Ngày kết thúc phiên tòa, cô bé không chịu về nhà mà cứ bám riết lấy chị. Cha mẹ cô gái đến gặp chị cảm ơn. Hỏi ra, chị mới biết họ quá nghèo và đông con. Thế là chị đứng ra làm thủ tục cho cô bé đó vào Trung tâm Giáo dục trẻ khuyết tật Thuận An - nơi chị giảng dạy - để được nuôi dưỡng. Đến nay cô bé đó đã học lớp 2 và xem chị như mẹ ruột.</FONT></P>
+<P><FONT size=3 face="Times New Roman">Nhiều vụ án khẩn cấp điều tra viên phải "điệu" chị đi vào&nbsp; lúc nửa đêm, chị vẫn nhiệt tình tham gia. "Góp công sức để giữ an ninh, trật tự xã hội, bảo vệ công lý cho người khuyết tật thì tôi không thể nề hà công sức. Được cộng tác với Công an là niềm hãnh diện đối với tôi" - chị bộc bạch.</FONT></P>
+<P><FONT size=3 face="Times New Roman">Không những tham gia "trị" tội phạm, chị còn trở thành một hòa giải&nbsp; viên bất đắc dĩ. Cách nay vài năm, lúc nửa đêm, một gia đình ở đường Hồ Văn Huê (Phú Nhuận, Tp HCM) gọi điện thoại đến chị bằng giọng khẩn cấp: "Thằng con trai câm điếc của chúng tôi tự dưng đóng kín cửa phòng ngủ rồi đập phá trong đó suốt cả ngày nay. Bây giờ trong phòng nó tỏa khói mù mịt. Không hiểu nó đã đốt cái gì trong đó. Giờ chúng tôi phải làm sao?". Dù đang bận việc, chị cũng phải vượt hàng chục cây số để đến nơi. Chị phải đến cửa sổ để gã thanh niên trông thấy. Bằng ngôn ngữ ký hiệu, chị thuyết phục anh ta nói rõ nguồn cơn. Hóa ra, anh ta xin tiền bà mẹ mua một chiếc xe gắn máy để tham gia chuyến "phượt" xuyên Việt với bạn bè. Vì bất đồng ngôn ngữ, anh ta và mẹ không hiểu nhau. Bà mẹ tưởng anh ta đòi mua xe để đi đua đường phố nên không cho. Anh ta tưởng bà mẹ tiếc tiền. Thế là anh ta vào phòng đập phá đồ đạc chán chê rồi tạo sự cố giả cháy bằng cách đốt… hàng chục bó nhang. Biết được nguyên do, chị làm phiên dịch hòa giải hai mẹ con. Chỉ sau nửa giờ, hai mẹ con đã hiểu nhau và ôm nhau khóc. Dù mất giờ dạy, dù … tốn tiền xăng, chị vẫn cảm thấy hạnh phúc vì đã làm được điều có ý nghĩa.</FONT></P>
+<P><FONT size=3 face="Times New Roman">Tháng 4/2010, Ban Thời sự Đài Truyền hình TP HCM mở một góc nhỏ trên màn hình phiên dịch ngôn ngữ ký hiệu dành cho khán giả khiếm thính, chị và một phiên dịch viên khác được chọn mời. Từ đó đến nay, chị trở thành nhân viên "nhà đài" thứ thiệt, xuất hiện thường xuyên trong các bản tin thời sự.</FONT></P>
+<P><FONT size=3 face="Times New Roman">Không tính thời gian làm trợ giảng, tính đến nay, chị đã có 28 năm, 11 tháng đứng trên bục giảng dạy trẻ khuyết tật. Hàng trăm lứa học trò khuyết tật được trang bị kiến thức ra đời hòa nhập cộng đồng. Nhiều học trò của chị lấy chồng khiếm thính nước ngoài đi định cư vẫn thường xuyên về nước thăm chị.</FONT></P>
+<P><FONT size=3 face="Times New Roman">Hiện nay, ngoài 15 tiết dạy môn Ngữ văn và Giáo dục Công dân, chị còn đảm nhiệm vai trò trưởng khối giáo dục trẻ khiếm thính từ lớp 4 đến lớp 9 của Trung tâm Giáo dục trẻ khuyết tật Thuận An. Chị được Bộ Lao động - Thương binh &amp; Xã hội, Bộ Giáo dục Đào tạo và nhiều tổ chức khác tặng bằng khen vì sự cống hiến cho sự nghiệp giáo dục người khuyết tật. </FONT></P>
+<P><FONT size=3 face="Times New Roman">Vượt qua nhiều nỗi khổ cực vất vả của tuổi thơ để bây giờ trở thành "người của công chúng khuyết tật", nghị lực của chị đáng để nhiều người noi gương</FONT><img src='/Images/reddot.gif'></P></span><br>
+												</p>
+											</td>
+										</tr>
+										<tr>
+											<td align="right">&nbsp;
+												<span id="lbAuthor2" class="source">Nông Huyền Sơn</span></td>
+										</tr>
+										<tr class="event">
+											<td align="center"></td>
+										</tr>
+										<tr>
+											<td>
+												<table id="Table3" cellspacing="0" cellpadding="0" width="100%" border="0">
+													<tr>
+														<td width="109"><img style="CURSOR: hand" onclick="window.scrollTo(0,0)" alt="" src="/Images/Gotop.gif"
+																stye="Cursor:hand"></td>
+														<td align="right"><font face="Verdana"></font></td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+										<tr>
+											<td align="left">
+												<hr color="lightgrey" size="1">
+												<div align="center"><img height="12" alt="" hspace="4" src="/images/temp.gif" width="14" border="0">
+													<a id="lnkAddToFavorite2" href="javascript:addFavouriteStory('76747','Cô giáo tham gia phá án','/vi-VN/phongsu/2011/11/76747.cand'); alert('Tin đã được thêm vào danh sách');">Lưu để đọc sau</a>&nbsp;|<img height="12" alt="" hspace="4" src="/images/email.gif" width="14" border="0"><a href='javascript:showDialog("/InfoPages/Email4Friend.aspx?new_url=http://antg.cand.com.vn/vi-VN/phongsu/2011/11/76747.cand",450,350)'>Email 
+														bài này</a> |<img height="12" alt="" hspace="4" src="/images/contact.gif" width="14" border="0"><a href='javascript:showDialog("/InfoPages/Republish.aspx?ID=76747",550,350)'>Liên 
+														hệ đăng lại bài</a> |<img height="12" alt="" hspace="4" src="/images/print.gif" width="14" border="0"><a href='/News/PrintView.aspx?ID=76747' target=_blank>In 
+														bài này</a>&nbsp;</A>&nbsp;
+													<hr color="lightgrey" size="1">
+												</div>
+											</td>
+										</tr>
+										<tr>
+											<td></td>
+										</tr>
+										<tr>
+											<td><b>Các bài đã đăng:</b><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="76740.cand">Người lớn đi... mẫu giáo</a> <span class='time_Zone'>(25/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="76729.cand">Lừa đảo nhà và khuôn mặt máu ở Sydney</a> <span class='time_Zone'>(25/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="76711.cand">Khi chó nghiệp vụ tham gia phá án</a> <span class='time_Zone'>(24/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="76728.cand">Phạm Quang Sáng, người mẹ ruột và Angelina Jolie</a> <span class='time_Zone'>(24/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="76680.cand">Đại gia vung tiền chơi ngọc nghiến</a> <span class='time_Zone'>(18/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="76672.cand">Sự bịa đặt về ông lang vườn có khả năng kỳ lạ</a> <span class='time_Zone'>(15/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="76658.cand">Ông già bí ẩn và bí mật kho vàng núi Chúa</a> <span class='time_Zone'>(14/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="76636.cand">Khi các bác sĩ “mượn quyền tạo hóa”</a> <span class='time_Zone'>(10/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="76556.cand">Những truyền nhân môn phái Bạch Hổ Lâm ở Đà Nẵng</a> <span class='time_Zone'>(31/10)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="76549.cand">Sự thật về đại ca Bình “con” và đường dây kinh doanh gái, ma tuý</a> <span class='time_Zone'>(30/10)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="76539.cand">Bi kịch của cô gái bị kẻ cuồng yêu tạt xăng đốt</a> <span class='time_Zone'>(28/10)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="76501.cand">Tây lang thang phố Sài Thành</a> <span class='time_Zone'>(27/10)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="76484.cand">Xuống quán hầm cùng “phu đập đá”</a> <span class='time_Zone'>(27/10)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="76477.cand">Cô gái biến thành bà già ở Bến Tre: Cái nghĩa vợ chồng</a> <span class='time_Zone'>(26/10)</span><BR></td>
+										</tr>
+										<tr>
+											<td>
+												<hr color="lightgrey" size="1">
+												<table cellspacing="0" cellpadding="0" width="100%" align="left" border="0">
+													<tr>
+														<td align="left"><p align=left><input type=button style="width:140; background-Color: white; color: #003143; font-size: 11px; font-family: Arial, Verdana, Tahoma; Cursor:hand; Border:none; Font-Weight:bold" value="Xem bài theo ngày tháng" onclick="popUpCalendar(this, this, 'dd-mm-yyyy',138, 'vi')"><img src='/Images/detail_2.gif'></p></td>
+														<td align="right">
+															<a id="AnotherStory" href="/vi-vn/phongsu.cand"><b>Các tin khác</b>&nbsp;<img src='/images/detail.gif' border=0></a>
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+										<tr>
+											<td>
+<p>
+	<table id="Feedback1_pnlContent" cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td>
+
+		<table id=Table3 cellspacing=0 cellpadding=0 width="100%" align=center border=0>
+			<tr height=4>
+				<td height=4>
+					<script language=JavaScript1.2 src="/jscripts/vietuni.js" type=text/javascript></script>
+					<script language=JavaScript1.2> setTypingMode(4); </script>
+					<script language=JavaScript>
+					function gf(p_el) {	}function lf(p_el) {	}
+					</script>
+				</td>
+			</tr>
+			<tr>
+				<td valign=top>
+					<table id=Table5 cellspacing=0 cellpadding=0 width="100%" bgcolor=#f1f1f1 border=0>
+						<tr>
+							<td>
+								<div align=center>
+									<table id=Table6 cellspacing=0 cellpadding=0 width="100%" border=0>
+										<tr>
+											<td>
+												<table id=Table7 cellspacing=0 cellpadding=0 width="100%" bgcolor=#f1f1f1 border=0>
+													<tr height=24>
+														<td align=center bgcolor=#407080><b><font color=white>	Ý kiến của bạn</font></b></td>
+													</tr>
+													<tr>
+														<td>
+															<table id=Table8 cellspacing=0 cellpadding=1 width="100%" border=0>
+																<tr>
+																	<td class=TitleFront align=right width=100>Tên của bạn:</td>
+																	<td>
+																		<input name="Feedback1:txtName" type="text" id="Feedback1_txtName" class="tbflat" onkeyup="telexingVietUC(this,event);" />
+																		&nbsp;</td>
+																<tr>
+																	<td class=TitleFront align=right width=100>Email:</td>
+																	<td>
+																		<input name="Feedback1:txtEmail" type="text" id="Feedback1_txtEmail" class="tbflat" />
+																		
+																		
+																		</td>
+																</tr>
+																<tr>
+																	<td class=TitleFront align=right width=100>Tiêu đề:</td>
+																	<td>
+																		<input name="Feedback1:txtHeadLine" type="text" id="Feedback1_txtHeadLine" class="tbflat" onkeyup="telexingVietUC(this,event);" />
+																		&nbsp;</td>
+																</tr>
+																<tr>
+																	<td style="PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px" align=right colspan=2>
+																		<input onfocus=setTypingMode(0); type=radio value=OFF name=switch>Tắt bộ gõ
+																		<input onfocus=setTypingMode(1) type=radio checked value=TELEX name=switch>Tự động
+																		<input onfocus=setTypingMode(1) type=radio value=TELEX name=switch>Telex <input onfocus=setTypingMode(2) type=radio value=VNI name=switch>VNI
+																		<input onfocus=setTypingMode(3) type=radio value=VIQR name=switch>VIQR</td>
+																</tr>
+															</table>
+														</td>
+													</tr>
+													<tr>
+														<td style="PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px" colspan=2>
+															<textarea name="Feedback1:txtContent" rows="8" id="Feedback1_txtContent" class="tbflat" onkeyup="telexingVietUC(this,event);"></textarea>
+															<span id="Feedback1_lblID"><input type=hidden name=ID value=76747></span>
+															&nbsp;</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+										<tr>
+											<td style="PADDING-RIGHT: 5px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px">
+												<table width="100%">
+													<tr>
+														<td><img style="CURSOR: hand" onclick=window.scrollTo(0,0) src="/Images/Gotop.gif" border=0>
+														</td>
+														<td align=right>
+															<input type="submit" name="Feedback1:btnSend" value="Gửi đi" onclick="if (typeof(Page_ClientValidate) == 'function') Page_ClientValidate(); " language="javascript" id="Feedback1_btnSend" /></td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+								</div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	
+</td></tr></table></p>
+</td>
+										</tr>
+									</table>
+								</td>
+								<td class="right_columm" valign="top" width="150">
+<table width="150" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="rightside_cell">
+			
+<script language="javascript" src="/JScripts/vietuni.js"></script>
+<script>setTypingMode(4);</script>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td bgcolor="#e5ded0">
+			<table width="100%" border="0" cellspacing="0" cellpadding="2">
+				<tr>
+					<td>
+						<div align="center">
+							<font color="#d3b380"><input class="tbflat2" type="text" name="SearchPhrase" onkeyup="telexingVietUC(this,event);"
+									onfocus="if (this.value=='Tìm kiếm') this.value='';" onblur="if (this.value=='') this.value='Tìm kiếm';"
+									size="15" border="0" value='Tìm kiếm'></font></div>
+					</td>
+					<td width="16">
+						<div align="center">
+							<input type="image" name="RightNavBar1:_ctl1:btnSubmit" id="RightNavBar1__ctl1_btnSubmit" title="Tìm kiếm" src="/images/ANTG/go.gif" alt="" /></div>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td bgcolor="#e5ded0">
+			<input id="RightNavBar1__ctl1_rdoZone" type="radio" name="RightNavBar1:_ctl1:SearchIn" value="rdoZone" /><label for="RightNavBar1__ctl1_rdoZone">Mục này</label>
+			<input id="RightNavBar1__ctl1_rdoAll" type="radio" name="RightNavBar1:_ctl1:SearchIn" value="rdoAll" checked="checked" /><label for="RightNavBar1__ctl1_rdoAll">Tất cả</label>
+		</td>
+	</tr>
+	<tr>
+		<td background="/images/ANTG/dot_bg.gif"><img src="/images/ANTG/blank.gif" alt="" height="1" width="1" border="0"></td>
+	</tr>
+	<tr>
+		<td class="sm_list" bgcolor="#e5ded0">
+			<div align="right">
+				<a href="/News/Search.aspx">Tìm kiếm nâng cao <img src="/images/ANTG/arr.gif" alt="" height="14" width="16" border="0" hspace="2"></a></div>
+		</td>
+	</tr>
+</table>
+<input type="hidden" name="SearchMessage" value="0"> <input type="hidden" name="andor" value="phrase"> 
+
+		</td>
+	</tr>
+	<tr>
+		<td bgcolor="#8b0000">
+			<a href="http://www.cand.com.vn/News/HuuUoc/index.html" target=_blank><img src="/images/ANTG/tbt.gif" width="150" border="0"></a>
+		</td>
+	</tr>
+	<tr>
+		<td class="rightside_cell" bgcolor="#f2eee6">
+			<table width="100%" border="0" style="BORDER-COLLAPSE: collapse" bordercolor="#747f7f" cellspacing="0" cellpadding="0">
+				<tr>
+					<td style="PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px" bgcolor="#716c54">
+						<div align="right">
+							<b><font color="white">LIÊN HỆ CAND</font></b></div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<table width="150" border="0" cellspacing="0" cellpadding="2">
+							<tr>
+								<td>
+									<div align="center">
+										<table width="100%" border="0" cellspacing="0" cellpadding="1">
+											<tr>
+												<td width="50%">
+													<div align="right">
+														<b><font color="#555555">Hà Nội:</font></b></div>
+												</td>
+												<td><b><font size="1" color="#9e0000" face="tahoma">04.39420595</font></b></td>
+											</tr>
+											<tr>
+												<td width="50%">
+													<div align="right">
+														<b><font color="#555555">TP HCM:</font></b></div>
+												</td>
+												<td><b><font size="1" color="#9e0000" face="tahoma">08.38241917</font></b></td>
+											</tr>
+										</table>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<div align="center">
+										<a href="mailto:candonline@gmail.com">candonline@gmail.com</a></div>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td class="rightside_cell">
+			
+<script language="javascript"> 
+function validate(str)
+{
+	at=document.getElementById('txtEmail').value;
+	if (at.search(/^\w+((-\w+)|(\.\w+))*\@[A-Za-z0-9]+((\.|-)[A-Za-z0-9]+)*\.[A-Za-z0-9]+$/) == -1)
+	{
+		alert(str);
+		return ;
+	}
+	window.open('/News/FinishInsert.aspx?txtEmail='+document.getElementById('txtEmail').value,'','resizable=no,width=420,height=200,top=75,left=220,scrollbars=no');
+}
+</script>
+<table width="100%" border="0" cellspacing="0" cellpadding="2">
+	<tr>
+		<td style="PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px"
+			bgcolor="#716c54">
+			<div align="right">
+				<b><font color="white">
+						<span id="RightNavBar1_Newsletter1_lbRegNewsLetter">ĐĂNG KÝ TIN THƯ</span></font></b></div>
+		</td>
+	</tr>
+	<tr>
+		<td bgcolor="#f2eee6">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td>
+						<div align="center">
+							<font color="#d3b380"><input class="tbflat" type="text" id="txtEmail" onblur="if (this.value=='') this.value='  Email của bạn';"
+														onfocus="if (this.value=='  Email của bạn') this.value='';" value="  Email của bạn" name="txtEmail" size="16" border="0"></font>
+						</div>
+					</td>
+					<td width="16"><a onmouseover="this.style.cursor='hand'" style="CURSOR: hand" onclick="validate('Không phải địa chỉ Email');"
+										border="0"><img src="/images/ANTG/stick.gif" alt="" height="16" width="16" border="0"></a></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+		</td>
+	</tr>
+	<tr>
+		<td class="rightside_cell">
+			
+		<table width="100%" border="0" cellspacing="2" cellpadding="0" align=center>
+			<tr>
+				<td height="20" background="/images/c2_bg.gif">
+					<b>TIÊU ĐIỂM</b>
+				</td>
+			</tr>
+	
+		<tr>
+			<td bgcolor="#f5f5f5">
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr>
+						<td><a href='/vi-vn/phongsu/2011/10/76549.cand'>
+								<img id="RightNavBar1__ctl0_rptSFL__ctl1_FSA" src="http://antg.cand.com.vn/Thumbnail\Uploaded_ANTG\hientk1\1082-1100/4_binh1106_60x60.jpg" alt="" border="0" height="60" width="60" /></a></td>
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="2">
+								<tr>
+									<td class="sm_list"><a href='/vi-vn/phongsu/2011/10/76549.cand'>
+												Sự thật về đại ca Bình “con” và đường dây kinh doanh gái, ma tuý
+											</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr>
+						<td><a href='/vi-vn/phongsu/2011/10/76484.cand'>
+								<img id="RightNavBar1__ctl0_rptSFL__ctl2_AltFSA" src="http://antg.cand.com.vn/Thumbnail\Uploaded_ANTG\hientk1\1082-1100/3_cac1102_60x60.jpg" alt="" border="0" height="60" width="60" /></a></td>
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="2">
+								<tr>
+									<td class="sm_list"><a href='/vi-vn/phongsu/2011/10/76484.cand'>
+												Xuống quán hầm cùng “phu đập đá”
+											</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
+		<tr>
+			<td bgcolor="#f5f5f5">
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr>
+						<td><a href='/vi-vn/phongsu/2011/10/76390.cand'>
+								<img id="RightNavBar1__ctl0_rptSFL__ctl3_FSA" src="http://antg.cand.com.vn/Thumbnail\Uploaded_ANTG\honghai/30_anh1100_60x60.jpg" alt="" border="0" height="60" width="60" /></a></td>
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="2">
+								<tr>
+									<td class="sm_list"><a href='/vi-vn/phongsu/2011/10/76390.cand'>
+												Nuôi "thần khuyển" ở Hà Nội
+											</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr>
+						<td><a href='/vi-vn/phongsu/2011/9/76294.cand'>
+								<img id="RightNavBar1__ctl0_rptSFL__ctl4_AltFSA" src="http://antg.cand.com.vn/Thumbnail\Uploaded_ANTG\honghai/30_day1096_60x60.jpg" alt="" border="0" height="60" width="60" /></a></td>
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="2">
+								<tr>
+									<td class="sm_list"><a href='/vi-vn/phongsu/2011/9/76294.cand'>
+												Khi sinh viên "chồng chung vợ chạ"
+											</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
+		<tr>
+			<td bgcolor="#f5f5f5">
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr>
+						<td><a href='/vi-vn/phongsu/2011/9/76047.cand'>
+								<img id="RightNavBar1__ctl0_rptSFL__ctl5_FSA" src="http://antg.cand.com.vn/Thumbnail\Uploaded_ANTG\honghai/27_tin1092_60x60.jpg" alt="" border="0" height="60" width="60" /></a></td>
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="2">
+								<tr>
+									<td class="sm_list"><a href='/vi-vn/phongsu/2011/9/76047.cand'>
+												Giải mã thủ đoạn dụ con bạc của các casino
+											</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr>
+						<td><a href='/vi-vn/phongsu/2011/9/76019.cand'>
+								</a></td>
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="2">
+								<tr>
+									<td class="sm_list"><a href='/vi-vn/phongsu/2011/9/76019.cand'>
+												Huyền thoại về hai thanh kiếm báu
+											</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
+		<tr>
+			<td bgcolor="#f5f5f5">
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr>
+						<td><a href='/vi-vn/phongsu/2011/9/76154.cand'>
+								<img id="RightNavBar1__ctl0_rptSFL__ctl7_FSA" src="http://antg.cand.com.vn/Thumbnail\Uploaded_ANTG\hientk1\1082-1100/4_1nu1088_60x60.jpg" alt="" border="0" height="60" width="60" /></a></td>
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="2">
+								<tr>
+									<td class="sm_list"><a href='/vi-vn/phongsu/2011/9/76154.cand'>
+												Ngày về của dân chơi
+											</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr>
+						<td><a href='/vi-vn/phongsu/2011/9/75962.cand'>
+								</a></td>
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="2">
+								<tr>
+									<td class="sm_list"><a href='/vi-vn/phongsu/2011/9/75962.cand'>
+												Thế rồi, Đinh La Thăng…
+											</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
+		<tr>
+			<td bgcolor="#f5f5f5">
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr>
+						<td><a href='/vi-vn/phongsu/2011/8/75838.cand'>
+								<img id="RightNavBar1__ctl0_rptSFL__ctl9_FSA" src="http://antg.cand.com.vn/Thumbnail\Uploaded_ANTG\hientk1/4_ngay1081_60x60.jpg" alt="" border="0" height="60" width="60" /></a></td>
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="2">
+								<tr>
+									<td class="sm_list"><a href='/vi-vn/phongsu/2011/8/75838.cand'>
+												Trào lưu tung ảnh “hiểm” lên mạng: Người mẫu ảnh, coi chừng sập bẫy!
+											</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr>
+						<td><a href='/vi-vn/phongsu/2011/8/75817.cand'>
+								<img id="RightNavBar1__ctl0_rptSFL__ctl10_AltFSA" src="http://antg.cand.com.vn/Thumbnail\Uploaded_ANTG\hientk1/4_dai1080_60x60.jpg" alt="" border="0" height="60" width="60" /></a></td>
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="2">
+								<tr>
+									<td class="sm_list"><a href='/vi-vn/phongsu/2011/8/75817.cand'>
+												Những vụ bắt truy nã hy hữu ở Miền Tây
+											</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
+		<tr>
+			<td bgcolor="#f5f5f5">
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr>
+						<td><a href='/vi-vn/phongsu/2011/7/75743.cand'>
+								<img id="RightNavBar1__ctl0_rptSFL__ctl11_FSA" src="http://antg.cand.com.vn/Thumbnail\Uploaded_ANTG\hientk1/5_cap1077_60x60.jpg" alt="" border="0" height="60" width="60" /></a></td>
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="2">
+								<tr>
+									<td class="sm_list"><a href='/vi-vn/phongsu/2011/7/75743.cand'>
+												Tận diệt đại ngàn vì thú chơi hàng độc
+											</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr>
+						<td><a href='/vi-vn/phongsu/2011/6/75582.cand'>
+								<img id="RightNavBar1__ctl0_rptSFL__ctl12_AltFSA" src="http://antg.cand.com.vn/Thumbnail\Uploaded_ANTG\hientk1/14_nhung1071_60x60.jpg" alt="" border="0" height="60" width="60" /></a></td>
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="2">
+								<tr>
+									<td class="sm_list"><a href='/vi-vn/phongsu/2011/6/75582.cand'>
+												Khi nữ sinh… “lướt sóng” tình
+											</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
+		<tr>
+			<td bgcolor="#f5f5f5">
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr>
+						<td><a href='/vi-vn/phongsu/2011/6/75537.cand'>
+								</a></td>
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="2">
+								<tr>
+									<td class="sm_list"><a href='/vi-vn/phongsu/2011/6/75537.cand'>
+												Đám cưới đồng tính nam đầu tiên ở Việt Nam
+											</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr>
+						<td><a href='/vi-vn/phongsu/2011/6/75490.cand'>
+								<img id="RightNavBar1__ctl0_rptSFL__ctl14_AltFSA" src="http://antg.cand.com.vn/Thumbnail\Uploaded_ANTG\hientk1/5_phan1068_60x60.jpg" alt="" border="0" height="60" width="60" /></a></td>
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="2">
+								<tr>
+									<td class="sm_list"><a href='/vi-vn/phongsu/2011/6/75490.cand'>
+												Ghen quá hóa dại
+											</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
+		<tr>
+			<td bgcolor="#f5f5f5">
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr>
+						<td><a href='/vi-vn/phongsu/2011/6/75434.cand'>
+								<img id="RightNavBar1__ctl0_rptSFL__ctl15_FSA" src="http://antg.cand.com.vn/Thumbnail\Uploaded_ANTG\hientk1/4_buc1066_60x60.jpg" alt="" border="0" height="60" width="60" /></a></td>
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="2">
+								<tr>
+									<td class="sm_list"><a href='/vi-vn/phongsu/2011/6/75434.cand'>
+												Chuyện thi hoa hậu của người đẹp bán vé số
+											</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr>
+						<td><a href='/vi-vn/phongsu/2011/6/75385.cand'>
+								<img id="RightNavBar1__ctl0_rptSFL__ctl16_AltFSA" src="http://antg.cand.com.vn/Thumbnail\Uploaded_ANTG\hientk1/4_ba1065_60x60.jpg" alt="" border="0" height="60" width="60" /></a></td>
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="2">
+								<tr>
+									<td class="sm_list"><a href='/vi-vn/phongsu/2011/6/75385.cand'>
+												Gia cảnh bi thảm của cậu bé nghiện uống xăng
+											</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
+		<tr>
+			<td bgcolor="#f5f5f5">
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr>
+						<td><a href='/vi-vn/phongsu/2011/6/75362.cand'>
+								<img id="RightNavBar1__ctl0_rptSFL__ctl17_FSA" src="http://antg.cand.com.vn/Thumbnail\Uploaded_ANTG\hientk1/5_do1064_60x60.jpg" alt="" border="0" height="60" width="60" /></a></td>
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="2">
+								<tr>
+									<td class="sm_list"><a href='/vi-vn/phongsu/2011/6/75362.cand'>
+												Đau đớn khi chồng đòi đa thê
+											</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr>
+						<td><a href='/vi-vn/phongsu/2011/5/75293.cand'>
+								<img id="RightNavBar1__ctl0_rptSFL__ctl18_AltFSA" src="http://antg.cand.com.vn/Thumbnail\Uploaded_ANTG\hientk1/5_ca1062_60x60.jpg" alt="" border="0" height="60" width="60" /></a></td>
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="2">
+								<tr>
+									<td class="sm_list"><a href='/vi-vn/phongsu/2011/5/75293.cand'>
+												Ai nhảy… ai vui… ai xem… ai khen
+											</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
+		<tr>
+			<td bgcolor="#f5f5f5">
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr>
+						<td><a href='/vi-vn/phongsu/2011/5/75271.cand'>
+								<img id="RightNavBar1__ctl0_rptSFL__ctl19_FSA" src="http://antg.cand.com.vn/Thumbnail\Uploaded_ANTG\hientk1/4_nguyen1061_60x60.jpg" alt="" border="0" height="60" width="60" /></a></td>
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="2">
+								<tr>
+									<td class="sm_list"><a href='/vi-vn/phongsu/2011/5/75271.cand'>
+												Cơn ghen cuồng dại từ vụ “giết vợ vì nghi có quan hệ đồng tính”
+											</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr>
+						<td><a href='/vi-vn/phongsu/2011/5/75259.cand'>
+								</a></td>
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="2">
+								<tr>
+									<td class="sm_list"><a href='/vi-vn/phongsu/2011/5/75259.cand'>
+												Clip sex - Cuộc chơi chưa có hồi kết?
+											</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
+		</table>
+	
+
+		</td>
+	</tr>
+
+	<tr>
+		<td class="rightside_cell">
+			<div align="center">
+				
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td class="rightside_cell">
+			
+		</td>
+	</tr>
+	<tr>
+		<td class="rightside_cell" align="center"></td>
+	</tr>
+	<tr>
+		<td class="rightside_cell" align="center">
+			<table style="PADDING-BOTTOM: 6px" width="100%" border="0" cellspacing="0" cellpadding="1">
+				<tr>
+					
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td>
+<table width="100%" border="0" cellspacing="0" cellpadding="2">
+	<tr>
+		<td class="c_right" bgcolor="#691312">
+			<div align="left">
+				<a id="Footer1_lnkCAND" href="http://www.cand.com.vn">Trang chủ </a>&nbsp;<img src="/images/ANTG/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;				
+				<a id="Footer1_lnkANTG" href="http://antg.cand.com.vn">An ninh Thế giới </a>&nbsp;<img src="/images/ANTG/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer1_lnkANTGCT" href="http://antgct.cand.com.vn">ANTG Cuối tháng </a>&nbsp;<img src="/images/ANTG/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer1_lnkVNCA" href="http://vnca.cand.com.vn">Văn nghệ Công An </a>&nbsp;<img src="/images/ANTG/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a href="http://cstc.cand.com.vn">Cảnh sát toàn cầu </a>&nbsp;<img src="/images/ANTG/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer1_lnkSitemap" href="http://www.cand.com.vn/News/Sitemap.aspx">Sơ đồ Website </a>&nbsp;<img src="/images/ANTG/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer1_lnkRSS" href="/RSS/Default.aspx">RSS </a>&nbsp;<img src="/images/ANTG/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer1_lnkFAQ" href="http://www.cand.com.vn/News/FAQ.aspx">FAQ </a>&nbsp;<img src="/images/ANTG/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer1_lnkWeblink" href="http://www.cand.com.vn/News/WebLink.aspx">Liên kết Web</a>
+			</div>
+		</td>
+	</tr>
+	<tr height="36">
+		<td class="c_right" bgcolor="#807b67" height="36">
+			<div align="left">
+				<font color="white"><b>Phụ trách biên tập: Trần Thị An Bình - Nguyễn Trang Dũng - Trần Anh Tú</b><br>
+					© 2004. Báo Công An Nhân Dân, Chuyên đề An Ninh Thế giới và Văn nghệ Công 
+					An. All rights reserved.<br>
+					® Liên hệ với <a id="Footer1_lnkContact" href="mailto:online@cand.com.vn">Tòa soạn</a> khi phát hành 
+					lại thông tin từ Website này. Ghi rõ nguồn &quot;CAND.com.vn&quot;<br>
+				</font>
+			</div>
+		</td>
+	</tr>
+</table>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4763663-3']);
+  _gaq.push(['_setDomainName', '.cand.com.vn']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></td>
+				</tr>
+			</table>
+		</form>
+	</body>
+</html>
