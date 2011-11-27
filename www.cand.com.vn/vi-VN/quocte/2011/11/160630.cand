@@ -1,0 +1,1640 @@
+
+<HTML>
+	<HEAD>
+		<title id="StoryTitle">CAND Online | Khủng hoảng nợ c&#244;ng ở ch&#226;u &#194;u đang lan rộng - Khung hoang no cong o chau Au dang lan rong</title>
+		<meta id="description" content="Du luan canh bao, khung hoang no cong dang go cua nuoc Phap sau khi “xong vao” Ireland, Bo Dao Nha, Hy Lap, Italia va Tay Ban Nha. Gioi kinh te cho biet, voi tu cach la nen kinh te lon thu hai khu vuc Eurozone, viec Phap nam trong vong nguy hiem khi phi vay cua nuoc nay tang toi muc khung khien du luan quan ngai. ">
+		</meta>
+		<meta id="refresher" http-equiv="REFRESH" content="600">
+		</meta>
+		<meta content="JavaScript" name="vs_defaultClientScript">
+		<meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema">
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta content="INDEX,FOLLOW" name="robots">
+		<LINK href="/images/CAND/logo_icon.ico" rel="shortcut icon">
+		<script language="JavaScript" src="/JScripts/PopCalendar.js" type="text/javascript"></script>
+		<style>.quest_zone { FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; COLOR: #006; PADDING-TOP: 4px; FONT-FAMILY: Arial, verdana, Georgia, Times }
+	.asker_name { FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; COLOR: gray; PADDING-TOP: 4px; FONT-FAMILY: Arial, verdana, Georgia, Times }
+	.text_box1 { FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; COLOR: #000000; PADDING-TOP: 4px; FONT-FAMILY: Arial, verdana, Georgia, Times }
+	.image_desc { FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; COLOR: #000000; PADDING-TOP: 4px; FONT-FAMILY: Times, verdana, Georgia, Arial }
+		</style>
+		<script language="JavaScript">
+			function setVisibility(evt,id, visibility,obj)
+			{
+				updatebox(evt,id,obj);
+				document.getElementById(id).style.display = visibility;
+			}
+			function updatebox(evt,id,obj)
+			{
+				 mouseX=evt.pageX?evt.pageX:evt.clientX;//
+				 mouseY=evt.pageY?evt.pageY:evt.clientY;//
+				 document.getElementById(id).style.left=mouseX+document.body.scrollLeft;
+				 document.getElementById(id).style.top=mouseY+document.body.scrollTop;
+			}
+		</script>
+	</HEAD>
+	<body>
+		<form name="StoryPg" method="post" action="Story.aspx?ID=160630&amp;culture=vi-vn" id="StoryPg">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjUwMjkyNzkwZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgURRmVlZGJhY2sxJGJ0blNlbmQFE1NlYXJjaGVzMSRidG5TdWJtaXSv8PAeb57TfcDMByZ6jgKwz6GdeA==" />
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBwKcoJenDQKzs/e9DwLrxLWhCAK8jPXcDQKJ9r6xBQL6/e6yBwLh3qCFCeHJN64Hywk0yAbbdiJftoqWoX+M" />
+			<TABLE id="Table5" cellSpacing="0" cellPadding="0" width="1000" align="center" bgColor="#ffffff"
+				border="0">
+				<TBODY>
+					<TR>
+						<TD>
+<LINK href="/JScripts/CAND.CSS" type="text/css" rel="stylesheet">
+<script language="javascript" src="/JScripts/cookieUtility.js"></script>
+<script language="javascript" src="/JScripts/personalize.js"></script>
+<script language="JavaScript" src="/JScripts/adFlash.js"></script>
+<script language="javascript" src="/JScripts/mylib.js"></script>
+<table cellSpacing="0" cellPadding="0" width="100%" bgColor="#ffffff" border="0" id="Table2">
+	<TR>
+		<TD align="center">
+			<TABLE cellSpacing="0" cellPadding="0" width="100%" border="0" id="Table3">
+				<TR height="50">
+					<TD vAlign="top" width="194" bgColor="#cbe2e9">
+						<a id="Header_lnkHomePage" href="http://www.cand.com.vn">
+							<IMG src="/Images/header_candonline228x50.gif" border="0"></a></TD>
+					<TD align="right" width="100%" background="/Images/CAND/bg_head.gif" bgColor="#cbe2e9"
+						height="50">
+						</TD>
+				</TR>
+				<TR>
+					<TD vAlign="middle" align="left" width="194" bgColor="black"><IMG src="/Images/header_sologon229x16.gif"></TD>
+					<TD align="right" width="100%" bgColor="black" height="18">
+<table id="Table1" cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td>
+			<span id="Header_ctlPersonalizeText_lblWelcome"><font color="White">Chào bạn!</font></span></td>
+		<td></td>
+		<td></td>
+		<td>&nbsp;&nbsp;</td>
+		<td>
+			<script>
+        var mydate=new Date()
+        var year=mydate.getYear()
+        if (year < 1000)
+					year+=1900
+        var day=mydate.getDay()
+        var month=mydate.getMonth()
+        var daym=mydate.getDate()
+        if (daym<10)
+					daym="0"+daym
+        var dhour=mydate.getHours()
+        var dmin=mydate.getMinutes()
+        if (dmin<10)
+					dmin="0"+dmin
+        if (dhour<10)
+					dhour="0"+dhour
+        var dayarray=new Array("Ch&#7911; Nh&#7853;t","Th&#7913; Hai","Th&#7913; Ba","Th&#7913; T&#432;","Th&#7913; N&#259;m","Th&#7913; S&#225;u","Th&#7913; B&#7843;y")
+        var montharray=new Array("01","02","03","04","05","06","07","08","09","10","11","12")
+                document.write("<font color=white><b> "+dhour+":"+dmin+" "+daym+"/"+montharray[month]+"/"+year+"</b></font>")
+			</script>
+		</td>
+		<td>&nbsp;&nbsp;</td>
+	</tr>
+</table>
+</TD>
+				</TR>
+			</TABLE>
+		</TD>
+	</TR>
+	<TR>
+		<TD align="center" width="1000" background="/Images/header_background24x6.gif" bgColor="#ac051f"
+			height="24">
+			<TABLE id="Table1" style="WIDTH: 100%; HEIGHT: 24px" height="24" cellSpacing="0" cellPadding="0"
+				width="100%" align="right" background="/Images/header_background24x6.gif" border="0">
+				<TR>
+					<TD style="WIDTH: 223px" width="223" height="24"></TD>
+					<TD style="WIDTH: 100px" width="100" height="24">
+						<img src='/rpc/counter.aspx?ckey=All_view&rand=655316477' width=0 height=0 border=0 alt=''></TD>
+					<TD style="WIDTH: 120px" align="center" width="120" height="24"><a id="Header_lnkANTG" href="http://antg.cand.com.vn">
+							<img height="24" alt="" src="/Images/header_title_antg102x24.gif" width="102" border="0"></a></TD>
+					<TD style="WIDTH: 12px" width="10" height="24"><IMG src="/Images/header_linedoc12x24.gif"></TD>
+					<TD style="WIDTH: 120px" align="center" width="120" height="24"><a id="Header_lnkANTGCT" href="http://antgct.cand.com.vn">
+							<img height="24" alt="" src="/Images/header_title_antgct105x24.gif" width="105" border="0"></a></TD>
+					<TD style="WIDTH: 12px" width="10" height="24"><IMG src="/Images/header_linedoc12x24.gif"></TD>
+					<TD style="WIDTH: 120px" align="center" width="120" height="24"><a id="Header_lnkVNCA" href="http://vnca.cand.com.vn">
+							<img height="24" alt="" src="/Images/header_title_vnca112x24.gif" width="112" border="0"></a></TD>
+					<TD style="WIDTH: 12px" width="10" height="24"><IMG src="/Images/header_linedoc12x24.gif"></TD>
+					<TD style="WIDTH: 120px" align="center" width="120" height="24"><a id="Header_lnkCAND" href="http://cstc.cand.com.vn">
+							<img height="24" alt="" src="/Images/header_title_cstc115x24.gif" width="115" border="0"></a></TD>
+					<TD style="WIDTH: 12px" width="10" height="24"><IMG src="/Images/header_linedoc12x24.gif"></TD>
+					<!--
+					<TD align="right" width="106" height="24"><a id="Header_lnkCANDTV">
+							<img height="24" alt="" src="/Images/header_thcand106x24.gif" width="106" border="0"></a></TD>
+					-->
+				</TR>
+			</TABLE>
+		</TD>
+	</TR>
+	<TR>
+		<TD style="HEIGHT: 1px" align="center" bgColor="#ac051f"><script language="JavaScript" src="/JScripts/CAND_new.JS"></script>
+<table class="navgrid" height="26" cellSpacing="0" cellPadding="0" width="100%" align="left" border="0" bgColor="#ac051f">
+	<tr bgColor="#ac051f">
+		<td height="26" align="center">
+		<A href="/" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Trang chủ</FONT></A>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<A href="/vi-VN/thoisu.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Thời sự</FONT></A>&nbsp;&nbsp|&nbsp;&nbsp;
+		<A href="/vi-VN/xahoi.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Xã hội</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/quocte.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Quốc tế</FONT></A>&nbsp;&nbsp;|&nbsp&nbsp;
+		<A href="/vi-VN/kinhte.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Kinh tế</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/vanhoa.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Văn hoá</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/phapluat.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Pháp luật</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/nguoinoitieng.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Người nổi tiếng</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/nhanai.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Nhịp cầu nhân ái</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/trongmatdan.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Công an trong lòng dân</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/toiphama-z.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Tội phạm từ A-Z</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/clips.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Video Clip</FONT></A>
+		</td>
+	</tr>
+</table></TD>
+	</TR>
+</table>
+<link href="/JScripts/cand_new.css" rel="stylesheet" media="screen">
+</TD>
+					</TR>
+					<TR>
+						<TD>
+							<TABLE id="Table6" cellSpacing="0" cellPadding="0" width="1000" align="left" bgColor="white"
+								border="0">
+								<TBODY>
+									<TR vAlign="top">
+										<TD class="left_columms" style="PADDING-TOP: 10px" vAlign="top" width="800">
+											<table cellSpacing="0" cellPadding="0" width="100%" align="center" border="0">
+												<TBODY>
+													<TR>
+														<TD style="PADDING-BOTTOM: 6px; HEIGHT: 20px; paddint-top: 6px" align="center">
+															<TABLE id="Table11" style="PADDING-BOTTOM: 10px" cellSpacing="0" cellPadding="0" width="780"
+																border="0">
+																<TR>
+																	<TD style="WIDTH: 500px" width="500"></TD>
+																</TR>
+																<TR>
+																	<TD style="WIDTH: 500px; HEIGHT: 34px" vAlign="top" align="left" width="100%" background="/Images/back_line.gif"><span id="Path1_lbPath" class="cm_title">Quốc tế&nbsp;</span>
+</TD>
+																</TR>
+																<TR>
+																	<TD style="WIDTH: 500px" width="500"></TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR>
+														<TD class="home_subtitle" style="HEIGHT: 7px" align="center"></TD>
+													</TR>
+													<TR>
+														<TD style="HEIGHT: 328px" vAlign="top" align="center">
+															<TABLE id="Table12" height="19" cellSpacing="0" cellPadding="0" width="780" border="0">
+																<TR>
+																	<TD style="PADDING-RIGHT: 6px" vAlign="top" align="center" width="780">
+																		<DIV align="left">
+																			<TABLE cellSpacing="0" cellPadding="0" align="left" border="0">
+																				<TR>
+																					<TD style="HEIGHT: 1px">
+																						<TABLE cellSpacing="0" cellPadding="0" border="0">
+																							<TR>
+																								<TD></TD>
+																							</TR>
+																							<TR>
+																								<TD class="pic_explain"></TD>
+																							</TR>
+																						</TABLE>
+																					</TD>
+																				</TR>
+																				<TR>
+																					<TD style="HEIGHT: 10px"></TD>
+																				</TR>
+																				<TR>
+																					<TD></TD>
+																				</TR>
+																			</TABLE>
+																			<DIV align="left"><B></B></DIV>
+																			<DIV align="left"><span id="lbHeadline" class="main_title">Khủng hoảng nợ công ở châu Âu đang lan rộng</span></DIV>
+																			<DIV align="left">
+																				<DIV align="left"><span id="lbDate" class="time_zone">16:59:00 27/11/2011</span></DIV>
+																				<DIV align="left"><span id="lbAuthor1" class="author"><a href='http://cstc.cand.com.vn/News/huuuoc/index.html' target=_blank></a></span></DIV>
+																			</DIV>
+																		</DIV>
+																		<DIV align="left"><span class="main_abstract">Dư luận cảnh báo, khủng hoảng nợ công đang gõ cửa nước Pháp sau khi “xông vào” Ireland, Bồ Đào Nha, Hy Lạp, Italia và Tây Ban Nha. Giới kinh tế cho biết, với tư cách là nền kinh tế lớn thứ hai khu vực Eurozone, việc Pháp nằm trong vòng nguy hiểm khi phí vay của nước này tăng tới mức khủng khiến dư luận quan ngại. </span></DIV>
+																		<DIV align="left"><span id="lbContinue" class="time_zone"></span><span id="lbBody" class="main_content"><P><FONT size=2>Vì không tạo được bước đột phá (nếu như không muốn nói là thất bại) trong cuộc gặp hôm 24/11 giữa lãnh đạo 3 quốc gia Đức, Pháp và Italia - 3 thành viên đứng đầu khu vực đồng tiền chung euro (Eurozone) nên dư luận, nhất là giới chuyên môn đặt nhiều câu hỏi xung quanh sự tồn tại của đồng Euro nếu tình hình khủng hoảng tiếp tục xấu đi, thậm chí xảy ra hiệu ứng domino khi một thành viên vỡ nợ công. Do đó, dư luận hy vọng hội nghị thượng đỉnh Liên minh châu Âu (EU) diễn ra hôm 9/12 sẽ thông qua những quyết sách nhằm giải tỏa các âu lo. Điều này càng trở nên cấp bách khi giới truyền thông đưa tin, Đại sứ quán Anh tại khu vực Eurozone đã thảo sẵn kế hoạch giúp công dân Anh ở nước ngoài hạn chế ảnh hưởng trong trường hợp đồng Euro sụp đổ. Đầu tháng 11, Bộ Tài chính Anh đã đưa ra kế hoạch dự phòng trước nguy cơ sụp đổ của đồng Euro bởi việc này chỉ còn là vấn đề thời gian.</FONT></P>
+<P><B><FONT size=2>Nguy cơ vỡ nợ công đang dần hiện hữu</FONT></B></P>
+<P><FONT size=2>Ngày 24/11, tại Strasbourg, Pháp, Thủ tướng Đức Angela Merkel, Tổng thống Pháp Nicolas Sarkozy và Thủ tướng Italia Mario Monti đã đạt được thỏa thuận quan trọng về vai trò của Ngân hàng Trung ương châu Âu (ECB) trong cuộc chiến chống khủng hoảng nợ công tại khu vực Eurozone. </FONT></P>
+<P><FONT size=2>Theo đó, Đức, Pháp và Italia sẽ không can thiệp vào hoạt động của ECB, đồng thời khẳng định tính độc lập trong việc giải quyết vấn đề lạm phát tại khu vực Eurozone, cũng như việc cung cấp các khoản vay cho những thành viên. Tuy nhiên, Đức và Pháp vẫn chưa thống nhất về vai trò của ECB trong việc giải cứu khủng hoảng nợ công châu Âu. </FONT></P>
+<P><FONT size=2>Giới chuyên môn coi việc chấm dứt tranh cãi về vai trò của ECB giữa Tổng thống Pháp và Thủ tướng Đức trong việc giải cứu khu vực Eurozone và tôn trọng nhiệm vụ của ngân hàng là nhằm chống lạm phát, tạo cơ hội để thu hẹp phạm vi nợ công. Trước đó, Thủ tướng Đức Angela Merkel từng kiên quyết phản đối việc phát hành trái phiếu chung khu vực Eurozone cũng như việc mở rộng vai trò của ECB trong giải quyết khủng hoảng nợ công bởi cho rằng, trái phiếu châu Âu không cần thiết và không thích hợp trong bối cảnh hiện nay. </FONT></P>
+<P><FONT size=2>Bà Angela Merkel khẳng định, việc này sẽ gây khó khăn trong việc tìm kiếm những giải pháp phù hợp để giải quyết các vấn đề nan giải của cuộc khủng hoảng, cũng như làm thay đổi hệ thống lãi suất hiện nay trong khu vực Eurozone. Được biết, Đức, Hà Lan, Phần Lan đều là 3 thị trường tài chính ổn định nhất khu vực Eurozone nhưng đã loại trừ khả năng phát hành trái phiếu chung và thảo luận cách tiếp cận kép để ổn định thị trường trái phiếu quốc gia tại khu vực này.</FONT></P>
+<P><FONT size=2>Dư luận cảnh báo, khủng hoảng nợ công đang gõ cửa nước Pháp sau khi “xông vào” <?xml:namespace prefix = st1 /><st1:country-region w:st="on"><st1:place w:st="on">Ireland</st1:place></st1:country-region>, Bồ Đào Nha, Hy Lạp, Italia và Tây Ban Nha. Giới kinh tế cho biết, với tư cách là nền kinh tế lớn thứ hai khu vực Eurozone, việc Pháp nằm trong vòng nguy hiểm khi phí vay của nước này tăng tới mức khủng khiến dư luận quan ngại. </FONT></P>
+<P><FONT size=2>Được biết, lãi suất trái phiếu chính phủ kỳ hạn 10 năm của Pháp đã tăng 50 điểm, cao gấp đôi so với Đức. Việc này diễn ra khi các khoản nợ của Pháp đã chạm ngưỡng 1.700 tỷ Euro, thấp hơn mức 1.900 tỷ Euro của Italia. Nhưng tình hình nợ công của <st1:City w:st="on">Paris</st1:City> có phần rủi ro hơn <st1:place w:st="on"><st1:City w:st="on">Rome</st1:City></st1:place> bởi chủ nợ của Italia là nhà đầu tư trong nước, còn của Pháp chủ yếu là vay nước ngoài. </FONT></P>
+<P>
+<TABLE style="WIDTH: 20px; HEIGHT: 20px" border=0 rules=none cellSpacing=2 cellPadding=0 frame=void align=center>
+<TBODY>
+<TR>
+<TD><IMG border=0 src="http://www.cand.com.vn/Uploaded_ANTGCT/16_thu2314-450.jpg"></TD></TR>
+<TR>
+<TD><FONT color=#808080 size=2>Thủ tướng Đức Angela Merkel, Tổng thống Pháp Nicolas Sarkozy và Thủ tướng Italia Mario Monti.</FONT></TD></TR></TBODY></TABLE></P>
+<P><FONT size=2>Người dân Pháp và các nhà đầu tư bắt đầu lo rằng, sau Hy Lạp và Italia, Pháp có thể trở thành nạn nhân tiếp theo của cuộc khủng hoảng nợ công. Chính phủ Pháp vừa công bố các biện pháp thắt lưng buộc bụng mới nhằm tiết kiệm thêm 7 tỷ Euro (khoảng 9,34 tỷ USD) trong năm 2012, cũng như hạ mức dự báo tăng trưởng kinh tế năm 2012 xuống còn 1% so với 2,25% đưa ra trước đó.</FONT></P>
+<P><FONT size=2>Ngày 23/11, EU đã đề nghị được trao nhiều quyền hơn để kiểm soát ngân sách của các quốc gia khu vực Eurozone, đồng thời đề xuất phát hành trái phiếu chung của những thành viên như một giải pháp nhằm dập tắt cuộc khủng hoảng nợ công đang hoành hành. </FONT></P>
+<P><FONT size=2>Theo đó, các nước thành viên khu vực Eurozone phải công bố dự thảo ngân sách quốc gia tại cùng một thời điểm trong năm và EC có quyền đánh giá, cũng như đưa ra quan điểm nếu dự thảo ngân sách quốc gia vi phạm cam kết về chính sách trong Hiệp ước về ổn định và tăng trưởng dành cho khu vực Eurozone. </FONT></P>
+<P><FONT size=2>EU cũng muốn thể chế hóa các hoạt động kiểm toán tại những nước gặp khó khăn về tài chính như Hy Lạp và Italia trước khi đưa ra quyết định cứu trợ vỡ nợ. Chủ tịch EC Jose Manuel Barroso còn đề xuất những kế hoạch mạnh mẽ như cho phép ông và Ủy viên EU phụ trách các vấn đề kinh tế Olli Rehn can thiệp vào quá trình hoạch định chính sách của các quốc gia thành viên. </FONT></P>
+<P><FONT size=2>Cũng trong ngày 23/11, Viện Tài chính Quốc tế (IIF) khuyến cáo, khu vực Eurozone đã rơi vào tình trạng suy thoái kinh tế và tình hình đang xấu đi một cách nhanh chóng và tình hình này đang khoét rộng thêm mức thâm hụt ngân sách, cũng như làm suy yếu chất lượng tài sản của các ngân hàng. IIF còn cảnh báo, sự yếu kém trong khu vực Eurozone sẽ lan sang phần còn lại của thế giới qua một số kênh khác nhau, đặc biệt là khu vực ngân hàng.</FONT></P>
+<P><B><FONT size=2>Khó khăn trăm bề</FONT></B></P>
+<P><FONT size=2>Tổng thống Pháp Nicolas Sarkozy ủng hộ lời kêu gọi sửa đổi hiệp ước EU của Thủ tướng Angela Merkel. Dự kiến lãnh đạo EU sẽ nhóm họp ngày 9/12 để thông qua việc sửa đổi hiệp ước EU. Nhưng trước khi diễn ra hội nghị thượng đỉnh EU hôm 9/12, Đức và Pháp sẽ đưa ra các đề xuất về sửa đổi hiệp ước Lisbon nhằm củng cố niềm tin đối với khu vực Eurozone. </FONT></P>
+<P><FONT size=2>Tuy nhiên, lãnh đạo 3 quốc gia kể trên cũng khẳng định, các biện pháp đối phó hiện nay không đủ để đưa khu vực Eurozone thoát khỏi khủng hoảng, cũng như lấy lại lòng tin của nhà đầu tư. Ngày 22/11, IMF đã điều chỉnh quy chế tín dụng - ra đời công cụ cho vay mới nhằm hỗ trợ các nước đang gặp khó khăn. </FONT></P>
+<P><FONT size=2>Theo đó, các nước được tiếp cận nguồn tài chính gấp 5 lần hạn ngạch. Tổng giám đốc IMF Christine Lagarde tuyên bố, những công cụ mới sẽ giúp phản ứng nhanh và hiệu quả vì lợi ích của tất cả các thành viên và đây là bước tiến tới việc tạo ra một mạng lưới an toàn tài chính toàn cầu.</FONT></P>
+<P><FONT size=2>Giới kinh tế cảnh báo, các ngân hàng Ireland sẽ gặp nhiều khó khăn trong việc thu gọn bảng quyết toán ngân sách năm 2012 bởi theo điều khoản trong gói giải cứu tài chính của EU và IMF, Ngân hàng Trung ương Ireland Allied Irish Banks và Irish Life &amp; Permanent cần giảm 70 tỷ Euro quy mô bảng quyết toán ngân sách vào năm 2013, trong đó 34 tỷ Euro phải đạt được thông qua hoạt động bán tài sản. Được biết, các ngân hàng Ireland vẫn phải phụ thuộc đáng kể vào ngân hàng trung ương cho nguồn vốn khẩn cấp trị giá khoảng 50 tỷ Euro và phụ thuộc vào ECB với con số gấp đôi (100 tỷ Euro). </FONT></P>
+<P>
+<TABLE style="WIDTH: 20px; HEIGHT: 20px" border=0 rules=none cellSpacing=2 cellPadding=0 frame=void align=center>
+<TBODY>
+<TR>
+<TD><IMG border=0 src="http://www.cand.com.vn/Uploaded_ANTGCT/15_thu2314-450.jpg"></TD></TR>
+<TR>
+<TD><FONT color=#808080 size=2>Thủ tướng Đức và Thủ tướng Anh.</FONT></TD></TR></TBODY></TABLE></P>
+<P><FONT size=2>Giới chuyên môn đang quan tâm tới đề xuất liên quan đến việc sử dụng vàng như một tài sản thế chấp bởi các ngân hàng trung ương Eurozone đang nắm giữ khoảng 64% dự trữ vàng thế giới. Và một câu hỏi được đặt ra, liệu&nbsp; 10.792 tấn vàng (trị giá gần 650 tỷ USD, theo cách tính ngày 23/11) dự trữ của các ngân hàng trung ương Eurozone liệu có cứu được khu vực Eurozone thoát khỏi tình trạng nợ công hiện nay. Được biết, biện pháp này từng được sử dụng một vài lần nhưng chủ yếu là trước khi khu vực Eurozone ra đời. Mặc dù kế hoạch này không được trình bày chi tiết tại cuộc họp của Ủy ban châu Âu (EC) hôm 23/11, nhưng các chuyên gia coi đây là một kịch bản khả thi.</FONT></P>
+<P><FONT size=2>Có người khuyến cáo, khu vực Eurozone đang sa vào cuộc khủng hoảng kép khi nhà đầu tư rút tiền khỏi cả nhà nước lẫn ngân hàng. Chủ tịch Hiệp hội các ngân hàng Đức Andreas Schmitz cảnh báo, trong tương lai, nhà nước không còn có thể đi vay tiền của thị trường vốn để tài trợ cho ngân sách. Các quĩ đầu tư tiền tệ Mỹ từ lâu đã rút khỏi thị trường châu Âu, trong khi các ngân hàng Anh-Mỹ tỏ ra rất thận trọng trong giao dịch với các ngân hàng châu Âu và nếu ECB không can thiệp, tình hình sẽ trở nên ngày càng tồi tệ hơn. Được biết, cho đến nay ECB đã mua 195 tỷ Euro trái phiếu chính phủ từ các ngân hàng thương mại.</FONT></P>
+<P><B><FONT size=2>Đâu là lối thoát</FONT></B></P>
+<P><FONT size=2>Giới chuyên môn đang cảnh báo về thất bại của chiến lược "hoặc trái phiếu chung Euro hoặc tan vỡ Euro”. Lời cảnh báo này càng thu hút sự quan tâm của dư luận sau thất bại của đợt bán trái phiếu chính phủ Đức hôm 23/11 và dấu hiệu này cho thấy, khu vực Eurozone đang đối mặt với tình trạng nguy kịch. </FONT></P>
+<P><FONT size=2>Việc nền kinh tế số một châu Âu thất bại trong phiên bán đấu giá trái phiếu chính phủ (Bund), một loại trái phiếu làm quy chiếu cho thị trường châu Âu hôm 23/11 khiến dư luận thất vọng. Ban đầu Đức hy vọng huy động được 6 tỉ Euro (khoảng 9,3 tỉ USD) thông qua hình thức bán trái phiếu, nhưng chỉ bán được 3,64 tỉ Euro (khoảng 4,92 tỉ USD). </FONT></P>
+<P><FONT size=2>Ngay lập tức giới chuyên môn cảnh báo, khủng hoảng nợ đang xâm nhập sâu vào trung tâm châu Âu và đã chạm đến Đức. Nếu lãi suất trái phiếu Đức tiếp tục tăng lên, có khả năng khu vực Eurozone sẽ tan vỡ hoàn toàn. Có người khuyến cáo, Ngân hàng Trung ương Đức đang trở nên suy sụp khi lãi suất trái phiếu thời hạn 10 năm tăng 14,5 điểm cơ bản lên 2,056%, lần đầu tiên tăng cao hơn chi phí vay của Mỹ kể từ tháng 10/2011.</FONT></P>
+<P><FONT size=2>Hãng Standard &amp; Poor's vừa hạ mức xếp hạng tín dụng của Bỉ từ AA+ xuống AA, với triển vọng tiêu cực. Đây là lần đầu tiên Bỉ bị hạ xếp hạng tín dụng trong gần 13 năm và đặt xếp hạng tín dụng của nước này xuống bằng với xếp hạng nội tệ của Czech, Kuwait và Chile. </FONT></P>
+<P><FONT size=2>Các nhà đầu tư tiếp tục làn sóng bán trái phiếu Bỉ sau khi cuộc đàm phán liên minh 6 đảng vẫn bế tắc trong vấn đề cắt giảm thâm hụt ngân sách. Trước đó (24/11), hãng xếp hạng tín nhiệm Moody's đã hạ mức tín nhiệm của trái phiếu chính phủ Hungary xuống một bậc, từ "Baa3" xuống "Ba1", giữ nguyên đánh giá triển vọng tiêu cực của kinh tế nước này. </FONT></P>
+<P><FONT size=2>Mood's nhấn mạnh, sẽ tiếp tục xem xét hạ mức xếp hạng tín nhiệm trái phiếu chính phủ <st1:country-region w:st="on"><st1:place w:st="on">Hungary</st1:place></st1:country-region> nếu nước này không có những tiến bộ rõ rệt trong việc củng cố tài chính quốc gia. Việc này diễn ra sau khi <st1:place w:st="on"><st1:country-region w:st="on">Hungary</st1:country-region></st1:place> đề nghị Quỹ Tiền tệ Quốc tế (IMF) và EU trợ giúp để tránh bị đánh tụt hạng tín nhiệm hôm 17/11. </FONT></P>
+<P><FONT size=2>Được biết, từ đầu năm nay, chính phủ do Thủ tướng Viktor Orban đứng đầu đã thông qua các biện pháp kinh tế khắc khổ và coi đó là một phần trong nỗ lực nhằm cắt giảm thâm hụt ngân sách năm 2012 xuống dưới mức trần 3% theo quy định của EU, đồng thời giảm mức vay nợ, nhưng chưa có kết quả khả quan khi&nbsp; đồng Forint của Hungary giảm giá mức thấp kỷ lục so với đồng Euro. </FONT></P>
+<P><FONT size=2>Hungary là thành viên đầu tiên của EU nhận cứu trợ từ IMF (năm 2008) và là nước có nợ chính phủ cao nhất trong các thành viên Đông Âu của EU năm 2010 với mức 81% GDP. Hai hãng Standard &amp; Poor's và Fitch đều xếp hạng nợ của <st1:place w:st="on"><st1:country-region w:st="on">Hungary</st1:country-region></st1:place> ở mức thấp nhất trong mức đầu tư. </FONT></P>
+<P><FONT size=2>Cũng trong ngày 24/11, cơ quan xếp hạng tín nhiệm Fitch đã hạ mức tín nhiệm của Bồ Đào Nha xuống còn "BB+" do mức nợ cao, tình trạng mất cân bằng tài chính lớn và triển vọng kinh tế u ám. Ngoài ra, Fitch còn đánh giá triển vọng của Bồ Đào Nha ở mức tiêu cực và điều này đồng nghĩa với việc nước này có thể tiếp tục bị đánh tụt hạng tín nhiệm thời gian tới. </FONT></P>
+<P><FONT size=2>Được biết, Bồ Đào Nha đã phải sử dụng tới gói cứu trợ lên tới 78 tỷ Euro của EU và IMF. Chính phủ Bồ Đào Nha đã áp dụng các biện pháp giảm lương, tăng thuế và giảm chi tiêu cho các dịch vụ y tế, giáo dục theo yêu cầu của IMF, EU và ECB. Tuy những biện pháp này giúp giảm thâm hụt ngân sách, nhưng lại đẩy Bồ Đào Nha vào cuộc suy thoái sâu hơn.</FONT></P>
+<P><FONT size=2>Cuộc khủng hoảng nợ công châu Âu đã dẫn đến làn sóng thay thế lãnh đạo. Kể từ khi khủng hoảng nợ công ở châu Âu trở nên nghiêm trọng, nhiều chính phủ ở các nước thành viên Eurozone đã sụp đổ. Từ tháng 3/2011, <st1:country-region w:st="on"><st1:place w:st="on">Ireland</st1:place></st1:country-region> đã thay cả Thủ tướng và Tổng thống, nhưng tình hình kinh tế nước này vẫn không mấy khả quan. Tuy trở thành Thủ tướng Bồ Đào Nha từ ngày 21/6, nhưng ông Pedro Passos Coelho vẫn chưa xoay chuyển được tình hình kinh tế bi đát của nước này. Kinh tế Hy Lạp vẫn có nguy cơ bị vỡ nợ cho dù ông Lucas Papademos đã nhậm chức Thủ tướng hôm 10/11. </FONT></P>
+<P><FONT size=2>Tân Thủ tướng Mario Monti vẫn chưa biết xử lý khoản nợ công lên tới 1.900 tỉ Euro (khoảng 2.600 tỉ USD) do người tiền nhiệm Silvo Berlusconi để lại. Mặc dù đảng Nhân dân giành thắng lợi kể từ năm 1982 tới nay sau khi ông Mariano Rajoy giành thắng lợi trong cuộc bầu cử, trở thành tân Thủ tướng thay thế người tiền nhiệm Jose Luis Rodriguez Zapatero, nhưng tình hình kinh tế Tây Ban Nha vẫn đang ở trong tình trạng bế tắc. </FONT></P>
+<P align=center>
+<TABLE style="BORDER-BOTTOM: #002896 1px solid; BORDER-LEFT: #002896 1px solid; WIDTH: 500px; BORDER-TOP: #002896 1px solid; BORDER-RIGHT: #002896 1px solid" cellSpacing=2 cellPadding=3 bgColor=#c8e6fa align=center>
+<TBODY>
+<TR>
+<TD>
+<P><FONT size=2>- “Xếp hạng hàng đầu của Mỹ có thể bị đe dọa nếu các nhà lập pháp từ bỏ kế hoạch giảm thâm hụt trị giá 1.200 tỷ USD trong 10 năm tới”, lời cảnh báo của hãng Moody's đang khiến dư luận quan tâm. Moody's cho rằng, việc giảm tổng mức thâm hụt sẽ làm tăng nợ liên bang trong thập kỷ tới và có thể ảnh hưởng tiêu cựu tới đánh giá xếp hạng nợ Mỹ. Ngày 21/11, Ủy ban chuyên trách tại Quốc hội phụ trách về vấn đề cắt giảm thâm hụt ngân sách gồm 12 thành viên không đạt được thỏa thuận về việc cắt giảm 1.200 tỷ USD thâm hụt ngân sách trong 10 năm tới. </FONT></P>
+<P><FONT size=2>Theo lộ trình đã được thông qua, kế hoạch cắt giảm chi tiêu tự động sẽ được bắt đầu vào năm 2013 và thực hiện đồng đều giữa các chương trình, từ mục tiêu trong nước đến ngân sách dành cho quốc phòng. Tới cuối tháng 11, hãng Fitch Ratings cũng sẽ đưa ra kết luận về xếp hạng tín dụng Mỹ sau khi ủy ban đặc biệt của Quốc hội thất bại trong việc đạt được thỏa thuận lưỡng đảng nhằm cắt giảm nợ liên bang.</FONT></P>
+<P><FONT size=2>- Cục Dự trữ Liên bang Mỹ (FED) vừa bác bỏ việc thông qua các mục tiêu mới về tăng trưởng, tỷ lệ thất nghiệp và lạm phát của nền kinh tế Mỹ. Được biết, FED đang đau đầu với một loạt công cụ mới cũng như chưa nhất trí với nhau về các rủi ro và có thể xem xét việc nới lỏng hơn nữa chính sách tiền tệ. </FONT></P>
+<P><FONT size=2>Việc này diễn ra khi nền kinh tế đầu tàu thế giới chỉ tăng trưởng 2,0% trong quý III, thấp hơn nhiều so với mức dự đoán 2,5% trước đó. FED cũng cho biết sẽ kiểm tra 6 ngân hàng trong số 31 ngân hàng lớn nhất nước Mỹ để kiểm tra khả năng chống đỡ với những bất ổn của thị trường cũng như xem xét kế hoạch vốn, kiểm tra các danh mục đầu tư cho vay tiền và sổ sách thương mại trước nguy cơ suy thoái sâu trên thị trường châu Âu.</FONT></P>
+<P><FONT size=2>- Ngày 22/11, Đại sứ Mỹ tại EU William Kennard cho biết, tại hội nghị thượng đỉnh Mỹ-EU ở Washington vào ngày 28/11, Tổng thống Mỹ Barack Obama sẽ khuyến nghị cách thức giải quyết cuộc khủng hoảng nợ khu vực Eurozone. Tổng thống Barack Obama sẽ hội đàm với Chủ tịch Hội đồng châu Âu Herman Van Rompuy và Chủ tịch Ủy ban châu Âu (EC) Jose Manuel Barroso và các cuộc thảo luận sẽ tập trung vào cuộc khủng hoảng nợ ở khu vực Eurozone. Được biết, châu Âu hiện đang trong quá trình tái vốn hóa các ngân hàng.&nbsp; </FONT></P>
+<P><FONT size=2>- Ngày 23/11, ông Đới Tương Long, nguyên Thống đốc Ngân hàng Trung ương Trung Quốc tuyên bố, việc quốc tế hoá đồng NDT là xu hướng tất yếu, nhưng không có thời gian biểu cho vấn đề này. Nhưng quá trình này có thể chia thành 3 giai đoạn. </FONT></P>
+<P><FONT size=2>Thứ nhất, thúc đẩy đồng NDT phát huy vai trò định giá và thanh toán trong thương mại xuyên biên giới, thứ hai, thúc đẩy đồng NDT thực hiện chuyển đổi trong các dự án vốn, thứ ba, làm cho đồng NDT trở thành đồng tiền dự trữ của ngân hàng trung ương nhiều nước. </FONT></P>
+<P><FONT size=2>Được biết, Ngân hàng Trung ương Trung Quốc (PBOC) vừa quyết định hạ tỷ lệ dự trữ bắt buộc 0,5 điểm phần trăm, xuống còn 16% đối với hơn 20 ngân hàng nông thôn. Đây là bước tiếp theo trong cam kết điều chỉnh chính sách của chính phủ nhằm thúc đẩy nền kinh tế khi tốc độ tăng trưởng đang chậm lại và lạm phát đã được kiểm soát. </FONT></P></TD></TD></TR></TBODY></TABLE><img src='/Images/reddot.gif'></P></span></DIV>
+																	</TD>
+																</TR>
+															</TABLE>
+															<BR>
+														</TD>
+													</TR>
+													<TR>
+														<TD style="HEIGHT: 40px" align="center">
+															<P align="center">
+																<TABLE id="Table10" height="19" cellSpacing="0" cellPadding="0" width="780" border="0">
+																	<TR>
+																		<TD align="center" width="780">
+																			<DIV align="right"><span id="lbAuthor2" class="source">Lê Quỳnh Trang-Lê Tuấn Cường</span><br>
+</DIV>
+																		</TD>
+																	</TR>
+																</TABLE>
+															</P>
+														</TD>
+													</TR>
+													<TR>
+														<TD vAlign="top" align="center">
+															<TABLE cellSpacing="0" cellPadding="3" width="780" bgColor="#faf5ed" border="0">
+																<TR>
+																	<TD></TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR class="event">
+														<TD style="PADDING-BOTTOM: 10px" align="center"><div id="pnEvent">
+	
+																
+															
+</div></TD>
+													</TR>
+													<TR>
+														<TD align="center">
+															<TABLE id="Table8" height="19" cellSpacing="0" cellPadding="0" width="780" bgColor="#f1f1f1"
+																border="0">
+																<TR>
+																	<TD align="center" width="580">
+																		<DIV align="center"><IMG height="12" alt="" hspace="4" src="/images/temp.gif" width="14" border="0">
+																			<a id="lnkAddToFavorite2" href="javascript:addFavouriteStory('160630','Khủng hoảng nợ công ở châu Âu đang lan rộng','/vi-VN/quocte/2011/11/160630.cand'); alert('Tin đã được thêm vào danh sách');">Lưu lại để đọc</a>&nbsp;|<IMG height="12" alt="" hspace="4" src="/images/email.gif" width="14" border="0"><A href='javascript:showDialog("/InfoPages/Email4Friend.aspx?new_url=http://www.cand.com.vn/vi-VN/quocte/2011/11/160630.cand",450,350)'  Email4Friend.aspxnew_url='http:/"' InfoPages new_url='http:/"' Email4Friend.aspx  Email4Friend.aspx new_url='http:/"'???????????????????????????????????????????????????????>Email 
+																				của bài này</A> |<IMG height="12" alt="" hspace="4" src="/images/contact.gif" width="14" border="0"><A href='javascript:showDialog("/InfoPages/Republish.aspx?ID=160630",550,350)'  InfoPages Republish.aspxID Republish.aspx  ID Republish.aspx Republish.aspx??????????????????????????????????????????????????????????????????????????????????????????????????????????????>Liên 
+																				hệ đăng bài này</A> |<IMG height="12" alt="" hspace="4" src="/images/print.gif" width="14" border="0"><A href='/News/PrintView.aspx?ID=160630' target=_blank >In 
+																				bài này</A>&nbsp;</A>&nbsp;
+																		</DIV>
+																	</TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR>
+														<TD style="PADDING-BOTTOM: 6px" align="center"></TD>
+													</TR>
+													<TR>
+														<TD style="HEIGHT: 42px" align="center">
+															<TABLE id="Table9" height="19" cellSpacing="0" cellPadding="0" width="780" border="0">
+																<TR>
+																	<TD align="center" width="780">
+																		<DIV align="center">
+<p>
+	<div id="Feedback1_pnlContent">
+	
+		<TABLE id="Table3" cellSpacing="0" cellPadding="0" width="100%" align="center" border="0">
+			<TR height="4">
+				<TD height="4">
+					<SCRIPT language="JavaScript1.2" src="/jscripts/vietuni.js" type="text/javascript"></SCRIPT>
+					<SCRIPT language="JavaScript1.2"> setTypingMode(4); </SCRIPT>
+					<SCRIPT language="JavaScript">
+					function gf(p_el) {	}function lf(p_el) {	}
+					</SCRIPT>
+				</TD>
+			</TR>
+			<TR>
+				<TD vAlign="top">
+					<TABLE id="Table5" cellSpacing="0" cellPadding="0" width="100%" bgColor="#f1f1f1" border="0">
+						<TR>
+							<TD>
+								<DIV align="center">
+									<TABLE id="Table6" cellSpacing="0" cellPadding="0" width="100%" border="0">
+										<TR>
+											<TD>
+												<TABLE id="Table7" cellSpacing="0" cellPadding="0" width="100%" bgColor="#f1f1f1" border="0">
+													<TR height="24">
+														<TD align="center" bgColor="#407080"><B><FONT color="white">Ý kiến của bạn</FONT></B></TD>
+													</TR>
+													<TR>
+														<TD>
+															<TABLE id="Table8" cellSpacing="0" cellPadding="1" width="100%" border="0">
+																<TR>
+																	<TD class="TitleFront" align="right" width="100">Tên của bạn:</TD>
+																	<TD>
+																		<input name="Feedback1$txtName" type="text" id="Feedback1_txtName" class="tbflat" onkeyup="telexingVietUC(this,event);" />
+																		&nbsp;</TD>
+																<TR>
+																	<TD class="TitleFront" align="right" width="100">Email:</TD>
+																	<TD>
+																		<input name="Feedback1$txtEmail" type="text" id="Feedback1_txtEmail" class="tbflat" />
+																		
+																		
+																		</TD>
+																</TR>
+																<TR>
+																	<TD class="TitleFront" align="right" width="100">Tiêu đề:</TD>
+																	<TD>
+																		<input name="Feedback1$txtHeadLine" type="text" id="Feedback1_txtHeadLine" class="tbflat" onkeyup="telexingVietUC(this,event);" />
+																		&nbsp;</TD>
+																</TR>
+																<TR>
+																	<TD style="PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px" align="right" colSpan="2">
+																		<INPUT onfocus="setTypingMode(0);" type="radio" value="OFF" name="switch">Tắt bộ gõ
+																		<INPUT onfocus="setTypingMode(1)" type="radio" CHECKED value="TELEX" name="switch">Tự động
+																		<INPUT onfocus="setTypingMode(1)" type="radio" value="TELEX" name="switch">Telex
+																		<INPUT onfocus="setTypingMode(2)" type="radio" value="VNI" name="switch">VNI <INPUT onfocus="setTypingMode(3)" type="radio" value="VIQR" name="switch">VIQR</TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR>
+														<TD style="PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px" colSpan="2">
+															<textarea name="Feedback1$txtContent" rows="8" cols="20" id="Feedback1_txtContent" class="tbflat1" onkeyup="telexingVietUC(this,event);"></textarea>
+															<span id="Feedback1_lblID"><input type=hidden name=ID value=160630></span>
+															&nbsp;</TD>
+													</TR>
+												</TABLE>
+												</TD>
+										</TR>
+										<TR>
+											<TD style="PADDING-RIGHT: 5px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px">
+												<TABLE width="100%">
+													<TR>
+														<TD><IMG style="CURSOR: hand" onclick="window.scrollTo(0,0)" src="/Images/Gotop.gif" border="0">
+														</TD>
+														<TD align="right">
+															<input type="image" name="Feedback1$btnSend" id="Feedback1_btnSend" DESIGNTIMEDRAGDROP="89" src="/Images/btnSend55x24.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;Feedback1$btnSend&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" border="0" /></TD>
+													</TR>
+												</TABLE>
+											</TD>
+										</TR>
+									</TABLE>
+								</DIV>
+							</TD>
+						</TR>
+					</TABLE>
+				</TD>
+			</TR>
+		</TABLE>
+	
+</div></p>
+</DIV>
+																	</TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR>
+														<TD align="center">
+															<TABLE id="Table7" cellSpacing="0" cellPadding="0" width="780" border="0">
+																<TR>
+																	<TD style="HEIGHT: 18px"></TD>
+																	<TD style="HEIGHT: 18px" vAlign="top" align="right"></TD>
+																</TR>
+																<TR>
+																	<TD style="HEIGHT: 18px"><p align=left><input type=button style="width:140; background-Color: white; color: #003143; font-size: 11px; font-family: Arial, Verdana, Tahoma; Cursor:hand; Border:none; Font-Weight:bold" value="Xem bài theo ngày tháng" onclick="popUpCalendar(this, this, 'dd-mm-yyyy',21, 'vi')"><img src='/Images/detail_2.gif'></p></TD>
+																	<TD style="HEIGHT: 18px" vAlign="top" align="right"><a id="AnotherStory" href="/vi-VN/quocte.cand"><b>Xem tiếp</b>&nbsp;<img src='/images/detail.gif' border=0></a></TD>
+																</TR>
+																<TR>
+																	<TD colSpan="2"></TD>
+																</TR>
+																<TR>
+																	<TD colSpan="2"><b>Các bài đã đăng:</b><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="160580.cand">Hội nghị nhóm tư vấn các nhà tài trợ Việt Nam</a> <span class='time_Zone'>(26/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="160583.cand">Tối hậu thư dành cho Syria</a> <span class='time_Zone'>(26/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="160610.cand">Việt Nam - Anh ký bản ghi nhớ hợp tác quốc phòng</a> <span class='time_Zone'>(26/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="160582.cand">Tin vắn quốc tế ngày 26/11</a> <span class='time_Zone'>(26/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="160559.cand">Đối thoại nhân quyền Việt - Mỹ cần trên tinh thần thẳng thắn, xây dựng và tôn trọng lẫn nhau</a> <span class='time_Zone'>(26/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="160517.cand">Mỹ vẫn triển khai NMD dù Nga "to tiếng"</a> <span class='time_Zone'>(25/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="160500.cand">Tin vắn thế giới ngày 25/11</a> <span class='time_Zone'>(25/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="160491.cand">Sẽ xét xử con trai ông Gadhafi tại Libya</a> <span class='time_Zone'>(25/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="160484.cand">214 người được mời làm nhân chứng trong phiên tòa xử ông Berlusconi</a> <span class='time_Zone'>(25/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="160482.cand">Việt Nam tham dự “Diễn đàn cấp cao về hiệu quả viện trợ”</a> <span class='time_Zone'>(25/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="160423.cand">Tin vắn thế giới ngày 24/11</a> <span class='time_Zone'>(24/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="160429.cand">Thủ tướng Hun Sen cảm ơn VN đã giúp Campuchia thoát nạn diệt chủng</a> <span class='time_Zone'>(24/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="160419.cand">Cựu Tổng Giám đốc IAEA được mời làm Thủ tướng Ai Cập</a> <span class='time_Zone'>(24/11)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="160415.cand">Bi kịch mang tên Gloria Arroyo</a> <span class='time_Zone'>(24/11)</span><BR></TD>
+																</TR>
+																<TR>
+																	<TD style="HEIGHT: 2px" colSpan="2">&nbsp;</TD>
+																</TR>
+																<TR>
+																	<TD colSpan="2">
+																		<HR color="lightgrey" SIZE="1">
+																		<TABLE id="Table3" cellSpacing="0" cellPadding="0" width="100%" border="0">
+																			<TR>
+																				<TD style="WIDTH: 465px" vAlign="top" align="left" width="465"></TD>
+																				<TD align="right"><FONT face="Verdana"><IMG style="CURSOR: hand" onclick="window.scrollTo(0,0)" alt="" src="/Images/Gotop.gif"
+																							stye="Cursor:hand"></FONT></TD>
+																			</TR>
+																		</TABLE>
+																	</TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR>
+														<TD align="center" height="5">
+															<P>&nbsp;</P>
+														</TD>
+													</TR>
+													<TR>
+														<TD></TD>
+													</TR>
+												</TBODY>
+											</table>
+										</TD>
+										<TD class="leftright_columms" vAlign="top" width="200"><TABLE cellSpacing="0" cellPadding="0" width="100%" border="0">
+												<TR>
+													<TD bgColor="#7bb6c8">
+<script language="javascript" src="/JScripts/vietuni.js"></script>
+<script>setTypingMode(4);</script>
+<table width="160" border="0" cellspacing="0" cellpadding="2" bgcolor="#7ab4c7" style="HEIGHT: 20px">
+	<tr style="HEIGHT:30px">
+		<td align="left">
+			<font color="#7ab4c7" style="PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px">
+				<input class="tbflat2" type="text" name="SearchPhrase" onkeyup="telexingVietUC(this,event);"
+					onfocus="if (this.value=='Tìm kiếm') this.value='';" onblur="if (this.value=='') this.value='Tìm kiếm';"
+					border="0" value='Tìm kiếm' size="20"></font>
+		</td>
+		<TD vAlign="middle" align="left">
+			<input type="image" name="Searches1$btnSubmit" id="Searches1_btnSubmit" title="Tìm kiếm" src="/Images/content_searhc_button19x18.gif" border="0" /></TD>
+	</tr>
+</table>
+<INPUT type="hidden" value="0" name="SearchMessage"> <INPUT type="hidden" value="phrase" name="andor">
+</TD>
+												</TR>
+												<TR>
+													<TD>
+</TD>
+												</TR>
+												<TR>
+													<TD>
+<TABLE id="Table1" cellSpacing="0" cellPadding="0" width="200" border="0">
+	
+	<TR>
+		<TD class="rightside_cell">
+			<DIV align="center">
+				
+<TABLE id="Table1" cellSpacing="0" cellPadding="0" width="100%" border="1" style="BORDER-COLLAPSE:collapse" bordercolor="#9a9a9a">
+	<TR>
+		<TD vAlign="top">
+			<TABLE id="Table2" cellSpacing="0" cellPadding="0" width="100%" border="0">
+				<TBODY>
+					<TR height="20">
+						<TD height="20">
+							<img id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_imgBanner" src="/Images/top10_CANDONLINE_Title.gif" width="200" border="0" /></TD>
+					</TR>
+					<TR>
+						<TD style="PADDING-TOP: 2px">
+							<DIV style="OVERFLOW-Y: auto; WIDTH: 200px; HEIGHT: 250px">
+								
+										<table width="100%" border="0" cellspacing="2" cellpadding="0">
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl01_lblSTT"><b>1.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl01_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/xahoi/2011/11/160642.cand">Cần "bắt đúng bệnh" bài toán ùn tắc giao thông</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl02_lblSTT"><b>2.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl02_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/kinhte/2011/11/160644.cand">Chuyện về ông tiến sĩ Toán làm xúc xích </a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl03_lblSTT"><b>3.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl03_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/thethao/2011/11/160639.cand">Nhà văn nói về bóng đá bằng tâm huyết của mình</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl04_lblSTT"><b>4.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl04_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/vanhoa/2011/11/160638.cand">Giàu vốn sống, ít hụt hơi lúc viết</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl05_lblSTT"><b>5.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl05_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/phapluat/2011/11/160640.cand">Tuần tra đêm bắt đối tượng truy nã</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl06_lblSTT"><b>6.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl06_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/xahoi/2011/11/160637.cand">Một gia đình vượt khó cho hai con đi du học</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl07_lblSTT"><b>7.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl07_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/trongmatdan/2011/11/160641.cand">Luôn dành cho đối tượng truy nã một lối về</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl08_lblSTT"><b>8.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl08_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/phapluat/2011/11/160636.cand">Giới trẻ vay lãi ngày để... ăn chơi</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl09_lblSTT"><b>9.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl09_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/kinhte/2011/11/160635.cand">Vi phạm hàng hải, một DN vận tải bị phạt 60 triệu đồng</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl10_lblSTT"><b>10.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl10_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/kinhte/diaoc/2011/11/160643.cand">"Bơm tiền" vào BĐS như thế nào?</a></td>
+										</tr>
+									
+			</TABLE>
+			</DIV>
+		</TD>
+	</TR>
+	<TR>
+		<TD height="7">
+			<img src="/images/top10_bottom_back.gif" width="200"></TD>
+	</TR>
+</TABLE>
+</TD></TR></TBODY></TABLE>
+</DIV>
+		</TD>
+	</TR>
+	<TR>
+		<TD class="rightside_cell"></TD>
+	</TR>
+	<TR>
+		<TD style="HEIGHT: 0px">
+			
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<TD style="PADDING-BOTTOM: 2px;" align="center" bgColor="#ac051f" height="25">
+					<span id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl00_lbTieudiem" class="tieudiem_title">TIÊU ĐIỂM</span></TD>
+			</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="160214" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Tổng thống Syria thách thức quốc tế
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								10:46, 21/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Tổng thống Bashar al-Assad đã chuẩn bị để chiến đấu và hy sinh cho Syria khi nước này đối mặt với sự can thiệp quân sự từ nước ngoài bởi Damascus sẽ không cúi đầu trước những hành động quân sự quốc tế chống lại nước này.
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/11/160214.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'160214', 'inline');"
+											onMouseOut="setVisibility(event,'160214', 'none');" >
+											Tổng thống Syria thách thức quốc tế
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/quocte/2011/11/160214.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl01_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\linhchi1/16_tong2308-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id159961" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Tổng thống Syria bị ép tới đường cùng
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								9:27, 17/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Mỹ đã hoan nghênh việc gia tăng sức ép lên Tổng thống Bashar al-Assad sau khi Liên đoàn Arab AL, Quốc vương Abdullah của Jordan và Liên minh châu Âu đồng loạt lên tiếng chỉ trích. Dư luận cho rằng, Tổng thống Syria đang ngày càng bị cô lập.
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/11/159961.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id159961', 'inline');"
+											onMouseOut="setVisibility(event,'id159961', 'none');" >
+											Tổng thống Syria bị ép tới đường cùng
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/11/159961.cand'>
+											Tổng thống Syria bị ép tới đường cùng
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/quocte/2011/11/159961.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl02_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTG\hoabt2/15_nhung2304-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="159821" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Gia đình cựu Tổng thống Gaddafi sẽ tị nạn tại Iraq
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								9:36, 15/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Dư luận đặc biệt quan tâm tới đề xuất của Tổng thống Iraq Jalal Talabani khi cho phép gia đình cựu Tổng thống Libya tới tị nạn ở nước này bởi người đứng đầu phong trào Sader cho rằng, việc cho gia đình ông Gaddafi tị nạn chính trị là vấn đề nguy hiểm.
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/11/159821.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'159821', 'inline');"
+											onMouseOut="setVisibility(event,'159821', 'none');" >
+											Gia đình cựu Tổng thống Gaddafi sẽ tị nạn tại Iraq
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/quocte/2011/11/159821.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl03_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTG\hoabt2/15_ong2302-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id159731" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Vấn nạn nợ công ở Hy Lạp và Italia: Vì đâu nên nỗi?
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								9:54, 13/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Dư luận thế giới tiếp tục quan tâm đặc biệt tới những biến động đang diễn ra tại Hy Lạp và Italia bởi 2 quốc gia này bị coi là "con nợ khủng" của khu vực đồng tiền chung châu Âu (Eurozone). Nhiều người nói rằng, cuộc khủng hoảng nợ công tại châu Âu đang bao trùm Hội nghị cấp cao APEC 2011 diễn ra tại thành phố Honolulu, bang Hawaii, Mỹ cuối tuần này.
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/11/159731.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id159731', 'inline');"
+											onMouseOut="setVisibility(event,'id159731', 'none');" >
+											Vấn nạn nợ công ở Hy Lạp và Italia: Vì đâu nên nỗi?
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/11/159731.cand'>
+											Vấn nạn nợ công ở Hy Lạp và Italia: Vì đâu nên nỗi?
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/quocte/2011/11/159731.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl04_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\maiphuong\maiphuong/15_thu2300-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="159625" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Hậu báo cáo của IAEA, Tehran quyết không khuất phục
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								10:52, 11/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Bầu không khí chính trị tại Iran và Israel đang "nóng" lên cùng với những tuyên bố của lãnh đạo 2 nước sau khi bản báo cáo của Cơ quan Năng lượng nguyên tử quốc tế (IAEA) được công bố. Vấn đề này càng được dư luận quan tâm sau khi có tin nói rằng, Iran bắt đầu di chuyển thiết bị hạt nhân xuống một cơ sở dưới lòng đất để theo đuổi những hoạt động nhạy cảm, đề phòng bị không kích bất ngờ. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/11/159625.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'159625', 'inline');"
+											onMouseOut="setVisibility(event,'159625', 'none');" >
+											Hậu báo cáo của IAEA, Tehran quyết không khuất phục
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/quocte/2011/11/159625.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl05_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\linhchi1/16_tong2298-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id159543" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Thủ tướng Italia cam kết từ chức, Hy Lạp thành lập tân nội các
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								9:19, 10/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Ngay sau khi Thủ tướng Italia Silvio Berlusconi xác nhận sẽ từ chức sau khi kế hoạch cải cách kinh tế được thông qua, thị trường đã có những phản ứng tích cực. Giới kinh tế cho rằng, thông tin từ Italia đã tiếp sức cho thị trường chứng khoán Mỹ và phần nào hỗ trợ đồng tiền chung châu Âu đang trên đà sa sút giá trị.
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/11/159543.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id159543', 'inline');"
+											onMouseOut="setVisibility(event,'id159543', 'none');" >
+											Thủ tướng Italia cam kết từ chức, Hy Lạp thành lập tân nội các
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/11/159543.cand'>
+											Thủ tướng Italia cam kết từ chức, Hy Lạp thành lập tân nội các
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/quocte/2011/11/159543.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl06_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTGCT\hoabt2/15_thu2297-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="159425" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Lũ lụt đe dọa nội đô Bangkok
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								9:41, 08/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Tờ Bangkok Post cho biết, lũ đã chạm đến nội đô Bangkok khi mực nước dọc theo đường Phahon Yothin từ Đại học Kasetsart đến giao lộ Ratchayothin - Lat Phrao lên tới 50-80cm. Tất cả các tòa nhà thương mại, cửa hàng, văn phòng và ngân hàng dọc theo con đường này đã phải đóng cửa. <BR><STRONG><A href="http://www.cand.com.vn/vi-VN/quocte/2011/11/159343.cand" target=_blank pathAttribute="1">&gt;&gt; Chính quyền Thái Lan mâu thuẫn trong cách điều hành chống lũ </A></STRONG>
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/11/159425.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'159425', 'inline');"
+											onMouseOut="setVisibility(event,'159425', 'none');" >
+											Lũ lụt đe dọa nội đô Bangkok
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/quocte/2011/11/159425.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl07_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\linhchi1/16_thu2295-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id159352" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Libya khó giải giáp vũ khí của các chiến binh NTC
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								1:00, 07/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Trong khi người Hồi giáo trên khắp thế giới mừng lễ Eid al-Adha (ngày lễ quan trọng nhất của đạo Hồi) thì hàng trăm chiến binh Hội đồng Dân tộc Chuyển tiếp Libya (NTC) yêu cầu NTC phải thanh toán tiền lương. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/11/159352.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id159352', 'inline');"
+											onMouseOut="setVisibility(event,'id159352', 'none');" >
+											Libya khó giải giáp vũ khí của các chiến binh NTC
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/11/159352.cand'>
+											Libya khó giải giáp vũ khí của các chiến binh NTC
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/quocte/2011/11/159352.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl08_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\linhchi1/16_chien2294-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="159325" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Trò chơi chủ quyền trong giấc mơ dân tộc 
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								7:21, 06/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Trong một nỗ lực gần đây để được quốc tế công nhận là một quốc gia độc lập, Palestine đã có hơn 2/3 số phiếu thuận của 193 thành viên để được trở thành thành viên đầy đủ của UNESCO. Pháp đã bỏ phiếu thuận, cùng với phần lớn các nước Arab, châu Phi và châu Mỹ Latinh cũng như châu Á gồm Trung Quốc và Ấn Độ.
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/11/159325.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'159325', 'inline');"
+											onMouseOut="setVisibility(event,'159325', 'none');" >
+											Trò chơi chủ quyền trong giấc mơ dân tộc 
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/quocte/2011/11/159325.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl09_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\maiphuong/16_dong2293-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id159188" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								EU có thể "hy sinh” Hy Lạp
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								9:30, 04/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Trước thềm Hội nghị thượng đỉnh G20, Tổng thống Pháp Nicolas Sarkozy và Thủ tướng Đức Angela Merkel đã phải họp khẩn với tân Chủ tịch Ngân hàng Trung ương châu Âu (ECB) Mario Draghi, Tổng Giám đốc Quỹ Tiền tệ Quốc tế (IMF) Christine Lagarder và những người đứng đầu các định chế tài chính châu Âu và sẵn sàng loại Hy Lạp ra khỏi tổ chức này.<BR><STRONG><A href="http://www.cand.com.vn/vi-VN/quocte/2011/11/159099.cand" target=_blank pathAttribute="1">&gt;&gt; Hội nghị thượng đỉnh G20 tìm biện pháp giải cứu nợ công tại Hy Lạp</A></STRONG>
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/11/159188.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id159188', 'inline');"
+											onMouseOut="setVisibility(event,'id159188', 'none');" >
+											EU có thể "hy sinh” Hy Lạp
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/11/159188.cand'>
+											EU có thể "hy sinh” Hy Lạp
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/quocte/2011/11/159188.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl10_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTGCT\hoabt2/15_thu2291-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="158932" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Những nghi vấn xung quanh cái chết của ông Gaddafi
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								10:53, 31/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								<P>Dư luận đang bàn tán xôn xao sau khi xuất hiện tin nói rằng, ông Gaddafi vẫn còn sống và người chết hôm 20/10 tại thành phố Sirte là nhân vật đóng thế có tên là Ahmed. Dư luận đã đặt nhiều câu hỏi như tại sao phải nói dối, nói dối để làm gì, ai được lợi khi ông Gaddafi sống mà như đã chết, ai phải chịu trách nhiệm trước những thông tin sai trái… <BR><STRONG><A href="http://www.cand.com.vn/vi-VN/quocte/2011/10/158899.cand" target=_blank pathAttribute="1">&gt;&gt; "Thái tử" Saif al-Islam tiếp xúc với Tòa án Hình sự Quốc tế </A></STRONG></P>
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/10/158932.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'158932', 'inline');"
+											onMouseOut="setVisibility(event,'158932', 'none');" >
+											Những nghi vấn xung quanh cái chết của ông Gaddafi
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/quocte/2011/10/158932.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl11_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\linhchi1/15_ong2287-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id158859" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Nghị quyết 1973 của Hội đồng Bảo an Liên hợp quốc hết hiệu lực
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								1:11, 29/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Ngày 27/10 (theo giờ địa phương), Hội đồng Bảo an Liên hợp quốc đã bỏ phiếu thông qua việc chấm dứt chiến dịch quân sự của quốc tế tại Libya. Theo đó, kể từ 23h59' ngày 31/10/2011 (theo giờ Libya), Nghị quyết 1973 của Hội đồng Bảo an Liên hợp quốc hết hiệu lực. Nghị quyết được thông qua bất chấp lời kêu gọi của Hội đồng Dân tộc Chuyển tiếp Libya (NTC) đề nghị NATO tiếp tục kéo dài chiến dịch này tới cuối năm 2011. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/10/158859.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id158859', 'inline');"
+											onMouseOut="setVisibility(event,'id158859', 'none');" >
+											Nghị quyết 1973 của Hội đồng Bảo an Liên hợp quốc hết hiệu lực
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/10/158859.cand'>
+											Nghị quyết 1973 của Hội đồng Bảo an Liên hợp quốc hết hiệu lực
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/quocte/2011/10/158859.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl12_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\thanhbinh1/15_tong2285-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="158728" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Gia đình ông Gaddafi sẽ kiện NATO
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								11:33, 27/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Ngày 26/10, Đài phát thanh Europe 1 có trụ sở tại Pháp dẫn lời ông Marcel Ceccaldi, luật sư của gia đình ông Gaddafi cho biết, thân nhân của ông Gaddafi sẽ kiện NATO phạm tội ác chiến tranh tại Tòa án quân sự quốc tế ở The Hague. Ngoài ra, luật sư Marcel Ceccaldi còn chỉ trích quyết định cho phơi bày thi thể ông Gaddafi tại kho đông lạnh ở thành phố Misurata sau khi bị sát hại hôm 20/10 ở thành phố quê hương Sirte. <BR><STRONG><A href="http://www.cand.com.vn/vi-VN/quocte/2011/10/158662.cand" target=_blank pathAttribute="1">&gt;&gt; An táng ông Gaddafi tại địa điểm bí mật</A></STRONG> 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/10/158728.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'158728', 'inline');"
+											onMouseOut="setVisibility(event,'158728', 'none');" >
+											Gia đình ông Gaddafi sẽ kiện NATO
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/quocte/2011/10/158728.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl13_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\linhchi1/15_thai2283-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id158662" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								An táng ông Gaddafi tại địa điểm bí mật
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								10:15, 26/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								<P>Sáng 25/10, thi hài ông Gaddafi, con trai Mutassim và cựu Bộ trưởng Quốc phòng Abu Baker Yunis đã được chôn cất ở một địa điểm bí mật trên sa mạc cho dù gia đình muốn Hội đồng Dân tộc Chuyển tiếp Libya (NTC) trao trả xác để tự chôn ở quê hương Sirte. <BR><STRONG><A href="http://www.cand.com.vn/vi-VN/quocte/2011/10/158591.cand" target=_blank pathAttribute="1">&gt;&gt; Tân chính phủ Libya sẽ được lập khoảng 30 ngày tới </A></STRONG></P>
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/10/158662.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id158662', 'inline');"
+											onMouseOut="setVisibility(event,'id158662', 'none');" >
+											An táng ông Gaddafi tại địa điểm bí mật
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/10/158662.cand'>
+											An táng ông Gaddafi tại địa điểm bí mật
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/quocte/2011/10/158662.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl14_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\linhchi1/16_khau2282-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="158536" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								NTC "gặp khó" vì vụ hành quyết Gaddafi
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								10:10, 24/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Nếu ông Gaddafi bị chết bởi những người bắt giữ, NTC sẽ phải đối mặt với sức ép của các tổ chức nhân quyền trên thế giới. Hoàn cảnh dẫn đến cái chết của Mutassim cũng chưa được xác định rõ ràng bởi theo một cảnh quay khoảng 60 giây bằng điện thoại thì con trai ông Gaddafi vẫn còn sống khi bị bắt và chết rất nhanh sau đó với những vết thương ở hàm và cổ. Nhưng hiện những vết thương kể trên đã được khâu lại. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/10/158536.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'158536', 'inline');"
+											onMouseOut="setVisibility(event,'158536', 'none');" >
+											NTC "gặp khó" vì vụ hành quyết Gaddafi
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/quocte/2011/10/158536.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl15_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\linhchi1/15_gioi2280-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id158506" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Ảo tưởng về một nền “dân chủ trọn vẹn” sau cái chết của Gaddafi
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								9:49, 23/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Hi vọng vào tương lai tươi sáng của người dân Libya đang được thổi bùng lên trước sự sụp đổ của chế độ độc tài cũ. Cũng như niềm tin vào sự Tự do và Hạnh phúc sẽ được mang lại bởi Hội đồng chuyển tiếp quốc gia chưa lụi tàn trong mỗi người dân Libya, bất chấp sự thật là thành phần chủ yếu của NTC đều là những tay súng chuyên nghiệp và thiện xạ cũng như bất chấp việc họ đã giành chính chuyền bằng bạo lực và máu của chính những người Libya. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/10/158506.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id158506', 'inline');"
+											onMouseOut="setVisibility(event,'id158506', 'none');" >
+											Ảo tưởng về một nền “dân chủ trọn vẹn” sau cái chết của Gaddafi
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/10/158506.cand'>
+											Ảo tưởng về một nền “dân chủ trọn vẹn” sau cái chết của Gaddafi
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/quocte/2011/10/158506.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl16_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\maiphuong/16_tay2279-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="158323" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								NTC bị phản kích dữ dội ở Sirte
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								9:49, 20/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Các tay súng thuộc Hội đồng Dân tộc Chuyển tiếp Libya (NTC) thực sự bị choáng trước đòn phản công dữ dội của lực lượng trung thành với ông Gaddafi ở Sirte, quê hương của cựu Tổng thống Libya và là thành trì duy nhất còn lại sau khi Bani Walid thất thủ hôm 17/10. <BR><STRONG><A href="http://www.cand.com.vn/vi-VN/quocte/2011/10/158208.cand" target=_blank pathAttribute="1">&gt;&gt; NTC đã kiểm soát được Bani Walid</A></STRONG> 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/10/158323.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'158323', 'inline');"
+											onMouseOut="setVisibility(event,'158323', 'none');" >
+											NTC bị phản kích dữ dội ở Sirte
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/quocte/2011/10/158323.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl17_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\linhchi1/15_ngoai2276-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id158208" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								NTC đã kiểm soát được Bani Walid
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								2:48, 18/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Ngày 17/10, kênh truyền hình Arrai có trụ sở tại Syria đã xác nhận ông Khamis, con trai ông Gaddafi cùng người cháu Mohammed Abdullah al-Senousi, Giám đốc tình báo Libya bị thiệt mạng trong cuộc giao tranh ở khu vực Đông Nam thủ đô Tripoli hôm 29/8. <BR><STRONG><A href="http://www.cand.com.vn/vi-VN/quocte/2011/10/158154.cand" target=_blank pathAttribute="1">&gt;&gt; NTC thay đổi chiến thuật tấn công</A></STRONG> 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/10/158208.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id158208', 'inline');"
+											onMouseOut="setVisibility(event,'id158208', 'none');" >
+											NTC đã kiểm soát được Bani Walid
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/10/158208.cand'>
+											NTC đã kiểm soát được Bani Walid
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/quocte/2011/10/158208.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl18_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\linhchi1/15_cac2274-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="158154" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								NTC thay đổi chiến thuật tấn công
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								2:24, 17/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Ngày 15/10, lực lượng thuộc Hội đồng Dân tộc Chuyển tiếp Libya (NTC) đã giảm cấp độ tấn công vào thành phố Sirte, nhưng đẩy mạnh tiến công vào Bani Walid và đã chiếm được nhiều khu vực mới ở thành phố này. <BR><STRONG><A href="http://www.cand.com.vn/vi-VN/quocte/2011/10/158061.cand" target=_blank pathAttribute="1">&gt;&gt; NTC đã phát hiện tung tích của ông Gaddafi</A></STRONG> 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/10/158154.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'158154', 'inline');"
+											onMouseOut="setVisibility(event,'158154', 'none');" >
+											NTC thay đổi chiến thuật tấn công
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/quocte/2011/10/158154.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl19_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\linhchi1/15_cactay2273-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id158061" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								NTC đã phát hiện tung tích của ông Gaddafi
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								3:13, 15/10/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Dư luận&nbsp;đang quan tâm tới tuyên bố của NTC khi cho biết, đã phát hiện tung tích của ông Gaddafi ở khu vực Sabha bằng vệ tinh và việc bắt giữ chỉ là vấn đề thời gian - sau khi giải phóng Sirte, sẽ tập trung truy lùng ông Gaddafi. Đây là tuyên bố của ông Abdul Hafiz Ghoga, Phó chủ tịch NTC khi trao đổi với hãng tin AJE. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/10/158061.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id158061', 'inline');"
+											onMouseOut="setVisibility(event,'id158061', 'none');" >
+											NTC đã phát hiện tung tích của ông Gaddafi
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/quocte/2011/10/158061.cand'>
+											NTC đã phát hiện tung tích của ông Gaddafi
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/quocte/2011/10/158061.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl20_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\maiphuong/15_ntc2271-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		</table>
+	
+</TD>
+	</TR>
+	<TR>
+		<TD class="rightside_cell"></TD>
+	</TR>
+	<tr>
+		<td>
+			
+		</td>
+	</tr>
+	<TR>
+		<TD class="rightside_cell" align="center"></TD>
+	</TR>
+</TABLE>
+</TD>
+												</TR>
+												<TR>
+													<TD></TD>
+												</TR>
+											</TABLE>
+										</TD>
+									</TR>
+								</TBODY>
+							</TABLE>
+						</TD>
+					</TR>
+					<TR>
+						<TD>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="leftright_columms">
+	<tr>
+		<td vAlign="bottom" align="left">
+			
+		</td>
+	</tr>
+	<tr>
+		<td class="c_right" bgcolor="#920000" height="25">
+			<div align="center">
+				<a href="http://www.cand.com.vn">Trang chủ </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;				
+				<a id="Footer_lnkANTG" href="http://antg.cand.com.vn">An ninh Thế giới </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkANTGCT" href="http://antgct.cand.com.vn">ANTG Cuối tháng </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkVNCA" href="http://vnca.cand.com.vn">Văn nghệ Công An </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkCAND" href="http://cstc.cand.com.vn">Cảnh sát toàn cầu </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkSitemap" href="http://www.cand.com.vn/News/Sitemap.aspx">Sơ đồ Website </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkRSS" href="http://www.cand.com.vn/RSS/Default.aspx">RSS </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkFAQ" href="http://www.cand.com.vn/News/FAQ.aspx">FAQ </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkWeblink" href="http://www.cand.com.vn/News/WebLink.aspx">Liên kết Web</a>
+			</div>
+		</td>
+	</tr>
+	<tr height="36">
+		<td bgcolor="#407080" height="36" style="PADDING-BOTTOM:8px;PADDING-TOP:6px">
+			<!--
+			<div align="center" style="PADDING-BOTTOM:2px"><span id="Footer_lbFooter4" class="footer_title1">Tổng Biên tập: Trung tướng Hữu Ước</span></div>
+			-->
+			<DIV align="center" style="PADDING-BOTTOM:2px">
+				<span id="Footer_lbFooter1" class="footer_title1">Phụ trách biên tập: Trần Thị An Bình - Nguyễn Trang Dũng - Trần Anh Tú</span></DIV>
+			<DIV align="center" style="PADDING-BOTTOM:2px">
+				<span id="Footer_lbFooter2" class="footer_title2">©2007. Báo Công an nhân dân điện tử - CAND Online. All rights reserved.</span>
+			</DIV>
+			<div align="center" style="PADDING-BOTTOM:2px">
+				<span id="Footer_lbFooter3" class="footer_title2">Khi sử dụng lại thông tin từ website này, xin vui lòng ghi rõ nguồn "CAND Online".</span>
+			</div>
+		</td>
+	</tr>
+</table>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4763663-1']);
+  _gaq.push(['_setDomainName', '.cand.com.vn']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></TD>
+					</TR>
+				</TBODY>
+			</TABLE>
+			<img src='/rpc/counter.aspx?ckey=F_view&cvalue=21&story=160630&rand=842588231' width=1 height=1 border=0 alt=''></form>
+	</body>
+</HTML>
