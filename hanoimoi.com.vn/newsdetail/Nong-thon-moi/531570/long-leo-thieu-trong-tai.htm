@@ -1,0 +1,699 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><link href="../../../App_Themes/Hanoimoi/Contact.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/mouseovertabs.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/newscategory.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/newsdetail.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/stylehome.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/thickbox.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/Top_Tip.css" type="text/css" rel="stylesheet" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta http-equiv="refresh" content="600" /><title>
+	
+        Lỏng lẻo, thiếu “trọng tài”
+</title><link href="/Client/slide/featuredcontentglider.css" rel="stylesheet" type="text/css" /><link href="/Client/jquery.ui.tab/css/flick/jquery-ui-1.7.2.custom.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        body
+        {
+            margin: 0px;
+            padding: 0px 0px 60px;
+            background: #FFFFFF no-repeat fixed center 0px;
+        }
+        .divFixed
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            left: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixed_R
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            right: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixedBg_IE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_RIE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_IE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+        .divFixedBg_RIE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+    </style>
+    <script language="JavaScript" type="text/javascript"> 
+//    function LoadImages(s,c)
+//    {
+//   
+//        s.getAttribute("loi")==null?s.setAttribute("loi","1"):s.setAttribute("loi",eval(s.getAttribute("loi"))+1);
+//        if(eval(s.getAttribute("loi"))>=2){c=c.substr(c.lastIndexOf("=")+1,c.length-c.lastIndexOf("="));
+//        s.onerror=null;s.src="/App_Themes/Default/Images/no_image_"+c+".jpg"}
+//        else s.src=c
+//    }
+     function returnUrl12() {
+            var key = document.getElementById('txt_search')
+	       
+            if (key.value.length != 0) {
+                location= "/NewsSearch.aspx?keyword=" + encodeURIComponent(key.value);
+		return false;	
+            }
+            else {
+                alert("Cần nhập từ khóa để tìm kiếm");
+                document.getElementById('txt_search').focus();
+                return false;
+            }
+        }
+    </script>
+  <link href="/StyleSheets/Poll/style.css" rel="stylesheet" type="text/css" /><link rel="shortcut icon" href="../../../Images/hanoimoi.ico" />
+    <script src="/Scripts/jquery.js" type="text/javascript"></script>
+    <script src="/Scripts/AdsFloat.js" type="text/javascript"></script>
+    <script src="/Client/slide/featuredcontentglider2.js" type="text/javascript"></script>    
+    <script src="/Scripts/jquery.query.js" type="text/javascript"></script>
+    <script src="/Scripts/swfobject.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/Scripts/hanoimoi.js"></script>
+    <script src="/Client/jquery.ui.tab/js/jquery-ui-1.7.2.tab.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/Scripts/thickbox-compressed.js"></script>
+	<script type="text/javascript" src="http://media.adnetwork.vn/js/adnetwork.js"></script>
+    
+    
+   
+
+    <!--###################End Tooltip##########################-->
+    <style type="text/css">
+        .highlight
+        {
+            background: yellow;
+            color: black;
+            text-decoration: none;
+        }
+        #dhtmltooltip
+        {
+            position: absolute;
+            left: -300px;
+            width: 150px;
+            border: 1px solid black;
+            padding: 2px;
+            background-color: lightyellow;
+            visibility: hidden;
+            z-index: 9999 !important; /*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+            filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+        }
+        #dhtmlpointer
+        {
+            position: absolute;
+            left: -300px;
+            z-index: 99999 !important;
+            visibility: hidden;
+        }
+        body
+        {
+            margin: 0px;
+            padding: 0px 0px 60px;
+            background: #FFFFFF url(/Customize/ExtendBanner/bg_tgdd_0410.jpg) no-repeat fixed center 0px;
+        }
+        .divFixed
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            left: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixed_R
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            right: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixedBg_IE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_RIE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_IE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+        .divFixedBg_RIE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+    </style>
+
+    <script type="text/javascript" src="/Scripts/ActiveX_Template.js"></script>
+    
+    
+    </head>
+<body style="margin:0; padding:0;">
+    <form name="aspnetForm" method="post" action="long-leo-thieu-trong-tai.htm" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1MDgyNDE3ODRkZKeeAaWkRAFJfLLn6FP4oqdM/WMN" />
+
+
+<script src="/ScriptResource.axd?d=7x7moIC-LVSCPXMYtIRikjuzseEVbA5fTEUD7IhsaWT50aG09RRYdmUWdhXSFoF0ChtaYRPbPOlBbwELy0iVkcIRU3ZzgDmn3BS3FvoW7COSYIhFLmCdAZ7LgJ5zXOm6Iq7VY0S6V1G11hd7j2qTN4QlNRw4EHyqg8Qzdnn-NShO_vlY0&amp;t=ffffffffea696f7c" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWFQKButf/CALiydb3BgKA4oCQBQKPs5q3DQKzqrHfCAKIzPeOAQKLwJnaCgLU4dDxBwLhocvvAwLV48O+CwLUpYXRBwLG+9tdAtHP1+4MAvTq4aQDAurX1ecJAvfgtPQMAt3E+90MAtuu0ogPAtO368wBAtiWq7sNAueVloQCpsXY0mW8akvPA0puOHzkICNp3gA=" />
+        <!-- Quang cao 2 ben trang -->
+    <div id="divResult"></div>
+    
+
+ 
+    <div >
+        
+        <div id="main_body" >
+            <div id="top">
+                <div class="wrapbar" id="dvBanner">
+                    <div class="left_logo">
+                        <a href="#">
+                            <img alt="" src="/images/hanoimoi_logo.png" border="0" /></a>
+                    </div>
+                    <div class="right_adv">
+                       <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" 
+codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="640" height="87" name="wmode">
+    <param name="movie" value="/Uploads/NCC/ads-homepage/netdepnguoithudo.swf">
+                  <param name="quality" value="high">
+                  <param name="wmode" value="transparent">
+                 <embed wmode="transparent" src="/Uploads/NCC/ads-homepage/netdepnguoithudo.swf" allowscriptaccess="always" type="application/x-shockwave-flash" width="640" height="87"></embed>
+</object>
+
+                    </div>
+                </div>
+                <div id="dvTopMenu">
+                    <div class="wrapbar">
+                        <div class="menu_content2">
+                            <div id="mytabsmenu" class="tabsmenuclass">
+                                <ul class="menutop"><li><a href="/index.htm" rel="gotsubmenu[selected]">Trang chủ</a></li><li><a id='Chinh-tri' rel="gotsubmenu" href="/categoryparent/192/Chinh-tri.htm">Chính trị</a></li><li><a id='Xa-hoi' rel="gotsubmenu[selected]" href="/categoryparent/163/Xa-hoi.htm">Xã hội</a></li><li><a id='Kinh-te' rel="gotsubmenu" href="/categoryparent/190/Kinh-te.htm">Kinh tế</a></li><li><a id='The-gioi' rel="gotsubmenu" href="/categoryparent/189/The-gioi.htm">Thế giới</a></li><li><a id='Van-hoa' rel="gotsubmenu" href="/categoryparent/179/Van-hoa.htm">Văn hóa</a></li><li><a id='The-thao' rel="gotsubmenu" href="/categoryparent/170/The-thao.htm">Thể thao</a></li><li><a id='Giao-duc' rel="gotsubmenu" href="/categoryparent/164/Giao-duc.htm">Giáo dục</a></li><li><a id='1000_nam_thang_long' rel="gotsubmenu" href="/categoryparent/204/1000_nam_thang_long.htm">Thăng Long - Hà Nội</a></li><li><a id='Phap-luat' rel="gotsubmenu" href="/categoryparent/175/Phap-luat.htm">Pháp luật</a></li><li><a id='Khoa-hoc' rel="gotsubmenu" href="/categoryparent/100/Khoa-hoc.htm">Khoa học</a></li><li><a id='Doi-song' rel="gotsubmenu" href="/categoryparent/224/Doi-song.htm">Đời sống</a></li></ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="wrapbar">
+                        <div class="menu_boder_left">
+                            <!---->
+                        </div>
+                        <div class="sub_menu_content">
+                            <div id="mysubmenuarea" class="tabsmenucontentclass">
+                                <!--1st link within submenu container should point to the external submenu contents file-->
+                                <a href="/submenucontents.aspx" style="visibility: hidden">
+                                    Sub Menu contents</a>
+                            </div>
+
+                            <script type="text/javascript">
+                                //mouseovertabsmenu.init("tabs_container_id", "submenu_container_id", "bool_hidecontentsmouseout")
+                                mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
+
+                            </script>
+
+                        </div>
+                        <div class="menu_boder_right">
+                            <!---->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+
+<div id="main_wrap">
+        <div class="wrapbar">
+           <div class="left_news_category_box">
+                <div class="left_category_news">
+                    
+
+<script language="javascript" type="text/javascript">
+    $(function() {
+
+        // hides the slickbox as soon as the DOM is ready
+        // (a little sooner than page load)
+        $('#slickbox').hide();
+        $('#sendcomment').hide();
+        // shows the slickbox on clicking the noted link  
+        $('a#slick-show').click(function() {
+            $('#slickbox').show('slow');
+            return false;
+        });
+        $(".btnEmai").click(function() {
+            var pID = $(this).attr("id");
+            var pShortName = $(this).parent().attr("id");
+            tb_show('Kết quả bình luận', '/PrintNews.aspx?newsID=' + pID + '&shortname=' + pShortName + '&no_refresh=1&TB_iframe=true&height=430&width=450&modal=true');
+            return false;
+        });
+        // hides the slickbox on clicking the noted link  
+        $('a#slick-hide').click(function() {
+            $('#slickbox').hide('fast');
+            return false;
+        });
+
+        // toggles the slickbox on clicking the noted link  
+        $('a#slick-toggle').click(function() {
+            $('#slickbox').toggle(400);
+            return false;
+        });
+        // toggles the slickbox on clicking the noted link  
+        $('a#slick-toggle-send').click(function() {
+            $('#sendcomment').toggle(400);
+            return false;
+        });
+        $(".keyword").live('click', function() {
+            location='/NewsSearch.aspx?keyword='+$.trim($(this).html());
+            return false;
+        });
+    });
+</script>
+
+<div class="content_category_news">
+    <div class="content_category_news_title">
+        <a id="ctl00_MainContent_NewsDetailControl_lnkNameCategory"></a>
+        <span class='content_category_news_title_parent'><a href='/categoryparent/163/Xa-hoi.htm' class='parentCatTitle' rel='Xa-hoi' style='font-family:Arial;color:#0066CC;font-weight:bold;font-size:12px;text-transform:uppercase;'>Xã hội</a>&nbsp;>&nbsp;<a style='font-family:Arial;color:#0066CC;font-weight:bold;font-size:11px;text-transform:uppercase;' href='/newscategory/401/Nong-thon-moi.htm'>Nông thôn mới</a></span>
+    </div>
+    <div class="content_category_news_dot">
+    </div>
+    <br class="clearfloat" />
+    <div class="content_news_detail">
+        <div class="icon_print_email">
+            <a href="#" id="Nong-thon-moi">
+                <img src="/images/email.gif" /><span class="btnEmai"
+                    id="531570">Email</span></a><a href="/print/531570/print.htm"><img
+                        src="/images/print.gif" /><span>Print</span></a>
+        </div>
+        <br class="clearfloat" />
+        <div class="content_body_detail">
+            <table id="ctl00_MainContent_NewsDetailControl_rptNewsDetail" cellspacing="0" border="0">
+	<tr>
+		<td>
+                    <div class="subtitle_news_detail" style="color: #808080; font-size: 9pt; font-weight: bold">
+                        Liên kết “4 nhà” trong nông nghiệp:
+                    </div>
+                    <div class="title_news_detail">
+                        Lỏng lẻo, thiếu “trọng tài”&nbsp;
+                    </div>
+                    <div style="float:left;font-size: small; color: Gray">
+                        30/11/2011 07:38
+                    </div>
+                    
+                    <div  style="color:#777777;float:left;padding-left:5px;">
+                           
+                           </div>
+                            
+                    <br class="clearfloat" />
+                    <div class="body">
+                        
+    <div style="font-weight:bold;color:#800000">Tin liên quan:</div>
+
+<div class='content_ul'><ul class="category_item_other"><li style='background:none'>»&nbsp;<a style='color:#000080' href="/newsdetail/Kinh-te/529631/dien-dan-quoc-te-ve-nong-nghiep-va-phat-trien-nong-thon.htm">Diễn đàn quốc tế về nông nghiệp và phát triển nông thôn &nbsp;</a></li><li style='background:none'>»&nbsp;<a style='color:#000080' href="/newsdetail/Kinh-te/528525/nang-cao-gia-tri-san-pham-nong-nghiep.htm">Nâng cao giá trị sản phẩm nông nghiệp&nbsp;</a></li></ul></div>
+                    </div>
+                    <div class="body_detail">
+                        <div style="text-align: justify;"><strong>(HNM) - Được xem l&agrave; m&ocirc; h&igrave;nh hiệu quả, g&oacute;p phần cải thiện đời sống của n&ocirc;ng d&acirc;n (ND) nhưng đến nay, m&ocirc; h&igrave;nh li&ecirc;n kết &quot;4 nh&agrave;&quot; trong n&ocirc;ng nghiệp (NN) đang gặp nhiều bế tắc bởi mối li&ecirc;n kết n&agrave;y c&ograve;n lỏng lẻo. Đ&oacute; l&agrave; &yacute; kiến chung của c&aacute;c đại biểu tham dự hội thảo: &quot;Li&ecirc;n kết 4 nh&agrave; trong ph&aacute;t triển NN, x&acirc;y dựng n&ocirc;ng th&ocirc;n mới&quot; do Cục Kinh tế hợp t&aacute;c v&agrave; PTNT phối hợp với Trung t&acirc;m X&uacute;c tiến thương mại NN (Bộ NN&amp;PTNT) vừa tổ chức.<br />
+<br />
+Li&ecirc;n kết &quot;4 nh&agrave;&quot; vẫn bế tắc hướng đi</strong><br />
+<br />
+Li&ecirc;n kết &quot;4 nh&agrave;&quot; trong NN l&agrave; giải ph&aacute;p quan trọng để x&acirc;y dựng n&ocirc;ng th&ocirc;n mới (NTM). Năm 2002, Ch&iacute;nh phủ đ&atilde; c&oacute; Quyết định 80/2002/QĐ-TTg về khuyến kh&iacute;ch li&ecirc;n kết &quot;4 nh&agrave;&quot; trong việc ti&ecirc;u thụ n&ocirc;ng sản (NS) th&ocirc;ng qua hợp đồng. Theo đ&oacute;, Nh&agrave; nước khuyến kh&iacute;ch c&aacute;c doanh nghiệp (DN) thuộc c&aacute;c th&agrave;nh phần kinh tế k&yacute; kết hợp đồng ti&ecirc;u thụ NS h&agrave;ng h&oacute;a với người sản xuất (SX), nhằm gắn SX với chế biến v&agrave; ti&ecirc;u thụ NS h&agrave;ng h&oacute;a để ph&aacute;t triển SX ổn định v&agrave; bền vững. Đi k&egrave;m với quyết định n&agrave;y l&agrave; c&aacute;c ch&iacute;nh s&aacute;ch khuyến kh&iacute;ch về đất đai, đầu tư, t&iacute;n dụng, chuyển giao tiến bộ kỹ thuật, c&ocirc;ng nghệ, thị trường v&agrave; x&uacute;c tiến thương mại. Mục ti&ecirc;u đặt ra đến năm 2005, &iacute;t nhất 30% v&agrave; đến năm 2010 c&oacute; tr&ecirc;n 50% sản lượng NS h&agrave;ng h&oacute;a của một số ng&agrave;nh SX h&agrave;ng h&oacute;a lớn được ti&ecirc;u thụ th&ocirc;ng qua hợp đồng&hellip; <br />
+&nbsp;</div>
+<div style="text-align: center;"><img width="400" height="270" alt="" src="/Uploads/anhthu/2011/11/30/day-chuyen.jpg" /><br />
+<!--[if gte mso 9]><xml>
+<w:WordDocument>
+<w:View>Normal</w:View>
+<w:Zoom>0</w:Zoom>
+<w:PunctuationKerning />
+<w:ValidateAgainstSchemas />
+<w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+<w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+<w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+<w:Compatibility>
+<w:BreakWrappedTables />
+<w:SnapToGridInCell />
+<w:WrapTextWithPunct />
+<w:UseAsianBreakRules />
+<w:DontGrowAutofit />
+</w:Compatibility>
+<w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+</w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+</w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-parent:"";
+mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+mso-para-margin:0cm;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:10.0pt;
+font-family:"Times New Roman";
+mso-ansi-language:#0400;
+mso-fareast-language:#0400;
+mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+<p class="MsoNormal" style="text-align: center;"><span style="color: rgb(0, 0, 255);"><span style="font-size: 11px;"><span style="font-family: Arial;">Việc li&ecirc;n kết &ldquo;4 nh&agrave;&rdquo; chưa chặt chẽ dẫn đến&nbsp; trồng, chế biến v&agrave; ti&ecirc;u thụ n&ocirc;ng sản chưa đạt hiệu quả kinh tế cao.Ảnh: TTXVN</span></span></span></p>
+</div>
+<div style="text-align: justify;">Quyết định 80 ra đời hơn 9 năm nhưng việc triển khai vẫn bế tắc, li&ecirc;n kết &quot;4 nh&agrave;&quot; chưa c&oacute; hoặc c&oacute; nhưng rất &quot;lỏng lẻo&quot;. Thực chất chỉ c&oacute; ND v&agrave; DN l&agrave; ch&iacute;nh, vai tr&ograve; của c&aacute;c &quot;nh&agrave;&quot; kh&aacute;c chưa nhiều. B&aacute;o c&aacute;o của Bộ NN&amp;PTNT cho thấy, tỷ lệ NS h&agrave;ng h&oacute;a ti&ecirc;u thụ th&ocirc;ng qua hợp đồng ở l&uacute;a h&agrave;ng h&oacute;a l&agrave; 2,1%; ch&egrave; 9%; c&agrave; ph&ecirc; 2,5%; rau quả 0,9% trong tổng sản lượng. Nguy&ecirc;n nh&acirc;n l&agrave; do thiếu cầu nối giữa ND v&agrave; DN, kh&ocirc;ng c&oacute; v&ugrave;ng nguy&ecirc;n liệu tập trung quy m&ocirc; lớn gắn với nh&agrave; m&aacute;y chế biến. Đặc biệt l&agrave; thiếu cơ chế, ch&iacute;nh s&aacute;ch khuyến kh&iacute;ch c&aacute;c HTX tham gia tổ chức dịch vụ ti&ecirc;u thụ NS cho x&atilde; vi&ecirc;n...<br />
+<br />
+Tại H&agrave; Nội, việc li&ecirc;n kết ti&ecirc;u thụ n&ocirc;ng sản cũng kh&ocirc;ng mấy khả quan, những m&ocirc; h&igrave;nh li&ecirc;n kết hiệu quả chỉ đếm tr&ecirc;n đầu ng&oacute;n tay. &Ocirc;ng Trần B&aacute; Cao, Chủ nhiệm HTX NN Đại Thắng (Ph&uacute; Xuy&ecirc;n) cho biết: &quot;Năm 2007, sau khi triển khai dồn điền đổi thửa, 47ha đồng trũng của địa phương được chuyển sang nu&ocirc;i trồng thủy sản. Thấy hiệu quả cao hơn hẳn trồng l&uacute;a, năm 2009, HTX vận động người d&acirc;n nu&ocirc;i c&aacute; đặc sản l&agrave; r&ocirc; đồng v&agrave; l&oacute;c b&ocirc;ng với 18 hộ d&acirc;n tham gia. Sau 4 th&aacute;ng nu&ocirc;i, 1ha thu l&atilde;i tr&ecirc;n 100 triệu đồng. Năm 2010, người d&acirc;n mở rộng diện t&iacute;ch nu&ocirc;i, 25 hộ tham gia nu&ocirc;i thủy sản nhưng do kh&ocirc;ng c&oacute; hợp đồng với DN ti&ecirc;u thụ n&ecirc;n sản lượng c&aacute; nhiều đồng nghĩa với gi&aacute; c&aacute; giảm chỉ bằng 60% năm trước, trong khi chi ph&iacute; thức ăn tăng cao. Thu kh&ocirc;ng đủ chi, nhiều hộ đ&atilde; bỏ cuộc&quot;.<br />
+<br />
+<strong>Nh&agrave; nước phải l&agrave; &quot;trọng t&agrave;i&quot;</strong><br />
+<br />
+Tại hội thảo, nhiều &yacute; kiến đ&atilde; khẳng định, NTM v&agrave; ND, NN l&agrave; những yếu tố kh&ocirc;ng thể t&aacute;ch rời. Người ND l&agrave; chủ thể ch&iacute;nh để x&acirc;y dựng NTM, do đ&oacute; đời sống ND c&oacute; được n&acirc;ng l&ecirc;n th&igrave; mới tạo ra được nguồn lực x&acirc;y dựng NTM. Li&ecirc;n kết, hỗ trợ từ nhiều ph&iacute;a ch&iacute;nh l&agrave; giải ph&aacute;p để ND tăng thu nhập, do đ&oacute; cần phải x&aacute;c định ND l&agrave; đối tượng, NN l&agrave; cơ hội v&agrave; n&ocirc;ng th&ocirc;n l&agrave; địa b&agrave;n. Nh&agrave; nước phải giữ vai tr&ograve; &quot;nhạc trưởng&quot;, l&agrave; nh&acirc;n tố x&uacute;c t&aacute;c bảo đảm cho sự li&ecirc;n kết giữa DN, nh&agrave; khoa học v&agrave; nh&agrave; n&ocirc;ng được ph&aacute;t huy. &Ocirc;ng Hồ Quế Hậu, Ph&oacute; BCĐ x&acirc;y dựng NTM tỉnh Đồng Nai cho rằng, bản chất của li&ecirc;n kết l&agrave; chia sẻ rủi ro, song thực tế đ&atilde; c&oacute; sự đ&ugrave;n đẩy rủi ro sang cho nhau. Đặc biệt, mối li&ecirc;n kết giữa ND v&agrave; DN c&ograve;n thiếu bền vững, chỉ mang t&iacute;nh thời vụ, đứt đoạn, DN &eacute;p gi&aacute; ND mỗi khi NS được m&ugrave;a, c&ograve;n ND lại &quot;bội ước&quot; với DN khi b&aacute;n NS cho thương l&aacute;i với gi&aacute; cao hơn. Do đ&oacute;, để li&ecirc;n kết &quot;4 nh&agrave;&quot; th&agrave;nh c&ocirc;ng th&igrave; sự h&igrave;nh th&agrave;nh mối li&ecirc;n kết kinh tế giữa DN chế biến NS với ND phải tr&ecirc;n cơ sở c&oacute; đủ 3 điều kiện: c&oacute; c&aacute;i để li&ecirc;n kết; c&oacute; nhu cầu cần li&ecirc;n kết v&agrave; c&oacute; thể li&ecirc;n kết. Một số &yacute; kiến cho rằng, Quyết định 80 ra đời đ&atilde; gần 10 năm nhưng hiệu quả thấp, do đ&oacute; Nh&agrave; nước cần r&agrave; so&aacute;t, bổ sung c&aacute;c quy định thực hiện Quyết định 80, nhất l&agrave; c&aacute;c quy định về đất đai, hỗ trợ đầu tư, t&iacute;n dụng, ch&iacute;nh s&aacute;ch thuế, chuyển giao c&ocirc;ng nghệ v&agrave; x&uacute;c tiến thương mại để c&oacute; điều chỉnh cho ph&ugrave; hợp. Thực tế cho thấy, hiện nay c&aacute;c điều kiện r&agrave;ng buộc về ph&aacute;p l&yacute; giữa ND v&agrave; DN c&ograve;n rất lỏng lẻo, n&ecirc;n việc xử l&yacute; vi phạm hợp đồng gặp nhiều kh&oacute; khăn. Trong khi đ&oacute;, cơ quan quản l&yacute; nh&agrave; nước chỉ dừng lại ở định hướng, chưa thể can thiệp s&acirc;u v&agrave; c&oacute; chế t&agrave;i xử l&yacute; vi phạm hợp đồng giữa c&aacute;c b&ecirc;n&hellip; Do đ&oacute;, để l&agrave;m tốt li&ecirc;n kết &quot;4 nh&agrave;&quot; với tư c&aacute;ch l&agrave; &quot;trọng t&agrave;i&quot; cơ quan chức năng cần c&oacute; c&ocirc;ng cụ kiểm tra, gi&aacute;m s&aacute;t v&agrave; biện ph&aacute;p xử l&yacute; c&aacute;c b&ecirc;n ph&aacute; vỡ hợp đồng.<br />
+<br />
+&Ocirc;ng Tăng Minh Lộc, Cục trưởng Cục Kinh tế hợp t&aacute;c v&agrave; PTNT (Bộ NN&amp;PTNT) cho biết, hiện Bộ đang chủ tr&igrave; dự thảo quy định một số ch&iacute;nh s&aacute;ch th&uacute;c đẩy c&aacute;c DN thực hiện li&ecirc;n kết gắn SX với chế biến, ti&ecirc;u thụ NS th&ocirc;ng qua hợp đồng. Theo đ&oacute;, 3 đối tượng được nhận ưu đ&atilde;i v&agrave; hỗ trợ gồm: DN, người SX v&agrave; nh&agrave; khoa học (hoặc tổ chức khoa học) c&oacute; hợp đồng li&ecirc;n kết. Tuy nhi&ecirc;n, nhiều &yacute; kiến cho rằng, để li&ecirc;n kết &quot;4 nh&agrave;&quot; trong NN bền chặt, Nh&agrave; nước cần đứng ra l&agrave;m &quot;trọng t&agrave;i&quot;, c&oacute; c&ocirc;ng cụ kiểm tra, gi&aacute;m s&aacute;t việc thực hiện li&ecirc;n kết v&agrave; c&oacute; cơ chế, ch&iacute;nh s&aacute;ch khuyến kh&iacute;ch c&aacute;c tổ chức, c&aacute; nh&acirc;n tham gia. Bởi th&agrave;nh c&ocirc;ng của li&ecirc;n kết &quot;4 nh&agrave;&quot; sẽ g&oacute;p phần quan trọng v&agrave;o đẩy nhanh qu&aacute; tr&igrave;nh x&acirc;y dựng NTM.</div>
+                    </div>
+                    <div class="author">
+                        <br />
+                        Nguyễn Mai&nbsp;<span style="font-weight: normal; font-style: italic"></span>
+                    </div>
+                    <br class="clearfloat" />
+                </td>
+	</tr>
+</table>
+            
+            
+            
+            <br class="clearfloat" />
+        </div>
+        <div>
+            <span id="ctl00_MainContent_NewsDetailControl_lblDate"></span>
+        </div>
+        <div class="new_detail_adv">
+        <br>
+
+        </div>
+        <div style="padding:5px;">
+        <div style="display:block;">
+            <div class="news_detail_comment">
+                <a style="font-size:12px;text-transform:uppercase;font-weight:bold;font-family:Verdana,Arial;" href="#" id="slick-toggle">Xem phản hồi</a> | <a style="font-size:12px;text-transform:uppercase;font-weight:bold;font-family:Verdana,Arial;" href="#" id="slick-toggle-send">
+                    Gửi phản hồi</a>
+            </div>
+            <div class="content_comment">
+                <div class='content_category_news_title'>Ý KIẾN BẠN ĐỌC(0)</div><br class='clearfloat' /><div id='slickbox'></div>
+                <div id="sendcomment" style="padding-top: 10px">
+                    <div id="contenDiv" class="contenDiv">
+                        <table cellpadding="0" cellspacing="0" border="0" width="470px">
+                            <tr>
+                                <td>
+                                    <input value="Họ và Tên" onfocus="if(this.value=='Họ và Tên') this.value='';" onblur="if(this.value=='') this.value='Họ và Tên';"
+                                        type="text" name="txtName" id="txtName" class="adword-textbox"">
+                                </td>
+                                <td>
+                                    <input type="text" onfocus="if(this.value=='Email') this.value='';" onblur="if(this.value=='') this.value='Email';"
+                                        value="Email" name="txtEmail" id="txtEmail" class="adword-textbox">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="padding-top: 10px;">
+                                    <input type="text" onfocus="if(this.value=='Địa chỉ') this.value='';" onblur="if(this.value=='') this.value='Địa chỉ';"
+                                        value="Địa chỉ" name="txtAddress" id="txtAddress" class="adword-textbox"">
+                                </td>
+                                <td style="padding-top: 10px;">
+                                    <input type="text" onfocus="if(this.value=='Mã an toàn') this.value='';" onblur="if(this.value=='') this.value='Mã an toàn';"
+                                        value="Mã an toàn" name="txtValidCode" id="txtValidCode" class="adword-textbox2">
+                                    <span id="ctl00_MainContent_NewsDetailControl_lblCode" class="lbl_randomtext">GSDESB</span>
+                                    <div style="display: none;">
+                                        <input name="ctl00$MainContent$NewsDetailControl$txtNewsCode" type="text" value="GSDESB" id="ctl00_MainContent_NewsDetailControl_txtNewsCode" />
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" style="padding-top: 5px">
+                                    <textarea rows="10" name="txtAddedContent" id="txtAddedContent" cols="46" class="SForm"
+                                        style="width: 470px"></textarea>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2">
+                                    <input type="button" class="bg_button_send_comment2" onclick="getData('/CommentADD.aspx?newsID=531570','contenDiv')"
+                                        value="Gửi ý kiến">
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+    <div class="news_other_main">
+        <div class="content_category_news_title">
+            CÁC TIN KHÁC
+        </div>
+        <br class="clearfloat" />
+        <div class="list_news_other_item">
+            <ul class='category_item_other_main'><li><a href='/newsdetail/Nong-thon-moi/531192/huyen-quoc-oai-phat-dong-toan-dan-chung-suc-xay-dung-nong-thon-moi.htm' style='padding-right:5px'>Huyện Quốc Oai: Phát động "Toàn dân chung sức xây dựng nông thôn mới"</a><span style='font-size:8pt'>(26/11/2011)</span></li><li><a href='/newsdetail/Nong-thon-moi/531128/von-xay-dung-nong-thon-moi-chi-dap-ung-duoc-11-nhu-cau.htm' style='padding-right:5px'>Vốn xây dựng nông thôn mới chỉ đáp ứng được 11% nhu cầu</a><span style='font-size:8pt'>(25/11/2011)</span></li><li><a href='/newsdetail/Nong-thon-moi/531126/huyen-thanh-tri-nhieu-rao-can-tren-duong-xay-dung-nong-thon-moi.htm' style='padding-right:5px'>Huyện Thanh Trì: Nhiều rào cản trên đường xây dựng nông thôn mới</a><span style='font-size:8pt'>(25/11/2011)</span></li><li><a href='/newsdetail/Nong-thon-moi/531125/phong-trao-hien-dat-lam-duong-o-đong-la.htm' style='padding-right:5px'>Phong trào hiến đất làm đường ở Đông La</a><span style='font-size:8pt'>(25/11/2011)</span></li><li><a href='/newsdetail/Nong-thon-moi/531124/co-gioi-hoa-san-xuat-nong-nghiep.htm' style='padding-right:5px'>Cơ giới hóa sản xuất nông nghiệp</a><span style='font-size:8pt'>(25/11/2011)</span></li><li><a href='/newsdetail/Nong-thon-moi/530437/phat-huy-loi-the-lang-nghe.htm' style='padding-right:5px'>Phát huy lợi thế làng nghề</a><span style='font-size:8pt'>(18/11/2011)</span></li><li><a href='/newsdetail/Nong-thon-moi/530436/huong-toi-thuong-hieu-gao-ha-noi.htm' style='padding-right:5px'>Hướng tới thương hiệu gạo Hà Nội</a><span style='font-size:8pt'>(18/11/2011)</span></li><li><a href='/newsdetail/Nong-thon-moi/529997/ha-noi-phat-dong-phong-trao-thi-dua-xay-dung-ntm-trong-nam-2011.htm' style='padding-right:5px'>Hà Nội phát động phong trào thi đua xây dựng NTM trong năm 2011</a><span style='font-size:8pt'>(14/11/2011)</span></li><li><a href='/newsdetail/Nong-thon-moi/529759/phat-trien-nong-nghiep-tieu-thu-cong-nghiep-hang-hoa.htm' style='padding-right:5px'>Phát triển nông nghiệp, tiểu thủ công nghiệp hàng hóa</a><span style='font-size:8pt'>(11/11/2011)</span></li><li><a href='/newsdetail/Nong-thon-moi/529758/tap-trung-nguon-luc-phat-huy-the-manh.htm' style='padding-right:5px'>Tập trung nguồn lực, phát huy thế mạnh</a><span style='font-size:8pt'>(11/11/2011)</span></li><li><a href='/newsdetail/Nong-thon-moi/529537/xa-diem…-mat-diem.htm' style='padding-right:5px'>Xã điểm… mất điểm</a><span style='font-size:8pt'>(09/11/2011)</span></li><li><a href='/newsdetail/Nong-thon-moi/529072/gan-nhan-nhan-dien-nguon-goc.htm' style='padding-right:5px'>Gắn nhãn nhận diện nguồn gốc</a><span style='font-size:8pt'>(04/11/2011)</span></li><li><a href='/newsdetail/Nong-thon-moi/529069/ưu-tien-giao-thong-thuy-loi.htm' style='padding-right:5px'>Ưu tiên giao thông, thủy lợi</a><span style='font-size:8pt'>(04/11/2011)</span></li></ul>
+        </div>
+        <br class="clearfloat" />
+    </div>
+    <div id="news_search_datetime">
+        <div class="content_category_news_title">
+            XEM THEO NGÀY THÁNG
+        </div>
+        <br class="clearfloat" />
+       <div style="clear:both;float:left;width:100%;text-align:right;margin-top:10px">
+<script type="text/javascript">
+    $(function()
+    {
+        var d=new Date();
+        var currentYear=d.getFullYear();
+        $("select[id$=cboYear]").empty();
+        for(i=currentYear;i>=currentYear-5;i--)
+        {
+            $("select[id$=cboYear]").append("<option value='"+i+"'>"+i+"</option>");
+        }
+    });
+</script>
+Xem tin theo ngày: &nbsp;
+<select name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$cboDay" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_cboDay">
+	<option value="1">1</option>
+	<option value="2">2</option>
+	<option value="3">3</option>
+	<option value="4">4</option>
+	<option value="5">5</option>
+	<option value="6">6</option>
+	<option value="7">7</option>
+	<option value="8">8</option>
+	<option value="9">9</option>
+	<option value="10">10</option>
+	<option value="11">11</option>
+	<option value="12">12</option>
+	<option value="13">13</option>
+	<option value="14">14</option>
+	<option value="15">15</option>
+	<option value="16">16</option>
+	<option value="17">17</option>
+	<option value="18">18</option>
+	<option value="19">19</option>
+	<option value="20">20</option>
+	<option value="21">21</option>
+	<option value="22">22</option>
+	<option value="23">23</option>
+	<option value="24">24</option>
+	<option value="25">25</option>
+	<option value="26">26</option>
+	<option value="27">27</option>
+	<option value="28">28</option>
+	<option value="29">29</option>
+	<option selected="selected" value="30">30</option>
+	<option value="31">31</option>
+</select>
+<select name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$cboMonth" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_cboMonth">
+	<option value="1">Th&#225;ng 1</option>
+	<option value="2">Th&#225;ng 2</option>
+	<option value="3">Th&#225;ng 3</option>
+	<option value="4">Th&#225;ng 4</option>
+	<option value="5">Th&#225;ng 5</option>
+	<option value="6">Th&#225;ng 6</option>
+	<option value="7">Th&#225;ng 7</option>
+	<option value="8">Th&#225;ng 8</option>
+	<option value="9">Th&#225;ng 9</option>
+	<option value="10">Th&#225;ng 10</option>
+	<option selected="selected" value="11">Th&#225;ng 11</option>
+	<option value="12">Th&#225;ng 12</option>
+</select>
+<select name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$cboYear" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_cboYear">
+</select>
+<input type="submit" name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$btnView" value="Xem" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_btnView" />
+<br />
+</div>
+    </div>
+</div>
+
+                </div>
+                <div class="right_category_box">
+                           
+                            <div class="box_adv_newscategory">
+                                <div class="right_content_box_bottom_adv">
+                                <body topmargin="0" leftmargin="0">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#016A99" height="1">
+<tr><td height=1></td></tr>
+</table></body>
+
+                                </div>  
+                            </div>
+                            <div  style="float:right;padding-top:5px;display:none">
+                                  
+    <div style="font-weight:bold;color:#800000">Tin liên quan:</div>
+
+<div class='content_ul'><ul class="category_item_other"><li style='background:none'>»&nbsp;<a style='color:#000080' href="/newsdetail/Kinh-te/529631/dien-dan-quoc-te-ve-nong-nghiep-va-phat-trien-nong-thon.htm">Diễn đàn quốc tế về nông nghiệp và phát triển nông thôn &nbsp;</a></li><li style='background:none'>»&nbsp;<a style='color:#000080' href="/newsdetail/Kinh-te/528525/nang-cao-gia-tri-san-pham-nong-nghiep.htm">Nâng cao giá trị sản phẩm nông nghiệp&nbsp;</a></li></ul></div> 
+                             </div>
+                            <div id="Div1" style="float:right;padding-top:5px">
+                              <div id='box_flow' style='display:block'><div class='box_top_ovan'><!----></div><div class='box_center_ovan'><div class='box_news_event_title'><a href='#' class='content_news_main_link'>Tin mới nhận</a></div><div class='content_ul'><table cellpadding='0' cellspacing='0' border='0'><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Xa-hoi/531637/ha-noi-tap-trung-nang-cap-de-ta-hong-qua-huyen-me-linh.htm'><img style="display:none" src=""></a><a class='link_news_focus' href='/newsdetail/Xa-hoi/531637/ha-noi-tap-trung-nang-cap-de-ta-hong-qua-huyen-me-linh.htm'>Hà Nội: Tập trung nâng cấp đê tả Hồng qua huyện Mê Linh</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Xa-hoi/531631/thuong-xuyen-sua-chua-vat-kien-truc-trong-cong-vien-thong-nhat.htm'><img style="display:none" src=""></a><a  class='link_news_focus' href='/newsdetail/Xa-hoi/531631/thuong-xuyen-sua-chua-vat-kien-truc-trong-cong-vien-thong-nhat.htm'>Thường xuyên sửa chữa vật kiến trúc trong Công viên Thống Nhất</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Xa-hoi/531622/huyen-ứng-hoa-ha-noi-trien-khai-hang-loat-du-an-cap-nuoc-sach.htm'><img style="display:none" src=""></a><a class='link_news_focus' href='/newsdetail/Xa-hoi/531622/huyen-ứng-hoa-ha-noi-trien-khai-hang-loat-du-an-cap-nuoc-sach.htm'>Huyện Ứng Hòa (Hà Nội): Triển khai hàng loạt dự án cấp nước sạch</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Xa-hoi/531615/tai-nan-lien-hoan-trong-ham-kim-lien-mot-nguoi-bi-thuong-nang.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails30292011022904IMG_8050.jpg"></a><a  class='link_news_focus' href='/newsdetail/Xa-hoi/531615/tai-nan-lien-hoan-trong-ham-kim-lien-mot-nguoi-bi-thuong-nang.htm'>Tai nạn liên hoàn trong hầm Kim Liên, một người bị thương nặng</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Nong-thon-moi/531611/se-dieu-chinh-khai-toan-dau-tu-xay-dung-ntm-cho-phu-hop.htm'><img style="display:none" src=""></a><a class='link_news_focus' href='/newsdetail/Nong-thon-moi/531611/se-dieu-chinh-khai-toan-dau-tu-xay-dung-ntm-cho-phu-hop.htm'>Sẽ điều chỉnh khái toán đầu tư xây dựng NTM cho phù hợp</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Xa-hoi/531595/ha-noi-nhan-rong-phan-lan-duong.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/11/30/Phan-lan-14.jpg"></a><a  class='link_news_focus' href='/newsdetail/Xa-hoi/531595/ha-noi-nhan-rong-phan-lan-duong.htm'>Hà Nội nhân rộng phân làn đường</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Xa-hoi/531594/nhan-tin-lay-thu-tu-khi-lam-thu-tuc-hanh-chinh.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails30342011103410nhantin.jpg"></a><a class='link_news_focus' href='/newsdetail/Xa-hoi/531594/nhan-tin-lay-thu-tu-khi-lam-thu-tuc-hanh-chinh.htm'>Nhắn tin lấy thứ tự khi làm thủ tục hành chính</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Xa-hoi/531585/cach-chuc-hang-loat-can-bo-du-an-cao-toc-tphcm--trung-luong.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/11/30/caotoctphcm.jpg"></a><a  class='link_news_focus' href='/newsdetail/Xa-hoi/531585/cach-chuc-hang-loat-can-bo-du-an-cao-toc-tphcm--trung-luong.htm'>Cách chức hàng loạt cán bộ Dự án cao tốc TP.HCM - Trung Lương</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Xa-hoi/531574/lich-cat-dien-sua-chua-theo-ke-hoach.htm'><img style="display:none" src=""></a><a class='link_news_focus' href='/newsdetail/Xa-hoi/531574/lich-cat-dien-sua-chua-theo-ke-hoach.htm'>Lịch cắt điện sửa chữa theo kế hoạch</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Xa-hoi/531572/dan-kho-chinh-quyen-lung-tung.htm'><img style="display:none" src=""></a><a  class='link_news_focus' href='/newsdetail/Xa-hoi/531572/dan-kho-chinh-quyen-lung-tung.htm'>Dân khổ, chính quyền lúng túng </a><br class='clearfloat'></div></div></td></tr></table></div></div><div class='box_bottom_ovan'><!----></div></div>
+                            </div>
+                            <div  style="float:right;padding-top:5px">
+                                  <div id='center_box' style='display:none'><div class='box_top_ovan'><!----></div><div class='box_center_ovan'><div class='box_news_event_title'><a href='#' class='content_news_main_link'>Theo dòng sự kiện</a></div><div class='box_news_event_content'></div></div><div class='box_bottom_ovan'><!----></div></div> 
+                             </div>
+                            <div id="box_flow" style="float:right;">
+                              <div id='box_flow' style='display:block'><div class='box_top_ovan'><!----></div><div class='box_center_ovan'><div class='box_news_event_title'><a href='#' class='content_news_main_link'>Tiêu điểm</a></div><div class='content_ul'><table cellpadding='0' cellspacing='0' border='0'><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Nong-thon-moi/495366/bai-1-muon-hinh-van-trang.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/5/5/kientrucnnt.jpg"></a><a class='link_news_focus' href='/newsdetail/Nong-thon-moi/495366/bai-1-muon-hinh-van-trang.htm'>Bài 1: Muôn hình vạn trạng</a><br class='clearfloat'></div></div></td></table></div></div><div class='box_bottom_ovan'><!----></div></div>
+                            </div>
+                            
+                            <div class="box_adv_newscategory">
+                              <div class="right_content_box_bottom_adv">
+                                <br>
+
+                               </div>  
+                            </div>
+                        </div>
+           </div>
+           <div class="right_news_category_box">
+              <ul class="right_content_box_adv_main">
+                    <li>
+                    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" name="wmode" height="360" width="180">
+    <param name="movie" value="/Uploads/NCC/2011-NBN/ads-homepage/songkhoe180x360.swf">
+                  <param name="quality" value="high">
+                  <param name="wmode" value="transparent">
+                 <embed wmode="transparent" src="/Uploads/NCC/2011-NBN/ads-homepage/songkhoe180x360.swf" allowscriptaccess="always" type="application/x-shockwave-flash" height="360" width="180">
+</object>
+
+                    </li>
+                    <li>
+                    <a href="/newsdetail/Van-hoa/424354/%C4%91on-doc-ha-noi-ngay-nay-so-1-bo-moi.htm">
+<img src="/Uploads/NCC/2011/ads-homepage/HN-Ngaynay.jpg" border="0">
+</a>
+
+                    </li>
+                    <li>
+                    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" name="wmode" height="180" width="180">
+<param name="movie" value="/Uploads/NCC/ads-homepage/4D-homeduhoc_180x180.swf">
+<param name="quality" value="high">
+<param name="wmode" value="transparent">
+<embed wmode="transparent" src="/Uploads/NCC/ads-homepage/4D-homeduhoc_180x180.swf" allowscriptaccess="always" type="application/x-shockwave-flash" height="180" width="180">
+</object>
+
+                    </li>
+                    <li>
+                    <object width="180" height="180" name="wmode" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+    <param value="/Uploads/NCC/ads-homepage/4A-chuyenmuckinhte_180x180.swf" name="movie">
+                  <param value="high" name="quality">
+                  <param value="transparent" name="wmode">
+                 <embed width="180" height="180" type="application/x-shockwave-flash" allowscriptaccess="always" src="/Uploads/NCC/ads-homepage/4A-chuyenmuckinhte_180x180.swf" wmode="transparent">
+</object>
+
+                    </li>
+                 
+                </ul>
+           </div> 
+        </div>
+      </div>
+
+            <div id="footer">
+                <div id="footer_wrap">
+                    <div class="menu">
+                        <div class="tabsmenuclass">
+                            <ul class='menutop'>
+                                <li><a href=''>Trang chủ</a></li>
+                                <li><a href='/contact/contact.htm'>
+                                    <img width='10px' height='11px' style='border: 0px none; float: left; margin-top: 10px;'
+                                        src='/images/icon01.png' />&nbsp;Liên hệ tòa soạn</a></li>
+                                <li><a onclick='setHomepage();' href='javascript:void(0);'>
+                                    <img width='12px' height='9px' style='border: 0px none; float: left; margin-top: 10px;'
+                                        src='/images/icon02.png' />&nbsp;Đặt HNM làm trang chủ</a></li>
+                                <li><a href='/Modules/NewsLetter/NewsLetterRegister.aspx'>
+                                    <img width='12px' height='9px' style='border: 0px none; float: left; margin-top: 10px;'
+                                        src='/images/icon03.png' />&nbsp;Đăng ký nhận tin mới</a></li>
+                                <li>
+                                    <select name="ctl00$ddlWebLink" id="ctl00_ddlWebLink" onchange="window.open(this.value)" style="float: left; margin: 5px 20px 0 180px;">
+	<option value="Liên kết Website">Li&#234;n kết Website</option>
+	<option value="http://www.dangcongsan.vn">B&#225;o Điện tử Đảng CSVN</option>
+	<option value="http://www.nhandan.com.vn">B&#225;o Nh&#226;n D&#226;n</option>
+	<option value="http://www.vietnamplus.vn">TTXVN</option>
+	<option value="http://www.cuocsongvantuoidep.vn">&quot;Cuộc sống vẫn tươi đẹp&quot; tr&#234;n VTV4</option>
+	<option value="http://chinhphu.vn">Website Ch&#237;nh phủ</option>
+	<option value="http://www.na.gov.vn">Quốc hội Việt Nam</option>
+	<option value="http://www.vnexpress.net">VnExpress</option>
+	<option value="http://www.vnn.vn">Vietnamnet</option>
+	<option value="http://tienphong.vn">Tiền Phong</option>
+	<option value="http://www.tuoitre.com.vn">Tuổi trẻ</option>
+	<option value="http://www.anninhthudo.vn">An ninh Thủ đ&#244;</option>
+	<option value="http://www.nld.com.vn">B&#225;o Người Lao Động</option>
+	<option value="http://www.baothuathienhue.vn/">B&#225;o Thừa Thi&#234;n Huế</option>
+	<option value="http://www.baobinhthuan.com.vn">B&#225;o B&#236;nh Thuận</option>
+
+</select>
+                                </li>
+                                <li><a href="#top" style="margin: 0; padding: 0 5px 0 5px; color: white; font-weight: bold">
+                                    Về đầu trang</a> </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="footer_text">
+                        Bản quyền © 2003-2010 Báo Hànộimới - CQCQ: Thành ủy Hà Nội<br/>
+                        Giấy phép số 1123/GP-BTTTT, cấp ngày: 21/7/2011. Tổng biên tập: TÔ QUANG PHÁN<br/>
+                        Địa chỉ: 44 Lê Thái Tổ - Hà Nội . ĐT (04) 38253067 – 39287445 . Fax: (04) 39287445 . Email:<a style='color:blue' href='mailto:webmaster@hanoimoi.com.vn'>webmaster@hanoimoi.com.vn</a><br/>
+                        Ghi rõ nguồn "Báo Hànộimới" khi phát hành lại thông tin từ website này.
+                  </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+
+    <script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12223163-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
