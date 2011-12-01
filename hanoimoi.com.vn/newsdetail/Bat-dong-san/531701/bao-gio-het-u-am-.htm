@@ -1,0 +1,663 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><link href="../../../App_Themes/Hanoimoi/Contact.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/mouseovertabs.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/newscategory.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/newsdetail.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/stylehome.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/thickbox.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/Top_Tip.css" type="text/css" rel="stylesheet" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta http-equiv="refresh" content="600" /><title>
+	
+        Bao giờ hết u ám ?
+</title><link href="/Client/slide/featuredcontentglider.css" rel="stylesheet" type="text/css" /><link href="/Client/jquery.ui.tab/css/flick/jquery-ui-1.7.2.custom.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        body
+        {
+            margin: 0px;
+            padding: 0px 0px 60px;
+            background: #FFFFFF no-repeat fixed center 0px;
+        }
+        .divFixed
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            left: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixed_R
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            right: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixedBg_IE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_RIE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_IE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+        .divFixedBg_RIE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+    </style>
+    <script language="JavaScript" type="text/javascript"> 
+//    function LoadImages(s,c)
+//    {
+//   
+//        s.getAttribute("loi")==null?s.setAttribute("loi","1"):s.setAttribute("loi",eval(s.getAttribute("loi"))+1);
+//        if(eval(s.getAttribute("loi"))>=2){c=c.substr(c.lastIndexOf("=")+1,c.length-c.lastIndexOf("="));
+//        s.onerror=null;s.src="/App_Themes/Default/Images/no_image_"+c+".jpg"}
+//        else s.src=c
+//    }
+     function returnUrl12() {
+            var key = document.getElementById('txt_search')
+	       
+            if (key.value.length != 0) {
+                location= "/NewsSearch.aspx?keyword=" + encodeURIComponent(key.value);
+		return false;	
+            }
+            else {
+                alert("Cần nhập từ khóa để tìm kiếm");
+                document.getElementById('txt_search').focus();
+                return false;
+            }
+        }
+    </script>
+  <link href="/StyleSheets/Poll/style.css" rel="stylesheet" type="text/css" /><link rel="shortcut icon" href="../../../Images/hanoimoi.ico" />
+    <script src="/Scripts/jquery.js" type="text/javascript"></script>
+    <script src="/Scripts/AdsFloat.js" type="text/javascript"></script>
+    <script src="/Client/slide/featuredcontentglider2.js" type="text/javascript"></script>    
+    <script src="/Scripts/jquery.query.js" type="text/javascript"></script>
+    <script src="/Scripts/swfobject.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/Scripts/hanoimoi.js"></script>
+    <script src="/Client/jquery.ui.tab/js/jquery-ui-1.7.2.tab.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/Scripts/thickbox-compressed.js"></script>
+	<script type="text/javascript" src="http://media.adnetwork.vn/js/adnetwork.js"></script>
+    
+    
+   
+
+    <!--###################End Tooltip##########################-->
+    <style type="text/css">
+        .highlight
+        {
+            background: yellow;
+            color: black;
+            text-decoration: none;
+        }
+        #dhtmltooltip
+        {
+            position: absolute;
+            left: -300px;
+            width: 150px;
+            border: 1px solid black;
+            padding: 2px;
+            background-color: lightyellow;
+            visibility: hidden;
+            z-index: 9999 !important; /*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+            filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+        }
+        #dhtmlpointer
+        {
+            position: absolute;
+            left: -300px;
+            z-index: 99999 !important;
+            visibility: hidden;
+        }
+        body
+        {
+            margin: 0px;
+            padding: 0px 0px 60px;
+            background: #FFFFFF url(/Customize/ExtendBanner/bg_tgdd_0410.jpg) no-repeat fixed center 0px;
+        }
+        .divFixed
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            left: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixed_R
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            right: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixedBg_IE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_RIE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_IE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+        .divFixedBg_RIE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+    </style>
+
+    <script type="text/javascript" src="/Scripts/ActiveX_Template.js"></script>
+    
+    
+    </head>
+<body style="margin:0; padding:0;">
+    <form name="aspnetForm" method="post" action="bao-gio-het-u-am-.htm" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1MDgyNDE3ODRkZNTRRCsahPy9yFkXJ/XoWMMCg8HE" />
+
+
+<script src="/ScriptResource.axd?d=P2A9dzBZj_ClASK9cxIuI7RRpn1FkZz9eJSoUVPsc9eJQY9WpZKQKcK1RgnM5mUNHtGBrElPwgrdp-PWcERPEeQmiL9J8Q1sH-2Qh80frsdS27PH-N5nrMpHLRj7TxOMSDLMT_FiRdR6ZCDj7big1JPeQqMw0BXtLvQQ4GKx0MZakJ-Y0&amp;t=ffffffffea696f7c" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWFQL98bnFDQLiydb3BgKA4oCQBQKPs5q3DQKzqrHfCAKIzPeOAQKLwJnaCgLU4dDxBwLhocvvAwLV48O+CwLUpYXRBwLG+9tdAtHP1+4MAvTq4aQDAurX1ecJAvfgtPQMAt3E+90MAtuu0ogPAtO368wBAtiWq7sNAueVloQCBm2j1Ps+wIzUA1/+gsK4kqTXkLs=" />
+        <!-- Quang cao 2 ben trang -->
+    <div id="divResult"></div>
+    
+
+ 
+    <div >
+        
+        <div id="main_body" >
+            <div id="top">
+                <div class="wrapbar" id="dvBanner">
+                    <div class="left_logo">
+                        <a href="#">
+                            <img alt="" src="/images/hanoimoi_logo.png" border="0" /></a>
+                    </div>
+                    <div class="right_adv">
+                       <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" 
+codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="640" height="87" name="wmode">
+    <param name="movie" value="/Uploads/NCC/ads-homepage/netdepnguoithudo.swf">
+                  <param name="quality" value="high">
+                  <param name="wmode" value="transparent">
+                 <embed wmode="transparent" src="/Uploads/NCC/ads-homepage/netdepnguoithudo.swf" allowscriptaccess="always" type="application/x-shockwave-flash" width="640" height="87"></embed>
+</object>
+
+                    </div>
+                </div>
+                <div id="dvTopMenu">
+                    <div class="wrapbar">
+                        <div class="menu_content2">
+                            <div id="mytabsmenu" class="tabsmenuclass">
+                                <ul class="menutop"><li><a href="/index.htm" rel="gotsubmenu[selected]">Trang chủ</a></li><li><a id='Chinh-tri' rel="gotsubmenu" href="/categoryparent/192/Chinh-tri.htm">Chính trị</a></li><li><a id='Xa-hoi' rel="gotsubmenu" href="/categoryparent/163/Xa-hoi.htm">Xã hội</a></li><li><a id='Kinh-te' rel="gotsubmenu[selected]" href="/categoryparent/190/Kinh-te.htm">Kinh tế</a></li><li><a id='The-gioi' rel="gotsubmenu" href="/categoryparent/189/The-gioi.htm">Thế giới</a></li><li><a id='Van-hoa' rel="gotsubmenu" href="/categoryparent/179/Van-hoa.htm">Văn hóa</a></li><li><a id='The-thao' rel="gotsubmenu" href="/categoryparent/170/The-thao.htm">Thể thao</a></li><li><a id='Giao-duc' rel="gotsubmenu" href="/categoryparent/164/Giao-duc.htm">Giáo dục</a></li><li><a id='1000_nam_thang_long' rel="gotsubmenu" href="/categoryparent/204/1000_nam_thang_long.htm">Thăng Long - Hà Nội</a></li><li><a id='Phap-luat' rel="gotsubmenu" href="/categoryparent/175/Phap-luat.htm">Pháp luật</a></li><li><a id='Khoa-hoc' rel="gotsubmenu" href="/categoryparent/100/Khoa-hoc.htm">Khoa học</a></li><li><a id='Doi-song' rel="gotsubmenu" href="/categoryparent/224/Doi-song.htm">Đời sống</a></li></ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="wrapbar">
+                        <div class="menu_boder_left">
+                            <!---->
+                        </div>
+                        <div class="sub_menu_content">
+                            <div id="mysubmenuarea" class="tabsmenucontentclass">
+                                <!--1st link within submenu container should point to the external submenu contents file-->
+                                <a href="/submenucontents.aspx" style="visibility: hidden">
+                                    Sub Menu contents</a>
+                            </div>
+
+                            <script type="text/javascript">
+                                //mouseovertabsmenu.init("tabs_container_id", "submenu_container_id", "bool_hidecontentsmouseout")
+                                mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
+
+                            </script>
+
+                        </div>
+                        <div class="menu_boder_right">
+                            <!---->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+
+<div id="main_wrap">
+        <div class="wrapbar">
+           <div class="left_news_category_box">
+                <div class="left_category_news">
+                    
+
+<script language="javascript" type="text/javascript">
+    $(function() {
+
+        // hides the slickbox as soon as the DOM is ready
+        // (a little sooner than page load)
+        $('#slickbox').hide();
+        $('#sendcomment').hide();
+        // shows the slickbox on clicking the noted link  
+        $('a#slick-show').click(function() {
+            $('#slickbox').show('slow');
+            return false;
+        });
+        $(".btnEmai").click(function() {
+            var pID = $(this).attr("id");
+            var pShortName = $(this).parent().attr("id");
+            tb_show('Kết quả bình luận', '/PrintNews.aspx?newsID=' + pID + '&shortname=' + pShortName + '&no_refresh=1&TB_iframe=true&height=430&width=450&modal=true');
+            return false;
+        });
+        // hides the slickbox on clicking the noted link  
+        $('a#slick-hide').click(function() {
+            $('#slickbox').hide('fast');
+            return false;
+        });
+
+        // toggles the slickbox on clicking the noted link  
+        $('a#slick-toggle').click(function() {
+            $('#slickbox').toggle(400);
+            return false;
+        });
+        // toggles the slickbox on clicking the noted link  
+        $('a#slick-toggle-send').click(function() {
+            $('#sendcomment').toggle(400);
+            return false;
+        });
+        $(".keyword").live('click', function() {
+            location='/NewsSearch.aspx?keyword='+$.trim($(this).html());
+            return false;
+        });
+    });
+</script>
+
+<div class="content_category_news">
+    <div class="content_category_news_title">
+        <a id="ctl00_MainContent_NewsDetailControl_lnkNameCategory"></a>
+        <span class='content_category_news_title_parent'><a href='/categoryparent/190/Kinh-te.htm' class='parentCatTitle' rel='Kinh-te' style='font-family:Arial;color:#0066CC;font-weight:bold;font-size:12px;text-transform:uppercase;'>Kinh tế</a>&nbsp;>&nbsp;<a style='font-family:Arial;color:#0066CC;font-weight:bold;font-size:11px;text-transform:uppercase;' href='/newscategory/181/Bat-dong-san.htm'>Đầu tư - Bất động sản</a></span>
+    </div>
+    <div class="content_category_news_dot">
+    </div>
+    <br class="clearfloat" />
+    <div class="content_news_detail">
+        <div class="icon_print_email">
+            <a href="#" id="Bat-dong-san">
+                <img src="/images/email.gif" /><span class="btnEmai"
+                    id="531701">Email</span></a><a href="/print/531701/print.htm"><img
+                        src="/images/print.gif" /><span>Print</span></a>
+        </div>
+        <br class="clearfloat" />
+        <div class="content_body_detail">
+            <table id="ctl00_MainContent_NewsDetailControl_rptNewsDetail" cellspacing="0" border="0">
+	<tr>
+		<td>
+                    <div class="subtitle_news_detail" style="color: #808080; font-size: 9pt; font-weight: bold">
+                        Thị trường bất động sản:
+                    </div>
+                    <div class="title_news_detail">
+                        Bao giờ hết u ám ?&nbsp;
+                    </div>
+                    <div style="float:left;font-size: small; color: Gray">
+                        01/12/2011 07:00
+                    </div>
+                    
+                    <div  style="color:#777777;float:left;padding-left:5px;">
+                           
+                           </div>
+                            
+                    <br class="clearfloat" />
+                    <div class="body">
+                        
+    <div style="font-weight:bold;color:#800000">Tin liên quan:</div>
+
+<div class='content_ul'><ul class="category_item_other"><li style='background:none'>»&nbsp;<a style='color:#000080' href="/newsdetail/Bat-dong-san/530446/thi-truong-bat-dong-san-chua-qua-con-bi-cuc.htm">Thị trường bất động sản: Chưa qua cơn "bĩ cực"&nbsp;</a></li><li style='background:none'>»&nbsp;<a style='color:#000080' href="/newsdetail/Bat-dong-san/528396/thi-truong-bat-dong-san-vi-sao-meo-mo.htm">Thị trường bất động sản: Vì sao méo mó?&nbsp;</a></li><li style='background:none'>»&nbsp;<a style='color:#000080' href="/newsdetail/Bat-dong-san/515138/tin-dung-cho-bat-dong-san-co-cho-that-co-cho-can-noi.htm">Tín dụng cho bất động sản: Có chỗ “thắt”, có chỗ cần “nới”&nbsp;</a></li></ul></div>
+                    </div>
+                    <div class="body_detail">
+                        <div style="text-align: justify"><strong>(HNM) - Thời điểm đầu năm 2011, kh&ocirc;ng &iacute;t chuy&ecirc;n gia đ&atilde; đưa ra kịch bản lạc quan, thị trường bất động sản (BĐS) vẫn tiếp tục ph&aacute;t triển bất chấp những dấu hiệu kh&oacute; khăn của nền kinh tế n&oacute;i chung. Tuy nhi&ecirc;n, tr&ecirc;n thực tế, lạm ph&aacute;t, ch&iacute;nh s&aacute;ch t&agrave;i ch&iacute;nh tiền tệ thắt chặt... đ&atilde; khiến thị trường BĐS rơi v&agrave;o trầm lắng. Thậm ch&iacute;, khi n&agrave;o thị trường hồi phục vẫn l&agrave; dấu hỏi lớn.</strong><br />
+&nbsp;</div>
+<div style="text-align: center"><img height="267" width="400" alt="" src="/Uploads/anhthu/2011/12/1/bds.jpg" /></div>
+<div style="text-align: center"><span style="color: rgb(0,0,255)">Thiếu vốn, thị trường bất động sản trầm lắng. Ảnh: B&aacute; Hoạt</span></div>
+<div style="text-align: justify"><br />
+<strong>Thiếu vốn, thị trường ảm đạm</strong><br />
+<br />
+L&yacute; do chuy&ecirc;n gia dự b&aacute;o thị trường BĐS tiếp tục ph&aacute;t triển trong năm 2011 l&agrave; thị trường v&agrave;ng, ngoại tệ đ&atilde; c&oacute; những l&uacute;c chao đảo, mất phương hướng. T&acirc;m l&yacute; thiếu an to&agrave;n đ&atilde; khiến kh&ocirc;ng &iacute;t nh&agrave; đầu tư nắm giữ nguồn vốn lớn, được dự b&aacute;o sẽ chuyển sang thị trường BĐS. Th&ecirc;m nữa, t&iacute;nh hiệu quả v&agrave; khả năng sinh lời lớn của thị trường BĐS cũng được coi l&agrave; động lực để giữ thị trường tiếp tục s&ocirc;i động. Thực tế đ&atilde; c&oacute; l&uacute;c ph&acirc;n kh&uacute;c đất nền ngoại &ocirc;, chung cư c&oacute; diện t&iacute;ch vừa phải h&uacute;t kh&aacute; mạnh nguồn vốn. Tuy nhi&ecirc;n, diễn biến thị trường đ&atilde; kh&ocirc;ng như kỳ vọng. <br />
+<br />
+Thị trường BĐS năm 2011 l&agrave; k&ecirc;nh đầu tư nhiều kh&oacute; khăn, thiếu vốn, sức cầu hạn chế v&agrave; t&iacute;nh thanh khoản chậm. Đ&atilde; kh&ocirc;ng c&oacute; d&ograve;ng tiền lớn chảy từ v&agrave;ng, ngoại tệ sang BĐS như nhiều người nghĩ, bởi khi tiền đồng mất gi&aacute;, nền kinh tế vĩ m&ocirc; thiếu ổn định, người d&acirc;n đ&atilde; kh&ocirc;ng chọn BĐS l&agrave; k&ecirc;nh đầu tư v&igrave; lo ngại thanh khoản k&eacute;m. Hơn nữa, trong bối cảnh đ&oacute;, v&agrave;ng v&agrave; ngoại tệ vẫn được coi l&agrave; phương tiện thanh to&aacute;n v&agrave; t&iacute;ch trữ của người d&acirc;n. Người d&acirc;n vẫn tiếp tục giữ v&agrave;ng, ngoại tệ cho đến khi niềm tin v&agrave;o tiền đồng quay trở lại, trong khi l&atilde;i suất ng&acirc;n h&agrave;ng tăng l&ecirc;n hơn 20%/năm. Mức l&atilde;i suất cao khiến cho hầu như kh&ocirc;ng DN n&agrave;o k&yacute; được hợp đồng t&iacute;n dụng mới, thậm ch&iacute; hợp đồng t&iacute;n dụng cũ cũng kh&ocirc;ng được giải ng&acirc;n tiếp. Người d&acirc;n c&oacute; nhu cầu nh&agrave; ở thực sự kh&oacute; tiếp cận được nguồn vốn vay từ ng&acirc;n h&agrave;ng để mua nh&agrave;. <br />
+<br />
+Ảnh hưởng của d&ograve;ng tiền eo hẹp đ&atilde; t&aacute;c động mạnh đến t&iacute;nh thanh khoản của thị trường. Tại TP Hồ Ch&iacute; Minh, nơi c&oacute; tỷ lệ vay ng&acirc;n h&agrave;ng trong lĩnh vực BĐS cao nhất, thị trường gần như đứng im. Tại H&agrave; Nội, mặc d&ugrave; tỷ lệ vay của người d&acirc;n với BĐS &iacute;t hơn nhưng thị trường giao dịch chuyển nhượng đất nền cũng lao đao, nhiều dự &aacute;n đất nền ven đ&ocirc; sau khi tăng n&oacute;ng đ&atilde; phải b&aacute;n th&aacute;o với mức giảm s&acirc;u. Với ph&acirc;n kh&uacute;c nh&agrave; chung cư, từ thời điểm th&aacute;ng 6-2011, đ&atilde; c&oacute; xu hướng giảm gi&aacute; r&otilde; rệt. Kh&ocirc;ng &iacute;t dự &aacute;n, tuy kh&ocirc;ng tuy&ecirc;n bố giảm gi&aacute;, song d&ugrave;ng chi&ecirc;u chiết khấu (thực chất cũng l&agrave; h&igrave;nh thức giảm gi&aacute;) để k&eacute;o kh&aacute;ch h&agrave;ng. Trong giới đầu cơ, đến kỳ đ&aacute;o hạn ng&acirc;n h&agrave;ng đ&atilde; xuất hiện l&agrave;n s&oacute;ng b&aacute;n th&aacute;o do kh&ocirc;ng chịu được &quot;nhiệt&quot; l&atilde;i suất vay, tuy nhi&ecirc;n giao dịch hết sức chậm. <br />
+<br />
+<strong>Phụ thuộc qu&aacute; nhiều v&agrave;o ng&acirc;n h&agrave;ng</strong><br />
+<br />
+Thiếu nguồn vốn, phụ thuộc qu&aacute; nhiều v&agrave;o ng&acirc;n h&agrave;ng, thiếu c&aacute;c k&ecirc;nh vốn hữu hiệu kh&aacute;c l&agrave; nhược điểm lớn nhất của thị trường BĐS, kh&ocirc;ng chỉ v&agrave;o thời điểm n&agrave;y m&agrave; đ&atilde; được nhắc đến từ nhiều năm trước. GS.TSKH Đặng H&ugrave;ng V&otilde; tổng kết, từ năm 2006 thị trường BĐS tăng ch&oacute;ng mặt cho đến cuối năm 2008 khi nền kinh tế rơi v&agrave;o lạm ph&aacute;t buộc Ch&iacute;nh phủ phải thắt chặt tiền tệ. Thời điểm đ&oacute;, nh&agrave; đất c&oacute; biểu hiện giảm gi&aacute; v&agrave; chậm giao dịch do d&ograve;ng tiền bị chặn lại, song đ&agrave; trầm lắng chỉ k&eacute;o d&agrave;i khoảng nửa năm khi nền kinh tế từ lạm ph&aacute;t chuyển sang suy giảm buộc Ch&iacute;nh phủ cũng phải chuyển từ trạng th&aacute;i thắt chặt sang nới lỏng để k&iacute;ch th&iacute;ch tăng trưởng. Một g&oacute;i k&iacute;ch cầu được đưa ra, thị trường BĐS như được tiếp th&ecirc;m hơi ấm đ&atilde; vực dậy rất nhanh. Gi&aacute; nh&agrave; đất từ giữa năm 2009 đến giữa năm 2010 tăng nhẹ cho đến khi lạm ph&aacute;t trở lại v&agrave;o qu&yacute; IV-2010. Đ&atilde; c&oacute; hai trạng th&aacute;i t&acirc;m l&yacute; tr&aacute;i ngược nhau xảy ra. Chủ đầu tư, thậm ch&iacute; cả nh&agrave; quản l&yacute; k&ecirc;u gọi kh&ocirc;ng n&ecirc;n coi thị trường BĐS l&agrave; khu vực phi sản xuất bởi thực tế c&aacute;c dự &aacute;n x&acirc;y dựng g&oacute;p phần tạo việc l&agrave;m cho lượng lớn lao động, th&uacute;c đẩy một số ng&agrave;nh c&ocirc;ng nghiệp VLXD ph&aacute;t triển. Luồng &yacute; kiến kh&aacute;c cho rằng, nhiệm vụ ưu ti&ecirc;n h&agrave;ng đầu l&agrave; kiềm chế lạm ph&aacute;t, ổn định kinh tế vĩ m&ocirc;, trong khi BĐS cũng l&agrave; một trong những nguy&ecirc;n nh&acirc;n tăng cung tiền tr&ecirc;n thị trường. V&igrave; thế, chuyển BĐS ra khỏi danh mục phi sản xuất l&agrave; phi l&yacute;. Thực tế, &quot;van&quot; t&iacute;n dụng BĐS đ&atilde; được kh&oacute;a chặt, chỉ c&oacute; số &iacute;t dự &aacute;n nh&agrave; cho người thu nhập thấp, nh&agrave; cho c&ocirc;ng nh&acirc;n, người ti&ecirc;u d&ugrave;ng vay mua nh&agrave; ở trả bằng tiền lương, tiền c&ocirc;ng&hellip; được đưa ra khỏi danh mục dự &aacute;n phi sản xuất. <br />
+<br />
+R&otilde; r&agrave;ng t&igrave;nh trạng hiện nay kh&ocirc;ng tạo t&acirc;m l&yacute; phấn khởi cho nh&agrave; đầu tư, song để t&igrave;m c&aacute;ch giải quyết phải c&oacute; c&aacute;i nh&igrave;n tổng thể bức tranh của nền kinh tế chứ kh&ocirc;ng phải v&igrave; lợi &iacute;ch ri&ecirc;ng. Nhiều nh&agrave; đầu tư đ&atilde; chủ động t&igrave;m giải ph&aacute;p m&agrave; kh&ocirc;ng bị động đợi Nh&agrave; nước can thiệp, như chuyển sang ph&acirc;n kh&uacute;c nhu cầu thực (nh&agrave; gi&aacute; thấp), giảm gi&aacute; nh&agrave; h&igrave;nh th&agrave;nh trong tương lai, chuyển nhượng dự &aacute;n tự chấm dứt cuộc chơi. Những giải ph&aacute;p n&agrave;y cũng l&agrave; qu&aacute; tr&igrave;nh tất yếu để hướng tới thị trường l&agrave;nh mạnh. Về l&acirc;u d&agrave;i, cần h&igrave;nh th&agrave;nh c&aacute;c h&igrave;nh thức t&iacute;n dụng nh&agrave; ở như quỹ tiết kiệm để hỗ trợ người lao động c&oacute; điều kiện mua nh&agrave; hoặc quỹ đầu tư t&iacute;n th&aacute;c BĐS để tạo th&ecirc;m nguồn cung vốn cho thị trường; ngăn chặn việc huy động vốn trong nước của nh&agrave; đầu tư nước ngo&agrave;i thay cho việc mang tiền v&agrave;o đầu tư như cam kết; x&acirc;y dựng cơ chế khai th&ocirc;ng nguồn vốn, tạo k&ecirc;nh dẫn tiền nh&agrave;n rỗi từ đ&oacute; c&oacute; nguồn t&agrave;i ch&iacute;nh d&agrave;i hạn thay v&igrave; nguồn vốn t&iacute;n dụng ng&acirc;n h&agrave;ng ngắn hạn hiện nay. Lạm ph&aacute;t đ&atilde; c&oacute; dấu hiệu giảm dần, song bao giờ thị trường BĐS hồi phục vẫn l&agrave; c&acirc;u hỏi lớn.</div>
+                    </div>
+                    <div class="author">
+                        <br />
+                        Khánh Khoa&nbsp;<span style="font-weight: normal; font-style: italic"></span>
+                    </div>
+                    <br class="clearfloat" />
+                </td>
+	</tr>
+</table>
+            
+            
+            
+            <br class="clearfloat" />
+        </div>
+        <div>
+            <span id="ctl00_MainContent_NewsDetailControl_lblDate"></span>
+        </div>
+        <div class="new_detail_adv">
+        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" name="wmode" height="78" width="470">
+<param name="movie" value="/Uploads/NCC/ads-tinbai/8-KinhTe-DauTu_478x70.swf">
+<param name="quality" value="high">
+<param name="wmode" value="transparent">
+<embed wmode="transparent" src="/Uploads/NCC/ads-tinbai/8-KinhTe-DauTu_478x70.swf" allowscriptaccess="always" type="application/x-shockwave-flash" height="78" width="470">
+</object>
+
+        </div>
+        <div style="padding:5px;">
+        <div style="display:block;">
+            <div class="news_detail_comment">
+                <a style="font-size:12px;text-transform:uppercase;font-weight:bold;font-family:Verdana,Arial;" href="#" id="slick-toggle">Xem phản hồi</a> | <a style="font-size:12px;text-transform:uppercase;font-weight:bold;font-family:Verdana,Arial;" href="#" id="slick-toggle-send">
+                    Gửi phản hồi</a>
+            </div>
+            <div class="content_comment">
+                <div class='content_category_news_title'>Ý KIẾN BẠN ĐỌC(0)</div><br class='clearfloat' /><div id='slickbox'></div>
+                <div id="sendcomment" style="padding-top: 10px">
+                    <div id="contenDiv" class="contenDiv">
+                        <table cellpadding="0" cellspacing="0" border="0" width="470px">
+                            <tr>
+                                <td>
+                                    <input value="Họ và Tên" onfocus="if(this.value=='Họ và Tên') this.value='';" onblur="if(this.value=='') this.value='Họ và Tên';"
+                                        type="text" name="txtName" id="txtName" class="adword-textbox"">
+                                </td>
+                                <td>
+                                    <input type="text" onfocus="if(this.value=='Email') this.value='';" onblur="if(this.value=='') this.value='Email';"
+                                        value="Email" name="txtEmail" id="txtEmail" class="adword-textbox">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="padding-top: 10px;">
+                                    <input type="text" onfocus="if(this.value=='Địa chỉ') this.value='';" onblur="if(this.value=='') this.value='Địa chỉ';"
+                                        value="Địa chỉ" name="txtAddress" id="txtAddress" class="adword-textbox"">
+                                </td>
+                                <td style="padding-top: 10px;">
+                                    <input type="text" onfocus="if(this.value=='Mã an toàn') this.value='';" onblur="if(this.value=='') this.value='Mã an toàn';"
+                                        value="Mã an toàn" name="txtValidCode" id="txtValidCode" class="adword-textbox2">
+                                    <span id="ctl00_MainContent_NewsDetailControl_lblCode" class="lbl_randomtext">NLHEUD</span>
+                                    <div style="display: none;">
+                                        <input name="ctl00$MainContent$NewsDetailControl$txtNewsCode" type="text" value="NLHEUD" id="ctl00_MainContent_NewsDetailControl_txtNewsCode" />
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" style="padding-top: 5px">
+                                    <textarea rows="10" name="txtAddedContent" id="txtAddedContent" cols="46" class="SForm"
+                                        style="width: 470px"></textarea>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2">
+                                    <input type="button" class="bg_button_send_comment2" onclick="getData('/CommentADD.aspx?newsID=531701','contenDiv')"
+                                        value="Gửi ý kiến">
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+    <div class="news_other_main">
+        <div class="content_category_news_title">
+            CÁC TIN KHÁC
+        </div>
+        <br class="clearfloat" />
+        <div class="list_news_other_item">
+            <ul class='category_item_other_main'><li><a href='/newsdetail/Bat-dong-san/531616/co-them-cong-ty-duong-sat-hoat-dong-trong-linh-vuc-bđs.htm' style='padding-right:5px'>Có thêm công ty đường sắt hoạt động trong lĩnh vực BĐS</a><span style='font-size:8pt'>(30/11/2011)</span></li><li><a href='/newsdetail/Bat-dong-san/531401/ba-vi-co-them-khu-nghi-duong-cao-cap-moi.htm' style='padding-right:5px'>Ba Vì: Có thêm khu nghỉ dưỡng cao cấp mới</a><span style='font-size:8pt'>(28/11/2011)</span></li><li><a href='/newsdetail/Bat-dong-san/531388/thi-truong-bat-dong-san-vn-van-thu-hut-nha-đtnn.htm' style='padding-right:5px'>Thị trường bất động sản VN vẫn thu hút nhà ĐTNN</a><span style='font-size:8pt'>(28/11/2011)</span></li><li><a href='/newsdetail/Bat-dong-san/531249/vinaliving-gioi-thieu-4-du-an-bat-dong-san-lon.htm' style='padding-right:5px'>VinaLiving giới thiệu 4 dự án bất động sản lớn</a><span style='font-size:8pt'>(26/11/2011)</span></li><li><a href='/newsdetail/Bat-dong-san/531240/khai-mac-trien-lam-quoc-te-bat-dong-san-vn-2011.htm' style='padding-right:5px'>Khai mạc Triển lãm quốc tế bất động sản VN 2011</a><span style='font-size:8pt'>(26/11/2011)</span></li><li><a href='/newsdetail/Bat-dong-san/531134/van-tin-dung-van-hep.htm' style='padding-right:5px'>“Van” tín dụng vẫn hẹp</a><span style='font-size:8pt'>(25/11/2011)</span></li><li><a href='/newsdetail/Bat-dong-san/531061/tp-hcm-lot-top-10-thanh-pho-chau-á-dau-tu-bđs-trien-vong.htm' style='padding-right:5px'>TP HCM lọt Top 10 thành phố châu Á đầu tư BĐS triển vọng</a><span style='font-size:8pt'>(24/11/2011)</span></li><li><a href='/newsdetail/Bat-dong-san/530954/them-mot-toa-nha-cao-25-tang-sap-hoan-thanh.htm' style='padding-right:5px'>Thêm một tòa nhà cao 25 tầng sắp hoàn thành</a><span style='font-size:8pt'>(23/11/2011)</span></li><li><a href='/newsdetail/Bat-dong-san/530446/thi-truong-bat-dong-san-chua-qua-con-bi-cuc.htm' style='padding-right:5px'>Thị trường bất động sản: Chưa qua cơn "bĩ cực"</a><span style='font-size:8pt'>(18/11/2011)</span></li><li><a href='/newsdetail/Bat-dong-san/530240/moi-dau-gia-quyen-su-dung-dat-o-khu-tran-trang-xa-ba-trai-huyen-ba-vi.htm' style='padding-right:5px'>Mời đấu giá quyền sử dụng đất ở khu Trân Tráng xã Ba Trại, huyện Ba Vì</a><span style='font-size:8pt'>(16/11/2011)</span></li><li><a href='/newsdetail/Bat-dong-san/530045/gioi-thieu-co-hoi-dau-tu-vao-thi-truong-bđs-vn.htm' style='padding-right:5px'>Giới thiệu cơ hội đầu tư vào thị trường BĐS VN</a><span style='font-size:8pt'>(14/11/2011)</span></li><li><a href='/newsdetail/Bat-dong-san/530016/the-oasis-club-house-chinh-thuc-di-vao-hoat-dong.htm' style='padding-right:5px'>“The Oasis Club House” chính thức đi vào hoạt động</a><span style='font-size:8pt'>(14/11/2011)</span></li><li><a href='/newsdetail/Bat-dong-san/529819/truyen-thong-bđs-va-cau-chuyen-thoi-quen-cua-nguoi-dung.htm' style='padding-right:5px'>Truyền thông BĐS và câu chuyện thói quen của người dùng</a><span style='font-size:8pt'>(11/11/2011)</span></li></ul>
+        </div>
+        <br class="clearfloat" />
+    </div>
+    <div id="news_search_datetime">
+        <div class="content_category_news_title">
+            XEM THEO NGÀY THÁNG
+        </div>
+        <br class="clearfloat" />
+       <div style="clear:both;float:left;width:100%;text-align:right;margin-top:10px">
+<script type="text/javascript">
+    $(function()
+    {
+        var d=new Date();
+        var currentYear=d.getFullYear();
+        $("select[id$=cboYear]").empty();
+        for(i=currentYear;i>=currentYear-5;i--)
+        {
+            $("select[id$=cboYear]").append("<option value='"+i+"'>"+i+"</option>");
+        }
+    });
+</script>
+Xem tin theo ngày: &nbsp;
+<select name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$cboDay" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_cboDay">
+	<option selected="selected" value="1">1</option>
+	<option value="2">2</option>
+	<option value="3">3</option>
+	<option value="4">4</option>
+	<option value="5">5</option>
+	<option value="6">6</option>
+	<option value="7">7</option>
+	<option value="8">8</option>
+	<option value="9">9</option>
+	<option value="10">10</option>
+	<option value="11">11</option>
+	<option value="12">12</option>
+	<option value="13">13</option>
+	<option value="14">14</option>
+	<option value="15">15</option>
+	<option value="16">16</option>
+	<option value="17">17</option>
+	<option value="18">18</option>
+	<option value="19">19</option>
+	<option value="20">20</option>
+	<option value="21">21</option>
+	<option value="22">22</option>
+	<option value="23">23</option>
+	<option value="24">24</option>
+	<option value="25">25</option>
+	<option value="26">26</option>
+	<option value="27">27</option>
+	<option value="28">28</option>
+	<option value="29">29</option>
+	<option value="30">30</option>
+	<option value="31">31</option>
+</select>
+<select name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$cboMonth" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_cboMonth">
+	<option value="1">Th&#225;ng 1</option>
+	<option value="2">Th&#225;ng 2</option>
+	<option value="3">Th&#225;ng 3</option>
+	<option value="4">Th&#225;ng 4</option>
+	<option value="5">Th&#225;ng 5</option>
+	<option value="6">Th&#225;ng 6</option>
+	<option value="7">Th&#225;ng 7</option>
+	<option value="8">Th&#225;ng 8</option>
+	<option value="9">Th&#225;ng 9</option>
+	<option value="10">Th&#225;ng 10</option>
+	<option value="11">Th&#225;ng 11</option>
+	<option selected="selected" value="12">Th&#225;ng 12</option>
+</select>
+<select name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$cboYear" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_cboYear">
+</select>
+<input type="submit" name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$btnView" value="Xem" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_btnView" />
+<br />
+</div>
+    </div>
+</div>
+
+                </div>
+                <div class="right_category_box">
+                           
+                            <div class="box_adv_newscategory">
+                                <div class="right_content_box_bottom_adv">
+                                <body topmargin="0" leftmargin="0">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#016A99" height="1">
+<tr><td height=1></td></tr>
+</table></body>
+
+                                </div>  
+                            </div>
+                            <div  style="float:right;padding-top:5px;display:none">
+                                  
+    <div style="font-weight:bold;color:#800000">Tin liên quan:</div>
+
+<div class='content_ul'><ul class="category_item_other"><li style='background:none'>»&nbsp;<a style='color:#000080' href="/newsdetail/Bat-dong-san/530446/thi-truong-bat-dong-san-chua-qua-con-bi-cuc.htm">Thị trường bất động sản: Chưa qua cơn "bĩ cực"&nbsp;</a></li><li style='background:none'>»&nbsp;<a style='color:#000080' href="/newsdetail/Bat-dong-san/528396/thi-truong-bat-dong-san-vi-sao-meo-mo.htm">Thị trường bất động sản: Vì sao méo mó?&nbsp;</a></li><li style='background:none'>»&nbsp;<a style='color:#000080' href="/newsdetail/Bat-dong-san/515138/tin-dung-cho-bat-dong-san-co-cho-that-co-cho-can-noi.htm">Tín dụng cho bất động sản: Có chỗ “thắt”, có chỗ cần “nới”&nbsp;</a></li></ul></div> 
+                             </div>
+                            <div id="Div1" style="float:right;padding-top:5px">
+                              <div id='box_flow' style='display:block'><div class='box_top_ovan'><!----></div><div class='box_center_ovan'><div class='box_news_event_title'><a href='#' class='content_news_main_link'>Tin mới nhận</a></div><div class='content_ul'><table cellpadding='0' cellspacing='0' border='0'><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Quy-hoach/531778/ha-noi-kien-nghi-bo-sung-2-du-an-trong-diem-thoat-nuoc.htm'><img style="display:none" src=""></a><a class='link_news_focus' href='/newsdetail/Quy-hoach/531778/ha-noi-kien-nghi-bo-sung-2-du-an-trong-diem-thoat-nuoc.htm'>Hà Nội: Kiến nghị bổ sung 2 dự án trọng điểm thoát nước</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Chung-khoan/531773/chúng-khoán-toàn-càu-nhảy-vọt.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/12/1/ckhoan.jpg"></a><a  class='link_news_focus' href='/newsdetail/Chung-khoan/531773/chúng-khoán-toàn-càu-nhảy-vọt.htm'>Chứng khoán toàn cầu nhảy vọt</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Bat-dong-san/531757/yeu-cau-truy-thu-20-dat-cong-ich-tai-cac-khu-do-thi.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/12/1/datdothi.jpg"></a><a class='link_news_focus' href='/newsdetail/Bat-dong-san/531757/yeu-cau-truy-thu-20-dat-cong-ich-tai-cac-khu-do-thi.htm'>Yêu cầu “truy thu” 20% đất công ích tại các khu đô thị</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Kinh-te/531753/ro-tin-don-tran-lai-suat-ve-12-mot-nam.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/12/1/lai-suat-.jpg"></a><a  class='link_news_focus' href='/newsdetail/Kinh-te/531753/ro-tin-don-tran-lai-suat-ve-12-mot-nam.htm'>Rộ tin đồn trần lãi suất về 12% một năm</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Chung-khoan/531750/huy-dong-thanh-cong-2500-ty-dong-trai-phieu.htm'><img style="display:none" src=""></a><a class='link_news_focus' href='/newsdetail/Chung-khoan/531750/huy-dong-thanh-cong-2500-ty-dong-trai-phieu.htm'>Huy động thành công 2.500 tỷ đồng trái phiếu</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Kinh-te/531748/bidv-danh-5000-ty-dong-cho-vay-xuat-khau-voi-lai-suat-thap.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/Ngo%20Huong/NH/bidv(2).jpg"></a><a  class='link_news_focus' href='/newsdetail/Kinh-te/531748/bidv-danh-5000-ty-dong-cho-vay-xuat-khau-voi-lai-suat-thap.htm'>BIDV dành 5.000 tỷ đồng cho vay xuất khẩu với lãi suất thấp</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Chung-khoan/531746/vnindex-lui-tiep-ve-sat-moc-380-diem.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/Ngo%20Huong/CK/ck(1).jpg"></a><a class='link_news_focus' href='/newsdetail/Chung-khoan/531746/vnindex-lui-tiep-ve-sat-moc-380-diem.htm'>Vn-Index lùi tiếp về sát mốc 380 điểm</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Kinh-te/531741/gia-gas-thang-12-lai-tang-nhe.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/12/1/ga.jpg"></a><a  class='link_news_focus' href='/newsdetail/Kinh-te/531741/gia-gas-thang-12-lai-tang-nhe.htm'>Giá gas tháng 12 lại tăng nhẹ</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Kinh-te/531739/200-dn-tham-gia-hoi-cho-trien-lam-quoc-te.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/12/Thumbnails01262011102650Tlam1.jpg"></a><a class='link_news_focus' href='/newsdetail/Kinh-te/531739/200-dn-tham-gia-hoi-cho-trien-lam-quoc-te.htm'>200 DN tham gia Hội chợ triển lãm quốc tế</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Kinh-te/531728/vang-tang-vot-len-muc-4560-trieu-dong.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/Ngo%20Huong/VANG/18-11n.jpg"></a><a  class='link_news_focus' href='/newsdetail/Kinh-te/531728/vang-tang-vot-len-muc-4560-trieu-dong.htm'>Vàng tăng vọt lên mức 45,60 triệu đồng</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Thuong-hieu-DN/531725/vietinbank-chung-tay-chong-lu.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/12/1/VIETINBANK-2.jpg"></a><a class='link_news_focus' href='/newsdetail/Thuong-hieu-DN/531725/vietinbank-chung-tay-chong-lu.htm'>VietinBank chung tay chống lũ</a><br class='clearfloat'></div></div></td></table></div></div><div class='box_bottom_ovan'><!----></div></div>
+                            </div>
+                            <div  style="float:right;padding-top:5px">
+                                  <div id='center_box' style='display:none'><div class='box_top_ovan'><!----></div><div class='box_center_ovan'><div class='box_news_event_title'><a href='#' class='content_news_main_link'>Theo dòng sự kiện</a></div><div class='box_news_event_content'></div></div><div class='box_bottom_ovan'><!----></div></div> 
+                             </div>
+                            <div id="box_flow" style="float:right;">
+                              <div id='box_flow' style='display:block'><div class='box_top_ovan'><!----></div><div class='box_center_ovan'><div class='box_news_event_title'><a href='#' class='content_news_main_link'>Tiêu điểm</a></div><div class='content_ul'><table cellpadding='0' cellspacing='0' border='0'><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Bat-dong-san/531701/bao-gio-het-u-am-.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/12/1/bds.jpg"></a><a class='link_news_focus' href='/newsdetail/Bat-dong-san/531701/bao-gio-het-u-am-.htm'>Bao giờ hết u ám ?</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Bat-dong-san/531616/co-them-cong-ty-duong-sat-hoat-dong-trong-linh-vuc-bđs.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails30292011022905dsat.jpg"></a><a  class='link_news_focus' href='/newsdetail/Bat-dong-san/531616/co-them-cong-ty-duong-sat-hoat-dong-trong-linh-vuc-bđs.htm'>Có thêm công ty đường sắt hoạt động trong lĩnh vực BĐS</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Bat-dong-san/531401/ba-vi-co-them-khu-nghi-duong-cao-cap-moi.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails28412011024137bavi1.jpg"></a><a class='link_news_focus' href='/newsdetail/Bat-dong-san/531401/ba-vi-co-them-khu-nghi-duong-cao-cap-moi.htm'>Ba Vì: Có thêm khu nghỉ dưỡng cao cấp mới </a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Bat-dong-san/531388/thi-truong-bat-dong-san-vn-van-thu-hut-nha-đtnn.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails28542011105441BDS.jpg"></a><a  class='link_news_focus' href='/newsdetail/Bat-dong-san/531388/thi-truong-bat-dong-san-vn-van-thu-hut-nha-đtnn.htm'>Thị trường bất động sản VN vẫn thu hút nhà ĐTNN</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Bat-dong-san/531240/khai-mac-trien-lam-quoc-te-bat-dong-san-vn-2011.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails26322011053233untitled.png"></a><a class='link_news_focus' href='/newsdetail/Bat-dong-san/531240/khai-mac-trien-lam-quoc-te-bat-dong-san-vn-2011.htm'>Khai mạc Triển lãm quốc tế bất động sản VN 2011</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Bat-dong-san/531134/van-tin-dung-van-hep.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/11/25/BDS.jpg"></a><a  class='link_news_focus' href='/newsdetail/Bat-dong-san/531134/van-tin-dung-van-hep.htm'>“Van” tín dụng vẫn hẹp</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Bat-dong-san/531061/tp-hcm-lot-top-10-thanh-pho-chau-á-dau-tu-bđs-trien-vong.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/11/24/hcm.jpg"></a><a class='link_news_focus' href='/newsdetail/Bat-dong-san/531061/tp-hcm-lot-top-10-thanh-pho-chau-á-dau-tu-bđs-trien-vong.htm'>TP HCM lọt Top 10 thành phố châu Á đầu tư BĐS triển vọng</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Bat-dong-san/530954/them-mot-toa-nha-cao-25-tang-sap-hoan-thanh.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails23132011041314ICON4a.jpg"></a><a  class='link_news_focus' href='/newsdetail/Bat-dong-san/530954/them-mot-toa-nha-cao-25-tang-sap-hoan-thanh.htm'>Thêm một tòa nhà cao 25 tầng sắp hoàn thành</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Bat-dong-san/530446/thi-truong-bat-dong-san-chua-qua-con-bi-cuc.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/11/18/HOTAU.jpg"></a><a class='link_news_focus' href='/newsdetail/Bat-dong-san/530446/thi-truong-bat-dong-san-chua-qua-con-bi-cuc.htm'>Thị trường bất động sản: Chưa qua cơn "bĩ cực"</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Bat-dong-san/530240/moi-dau-gia-quyen-su-dung-dat-o-khu-tran-trang-xa-ba-trai-huyen-ba-vi.htm'><img style="display:none" src=""></a><a  class='link_news_focus' href='/newsdetail/Bat-dong-san/530240/moi-dau-gia-quyen-su-dung-dat-o-khu-tran-trang-xa-ba-trai-huyen-ba-vi.htm'>Mời đấu giá quyền sử dụng đất ở khu Trân Tráng xã Ba Trại, huyện Ba Vì</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Bat-dong-san/530045/gioi-thieu-co-hoi-dau-tu-vao-thi-truong-bđs-vn.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails14362011033629pacific-place-hanoi(2)a.jpg"></a><a class='link_news_focus' href='/newsdetail/Bat-dong-san/530045/gioi-thieu-co-hoi-dau-tu-vao-thi-truong-bđs-vn.htm'>Giới thiệu cơ hội đầu tư vào thị trường BĐS VN</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Bat-dong-san/529604/tu-20112015-ha-noi-tap-trung-dau-tu-93-du-an-trong-diem.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails09352011113536cau.jpg"></a><a  class='link_news_focus' href='/newsdetail/Bat-dong-san/529604/tu-20112015-ha-noi-tap-trung-dau-tu-93-du-an-trong-diem.htm'>Từ 2011-2015: Hà Nội tập trung đầu tư 93 dự án trọng điểm</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Bat-dong-san/529587/giam-dien-tich-can-ho-mo-rong-dien-nguoi-mua-nha-thu-nhap-thap.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/11/9/nhaocn.jpg"></a><a class='link_news_focus' href='/newsdetail/Bat-dong-san/529587/giam-dien-tich-can-ho-mo-rong-dien-nguoi-mua-nha-thu-nhap-thap.htm'>Giảm diện tích căn hộ, mở rộng diện người mua nhà thu nhập thấp</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Bat-dong-san/529246/khoi-cong-xay-dung-nha-may-san-xuat-amon-nitrat-tai-thai-binh.htm'><img style="display:none" src=""></a><a  class='link_news_focus' href='/newsdetail/Bat-dong-san/529246/khoi-cong-xay-dung-nha-may-san-xuat-amon-nitrat-tai-thai-binh.htm'>Khởi công xây dựng Nhà máy Sản xuất Amôn Nitrat tại Thái Bình</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Bat-dong-san/529230/tap-doan-the-ascott-ky-hop-dong-quan-ly-đao-kim-cuong.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails06502011065024a-diamond-8.jpg"></a><a class='link_news_focus' href='/newsdetail/Bat-dong-san/529230/tap-doan-the-ascott-ky-hop-dong-quan-ly-đao-kim-cuong.htm'>Tập đoàn The Ascott ký hợp đồng quản lý Đảo Kim Cương</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Bat-dong-san/528929/811-boc-tham-mua-can-ho-du-an-petrovietnam-landmark.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/trongquang/2011/11/2/a12.jpg"></a><a  class='link_news_focus' href='/newsdetail/Bat-dong-san/528929/811-boc-tham-mua-can-ho-du-an-petrovietnam-landmark.htm'>8/11: Bốc thăm mua căn hộ dự án Petrovietnam Landmark</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Bat-dong-san/528909/nhin-ve-cac-du-an-moi-nhat-nhan-duoc-von-vay-oda-cua-nhat-ban.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails02412011074151duanlt.gif"></a><a class='link_news_focus' href='/newsdetail/Bat-dong-san/528909/nhin-ve-cac-du-an-moi-nhat-nhan-duoc-von-vay-oda-cua-nhat-ban.htm'>Nhìn về các dự án mới nhất nhận được vốn vay ODA của Nhật Bản</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Bat-dong-san/528587/khai-truong-hyatt-regency-danang-resort-and-spa-tai-vn.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails30502011035041HRD_Regency_Pool_day_HR_CMYK---resized.jpg"></a><a  class='link_news_focus' href='/newsdetail/Bat-dong-san/528587/khai-truong-hyatt-regency-danang-resort-and-spa-tai-vn.htm'>Khai trương Hyatt Regency Danang Resort and Spa tại VN</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Bat-dong-san/528427/du-an-hoa-binh-green-city-chinh-thuc-khai-truong-nha-mau.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails28362011023645nmau1.jpg"></a><a class='link_news_focus' href='/newsdetail/Bat-dong-san/528427/du-an-hoa-binh-green-city-chinh-thuc-khai-truong-nha-mau.htm'>Dự án Hoa Binh Green City: Chính thức khai trương nhà mẫu</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Bat-dong-san/528415/đat-nam-an-khánh-giam-gia-chi-con-30-trieum2.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/10/28/ankhanh.jpg"></a><a  class='link_news_focus' href='/newsdetail/Bat-dong-san/528415/đat-nam-an-khánh-giam-gia-chi-con-30-trieum2.htm'>Đất Nam An Khánh giảm giá chỉ còn 30 triệu/m2</a><br class='clearfloat'></div></div></td></tr></table></div></div><div class='box_bottom_ovan'><!----></div></div>
+                            </div>
+                            
+                            <div class="box_adv_newscategory">
+                              <div class="right_content_box_bottom_adv">
+                                <br>
+
+                               </div>  
+                            </div>
+                        </div>
+           </div>
+           <div class="right_news_category_box">
+              <ul class="right_content_box_adv_main">
+                    <li>
+                    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" name="wmode" height="360" width="180">
+    <param name="movie" value="/Uploads/NCC/2011-NBN/ads-homepage/songkhoe180x360.swf">
+                  <param name="quality" value="high">
+                  <param name="wmode" value="transparent">
+                 <embed wmode="transparent" src="/Uploads/NCC/2011-NBN/ads-homepage/songkhoe180x360.swf" allowscriptaccess="always" type="application/x-shockwave-flash" height="360" width="180">
+</object>
+
+                    </li>
+                    <li>
+                    <a href="/newsdetail/Van-hoa/424354/%C4%91on-doc-ha-noi-ngay-nay-so-1-bo-moi.htm">
+<img src="/Uploads/NCC/2011/ads-homepage/HN-Ngaynay.jpg" border="0">
+</a>
+
+                    </li>
+                    <li>
+                    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" name="wmode" height="180" width="180">
+<param name="movie" value="/Uploads/NCC/ads-homepage/4D-homeduhoc_180x180.swf">
+<param name="quality" value="high">
+<param name="wmode" value="transparent">
+<embed wmode="transparent" src="/Uploads/NCC/ads-homepage/4D-homeduhoc_180x180.swf" allowscriptaccess="always" type="application/x-shockwave-flash" height="180" width="180">
+</object>
+
+                    </li>
+                    <li>
+                    <object width="180" height="180" name="wmode" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+    <param value="/Uploads/NCC/ads-homepage/4A-chuyenmuckinhte_180x180.swf" name="movie">
+                  <param value="high" name="quality">
+                  <param value="transparent" name="wmode">
+                 <embed width="180" height="180" type="application/x-shockwave-flash" allowscriptaccess="always" src="/Uploads/NCC/ads-homepage/4A-chuyenmuckinhte_180x180.swf" wmode="transparent">
+</object>
+
+                    </li>
+                 
+                </ul>
+           </div> 
+        </div>
+      </div>
+
+            <div id="footer">
+                <div id="footer_wrap">
+                    <div class="menu">
+                        <div class="tabsmenuclass">
+                            <ul class='menutop'>
+                                <li><a href=''>Trang chủ</a></li>
+                                <li><a href='/contact/contact.htm'>
+                                    <img width='10px' height='11px' style='border: 0px none; float: left; margin-top: 10px;'
+                                        src='/images/icon01.png' />&nbsp;Liên hệ tòa soạn</a></li>
+                                <li><a onclick='setHomepage();' href='javascript:void(0);'>
+                                    <img width='12px' height='9px' style='border: 0px none; float: left; margin-top: 10px;'
+                                        src='/images/icon02.png' />&nbsp;Đặt HNM làm trang chủ</a></li>
+                                <li><a href='/Modules/NewsLetter/NewsLetterRegister.aspx'>
+                                    <img width='12px' height='9px' style='border: 0px none; float: left; margin-top: 10px;'
+                                        src='/images/icon03.png' />&nbsp;Đăng ký nhận tin mới</a></li>
+                                <li>
+                                    <select name="ctl00$ddlWebLink" id="ctl00_ddlWebLink" onchange="window.open(this.value)" style="float: left; margin: 5px 20px 0 180px;">
+	<option value="Liên kết Website">Li&#234;n kết Website</option>
+	<option value="http://www.dangcongsan.vn">B&#225;o Điện tử Đảng CSVN</option>
+	<option value="http://www.nhandan.com.vn">B&#225;o Nh&#226;n D&#226;n</option>
+	<option value="http://www.vietnamplus.vn">TTXVN</option>
+	<option value="http://www.cuocsongvantuoidep.vn">&quot;Cuộc sống vẫn tươi đẹp&quot; tr&#234;n VTV4</option>
+	<option value="http://chinhphu.vn">Website Ch&#237;nh phủ</option>
+	<option value="http://www.na.gov.vn">Quốc hội Việt Nam</option>
+	<option value="http://www.vnexpress.net">VnExpress</option>
+	<option value="http://www.vnn.vn">Vietnamnet</option>
+	<option value="http://tienphong.vn">Tiền Phong</option>
+	<option value="http://www.tuoitre.com.vn">Tuổi trẻ</option>
+	<option value="http://www.anninhthudo.vn">An ninh Thủ đ&#244;</option>
+	<option value="http://www.nld.com.vn">B&#225;o Người Lao Động</option>
+	<option value="http://www.baothuathienhue.vn/">B&#225;o Thừa Thi&#234;n Huế</option>
+	<option value="http://www.baobinhthuan.com.vn">B&#225;o B&#236;nh Thuận</option>
+
+</select>
+                                </li>
+                                <li><a href="#top" style="margin: 0; padding: 0 5px 0 5px; color: white; font-weight: bold">
+                                    Về đầu trang</a> </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="footer_text">
+                        Bản quyền © 2003-2010 Báo Hànộimới - CQCQ: Thành ủy Hà Nội<br/>
+                        Giấy phép số 1123/GP-BTTTT, cấp ngày: 21/7/2011. Tổng biên tập: TÔ QUANG PHÁN<br/>
+                        Địa chỉ: 44 Lê Thái Tổ - Hà Nội . ĐT (04) 38253067 – 39287445 . Fax: (04) 39287445 . Email:<a style='color:blue' href='mailto:webmaster@hanoimoi.com.vn'>webmaster@hanoimoi.com.vn</a><br/>
+                        Ghi rõ nguồn "Báo Hànộimới" khi phát hành lại thông tin từ website này.
+                  </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+
+    <script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12223163-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
