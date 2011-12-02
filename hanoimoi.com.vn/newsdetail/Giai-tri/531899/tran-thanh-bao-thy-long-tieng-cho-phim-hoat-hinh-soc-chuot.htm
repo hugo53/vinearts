@@ -1,0 +1,730 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><link href="../../../App_Themes/Hanoimoi/Contact.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/mouseovertabs.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/newscategory.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/newsdetail.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/stylehome.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/thickbox.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/Top_Tip.css" type="text/css" rel="stylesheet" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta http-equiv="refresh" content="600" /><title>
+	
+        Trấn Thành, Bảo Thy lồng tiếng cho phim hoạt hình Sóc Chuột 
+</title><link href="/Client/slide/featuredcontentglider.css" rel="stylesheet" type="text/css" /><link href="/Client/jquery.ui.tab/css/flick/jquery-ui-1.7.2.custom.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        body
+        {
+            margin: 0px;
+            padding: 0px 0px 60px;
+            background: #FFFFFF no-repeat fixed center 0px;
+        }
+        .divFixed
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            left: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixed_R
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            right: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixedBg_IE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_RIE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_IE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+        .divFixedBg_RIE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+    </style>
+    <script language="JavaScript" type="text/javascript"> 
+//    function LoadImages(s,c)
+//    {
+//   
+//        s.getAttribute("loi")==null?s.setAttribute("loi","1"):s.setAttribute("loi",eval(s.getAttribute("loi"))+1);
+//        if(eval(s.getAttribute("loi"))>=2){c=c.substr(c.lastIndexOf("=")+1,c.length-c.lastIndexOf("="));
+//        s.onerror=null;s.src="/App_Themes/Default/Images/no_image_"+c+".jpg"}
+//        else s.src=c
+//    }
+     function returnUrl12() {
+            var key = document.getElementById('txt_search')
+	       
+            if (key.value.length != 0) {
+                location= "/NewsSearch.aspx?keyword=" + encodeURIComponent(key.value);
+		return false;	
+            }
+            else {
+                alert("Cần nhập từ khóa để tìm kiếm");
+                document.getElementById('txt_search').focus();
+                return false;
+            }
+        }
+    </script>
+  <link href="/StyleSheets/Poll/style.css" rel="stylesheet" type="text/css" /><link rel="shortcut icon" href="../../../Images/hanoimoi.ico" />
+    <script src="/Scripts/jquery.js" type="text/javascript"></script>
+    <script src="/Scripts/AdsFloat.js" type="text/javascript"></script>
+    <script src="/Client/slide/featuredcontentglider2.js" type="text/javascript"></script>    
+    <script src="/Scripts/jquery.query.js" type="text/javascript"></script>
+    <script src="/Scripts/swfobject.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/Scripts/hanoimoi.js"></script>
+    <script src="/Client/jquery.ui.tab/js/jquery-ui-1.7.2.tab.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/Scripts/thickbox-compressed.js"></script>
+	<script type="text/javascript" src="http://media.adnetwork.vn/js/adnetwork.js"></script>
+    
+    
+   
+
+    <!--###################End Tooltip##########################-->
+    <style type="text/css">
+        .highlight
+        {
+            background: yellow;
+            color: black;
+            text-decoration: none;
+        }
+        #dhtmltooltip
+        {
+            position: absolute;
+            left: -300px;
+            width: 150px;
+            border: 1px solid black;
+            padding: 2px;
+            background-color: lightyellow;
+            visibility: hidden;
+            z-index: 9999 !important; /*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+            filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+        }
+        #dhtmlpointer
+        {
+            position: absolute;
+            left: -300px;
+            z-index: 99999 !important;
+            visibility: hidden;
+        }
+        body
+        {
+            margin: 0px;
+            padding: 0px 0px 60px;
+            background: #FFFFFF url(/Customize/ExtendBanner/bg_tgdd_0410.jpg) no-repeat fixed center 0px;
+        }
+        .divFixed
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            left: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixed_R
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            right: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixedBg_IE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_RIE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_IE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+        .divFixedBg_RIE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+    </style>
+
+    <script type="text/javascript" src="/Scripts/ActiveX_Template.js"></script>
+    
+    
+    </head>
+<body style="margin:0; padding:0;">
+    <form name="aspnetForm" method="post" action="tran-thanh-bao-thy-long-tieng-cho-phim-hoat-hinh-soc-chuot.htm" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1MDgyNDE3ODRkZDUMgGPNrWI9XWqaTgW7FsJyQ5h1" />
+
+
+<script src="/ScriptResource.axd?d=ucfKiS5hKotNSM3yziglDyK1_0fzeD3AtsoGUCtmcQiXzxMUgvmQ-UCq4KqoYO_4AhmNwQAveoZv2RlyAhbM8LoN9Rkp8LhxeRUBGt3OBO-La-DuJPe0M6itK47wTdnYKcfKQEENlATCdb2WVTNo8ZFIilBCLTx-RHEIXuoVVXNGIC_T0&amp;t=ffffffffea696f7c" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWFQKTrKqHCALiydb3BgKA4oCQBQKPs5q3DQKzqrHfCAKIzPeOAQKLwJnaCgLU4dDxBwLhocvvAwLV48O+CwLUpYXRBwLG+9tdAtHP1+4MAvTq4aQDAurX1ecJAvfgtPQMAt3E+90MAtuu0ogPAtO368wBAtiWq7sNAueVloQCFiI6Kal3y3sNAm10KFBxZ5ZrfSo=" />
+        <!-- Quang cao 2 ben trang -->
+    <div id="divResult"></div>
+    
+
+ 
+    <div >
+        
+        <div id="main_body" >
+            <div id="top">
+                <div class="wrapbar" id="dvBanner">
+                    <div class="left_logo">
+                        <a href="#">
+                            <img alt="" src="/images/hanoimoi_logo.png" border="0" /></a>
+                    </div>
+                    <div class="right_adv">
+                       <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" 
+codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="640" height="87" name="wmode">
+    <param name="movie" value="/Uploads/NCC/ads-homepage/netdepnguoithudo.swf">
+                  <param name="quality" value="high">
+                  <param name="wmode" value="transparent">
+                 <embed wmode="transparent" src="/Uploads/NCC/ads-homepage/netdepnguoithudo.swf" allowscriptaccess="always" type="application/x-shockwave-flash" width="640" height="87"></embed>
+</object>
+
+                    </div>
+                </div>
+                <div id="dvTopMenu">
+                    <div class="wrapbar">
+                        <div class="menu_content2">
+                            <div id="mytabsmenu" class="tabsmenuclass">
+                                <ul class="menutop"><li><a href="/index.htm" rel="gotsubmenu[selected]">Trang chủ</a></li><li><a id='Chinh-tri' rel="gotsubmenu" href="/categoryparent/192/Chinh-tri.htm">Chính trị</a></li><li><a id='Xa-hoi' rel="gotsubmenu" href="/categoryparent/163/Xa-hoi.htm">Xã hội</a></li><li><a id='Kinh-te' rel="gotsubmenu" href="/categoryparent/190/Kinh-te.htm">Kinh tế</a></li><li><a id='The-gioi' rel="gotsubmenu" href="/categoryparent/189/The-gioi.htm">Thế giới</a></li><li><a id='Van-hoa' rel="gotsubmenu[selected]" href="/categoryparent/179/Van-hoa.htm">Văn hóa</a></li><li><a id='The-thao' rel="gotsubmenu" href="/categoryparent/170/The-thao.htm">Thể thao</a></li><li><a id='Giao-duc' rel="gotsubmenu" href="/categoryparent/164/Giao-duc.htm">Giáo dục</a></li><li><a id='1000_nam_thang_long' rel="gotsubmenu" href="/categoryparent/204/1000_nam_thang_long.htm">Thăng Long - Hà Nội</a></li><li><a id='Phap-luat' rel="gotsubmenu" href="/categoryparent/175/Phap-luat.htm">Pháp luật</a></li><li><a id='Khoa-hoc' rel="gotsubmenu" href="/categoryparent/100/Khoa-hoc.htm">Khoa học</a></li><li><a id='Doi-song' rel="gotsubmenu" href="/categoryparent/224/Doi-song.htm">Đời sống</a></li></ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="wrapbar">
+                        <div class="menu_boder_left">
+                            <!---->
+                        </div>
+                        <div class="sub_menu_content">
+                            <div id="mysubmenuarea" class="tabsmenucontentclass">
+                                <!--1st link within submenu container should point to the external submenu contents file-->
+                                <a href="/submenucontents.aspx" style="visibility: hidden">
+                                    Sub Menu contents</a>
+                            </div>
+
+                            <script type="text/javascript">
+                                //mouseovertabsmenu.init("tabs_container_id", "submenu_container_id", "bool_hidecontentsmouseout")
+                                mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
+
+                            </script>
+
+                        </div>
+                        <div class="menu_boder_right">
+                            <!---->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+
+<div id="main_wrap">
+        <div class="wrapbar">
+           <div class="left_news_category_box">
+                <div class="left_category_news">
+                    
+
+<script language="javascript" type="text/javascript">
+    $(function() {
+
+        // hides the slickbox as soon as the DOM is ready
+        // (a little sooner than page load)
+        $('#slickbox').hide();
+        $('#sendcomment').hide();
+        // shows the slickbox on clicking the noted link  
+        $('a#slick-show').click(function() {
+            $('#slickbox').show('slow');
+            return false;
+        });
+        $(".btnEmai").click(function() {
+            var pID = $(this).attr("id");
+            var pShortName = $(this).parent().attr("id");
+            tb_show('Kết quả bình luận', '/PrintNews.aspx?newsID=' + pID + '&shortname=' + pShortName + '&no_refresh=1&TB_iframe=true&height=430&width=450&modal=true');
+            return false;
+        });
+        // hides the slickbox on clicking the noted link  
+        $('a#slick-hide').click(function() {
+            $('#slickbox').hide('fast');
+            return false;
+        });
+
+        // toggles the slickbox on clicking the noted link  
+        $('a#slick-toggle').click(function() {
+            $('#slickbox').toggle(400);
+            return false;
+        });
+        // toggles the slickbox on clicking the noted link  
+        $('a#slick-toggle-send').click(function() {
+            $('#sendcomment').toggle(400);
+            return false;
+        });
+        $(".keyword").live('click', function() {
+            location='/NewsSearch.aspx?keyword='+$.trim($(this).html());
+            return false;
+        });
+    });
+</script>
+
+<div class="content_category_news">
+    <div class="content_category_news_title">
+        <a id="ctl00_MainContent_NewsDetailControl_lnkNameCategory"></a>
+        <span class='content_category_news_title_parent'><a href='/categoryparent/179/Van-hoa.htm' class='parentCatTitle' rel='Van-hoa' style='font-family:Arial;color:#0066CC;font-weight:bold;font-size:12px;text-transform:uppercase;'>Văn hóa</a>&nbsp;>&nbsp;<a style='font-family:Arial;color:#0066CC;font-weight:bold;font-size:11px;text-transform:uppercase;' href='/newscategory/226/Giai-tri.htm'>Giải trí</a></span>
+    </div>
+    <div class="content_category_news_dot">
+    </div>
+    <br class="clearfloat" />
+    <div class="content_news_detail">
+        <div class="icon_print_email">
+            <a href="#" id="Giai-tri">
+                <img src="/images/email.gif" /><span class="btnEmai"
+                    id="531899">Email</span></a><a href="/print/531899/print.htm"><img
+                        src="/images/print.gif" /><span>Print</span></a>
+        </div>
+        <br class="clearfloat" />
+        <div class="content_body_detail">
+            <table id="ctl00_MainContent_NewsDetailControl_rptNewsDetail" cellspacing="0" border="0">
+	<tr>
+		<td>
+                    <div class="subtitle_news_detail" style="color: #808080; font-size: 9pt; font-weight: bold">
+                        
+                    </div>
+                    <div class="title_news_detail">
+                        Trấn Thành, Bảo Thy lồng tiếng cho phim hoạt hình Sóc Chuột &nbsp;<img border='0' align='top'  width='20px' height='14px' src=/images/photo.gif>
+                    </div>
+                    <div style="float:left;font-size: small; color: Gray">
+                        02/12/2011 15:14
+                    </div>
+                    
+                    <div  style="color:#777777;float:left;padding-left:5px;">
+                           
+                           
+                            | Từ khóa :
+                           
+                            <a href="#" style="color:blue;font-size:8pt" class="keyword">Trấn Thành</a>
+                            
+                           ,
+                           
+                            <a href="#" style="color:blue;font-size:8pt" class="keyword"> hoạt hình</a>
+                            
+                           ,
+                           
+                            <a href="#" style="color:blue;font-size:8pt" class="keyword"> lồng tiếng</a>
+                            </div>
+                            
+                    <br class="clearfloat" />
+                    <div class="body">
+                        
+    <div style="font-weight:bold;color:#800000">Tin liên quan:</div>
+
+<div class='content_ul'><ul class="category_item_other"><li style='background:none'>»&nbsp;<a style='color:#000080' href="/newsdetail/Giai-tri/526650/ca-sy-đam-vinh-hung-se-vao-vai-chu-meo-di-hia-puss.htm">Ca sỹ Đàm Vĩnh Hưng sẽ vào vai chú "Mèo đi hia" Puss&nbsp;</a></li><li style='background:none'>»&nbsp;<a style='color:#000080' href="/newsdetail/Giai-tri/516873/nsưt-thanh-loc-vao-vai-xi-trum3d-phien-ban-long-tieng-viet.htm">NSƯT Thành Lộc vào vai “Xì Trum”3D phiên bản lồng tiếng Việt&nbsp;<img border='0' align='top'  width='20px' height='14px' src=/images/photo.gif></a></li><li style='background:none'>»&nbsp;<a style='color:#000080' href="/newsdetail/Giai-tri/484373/phim-hoat-hinh-3d-rio-long-tieng-viet.htm">Phim hoạt hình 3D “Rio” lồng tiếng Việt&nbsp;</a></li></ul></div>
+                    </div>
+                    <div class="body_detail">
+                        <table border="0" cellspacing="1" cellpadding="4" width="200" align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center"><img alt="" align="middle" width="266" height="400" src="/Uploads/tuyetminh/2011/12/2/2-TranThanh.jpg" /></td>
+        </tr>
+    </tbody>
+</table>
+<div style="text-align: center"><span style="color: #0000ff">MC Trấn Th&agrave;nh v&agrave; tạo h&igrave;nh nh&acirc;n vật Alvin</span></div>
+<div style="text-align: justify"><br />
+<strong>(HNMO)- M&ugrave;a Gi&aacute;ng sinh năm nay c&ograve;n c&oacute; ti&ecirc;́ng hát, ti&ecirc;́ng cười c&ugrave;ng c&acirc;u chuy&ecirc;̣n đ&acirc;̀y cảm đ&ocirc;̣ng của 3 chú sóc chu&ocirc;̣t Alvin, Simon, Theodore v&agrave; b&ocirc;̣ 3 &ldquo;đ&ocirc;́i thủ&rdquo; xinh xắn: Brittany, Jeanette và Eleanor của bộ phim hoạt h&igrave;nh &ldquo;Alvin &amp; the Chipmunks 3&rdquo; sẽ ngập tr&agrave;n c&aacute;c rạp chiếu phim tr&ecirc;n to&agrave;n thế giới.</strong><br />
+<br />
+Đặc biệt, phi&ecirc;n bản tiếng Việt bộ phim hoạt h&igrave;nh hấp dẫn n&agrave;y sẽ c&oacute; sự tham gia lồng tiếng của MC Tr&acirc;́n Thành v&agrave; ca sĩ Bảo Thy. Bộ phim &ldquo;Alvin &amp; the Chipmunks 3&rdquo; được c&ocirc;ng chi&ecirc;́u vào ngày 23/12, sẽ m&oacute;n qu&agrave; Gi&aacute;ng sinh tuyệt vời cho mọi gia đ&igrave;nh.<br />
+<br />
+Kh&ocirc;ng chỉ trổ t&agrave;i ca h&aacute;t trong chương tr&igrave;nh Cặp đ&ocirc;i ho&agrave;n hảo, MC Trấn Th&agrave;nh c&ograve;n trổ t&agrave;i lồng tiếng cho nh&acirc;n vật s&oacute;c chuột Alvin trong bộ phim hoạt h&igrave;nh nổi tiếng &ldquo;Alvin &amp; the Chipmunks 3&rdquo;. Ca sỹ Bảo Thy sẽ tham gia lồng tiếng cho nh&acirc;n vật thứ 2 l&agrave; c&ocirc; s&oacute;c chuột xinh xắn Britanny.<br />
+<br />
+&nbsp;</div>
+<table border="0" cellspacing="1" cellpadding="4" width="200" align="center">
+    <tbody>
+        <tr>
+            <td><img alt="" align="middle" width="266" height="400" src="/Uploads/tuyetminh/2011/12/2/2-Bao-Thy.jpg" /></td>
+        </tr>
+    </tbody>
+</table>
+<div style="text-align: center"><span style="color: #0000ff">Ca sỹ Bảo Thy v&agrave; tạo h&igrave;nh c&ocirc; s&oacute;c chuột xinh xắn Britanny</span></div>
+<div style="text-align: justify"><br />
+<br />
+Xuất hiện lần đầu năm 2007, những chú sóc chu&ocirc;̣t bi&ecirc;́t hát đã ngay lập tức chinh phục tr&aacute;i tim của kh&aacute;n giả mọi lứa tuổi bởi sự ngộ nghĩnh, dễ thương c&ugrave;ng những b&agrave;i h&aacute;t vui nhộn v&agrave; thời thượng. C&acirc;u n&oacute;i quen thuộc &ldquo;Chúng ta là bạn&rdquo;, &ldquo;Chúng ta là gia đình&rdquo; v&agrave; những c&acirc;u chuyện thấm đượm chất nh&acirc;n văn của những ch&uacute; s&oacute;c nh&iacute; cũng l&agrave; c&aacute;c yếu tố khiến kh&aacute;n giả th&ecirc;m say m&ecirc; v&agrave; cảm động.<br />
+<br />
+Giờ đ&acirc;y, những ch&uacute; sóc chu&ocirc;̣t &ldquo;si&ecirc;u qu&acirc;̣y&rdquo; sắp trở lại Việt Nam. B&ecirc;n cạnh c&aacute;c phi&ecirc;n bản phụ đề, kh&aacute;n giả c&oacute; th&ecirc;m sự lựa chọn với phi&ecirc;n bản l&ocirc;̀ng ti&ecirc;́ng Vi&ecirc;̣t c&ugrave;ng sự góp mặt của hai ch&acirc;́t giọng đang được y&ecirc;u m&ecirc;́n: ca sĩ Bảo Thy và MC Tr&acirc;́n Thành. C&aacute;c kh&aacute;n giả nh&iacute; chắc chắn sẽ rất hạnh ph&uacute;c khi nghe những người bạn th&acirc;n thiết của m&igrave;nh l&agrave; Alvin, Simon hay Theodore&hellip; n&oacute;i chuyện với nhau bằng tiếng Việt &ndash; thứ tiếng gần gũi v&agrave; th&acirc;n thương với c&aacute;c em trong cuộc sống h&agrave;ng ng&agrave;y. <br />
+<br />
+&nbsp;</div>
+<table border="0" cellspacing="1" cellpadding="4" width="200" align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center"><img alt="" align="middle" width="400" height="266" src="/Uploads/tuyetminh/2011/12/2/2-TranThanh2.jpg" /></td>
+        </tr>
+    </tbody>
+</table>
+<div style="text-align: justify"><br />
+<br />
+Sau th&agrave;nh c&ocirc;ng ngo&agrave;i sức tưởng tượng của dự &aacute;n lồng tiếng Việt đầu ti&ecirc;n cho bộ phim Rio, MegaStar nhận thấy nhu c&acirc;̀u được trải nghi&ecirc;̣m v&agrave; thưởng thức trọn vẹn những tác ph&acirc;̉m điện ảnh hay của thế giới bằng tiếng mẹ đẻ của kh&aacute;n giả l&agrave; rất lớn. Kh&ocirc;ng chỉ vậy sự h&agrave;o hứng của c&aacute;c diễn vi&ecirc;n khi tham gia những dự &aacute;n c&oacute; sự gi&aacute;m s&aacute;t chặt chẽ của những studio lớn từ Hollywood cũng đ&atilde; tạo n&ecirc;n động lực để ch&uacute;ng t&ocirc;i ti&ecirc;́p tục t&acirc;m huyết đầu tư cho c&aacute;c bộ phim tiếp theo. Những con số sẽ kh&ocirc;ng dừng lại khi m&agrave; sau Rio, những ng&agrave;y n&agrave;y, kh&aacute;n giả khắp cả nước đang nồng nhiệt đ&oacute;n nhận M&egrave;o Đi Hia - b&ocirc;̣ phim đang l&agrave; t&acirc;m điểm tại c&aacute;c rạp chiếu phim với phi&ecirc;n bản lồng tiếng Việt do ca sỹ Đ&agrave;m Vĩnh Hưng thủ vai ch&iacute;nh.<br />
+<br />
+&ldquo;Alvin &amp; the Chipmunks 3&rdquo; sẽ vui nhộn, đ&aacute;ng y&ecirc;u như vốn c&oacute; bởi ca sĩ Bảo Thy v&agrave; MC Trấn Th&agrave;nh l&agrave; hai gương mặt c&oacute; phong c&aacute;ch trẻ trung, ph&ugrave; hợp với hai &ldquo;thủ lĩnh&rdquo; của nh&oacute;m s&oacute;c chuột: Britanny v&agrave; Alvin. Cũng giống như c&aacute;c diễn vi&ecirc;n đ&atilde; từng tham gia những dự &aacute;n lồng tiếng trước đ&acirc;y của MegaStar, Bảo Thy v&agrave; Trấn Th&agrave;nh phải tham gia qu&aacute; tr&igrave;nh casting lồng tiếng gắt gao với nhi&ecirc;̀u t&ecirc;n tu&ocirc;̉i có th&acirc;m ni&ecirc;n trong ngh&ecirc;̀. Cuối c&ugrave;ng, cả hai đã được h&atilde;ng Fox c&ugrave;ng MegaStar ch&iacute;nh thức mời h&oacute;a th&acirc;n th&agrave;nh hai nh&acirc;n vật được cả thế giới y&ecirc;u mến. Trấn Th&agrave;nh trong vai Alvin v&agrave; Bảo Thy trong vai Britanny. Có lẽ c&ocirc;ng vi&ecirc;̣c mới mẻ này sẽ kh&ocirc;ng quá khó đối với họ bởi hai người đ&ecirc;̀u sở hữu ch&acirc;́t giọng tuyệt vời.<br />
+<br />
+&nbsp;</div>
+<table border="0" cellspacing="1" cellpadding="4" width="200" align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center"><img alt="" align="middle" width="400" height="300" src="/Uploads/tuyetminh/2011/12/2/2-Long_Tieng.jpg" /></td>
+        </tr>
+    </tbody>
+</table>
+<div style="text-align: justify"><br />
+<br />
+Nh&acirc;n dịp n&agrave;y, MegarStar cũng tổ chức chương tr&igrave;nh &ldquo;Thử t&agrave;i lồng tiếng&rdquo; d&agrave;nh cho kh&aacute;n giả cơ hội th&uacute; vị khi thử h&oacute;a th&acirc;n v&agrave;o c&aacute;c nh&acirc;n vật m&igrave;nh y&ecirc;u th&iacute;ch, th&iacute;ch lồng tiếng, m&ecirc; sóc chu&ocirc;̣t v&agrave; mu&ocirc;́n thử thách chính mình tại MegaStar H&ugrave;ng Vương Plaza (TP.HCM) v&agrave; MegaStar Vincom City Towers (H&agrave; nội). <br />
+<br />
+C&aacute;c v&ograve;ng thi sẽ được tổ chức li&ecirc;n tục v&agrave;o các ngày thứ 7, Chủ nh&acirc;̣t hàng tu&acirc;̀n từ ngày 03/12/2011. Tham gia chương trình, khán giả sẽ có cơ h&ocirc;̣i giao lưu với Britanny &ndash; Bảo Thy, Alvin - Tr&acirc;́n Thành, c&aacute;c diễn vi&ecirc;n lồng tiếng cùng các đạo di&ecirc;̃n l&ocirc;̀ng ti&ecirc;́ng n&ocirc;̉i ti&ecirc;́ng. Hơn thế, kh&aacute;n giả c&ograve;n c&oacute; cơ hội nhận những phần qu&agrave; độc đ&aacute;o, ch&iacute;nh hiệu đến từ ch&iacute;nh nh&agrave; sản xuất phim Alvin &amp; The Chipmunks 3, vé tham dự buổi lễ c&ocirc;ng chiếu hoành tráng cho cả gia đ&igrave;nh tại TP.HCM v&agrave; HN. Đặc bi&ecirc;̣t hơn cả, những diễn vi&ecirc;n nghiệp dư xuất sắc nhất chương tr&igrave;nh sẽ được góp giọng vào trailer l&ocirc;̀ng ti&ecirc;́ng Vi&ecirc;̣t phi&ecirc;n bản fan-made c&ugrave;ng Bảo Thy v&agrave; Tr&acirc;́n Thành. Trailer n&agrave;y sẽ được ph&aacute;t tại c&aacute;c cụm rạp MegaStar tr&ecirc;n to&agrave;n quốc để mọi người c&ugrave;ng thưởng thức. Một m&ugrave;a Gi&aacute;ng sinh &yacute; nghĩa hơn với Alvin &amp; The Chipmunks 3!<br />
+<br />
+&nbsp;</div>
+<table border="0" cellspacing="1" cellpadding="4" width="200" align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center"><img alt="" align="middle" width="400" height="298" src="/Uploads/tuyetminh/2011/12/2/2-Soc-chuot.jpg" /></td>
+        </tr>
+    </tbody>
+</table>
+<div style="text-align: justify"><br />
+<br />
+&ldquo;Alvin &amp; The Chipmunks 3&rdquo; l&agrave; tập tiếp theo của loạt phim c&ugrave;ng t&ecirc;n ra mắt v&agrave;o dịp Gi&aacute;ng sinh năm 2007 v&agrave; 2009. Những ch&uacute; s&oacute;c chuột đ&aacute;ng y&ecirc;u đ&atilde; đưa kh&aacute;n giả trải qua nhiều cung bậc cảm x&uacute;c bằng những c&acirc;u chuyện về gia đ&igrave;nh, về t&igrave;nh bạn qua ng&ocirc;n ngữ khi vui nhộn, khi ng&acirc;y thơ, khi s&acirc;u lắng. Điểm nhấn của loạt phim n&agrave;y c&ograve;n l&agrave; những b&agrave;i h&aacute;t, những giai điệu đang được y&ecirc;u th&iacute;ch trong h&agrave;ng loạt c&aacute;c bảng xếp hạng ca kh&uacute;c với sự thể hiện của c&aacute;c ca sỹ nổi tiếng thế giới. <br />
+<br />
+Gi&aacute;ng sinh năm nay, Alvin, Simon, Theodore v&agrave; c&aacute;c c&ocirc; n&agrave;ng trong nh&oacute;m Chipettes c&oacute; chuyến đi nghỉ tr&ecirc;n du thuyền sang trọng. Cả nh&oacute;m lại tiếp tục b&agrave;y tr&ograve; quậy ph&aacute; tưng bừng như thường lệ khi biến con t&agrave;u th&agrave;nh s&acirc;n chơi c&aacute; nh&acirc;n v&agrave; rồi lạc v&agrave;o một hoang đảo. Trong khi Dave Seville đi&ecirc;n cuồng t&igrave;m kiếm những ch&uacute; s&oacute;c chuột của m&igrave;nh th&igrave; những anh ch&agrave;ng, c&ocirc; n&agrave;ng s&oacute;c chuột cứ v&ocirc; tư ca h&aacute;t, khi&ecirc;u vũ v&agrave; t&agrave;n ph&aacute;. Ch&uacute;ng kh&ocirc;ng biết một bất ngờ lớn đang chờ đợi m&igrave;nh khi liều lĩnh tham gia v&agrave;o cuộc phi&ecirc;u lưu tr&ecirc;n đảo hoang với người một bạn mới &ndash; người chẳng biết những ng&ocirc;i sao s&oacute;c chuột l&agrave; ai.<br />
+<br />
+C&ugrave;ng đ&oacute;n Gi&aacute;ng sinh tr&ecirc;n biển với những ch&uacute; s&oacute;c chuột từ ng&agrave;y 23-12-2011.</div>
+                    </div>
+                    <div class="author">
+                        <br />
+                        T.Minh&nbsp;<span style="font-weight: normal; font-style: italic"></span>
+                    </div>
+                    <br class="clearfloat" />
+                </td>
+	</tr>
+</table>
+            
+            
+            
+            <br class="clearfloat" />
+        </div>
+        <div>
+            <span id="ctl00_MainContent_NewsDetailControl_lblDate"></span>
+        </div>
+        <div class="new_detail_adv">
+        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" name="wmode" height="78" width="470">
+<param name="movie" value="/Uploads/NCC/ads-tinbai/8-VanHoa-ThoiTrang_478x70.swf">
+<param name="quality" value="high">
+<param name="wmode" value="transparent">
+<embed wmode="transparent" src="/Uploads/NCC/ads-tinbai/8-VanHoa-ThoiTrang_478x70.swf" allowscriptaccess="always" type="application/x-shockwave-flash" height="78" width="470">
+</object>
+
+        </div>
+        <div style="padding:5px;">
+        <div style="display:block;">
+            <div class="news_detail_comment">
+                <a style="font-size:12px;text-transform:uppercase;font-weight:bold;font-family:Verdana,Arial;" href="#" id="slick-toggle">Xem phản hồi</a> | <a style="font-size:12px;text-transform:uppercase;font-weight:bold;font-family:Verdana,Arial;" href="#" id="slick-toggle-send">
+                    Gửi phản hồi</a>
+            </div>
+            <div class="content_comment">
+                <div class='content_category_news_title'>Ý KIẾN BẠN ĐỌC(0)</div><br class='clearfloat' /><div id='slickbox'></div>
+                <div id="sendcomment" style="padding-top: 10px">
+                    <div id="contenDiv" class="contenDiv">
+                        <table cellpadding="0" cellspacing="0" border="0" width="470px">
+                            <tr>
+                                <td>
+                                    <input value="Họ và Tên" onfocus="if(this.value=='Họ và Tên') this.value='';" onblur="if(this.value=='') this.value='Họ và Tên';"
+                                        type="text" name="txtName" id="txtName" class="adword-textbox"">
+                                </td>
+                                <td>
+                                    <input type="text" onfocus="if(this.value=='Email') this.value='';" onblur="if(this.value=='') this.value='Email';"
+                                        value="Email" name="txtEmail" id="txtEmail" class="adword-textbox">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="padding-top: 10px;">
+                                    <input type="text" onfocus="if(this.value=='Địa chỉ') this.value='';" onblur="if(this.value=='') this.value='Địa chỉ';"
+                                        value="Địa chỉ" name="txtAddress" id="txtAddress" class="adword-textbox"">
+                                </td>
+                                <td style="padding-top: 10px;">
+                                    <input type="text" onfocus="if(this.value=='Mã an toàn') this.value='';" onblur="if(this.value=='') this.value='Mã an toàn';"
+                                        value="Mã an toàn" name="txtValidCode" id="txtValidCode" class="adword-textbox2">
+                                    <span id="ctl00_MainContent_NewsDetailControl_lblCode" class="lbl_randomtext">BNJZHK</span>
+                                    <div style="display: none;">
+                                        <input name="ctl00$MainContent$NewsDetailControl$txtNewsCode" type="text" value="BNJZHK" id="ctl00_MainContent_NewsDetailControl_txtNewsCode" />
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" style="padding-top: 5px">
+                                    <textarea rows="10" name="txtAddedContent" id="txtAddedContent" cols="46" class="SForm"
+                                        style="width: 470px"></textarea>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2">
+                                    <input type="button" class="bg_button_send_comment2" onclick="getData('/CommentADD.aspx?newsID=531899','contenDiv')"
+                                        value="Gửi ý kiến">
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+    <div class="news_other_main">
+        <div class="content_category_news_title">
+            CÁC TIN KHÁC
+        </div>
+        <br class="clearfloat" />
+        <div class="list_news_other_item">
+            <ul class='category_item_other_main'><li><a href='/newsdetail/Giai-tri/531878/ho-hoai-anh-quay-tro-lai-voi-vi-tri-giam-khao-di-dong.htm' style='padding-right:5px'>Hồ Hoài Anh quay trở lại với vị trí “Giám khảo di động”</a><span style='font-size:8pt'>(02/12/2011)</span></li><li><a href='/newsdetail/Giai-tri/531770/love-story-tu-tieu-thuyet-len-man-anh.htm' style='padding-right:5px'>“Love Story” từ tiểu thuyết lên màn ảnh</a><span style='font-size:8pt'>(01/12/2011)</span></li><li><a href='/newsdetail/Giai-tri/531755/daniel-radcliffe-dan-dau-danh-sach-sao-giau-nhat-duoi-30.htm' style='padding-right:5px'>Daniel Radcliffe dẫn đầu danh sách sao giàu nhất dưới 30</a><span style='font-size:8pt'>(01/12/2011)</span></li><li><a href='/newsdetail/Giai-tri/531747/ca-si-zing-music-awards-tang-ao-am-cho-tre-em-vung-cao.htm' style='padding-right:5px'>Ca sĩ Zing Music Awards tặng áo ấm cho trẻ em vùng cao</a><span style='font-size:8pt'>(01/12/2011)</span></li><li><a href='/newsdetail/Giai-tri/531744/đoan-trangtran-thanh-chung-ket-som.htm' style='padding-right:5px'>Đoan Trang-Trấn Thành "chung kết" sớm</a><span style='font-size:8pt'>(01/12/2011)</span></li><li><a href='/newsdetail/Giai-tri/531699/buc-tuong-toa-nhiet-giua-mua-dong.htm' style='padding-right:5px'>Bức Tường tỏa “Nhiệt” giữa mùa đông</a><span style='font-size:8pt'>(01/12/2011)</span></li><li><a href='/newsdetail/Giai-tri/531639/sao-viet-du-tiec-cuoi-edward-va-bella.htm' style='padding-right:5px'>Sao Việt “dự” tiệc cưới Edward và Bella</a><span style='font-size:8pt'>(30/11/2011)</span></li><li><a href='/newsdetail/Giai-tri/531626/cac-cap-doi-se-hat-4-ca-khuc-trong-dem-chung-ket.htm' style='padding-right:5px'>Các cặp đôi sẽ hát 4 ca khúc trong đêm chung kết</a><span style='font-size:8pt'>(30/11/2011)</span></li><li><a href='/newsdetail/Giai-tri/531588/luc-sy-pham-van-mach-tinh-chuyen-hat-chuyen-nghiep.htm' style='padding-right:5px'>Lực sỹ Phạm Văn Mách tính chuyện hát chuyên nghiệp</a><span style='font-size:8pt'>(30/11/2011)</span></li><li><a href='/newsdetail/Giai-tri/531519/them-co-hoi-thi-vietnam’s-got-talent.htm' style='padding-right:5px'>Thêm cơ hội thi Vietnam’s Got Talent</a><span style='font-size:8pt'>(29/11/2011)</span></li><li><a href='/newsdetail/Giai-tri/531505/đam-cuoi-lung-linh-cua-bella-trong-hung-dong.htm' style='padding-right:5px'>Đám cưới lung linh của Bella trong 'Hừng đông'</a><span style='font-size:8pt'>(29/11/2011)</span></li><li><a href='/newsdetail/Giai-tri/531377/đoan-trang–tran-thanh-tiep-tuc-the-hien-chieu-doc-va-la.htm' style='padding-right:5px'>Đoan Trang–Trấn Thành tiếp tục thể hiện chiêu "độc và lạ"</a><span style='font-size:8pt'>(28/11/2011)</span></li><li><a href='/newsdetail/Giai-tri/531374/đoan-trang-đam-vinh-hung-tam-gac-cap-doi-hoan-hao-de-hat-ve-giang-sinh.htm' style='padding-right:5px'>Đoan Trang, Đàm Vĩnh Hưng tạm gác “Cặp đôi hoàn hảo” để hát về Giáng sinh</a><span style='font-size:8pt'>(28/11/2011)</span></li></ul>
+        </div>
+        <br class="clearfloat" />
+    </div>
+    <div id="news_search_datetime">
+        <div class="content_category_news_title">
+            XEM THEO NGÀY THÁNG
+        </div>
+        <br class="clearfloat" />
+       <div style="clear:both;float:left;width:100%;text-align:right;margin-top:10px">
+<script type="text/javascript">
+    $(function()
+    {
+        var d=new Date();
+        var currentYear=d.getFullYear();
+        $("select[id$=cboYear]").empty();
+        for(i=currentYear;i>=currentYear-5;i--)
+        {
+            $("select[id$=cboYear]").append("<option value='"+i+"'>"+i+"</option>");
+        }
+    });
+</script>
+Xem tin theo ngày: &nbsp;
+<select name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$cboDay" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_cboDay">
+	<option value="1">1</option>
+	<option selected="selected" value="2">2</option>
+	<option value="3">3</option>
+	<option value="4">4</option>
+	<option value="5">5</option>
+	<option value="6">6</option>
+	<option value="7">7</option>
+	<option value="8">8</option>
+	<option value="9">9</option>
+	<option value="10">10</option>
+	<option value="11">11</option>
+	<option value="12">12</option>
+	<option value="13">13</option>
+	<option value="14">14</option>
+	<option value="15">15</option>
+	<option value="16">16</option>
+	<option value="17">17</option>
+	<option value="18">18</option>
+	<option value="19">19</option>
+	<option value="20">20</option>
+	<option value="21">21</option>
+	<option value="22">22</option>
+	<option value="23">23</option>
+	<option value="24">24</option>
+	<option value="25">25</option>
+	<option value="26">26</option>
+	<option value="27">27</option>
+	<option value="28">28</option>
+	<option value="29">29</option>
+	<option value="30">30</option>
+	<option value="31">31</option>
+</select>
+<select name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$cboMonth" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_cboMonth">
+	<option value="1">Th&#225;ng 1</option>
+	<option value="2">Th&#225;ng 2</option>
+	<option value="3">Th&#225;ng 3</option>
+	<option value="4">Th&#225;ng 4</option>
+	<option value="5">Th&#225;ng 5</option>
+	<option value="6">Th&#225;ng 6</option>
+	<option value="7">Th&#225;ng 7</option>
+	<option value="8">Th&#225;ng 8</option>
+	<option value="9">Th&#225;ng 9</option>
+	<option value="10">Th&#225;ng 10</option>
+	<option value="11">Th&#225;ng 11</option>
+	<option selected="selected" value="12">Th&#225;ng 12</option>
+</select>
+<select name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$cboYear" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_cboYear">
+</select>
+<input type="submit" name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$btnView" value="Xem" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_btnView" />
+<br />
+</div>
+    </div>
+</div>
+
+                </div>
+                <div class="right_category_box">
+                           
+                            <div class="box_adv_newscategory">
+                                <div class="right_content_box_bottom_adv">
+                                <body topmargin="0" leftmargin="0">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#016A99" height="1">
+<tr><td height=1></td></tr>
+</table></body>
+
+                                </div>  
+                            </div>
+                            <div  style="float:right;padding-top:5px;display:none">
+                                  
+    <div style="font-weight:bold;color:#800000">Tin liên quan:</div>
+
+<div class='content_ul'><ul class="category_item_other"><li style='background:none'>»&nbsp;<a style='color:#000080' href="/newsdetail/Giai-tri/526650/ca-sy-đam-vinh-hung-se-vao-vai-chu-meo-di-hia-puss.htm">Ca sỹ Đàm Vĩnh Hưng sẽ vào vai chú "Mèo đi hia" Puss&nbsp;</a></li><li style='background:none'>»&nbsp;<a style='color:#000080' href="/newsdetail/Giai-tri/516873/nsưt-thanh-loc-vao-vai-xi-trum3d-phien-ban-long-tieng-viet.htm">NSƯT Thành Lộc vào vai “Xì Trum”3D phiên bản lồng tiếng Việt&nbsp;<img border='0' align='top'  width='20px' height='14px' src=/images/photo.gif></a></li><li style='background:none'>»&nbsp;<a style='color:#000080' href="/newsdetail/Giai-tri/484373/phim-hoat-hinh-3d-rio-long-tieng-viet.htm">Phim hoạt hình 3D “Rio” lồng tiếng Việt&nbsp;</a></li></ul></div> 
+                             </div>
+                            <div id="Div1" style="float:right;padding-top:5px">
+                              <div id='box_flow' style='display:block'><div class='box_top_ovan'><!----></div><div class='box_center_ovan'><div class='box_news_event_title'><a href='#' class='content_news_main_link'>Tin mới nhận</a></div><div class='content_ul'><table cellpadding='0' cellspacing='0' border='0'><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Van-hoa/531910/tuan-le-phim-đan-mach-tai-viet-nam.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/12/Thumbnails02202011052001tuanphimh.jpg"></a><a class='link_news_focus' href='/newsdetail/Van-hoa/531910/tuan-le-phim-đan-mach-tai-viet-nam.htm'>Tuần lễ phim Đan Mạch tại Việt Nam</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Thoi-trang/531907/top-8-vietnam’s-next-top-model-tap-dong-tvc-cho-samsung.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/12/Thumbnails020520110405562-Nextop.jpg"></a><a  class='link_news_focus' href='/newsdetail/Thoi-trang/531907/top-8-vietnam’s-next-top-model-tap-dong-tvc-cho-samsung.htm'>Top 8 Vietnam’s Next Top Model tập đóng TVC cho Samsung</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Giai-tri/531878/ho-hoai-anh-quay-tro-lai-voi-vi-tri-giam-khao-di-dong.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/12/Thumbnails02402011114043Ho-Hoai-Anh.jpg"></a><a class='link_news_focus' href='/newsdetail/Giai-tri/531878/ho-hoai-anh-quay-tro-lai-voi-vi-tri-giam-khao-di-dong.htm'>Hồ Hoài Anh quay trở lại với vị trí “Giám khảo di động”</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Van-hoa/531858/hanoi-dance-theatre-san-choi-moi-cho-mua.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/12/2/mua.jpg"></a><a  class='link_news_focus' href='/newsdetail/Van-hoa/531858/hanoi-dance-theatre-san-choi-moi-cho-mua.htm'>“Hanoi Dance Theatre”: Sân chơi mới cho múa</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Du-lich/531857/du-lich-va-hang-khong-manh-ai-nay-lam.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/12/2/dlich.jpg"></a><a class='link_news_focus' href='/newsdetail/Du-lich/531857/du-lich-va-hang-khong-manh-ai-nay-lam.htm'>Du lịch và hàng không: Mạnh ai nấy làm?</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Van-hoa/531856/thi-sinh-hoa-hau-cac-dan-toc-buoc-vao-vong-thi-chinh.htm'><img style="display:none" src=""></a><a  class='link_news_focus' href='/newsdetail/Van-hoa/531856/thi-sinh-hoa-hau-cac-dan-toc-buoc-vao-vong-thi-chinh.htm'>Thí sinh hoa hậu các dân tộc bước vào vòng thi chính</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Du-lich/531852/gia-ve-tham-quan-vinh-ha-long-da-duoc-dieu-chinh.htm'><img style="display:none" src=""></a><a class='link_news_focus' href='/newsdetail/Du-lich/531852/gia-ve-tham-quan-vinh-ha-long-da-duoc-dieu-chinh.htm'>Giá vé tham quan Vịnh Hạ Long đã được điều chỉnh</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Giai-tri/531770/love-story-tu-tieu-thuyet-len-man-anh.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/12/Thumbnails013920110439481_love_story.jpg"></a><a  class='link_news_focus' href='/newsdetail/Giai-tri/531770/love-story-tu-tieu-thuyet-len-man-anh.htm'>“Love Story” từ tiểu thuyết lên màn ảnh</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Thoi-trang/531761/tuyet-lan-va-nhung-no-luc-chinh-phuc-dinh-cao-moi.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/12/Thumbnails013420110334411-Lan1.jpg"></a><a class='link_news_focus' href='/newsdetail/Thoi-trang/531761/tuyet-lan-va-nhung-no-luc-chinh-phuc-dinh-cao-moi.htm'>Tuyết Lan và những nỗ lực “chinh phục” đỉnh cao mới</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Giai-tri/531755/daniel-radcliffe-dan-dau-danh-sach-sao-giau-nhat-duoi-30.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/12/1/daniel-radcliffe.jpg"></a><a  class='link_news_focus' href='/newsdetail/Giai-tri/531755/daniel-radcliffe-dan-dau-danh-sach-sao-giau-nhat-duoi-30.htm'>Daniel Radcliffe dẫn đầu danh sách sao giàu nhất dưới 30</a><br class='clearfloat'></div></div></td></tr></table></div></div><div class='box_bottom_ovan'><!----></div></div>
+                            </div>
+                            <div  style="float:right;padding-top:5px">
+                                  <div id='center_box' style='display:block'><div class='box_top_ovan'><!----></div><div class='box_center_ovan'><div class='box_news_event_title'><a href='#' class='content_news_main_link'>Theo dòng sự kiện</a></div><div class='box_news_event_content'><div class='news_event_content'><a href='/newsevent/2481.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=100&height=60&ImgFilePath=/Uploads/image/Flows/Thumbnails/2011/11/Thumbnails15472011094701.jpg">Xung quanh vụ việc cấp phép "Liveshow Chế Linh"</a><br class='clearfloat'></div><div class='news_event_content'><a href='/newsevent/1761.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=100&height=60&ImgFilePath=/Uploads/image/Flows/Thumbnails/2011/5/Thumbnails29262011082601.jpg">Thế giới showbiz và văn hóa ứng xử</a><br class='clearfloat'></div></div></div><div class='box_bottom_ovan'><!----></div></div> 
+                             </div>
+                            <div id="box_flow" style="float:right;">
+                              <div id='box_flow' style='display:block'><div class='box_top_ovan'><!----></div><div class='box_center_ovan'><div class='box_news_event_title'><a href='#' class='content_news_main_link'>Tiêu điểm</a></div><div class='content_ul'><table cellpadding='0' cellspacing='0' border='0'><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Giai-tri/531744/đoan-trangtran-thanh-chung-ket-som.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/12/1/tt-dt.jpg"></a><a class='link_news_focus' href='/newsdetail/Giai-tri/531744/đoan-trangtran-thanh-chung-ket-som.htm'>Đoan Trang-Trấn Thành "chung kết" sớm </a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Giai-tri/531639/sao-viet-du-tiec-cuoi-edward-va-bella.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails3039201106390730-Breaking-Dawn.jpg"></a><a  class='link_news_focus' href='/newsdetail/Giai-tri/531639/sao-viet-du-tiec-cuoi-edward-va-bella.htm'>Sao Việt “dự” tiệc cưới Edward và Bella</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Giai-tri/531519/them-co-hoi-thi-vietnam’s-got-talent.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails295020110550421.jpg"></a><a class='link_news_focus' href='/newsdetail/Giai-tri/531519/them-co-hoi-thi-vietnam’s-got-talent.htm'>Thêm cơ hội thi Vietnam’s Got Talent </a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Giai-tri/531505/đam-cuoi-lung-linh-cua-bella-trong-hung-dong.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/11/29/Bella-1.jpg"></a><a  class='link_news_focus' href='/newsdetail/Giai-tri/531505/đam-cuoi-lung-linh-cua-bella-trong-hung-dong.htm'>Đám cưới lung linh của Bella trong 'Hừng đông'</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Giai-tri/531377/đoan-trang–tran-thanh-tiep-tuc-the-hien-chieu-doc-va-la.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails28042011090437Trang-Thanh.jpg"></a><a class='link_news_focus' href='/newsdetail/Giai-tri/531377/đoan-trang–tran-thanh-tiep-tuc-the-hien-chieu-doc-va-la.htm'>Đoan Trang–Trấn Thành tiếp tục thể hiện chiêu "độc và lạ"</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Giai-tri/531374/đoan-trang-đam-vinh-hung-tam-gac-cap-doi-hoan-hao-de-hat-ve-giang-sinh.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails28292011082913sapo.jpg"></a><a  class='link_news_focus' href='/newsdetail/Giai-tri/531374/đoan-trang-đam-vinh-hung-tam-gac-cap-doi-hoan-hao-de-hat-ve-giang-sinh.htm'>Đoan Trang, Đàm Vĩnh Hưng tạm gác “Cặp đôi hoàn hảo” để hát về Giáng sinh</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Giai-tri/531221/canh-tranh-thi-phan-voi-bom-tan.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/11/26/Thien_Menh.jpg"></a><a class='link_news_focus' href='/newsdetail/Giai-tri/531221/canh-tranh-thi-phan-voi-bom-tan.htm'>Cạnh tranh thị phần với “bom tấn”</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Giai-tri/531174/phuong-thanh-–-siu-black-se-lam-no-tung-san-khau.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails2540201105405025-Siu-Chanh.jpg"></a><a  class='link_news_focus' href='/newsdetail/Giai-tri/531174/phuong-thanh-–-siu-black-se-lam-no-tung-san-khau.htm'>Phương Thanh – Siu Black sẽ làm “nổ tung” sân khấu</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Giai-tri/531060/jennifer-pham-se-ket-doi-voi-đuc-tuan.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails2442201103421424-Pham-Tuan.jpg"></a><a class='link_news_focus' href='/newsdetail/Giai-tri/531060/jennifer-pham-se-ket-doi-voi-đuc-tuan.htm'>Jennifer Phạm sẽ “kết đôi” với Đức Tuấn</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Giai-tri/530979/cap-đoi-hoan-hao-chuan-bi-buoc-vao-dem-thi-ban-ket.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails24182011121814cap-doi-hoan-hao-dem-6.jpg"></a><a  class='link_news_focus' href='/newsdetail/Giai-tri/530979/cap-đoi-hoan-hao-chuan-bi-buoc-vao-dem-thi-ban-ket.htm'>Cặp Đôi Hoàn Hảo chuẩn bị bước vào đêm thi bán kết </a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Giai-tri/530925/van-mai-huong-lam-giam-khao-clip-ngay-chung-doi.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails23482011094848Van-Mai-Huong-(4).jpg"></a><a class='link_news_focus' href='/newsdetail/Giai-tri/530925/van-mai-huong-lam-giam-khao-clip-ngay-chung-doi.htm'>Văn Mai Hương làm giám khảo clip “Ngày chung đôi” </a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Giai-tri/530860/in-time-–-khi-the-gioi-khong-tieu-bang-tien.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails2253201105533122-in-time.jpg"></a><a  class='link_news_focus' href='/newsdetail/Giai-tri/530860/in-time-–-khi-the-gioi-khong-tieu-bang-tien.htm'>“In time” – Khi thế giới không tiêu bằng tiền</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Giai-tri/530804/ca-si-đuc-tuan-them-mot-lan-choi-sang.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/11/22/casi.jpg"></a><a class='link_news_focus' href='/newsdetail/Giai-tri/530804/ca-si-đuc-tuan-them-mot-lan-choi-sang.htm'>Ca sĩ Đức Tuấn: Thêm một lần “chơi sang”</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Giai-tri/530737/nhung-bo-phim-hoat-hinh-du-nguoi-lon-den-rap.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails2153201103533521-Meo.jpg"></a><a  class='link_news_focus' href='/newsdetail/Giai-tri/530737/nhung-bo-phim-hoat-hinh-du-nguoi-lon-den-rap.htm'>Những bộ phim hoạt hình “dụ” người lớn đến rạp</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Giai-tri/530710/cap-doi-hoan-hao-tam-biet-luc-si-pham-van-mach.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails214920110849039.jpg"></a><a class='link_news_focus' href='/newsdetail/Giai-tri/530710/cap-doi-hoan-hao-tam-biet-luc-si-pham-van-mach.htm'>"Cặp đôi hoàn hảo" tạm biệt lực sĩ Phạm Văn Mách</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Giai-tri/530638/toi-nay-giam-khao-co-bi-hoa-mat-boi-chieu-tro.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails20582011095831sapo.jpg"></a><a  class='link_news_focus' href='/newsdetail/Giai-tri/530638/toi-nay-giam-khao-co-bi-hoa-mat-boi-chieu-tro.htm'>Tối nay, giám khảo có bị "hoa mắt" bởi chiêu trò?</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Giai-tri/530484/đao-dien-viet-tu-lam-vi-giam-khao-thu-4-cua-live-show-thu-6.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails18552011045520Viet-Tu-1.jpg"></a><a class='link_news_focus' href='/newsdetail/Giai-tri/530484/đao-dien-viet-tu-lam-vi-giam-khao-thu-4-cua-live-show-thu-6.htm'>Đạo diễn Việt Tú làm vị giám khảo thứ 4 của live show thứ 6</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Giai-tri/530386/rockstorm-–-bao-cam-xuc-tran-ve-hai-phong.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails17382011063811rosewood-1.jpg"></a><a  class='link_news_focus' href='/newsdetail/Giai-tri/530386/rockstorm-–-bao-cam-xuc-tran-ve-hai-phong.htm'>RockStorm – Bão cảm xúc tràn về Hải Phòng</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Giai-tri/530363/hoa-hau-aishwarya-rai-sinh-con-gai-dau-long.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/11/17/Aishwarya_Rai_1.jpg"></a><a class='link_news_focus' href='/newsdetail/Giai-tri/530363/hoa-hau-aishwarya-rai-sinh-con-gai-dau-long.htm'>Hoa hậu Aishwarya Rai sinh con gái đầu lòng</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Giai-tri/530172/cac-cap-doi-the-nghiem-voi-loai-nhac-acoustic-va-musical.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails1547201106470015-CDHH.jpg"></a><a  class='link_news_focus' href='/newsdetail/Giai-tri/530172/cac-cap-doi-the-nghiem-voi-loai-nhac-acoustic-va-musical.htm'>Các cặp đôi thể nghiệm với loại nhạc Acoustic và Musical</a><br class='clearfloat'></div></div></td></tr></table></div></div><div class='box_bottom_ovan'><!----></div></div>
+                            </div>
+                            
+                            <div class="box_adv_newscategory">
+                              <div class="right_content_box_bottom_adv">
+                                <br>
+
+                               </div>  
+                            </div>
+                        </div>
+           </div>
+           <div class="right_news_category_box">
+              <ul class="right_content_box_adv_main">
+                    <li>
+                    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" name="wmode" height="360" width="180">
+    <param name="movie" value="/Uploads/NCC/2011-NBN/ads-homepage/songkhoe180x360.swf">
+                  <param name="quality" value="high">
+                  <param name="wmode" value="transparent">
+                 <embed wmode="transparent" src="/Uploads/NCC/2011-NBN/ads-homepage/songkhoe180x360.swf" allowscriptaccess="always" type="application/x-shockwave-flash" height="360" width="180">
+</object>
+
+                    </li>
+                    <li>
+                    <a href="/newsdetail/Van-hoa/424354/%C4%91on-doc-ha-noi-ngay-nay-so-1-bo-moi.htm">
+<img src="/Uploads/NCC/2011/ads-homepage/HN-Ngaynay.jpg" border="0">
+</a>
+
+                    </li>
+                    <li>
+                    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" name="wmode" height="180" width="180">
+<param name="movie" value="/Uploads/NCC/ads-homepage/4D-homeduhoc_180x180.swf">
+<param name="quality" value="high">
+<param name="wmode" value="transparent">
+<embed wmode="transparent" src="/Uploads/NCC/ads-homepage/4D-homeduhoc_180x180.swf" allowscriptaccess="always" type="application/x-shockwave-flash" height="180" width="180">
+</object>
+
+                    </li>
+                    <li>
+                    <object width="180" height="180" name="wmode" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+    <param value="/Uploads/NCC/ads-homepage/4A-chuyenmuckinhte_180x180.swf" name="movie">
+                  <param value="high" name="quality">
+                  <param value="transparent" name="wmode">
+                 <embed width="180" height="180" type="application/x-shockwave-flash" allowscriptaccess="always" src="/Uploads/NCC/ads-homepage/4A-chuyenmuckinhte_180x180.swf" wmode="transparent">
+</object>
+
+                    </li>
+                 
+                </ul>
+           </div> 
+        </div>
+      </div>
+
+            <div id="footer">
+                <div id="footer_wrap">
+                    <div class="menu">
+                        <div class="tabsmenuclass">
+                            <ul class='menutop'>
+                                <li><a href=''>Trang chủ</a></li>
+                                <li><a href='/contact/contact.htm'>
+                                    <img width='10px' height='11px' style='border: 0px none; float: left; margin-top: 10px;'
+                                        src='/images/icon01.png' />&nbsp;Liên hệ tòa soạn</a></li>
+                                <li><a onclick='setHomepage();' href='javascript:void(0);'>
+                                    <img width='12px' height='9px' style='border: 0px none; float: left; margin-top: 10px;'
+                                        src='/images/icon02.png' />&nbsp;Đặt HNM làm trang chủ</a></li>
+                                <li><a href='/Modules/NewsLetter/NewsLetterRegister.aspx'>
+                                    <img width='12px' height='9px' style='border: 0px none; float: left; margin-top: 10px;'
+                                        src='/images/icon03.png' />&nbsp;Đăng ký nhận tin mới</a></li>
+                                <li>
+                                    <select name="ctl00$ddlWebLink" id="ctl00_ddlWebLink" onchange="window.open(this.value)" style="float: left; margin: 5px 20px 0 180px;">
+	<option value="Liên kết Website">Li&#234;n kết Website</option>
+	<option value="http://www.dangcongsan.vn">B&#225;o Điện tử Đảng CSVN</option>
+	<option value="http://www.nhandan.com.vn">B&#225;o Nh&#226;n D&#226;n</option>
+	<option value="http://www.vietnamplus.vn">TTXVN</option>
+	<option value="http://www.cuocsongvantuoidep.vn">&quot;Cuộc sống vẫn tươi đẹp&quot; tr&#234;n VTV4</option>
+	<option value="http://chinhphu.vn">Website Ch&#237;nh phủ</option>
+	<option value="http://www.na.gov.vn">Quốc hội Việt Nam</option>
+	<option value="http://www.vnexpress.net">VnExpress</option>
+	<option value="http://www.vnn.vn">Vietnamnet</option>
+	<option value="http://tienphong.vn">Tiền Phong</option>
+	<option value="http://www.tuoitre.com.vn">Tuổi trẻ</option>
+	<option value="http://www.anninhthudo.vn">An ninh Thủ đ&#244;</option>
+	<option value="http://www.nld.com.vn">B&#225;o Người Lao Động</option>
+	<option value="http://www.baothuathienhue.vn/">B&#225;o Thừa Thi&#234;n Huế</option>
+	<option value="http://www.baobinhthuan.com.vn">B&#225;o B&#236;nh Thuận</option>
+
+</select>
+                                </li>
+                                <li><a href="#top" style="margin: 0; padding: 0 5px 0 5px; color: white; font-weight: bold">
+                                    Về đầu trang</a> </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="footer_text">
+                        Bản quyền © 2003-2010 Báo Hànộimới - CQCQ: Thành ủy Hà Nội<br/>
+                        Giấy phép số 1123/GP-BTTTT, cấp ngày: 21/7/2011. Tổng biên tập: TÔ QUANG PHÁN<br/>
+                        Địa chỉ: 44 Lê Thái Tổ - Hà Nội . ĐT (04) 38253067 – 39287445 . Fax: (04) 39287445 . Email:<a style='color:blue' href='mailto:webmaster@hanoimoi.com.vn'>webmaster@hanoimoi.com.vn</a><br/>
+                        Ghi rõ nguồn "Báo Hànộimới" khi phát hành lại thông tin từ website này.
+                  </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+
+    <script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12223163-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
