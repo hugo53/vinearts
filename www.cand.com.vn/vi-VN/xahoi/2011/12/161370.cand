@@ -1,0 +1,1588 @@
+
+<HTML>
+	<HEAD>
+		<title id="StoryTitle">CAND Online | Trung t&#226;m Đ&#224;o tạo l&#225;i xe bị tố thu ph&#237; t&#249;y tiện - Trung tam Dao tao lai xe bi to thu phi tuy tien</title>
+		<meta id="description" content="Nhieu hoc vien hoc lop C, khoa 3 nam 2011 cua Trung tam Dao tao va Sat hach lai xe co gioi duong bo Tay Do (Trung tam Tay Do) da gui don phan anh ve viec thu chi tuy tien nhieu khoan phi xay ra tai co so nay.">
+		</meta>
+		<meta id="refresher" http-equiv="REFRESH" content="600">
+		</meta>
+		<meta content="JavaScript" name="vs_defaultClientScript">
+		<meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema">
+		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta content="INDEX,FOLLOW" name="robots">
+		<LINK href="/images/CAND/logo_icon.ico" rel="shortcut icon">
+		<script language="JavaScript" src="/JScripts/PopCalendar.js" type="text/javascript"></script>
+		<style>.quest_zone { FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; COLOR: #006; PADDING-TOP: 4px; FONT-FAMILY: Arial, verdana, Georgia, Times }
+	.asker_name { FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; COLOR: gray; PADDING-TOP: 4px; FONT-FAMILY: Arial, verdana, Georgia, Times }
+	.text_box1 { FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; COLOR: #000000; PADDING-TOP: 4px; FONT-FAMILY: Arial, verdana, Georgia, Times }
+	.image_desc { FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; COLOR: #000000; PADDING-TOP: 4px; FONT-FAMILY: Times, verdana, Georgia, Arial }
+		</style>
+		<script language="JavaScript">
+			function setVisibility(evt,id, visibility,obj)
+			{
+				updatebox(evt,id,obj);
+				document.getElementById(id).style.display = visibility;
+			}
+			function updatebox(evt,id,obj)
+			{
+				 mouseX=evt.pageX?evt.pageX:evt.clientX;//
+				 mouseY=evt.pageY?evt.pageY:evt.clientY;//
+				 document.getElementById(id).style.left=mouseX+document.body.scrollLeft;
+				 document.getElementById(id).style.top=mouseY+document.body.scrollTop;
+			}
+		</script>
+	</HEAD>
+	<body>
+		<form name="StoryPg" method="post" action="Story.aspx?ID=161370&amp;culture=vi-vn" id="StoryPg">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjUwMjkyNzkwZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgURRmVlZGJhY2sxJGJ0blNlbmQFE1NlYXJjaGVzMSRidG5TdWJtaXSv8PAeb57TfcDMByZ6jgKwz6GdeA==" />
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBwKcoJenDQKzs/e9DwLrxLWhCAK8jPXcDQKJ9r6xBQL6/e6yBwLh3qCFCeHJN64Hywk0yAbbdiJftoqWoX+M" />
+			<TABLE id="Table5" cellSpacing="0" cellPadding="0" width="1000" align="center" bgColor="#ffffff"
+				border="0">
+				<TBODY>
+					<TR>
+						<TD>
+<LINK href="/JScripts/CAND.CSS" type="text/css" rel="stylesheet">
+<script language="javascript" src="/JScripts/cookieUtility.js"></script>
+<script language="javascript" src="/JScripts/personalize.js"></script>
+<script language="JavaScript" src="/JScripts/adFlash.js"></script>
+<script language="javascript" src="/JScripts/mylib.js"></script>
+<table cellSpacing="0" cellPadding="0" width="100%" bgColor="#ffffff" border="0" id="Table2">
+	<TR>
+		<TD align="center">
+			<TABLE cellSpacing="0" cellPadding="0" width="100%" border="0" id="Table3">
+				<TR height="50">
+					<TD vAlign="top" width="194" bgColor="#cbe2e9">
+						<a id="Header_lnkHomePage" href="http://www.cand.com.vn">
+							<IMG src="/Images/header_candonline228x50.gif" border="0"></a></TD>
+					<TD align="right" width="100%" background="/Images/CAND/bg_head.gif" bgColor="#cbe2e9"
+						height="50">
+						</TD>
+				</TR>
+				<TR>
+					<TD vAlign="middle" align="left" width="194" bgColor="black"><IMG src="/Images/header_sologon229x16.gif"></TD>
+					<TD align="right" width="100%" bgColor="black" height="18">
+<table id="Table1" cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td>
+			<span id="Header_ctlPersonalizeText_lblWelcome"><font color="White">Chào bạn!</font></span></td>
+		<td></td>
+		<td></td>
+		<td>&nbsp;&nbsp;</td>
+		<td>
+			<script>
+        var mydate=new Date()
+        var year=mydate.getYear()
+        if (year < 1000)
+					year+=1900
+        var day=mydate.getDay()
+        var month=mydate.getMonth()
+        var daym=mydate.getDate()
+        if (daym<10)
+					daym="0"+daym
+        var dhour=mydate.getHours()
+        var dmin=mydate.getMinutes()
+        if (dmin<10)
+					dmin="0"+dmin
+        if (dhour<10)
+					dhour="0"+dhour
+        var dayarray=new Array("Ch&#7911; Nh&#7853;t","Th&#7913; Hai","Th&#7913; Ba","Th&#7913; T&#432;","Th&#7913; N&#259;m","Th&#7913; S&#225;u","Th&#7913; B&#7843;y")
+        var montharray=new Array("01","02","03","04","05","06","07","08","09","10","11","12")
+                document.write("<font color=white><b> "+dhour+":"+dmin+" "+daym+"/"+montharray[month]+"/"+year+"</b></font>")
+			</script>
+		</td>
+		<td>&nbsp;&nbsp;</td>
+	</tr>
+</table>
+</TD>
+				</TR>
+			</TABLE>
+		</TD>
+	</TR>
+	<TR>
+		<TD align="center" width="1000" background="/Images/header_background24x6.gif" bgColor="#ac051f"
+			height="24">
+			<TABLE id="Table1" style="WIDTH: 100%; HEIGHT: 24px" height="24" cellSpacing="0" cellPadding="0"
+				width="100%" align="right" background="/Images/header_background24x6.gif" border="0">
+				<TR>
+					<TD style="WIDTH: 223px" width="223" height="24"></TD>
+					<TD style="WIDTH: 100px" width="100" height="24">
+						<img src='/rpc/counter.aspx?ckey=All_view&rand=1601008188' width=0 height=0 border=0 alt=''></TD>
+					<TD style="WIDTH: 120px" align="center" width="120" height="24"><a id="Header_lnkANTG" href="http://antg.cand.com.vn">
+							<img height="24" alt="" src="/Images/header_title_antg102x24.gif" width="102" border="0"></a></TD>
+					<TD style="WIDTH: 12px" width="10" height="24"><IMG src="/Images/header_linedoc12x24.gif"></TD>
+					<TD style="WIDTH: 120px" align="center" width="120" height="24"><a id="Header_lnkANTGCT" href="http://antgct.cand.com.vn">
+							<img height="24" alt="" src="/Images/header_title_antgct105x24.gif" width="105" border="0"></a></TD>
+					<TD style="WIDTH: 12px" width="10" height="24"><IMG src="/Images/header_linedoc12x24.gif"></TD>
+					<TD style="WIDTH: 120px" align="center" width="120" height="24"><a id="Header_lnkVNCA" href="http://vnca.cand.com.vn">
+							<img height="24" alt="" src="/Images/header_title_vnca112x24.gif" width="112" border="0"></a></TD>
+					<TD style="WIDTH: 12px" width="10" height="24"><IMG src="/Images/header_linedoc12x24.gif"></TD>
+					<TD style="WIDTH: 120px" align="center" width="120" height="24"><a id="Header_lnkCAND" href="http://cstc.cand.com.vn">
+							<img height="24" alt="" src="/Images/header_title_cstc115x24.gif" width="115" border="0"></a></TD>
+					<TD style="WIDTH: 12px" width="10" height="24"><IMG src="/Images/header_linedoc12x24.gif"></TD>
+					<!--
+					<TD align="right" width="106" height="24"><a id="Header_lnkCANDTV">
+							<img height="24" alt="" src="/Images/header_thcand106x24.gif" width="106" border="0"></a></TD>
+					-->
+				</TR>
+			</TABLE>
+		</TD>
+	</TR>
+	<TR>
+		<TD style="HEIGHT: 1px" align="center" bgColor="#ac051f"><script language="JavaScript" src="/JScripts/CAND_new.JS"></script>
+<table class="navgrid" height="26" cellSpacing="0" cellPadding="0" width="100%" align="left" border="0" bgColor="#ac051f">
+	<tr bgColor="#ac051f">
+		<td height="26" align="center">
+		<A href="/" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Trang chủ</FONT></A>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<A href="/vi-VN/thoisu.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Thời sự</FONT></A>&nbsp;&nbsp|&nbsp;&nbsp;
+		<A href="/vi-VN/xahoi.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Xã hội</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/quocte.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Quốc tế</FONT></A>&nbsp;&nbsp;|&nbsp&nbsp;
+		<A href="/vi-VN/kinhte.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Kinh tế</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/vanhoa.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Văn hoá</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/phapluat.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Pháp luật</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/nguoinoitieng.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Người nổi tiếng</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/nhanai.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Nhịp cầu nhân ái</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/trongmatdan.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Công an trong lòng dân</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/toiphama-z.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Tội phạm từ A-Z</FONT></A>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<A href="/vi-VN/clips.cand" style="text-decoration:none"><FONT size=2 face=Arial color=#ffffff>Video Clip</FONT></A>
+		</td>
+	</tr>
+</table></TD>
+	</TR>
+</table>
+<link href="/JScripts/cand_new.css" rel="stylesheet" media="screen">
+</TD>
+					</TR>
+					<TR>
+						<TD>
+							<TABLE id="Table6" cellSpacing="0" cellPadding="0" width="1000" align="left" bgColor="white"
+								border="0">
+								<TBODY>
+									<TR vAlign="top">
+										<TD class="left_columms" style="PADDING-TOP: 10px" vAlign="top" width="800">
+											<table cellSpacing="0" cellPadding="0" width="100%" align="center" border="0">
+												<TBODY>
+													<TR>
+														<TD style="PADDING-BOTTOM: 6px; HEIGHT: 20px; paddint-top: 6px" align="center">
+															<TABLE id="Table11" style="PADDING-BOTTOM: 10px" cellSpacing="0" cellPadding="0" width="780"
+																border="0">
+																<TR>
+																	<TD style="WIDTH: 500px" width="500"></TD>
+																</TR>
+																<TR>
+																	<TD style="WIDTH: 500px; HEIGHT: 34px" vAlign="top" align="left" width="100%" background="/Images/back_line.gif"><span id="Path1_lbPath" class="cm_title">Xã hội&nbsp;</span>
+</TD>
+																</TR>
+																<TR>
+																	<TD style="WIDTH: 500px" width="500"></TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR>
+														<TD class="home_subtitle" style="HEIGHT: 7px" align="center"></TD>
+													</TR>
+													<TR>
+														<TD style="HEIGHT: 328px" vAlign="top" align="center">
+															<TABLE id="Table12" height="19" cellSpacing="0" cellPadding="0" width="780" border="0">
+																<TR>
+																	<TD style="PADDING-RIGHT: 6px" vAlign="top" align="center" width="780">
+																		<DIV align="left">
+																			<TABLE cellSpacing="0" cellPadding="0" align="left" border="0">
+																				<TR>
+																					<TD style="HEIGHT: 1px">
+																						<TABLE cellSpacing="0" cellPadding="0" border="0">
+																							<TR>
+																								<TD></TD>
+																							</TR>
+																							<TR>
+																								<TD class="pic_explain"></TD>
+																							</TR>
+																						</TABLE>
+																					</TD>
+																				</TR>
+																				<TR>
+																					<TD style="HEIGHT: 10px"></TD>
+																				</TR>
+																				<TR>
+																					<TD></TD>
+																				</TR>
+																			</TABLE>
+																			<DIV align="left"><B></B></DIV>
+																			<DIV align="left"><span id="lbHeadline" class="main_title">Trung tâm Đào tạo lái xe bị tố thu phí tùy tiện</span></DIV>
+																			<DIV align="left">
+																				<DIV align="left"><span id="lbDate" class="time_zone">15:21:00 08/12/2011</span></DIV>
+																				<DIV align="left"><span id="lbAuthor1" class="author"><a href='http://cstc.cand.com.vn/News/huuuoc/index.html' target=_blank></a></span></DIV>
+																			</DIV>
+																		</DIV>
+																		<DIV align="left"><span class="main_abstract">Nhiều học viên học lớp C, khóa 3 năm 2011 của Trung tâm Đào tạo và Sát hạch lái xe cơ giới đường bộ Tây Đô (Trung tâm Tây Đô) đã gửi đơn phản ánh về việc thu chi tùy tiện nhiều khoản phí xảy ra tại cơ sở này.</span></DIV>
+																		<DIV align="left"><span id="lbContinue" class="time_zone"></span><span id="lbBody" class="main_content"><P><FONT size=2>Anh Tô Bá H. trình bày: Trung tâm Tây Đô thu học phí với số tiền 7,6 triệu đồng/người là đúng quy định. Sau đó, chúng tôi nộp hồ sơ vào phòng đào tạo thì không hiểu sao cán bộ ở đây yêu cầu phải đóng thêm số tiền 355.000 đồng. Khi các học viên thắc mắc thì được giải thích rằng, khoản phí phát sinh này là tiền bảo hiểm, tài liệu học tập, tiền khám sức khỏe… nhưng không ghi hóa đơn chứng từ. Ngoài ra, theo phản ánh của nhiều học viên khi vào trung tâm mua hồ sơ để học thì họ bị cán bộ tên Đ. ở khâu tiếp nhận hồ sơ lại "ém" hồ sơ không bán.</FONT></P>
+<P><FONT size=2>Học viên Lê Hoàng T. cho biết: Khi chúng tôi bỏ đi thì ông này kêu lại, gợi ý xin số điện thoại từng người để hẹn nói chuyện riêng, đồng thời ra giá muốn học liền thì phải "trà nước" mỗi bộ hồ sơ là 1 triệu đồng mới được học. </FONT></P>
+<P><FONT size=2>Bức xúc, nhiều học viên đã gặp lãnh đạo Trung tâm Tây Đô để khiếu nại. Anh H cho biết, ngày 22/11, ông Nguyễn Minh Thành - Phó phòng Đào tạo mời anh em học viên đi uống nước xin lỗi việc làm sai trái của nhân viên mình và trả lại mỗi học viên 1 triệu đồng. Tiếp đến, ngày 23/11, Phòng Đào tạo tập trung lớp C, khóa 3 vào hội trường thông báo: "Học viên nào đã đưa quá số tiền học phí theo quy định thì lập danh sách sẽ được trả lại". </FONT></P>
+<P><FONT size=2>Ngày 7/12, ông Lê Thuận Bé - Trưởng phòng Quản lý vận tải phương tiện và người lái thuộc Sở GTVT TP Cần Thơ cho biết, đã nhận được đơn khiếu nại của học viên phản ánh về chuyện thu chi không đúng quy định của Trung tâm Tây Đô. Về vụ việc này, phía Thanh tra Sở GTVT đang tiến hành làm việc với trường để làm rõ những khoản thu bất hợp lý tại trung tâm</FONT><img src='/Images/reddot.gif'></P></span></DIV>
+																	</TD>
+																</TR>
+															</TABLE>
+															<BR>
+														</TD>
+													</TR>
+													<TR>
+														<TD style="HEIGHT: 40px" align="center">
+															<P align="center">
+																<TABLE id="Table10" height="19" cellSpacing="0" cellPadding="0" width="780" border="0">
+																	<TR>
+																		<TD align="center" width="780">
+																			<DIV align="right"><span id="lbAuthor2" class="source">Đ.Văn</span><br>
+</DIV>
+																		</TD>
+																	</TR>
+																</TABLE>
+															</P>
+														</TD>
+													</TR>
+													<TR>
+														<TD vAlign="top" align="center">
+															<TABLE cellSpacing="0" cellPadding="3" width="780" bgColor="#faf5ed" border="0">
+																<TR>
+																	<TD></TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR class="event">
+														<TD style="PADDING-BOTTOM: 10px" align="center"><div id="pnEvent">
+	
+																
+															
+</div></TD>
+													</TR>
+													<TR>
+														<TD align="center">
+															<TABLE id="Table8" height="19" cellSpacing="0" cellPadding="0" width="780" bgColor="#f1f1f1"
+																border="0">
+																<TR>
+																	<TD align="center" width="580">
+																		<DIV align="center"><IMG height="12" alt="" hspace="4" src="/images/temp.gif" width="14" border="0">
+																			<a id="lnkAddToFavorite2" href="javascript:addFavouriteStory('161370','Trung tâm Đào tạo lái xe bị tố thu phí tùy tiện','/vi-VN/xahoi/2011/12/161370.cand'); alert('Tin đã được thêm vào danh sách');">Lưu lại để đọc</a>&nbsp;|<IMG height="12" alt="" hspace="4" src="/images/email.gif" width="14" border="0"><A href='javascript:showDialog("/InfoPages/Email4Friend.aspx?new_url=http://www.cand.com.vn/vi-VN/xahoi/2011/12/161370.cand",450,350)'  Email4Friend.aspxnew_url='http:/"' InfoPages new_url='http:/"' Email4Friend.aspx  Email4Friend.aspx new_url='http:/"'???????????????????????????????????????????????????????>Email 
+																				của bài này</A> |<IMG height="12" alt="" hspace="4" src="/images/contact.gif" width="14" border="0"><A href='javascript:showDialog("/InfoPages/Republish.aspx?ID=161370",550,350)'  InfoPages Republish.aspxID Republish.aspx  ID Republish.aspx Republish.aspx??????????????????????????????????????????????????????????????????????????????????????????????????????????????>Liên 
+																				hệ đăng bài này</A> |<IMG height="12" alt="" hspace="4" src="/images/print.gif" width="14" border="0"><A href='/News/PrintView.aspx?ID=161370' target=_blank >In 
+																				bài này</A>&nbsp;</A>&nbsp;
+																		</DIV>
+																	</TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR>
+														<TD style="PADDING-BOTTOM: 6px" align="center"></TD>
+													</TR>
+													<TR>
+														<TD style="HEIGHT: 42px" align="center">
+															<TABLE id="Table9" height="19" cellSpacing="0" cellPadding="0" width="780" border="0">
+																<TR>
+																	<TD align="center" width="780">
+																		<DIV align="center">
+<p>
+	<div id="Feedback1_pnlContent">
+	
+		<TABLE id="Table3" cellSpacing="0" cellPadding="0" width="100%" align="center" border="0">
+			<TR height="4">
+				<TD height="4">
+					<SCRIPT language="JavaScript1.2" src="/jscripts/vietuni.js" type="text/javascript"></SCRIPT>
+					<SCRIPT language="JavaScript1.2"> setTypingMode(4); </SCRIPT>
+					<SCRIPT language="JavaScript">
+					function gf(p_el) {	}function lf(p_el) {	}
+					</SCRIPT>
+				</TD>
+			</TR>
+			<TR>
+				<TD vAlign="top">
+					<TABLE id="Table5" cellSpacing="0" cellPadding="0" width="100%" bgColor="#f1f1f1" border="0">
+						<TR>
+							<TD>
+								<DIV align="center">
+									<TABLE id="Table6" cellSpacing="0" cellPadding="0" width="100%" border="0">
+										<TR>
+											<TD>
+												<TABLE id="Table7" cellSpacing="0" cellPadding="0" width="100%" bgColor="#f1f1f1" border="0">
+													<TR height="24">
+														<TD align="center" bgColor="#407080"><B><FONT color="white">Ý kiến của bạn</FONT></B></TD>
+													</TR>
+													<TR>
+														<TD>
+															<TABLE id="Table8" cellSpacing="0" cellPadding="1" width="100%" border="0">
+																<TR>
+																	<TD class="TitleFront" align="right" width="100">Tên của bạn:</TD>
+																	<TD>
+																		<input name="Feedback1$txtName" type="text" id="Feedback1_txtName" class="tbflat" onkeyup="telexingVietUC(this,event);" />
+																		&nbsp;</TD>
+																<TR>
+																	<TD class="TitleFront" align="right" width="100">Email:</TD>
+																	<TD>
+																		<input name="Feedback1$txtEmail" type="text" id="Feedback1_txtEmail" class="tbflat" />
+																		
+																		
+																		</TD>
+																</TR>
+																<TR>
+																	<TD class="TitleFront" align="right" width="100">Tiêu đề:</TD>
+																	<TD>
+																		<input name="Feedback1$txtHeadLine" type="text" id="Feedback1_txtHeadLine" class="tbflat" onkeyup="telexingVietUC(this,event);" />
+																		&nbsp;</TD>
+																</TR>
+																<TR>
+																	<TD style="PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px" align="right" colSpan="2">
+																		<INPUT onfocus="setTypingMode(0);" type="radio" value="OFF" name="switch">Tắt bộ gõ
+																		<INPUT onfocus="setTypingMode(1)" type="radio" CHECKED value="TELEX" name="switch">Tự động
+																		<INPUT onfocus="setTypingMode(1)" type="radio" value="TELEX" name="switch">Telex
+																		<INPUT onfocus="setTypingMode(2)" type="radio" value="VNI" name="switch">VNI <INPUT onfocus="setTypingMode(3)" type="radio" value="VIQR" name="switch">VIQR</TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR>
+														<TD style="PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px" colSpan="2">
+															<textarea name="Feedback1$txtContent" rows="8" cols="20" id="Feedback1_txtContent" class="tbflat1" onkeyup="telexingVietUC(this,event);"></textarea>
+															<span id="Feedback1_lblID"><input type=hidden name=ID value=161370></span>
+															&nbsp;</TD>
+													</TR>
+												</TABLE>
+												</TD>
+										</TR>
+										<TR>
+											<TD style="PADDING-RIGHT: 5px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px">
+												<TABLE width="100%">
+													<TR>
+														<TD><IMG style="CURSOR: hand" onclick="window.scrollTo(0,0)" src="/Images/Gotop.gif" border="0">
+														</TD>
+														<TD align="right">
+															<input type="image" name="Feedback1$btnSend" id="Feedback1_btnSend" DESIGNTIMEDRAGDROP="89" src="/Images/btnSend55x24.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;Feedback1$btnSend&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" border="0" /></TD>
+													</TR>
+												</TABLE>
+											</TD>
+										</TR>
+									</TABLE>
+								</DIV>
+							</TD>
+						</TR>
+					</TABLE>
+				</TD>
+			</TR>
+		</TABLE>
+	
+</div></p>
+</DIV>
+																	</TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR>
+														<TD align="center">
+															<TABLE id="Table7" cellSpacing="0" cellPadding="0" width="780" border="0">
+																<TR>
+																	<TD style="HEIGHT: 18px"></TD>
+																	<TD style="HEIGHT: 18px" vAlign="top" align="right"></TD>
+																</TR>
+																<TR>
+																	<TD style="HEIGHT: 18px"><p align=left><input type=button style="width:140; background-Color: white; color: #003143; font-size: 11px; font-family: Arial, Verdana, Tahoma; Cursor:hand; Border:none; Font-Weight:bold" value="Xem bài theo ngày tháng" onclick="popUpCalendar(this, this, 'dd-mm-yyyy',36, 'vi')"><img src='/Images/detail_2.gif'></p></TD>
+																	<TD style="HEIGHT: 18px" vAlign="top" align="right"><a id="AnotherStory" href="/vi-VN/xahoi.cand"><b>Xem tiếp</b>&nbsp;<img src='/images/detail.gif' border=0></a></TD>
+																</TR>
+																<TR>
+																	<TD colSpan="2"><b>Các bài mới:</b><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="161371.cand">"Đoạn đường 400 tỷ đồng" thành "đường ổ voi"</a> <span class='time_Zone'>(08/12)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="161372.cand">Sửa chữa nhiều lần nhưng đường vẫn không đi được</a> <span class='time_Zone'>(08/12)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="161365.cand">Xe chữa cháy “gặp khó” vì Cần Thơ có nhiều hẻm hẹp</a> <span class='time_Zone'>(08/12)</span><BR></TD>
+																</TR>
+																<TR>
+																	<TD colSpan="2"><b>Các bài đã đăng:</b><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="161366.cand">Cháy xưởng sửa chữa ôtô</a> <span class='time_Zone'>(08/12)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="161330.cand">Bé trai 5 tuổi đọc thông, viết thạo</a> <span class='time_Zone'>(08/12)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="161353.cand">Mưa và rét bao trùm miền Bắc</a> <span class='time_Zone'>(08/12)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="161348.cand">Đã làm rõ các đối tượng trong clip "nữ sinh Thái Nguyên đánh nhau"</a> <span class='time_Zone'>(08/12)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="161325.cand">Bà mẹ có con lấy chồng Đài Loan cầu cứu</a> <span class='time_Zone'>(08/12)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="161359.cand">Khúc mắc GPMB dự án Nam ga Hạ Long</a> <span class='time_Zone'>(08/12)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="161329.cand">Lật xe chở gỗ làm 10 người chết và 4 người bị thương nặng</a> <span class='time_Zone'>(08/12)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="161324.cand">Hạn chế qua cầu sông Hàn để lắp đặt trang trí hệ thống chiếu sáng</a> <span class='time_Zone'>(08/12)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="161314.cand">Hà Nội đặt tên 29 đường, phố mới</a> <span class='time_Zone'>(08/12)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="161313.cand">Bộ VH-TT&DL không ủng hộ tăng giá vé tham quan vịnh Hạ Long</a> <span class='time_Zone'>(08/12)</span><BR>&nbsp;&nbsp;&nbsp;<img src='/images/bull_3.gif'>&nbsp; <a href="161312.cand">Đà Nẵng lắp đèn chiếu sáng bằng năng lượng mặt trời</a> <span class='time_Zone'>(08/12)</span><BR></TD>
+																</TR>
+																<TR>
+																	<TD style="HEIGHT: 2px" colSpan="2">&nbsp;</TD>
+																</TR>
+																<TR>
+																	<TD colSpan="2">
+																		<HR color="lightgrey" SIZE="1">
+																		<TABLE id="Table3" cellSpacing="0" cellPadding="0" width="100%" border="0">
+																			<TR>
+																				<TD style="WIDTH: 465px" vAlign="top" align="left" width="465"></TD>
+																				<TD align="right"><FONT face="Verdana"><IMG style="CURSOR: hand" onclick="window.scrollTo(0,0)" alt="" src="/Images/Gotop.gif"
+																							stye="Cursor:hand"></FONT></TD>
+																			</TR>
+																		</TABLE>
+																	</TD>
+																</TR>
+															</TABLE>
+														</TD>
+													</TR>
+													<TR>
+														<TD align="center" height="5">
+															<P>&nbsp;</P>
+														</TD>
+													</TR>
+													<TR>
+														<TD></TD>
+													</TR>
+												</TBODY>
+											</table>
+										</TD>
+										<TD class="leftright_columms" vAlign="top" width="200"><TABLE cellSpacing="0" cellPadding="0" width="100%" border="0">
+												<TR>
+													<TD bgColor="#7bb6c8">
+<script language="javascript" src="/JScripts/vietuni.js"></script>
+<script>setTypingMode(4);</script>
+<table width="160" border="0" cellspacing="0" cellpadding="2" bgcolor="#7ab4c7" style="HEIGHT: 20px">
+	<tr style="HEIGHT:30px">
+		<td align="left">
+			<font color="#7ab4c7" style="PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px">
+				<input class="tbflat2" type="text" name="SearchPhrase" onkeyup="telexingVietUC(this,event);"
+					onfocus="if (this.value=='Tìm kiếm') this.value='';" onblur="if (this.value=='') this.value='Tìm kiếm';"
+					border="0" value='Tìm kiếm' size="20"></font>
+		</td>
+		<TD vAlign="middle" align="left">
+			<input type="image" name="Searches1$btnSubmit" id="Searches1_btnSubmit" title="Tìm kiếm" src="/Images/content_searhc_button19x18.gif" border="0" /></TD>
+	</tr>
+</table>
+<INPUT type="hidden" value="0" name="SearchMessage"> <INPUT type="hidden" value="phrase" name="andor">
+</TD>
+												</TR>
+												<TR>
+													<TD>
+</TD>
+												</TR>
+												<TR>
+													<TD>
+<TABLE id="Table1" cellSpacing="0" cellPadding="0" width="200" border="0">
+	
+	<TR>
+		<TD class="rightside_cell">
+			<DIV align="center">
+				
+<TABLE id="Table1" cellSpacing="0" cellPadding="0" width="100%" border="1" style="BORDER-COLLAPSE:collapse" bordercolor="#9a9a9a">
+	<TR>
+		<TD vAlign="top">
+			<TABLE id="Table2" cellSpacing="0" cellPadding="0" width="100%" border="0">
+				<TBODY>
+					<TR height="20">
+						<TD height="20">
+							<img id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_imgBanner" src="/Images/top10_CANDONLINE_Title.gif" width="200" border="0" /></TD>
+					</TR>
+					<TR>
+						<TD style="PADDING-TOP: 2px">
+							<DIV style="OVERFLOW-Y: auto; WIDTH: 200px; HEIGHT: 250px">
+								
+										<table width="100%" border="0" cellspacing="2" cellpadding="0">
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl01_lblSTT"><b>1.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl01_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/trongmatdan/2011/12/161379.cand">Hiệu quả của mô hình "3 giỏi, 2 vững mạnh" về an ninh trật tự</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl02_lblSTT"><b>2.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl02_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/phongsu/2011/12/161375.cand">Kỳ 2: Giáo sư, bác sĩ Trần Hữu Tước, người hết mình vì Tổ quốc</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl03_lblSTT"><b>3.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl03_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/kinhte/2011/12/161383.cand">Bay đầu năm 2012 chỉ từ 650 nghìn đồng/chặng</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl04_lblSTT"><b>4.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl04_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/vanhoa/2011/12/161382.cand">Việt Nam - 25 năm trên đường đổi mới qua tài liệu lưu trữ</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl05_lblSTT"><b>5.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl05_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/trongmatdan/2011/12/161380.cand">Nhiều cá nhân, tập thể CATP Đà Nẵng được khen thưởng</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl06_lblSTT"><b>6.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl06_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/vanhoa/2011/12/161378.cand">Mang âm nhạc đến bệnh viện</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl07_lblSTT"><b>7.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl07_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/phapluat/2011/12/161376.cand">Phá két sắt trộm hơn 6 tỷ đồng</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl08_lblSTT"><b>8.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl08_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/trongmatdan/2011/12/161377.cand">Hội thảo Ban Quản lý dự án Patrol Việt Nam lần thứ II</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl09_lblSTT"><b>9.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl09_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/thoisu/2011/12/161374.cand">Sự thật vụ cán bộ huyện cưỡng dâm</a></td>
+										</tr>
+									
+										<tr style="padding-top:5px;">
+											<td valign="top" width="20" align="center">
+												<span id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl10_lblSTT"><b>10.</b></span>
+											</td>
+											<td><a id="RightNavBarNew1_Top10NewestStoriesFrom1Site1_rptNewestStories_ctl10_lnkStoryLink" class="sm_list4" href="http://www.cand.com.vn/vi-VN/trongmatdan/2011/12/161381.cand">Công an huyện Thanh Sơn (Phú Thọ): Thực hiện tốt cuộc vận động của lực lượng</a></td>
+										</tr>
+									
+			</TABLE>
+			</DIV>
+		</TD>
+	</TR>
+	<TR>
+		<TD height="7">
+			<img src="/images/top10_bottom_back.gif" width="200"></TD>
+	</TR>
+</TABLE>
+</TD></TR></TBODY></TABLE>
+</DIV>
+		</TD>
+	</TR>
+	<TR>
+		<TD class="rightside_cell"></TD>
+	</TR>
+	<TR>
+		<TD style="HEIGHT: 0px">
+			
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<TD style="PADDING-BOTTOM: 2px;" align="center" bgColor="#ac051f" height="25">
+					<span id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl00_lbTieudiem" class="tieudiem_title">TIÊU ĐIỂM</span></TD>
+			</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="161300" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Cần quản lý chặt các công ty dịch vụ đòi nợ thuê
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								5:02, 07/12/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Tại Phòng Quản lý nhân sự của Phòng khám H., các đối tượng thuộc 1 công ty đòi nợ ép chị Nguyễn Thị H., nhân viên kế toán phải làm giấy cam kết trả hết số nợ cho Công ty Dược và Trang thiết bị y tế Q.Đ. Sau đó, các đối tượng đeo kính đen xuống ngồi tại 4 góc của Phòng khám H., khiến các bệnh nhân hoảng hốt bỏ chạy. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/161300.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'161300', 'inline');"
+											onMouseOut="setVisibility(event,'161300', 'none');" >
+											Cần quản lý chặt các công ty dịch vụ đòi nợ thuê
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/161300.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl01_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTG\hoabt2/13_anh2324-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id161233" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Kể chuyện "tự giải cứu khỏi tay cướp biển"
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								3:12, 06/12/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								“Mặc dù bị cướp biển Somali bắt giữ và giam đói nhưng chúng tôi đã quyết “vùng dậy” liều chết với hải tặc để cứu mình khỏi vòng vây”- anh Nguyễn Văn Tiến, 29 tuổi (ngụ tại xóm Mới, Nghi Thiết, Nghi Lộc), một trong 5 thuỷ thủ Việt Nam trên tàu Chin Yi Wen (Đài Loan) bị cướp biển Somali bắt giữ ngày 3/11/2011 kể lại.<BR><A href="http://www.cand.com.vn/vi-VN/xahoi/2010/5/131121.cand" target=_blank pathAttribute="1"><STRONG>&gt;&gt;&nbsp;Ba&nbsp;lao động Việt Nam bị cướp biển Somali bắt cóc</STRONG></A>
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/161233.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id161233', 'inline');"
+											onMouseOut="setVisibility(event,'id161233', 'none');" >
+											Kể chuyện "tự giải cứu khỏi tay cướp biển"
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/161233.cand'>
+											Kể chuyện "tự giải cứu khỏi tay cướp biển"
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/161233.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl02_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\maiphuong/8_thuyen2323-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="161225" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Vụ nổ xe máy ở Bắc Ninh do nguyên nhân kỹ thuật
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								10:26, 06/12/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Đại tá Hà Văn San, Trưởng phòng Giám định Kỹ thuật pháp lý, Viện Khoa học Hình sự, Bộ Công an cho biết, các giám định viên đã sử dụng máy xác định thuốc nổ để “rà” tại hiện trường nhưng không phát hiện có dấu vết của thuốc nổ. Như vậy, cơ bản có thể kết luận, vụ nổ trên không phải do cài mìn, thuốc nổ để ám sát, phá hoại do thù tức cá nhân. <BR><A href="http://www.cand.com.vn/vi-VN/clips/2011/12/160976.cand" target=_blank pathAttribute="1"><STRONG>&gt;&gt; Cận cảnh hiện trường vụ nổ xe máy ở Bắc Ninh</STRONG></A>
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/161225.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'161225', 'inline');"
+											onMouseOut="setVisibility(event,'161225', 'none');" >
+											Vụ nổ xe máy ở Bắc Ninh do nguyên nhân kỹ thuật
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/161225.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl03_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\maiphuong/8_dai2323-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id161170" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								“Liệt sĩ” trở về sau 38 năm báo tử vẫn chưa được giải quyết chế độ
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								6:47, 05/12/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								"Liệt sỹ" trở về sau 38 năm báo tử, thế nhưng đến nay sau gần 7 tháng các chế độ có liên quan tới "liệt sỹ" này vẫn chưa được các cấp, các ngành giải quyết dứt điểm… câu chuyện thật như đùa trên đã và đang xảy ra tại huyện Kim Thành, tỉnh Hải Dương. Dư luận tỏ ra bức xúc trước sự vào cuộc có phần "chậm như rùa bò" của các cơ quan hữu trách.
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/161170.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id161170', 'inline');"
+											onMouseOut="setVisibility(event,'id161170', 'none');" >
+											“Liệt sĩ” trở về sau 38 năm báo tử vẫn chưa được giải quyết chế độ
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/161170.cand'>
+											“Liệt sĩ” trở về sau 38 năm báo tử vẫn chưa được giải quyết chế độ
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/161170.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl04_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTG\hoabt2/14_bac2322-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="161150" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Đưa nhóm trẻ “Sống về đêm” thoát khỏi lối sống lệch lạc
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								2:14, 05/12/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Chủ nhân của Blog "Sống về đêm" là những đứa trẻ đều đã nghỉ học, bố mẹ đã ly hôn hoàn cảnh sống hết sức khó khăn. Chúng tụ tập với nhau lập Blog này không chỉ nhằm "gây sốc", tạo dựng thanh thế mà còn nhằm mục đích giới thiệu, tìm "đơn hàng" cho những hung khí chúng tự tạo và "hợp đồng" đánh mướn.
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/161150.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'161150', 'inline');"
+											onMouseOut="setVisibility(event,'161150', 'none');" >
+											Đưa nhóm trẻ “Sống về đêm” thoát khỏi lối sống lệch lạc
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/161150.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl05_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\maiphuong/9_nhung2322-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id161107" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Hà Lan và công trình đê biển kỳ vĩ
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								4:13, 04/12/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Để tạo dựng được những con đê biển kỳ vĩ, người Hà Lan qua nhiều thế hệ đã phải trải qua bao trận chiến chống giặc nước biển, giành giật từng mét đất để làm nơi sinh sống. Cuộc chiến ấy kéo dài nhiều thế kỷ để đến ngày nay đất nước này đã có hệ thống đê biển hiện đại nhất thế giới. Có đến nơi đây, mới thấy hết được sự sáng tạo và trí tuệ của người Hà Lan trong cuộc chinh phục thiên nhiên, phục vụ lợi ích của con người...
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/161107.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id161107', 'inline');"
+											onMouseOut="setVisibility(event,'id161107', 'none');" >
+											Hà Lan và công trình đê biển kỳ vĩ
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/161107.cand'>
+											Hà Lan và công trình đê biển kỳ vĩ
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/161107.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl06_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\thuydt1\thuydt1/7_de2321-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="161084" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								10 năm chưa giải quyết xong vụ "căn nhà cơi nới thêm… 4 tầng lầu"
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								8:16, 03/12/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Trong nỗi lo sợ nhà có thể bị sập bất kỳ lúc nào, từ năm 2001, ông Chu Quang Hưng, chủ nhân nhà số 31 Kim Biên (cặp vách căn nhà cơi nới thêm… 4 tầng lầu - 32 Kim Biên) đã gửi khiếu nại đến các cấp chính quyền ở quận 5, TP HCM. Thế nhưng đến nay đã ngót 10 năm, vụ việc vẫn chưa được giải quyết dứt điểm. <BR><STRONG><A href="http://www.cand.com.vn/vi-VN/xahoi/2009/5/113471.cand" target=_blank pathAttribute="1">&gt;&gt; Nhà cơi nới thêm…4 tầng lầu</A></STRONG> 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/161084.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'161084', 'inline');"
+											onMouseOut="setVisibility(event,'161084', 'none');" >
+											10 năm chưa giải quyết xong vụ "căn nhà cơi nới thêm… 4 tầng lầu"
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/161084.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl07_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\linhchi1/13_can2320-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id161038" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Tích cực điều tra vụ nổ xe máy làm hai mẹ con gặp nạn
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								11:37, 03/12/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Giám đốc Công an tỉnh Bắc Ninh đang chỉ đạo Phòng Kỹ thuật Hình sự tập trung lực lượng, phương tiện phục vụ công tác giám định với mục tiêu sẽ có kết luận sớm nhất về nguyên nhân vụ nổ xe máy khiến người mẹ chết, con gái 4 tuổi bị thương nặng. <BR><STRONG><A href="http://www.cand.com.vn/vi-VN/clips/2011/12/160976.cand" target=_blank pathAttribute="1">&gt;&gt; Cận cảnh hiện trường vụ nổ xe máy ở Bắc Ninh</A></STRONG> 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/161038.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id161038', 'inline');"
+											onMouseOut="setVisibility(event,'id161038', 'none');" >
+											Tích cực điều tra vụ nổ xe máy làm hai mẹ con gặp nạn
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/161038.cand'>
+											Tích cực điều tra vụ nổ xe máy làm hai mẹ con gặp nạn
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/161038.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl08_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\linhchi1/16_con2320-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="160996" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Kiểm soát chặt nhà nghỉ, khách sạn để ngăn tệ nạn
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								6:49, 02/12/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Một trong những nguyên nhân khiến tệ nạn phát sinh trong các cơ sở kinh doanh có điều kiện như nhà nghỉ, khách sạn không gì khác đó chính là sự chủ quan, thậm chí còn làm ngơ của một số nhân viên, chủ kinh doanh.
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/160996.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'160996', 'inline');"
+											onMouseOut="setVisibility(event,'160996', 'none');" >
+											Kiểm soát chặt nhà nghỉ, khách sạn để ngăn tệ nạn
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/160996.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl09_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\maiphuong/8_nhieu2319-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id160927" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								“Giám sát giao thông qua hình ảnh” góp phần giảm TNGT
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								4:54, 01/12/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Từ khi sử dụng hệ thống giám sát, tai nạn giao thông trên đoạn Pháp Vân - Ninh Bình đã giảm cả 3 mặt, giảm 43 vụ (23,2%), số người chết giảm 60 người (29,2%), số người bị thương giảm 18 người (19,6%). Đặc biệt, trên cả tuyến đường này nhiều năm qua đã không xảy ra tai nạn giao thông đặc biệt nghiêm trọng. 
+
+
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/160927.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id160927', 'inline');"
+											onMouseOut="setVisibility(event,'id160927', 'none');" >
+											“Giám sát giao thông qua hình ảnh” góp phần giảm TNGT
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/160927.cand'>
+											“Giám sát giao thông qua hình ảnh” góp phần giảm TNGT
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/160927.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl10_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTGCT\anhtu1\nguyenbinh/4_ghi2318-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="160890" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Nhà mạng hưởng lợi từ tin nhắn "rác"
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								11:26, 01/12/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Việc gửi tin nhắn&nbsp;rác hàng loạt không chỉ mang lại lợi nhuận cho các công ty trong lĩnh vực cung cấp dịch vụ nội dung mà còn mang về doanh thu lớn cho các nhà mạng. Lý do là lợi nhuận thu về từ tin nhắn được chia đôi giữa nhà mạng và các công ty dịch vụ nội dung theo tỷ lệ 50% - 50%, 55%-45%, thậm chí là 60%-40%.
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/160890.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'160890', 'inline');"
+											onMouseOut="setVisibility(event,'160890', 'none');" >
+											Nhà mạng hưởng lợi từ tin nhắn "rác"
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/160890.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl11_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTG\hoabt2/12_tin2318-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id160881" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Hà Nội rét 13 độ C
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								9:34, 01/12/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Bắt đầu từ sáng nay (1/12) không khí lạnh đã ảnh hưởng đến Bắc bộ khiến nhiệt độ giảm mạnh. Tại Hà Nội, ngay từ sáng sớm đã có mưa khá lớn, nhiệt độ ban ngày còn khoảng 20 độ C, ban đêm có nơi chỉ còn 13 C. Miền núi&nbsp;xuống dưới 9 độ C.
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/160881.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id160881', 'inline');"
+											onMouseOut="setVisibility(event,'id160881', 'none');" >
+											Hà Nội rét 13 độ C
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/160881.cand'>
+											Hà Nội rét 13 độ C
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/xahoi/2011/12/160881.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl12_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\thuydt1\thuydt1/ttiet2318-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="160796" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Ông lão chăn vịt lĩnh thưởng 1,5 tỉ đồng
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								9:12, 30/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Sau những rắc rối trước khi lĩnh được giải thưởng xổ số độc đắc, ông Trương Tấn Tài vui mừng cho biết: "Đây là số tiền lớn mà cả đời chăn vịt cũng chẳng kiếm được. Tôi sẽ dùng số tiền này mua vườn rẫy làm ăn, đồng thời dành một ít giúp người thân, họ hàng và làm từ thiện tại quê tôi" . <BR><STRONG><A href="http://www.cand.com.vn/vi-VN/xahoi/2011/10/158487.cand" target=_blank pathAttribute="1">&gt;&gt; Rắc rối "bản hợp đồng" cho tờ vé số độc đắc</A></STRONG> 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/11/160796.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'160796', 'inline');"
+											onMouseOut="setVisibility(event,'160796', 'none');" >
+											Ông lão chăn vịt lĩnh thưởng 1,5 tỉ đồng
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/11/160796.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl13_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\linhchi1/16_ong2317-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id160670" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Những nguy cơ từ thú chơi "súng airsoft"
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								10:36, 28/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Đội trưởng Đội QLTT số 2, Chi cục QLTT TP Hà Nội cho biết, loại "súng airsoft" - súng đồ chơi bắn đạn nhựa, phun lửa gas… là những mặt hàng nằm trong danh mục cấm mua bán và sử dụng. Bởi độ sát thương cũng như những hệ lụy đi kèm với nó luôn tiềm ẩn. 
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/11/160670.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id160670', 'inline');"
+											onMouseOut="setVisibility(event,'id160670', 'none');" >
+											Những nguy cơ từ thú chơi "súng airsoft"
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/11/160670.cand'>
+											Những nguy cơ từ thú chơi "súng airsoft"
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/xahoi/2011/11/160670.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl14_AltFSA" src="http://www.cand.com.vn/Thumbnail\UPLOADED_CANDONLINE\nguyenbinh/12_sung2315-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="160612" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Người bỏ tiền túi xây hai chiếc cầu phục vụ địa phương
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								7:59, 26/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Ngày ngày chứng kiến người dân, học sinh phải lội qua dòng suối Duỗn để đi làm, đi học, nhất là vào những ngày mưa lũ và giá rét, ông Hùng thấy không yên lòng. Thế là, ông lại đề xuất với địa phương tiến hành xây cầu. Cũng như cách làm cây cầu Đồng Cảy, ông vừa thiết kế vừa bỏ tiền túi cùng cán bộ nhân dân địa phương thi công cầu Đầm Mùi.
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/11/160612.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'160612', 'inline');"
+											onMouseOut="setVisibility(event,'160612', 'none');" >
+											Người bỏ tiền túi xây hai chiếc cầu phục vụ địa phương
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/11/160612.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl15_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\thanhbinh1/12_hung2313-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id160564" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Hà Nội tràn lan nội tạng bẩn
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								1:49, 26/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Ít thực khách biết rằng, phần lớn số nội tạng xuất hiện ở quán nướng, lẩu vỉa hè đã được ướp lạnh, lênh đênh trên biển vài tháng rồi được ướp, tẩm gia vị và chuyển về Việt Nam. Nhưng ngay cả khi đã dùng hóa chất để phun, ướp chống thối rữa, thì nhiều chuyến hàng nội tạng bị hải quan và cơ quan thú y kiểm tra cũng đã bị phân hủy và bốc mùi.
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/11/160564.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id160564', 'inline');"
+											onMouseOut="setVisibility(event,'id160564', 'none');" >
+											Hà Nội tràn lan nội tạng bẩn
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/11/160564.cand'>
+											Hà Nội tràn lan nội tạng bẩn
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/xahoi/2011/11/160564.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl16_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\thuydt1\thuydt1/8_noi2313-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="160441" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Khát vọng lên bờ của làng chài Kiến An
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								9:05, 24/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Đã gần 30 năm nay, cuộc sống của 23 hộ dân với 90 nhân khẩu cứ chòng chành trên những chiếc thuyền nan neo đậu bên bờ sông Lạch Tray, phường Ngọc Sơn, huyện Kiến An (Hải Phòng). Và ít ai có thể tưởng tượng người lớn tại làng chài nghèo này thì chỉ có ít người biết chữ, mới có 15 đứa trẻ được đi học qua lớp 5. Ngày qua ngày, họ vẫn mơ ước được lên bờ với một cuộc sống ổn định.
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/11/160441.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'160441', 'inline');"
+											onMouseOut="setVisibility(event,'160441', 'none');" >
+											Khát vọng lên bờ của làng chài Kiến An
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/11/160441.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl17_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\maiphuong/14_ba2311-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id160362" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Cần chuyển tiền cho các nạn nhân bị cháy ở Hải Phòng
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								12:39, 23/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Có không ít người giật mình khi nghe tin, số tiền trên 2,4 tỷ đồng của hàng trăm tổ chức, cá nhân hảo tâm ủng hộ những nạn nhân trong vụ cháy tại Xưởng may gia công mũ giày ở thôn Đại Hoàng 2, xã Tân Dân, huyện An Lão, Hải Phòng, hiện chưa đến tay các nạn nhân và gia đình. <BR><A href="http://www.cand.com.vn/vi-VN/nhanai/2011/8/153671.cand" target=_blank pathAttribute="1"><STRONG>&gt;&gt; Cần lắm sự chia sẻ của cộng đồng</STRONG></A>
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/11/160362.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id160362', 'inline');"
+											onMouseOut="setVisibility(event,'id160362', 'none');" >
+											Cần chuyển tiền cho các nạn nhân bị cháy ở Hải Phòng
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/11/160362.cand'>
+											Cần chuyển tiền cho các nạn nhân bị cháy ở Hải Phòng
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/xahoi/2011/11/160362.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl18_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_CANDONLINE\maiphuong/14_cap2310-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td bgcolor="#e6f1f5">
+				<div class="Content" id="160307" style="z-index:150">
+					<table width="300" bgcolor=#fffff0 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Nghị lực của những người mẹ có H
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								9:11, 22/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Họ là những người mẹ bị lây nhiễm căn bệnh thế kỷ - HIV/AIDS từ chồng, đơn độc nuôi con giữa bộn bề lo toan, kỳ thị nhưng vẫn giữ được niềm lạc quan, yêu đời, vươn lên phát triển kinh tế. Những con người một thời tưởng đã buông xuôi cho số phận ấy giờ trở thành những tấm gương tiêu biểu trong các hoạt động tình nguyện "Vì ngày mai tươi sáng"...
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/11/160307.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'160307', 'inline');"
+											onMouseOut="setVisibility(event,'160307', 'none');" >
+											Nghị lực của những người mẹ có H
+										</a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td>
+							<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/11/160307.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl19_FSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_VNCA\thuydt1\thuydt1/6_chi2309-80_60x60.jpg" height="60" width="60" border="0" /></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		<tr>
+			<td>
+				<div class="Content" id="id160272" style="z-index:150">
+					<table width="300" bgcolor=#ddecf1 border="0" cellspacing="2" cellpadding="2">
+						<tr>
+							<td class="content_title">
+								Báo CAND và Công ty Tân Việt Bắc tặng 100 suất học bổng
+							</td>
+						</tr>
+						<tr>
+							<td class="content_date"  align=left valign=top>
+								8:48, 22/11/2011
+							</td>
+						</tr>
+						<tr>
+							<td class="noibattrangchu_abstract">
+								Tại lễ đón nhận Huân chương lao động Hạng Nhất của trường THPT Xuân Trường (Nam Định), Đại tá Phạm Văn Miên, Phó Tổng biên tập Báo CAND - cựu học sinh nhà trường, đại diện Ban Biên tập Báo CAND cùng ông Nguyễn Văn Bắc, Giám đốc Công ty cổ phần Đầu tư xây dựng hạ tầng và khai thác mỏ Tân Việt Bắc, đã trao tặng gần 100 suất học bổng cho các cháu học sinh nghèo vượt khó, có thành tích khá trong học tập với số tiền 30 triệu đồng. 
+
+
+							</td>
+						</tr>
+					</table>
+				</div>
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tr style="padding-left:4px">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tr>
+									<td>
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/11/160272.cand'  class="tieudiem_abstract"
+											onMouseOver="setVisibility(event,'id160272', 'inline');"
+											onMouseOut="setVisibility(event,'id160272', 'none');" >
+											Báo CAND và Công ty Tân Việt Bắc tặng 100 suất học bổng
+										</a>
+										<!--
+										<a href='http://www.cand.com.vn/vi-VN/xahoi/2011/11/160272.cand'>
+											Báo CAND và Công ty Tân Việt Bắc tặng 100 suất học bổng
+										</a>
+									 --->
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td><a href='http://www.cand.com.vn/vi-VN/xahoi/2011/11/160272.cand'>
+								<img id="RightNavBarNew1_StoryFocusList1_rptSFL_ctl20_AltFSA" src="http://www.cand.com.vn/Thumbnail\Uploaded_ANTGCT\anhtu1\nguyenbinh/3_dong2309-80_60x60.jpg" height="60" width="60" border="0" /></a></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	
+		</table>
+	
+</TD>
+	</TR>
+	<TR>
+		<TD class="rightside_cell"></TD>
+	</TR>
+	<tr>
+		<td>
+			
+		</td>
+	</tr>
+	<TR>
+		<TD class="rightside_cell" align="center"></TD>
+	</TR>
+</TABLE>
+</TD>
+												</TR>
+												<TR>
+													<TD></TD>
+												</TR>
+											</TABLE>
+										</TD>
+									</TR>
+								</TBODY>
+							</TABLE>
+						</TD>
+					</TR>
+					<TR>
+						<TD>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="leftright_columms">
+	<tr>
+		<td vAlign="bottom" align="left">
+			
+		</td>
+	</tr>
+	<tr>
+		<td class="c_right" bgcolor="#920000" height="25">
+			<div align="center">
+				<a href="http://www.cand.com.vn">Trang chủ </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;				
+				<a id="Footer_lnkANTG" href="http://antg.cand.com.vn">An ninh Thế giới </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkANTGCT" href="http://antgct.cand.com.vn">ANTG Cuối tháng </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkVNCA" href="http://vnca.cand.com.vn">Văn nghệ Công An </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkCAND" href="http://cstc.cand.com.vn">Cảnh sát toàn cầu </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkSitemap" href="http://www.cand.com.vn/News/Sitemap.aspx">Sơ đồ Website </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkRSS" href="http://www.cand.com.vn/RSS/Default.aspx">RSS </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkFAQ" href="http://www.cand.com.vn/News/FAQ.aspx">FAQ </a>&nbsp;<img src="/images/CAND/p_dot.gif" alt="" height="5" width="5" border="0">&nbsp;
+				<a id="Footer_lnkWeblink" href="http://www.cand.com.vn/News/WebLink.aspx">Liên kết Web</a>
+			</div>
+		</td>
+	</tr>
+	<tr height="36">
+		<td bgcolor="#407080" height="36" style="PADDING-BOTTOM:8px;PADDING-TOP:6px">
+			<!--
+			<div align="center" style="PADDING-BOTTOM:2px"><span id="Footer_lbFooter4" class="footer_title1">Tổng Biên tập: Trung tướng Hữu Ước</span></div>
+			-->
+			<DIV align="center" style="PADDING-BOTTOM:2px">
+				<span id="Footer_lbFooter1" class="footer_title1">Phụ trách biên tập: Trần Thị An Bình - Nguyễn Trang Dũng - Trần Anh Tú</span></DIV>
+			<DIV align="center" style="PADDING-BOTTOM:2px">
+				<span id="Footer_lbFooter2" class="footer_title2">©2007. Báo Công an nhân dân điện tử - CAND Online. All rights reserved.</span>
+			</DIV>
+			<div align="center" style="PADDING-BOTTOM:2px">
+				<span id="Footer_lbFooter3" class="footer_title2">Khi sử dụng lại thông tin từ website này, xin vui lòng ghi rõ nguồn "CAND Online".</span>
+			</div>
+		</td>
+	</tr>
+</table>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4763663-1']);
+  _gaq.push(['_setDomainName', '.cand.com.vn']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></TD>
+					</TR>
+				</TBODY>
+			</TABLE>
+			<img src='/rpc/counter.aspx?ckey=F_view&cvalue=36&story=161370&rand=59952332' width=1 height=1 border=0 alt=''></form>
+	</body>
+</HTML>

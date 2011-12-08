@@ -1,0 +1,773 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><link href="../../../App_Themes/Hanoimoi/Contact.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/mouseovertabs.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/newscategory.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/newsdetail.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/stylehome.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/thickbox.css" type="text/css" rel="stylesheet" /><link href="../../../App_Themes/Hanoimoi/Top_Tip.css" type="text/css" rel="stylesheet" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta http-equiv="refresh" content="600" /><title>
+	
+        Thái Lan sẵn sàng đón khách du lịch trở lại
+</title><link href="/Client/slide/featuredcontentglider.css" rel="stylesheet" type="text/css" /><link href="/Client/jquery.ui.tab/css/flick/jquery-ui-1.7.2.custom.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        body
+        {
+            margin: 0px;
+            padding: 0px 0px 60px;
+            background: #FFFFFF no-repeat fixed center 0px;
+        }
+        .divFixed
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            left: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixed_R
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            right: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixedBg_IE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_RIE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_IE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+        .divFixedBg_RIE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+    </style>
+    <script language="JavaScript" type="text/javascript"> 
+//    function LoadImages(s,c)
+//    {
+//   
+//        s.getAttribute("loi")==null?s.setAttribute("loi","1"):s.setAttribute("loi",eval(s.getAttribute("loi"))+1);
+//        if(eval(s.getAttribute("loi"))>=2){c=c.substr(c.lastIndexOf("=")+1,c.length-c.lastIndexOf("="));
+//        s.onerror=null;s.src="/App_Themes/Default/Images/no_image_"+c+".jpg"}
+//        else s.src=c
+//    }
+     function returnUrl12() {
+            var key = document.getElementById('txt_search')
+	       
+            if (key.value.length != 0) {
+                location= "/NewsSearch.aspx?keyword=" + encodeURIComponent(key.value);
+		return false;	
+            }
+            else {
+                alert("Cần nhập từ khóa để tìm kiếm");
+                document.getElementById('txt_search').focus();
+                return false;
+            }
+        }
+    </script>
+  <link href="/StyleSheets/Poll/style.css" rel="stylesheet" type="text/css" /><link rel="shortcut icon" href="../../../Images/hanoimoi.ico" />
+    <script src="/Scripts/jquery.js" type="text/javascript"></script>
+    <script src="/Scripts/AdsFloat.js" type="text/javascript"></script>
+    <script src="/Client/slide/featuredcontentglider2.js" type="text/javascript"></script>    
+    <script src="/Scripts/jquery.query.js" type="text/javascript"></script>
+    <script src="/Scripts/swfobject.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/Scripts/hanoimoi.js"></script>
+    <script src="/Client/jquery.ui.tab/js/jquery-ui-1.7.2.tab.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/Scripts/thickbox-compressed.js"></script>
+	<script type="text/javascript" src="http://media.adnetwork.vn/js/adnetwork.js"></script>
+    
+    
+   
+
+    <!--###################End Tooltip##########################-->
+    <style type="text/css">
+        .highlight
+        {
+            background: yellow;
+            color: black;
+            text-decoration: none;
+        }
+        #dhtmltooltip
+        {
+            position: absolute;
+            left: -300px;
+            width: 150px;
+            border: 1px solid black;
+            padding: 2px;
+            background-color: lightyellow;
+            visibility: hidden;
+            z-index: 9999 !important; /*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+            filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+        }
+        #dhtmlpointer
+        {
+            position: absolute;
+            left: -300px;
+            z-index: 99999 !important;
+            visibility: hidden;
+        }
+        body
+        {
+            margin: 0px;
+            padding: 0px 0px 60px;
+            background: #FFFFFF url(/Customize/ExtendBanner/bg_tgdd_0410.jpg) no-repeat fixed center 0px;
+        }
+        .divFixed
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            left: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixed_R
+        {
+            position: absolute;
+            top: expression(0+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+ 'px' );
+            right: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+ 'px' );
+        }
+        }
+        .divFixedBg_IE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_RIE
+        {
+            z-index: 5000;
+            cursor: pointer;
+            background: #ffffff;
+            opacity: 0.4;
+            filter: alpha(opacity = 0);
+        }
+        .divFixedBg_IE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+        .divFixedBg_RIE6
+        {
+            z-index: 5000;
+            cursor: pointer;
+        }
+    </style>
+
+    <script type="text/javascript" src="/Scripts/ActiveX_Template.js"></script>
+    
+    
+    </head>
+<body style="margin:0; padding:0;">
+    <form name="aspnetForm" method="post" action="thai-lan-san-sang-don-khach-du-lich-tro-lai.htm" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1MDgyNDE3ODRkZLdGuKYor4zzbeyqoZKMwEhA7eqw" />
+
+
+<script src="/ScriptResource.axd?d=4WCo4BS4q6MmLKbKg_hgv30XMEhbgp_cBRPY1P5ZWbkmAn6bktJZcN0Vr4w74pOorArEOaxQ1_HfWersP6cidMit-57Li7j6b8xcAiTzRK_IxFjTGHYulZFUmdTkLOB2jcnb3Tf9Zd5m8W3UnUDTYri6NsGAVbUMjCsq1mT80WpEtuQe0&amp;t=ffffffffea696f7c" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWFQKnspfWCwLiydb3BgKA4oCQBQKPs5q3DQKzqrHfCAKIzPeOAQKLwJnaCgLU4dDxBwLhocvvAwLV48O+CwLUpYXRBwLG+9tdAtHP1+4MAvTq4aQDAurX1ecJAvfgtPQMAt3E+90MAtuu0ogPAtO368wBAtiWq7sNAueVloQCAR4etfIypg1uYEeJWmGfdVfcVFA=" />
+        <!-- Quang cao 2 ben trang -->
+    <div id="divResult"></div>
+    
+
+ 
+    <div >
+        
+        <div id="main_body" >
+            <div id="top">
+                <div class="wrapbar" id="dvBanner">
+                    <div class="left_logo">
+                        <a href="#">
+                            <img alt="" src="/images/hanoimoi_logo.png" border="0" /></a>
+                    </div>
+                    <div class="right_adv">
+                       <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" 
+codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="640" height="87" name="wmode">
+    <param name="movie" value="/Uploads/NCC/ads-homepage/netdepnguoithudo.swf">
+                  <param name="quality" value="high">
+                  <param name="wmode" value="transparent">
+                 <embed wmode="transparent" src="/Uploads/NCC/ads-homepage/netdepnguoithudo.swf" allowscriptaccess="always" type="application/x-shockwave-flash" width="640" height="87"></embed>
+</object>
+
+                    </div>
+                </div>
+                <div id="dvTopMenu">
+                    <div class="wrapbar">
+                        <div class="menu_content2">
+                            <div id="mytabsmenu" class="tabsmenuclass">
+                                <ul class="menutop"><li><a href="/index.htm" rel="gotsubmenu[selected]">Trang chủ</a></li><li><a id='Chinh-tri' rel="gotsubmenu" href="/categoryparent/192/Chinh-tri.htm">Chính trị</a></li><li><a id='Xa-hoi' rel="gotsubmenu" href="/categoryparent/163/Xa-hoi.htm">Xã hội</a></li><li><a id='Kinh-te' rel="gotsubmenu" href="/categoryparent/190/Kinh-te.htm">Kinh tế</a></li><li><a id='The-gioi' rel="gotsubmenu" href="/categoryparent/189/The-gioi.htm">Thế giới</a></li><li><a id='Van-hoa' rel="gotsubmenu[selected]" href="/categoryparent/179/Van-hoa.htm">Văn hóa</a></li><li><a id='The-thao' rel="gotsubmenu" href="/categoryparent/170/The-thao.htm">Thể thao</a></li><li><a id='Giao-duc' rel="gotsubmenu" href="/categoryparent/164/Giao-duc.htm">Giáo dục</a></li><li><a id='1000_nam_thang_long' rel="gotsubmenu" href="/categoryparent/204/1000_nam_thang_long.htm">Thăng Long - Hà Nội</a></li><li><a id='Phap-luat' rel="gotsubmenu" href="/categoryparent/175/Phap-luat.htm">Pháp luật</a></li><li><a id='Khoa-hoc' rel="gotsubmenu" href="/categoryparent/100/Khoa-hoc.htm">Khoa học</a></li><li><a id='Doi-song' rel="gotsubmenu" href="/categoryparent/224/Doi-song.htm">Đời sống</a></li></ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="wrapbar">
+                        <div class="menu_boder_left">
+                            <!---->
+                        </div>
+                        <div class="sub_menu_content">
+                            <div id="mysubmenuarea" class="tabsmenucontentclass">
+                                <!--1st link within submenu container should point to the external submenu contents file-->
+                                <a href="/submenucontents.aspx" style="visibility: hidden">
+                                    Sub Menu contents</a>
+                            </div>
+
+                            <script type="text/javascript">
+                                //mouseovertabsmenu.init("tabs_container_id", "submenu_container_id", "bool_hidecontentsmouseout")
+                                mouseovertabsmenu.init("mytabsmenu", "mysubmenuarea", false)
+
+                            </script>
+
+                        </div>
+                        <div class="menu_boder_right">
+                            <!---->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+
+<div id="main_wrap">
+        <div class="wrapbar">
+           <div class="left_news_category_box">
+                <div class="left_category_news">
+                    
+
+<script language="javascript" type="text/javascript">
+    $(function() {
+
+        // hides the slickbox as soon as the DOM is ready
+        // (a little sooner than page load)
+        $('#slickbox').hide();
+        $('#sendcomment').hide();
+        // shows the slickbox on clicking the noted link  
+        $('a#slick-show').click(function() {
+            $('#slickbox').show('slow');
+            return false;
+        });
+        $(".btnEmai").click(function() {
+            var pID = $(this).attr("id");
+            var pShortName = $(this).parent().attr("id");
+            tb_show('Kết quả bình luận', '/PrintNews.aspx?newsID=' + pID + '&shortname=' + pShortName + '&no_refresh=1&TB_iframe=true&height=430&width=450&modal=true');
+            return false;
+        });
+        // hides the slickbox on clicking the noted link  
+        $('a#slick-hide').click(function() {
+            $('#slickbox').hide('fast');
+            return false;
+        });
+
+        // toggles the slickbox on clicking the noted link  
+        $('a#slick-toggle').click(function() {
+            $('#slickbox').toggle(400);
+            return false;
+        });
+        // toggles the slickbox on clicking the noted link  
+        $('a#slick-toggle-send').click(function() {
+            $('#sendcomment').toggle(400);
+            return false;
+        });
+        $(".keyword").live('click', function() {
+            location='/NewsSearch.aspx?keyword='+$.trim($(this).html());
+            return false;
+        });
+    });
+</script>
+
+<div class="content_category_news">
+    <div class="content_category_news_title">
+        <a id="ctl00_MainContent_NewsDetailControl_lnkNameCategory"></a>
+        <span class='content_category_news_title_parent'><a href='/categoryparent/179/Van-hoa.htm' class='parentCatTitle' rel='Van-hoa' style='font-family:Arial;color:#0066CC;font-weight:bold;font-size:12px;text-transform:uppercase;'>Văn hóa</a>&nbsp;>&nbsp;<a style='font-family:Arial;color:#0066CC;font-weight:bold;font-size:11px;text-transform:uppercase;' href='/newscategory/166/Du-lich.htm'>Du lịch</a></span>
+    </div>
+    <div class="content_category_news_dot">
+    </div>
+    <br class="clearfloat" />
+    <div class="content_news_detail">
+        <div class="icon_print_email">
+            <a href="#" id="Du-lich">
+                <img src="/images/email.gif" /><span class="btnEmai"
+                    id="532372">Email</span></a><a href="/print/532372/print.htm"><img
+                        src="/images/print.gif" /><span>Print</span></a>
+        </div>
+        <br class="clearfloat" />
+        <div class="content_body_detail">
+            <table id="ctl00_MainContent_NewsDetailControl_rptNewsDetail" cellspacing="0" border="0">
+	<tr>
+		<td>
+                    <div class="subtitle_news_detail" style="color: #808080; font-size: 9pt; font-weight: bold">
+                        
+                    </div>
+                    <div class="title_news_detail">
+                        Thái Lan sẵn sàng đón khách du lịch trở lại&nbsp;
+                    </div>
+                    <div style="float:left;font-size: small; color: Gray">
+                        07/12/2011 11:05
+                    </div>
+                    
+                    <div  style="color:#777777;float:left;padding-left:5px;">
+                           
+                           
+                            | Từ khóa :
+                           
+                            <a href="#" style="color:blue;font-size:8pt" class="keyword">Thái Lan</a>
+                            
+                           ,
+                           
+                            <a href="#" style="color:blue;font-size:8pt" class="keyword"> du lịch</a>
+                            
+                           ,
+                           
+                            <a href="#" style="color:blue;font-size:8pt" class="keyword"> ngập lụt</a>
+                            </div>
+                            
+                    <br class="clearfloat" />
+                    <div class="body">
+                        
+    <div style="font-weight:bold;color:#800000">Tin liên quan:</div>
+
+<div class='content_ul'><ul class="category_item_other"><li style='background:none'>»&nbsp;<a style='color:#000080' href="/newsdetail/The-gioi/532318/thai-lan-trung-tu-cac-di-tich-lich-su-sau-lu.htm">Thái Lan trùng tu các di tích lịch sử sau lũ&nbsp;</a></li><li style='background:none'>»&nbsp;<a style='color:#000080' href="/newsdetail/The-gioi/530960/kinh-te-thai-lan-bi-anh-huong-nghiem-trong.htm">Kinh tế Thái Lan bị ảnh hưởng nghiêm trọng&nbsp;</a></li></ul></div>
+                    </div>
+                    <div class="body_detail">
+                        <div style="text-align: justify"><strong>(HNMO) - Đ&oacute; l&agrave; lời khẳng định của &ocirc;ng Suraphon Svetasreni Tổng Cục trưởng Tổng Cục Du lịch Th&aacute;i Lan v&agrave; &ocirc;ng Pasacorn Supannapan &ndash; Gi&aacute;m đốc thị trường Th&aacute;i B&igrave;nh Dương khi tiếp đo&agrave;n nh&agrave; b&aacute;o Việt Nam sang t&igrave;m hiểu thực tế t&igrave;nh h&igrave;nh Th&aacute;i Lan sau lũ. Chuyến đi do c&ocirc;ng ty Vietravel v&agrave; h&atilde;ng h&agrave;ng kh&ocirc;ng Thai Airways tổ chức. <br />
+<br />
+</strong></div>
+<table cellspacing="1" cellpadding="1" border="0" align="center" width="200">
+    <tbody>
+        <tr>
+            <td><img width="400" height="267" src="/Uploads/lequyen/2011/12/7/IMG_6100(1).JPG" alt="" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><span style="color: #0000ff">Di t&iacute;ch Ch&ugrave;a V&agrave;ng của Th&aacute;i Lan (Ảnh chụp đầu th&aacute;ng 12/2011)</span></td>
+        </tr>
+    </tbody>
+</table>
+<div style="text-align: justify"><strong><br />
+* Th&aacute;i Lan đ&atilde; an to&agrave;n</strong><br />
+<br />
+PV H&agrave;nộimới c&oacute; mặt tại Th&aacute;i Lan v&agrave;o những ng&agrave;y đầu th&aacute;ng 12/2011. Theo quan s&aacute;t, to&agrave;n bộ Thủ đ&ocirc; Bangkok đều kh&ocirc; r&aacute;o, những dấu hiệu của cơn lũ vừa qua đ&atilde; biến mất, mọi sinh hoạt của người d&acirc;n Th&aacute;i Lan trở lại b&igrave;nh thường với những hoạt động bu&ocirc;n b&aacute;n tấp nập. Những khu vực tham quan như Ch&ugrave;a V&agrave;ng, Ho&agrave;ng Cung, những trung t&acirc;m thương mại, mua sắm lớn đều mở cửa trở lại v&agrave; hoạt động b&igrave;nh thường để đ&oacute;n kh&aacute;ch du lịch. Mọi ngả đường của Trung t&acirc;m Bangkok kh&ocirc;ng c&oacute; dấu hiệu của sự x&acirc;m chiếm của nước. Tất cả đều sạch sẽ, kh&ocirc; r&aacute;o như thể Th&aacute;i Lan chưa từng bị ngập lụt trước đ&oacute;.<br />
+&nbsp;</div>
+<table cellspacing="1" cellpadding="1" border="0" align="center" width="200">
+    <tbody>
+        <tr>
+            <td><img width="400" height="266" src="/Uploads/lequyen/2011/12/7/DSC_0260.JPG" alt="" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><span style="color: #0000ff">&Ocirc;ng Suraphon Svetasreni - Tổng Cục trưởng Tổng cục Du lịch Th&aacute;i Lan tiếp đo&agrave;n nh&agrave; b&aacute;o Việt Nam sang t&igrave;m hiểu thực tế</span></td>
+        </tr>
+    </tbody>
+</table>
+<div style="text-align: justify"><br />
+Theo th&ocirc;ng tin từ ph&iacute;a Tổng cục du lịch Th&aacute;i Lan, hiện nay phần lớn c&aacute;c khu vực từng bị ngập đ&atilde; được kh&ocirc;i phục ho&agrave;n to&agrave;n. Ngoại trừ một số điểm ngoại &ocirc; vẫn đang khắc phục hậu quả, c&ograve;n lại những khu vực du lịch đ&atilde; sẵn s&agrave;ng đ&oacute;n kh&aacute;ch. Th&agrave;nh phố cổ Ayutthaya (c&aacute;ch Bangkok khoảng 80km) l&agrave; 1 điểm tham quan ch&iacute;nh của du kh&aacute;ch, từng l&agrave; nơi bị ảnh hưởng nặng của trận lụt cũng đ&atilde; hoạt động b&igrave;nh thường từ cuối th&aacute;ng 11/2011, nước lũ kh&ocirc;ng c&ograve;n v&agrave; du kh&aacute;ch đ&atilde; c&oacute; thể v&agrave;o c&aacute;c ng&ocirc;i đền nổi tiếng n&agrave;y.<br />
+<br />
+Trước những c&acirc;u hỏi về t&igrave;nh h&igrave;nh ngập lụt, &ocirc;ng Suraphon Svetasreni - Tổng Cục trưởng Tổng cục Du lịch Th&aacute;i Lan (TAT) khẳng định: 97% c&aacute;c điểm tham quan, khu vui chơi, giải tr&iacute;, mua sắm kh&ocirc;ng bị ảnh hưởng bởi lũ lụt. Phần lớn những khu vực từng bị ngập nước l&agrave; v&ugrave;ng ngoại &ocirc;, n&ocirc;ng nghiệp, c&ograve;n những địa điểm du lịch, mua sắm kh&ocirc;ng bị ảnh hưởng nhiều. <br />
+&nbsp;</div>
+<table cellspacing="1" cellpadding="1" border="0" align="center" width="200">
+    <tbody>
+        <tr>
+            <td><img width="400" height="256" src="/Uploads/lequyen/2011/12/7/DSC_1043.jpg" alt="" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><span style="color: #0000ff">Đo&agrave;n kh&aacute;ch Việt Nam đầu ti&ecirc;n du lịch Th&aacute;i Lan sau trận lụt</span></td>
+        </tr>
+    </tbody>
+</table>
+<div style="text-align: justify"><br />
+Một số điểm trong trung t&acirc;m Bangkok bị ngập m&agrave; giới truyền th&ocirc;ng đưa tin thời gian qua như khu vực Ho&agrave;ng Cung l&agrave; do xả lũ kết hợp với triều cường từ hệ thống s&ocirc;ng Chao Phraya. Tuy nhi&ecirc;n,&nbsp;khu vực n&agrave;y&nbsp;mực nước chỉ khoảng 10 cm, v&agrave; r&uacute;t trong v&ograve;ng một ng&agrave;y. &ldquo;<em>Th&ocirc;ng tin về cơn lũ vừa qua c&oacute; nhiều l&uacute;c bị sai lệch dẫn đến t&acirc;m l&yacute; lo ngại chung cho du kh&aacute;ch nhiều quốc gia trong đ&oacute; c&oacute; Việt Nam.&rdquo;</em>, &ocirc;ng Suraphon Svetasreni b&agrave;y tỏ.<br />
+<br />
+Trước những nghi ngại về t&igrave;nh h&igrave;nh vệ sinh, m&ocirc;i trường, sức khỏe c&oacute; thể bị ảnh hưởng sau trận lụt, &ocirc;ng Suraphon Svetasreni khẳng định, Th&aacute;i Lan đ&atilde; chuẩn bị mọi biện ph&aacute;p ph&ograve;ng ngừa. Tất cả hệ thống bệnh viện, y tế ở Th&aacute;i Lan lu&ocirc;n trong t&igrave;nh trạng chuẩn bị tinh thần cao nhất để xử l&yacute; những vấn đề li&ecirc;n quan đến sức khỏe.<br />
+<br />
+<strong>* Du lịch Th&aacute;i Lan giảm gi&aacute; để k&eacute;o kh&aacute;ch</strong><br />
+<br />
+Th&ocirc;ng tin từ Tổng Cục du lịch Th&aacute;i Lan khẳng định, Việt Nam l&agrave; một trong những thị trường quan trọng nhất của du lịch Th&aacute;i Lan. Trong 10 th&aacute;ng đầu năm 2011, du kh&aacute;ch quốc tế đến Th&aacute;i Lan đạt 15,8 triệu, tăng 25% so với c&ugrave;ng kỳ năm năm 2010, trong đ&oacute; c&oacute; hơn 452.000 lượt kh&aacute;ch đến từ Việt Nam, tăng 44% so với c&ugrave;ng kỳ năm 2010. Tuy nhi&ecirc;n, khi trận lụt lịch sử diễn ra, du lịch Th&aacute;i Lan đ&atilde; bị thiệt hại nặng nề. Tổng thiệt hại của du lịch Th&aacute;i Lan l&ecirc;n đến 900 triệu USD với số kh&aacute;ch giảm từ 450.000 &ndash; 750.000 lượt kh&aacute;ch, chiếm từ 4% - 6%. Hiện nay, Tổng cục Du lịch Th&aacute;i Lan đang nổ lực để thu h&uacute;t du kh&aacute;ch trở lại Th&aacute;i Lan từ th&aacute;ng 12 n&agrave;y.<br />
+<br />
+Về giải ph&aacute;p cụ thể nhằm kh&ocirc;i phục nhanh thị trường du lịch Th&aacute;i Lan, &ocirc;ng Suraphon Svetasreni cho biết, sẽ tập trung chiến lược ph&aacute;t triển tr&ecirc;n nhiều phương diện truyền th&ocirc;ng, marketing, tăng cường c&aacute;c hoạt động giảm gi&aacute;, khuyến mại hấp dẫn tại hệ thống si&ecirc;u thị, khu vui chơi giải tr&iacute; cũng như điểm tham quan. Sắp tới Tổng cục du lịch Th&aacute;i Lan sẽ th&agrave;nh lập &ldquo;CLB những người bạn&rdquo;, nhằm thu h&uacute;t kh&aacute;ch đến Th&aacute;i Lan nhiều lần. CLB n&agrave;y đ&atilde; ph&aacute;t triển ở Ch&acirc;u &Acirc;u v&agrave; TAT sẽ ph&aacute;t triển mạnh tại khu vực Ch&acirc;u &Aacute; trong thời gian tới.<br />
+<br />
+Th&aacute;i Lan đ&atilde; s&ocirc;i động trở lại v&agrave; chắc chắn sẽ l&agrave; điểm đến hấp dẫn trong dịp năm mới v&agrave; Tết Nguy&ecirc;n đ&aacute;n 2012 sắp tới. Hiện nhiều c&ocirc;ng ty lữ h&agrave;nh du lịch Việt Nam đ&atilde; mở lại tour du lịch sang Th&aacute;i Lan với gi&aacute; tour hấp dẫn. Được biết, Vietravel l&agrave; c&ocirc;ng ty đầu ti&ecirc;n kh&ocirc;i phục lại tour Th&aacute;i Lan v&agrave; đ&atilde; đưa đo&agrave;n kh&aacute;ch đầu ti&ecirc;n đến Th&aacute;i Lan v&agrave;o ng&agrave;y 1/12/2011. <br />
+<br />
+&Ocirc;ng Trần Đo&agrave;n Thế Duy - Ph&oacute; Tổng Gi&aacute;m đốc c&ocirc;ng ty Vietravel cho biết, hiện nay c&ocirc;ng ty lữ h&agrave;nh n&agrave;y đang thực hiện nhiều g&oacute;i khuyến mại hấp dẫn để thu h&uacute;t lại du kh&aacute;ch sang thị trường Th&aacute;i Lan. &Ocirc;ng Duy khẳng định, Th&aacute;i Lan đ&atilde; an to&agrave;n v&agrave; s&ocirc;i động trở lại v&igrave; thế dự kiến từ giờ đến Tết Nguy&ecirc;n đ&aacute;n, đ&acirc;y sẽ l&agrave; một trong những lựa chọn của du kh&aacute;ch Việt Nam.<br />
+<br />
+<strong>Một số h&igrave;nh ảnh mới nhất của Th&aacute;i Lan sau trận ngập lụt lịch sử:</strong><br />
+&nbsp;</div>
+<table cellspacing="1" cellpadding="1" border="0" align="center" width="200">
+    <tbody>
+        <tr>
+            <td><img width="400" height="267" src="/Uploads/lequyen/2011/12/7/IMG_6100.JPG" alt="" /></td>
+        </tr>
+        <tr>
+            <td><img width="400" height="301" src="/Uploads/lequyen/2011/12/7/IMG_2605.JPG" alt="" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><span style="color: #0000ff">Di t&iacute;ch Ch&ugrave;a v&agrave;ng v&agrave; Ho&agrave;ng cung Th&aacute;i Lan&nbsp; kh&ocirc;ng c&oacute; dấu hiệu của nước x&acirc;m chiếm</span></td>
+        </tr>
+        <tr>
+            <td><img width="400" height="267" src="/Uploads/lequyen/2011/12/7/IMG_2603.JPG" alt="" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><span style="color: #0000ff">Khu vực trung t&acirc;m Thủ đ&ocirc; Bangkok sạch sẽ v&agrave; kh&ocirc; r&aacute;o</span></td>
+        </tr>
+        <tr>
+            <td><img width="400" height="267" src="/Uploads/lequyen/2011/12/7/IMG_2317.JPG" alt="" /></td>
+        </tr>
+        <tr>
+            <td><img width="400" height="267" src="/Uploads/lequyen/2011/12/7/IMG_2577.JPG" alt="" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><span style="color: #0000ff">C&aacute;c tuyến đường cao tốc của Th&aacute;i Lan trở lại nhịp sống b&igrave;nh thường</span></td>
+        </tr>
+        <tr>
+            <td><img width="400" height="267" src="/Uploads/lequyen/2011/12/7/IMG_2475.JPG" alt="" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><span style="color: #0000ff">Phố đi bộ của Tp đ&ecirc;m Pattaya tấp nập du kh&aacute;ch, chủ yếu l&agrave; kh&aacute;ch phương T&acirc;y. </span></td>
+        </tr>
+    </tbody>
+</table>
+<table cellspacing="1" cellpadding="1" border="0" align="center" width="200">
+    <tbody>
+        <tr>
+            <td><img width="400" height="267" src="/Uploads/lequyen/2011/12/7/IMG_2512.JPG" alt="" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><span style="color: #0000ff">C&aacute;c điểm du lịch đ&atilde; mở cửa trở lại, điển h&igrave;nh l&agrave; khu vườn lan của Tp Pattaya hấp dẫn du kh&aacute;ch quốc tế đến chi&ecirc;m ngưỡng</span></td>
+        </tr>
+        <tr>
+            <td><img width="400" height="266" src="/Uploads/lequyen/2011/12/7/DSC_0084.JPG" alt="" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><span style="color: #0000ff">Người d&acirc;n Th&aacute;i Lan v&agrave; du kh&aacute;ch nước ngo&agrave;i chăm ch&uacute; xem c&aacute;c chương tr&igrave;nh biểu diễn tại c&aacute;c điểm du lịch (Ảnh: điểm xem biểu diễn Voi tại TP Pattaya)</span></td>
+        </tr>
+        <tr>
+            <td><img width="400" height="267" src="/Uploads/lequyen/2011/12/7/IMG_2321.JPG" alt="" /></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><span style="color: #0000ff">Nhiều điểm ở khu vực ngoại &ocirc; của Th&aacute;i Lan cũng đ&atilde; kh&ocirc; r&aacute;o</span></td>
+        </tr>
+    </tbody>
+</table>
+                    </div>
+                    <div class="author">
+                        <br />
+                        Bài, ảnh: Hoàng Lân&nbsp;<span style="font-weight: normal; font-style: italic"></span>
+                    </div>
+                    <br class="clearfloat" />
+                </td>
+	</tr>
+</table>
+            
+            
+            
+            <br class="clearfloat" />
+        </div>
+        <div>
+            <span id="ctl00_MainContent_NewsDetailControl_lblDate"></span>
+        </div>
+        <div class="new_detail_adv">
+        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" name="wmode" height="78" width="470">
+<param name="movie" value="/Uploads/NCC/ads-tinbai/8-VanHoa-ThoiTrang_478x70.swf">
+<param name="quality" value="high">
+<param name="wmode" value="transparent">
+<embed wmode="transparent" src="/Uploads/NCC/ads-tinbai/8-VanHoa-ThoiTrang_478x70.swf" allowscriptaccess="always" type="application/x-shockwave-flash" height="78" width="470">
+</object>
+
+        </div>
+        <div style="padding:5px;">
+        <div style="display:block;">
+            <div class="news_detail_comment">
+                <a style="font-size:12px;text-transform:uppercase;font-weight:bold;font-family:Verdana,Arial;" href="#" id="slick-toggle">Xem phản hồi</a> | <a style="font-size:12px;text-transform:uppercase;font-weight:bold;font-family:Verdana,Arial;" href="#" id="slick-toggle-send">
+                    Gửi phản hồi</a>
+            </div>
+            <div class="content_comment">
+                <div class='content_category_news_title'>Ý KIẾN BẠN ĐỌC(0)</div><br class='clearfloat' /><div id='slickbox'></div>
+                <div id="sendcomment" style="padding-top: 10px">
+                    <div id="contenDiv" class="contenDiv">
+                        <table cellpadding="0" cellspacing="0" border="0" width="470px">
+                            <tr>
+                                <td>
+                                    <input value="Họ và Tên" onfocus="if(this.value=='Họ và Tên') this.value='';" onblur="if(this.value=='') this.value='Họ và Tên';"
+                                        type="text" name="txtName" id="txtName" class="adword-textbox"">
+                                </td>
+                                <td>
+                                    <input type="text" onfocus="if(this.value=='Email') this.value='';" onblur="if(this.value=='') this.value='Email';"
+                                        value="Email" name="txtEmail" id="txtEmail" class="adword-textbox">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="padding-top: 10px;">
+                                    <input type="text" onfocus="if(this.value=='Địa chỉ') this.value='';" onblur="if(this.value=='') this.value='Địa chỉ';"
+                                        value="Địa chỉ" name="txtAddress" id="txtAddress" class="adword-textbox"">
+                                </td>
+                                <td style="padding-top: 10px;">
+                                    <input type="text" onfocus="if(this.value=='Mã an toàn') this.value='';" onblur="if(this.value=='') this.value='Mã an toàn';"
+                                        value="Mã an toàn" name="txtValidCode" id="txtValidCode" class="adword-textbox2">
+                                    <span id="ctl00_MainContent_NewsDetailControl_lblCode" class="lbl_randomtext">IRRODX</span>
+                                    <div style="display: none;">
+                                        <input name="ctl00$MainContent$NewsDetailControl$txtNewsCode" type="text" value="IRRODX" id="ctl00_MainContent_NewsDetailControl_txtNewsCode" />
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" style="padding-top: 5px">
+                                    <textarea rows="10" name="txtAddedContent" id="txtAddedContent" cols="46" class="SForm"
+                                        style="width: 470px"></textarea>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2">
+                                    <input type="button" class="bg_button_send_comment2" onclick="getData('/CommentADD.aspx?newsID=532372','contenDiv')"
+                                        value="Gửi ý kiến">
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+    <div class="news_other_main">
+        <div class="content_category_news_title">
+            CÁC TIN KHÁC
+        </div>
+        <br class="clearfloat" />
+        <div class="list_news_other_item">
+            <ul class='category_item_other_main'><li><a href='/newsdetail/Du-lich/532192/chien-dich-bau-chon-vinh-ha-long-đuoc-nhieu-hon-mat.htm' style='padding-right:5px'>Chiến dịch bầu chọn Vịnh Hạ Long: Được nhiều hơn mất</a><span style='font-size:8pt'>(06/12/2011)</span></li><li><a href='/newsdetail/Du-lich/532115/bao-anh-khach-du-lich-toi-vn-se-tang.htm' style='padding-right:5px'>Báo Anh: Khách du lịch tới VN sẽ tăng</a><span style='font-size:8pt'>(05/12/2011)</span></li><li><a href='/newsdetail/Du-lich/532058/vietran-tour-gioi-thieu-nhung-tour-mua-sam-tuyet-voi-dip-giang-sinh.htm' style='padding-right:5px'>Vietran Tour giới thiệu những Tour mua sắm tuyệt vời dịp Giáng sinh</a><span style='font-size:8pt'>(05/12/2011)</span></li><li><a href='/newsdetail/Du-lich/532057/đi-tour-trung-vang--chuong-trinh-hap-dan-cua-vietran-tour-ha-noi.htm' style='padding-right:5px'>Đi Tour trúng Vàng - Chương trình hấp dẫn của Vietran Tour Hà nội</a><span style='font-size:8pt'>(05/12/2011)</span></li><li><a href='/newsdetail/Du-lich/531964/45-hang-lu-hanh-quoc-te-duoc-ton-vinh.htm' style='padding-right:5px'>45 hãng lữ hành quốc tế được tôn vinh</a><span style='font-size:8pt'>(03/12/2011)</span></li><li><a href='/newsdetail/Du-lich/531857/du-lich-va-hang-khong-manh-ai-nay-lam.htm' style='padding-right:5px'>Du lịch và hàng không: Mạnh ai nấy làm?</a><span style='font-size:8pt'>(02/12/2011)</span></li><li><a href='/newsdetail/Du-lich/531852/gia-ve-tham-quan-vinh-ha-long-da-duoc-dieu-chinh.htm' style='padding-right:5px'>Giá vé tham quan Vịnh Hạ Long đã được điều chỉnh</a><span style='font-size:8pt'>(02/12/2011)</span></li><li><a href='/newsdetail/Du-lich/531681/ghi-nhan-dong-gop-cua-cac-hang-lu-hanh-quoc-te-gui-khach-den-viet-nam.htm' style='padding-right:5px'>Ghi nhận đóng góp của các hãng lữ hành quốc tế gửi khách đến Việt Nam</a><span style='font-size:8pt'>(01/12/2011)</span></li><li><a href='/newsdetail/Du-lich/531561/tay-ban-nha-ho-tro-400-nghin-euro-cho-du-lich-viet-nam.htm' style='padding-right:5px'>Tây Ban Nha hỗ trợ 400 nghìn euro cho du lịch Việt Nam</a><span style='font-size:8pt'>(30/11/2011)</span></li><li><a href='/newsdetail/Du-lich/531446/he-thong-huong-dan-du-lich-thong-minh.htm' style='padding-right:5px'>Hệ thống hướng dẫn du lịch thông minh</a><span style='font-size:8pt'>(29/11/2011)</span></li><li><a href='/newsdetail/Du-lich/531444/kham-pha-hanh-trinh-đong-bac.htm' style='padding-right:5px'>“Khám phá hành trình Đông Bắc”</a><span style='font-size:8pt'>(29/11/2011)</span></li><li><a href='/newsdetail/Du-lich/531220/điem-nhan-la-festival-hue.htm' style='padding-right:5px'>Điểm nhấn là Festival Huế</a><span style='font-size:8pt'>(26/11/2011)</span></li><li><a href='/newsdetail/Du-lich/531219/du-khach-den-hoi-an-se-duoc-truy-cap-wifi-mien-phi.htm' style='padding-right:5px'>Du khách đến Hội An sẽ được truy cập wifi miễn phí</a><span style='font-size:8pt'>(26/11/2011)</span></li></ul>
+        </div>
+        <br class="clearfloat" />
+    </div>
+    <div id="news_search_datetime">
+        <div class="content_category_news_title">
+            XEM THEO NGÀY THÁNG
+        </div>
+        <br class="clearfloat" />
+       <div style="clear:both;float:left;width:100%;text-align:right;margin-top:10px">
+<script type="text/javascript">
+    $(function()
+    {
+        var d=new Date();
+        var currentYear=d.getFullYear();
+        $("select[id$=cboYear]").empty();
+        for(i=currentYear;i>=currentYear-5;i--)
+        {
+            $("select[id$=cboYear]").append("<option value='"+i+"'>"+i+"</option>");
+        }
+    });
+</script>
+Xem tin theo ngày: &nbsp;
+<select name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$cboDay" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_cboDay">
+	<option value="1">1</option>
+	<option value="2">2</option>
+	<option value="3">3</option>
+	<option value="4">4</option>
+	<option value="5">5</option>
+	<option value="6">6</option>
+	<option value="7">7</option>
+	<option selected="selected" value="8">8</option>
+	<option value="9">9</option>
+	<option value="10">10</option>
+	<option value="11">11</option>
+	<option value="12">12</option>
+	<option value="13">13</option>
+	<option value="14">14</option>
+	<option value="15">15</option>
+	<option value="16">16</option>
+	<option value="17">17</option>
+	<option value="18">18</option>
+	<option value="19">19</option>
+	<option value="20">20</option>
+	<option value="21">21</option>
+	<option value="22">22</option>
+	<option value="23">23</option>
+	<option value="24">24</option>
+	<option value="25">25</option>
+	<option value="26">26</option>
+	<option value="27">27</option>
+	<option value="28">28</option>
+	<option value="29">29</option>
+	<option value="30">30</option>
+	<option value="31">31</option>
+</select>
+<select name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$cboMonth" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_cboMonth">
+	<option value="1">Th&#225;ng 1</option>
+	<option value="2">Th&#225;ng 2</option>
+	<option value="3">Th&#225;ng 3</option>
+	<option value="4">Th&#225;ng 4</option>
+	<option value="5">Th&#225;ng 5</option>
+	<option value="6">Th&#225;ng 6</option>
+	<option value="7">Th&#225;ng 7</option>
+	<option value="8">Th&#225;ng 8</option>
+	<option value="9">Th&#225;ng 9</option>
+	<option value="10">Th&#225;ng 10</option>
+	<option value="11">Th&#225;ng 11</option>
+	<option selected="selected" value="12">Th&#225;ng 12</option>
+</select>
+<select name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$cboYear" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_cboYear">
+</select>
+<input type="submit" name="ctl00$MainContent$NewsDetailControl$NewsByDateControl$btnView" value="Xem" id="ctl00_MainContent_NewsDetailControl_NewsByDateControl_btnView" />
+<br />
+</div>
+    </div>
+</div>
+
+                </div>
+                <div class="right_category_box">
+                           
+                            <div class="box_adv_newscategory">
+                                <div class="right_content_box_bottom_adv">
+                                <body topmargin="0" leftmargin="0">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#016A99" height="1">
+<tr><td height=1></td></tr>
+</table></body>
+
+                                </div>  
+                            </div>
+                            <div  style="float:right;padding-top:5px;display:none">
+                                  
+    <div style="font-weight:bold;color:#800000">Tin liên quan:</div>
+
+<div class='content_ul'><ul class="category_item_other"><li style='background:none'>»&nbsp;<a style='color:#000080' href="/newsdetail/The-gioi/532318/thai-lan-trung-tu-cac-di-tich-lich-su-sau-lu.htm">Thái Lan trùng tu các di tích lịch sử sau lũ&nbsp;</a></li><li style='background:none'>»&nbsp;<a style='color:#000080' href="/newsdetail/The-gioi/530960/kinh-te-thai-lan-bi-anh-huong-nghiem-trong.htm">Kinh tế Thái Lan bị ảnh hưởng nghiêm trọng&nbsp;</a></li></ul></div> 
+                             </div>
+                            <div id="Div1" style="float:right;padding-top:5px">
+                              <div id='box_flow' style='display:block'><div class='box_top_ovan'><!----></div><div class='box_center_ovan'><div class='box_news_event_title'><a href='#' class='content_news_main_link'>Tin mới nhận</a></div><div class='content_ul'><table cellpadding='0' cellspacing='0' border='0'><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Van-hoa/532476/ca-si-tan-nhan-mong-mang-den-su-thanh-than-cho-moi-nguoi.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/12/Thumbnails08452011084530sapo1.jpg"></a><a class='link_news_focus' href='/newsdetail/Van-hoa/532476/ca-si-tan-nhan-mong-mang-den-su-thanh-than-cho-moi-nguoi.htm'>Ca sĩ Tân Nhàn mong mang đến sự thanh thản cho mọi người</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Van-hoa/532475/hoa-rung-rang-ro-trong-dem-huong-sac-viet-nam.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/12/Thumbnails08042011090457sapo2.jpg"></a><a  class='link_news_focus' href='/newsdetail/Van-hoa/532475/hoa-rung-rang-ro-trong-dem-huong-sac-viet-nam.htm'>“Hoa rừng” rạng rỡ trong đêm “Hương sắc Việt Nam”</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Van-hoa/532474/bui-cong-duy-nguyen-thao-hoa-tran-mung-giang-sinh-bang-tieng-chuong-ngan.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/12/Thumbnails08292011082913sapo.jpg"></a><a class='link_news_focus' href='/newsdetail/Van-hoa/532474/bui-cong-duy-nguyen-thao-hoa-tran-mung-giang-sinh-bang-tieng-chuong-ngan.htm'>Bùi Công Duy, Nguyên Thảo, Hòa Trần mừng Giáng sinh bằng "Tiếng chuông ngân"</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Van-hoa/532468/tranh-nguyen-ngoc-my-va-tinh-yeu-ha-noi.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/12/8/tranh-hn.jpg"></a><a  class='link_news_focus' href='/newsdetail/Van-hoa/532468/tranh-nguyen-ngoc-my-va-tinh-yeu-ha-noi.htm'>Tranh Nguyễn Ngọc Mỹ và tình yêu Hà Nội</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Van-hoa/532466/trao-giai-cuoc-thi-sang-tac-truyen-ngan-qua-tang-cuoc-song.htm'><img style="display:none" src=""></a><a class='link_news_focus' href='/newsdetail/Van-hoa/532466/trao-giai-cuoc-thi-sang-tac-truyen-ngan-qua-tang-cuoc-song.htm'>Trao giải cuộc thi sáng tác truyện ngắn "Quà tặng cuộc sống"</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Van-hoa/532465/gioi-my-thuat-ky-niem-60-nam-bac-ho-gui-thu-cho-hoa-si.htm'><img style="display:none" src=""></a><a  class='link_news_focus' href='/newsdetail/Van-hoa/532465/gioi-my-thuat-ky-niem-60-nam-bac-ho-gui-thu-cho-hoa-si.htm'>Giới mỹ thuật kỷ niệm 60 năm Bác Hồ gửi thư cho họa sĩ</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Van-hoa/532464/ra-mat-kich-co-dien-andromake.htm'><img style="display:none" src=""></a><a class='link_news_focus' href='/newsdetail/Van-hoa/532464/ra-mat-kich-co-dien-andromake.htm'>Ra mắt kịch cổ điển Andromake</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Van-hoa/532463/hoa-nhac-jazz-dam-chat-italia.htm'><img style="display:none" src=""></a><a  class='link_news_focus' href='/newsdetail/Van-hoa/532463/hoa-nhac-jazz-dam-chat-italia.htm'>Hòa nhạc jazz đậm chất Italia</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Van-hoa/532443/viet-nam-chien-thang-tai-cuoc-thi-am-nhac-like-performing-love-sony.htm'><img style="display:none" src=""></a><a class='link_news_focus' href='/newsdetail/Van-hoa/532443/viet-nam-chien-thang-tai-cuoc-thi-am-nhac-like-performing-love-sony.htm'>Việt Nam chiến thắng tại cuộc thi âm nhạc “Like Performing, Love Sony”</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Van-hoa/532410/hai-dem-chieu-phim-cua-nha-lam-phim-thuy-sy-stefan-haupt.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/12/Thumbnails070920110909182.jpg"></a><a  class='link_news_focus' href='/newsdetail/Van-hoa/532410/hai-dem-chieu-phim-cua-nha-lam-phim-thuy-sy-stefan-haupt.htm'>Hai đêm chiếu phim của nhà làm phim Thụy Sỹ Stefan Haupt</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Thoi-trang/532399/nguoi-mau-15-tuoi-gianh-giai-nhat-cuoc-thi-tim-kiem-nguoi-mau-2011.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/12/Thumbnails074920110449347-Julia-Sweden.jpg"></a><a class='link_news_focus' href='/newsdetail/Thoi-trang/532399/nguoi-mau-15-tuoi-gianh-giai-nhat-cuoc-thi-tim-kiem-nguoi-mau-2011.htm'>Người mẫu 15 tuổi giành giải Nhất cuộc thi Tìm kiếm người mẫu 2011</a><br class='clearfloat'></div></div></td></table></div></div><div class='box_bottom_ovan'><!----></div></div>
+                            </div>
+                            <div  style="float:right;padding-top:5px">
+                                  <div id='center_box' style='display:none'><div class='box_top_ovan'><!----></div><div class='box_center_ovan'><div class='box_news_event_title'><a href='#' class='content_news_main_link'>Theo dòng sự kiện</a></div><div class='box_news_event_content'></div></div><div class='box_bottom_ovan'><!----></div></div> 
+                             </div>
+                            <div id="box_flow" style="float:right;">
+                              <div id='box_flow' style='display:block'><div class='box_top_ovan'><!----></div><div class='box_center_ovan'><div class='box_news_event_title'><a href='#' class='content_news_main_link'>Tiêu điểm</a></div><div class='content_ul'><table cellpadding='0' cellspacing='0' border='0'><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Du-lich/532372/thai-lan-san-sang-don-khach-du-lich-tro-lai.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/12/Thumbnails07332011113355IMG_6100.jpg"></a><a class='link_news_focus' href='/newsdetail/Du-lich/532372/thai-lan-san-sang-don-khach-du-lich-tro-lai.htm'>Thái Lan sẵn sàng đón khách du lịch trở lại</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Du-lich/532115/bao-anh-khach-du-lich-toi-vn-se-tang.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/12/5/halong.jpg"></a><a  class='link_news_focus' href='/newsdetail/Du-lich/532115/bao-anh-khach-du-lich-toi-vn-se-tang.htm'>Báo Anh: Khách du lịch tới VN sẽ tăng</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Du-lich/528873/khong-dua-du-khach-viet-den-vung-ngap-lut-o-thai.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/11/Thumbnails02462011104610nl1.jpg"></a><a class='link_news_focus' href='/newsdetail/Du-lich/528873/khong-dua-du-khach-viet-den-vung-ngap-lut-o-thai.htm'>Không đưa du khách Việt đến vùng ngập lụt ở Thái</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Du-lich/528426/le-hoi-bia-đuc-noi-tieng-octoberfest-sap-dien-ra-tai-hn.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails28312011023118IMG_6417.CR2.jpg"></a><a  class='link_news_focus' href='/newsdetail/Du-lich/528426/le-hoi-bia-đuc-noi-tieng-octoberfest-sap-dien-ra-tai-hn.htm'>Lễ hội bia Đức nổi tiếng Octoberfest sắp diễn ra tại HN</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Du-lich/528036/la-residence-hue-co-ten-trong-bang-xep-hang-cua-conde-nast-traveler-2011.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails25382011093841image002.jpg"></a><a class='link_news_focus' href='/newsdetail/Du-lich/528036/la-residence-hue-co-ten-trong-bang-xep-hang-cua-conde-nast-traveler-2011.htm'>La Residence Huế có tên trong Bảng xếp hạng của Conde Nast Traveler 2011</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Du-lich/527486/4-khu-nghi-duong-va-3-khach-san-o-vn-duoc-tap-chi-conde-nast-traveler-vinh-danh.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails19122011061220image004.jpg"></a><a  class='link_news_focus' href='/newsdetail/Du-lich/527486/4-khu-nghi-duong-va-3-khach-san-o-vn-duoc-tap-chi-conde-nast-traveler-vinh-danh.htm'>4 khu nghỉ dưỡng và 3 khách sạn ở VN được tạp chí Conde Nast Traveler vinh danh </a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Du-lich/527463/lanh-dao-bo-vhttdl-va-ly-nha-ky-keu-goi-bau-chon-vinh-ha-long.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/10/Thumbnails190020110300443.jpg"></a><a class='link_news_focus' href='/newsdetail/Du-lich/527463/lanh-dao-bo-vhttdl-va-ly-nha-ky-keu-goi-bau-chon-vinh-ha-long.htm'>Lãnh đạo Bộ VHTT&DL và Lý Nhã Kỳ kêu gọi bầu chọn Vịnh Hạ Long</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Du-lich/525192/vinh-ha-long-lot-vao-vck-7-ky-quan-the-gioi-moi.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/9/Thumbnails28052011080531vinh.jpg"></a><a  class='link_news_focus' href='/newsdetail/Du-lich/525192/vinh-ha-long-lot-vao-vck-7-ky-quan-the-gioi-moi.htm'>Vịnh Hạ Long lọt vào VCK 7 kỳ quan thế giới mới</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Du-lich/524801/thieu-tieng-noi-chung.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/9/25/Baotang.jpg"></a><a class='link_news_focus' href='/newsdetail/Du-lich/524801/thieu-tieng-noi-chung.htm'>Thiếu tiếng nói chung</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Du-lich/524550/4-diem-ly-tuong-du-hi-mua-thu.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/9/22/BANGIOC.jpg"></a><a  class='link_news_focus' href='/newsdetail/Du-lich/524550/4-diem-ly-tuong-du-hi-mua-thu.htm'>4 điểm lý tưởng 'du hí' mùa thu</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Du-lich/519520/quy-trinh-nguoc.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/8/7/dulich.jpg"></a><a class='link_news_focus' href='/newsdetail/Du-lich/519520/quy-trinh-nguoc.htm'>Quy trình ngược?</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Du-lich/516771/tang-thoi-han-giay-phep-du-lich-viet-nam-cho-khach-nuoc-ngoai.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/7/13/khachdl.jpg"></a><a  class='link_news_focus' href='/newsdetail/Du-lich/516771/tang-thoi-han-giay-phep-du-lich-viet-nam-cho-khach-nuoc-ngoai.htm'>Tăng thời hạn Giấy phép du lịch Việt Nam cho khách nước ngoài</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Du-lich/516368/khai-mac-le-hoi-lang-co--vinh-dep-the-gioi.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/image/News/Thumbnails/2011/7/Thumbnails10302011063054langco.jpg"></a><a class='link_news_focus' href='/newsdetail/Du-lich/516368/khai-mac-le-hoi-lang-co--vinh-dep-the-gioi.htm'>Khai mạc lễ hội “Lăng Cô - vịnh đẹp thế giới”</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Du-lich/503002/phu-quoc--vua-bai-bien-chau-á.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/5/20/phu-quoc-1-in.jpg"></a><a  class='link_news_focus' href='/newsdetail/Du-lich/503002/phu-quoc--vua-bai-bien-chau-á.htm'>Phú Quốc - 'vua bãi biển' châu Á</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Du-lich/494322/tung-bung-le-hoi-carnaval-ha-long-2011.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/trongquang/2011/5/2/Hlong9.jpg"></a><a class='link_news_focus' href='/newsdetail/Du-lich/494322/tung-bung-le-hoi-carnaval-ha-long-2011.htm'>Tưng bừng Lễ hội Carnaval Hạ Long 2011</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Du-lich/494222/mo-man-mua-du-lich-he-2011-phia-sau-hoi-he….htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/5/1/Phao-hoa.jpg"></a><a  class='link_news_focus' href='/newsdetail/Du-lich/494222/mo-man-mua-du-lich-he-2011-phia-sau-hoi-he….htm'>Mở màn mùa du lịch hè 2011: Phía sau hội hè…</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Du-lich/481422/khach-noi-tim-duong-du-lich-ngoai-chay-mau-ngoai-te-!.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/3/28/dulich.jpg"></a><a class='link_news_focus' href='/newsdetail/Du-lich/481422/khach-noi-tim-duong-du-lich-ngoai-chay-mau-ngoai-te-!.htm'>Khách nội tìm đường du lịch ngoại: Chảy máu ngoại tệ !</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Du-lich/477333/tau-bien-lon-nhat-the-gioi-den-viet-nam.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/anhthu/2011/3/22/taubien.jpeg"></a><a  class='link_news_focus' href='/newsdetail/Du-lich/477333/tau-bien-lon-nhat-the-gioi-den-viet-nam.htm'>Tàu biển lớn nhất thế giới đến Việt Nam</a><br class='clearfloat'></div></div></td></tr><tr><td valign='top' height='100%'><div style='float:left'><div id='box_news_focus'><a href='/newsdetail/Du-lich/476767/chon-tour-du-lich-gia-re-can-than-tien-mat-tat-mang.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/chiennv/2011/3/19/dlgiare.jpg"></a><a class='link_news_focus' href='/newsdetail/Du-lich/476767/chon-tour-du-lich-gia-re-can-than-tien-mat-tat-mang.htm'>Chọn tour du lịch giá rẻ: Cẩn thận tiền mất, tật mang</a><br class='clearfloat'></div></div></td><td valign='top' height='100%'><div style='float:right'><div id='box_news_focus'><a href='/newsdetail/Du-lich/469517/đa-vao-giai-doan-nong-bong.htm'><img style="display:block;float:left;margin-right:5px;" src="/GetThumbnail.ashx?width=50&height=50&ImgFilePath=/Uploads/tuanphong/2011/3/11/ha-long.jpg"></a><a  class='link_news_focus' href='/newsdetail/Du-lich/469517/đa-vao-giai-doan-nong-bong.htm'>Đã vào giai đoạn “nóng bỏng”</a><br class='clearfloat'></div></div></td></tr></table></div></div><div class='box_bottom_ovan'><!----></div></div>
+                            </div>
+                            
+                            <div class="box_adv_newscategory">
+                              <div class="right_content_box_bottom_adv">
+                                <br>
+
+                               </div>  
+                            </div>
+                        </div>
+           </div>
+           <div class="right_news_category_box">
+              <ul class="right_content_box_adv_main">
+                    <li>
+                    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" name="wmode" height="360" width="180">
+    <param name="movie" value="/Uploads/NCC/2011-NBN/ads-homepage/songkhoe180x360.swf">
+                  <param name="quality" value="high">
+                  <param name="wmode" value="transparent">
+                 <embed wmode="transparent" src="/Uploads/NCC/2011-NBN/ads-homepage/songkhoe180x360.swf" allowscriptaccess="always" type="application/x-shockwave-flash" height="360" width="180">
+</object>
+
+                    </li>
+                    <li>
+                    <a href="/newsdetail/Van-hoa/424354/%C4%91on-doc-ha-noi-ngay-nay-so-1-bo-moi.htm">
+<img src="/Uploads/NCC/2011/ads-homepage/HN-Ngaynay.jpg" border="0">
+</a>
+
+                    </li>
+                    <li>
+                    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" name="wmode" height="180" width="180">
+<param name="movie" value="/Uploads/NCC/ads-homepage/4D-homeduhoc_180x180.swf">
+<param name="quality" value="high">
+<param name="wmode" value="transparent">
+<embed wmode="transparent" src="/Uploads/NCC/ads-homepage/4D-homeduhoc_180x180.swf" allowscriptaccess="always" type="application/x-shockwave-flash" height="180" width="180">
+</object>
+
+                    </li>
+                    <li>
+                    <object width="180" height="180" name="wmode" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+    <param value="/Uploads/NCC/ads-homepage/4A-chuyenmuckinhte_180x180.swf" name="movie">
+                  <param value="high" name="quality">
+                  <param value="transparent" name="wmode">
+                 <embed width="180" height="180" type="application/x-shockwave-flash" allowscriptaccess="always" src="/Uploads/NCC/ads-homepage/4A-chuyenmuckinhte_180x180.swf" wmode="transparent">
+</object>
+
+                    </li>
+                 
+                </ul>
+           </div> 
+        </div>
+      </div>
+
+            <div id="footer">
+                <div id="footer_wrap">
+                    <div class="menu">
+                        <div class="tabsmenuclass">
+                            <ul class='menutop'>
+                                <li><a href=''>Trang chủ</a></li>
+                                <li><a href='/contact/contact.htm'>
+                                    <img width='10px' height='11px' style='border: 0px none; float: left; margin-top: 10px;'
+                                        src='/images/icon01.png' />&nbsp;Liên hệ tòa soạn</a></li>
+                                <li><a onclick='setHomepage();' href='javascript:void(0);'>
+                                    <img width='12px' height='9px' style='border: 0px none; float: left; margin-top: 10px;'
+                                        src='/images/icon02.png' />&nbsp;Đặt HNM làm trang chủ</a></li>
+                                <li><a href='/Modules/NewsLetter/NewsLetterRegister.aspx'>
+                                    <img width='12px' height='9px' style='border: 0px none; float: left; margin-top: 10px;'
+                                        src='/images/icon03.png' />&nbsp;Đăng ký nhận tin mới</a></li>
+                                <li>
+                                    <select name="ctl00$ddlWebLink" id="ctl00_ddlWebLink" onchange="window.open(this.value)" style="float: left; margin: 5px 20px 0 180px;">
+	<option value="Liên kết Website">Li&#234;n kết Website</option>
+	<option value="http://www.dangcongsan.vn">B&#225;o Điện tử Đảng CSVN</option>
+	<option value="http://www.nhandan.com.vn">B&#225;o Nh&#226;n D&#226;n</option>
+	<option value="http://www.vietnamplus.vn">TTXVN</option>
+	<option value="http://www.cuocsongvantuoidep.vn">&quot;Cuộc sống vẫn tươi đẹp&quot; tr&#234;n VTV4</option>
+	<option value="http://chinhphu.vn">Website Ch&#237;nh phủ</option>
+	<option value="http://www.na.gov.vn">Quốc hội Việt Nam</option>
+	<option value="http://www.vnexpress.net">VnExpress</option>
+	<option value="http://www.vnn.vn">Vietnamnet</option>
+	<option value="http://tienphong.vn">Tiền Phong</option>
+	<option value="http://www.tuoitre.com.vn">Tuổi trẻ</option>
+	<option value="http://www.anninhthudo.vn">An ninh Thủ đ&#244;</option>
+	<option value="http://www.nld.com.vn">B&#225;o Người Lao Động</option>
+	<option value="http://www.baothuathienhue.vn/">B&#225;o Thừa Thi&#234;n Huế</option>
+	<option value="http://www.baobinhthuan.com.vn">B&#225;o B&#236;nh Thuận</option>
+
+</select>
+                                </li>
+                                <li><a href="#top" style="margin: 0; padding: 0 5px 0 5px; color: white; font-weight: bold">
+                                    Về đầu trang</a> </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="footer_text">
+                        Bản quyền © 2003-2010 Báo Hànộimới - CQCQ: Thành ủy Hà Nội<br/>
+                        Giấy phép số 1123/GP-BTTTT, cấp ngày: 21/7/2011. Tổng biên tập: TÔ QUANG PHÁN<br/>
+                        Địa chỉ: 44 Lê Thái Tổ - Hà Nội . ĐT (04) 38253067 – 39287445 . Fax: (04) 39287445 . Email:<a style='color:blue' href='mailto:webmaster@hanoimoi.com.vn'>webmaster@hanoimoi.com.vn</a><br/>
+                        Ghi rõ nguồn "Báo Hànộimới" khi phát hành lại thông tin từ website này.
+                  </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+
+    <script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12223163-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

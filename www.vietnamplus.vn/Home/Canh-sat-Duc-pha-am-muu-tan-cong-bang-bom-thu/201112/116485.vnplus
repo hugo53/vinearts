@@ -1,0 +1,574 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><title>
+	Trang nhất -- Vietnam+ (VietnamPlus)
+</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="robots" content="index" /><meta name="Googlebot" content="index" /><meta http-equiv="imagetoolbar" content="no" /><meta http-equiv="Page-Exit" content="progid:DXImageTransform.Microsoft.Fade(duration=.5)" /><link type="text/css" href="/Themes/Default/Style/css.axd?d=Red_Styles.css,hbase.css,template_css.css,scrollable.css,scrollable_nav.css,espebanner.css&amp;v=1.6" rel="stylesheet" />
+    <!--[if IE]>
+        <link type="text/css" media="all" rel="stylesheet" href="../../Themes/Default/Style/IEFixes.css" />
+    <![endif]-->
+    <!--[if IE 7]><link href="../../Themes/Default/Style/ie7_css.css" rel="stylesheet" type="text/css" /><![endif]-->
+    
+    <meta name="description" content="Tin Trang nhất - VIETNAMPLUS Daily news from Vietnam's most popular Online Magazine Includes world national sports business Laodong Vietnam News Daily Economy Online Internet Magazine Portal Tin nhanh Cap nhat Bao Dien tu Vietbao TinViet VietNews Mua Ban Rao Vat Tu Van Viec Lam Hanoi Ha Noi Saigon Sai gon Tin tuc Tintuc Hue Da Nang Danang VDC Netnam Saigonnet Sggp VET Nhandan Nhan dan Laodong Lao dong Kinhte Kinh te Kinhdoanh Kinh doanh VNExpress FPT">
+<meta name="keywords" content="VIETNAMPLUS News Vietnam Daily Economy Online Internet Magazine Gateway IXP ISP ICP FPT Portal Tin nhanh Cap nhat Bao Dien tu Vietbao TinViet VietNews Mua Ban Rao Vat Tu Van Viec Lam Hanoi Ha Noi Saigon Sai gon Tin tuc Tintuc Hue Da Nang Danang VDC Netnam Saigonnet Sggp VET Nhandan Nhan dan Laodong Lao dong Kinhte Kinh te Kinhdoanh Kinh doanh VNExpress FPT tinhoctaichinh.com.vn ePi CMS personalized personalization news newspaper blogs weblogs aggregator reader customized custom">
+<meta http-equiv="refresh" content="1200">
+    
+<link rel="alternate" href="http://www.vietnamplus.vn/RSS/Feed.aspx" type="application/rss+xml" title="RSS"/>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <script language="JavaScript" src="/JScripts/Calendar.js"></script>
+    
+<script language="javascript" src="/log.aspx?ck=all_view&rand=1925230310"></script>
+<script language="javascript" src="/log.aspx?ck=f_view&cid=0&rand=307674440"></script>
+
+<script src="/JScripts/epi.js?Version=3.0.4303.31608" type="text/javascript"></script>
+    <script type="text/javascript" src="/JScripts/jslib.axd?d=jquery.tools.min.js,gm.js,cookie.js,personalize.js,vietuni.js,datetime.js,FloatAd.js,FlashAd.js,espebanner.js,swfobject.js"></script>
+    <script type="text/javascript">
+        setTypingMode(1);
+    </script>
+    <script type="text/javascript">
+        // execute your scripts when DOM is ready. this is a good habit
+        $(function() {
+
+            // initialize scrollable
+            $("div.scrollable").scrollable({
+                vertical: true,
+                size: 4,
+                items: '#focusItem',
+                hoverClass: 'hover',
+                // items are auto-scrolled in 2 secnod interval 
+                interval: 5000,
+                // when last item is encountered go back to first item 
+                loop: true,
+                // make animation a little slower than the default 
+                speed: 600,
+                // when seek starts make items little transparent 
+                onBeforeSeek: function() {
+                    this.getItems().fadeTo(300, 0.2);
+                },
+                // when seek ends resume items to full transparency 
+                onSeek: function() {
+                    this.getItems().fadeTo(300, 1);
+                }
+            });
+        });
+    </script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5708419-12']);
+  _gaq.push(['_setDomainName', '.vietnamplus.vn']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+    <!-- Begin Effective Measure Code -->
+        <script type="text/javascript">
+            (function() {
+                var em = document.createElement('script');
+                em.src = ('https:' == document.location.protocol ? 'https://vn-ssl.' : 'http://vn-cdn.') + 'effectivemeasure.net/em.js';
+                em.setAttribute('async', 'true');
+                document.documentElement.firstChild.appendChild(em);
+            })();
+        </script>
+        <noscript>
+        <img src="//vn.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
+        </noscript>
+    <!-- End Effective Measure Code -->
+    <form name="aspnetForm" method="post" action="../../Zone.aspx?zone=0&amp;" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1MDU3OTU5NDhkZA==" />
+
+    <div id="networks">
+                       <div style="color:white;" >
+            <p><a href="http://hanoi.vietnamplus.vn">Hà Nội</a> &nbsp;|&nbsp; <a href="http://vietkieu.vietnamplus.vn">Người Việt ở nước ngoài</a> &nbsp;|&nbsp; <a href="http://bongda.vietnamplus.vn">Bóng đá châu Âu</a></p>
+               </div>
+    </div>
+    <div class="wrap">
+        <div class="wrapLeft">
+        </div>
+        <div class="content">
+            <!--Header-->
+            <!-- Start: ePiCMS.Framework.Controls.Header -->
+<!-- Skin Path: ~/Themes/Default/Skins/Header.ascx -->
+
+
+<a name="toppage"></a>
+<div class="hdr">
+    <div class="bg_banner">
+        <div class="text_banner" style="float: left;">
+            <div class="style_logo">
+                <a accesskey="1" style="overflow: hidden; height: 69px; text-align: left;" href="/">
+                    <img src="/Themes/Default/Images/logo.png" width="365" height="69" align="left" />
+                </a>
+            </div>
+            <div style="position: absolute; vertical-align: top; margin-left: 10px">
+                 <a href="http://www.vietnamplus.vn">Tiếng Việt </a>&nbsp; | &nbsp;<a href="http://en.vietnamplus.vn">
+                    English </a>&nbsp; | &nbsp;<a href="http://fr.vietnamplus.vn"> Français </a>
+                &nbsp; | &nbsp;<a href="http://es.vietnamplus.vn"> Español </a>&nbsp; | &nbsp;
+                <a href="http://cn.vietnamplus.vn">中文 </a>&nbsp; | &nbsp;<a style="color:#ffee00" href="http://mobile.vietnamplus.vn/"> MOBILE </a>
+            </div>
+        </div>
+        <div class="text_banner" style="float: right;">
+            <div style="vertical-align: top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.vietnamplus.vn/staticpages/about.html"><span>TTXVN</span></a>
+                | <a href="http://news.vnanet.vn/"><span>Dịch vụ tin</span></a>| <a href="/Utilities/Contact.aspx">
+                    <span>Quảng cáo</span></a>| <a href="/Utilities/Contact.aspx"><span>
+                        Liên hệ</span></a> 
+            </div>
+            <div style="margin-top: 12px">
+                
+<div class="search_test">
+    <span>Tìm kiếm</span>
+    <input name="ctl00$Header$_$ctlSearchBox$SearchPhrase" type="text" id="ctl00_Header___ctlSearchBox_SearchPhrase" class="box_search" onfocus="if (this.value='Srearch') this.value='';" onblur="if(this.value=='') this.value='search...';" />
+    <div style="visibility: hidden">
+        <input type="submit" name="ctl00$Header$_$ctlSearchBox$btnSearch" value="" id="ctl00_Header___ctlSearchBox_btnSearch" /></div>
+</div>
+
+            </div>
+        </div>
+        <div class="clearThis">
+        </div>
+    </div>
+    
+    
+<div id="header">
+         <div id="nav" class="fix_ie"><ul><li id=""><a style="float:left" href="/Home/chinhtri.vnplus"  onmouseover="actuatorMouseover(event, 'm291','s', 0, 0);return true;" onmouseout="actuatorMouseout(event, 'm291');return true;">Chính trị</a></li><li id=""><a style="float:left" href="/Home/thegioi.vnplus"  onmouseover="actuatorMouseover(event, 'm209','s', 0, 0);return true;" onmouseout="actuatorMouseout(event, 'm209');return true;"><span style="padding-right:10px;">|</span>Thế giới</a></li><li id=""><a style="float:left" href="/Home/kinhte.vnplus"  onmouseover="actuatorMouseover(event, 'm311','s', 0, 0);return true;" onmouseout="actuatorMouseout(event, 'm311');return true;"><span style="padding-right:10px;">|</span>Kinh tế</a></li><li id=""><a style="float:left" href="/Home/xahoi.vnplus"  onmouseover="actuatorMouseover(event, 'm314','s', 0, 0);return true;" onmouseout="actuatorMouseout(event, 'm314');return true;"><span style="padding-right:10px;">|</span>Xã hội</a></li><li id=""><a style="float:left" href="/Home/doisong.vnplus"  onmouseover="actuatorMouseover(event, 'm320','s', 0, 0);return true;" onmouseout="actuatorMouseout(event, 'm320');return true;"><span style="padding-right:10px;">|</span>Đời sống</a></li><li id=""><a style="float:left" href="/Home/vanhoa.vnplus"  onmouseover="actuatorMouseover(event, 'm215','s', 0, 0);return true;" onmouseout="actuatorMouseout(event, 'm215');return true;"><span style="padding-right:10px;">|</span>Văn hóa</a></li><li id=""><a style="float:left" href="/Home/thethao.vnplus"  onmouseover="actuatorMouseover(event, 'm214','s', 0, 0);return true;" onmouseout="actuatorMouseout(event, 'm214');return true;"><span style="padding-right:10px;">|</span>Thể thao</a></li><li id=""><a style="float:left" href="/Home/khoahoc.vnplus"  onmouseover="actuatorMouseover(event, 'm213','s', 0, 0);return true;" onmouseout="actuatorMouseout(event, 'm213');return true;"><span style="padding-right:10px;">|</span>Khoa học</a></li><li id=""><a style="float:left" href="/Home/congnghe.vnplus"  onmouseover="actuatorMouseover(event, 'm212','s', 0, 0);return true;" onmouseout="actuatorMouseout(event, 'm212');return true;"><span style="padding-right:10px;">|</span>Công nghệ</a></li><li id=""><a style="float:left" href="/Home/otoxemay.vnplus"  onmouseover="actuatorMouseover(event, 'm364','s', 0, 0);return true;" onmouseout="actuatorMouseout(event, 'm364');return true;"><span style="padding-right:10px;">|</span>Ôtô-Xe máy</a></li><li id=""><a style="float:left" href="/Home/moitruong.vnplus"  onmouseover="actuatorMouseover(event, 'm270','s', 0, 0);return true;" onmouseout="actuatorMouseout(event, 'm270');return true;"><span style="padding-right:10px;">|</span>Môi trường</a></li><li id=""><a style="float:left" href="/Home/dulich.vnplus"  onmouseover="actuatorMouseover(event, 'm237','s', 0, 0);return true;" onmouseout="actuatorMouseout(event, 'm237');return true;"><span style="padding-right:10px;">|</span>Du lịch</a></li><li id=""><a style="float:left" href="/Home/tinthitruong.vnplus"  onmouseover="actuatorMouseover(event, 'm218','s', 0, 0);return true;" onmouseout="actuatorMouseout(event, 'm218');return true;"><span style="padding-right:10px;">|</span>Thị trường</a></li></ul></div><div style="clear" ></div><div class="menuFrame" id="m291Frame"></div><div class="menuFrame" id="m209Frame"><div class="menu" id="m209"><ul><li><a href="/Home/thegioi/asean.vnplus"><span style="font-size:11px;">ASEAN</span></a></li><li><a href="/Home/thegioi/chaua-tbd.vnplus"><span style="font-size:11px;">Châu Á-TBD</span></a></li><li><a href="/Home/thegioi/trungdong.vnplus"><span style="font-size:11px;">Trung Đông</span></a></li><li><a href="/Home/thegioi/chauau.vnplus"><span style="font-size:11px;">Châu Âu</span></a></li><li><a href="/Home/thegioi/chaumy.vnplus"><span style="font-size:11px;">Châu Mỹ</span></a></li><li><a href="/Home/thegioi/chauphi.vnplus"><span style="font-size:11px;">Châu Phi</span></a></li></ul></div></div><div class="menuFrame" id="m311Frame"><div class="menu" id="m311"><ul><li><a href="/Home/kinhte/kinhdoanh.vnplus"><span style="font-size:11px;">Kinh doanh</span></a></li><li><a href="/Home/kinhte/taichinh.vnplus"><span style="font-size:11px;">Tài chính</span></a></li><li><a href="/Home/kinhte/chungkhoan.vnplus"><span style="font-size:11px;">Chứng khoán</span></a></li><li><a href="/Home/kinhte/batdongsan.vnplus"><span style="font-size:11px;">Bất động sản</span></a></li><li><a href="/Home/kinhte/doanhnghiep.vnplus"><span style="font-size:11px;">Doanh nghiệp</span></a></li></ul></div></div><div class="menuFrame" id="m314Frame"><div class="menu" id="m314"><ul><li><a href="/Home/xahoi/giaoduc.vnplus"><span style="font-size:11px;">Giáo dục</span></a></li><li><a href="/Home/xahoi/caccuocthi.vnplus"><span style="font-size:11px;">Y tế</span></a></li><li><a href="/Home/xahoi/phapluat.vnplus"><span style="font-size:11px;">Pháp luật</span></a></li><li><a href="/Home/xahoi/giaothong.vnplus"><span style="font-size:11px;">Giao thông</span></a></li><li><a href="/Home/xahoi/vietkieu.vnplus"><span style="font-size:11px;">Người Việt bốn phương</span></a></li></ul></div></div><div class="menuFrame" id="m320Frame"><div class="menu" id="m320"><ul><li><a href="/Home/doisong/phongcach.vnplus"><span style="font-size:11px;">Phong cách</span></a></li><li><a href="/Home/doisong/suckhoe.vnplus"><span style="font-size:11px;">Sức khỏe</span></a></li><li><a href="/Home/doisong/lamdep.vnplus"><span style="font-size:11px;">Làm đẹp</span></a></li><li><a href="/Home/doisong/amthuc.vnplus"><span style="font-size:11px;">Ẩm thực</span></a></li></ul></div></div><div class="menuFrame" id="m215Frame"><div class="menu" id="m215"><ul><li><a href="/Home/vanhoa/dienanh.vnplus"><span style="font-size:11px;">Điện ảnh</span></a></li><li><a href="/Home/vanhoa/amnhac.vnplus"><span style="font-size:11px;">Âm nhạc</span></a></li><li><a href="/Home/vanhoa/thoitrang.vnplus"><span style="font-size:11px;">Thời trang</span></a></li><li><a href="/Home/vanhoa/nhac-phim-sach.vnplus"><span style="font-size:11px;">Điểm Nhạc-Phim-Sách</span></a></li></ul></div></div><div class="menuFrame" id="m214Frame"><div class="menu" id="m214"><ul><li><a href="/Home/thethao/bongda.vnplus"><span style="font-size:11px;">Bóng đá</span></a></li><li><a href="/Home/thethao/quanvot.vnplus"><span style="font-size:11px;">Quần vợt</span></a></li></ul></div></div><div class="menuFrame" id="m213Frame"><div class="menu" id="m213"><ul><li><a href="/Home/khoahoc/ungdung.vnplus"><span style="font-size:11px;">Khoa học ứng dụng</span></a></li></ul></div></div><div class="menuFrame" id="m212Frame"><div class="menu" id="m212"><ul><li><a href="/Home/congnghe/sanphammoi.vnplus"><span style="font-size:11px;">Sản phẩm mới</span></a></li></ul></div></div><div class="menuFrame" id="m364Frame"></div><div class="menuFrame" id="m270Frame"></div><div class="menuFrame" id="m237Frame"><div class="menu" id="m237"><ul><li><a href="/Home/dulich/diemden.vnplus"><span style="font-size:11px;">Điểm đến</span></a></li><li><a href="/Home/dulich/lehoi.vnplus"><span style="font-size:11px;">Lễ hội</span></a></li><li><a href="/Home/dulich/khachsanresort.vnplus"><span style="font-size:11px;">Khách sạn/Resort</span></a></li><li><a href="/Home/dulich/tourmoi.vnplus"><span style="font-size:11px;">Tour mới</span></a></li></ul></div></div><div class="menuFrame" id="m218Frame"></div>
+</div>
+<div style="clear:both" ></div>
+
+
+
+       
+
+
+
+</div>
+<div class="clearThis">
+</div>
+
+
+<!-- End: ePiCMS.Framework.Controls.Header -->
+
+            <!--End of Header-->
+            <!--Body-->
+            <div class="body">
+                <div class="bodyTop">
+                    
+                    
+                    <div class="catCol1">
+                        
+    
+<div class="catNews">
+    <img id="ctl00_mContent_top3tinID_imgImage1" src="/avatar.aspx?ID=119295&amp;at=2&amp;ts=295&amp;lm=634589643266730000" align="left" border="1" />
+    <div class="catNewsText">
+        <a id="ctl00_mContent_top3tinID_lnkHeadline1" class="catNewsTitle" href="/Home/UEFA-ra-phan-quyet-cuoi-cung-danh-cho-Rooney/201112/116552.vnplus">UEFA ra phán quyết cuối cùng dành cho Rooney</a>
+        <div class="catNewsTime">
+            <span id="ctl00_mContent_top3tinID_lbDate" class="catNewsTime">08/12/2011</span>
+            |
+            <span id="ctl00_mContent_top3tinID_lbTime" class="catNewsTime_">18:03:00</span></div>
+        <span id="ctl00_mContent_top3tinID_lbDesc1" class="top3news">Wayne Rooney chỉ phải
+nhận án phạt 2 trận tại vòng chung kết Euro 2012 thay vì phán quyết 3 trận được
+đưa ra trước đó của UEFA.
+</span>
+    </div>
+    <div class="clearThis">
+    </div>
+</div>
+<div class="catNewsBottom">
+    <div class="catItem">
+        <img id="ctl00_mContent_top3tinID_imgImage2" src="/avatar.aspx?ID=119259&amp;at=0&amp;ts=90&amp;lm=634589588579700000" align="left" border="1" /><a id="ctl00_mContent_top3tinID_lnkHeadline2" class="catItemTitle" href="/Home/Phuong-Linh-Dan-ong-can-chap-nhan-tinh-xau-cua-toi/201112/116530.vnplus">Phương Linh: “Đàn ông cần chấp nhận tính xấu của tôi”</a><span id="ctl00_mContent_top3tinID_lbDesc2"><div align="justify">Với quyết định "Nam tiến" để lập nghiệp, Phương Linh dường như đã đột phá sang hướng mới, tự mở cho mình cánh cửa mới đầy hứng khởi.<strong><br>
+</strong></div>
+</span>
+    </div>
+    <div class="catItem">
+        <img id="ctl00_mContent_top3tinID_imgImage3" src="/avatar.aspx?ID=119278&amp;at=0&amp;ts=90&amp;lm=634589593863300000" align="left" border="1" /><a id="ctl00_mContent_top3tinID_lnkHeadline3" class="catItemTitle" href="/Home/Google-chi-300-trieu-USD-cho-trung-tam-Hong-Kong/201112/116538.vnplus">Google chi 300 triệu USD cho trung tâm Hong Kong</a><span id="ctl00_mContent_top3tinID_lbDesc3">Google sẽ
+đầu tư 300 triệu USD vào trung tâm dữ liệu tại Hongkong, nhằm tiến tới mục tiêu
+đưa trung tâm này vào hoạt động từ 2013.<br>
+</span>
+    </div>
+    <div class="clearThis">
+    </div>
+</div>
+
+    <!-- Top 3 news cua cat -->
+    <div class="catCol">
+        <div class="catColLeft">
+            <!-- Start: ePiCMS.Framework.Controls.ContentList -->
+<!-- Skin Path: ~/Themes/Default/Skins/ContentList.ascx -->
+<span id="ctl00_mContent_ctl00___lbMessage"><b></b></span>
+
+        <div class="catItem02">
+            <a id="ctl00_mContent_ctl00___rptMainList_ctl00_lnkHeadline" href="/Home/Yahoo-thang-610-trieu-USD-trong-vu-kien-thu-rac/201112/116553.vnplus">Yahoo! thắng 610 triệu USD trong vụ kiện thư rác</a><div class="clearthis">
+            </div>
+            <span id="ctl00_mContent_ctl00___rptMainList_ctl00_lbDate" class="catNewsTime">08/12/2011</span>
+            |
+            <span id="ctl00_mContent_ctl00___rptMainList_ctl00_lbTime" class="catNewsTime_">17:57:00</span>
+            <div class="clearthis">
+            </div>
+            
+            <span id="ctl00_mContent_ctl00___rptMainList_ctl00_lbDesc">Thẩm phán tòa án Liên bang quận phía Nam New York đã yêu cầu các đối tượng gửi thư rác phải bồi thường 610 triệu USD cho Yahoo!</span>
+            <div class="clearthis">
+            </div>
+        </div>
+    
+        <div class="catItem02">
+            <a id="ctl00_mContent_ctl00___rptMainList_ctl01_lnkHeadline" href="/Home/Bao-luc-truoc-cuoc-bau-cu-quoc-hoi-Cote-Divoire/201112/116550.vnplus">Bạo lực trước cuộc bầu cử quốc hội Cote D'ivoire</a><div class="clearthis">
+            </div>
+            <span id="ctl00_mContent_ctl00___rptMainList_ctl01_lbDate" class="catNewsTime">08/12/2011</span>
+            |
+            <span id="ctl00_mContent_ctl00___rptMainList_ctl01_lbTime" class="catNewsTime_">17:40:00</span>
+            <div class="clearthis">
+            </div>
+            
+            <span id="ctl00_mContent_ctl00___rptMainList_ctl01_lbDesc">Ngày 7/12, vụ tấn công bằng rocket đã xảy ra tại thành phố Grand-Lahou, cách thủ đô Abidjan 100km về phía Tây, làm 6 người thương vong.</span>
+            <div class="clearthis">
+            </div>
+        </div>
+    
+        <div class="catItem02">
+            <a id="ctl00_mContent_ctl00___rptMainList_ctl02_lnkHeadline" href="/Home/Cau-ket-bao-ve-chom-sieu-thi-Big-C-Thang-Long/201112/116551.vnplus">Cấu kết bảo vệ "chôm" siêu thị Big C Thăng Long</a><div class="clearthis">
+            </div>
+            <span id="ctl00_mContent_ctl00___rptMainList_ctl02_lbDate" class="catNewsTime">08/12/2011</span>
+            |
+            <span id="ctl00_mContent_ctl00___rptMainList_ctl02_lbTime" class="catNewsTime_">17:37:00</span>
+            <div class="clearthis">
+            </div>
+            
+            <span id="ctl00_mContent_ctl00___rptMainList_ctl02_lbDesc">Cấu kết với một nhân viên giám sát bảo vệ, nhóm đối tượng đã chia nhau trộm nhiều đồ của siêu thị Big C Thăng Long để bán trục lợi.</span>
+            <div class="clearthis">
+            </div>
+        </div>
+    
+        <div class="catItem02">
+            <a id="ctl00_mContent_ctl00___rptMainList_ctl03_lnkHeadline" href="/Home/Ky-luc-ve-thien-tai-bac-ty-tai-My-trong-nam-2011/201112/116549.vnplus">Kỷ lục về “thiên tai bạc tỷ” tại Mỹ trong năm 2011</a><div class="clearthis">
+            </div>
+            <span id="ctl00_mContent_ctl00___rptMainList_ctl03_lbDate" class="catNewsTime">08/12/2011</span>
+            |
+            <span id="ctl00_mContent_ctl00___rptMainList_ctl03_lbTime" class="catNewsTime_">17:23:00</span>
+            <div class="clearthis">
+            </div>
+            
+            <span id="ctl00_mContent_ctl00___rptMainList_ctl03_lbDesc">Trong năm 2011, nước Mỹ đã phá kỷ lục về hiện tượng thời tiết cực đoan với ít nhất 12 đợt thiên tai, gây thiệt hại hàng chục tỷ USD.</span>
+            <div class="clearthis">
+            </div>
+        </div>
+    
+        <div class="catItem02">
+            <a id="ctl00_mContent_ctl00___rptMainList_ctl04_lnkHeadline" href="/Home/Khai-mac-hoi-nghi-cong-tac-Dang-ngoai-nuoc-2011/201112/116548.vnplus">Khai mạc hội nghị công tác Đảng ngoài nước 2011</a><div class="clearthis">
+            </div>
+            <span id="ctl00_mContent_ctl00___rptMainList_ctl04_lbDate" class="catNewsTime">08/12/2011</span>
+            |
+            <span id="ctl00_mContent_ctl00___rptMainList_ctl04_lbTime" class="catNewsTime_">17:20:00</span>
+            <div class="clearthis">
+            </div>
+            
+            <span id="ctl00_mContent_ctl00___rptMainList_ctl04_lbDesc">Hội nghị công tác đảng ngoài nước 2011, nhằm triển khai nhiệm vụ công tác đảng, lãnh đạo quần chúng ở ngoài nước, khai mạc 8/12, ở Hà Nội.</span>
+            <div class="clearthis">
+            </div>
+        </div>
+    
+        <div class="catItem02">
+            <a id="ctl00_mContent_ctl00___rptMainList_ctl05_lnkHeadline" href="/Home/CPCPhilippines-tang-hop-tac-thuong-mai-dau-tu/201112/116547.vnplus">CPC-Philippines tăng hợp tác thương mại, đầu tư</a><div class="clearthis">
+            </div>
+            <span id="ctl00_mContent_ctl00___rptMainList_ctl05_lbDate" class="catNewsTime">08/12/2011</span>
+            |
+            <span id="ctl00_mContent_ctl00___rptMainList_ctl05_lbTime" class="catNewsTime_">17:17:00</span>
+            <div class="clearthis">
+            </div>
+            
+            <span id="ctl00_mContent_ctl00___rptMainList_ctl05_lbDesc">Campuchia và Philippines đã ký hiệp định thúc đẩy quan hệ song phương trong các lĩnh vực thương mại, đầu tư, du lịch và nông nghiệp.</span>
+            <div class="clearthis">
+            </div>
+        </div>
+    
+<div class="pageView">
+    <div class="pageViewDate" style="float: left;">
+        <img src="/images/icons/Icon_Calendar.gif" border="0" align="absmiddle">&nbsp;&nbsp;<a id="lnkDate" class="title" href="javascript:void(0)" onclick="popUpCalendar(this, document.getElementById('lnkDate'), 'dd-mm-yyyy',null,'vi')" value="08-12-2011">Xem theo ngày</a>
+    </div>
+    <div class="pageViewNo" style="float: right; margin-top: 5px;">
+        <span style='padding-right:5px'>[<span class="pageViewNoItemSelected">1</span>]</span><a class="pageViewNoItem" href="/Home/Trang-2.vnplus">2</a><a class="pageViewNoItem" href="/Home/Trang-3.vnplus">3</a><a class="pageViewNoItem" href="/Home/Trang-4.vnplus">4</a><a class="pageViewNoItem" href="/Home/Trang-5.vnplus">5</a><a class="pageViewNoItem" href="/Home/Trang-5.vnplus">...</a><a class="pageViewNoItem" href="/Home/Trang-19160.vnplus">19160</a>
+    </div>
+    <div class="clearthis">
+    </div>
+</div>
+<!-- End: ePiCMS.Framework.Controls.ContentList -->
+
+            <!-- Cac tin khac cua cat -->
+        </div>
+        <div class="catColRight">
+            
+<div class="scrollable">
+    <!-- Start: ePiCMS.Framework.Controls.LinkList -->
+<!-- Skin Path: ~/Themes/Default/Skins/VerticalFocusList.ascx -->
+
+<div id="focusItem">
+    
+            <div class="focusNews">
+                <img id="ctl00_mContent_ctlVFC_ctl00___rptLinkList_ctl00_imgImage" onmouseover="this.style.cursor='pointer'" onclick="window.location.target='_blank';window.location.href='http://www.vietnamplus.vn/Home/Tong-thong-My-co-tuoi-tho-cao-hon-nguoi-thuong/201112/116546.vnplus'" src="/avatar.aspx?ID=119286&amp;at=1&amp;ts=90&amp;lm=634589614006270000" align="left" border="1" />
+                <a id="ctl00_mContent_ctlVFC_ctl00___rptLinkList_ctl00_lnkHeadline" class="hotNewsTitle" href="/Home/Tong-thong-My-co-tuoi-tho-cao-hon-nguoi-thuong/201112/116546.vnplus">Tổng thống Mỹ sống thọ</a><br />
+                <span id="ctl00_mContent_ctlVFC_ctl00___rptLinkList_ctl00_lbDesc" class="hotNewsSapo">Hầu hết các tổng thống Mỹ có tuổi thọ trung bình cao hơn so với những nam giới khác nhờ sự giàu sang và sự chăm sóc của các bác sỹ.</span>
+            </div>
+        
+            <div class="focusNews">
+                <img id="ctl00_mContent_ctlVFC_ctl00___rptLinkList_ctl01_imgImage" onmouseover="this.style.cursor='pointer'" onclick="window.location.target='_blank';window.location.href='http://www.vietnamplus.vn/Home/Cai-cach-doanh-nghiep-NN-Nen-bat-dau-tu-dau/201112/116533.vnplus'" src="/avatar.aspx?ID=119267&amp;at=1&amp;ts=90&amp;lm=634589590283770000" align="left" border="1" />
+                <a id="ctl00_mContent_ctlVFC_ctl00___rptLinkList_ctl01_lnkHeadline" class="hotNewsTitle" href="/Home/Cai-cach-doanh-nghiep-NN-Nen-bat-dau-tu-dau/201112/116533.vnplus">Cải cách từ đâu?</a><br />
+                <span id="ctl00_mContent_ctlVFC_ctl00___rptLinkList_ctl01_lbDesc" class="hotNewsSapo">Chính sách cổ phần hóa DNNN cần được cụ thể cho từng loại hình, từng ngành và thực hiện sao cho tránh biến thành tư nhân hóa.</span>
+            </div>
+        
+            <div class="focusNews">
+                <img id="ctl00_mContent_ctlVFC_ctl00___rptLinkList_ctl02_imgImage" onmouseover="this.style.cursor='pointer'" onclick="window.location.target='_blank';window.location.href='http://www.vietnamplus.vn/Home/Rung-ron-chuyen-ho-treo-rao-o-vuon-thu-Thu-Le/201112/116520.vnplus'" src="/avatar.aspx?ID=119260&amp;at=1&amp;ts=90&amp;lm=634589564665170000" align="left" border="1" />
+                <a id="ctl00_mContent_ctlVFC_ctl00___rptLinkList_ctl02_lnkHeadline" class="hotNewsTitle" href="/Home/Rung-ron-chuyen-ho-treo-rao-o-vuon-thu-Thu-Le/201112/116520.vnplus">Rùng rợn hổ trèo rào</a><br />
+                <span id="ctl00_mContent_ctlVFC_ctl00___rptLinkList_ctl02_lbDesc" class="hotNewsSapo">Một đoạn video quay dài khoảng hơn 2 phút ghi lại cảnh chú hổ nhỏ trèo theo tường rào, nhô nửa mình ra ngoài tại vườn thú Thủ Lệ.</span>
+            </div>
+        
+            <div class="focusNews">
+                <img id="ctl00_mContent_ctlVFC_ctl00___rptLinkList_ctl03_imgImage" onmouseover="this.style.cursor='pointer'" onclick="window.location.target='_blank';window.location.href='http://www.vietnamplus.vn/Home/Trum-mafia-Italy-cao-cap-bi-bat-trong-ham-bi-mat/201112/116511.vnplus'" src="/avatar.aspx?ID=119254&amp;at=1&amp;ts=90&amp;lm=634589595368770000" align="left" border="1" />
+                <a id="ctl00_mContent_ctlVFC_ctl00___rptLinkList_ctl03_lnkHeadline" class="hotNewsTitle" href="/Home/Trum-mafia-Italy-cao-cap-bi-bat-trong-ham-bi-mat/201112/116511.vnplus">Bắt ông trùm trong hầm</a><br />
+                <span id="ctl00_mContent_ctlVFC_ctl00___rptLinkList_ctl03_lbDesc" class="hotNewsSapo">Cảnh sát Italy ngày 7/12 bắt giữ 1 trong những trùm mafia cấp cao của băng Camorra lẩn trốn ở hầm bí mật, kết thúc 16 năm truy lùng.</span>
+            </div>
+        
+            <div class="focusNews">
+                <img id="ctl00_mContent_ctlVFC_ctl00___rptLinkList_ctl04_imgImage" onmouseover="this.style.cursor='pointer'" onclick="window.location.target='_blank';window.location.href='http://www.vietnamplus.vn/Home/He-thong-la-chan-ten-lua-My-hoat-dong-ra-sao/201112/116495.vnplus'" src="/avatar.aspx?ID=119235&amp;at=1&amp;ts=90&amp;lm=634589507257030000" align="left" border="1" />
+                <a id="ctl00_mContent_ctlVFC_ctl00___rptLinkList_ctl04_lnkHeadline" class="hotNewsTitle" href="/Home/He-thong-la-chan-ten-lua-My-hoat-dong-ra-sao/201112/116495.vnplus">Lá chắn tên lửa Mỹ</a><br />
+                <span id="ctl00_mContent_ctlVFC_ctl00___rptLinkList_ctl04_lbDesc" class="hotNewsSapo">NMD hay AMD được hiểu nôm na là một hệ thống bao gồm phát hiện, cảnh báo, phá hủy tên lửa của đối phương bằng tên lửa đánh chặn.</span>
+            </div>
+        
+            <div class="focusNews">
+                <img id="ctl00_mContent_ctlVFC_ctl00___rptLinkList_ctl05_imgImage" onmouseover="this.style.cursor='pointer'" onclick="window.location.target='_blank';window.location.href='http://www.vietnamplus.vn/Home/Liveshow-Bai-hat-Viet-nay-Duc-Tuan-say-nhac-kich/201112/116481.vnplus'" src="/avatar.aspx?ID=119212&amp;at=1&amp;ts=90&amp;lm=634589458250970000" align="left" border="1" />
+                <a id="ctl00_mContent_ctlVFC_ctl00___rptLinkList_ctl05_lnkHeadline" class="hotNewsTitle" href="/Home/Liveshow-Bai-hat-Viet-nay-Duc-Tuan-say-nhac-kich/201112/116481.vnplus">Đức Tuấn say nhạc kịch</a><br />
+                <span id="ctl00_mContent_ctlVFC_ctl00___rptLinkList_ctl05_lbDesc" class="hotNewsSapo">Gương mặt tháng 12 của Liveshow Bài hát Việt sẽ là Đức Tuấn với Dự án âm nhạc tháng 12 ở thể loại nhạc kịch (musical).</span>
+            </div>
+        
+            <div class="focusNews">
+                <img id="ctl00_mContent_ctlVFC_ctl00___rptLinkList_ctl06_imgImage" onmouseover="this.style.cursor='pointer'" onclick="window.location.target='_blank';window.location.href='http://www.vietnamplus.vn/Home/My-Cuu-Thong-doc-bang-Illinois-linh-an-14-nam-tu/201112/116439.vnplus'" src="/avatar.aspx?ID=119181&amp;at=1&amp;ts=90&amp;lm=634589318832830000" align="left" border="1" />
+                <a id="ctl00_mContent_ctlVFC_ctl00___rptLinkList_ctl06_lnkHeadline" class="hotNewsTitle" href="/Home/My-Cuu-Thong-doc-bang-Illinois-linh-an-14-nam-tu/201112/116439.vnplus">Cựu Thống đốc bị tù </a><br />
+                <span id="ctl00_mContent_ctlVFC_ctl00___rptLinkList_ctl06_lbDesc" class="hotNewsSapo">Ngày 7/12, một thẩm phán liên bang Mỹ đã kết án ông Rod Blagojevich, cựu Thống đốc bang Illinois, 14 năm tù giam vì tội tham nhũng.</span>
+            </div>
+        
+            <div class="focusNews">
+                <img id="ctl00_mContent_ctlVFC_ctl00___rptLinkList_ctl07_imgImage" onmouseover="this.style.cursor='pointer'" onclick="window.location.target='_blank';window.location.href='http://www.vietnamplus.vn/Home/Ra-mat-buc-tranh-3D-lon-nhat-the-gioi-tai-Macao/201112/116433.vnplus'" src="/avatar.aspx?ID=119017&amp;at=1&amp;ts=90&amp;lm=634589320556270000" align="left" border="1" />
+                <a id="ctl00_mContent_ctlVFC_ctl00___rptLinkList_ctl07_lnkHeadline" class="hotNewsTitle" href="/Home/Ra-mat-buc-tranh-3D-lon-nhat-the-gioi-tai-Macao/201112/116433.vnplus">Bức tranh 3D lớn nhất</a><br />
+                <span id="ctl00_mContent_ctlVFC_ctl00___rptLinkList_ctl07_lbDesc" class="hotNewsSapo">Với chiều dài 120m, bức tranh 3D giới thiệu các công trình kiến trúc nổi tiếng kiểu phương Tây ở Macao đã được công bố ngày 6/12.</span>
+            </div>
+        
+</div>
+<!-- End: ePiCMS.Framework.Controls.LinkList -->
+
+</div>
+
+            <div class="newsAdText"></div><div class="discussAdImg"><a href="http://www.vietnamplus.vn" target=_blank><img border=0 src="/Images/Ads/ad312x250.jpg"></a></div>
+            
+            
+<script type="text/javascript">
+function showDocnhieu() 
+{
+    var e1 = document.getElementById('tabDocnhieu');
+	if (e1) { e1.style.display = 'inline'; }
+
+	var e2 = document.getElementById('tabGuinhieu');
+	if (e2) { e2.style.display = 'none'; }
+
+	var e3 = document.getElementById('tab1');
+	if (e3) { e3.style.background = '#E7E7E7'; }
+
+	var e4 = document.getElementById('tab2');
+	if (e4) { e4.style.background = '#F4F6F1'; }
+}
+
+function showGuinhieu() 
+{
+    e = document.getElementById('tabDocnhieu');
+    if (e) { e.style.display = 'none'; }
+
+    e = document.getElementById('tabGuinhieu');
+    if (e) { e.style.display = 'inline'; }
+    
+    var e3 = document.getElementById('tab1');
+    if (e3) { e3.style.background = '#F4F6F1'; }
+
+    var e4 = document.getElementById('tab2');
+    if (e4) { e4.style.background = '#E7E7E7'; }
+}
+</script>
+<div class="sum">
+    <a class="sumRead" onclick="javascript:showDocnhieu();"  id="tab1">Đọc nhiều nhất</a> <a class="sumWrite" onclick="javascript:showGuinhieu();" id="tab2">Gửi nhiều nhất</a>
+    <div id="tabDocnhieu" style="DISPLAY: inline">
+    <ul>
+        
+                    <li><a id="ctl00_mContent_MostReadContent_rptTopView_ctl00_hlkHeadline" rel="115614" href="/Home/Nga-ban-giao-ten-lua-sieu-thanh-Yakhont-cho-Syria/201112/115614.vnplus">Nga bàn giao tên lửa siêu thanh Yakhont cho Syria</a></li>
+            
+                    <li><a id="ctl00_mContent_MostReadContent_rptTopView_ctl01_hlkHeadline" rel="116268" href="/Home/Toa-an-Trung-Quoc-iPad-khong-phai-la-cua-Apple/201112/116268.vnplus">Tòa án Trung Quốc: “iPad” không phải là của Apple! </a></li>
+            
+                    <li><a id="ctl00_mContent_MostReadContent_rptTopView_ctl02_hlkHeadline" rel="114992" href="/Home/Trieu-Tien-lai-doa-dim-Han-Quoc-trong-bien-lua-thu/201111/114992.vnplus">Triều Tiên lại dọa dìm Hàn Quốc trong biển lửa thù</a></li>
+            
+                    <li><a id="ctl00_mContent_MostReadContent_rptTopView_ctl03_hlkHeadline" rel="115882" href="/Home/Chu-dau-tu-Keangnam-chap-nhan-khoi-phuc-the-tu/201112/115882.vnplus">Chủ đầu tư Keangnam chấp nhận khôi phục thẻ từ</a></li>
+            
+                    <li><a id="ctl00_mContent_MostReadContent_rptTopView_ctl04_hlkHeadline" rel="116402" href="/Home/Las-Vegas-Sands-du-tinh-xay-khu-du-lich-2-ty-USD/201112/116402.vnplus">Las Vegas Sands dự tính xây khu du lịch 2 tỷ USD</a></li>
+            
+                    <li><a id="ctl00_mContent_MostReadContent_rptTopView_ctl05_hlkHeadline" rel="114702" href="/Home/Iran-tuyen-bo-da-bat-duoc-12-diep-vien-cua-CIA/201111/114702.vnplus">Iran tuyên bố đã bắt được 12 điệp viên của CIA</a></li>
+            
+                    <li><a id="ctl00_mContent_MostReadContent_rptTopView_ctl06_hlkHeadline" rel="114881" href="/Home/Chuyen-cuoi-tuan-Dau-long-vi-Goetz-khong-dep-trai/201111/114881.vnplus">Chuyện cuối tuần: Đau lòng vì Goetz không đẹp trai</a></li>
+            
+                    <li><a id="ctl00_mContent_MostReadContent_rptTopView_ctl07_hlkHeadline" rel="116076" href="/Home/Trao-quan-ham-Thuong-tuong-Do-doc-cho-9-can-bo/201112/116076.vnplus">Trao quân hàm Thượng tướng, Đô đốc cho 9 cán bộ</a></li>
+            
+                    <li><a id="ctl00_mContent_MostReadContent_rptTopView_ctl08_hlkHeadline" rel="114788" href="/Home/Nga-giup-Syria-lap-dat-gian-ten-lua-S300-va-radar/201111/114788.vnplus">Nga giúp Syria lắp đặt giàn tên lửa S-300 và radar</a></li>
+            
+                    <li><a id="ctl00_mContent_MostReadContent_rptTopView_ctl09_hlkHeadline" rel="114994" href="/Home/Dong-euro-co-the-se-bi-sup-do-vao-dip-Giang-sinh/201111/114994.vnplus">“Đồng euro có thể sẽ bị sụp đổ vào dịp Giáng sinh”</a></li>
+            
+     </ul>
+     </div>
+     <div id="tabGuinhieu" style="DISPLAY: none">
+    <ul>
+        
+     </ul>
+     </div>
+</div>
+        </div>
+        <div class="clearThis">
+        </div>
+    </div>
+
+                    </div>
+                    <div class="catCol2">
+                        
+    
+    
+    <div style="margin-bottom: 5px">
+    </div>
+    
+    <div class="news">
+        <div class="newsTitle02">
+            TIN MỚI NHẬN</div>
+        <!-- Start: ePiCMS.Framework.Controls.LinkList -->
+<!-- Skin Path: ~/Themes/Default/Skins/FocusEventList.ascx -->
+
+                <ul>
+            
+                <li>
+                    <a id="ctl00_rContent_ctl00___rptLinkList_ctl01_lnkHeadline" rel="116549" href="/Home/Ky-luc-ve-thien-tai-bac-ty-tai-My-trong-nam-2011/201112/116549.vnplus">Kỷ lục về “thiên tai bạc tỷ” tại Mỹ trong năm 2011</a></li>
+            
+                <li>
+                    <a id="ctl00_rContent_ctl00___rptLinkList_ctl02_lnkHeadline" rel="116536" href="/Home/Thu-tuong-Putin-to-My-gay-tranh-cai-bau-cu-Nga/201112/116536.vnplus">Thủ tướng Putin “tố” Mỹ gây tranh cãi bầu cử Nga</a></li>
+            
+                <li>
+                    <a id="ctl00_rContent_ctl00___rptLinkList_ctl03_lnkHeadline" rel="116535" href="/Home/Mexico-bi-han-han-nghiem-trong-nhat-70-nam-qua/201112/116535.vnplus">Mexico bị hạn hán nghiêm trọng nhất 70 năm qua</a></li>
+            
+                <li>
+                    <a id="ctl00_rContent_ctl00___rptLinkList_ctl04_lnkHeadline" rel="116532" href="/Home/Vincom-danh-6-ty-dong-de-tang-khach-hang-VIP/201112/116532.vnplus">Vincom dành 6 tỷ đồng để tặng khách hàng VIP </a></li>
+            
+                <li>
+                    <a id="ctl00_rContent_ctl00___rptLinkList_ctl05_lnkHeadline" rel="116525" href="/Home/Xay-nha-may-san-xuat-phomai-Phap-o-Binh-Duong/201112/116525.vnplus">Xây nhà máy sản xuất phomai Pháp ở Bình Dương</a></li>
+            
+                <li>
+                    <a id="ctl00_rContent_ctl00___rptLinkList_ctl06_lnkHeadline" rel="116522" href="/Home/VietJet-Air-ban-gan-1600-ve-gia-re-100000-dong/201112/116522.vnplus">VietJet Air bán gần 1.600 vé giá rẻ 100.000 đồng </a></li>
+            
+                <li>
+                    <a id="ctl00_rContent_ctl00___rptLinkList_ctl07_lnkHeadline" rel="116519" href="/Home/Phat-hien-virus-may-tinh-moi-tren-Facebook-chat/201112/116519.vnplus">Phát hiện virus máy tính mới trên Facebook chat </a></li>
+            
+                <li>
+                    <a id="ctl00_rContent_ctl00___rptLinkList_ctl08_lnkHeadline" rel="116500" href="/Home/Khai-truong-cua-hang-tien-loi-G7Ministop-dau-tien/201112/116500.vnplus">Khai trương cửa hàng tiện lợi G7-Ministop đầu tiên </a></li>
+            
+                <li>
+                    <a id="ctl00_rContent_ctl00___rptLinkList_ctl09_lnkHeadline" rel="116507" href="/Home/NATO-tim-cach-xoa-diu-quan-ngai-cua-Nga-ve-NMD/201112/116507.vnplus">NATO tìm cách xoa dịu quan ngại của Nga về NMD</a></li>
+            
+                <li>
+                    <a id="ctl00_rContent_ctl00___rptLinkList_ctl10_lnkHeadline" rel="116482" href="/Home/Cuon-Tieu-su-Steve-Jobs-da-duoc-in-ra-tieng-Viet/201112/116482.vnplus">Cuốn “Tiểu sử Steve Jobs” đã được in ra tiếng Việt</a></li>
+            
+                <li>
+                    <a id="ctl00_rContent_ctl00___rptLinkList_ctl11_lnkHeadline" rel="116465" href="/Home/Osama-Bin-Laden-khong-chi-dao-alQaeda-tu-lau/201112/116465.vnplus">"Osama Bin Laden không chỉ đạo al-Qaeda từ lâu"</a></li>
+            
+                <li>
+                    <a id="ctl00_rContent_ctl00___rptLinkList_ctl12_lnkHeadline" rel="116462" href="/Home/Tin-hieu-vui-ve-thu-hut-von-FDI-o-tinh-Binh-Duong/201112/116462.vnplus">Tín hiệu vui về thu hút vốn FDI ở tỉnh Bình Dương</a></li>
+            
+                </ul>
+<!-- End: ePiCMS.Framework.Controls.LinkList -->
+
+        
+    </div>
+    
+    <div style="margin-bottom: 5px">
+    </div>
+    <div class="newsAdText"></div><div class="discussAdImg"><script language="javascript">
+banner0_72 = new Banner('banner0_72');
+banner0_72.add("IMAGE", "/Uploaded_VNP/Advertise/20100105/WebAd_300x600.gif", 15, 600, 300, "/AdCenter/Click.aspx?AdID=169");
+document.write(banner0_72);
+banner0_72.start();
+</script>
+</div>
+
+                    </div>
+                </div>
+                <!--/BodyTop-->
+            </div>
+            <!--/Body-->
+        </div>
+        <!--/Content-->
+        <div class="wrapRight">
+        </div>
+        <div class="clearThis">
+        </div>
+    </div>
+    <!--/Wrap-->
+    <!--End of Body-->
+    <!--Footer-->
+    <!-- Start: ePiCMS.Framework.Controls.Footer -->
+<!-- Skin Path: ~/Themes/Default/Skins/Footer.ascx -->
+
+<div class="bottom">
+    <div class="bodyBottom">
+        <div class="bodyBottomLeft">
+        </div>
+        
+<div class="bodyBottomContent">
+        <a href="/" style='font-weight:bold;color:#C00000;'>Trang chủ</a>&nbsp;|&nbsp;<a href="/Home/chinhtri.vnplus" >Chính trị</a>&nbsp;|&nbsp;<a href="/Home/thegioi.vnplus" >Thế giới</a>&nbsp;|&nbsp;<a href="/Home/kinhte.vnplus" >Kinh tế</a>&nbsp;|&nbsp;<a href="/Home/xahoi.vnplus" >Xã hội</a>&nbsp;|&nbsp;<a href="/Home/doisong.vnplus" >Đời sống</a>&nbsp;|&nbsp;<a href="/Home/vanhoa.vnplus" >Văn hóa</a>&nbsp;|&nbsp;<a href="/Home/thethao.vnplus" >Thể thao</a>&nbsp;|&nbsp;<a href="/Home/khoahoc.vnplus" >Khoa học</a>&nbsp;|&nbsp;<a href="/Home/congnghe.vnplus" >Công nghệ</a>&nbsp;|&nbsp;<a href="/Home/otoxemay.vnplus" >Ôtô-Xe máy</a>&nbsp;|&nbsp;<a href="/Home/moitruong.vnplus" >Môi trường</a>&nbsp;|&nbsp;<a href="/Home/dulich.vnplus" >Du lịch</a>&nbsp;|&nbsp;<a href="/Home/tinthitruong.vnplus" >Thị trường</a>
+</div>
+        <div class="bodyBottomRight">
+        </div>
+    </div>
+    <div class="otherSite">
+        <strong>Website khác</strong>: <a rel="nofollow" href="http://vietnamnews.vnagency.com.vn/">
+            Vietnam News</a>; <a rel="nofollow" href="http://lecourrier.vnagency.com.vn/">Le Courrier
+                du Vietnam</a>; <a rel="nofollow" href="http://vietnam.vnagency.com.vn/">Báo ảnh Việt
+                    Nam</a>; <a href="http://thethaovanhoa.vn">Thể thao & Văn hóa</a>; <a href="http://www.baotintuc.vn"
+                        rel="nofollow">Tin tức</a>; <a rel="nofollow" href="http://vnews.vnanet.vn">Truyền hình
+                            VNews</a>; <a href="http://dep.com.vn">Tạp chí Đẹp</a>; <a rel="nofollow" href="http://vietnamlaw.vnanet.vn">
+                                    Vietnam Law & Legal Forum</a>
+    </div>
+    <div class="partners" align="center">
+        <strong>Đối tác</strong>: <a rel="nofollow" href="http://www.notimex.com.mx/">
+            <img height="40" src="/Themes/Default/Images/Notimex_logo.jpg"></a><a rel="nofollow" href="http://www.mehrnews.com/en/ " alt="MEHR News Agency">
+            <img height="40" src="/Images/MNA.jpg"></a><a rel="nofollow" href="http://thailand.prd.go.th/" alt="Thailand’s Public Relations Department">
+            <img height="40" src="/Images/PRD.jpg"></a>
+    </div>
+    <div class="copyRight">
+        © Bản quyền thuộc về VietnamPlus, TTXVN. Cấm sao chép dưới mọi hình thức nếu không
+        có sự chấp thuận bằng văn bản.<br />
+        Cơ quan chủ quản: TTXVN; Người chịu trách nhiệm chính: Tổng Biên tập Lê Quốc Minh.
+        Giấy phép số: 1374/GP-BTTTT do Bộ Thông tin và Truyền thông cấp ngày 11/9/2008.<br />
+        Tel: (+84 4) 3941.1349 - Fax: (+84 4) 3941.1348 - Email: vietnamplus@vnanet.vn<br />
+        Powered by <a href="http://www.baomoi.com">ePi Technologies</a></div>
+</div>
+
+<script type="text/javascript" src="http://media.adnetwork.vn/js/adnetwork.js"></script>
+<script type="text/javascript">
+var ABDZone = new Array();
+ABDZone[0] = '<script type="text/javascript" language="javascript" src="http://delivery.adnetwork.vn/247/adclick/ads_em9uZV9NVE15TVRRek5UZzVObDh4TWpnd09Ea3lOalkwWHpNM01GOHlORFk9Lmh0bWxVNzI4STdWRTEwMTAxMDc4Mk0zOFc=/"><\/script>';
+ABDZone[1] = '<script type="text/javascript" language="javascript" src="http://delivery.adnetwork.vn/247/adclick/ads_em9uZV9NVEk1TWpVMU56UTRPRjh4TWpnd09Ea3lOalkwWHpJMk1GOHlNekE9Lmh0bWxVNzI4STdWRTEwMTAxMDc4Mk0zOFc=/"><\/script>';
+rotatorAdNetwork("ADBCookie", ABDZone);
+</script>
+
+
+<!-- End: ePiCMS.Framework.Controls.Footer -->
+
+    <!--End of Footer-->
+    <!--Misc script-->
+    
+    <!--End of Misc script-->
+    </form>
+</body>
+</html>

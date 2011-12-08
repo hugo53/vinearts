@@ -1,0 +1,3914 @@
+	
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+
+
+          <meta name="robots" content="index">
+      <meta name="robots" content="ACAP allow-index">
+    
+    
+    
+     
+        
+		
+				
+                	
+
+    <title>Ý kiến - NHÂN DÂN ĐIỆN TỬ</title>
+    <link href="/polopoly_fs/3.149!/css/commons/jquery.lightbox-0.4.min.css" rel="stylesheet" type="text/css" title="default" />
+
+
+	<link href="/polopoly_fs/3.149!/css/commons/reset.min.css" rel="stylesheet" type="text/css" title="default" />
+    <link href="/polopoly_fs/3.149!/css/pdv/pdv_layout.min.css" rel="stylesheet" type="text/css" title="default" />
+	<link href="/polopoly_fs/3.149!/css/article/article.min.css" rel="stylesheet" type="text/css" title="default"   />
+    <link href="/polopoly_fs/3.149!/css/pdv/pdv_topborder_c.min.css" rel="stylesheet" type="text/css" title="default" />
+	<link href="/polopoly_fs/3.149!/css/pdv/pdv_col.min.css" rel="stylesheet" type="text/css" title="default" />
+	<link href="/polopoly_fs/3.149!/css/pdv/pdv_ui_green.min.css" rel="stylesheet" type="text/css" title="default" />
+    <link href="/polopoly_fs/3.149!/css/pdv/ui_tabs.min.css" rel="stylesheet" type="text/css" title="default" />
+    <link href="/polopoly_fs/3.149!/css/pdv/pdv_ui_tabs.min.css" rel="stylesheet" type="text/css" title="default" />
+	<link href="/polopoly_fs/3.149!/css/pdv/poll.min.css" rel="stylesheet" type="text/css" title="default" />
+    <link href="/polopoly_fs/3.149!/css/pdv/membership.min.css" rel="stylesheet" type="text/css" title="default" />
+	<link href="/polopoly_fs/3.149!/css/pdv.min.css" rel="stylesheet" type="text/css" title="default" />
+	<link href="/polopoly_fs/3.149!/css/pdv/custom-list.min.css"rel="stylesheet" type="text/css" title="default"  />
+	<link href="/polopoly_fs/3.149!/css/article/formMail.min.css" rel="stylesheet" type="text/css" title="default"  />
+	<link href="/polopoly_fs/3.149!/css/article/custombookmark.min.css" rel="stylesheet" type="text/css" title="default"  />
+	<link href="/polopoly_fs/3.149!/css/article/article-comments.min.css" rel="stylesheet" type="text/css"  title="default"  />
+	<link href="/polopoly_fs/3.149!/css/search/AdvancedSearch.min.css" rel="stylesheet" type="text/css" title="default"  />
+	<link href="/polopoly_fs/3.149!/css/search/quicksearch.min.css" rel="stylesheet" type="text/css"  title="default"  />
+
+              <link rel="stylesheet" type="text/css" href="/cmlink/dau-vi-css-7.263242">
+          <link rel="stylesheet" type="text/css" href="/cmlink/mycss-7.202712">
+          <link rel="stylesheet" type="text/css" href="/cmlink/css-articleupdated-7.210936">
+          <link rel="stylesheet" type="text/css" href="/cmlink/css-thoisu-7.210465">
+          <link rel="stylesheet" type="text/css" href="/cmlink/dau-vi-css-7.263242">
+          <link rel="stylesheet" type="text/css" href="/cmlink/linklistcss-7.211275">
+    
+    <!--
+	[if IE 7]>
+      <link rel="stylesheet" type="text/css" href="/css/commons/ie7fixes.css">
+    [endif]
+	-->
+
+              
+        <link rel="alternate" type="application/rss+xml" title="Thời sự" href="/cmlink/th-i-s-1.287327?localLinksEnabled=false" >
+                
+        <link rel="alternate" type="application/rss+xml" title="Chính trị" href="/cmlink/chinh-tr-1.287328?localLinksEnabled=false" >
+          
+	<script type="text/javascript" src="/js/yui/utilities.min.js"></script>
+    <script type="text/javascript" src="/js/jquery-1.3.1.min.js"></script>
+    <script type="text/javascript" src="/js/jquery-ui-core-1.5.packed.js"></script>
+    <script type="text/javascript" src="/js/jquery-ui-tabs-1.5.packed.js"></script>
+    <script type="text/javascript" src="/js/swfobject.min.js"></script>
+    <script type="text/javascript" src="/js/poll.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.polopoly.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.validate-1.5.1.min.js"></script>
+    <script type="text/javascript" src="/js/membership.min.js"></script>
+    <script type="text/javascript" src="/js/blog.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.lightbox-0.4.min.js"></script>
+        <script type="text/javascript" src="/polopoly_fs/3.149!/js/sidewiki-defeat.min.js" ></script>
+    <script type="text/javascript" src="/polopoly_fs/3.149!/js/vietuni.min.js" ></script>
+
+    
+	    
+      
+
+      
+
+<script type="text/javascript">
+/* <![CDATA[ */
+// Handles body.onload event (may use addLoadEvent method)
+$(window).load(function() {
+  var vUni = new vietUni();
+
+  if (vUni) {
+    // Enables Vietnamese typing for some fields
+    $(".vuni").each(function() { vUni.initTyper(this); });
+
+    // Switchs Vietnamese typing method
+    $("input[name=typer_mode]").change(function() { vUni.setMethod(parseInt($(this).val())); });
+  }
+});
+/* ]]> */
+</script>
+
+	  
+</head>
+  
+  
+<body>
+<center>
+	<div id="mastheadover">
+	<div id="masthead">
+		        <div class="topBorderLayout header">
+       	          										
+                  
+    
+        
+        
+
+<div style='tieudeqc' class='tieudeqc'>
+      <div style="position: absolute; z-index: 2; float:right;margin-top:-7px;left:1002px;">
+  
+  
+                  
+    
+        
+        
+        
+<div class="image">
+  <img src="/polopoly_fs/7.202792.1285581479!/image/3958611804.jpg_gen/derivatives/default/3958611804.jpg" alt="" />
+</div>
+      
+      
+      
+  
+      
+      </div>
+  </div>
+          
+        
+        
+<div class="image">
+  <img src="/polopoly_fs/7.43040.1285580698!/image/4159369541.jpg_gen/derivatives/default/4159369541.jpg" alt="" />
+</div>
+      
+      
+          
+        
+
+<div>
+      <div style="margin-top:0;margin-right:800;">  <div style="float:right" max-width="800px"> <div style="z-index: 1; margin-top:-90px; margin-right:400px"><div style="color:#ffffff; font-family:Times New Romanl; font-size:46px; font-weight:bold;" > 
+  
+  
+                  
+    
+        
+        
+        
+            CHÍNH TRỊ
+        
+      
+      
+  
+      
+      </div></div></div></div>
+  </div>
+          
+        
+
+<div>
+      <div style="margin-top:0;margin-right:800;"> <div style="float:right" max-width="800px"> <div style="z-index: 1; margin-top:-80px; margin-right:10px">
+  
+  
+                  
+    
+        
+        
+
+<script language="javascript" type="text/javascript">
+    function SearchOnBlur(field)
+    {
+    	if(field.value==''){ field.value='Tìm bài tin ';}
+    }
+
+    function SearchOnFocus(field)
+    {
+    	if(field.value=='Tìm bài tin '){ field.value = ''; }
+    }
+	
+	
+    function verifySearchField()
+    {
+    	if(document.getElementById("q").value=='Tìm bài tin '){ document.getElementById("q").value = ''; }
+    }
+	
+	function submit(){
+		$('#advancesearch').submit("/cmlink/customsearchplugin-7.232160");
+		return false;	
+	}
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="clear:both;"></div>
+<div class="search_element" id="search_7.232160">
+
+	          <form name="customsearch" action="/cmlink/nhandandientu/thoisu/chinh-tri/y-kien/customsearchplugin-7.232160" method="get">
+                <img alt="" src="/polopoly_fs/3.125!/vn-search.jpg" class="searchMagnifier">
+                <input type="text" value="Tìm bài tin " onfocus="SearchOnFocus(this)" onkeydown="" onblur="SearchOnBlur(this)" id="q" name="q" class="txtsearch fl">
+                <a href="javascript:document.customsearch.submit()" onclick="verifySearchField()"><img alt="" src="/polopoly_fs/3.125!/btn-search.jpg" class="img-search fl" ></a>
+               
+          </form>		
+    
+<div style="clear:both;"></div>
+
+</div> 	
+      
+  
+      
+      </div></div></div>
+  </div>
+          
+        
+
+<div>
+      <div style="margin-top:0;margin-right:800;"> <div style="float:right" max-width="800px"> <div style="z-index: 1; margin-top:-25px; margin-right:10px">
+  
+  
+                  
+    
+        
+        
+        
+            <div class="tinbai1">
+   | 
+   <a href="/2.617/2.618/1.182058">Vài nét về báo Nhân Dân</a> 
+   | RSS | <a class="tinbai1" href="mailto:nhandandientu@nhandan.org.vn" text-decoration="none">Hộp thư gửi tin bài</a> | Tr&#7907; giúp |
+</div>
+
+
+
+        
+      
+      
+  
+      
+      </div></div></div>
+  </div>
+      
+  
+      			                  </div>
+	
+
+	
+    <div class="borderLayout">
+
+        	  <div class="borderLayoutMastHead">
+                                                                        		    				                      
+                  
+    
+        
+        <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.141!/reset.min.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/polopoly_fs/3.141!/navigation.min.css" media="screen" />
+
+
+	<script type="text/javascript">
+			
+			var count = 1;
+			
+			$(document).ready(function(){
+				
+				$(".simplenav > ul > li").each(function(){
+					initialiseNav(this);
+				});
+				
+				$(".simplenav > ul >li > a").bind("mouseenter",function(){
+					
+					hideAllNav();
+					showChildNav(this);
+				});
+				
+				$(".simplenav").bind("mouseleave",function(){
+					
+					hideAllNav();
+					showCurrentNav();
+				});
+                
+				if($(".simplenav li").hasClass("here")){
+				
+				}
+				else{
+                        
+						var homeURL=window.location.protocol + "//" + window.location.host;
+						
+                                                
+                        var disableRedirect = false;
+                        var firstDepartmentLink="";
+                                                                                						     
+							                              							   
+							   							   		                                  		            								 firstDepartmentLink=homeURL+"/cmlink/nhandandientu/thoisu";
+    																									                                						                                						     
+							                              							   
+							                                						                                						     
+							                              							   
+							                                						                                						     						     
+							 						                                						     						     
+							 						                                						     						     
+							 						                                						     						     
+							 						                           						
+
+						if(firstDepartmentLink !="" && !disableRedirect){
+							window.location=firstDepartmentLink;
+						}						
+				}
+				
+			});
+						
+			
+			function initialiseNav(navitem){
+				//centre of this button
+
+				var marginvalue = 1;
+				marginvalue = 0;
+				
+				if(marginvalue>0){
+					//set left margin of first subnav item only if it isn't negative
+					$(navitem).children("ul").find("li").first().css("margin-left", marginvalue);
+				}
+			}
+		
+			function hideAllNav(menu){
+				$(".simplenav ul ul").removeClass("on fix");
+				$(".simplenav ul ul").addClass("off");
+			}
+			
+			function showChildNav(actOnMe){
+				$(".simplenav li").removeClass("MenuVisible");
+				$(actOnMe).parent("li").find("ul").removeClass("off");
+				$(actOnMe).parent("li").find("ul").addClass("on fix");
+				$(actOnMe).parent("li").find("ul").addClass("check");
+				$(actOnMe).parent("li").find("ul").find("ul").removeClass("on");
+				
+				$(actOnMe).parent("li").not($("li.here")).find("ul").bind("mouseenter",function(){
+					$(this).parent("li").addClass("MenuVisible");
+					
+				}).bind("mouseleave",function(){
+					$(this).parent("li").removeClass("MenuVisible");
+				});
+			}
+			
+			function showCurrentNav(){
+				//only do this if it is currently hidden
+				if($(".simplenav li.here ul").hasClass("off")){
+					$(".simplenav li.here ul").removeClass("off");
+					$(".simplenav li.here > ul").addClass("on fix");
+					$(".simplenav .sub").addClass("check fix");
+				}
+			}
+			
+
+	</script>
+
+
+
+
+
+
+
+
+
+<div class="simplenav fix" >
+
+<ul class="fix">
+      
+  
+			
+    			    			    									
+                    
+						
+
+				            								
+							 								
+							                              								
+								
+								                    			<li  class="here">
+                    			<a href="/cmlink/nhandandientu/thoisu">				
+                    				TH&#7900;I S&#7920;			
+                    			</a>
+                    			
+                    				                    				                    						
+  	<ul class="  on fix">
+  	
+          		    	
+    	        
+                      
+                		
+
+    		            				
+								
+				                				
+				
+								<li class='current' >
+    			<a  href="/cmlink/nhandandientu/thoisu/chinh-tri">				
+    				CH&Iacute;NH TR&#7882;
+    			</a>
+    				    				    					<ul class="sub check fix">
+    						  		
+
+		                    			
+				                				
+				
+						   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/chinh-tri/cuoc-thi">Cuộc thi</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/chinh-tri/cung-suy-ngam">Cùng suy ngẫm</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+						   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/chinh-tri/y-kien">Ý kiến</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/chinh-tri/con-chau-lac-hong">Con cháu Lạc Hồng</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/chinh-tri/nguoi-tot-viec-tot">Người tốt việc tốt</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/chinh-tri/su-kien">Sự kiện</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/chinh-tri/y-kien-chung-toi">Ý kiến chúng tôi</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+						   	        					</ul>
+    					<div  style="clear:both" ></div>
+    				    			</li>
+							 
+		     	
+    	        
+              
+                		
+
+    		            				
+								
+				                				
+				
+								<li class='' >
+    			<a  href="/cmlink/nhandandientu/thoisu/kinh-te">				
+    				KINH T&#7870;
+    			</a>
+    				    				    					<ul class="sub check fix">
+    						  		
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/kinh-te/ng-i-vi-t-dung-hang-vi-t">Người Việt dùng hàng Việt</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+						   	  
+
+		                    			
+				                				
+				
+						   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/kinh-te/th-ng-hi-u">Thương hiệu</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/kinh-te/th-gi-i">Thế giới</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/kinh-te/th-tr-ng">Thị trường</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/kinh-te/ch-ng-khoan">Chứng khoán</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/kinh-te/chuy-n-lam-n">Chuyện làm ăn</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/kinh-te/nh-n-nh">Nhận định</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/kinh-te/tinmoithau">Thông báo - Mời thầu</a>
+    			</li>
+    		   		   	        					</ul>
+    					<div  style="clear:both" ></div>
+    				    			</li>
+							 
+		     	
+    	        
+              
+                		
+
+    		            				
+								
+				                				
+				
+								<li class='' >
+    			<a  href="/cmlink/nhandandientu/thoisu/doi-song">				
+    				&#272;&#7900;I S&#7888;NG
+    			</a>
+    				    				    					<ul class="sub check fix">
+    						  		
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/doi-song/dinh-d-ng">Dinh dưỡng</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+						   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/doi-song/du-l-ch">Du lịch</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/doi-song/giao-thong">Giao thông</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+						   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/doi-song/mon-n">Món ăn</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/doi-song/l-i-s-ng">Lối sống</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/doi-song/phong-s-k-s">Phóng sự - Ký sự</a>
+    			</li>
+    		   		   	        					</ul>
+    					<div  style="clear:both" ></div>
+    				    			</li>
+							 
+		     	
+    	        
+              
+                		
+
+    		            				
+								
+				                				
+				
+								<li class='' >
+    			<a  href="/cmlink/nhandandientu/thoisu/suc-khoe">				
+    				S&#7912;C KH&#7886;E
+    			</a>
+    				    				    			</li>
+							 
+		     	
+    	        
+              
+                		
+
+    		            				
+								
+				                				
+				
+								<li class='' >
+    			<a  href="/cmlink/nhandandientu/thoisu/phap-luat">				
+    				PH&Aacute;P LU&#7852;T
+    			</a>
+    				    				    					<ul class="sub check fix">
+    						  		
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/phap-luat/chuyen-phap-lu-t">Chuyên đề pháp luật</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/phap-luat/t-li-u">Tư liệu</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/phap-luat/gi-i-ap">Giải đáp</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/phap-luat/th-i-s">Thời sự</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/phap-luat/vanbanmoi">Văn bản mới</a>
+    			</li>
+    		   		   	        					</ul>
+    					<div  style="clear:both" ></div>
+    				    			</li>
+							 
+		     	
+    	        
+              
+                		
+
+    		            				
+								
+				                				
+				
+								<li class='' >
+    			<a  href="/cmlink/nhandandientu/thoisu/khoa-hoc">				
+    				KHOA H&#7884;C
+    			</a>
+    				    				    					<ul class="sub check fix">
+    						  		
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/khoa-hoc/chuyen-khoa-giao">Chuyên đề khoa giáo</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+						   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/khoa-hoc/k-thu-t">Kỹ thuật</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/khoa-hoc/khoa-h-c">Khoa học</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/khoa-hoc/di-n-an">Diễn đàn</a>
+    			</li>
+    		   		   	        					</ul>
+    					<div  style="clear:both" ></div>
+    				    			</li>
+							 
+		     	
+    	        
+              
+                		
+
+    		            				
+								
+				                				
+				
+								<li class='' >
+    			<a  href="/cmlink/nhandandientu/thoisu/giao-duc">				
+    				GI&Aacute;O D&#7908;C
+    			</a>
+    				    				    					<ul class="sub check fix">
+    						  		
+
+		                              <li><a  href="/cmlink/nhandandientu/thoisu/khoa-hoc/du-h-c" >Du học</a></li>
+            	        					</ul>
+    					<div  style="clear:both" ></div>
+    				    			</li>
+							 
+		     	
+    	        
+              
+                		
+
+    		            				
+								
+				                				
+				
+								<li class='' >
+    			<a  href="/cmlink/nhandandientu/thoisu/tin-hoc">				
+    				TIN H&#7884;C
+    			</a>
+    				    				    			</li>
+							 
+		     	
+    	        
+              
+                		
+
+    		            				
+								
+				                				
+				
+								<li class='' >
+    			<a  href="/cmlink/nhandandientu/thoisu/van-hoa">				
+    				V&#258;N H&Oacute;A
+    			</a>
+    				    				    					<ul class="sub check fix">
+    						  		
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/van-hoa/goc-dien-anh">Góc Điện ảnh</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+						   	  
+
+		                    			
+				                				
+				
+						   	  
+
+		                    			
+				                				
+				
+						   	  
+
+		                    			
+				                				
+				
+						   	  
+
+		                    			
+				                				
+				
+						   	  
+
+		                    			
+				                				
+				
+						   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/van-hoa/tho">Thơ</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/van-hoa/truyen">Truyện</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/van-hoa/di-san">Di sản</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+						   	  
+
+		                    			
+				                				
+				
+						   	  
+
+		                    			
+				                				
+				
+						   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/van-hoa/chan-dung">Chân dung</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+						   	        					</ul>
+    					<div  style="clear:both" ></div>
+    				    			</li>
+							 
+		     	
+    	        
+              
+                		
+
+    		            				
+								
+				                				
+				
+								<li class='' >
+    			<a  href="/cmlink/nhandandientu/thoisu/the-thao">				
+    				TH&#7874; THAO
+    			</a>
+    				    				    					<ul class="sub check fix">
+    						  		
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26">SEA Games 26</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+						   	  
+
+		                    			
+				                				
+				
+						   	  
+
+		                    			
+				                				
+				
+						   	  
+
+		                    			
+				                				
+				
+						   	  
+
+		                    			
+				                				
+				
+						   	  
+
+		                    			
+				                				
+				
+						   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/the-thao/su-kien">Sự kiện</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+						   	  
+
+		                    			
+				                				
+				
+						   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/the-thao/tin-chung">Thể thao - Tin chung</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/the-thao/guong-mat">Gương mặt</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/the-thao/binh-luan">Bình luận</a>
+    			</li>
+    		   		   	        					</ul>
+    					<div  style="clear:both" ></div>
+    				    			</li>
+							 
+		     	
+    	        
+              
+                		
+
+    		            				
+								
+				                				
+				
+								<li class='' >
+    			<a  href="/cmlink/nhandandientu/thoisu/quocte">				
+    				QU&#7888;C T&#7870;
+    			</a>
+    				    				    					<ul class="sub check fix">
+    						  		
+
+		                    			
+				                				
+				
+						   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/quocte/chuyenthoisu">Chuyện thời sự</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/quocte/tulieuquocte">Tư liệu quốc tế</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/quocte/phantichnhandinh">Phân tích - nhận định</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/quocte/tinthegioi">Tin thế giới</a>
+    			</li>
+    		   		   	        					</ul>
+    					<div  style="clear:both" ></div>
+    				    			</li>
+							 
+		     	
+    	        
+              
+                		
+
+    		            				
+								
+				                				
+				
+								<li class='' >
+    			<a  href="/cmlink/nhandandientu/thoisu/tranghanoi">				
+    				TRANG H&Agrave; N&#7896;I
+    			</a>
+    				    				    					<ul class="sub check fix">
+    						  		
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/tranghanoi/tinmoinhan">Tin mới nhận</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+						   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/tranghanoi/vanbanchinhsachmoi">Văn bản - Chính sách mới</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/tranghanoi/sachhayvehanoi">Sách hay về Hà Nội</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/tranghanoi/tunharapho">Từ nhà ra phố</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/tranghanoi/nhonhenhacnhau">Nhỏ nhẹ nhắc nhau</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/tranghanoi/dethudotadanghoanghon">Để Thủ đô ta đàng hoàng hơn</a>
+    			</li>
+    		   		   	        					</ul>
+    					<div  style="clear:both" ></div>
+    				    			</li>
+							 
+		     	
+    	        
+              
+                		
+
+    		            				
+								
+				                				
+				
+								<li class='' >
+    			<a  href="/cmlink/nhandandientu/thoisu/trang-tphcm">				
+    				TRANG TPHCM
+    			</a>
+    				    				    					<ul class="sub check fix">
+    						  		
+
+		                    			
+				                				
+				
+						   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/trang-tphcm/tindocnhanh">Tin đọc nhanh</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/trang-tphcm/thongtinkinhte">Thông tin kinh tế</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/trang-tphcm/chuyenxuachuyennay">Chuyện xưa chuyện nay</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/trang-tphcm/chuyenphophuontg">Chuyện phố phường</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/trang-tphcm/ongkinhcuocsong">Ống kính cuộc sống</a>
+    			</li>
+    		   		   	  
+
+		                    			
+				                				
+				
+				    			<li class="">
+    				<a href="/cmlink/nhandandientu/thoisu/trang-tphcm/danbietdanban">Dân biết dân bàn</a>
+    			</li>
+    		   		   	        					</ul>
+    					<div  style="clear:both" ></div>
+    				    			</li>
+							 
+		     	
+    	        
+              
+                		
+
+    		            				
+								
+				                				
+				
+							 
+		     	
+    	        
+              
+                		
+
+    		            				
+								
+				                				
+				
+							 
+		     	
+    	        
+              
+                		
+
+    		            				
+								
+				                				
+				
+							 
+		     	
+    	        
+              
+                		
+
+    		            				
+								
+				                				
+				
+							 
+		     	
+    	        
+              
+                		
+
+    		            				
+								
+				                				
+				
+							 
+		     	
+    	        
+              
+                		
+
+    		            				
+								
+				                				
+				
+							 
+		     	
+    	        
+              
+                		
+
+    		            				
+								
+				                				
+				
+							 
+		         
+  </ul>
+                    				                    			</li>
+																				
+        	
+    			    									
+                    
+						
+
+				            								
+							 								
+							                              								
+								
+																				
+        	
+    			    									
+                    
+						
+
+				            								
+							 								
+							                              								
+								
+																				
+        	
+    			    									
+                    
+									
+
+				            								<li><a  href="/cmlink/media/media" >MEDIA</a></li>
+						    					
+        	
+    			    									
+                    
+									
+
+				            								<li><a  href="/cmlink/nhan-dan-cu-i-tu-n/nhan-dan-cu-i-tu-n" >NHÂN DÂN CUỐI TUẦN</a></li>
+						    					
+        	
+    			    									
+                    
+									
+
+				            								<li><a  href="/cmlink/nhan-dan-h-ng-thang/nhan-dan-h-ng-thang" >NHÂN DÂN HẰNG THÁNG</a></li>
+						    					
+        	
+    			    									
+                    
+									
+
+				            								<li><a  href="/cmlink/undercontrustion" >THỜI NAY</a></li>
+						    					
+          
+  			<li class="skip"><a href="/cmlink/nhandan-online">NHÂN DÂN ONLINE</a></li>
+	</ul>                        
+</div>
+
+
+          
+        
+
+<div style='Navigaton path'>
+      <div style="margin-top:10px;">
+  
+  
+                  
+    
+        
+        <style type="text/css">
+.breadCrumb {
+margin-top: 5px;
+margin-bottom: 5px;
+margin-left:3px;
+}
+
+.breadCrumb a {
+font: 12px arial;
+color: #000000;
+background: url('/img/bread-crumb-sep.png') no-repeat 3px;
+padding-left: 20px;
+margin-left: 5px;
+text-decoration: none;
+float:left;
+}
+
+.breadCrumb .first {
+background: 0px;
+padding-left: 0;
+margin-left: 0;
+}
+
+.breadCrumb .active {
+color: #000000;
+text-decoration: none;
+}
+
+.breadCrumb a:hover{
+color: #CF2127;
+text-decoration: underline;
+}
+</style>
+<div class="breadCrumb">
+           <a href="/cmlink/nhandandientu/thoisu" 
+                 class="first"
+         >
+  THỜI SỰ
+  </a>
+           <a href="/cmlink/nhandandientu/thoisu/chinh-tri" 
+                 class="active"
+         >
+  CHÍNH TRỊ
+  </a>
+           <a href="/cmlink/nhandandientu/thoisu/chinh-tri/y-kien" 
+                 class="active"
+         >
+  Ý kiến
+  </a>
+  </div>
+<div  style="clear:both" ></div>
+
+
+      
+  
+      
+      </div>
+  </div>
+      
+  
+                          
+            	  <div class="folder-header">
+            		
+            			<table border="0" width="993" >
+            				<tr>
+            					<td style="vertical-align:bottom" >
+            					            					<span class="date">
+																			Thứ năm,
+										ngày 
+										 8 
+										tháng
+										 12
+										năm
+										 2011&nbsp;
+																	</span>
+        
+            					</td>
+            					<td  style="vertical-align:bottom">
+        							<div class="fr">
+            						        							</div>
+            					</td>
+            				</tr>
+            			</table>
+            	  </div>
+				              </div>
+	      		<table border="0" width="993">
+    				<tr>
+    					<td valign="top">
+    											 
+                            
+                            						       							     								<div class="borderLayoutColumn mainColumn" id="col3">
+									    								
+
+
+
+
+
+
+
+	    <div>
+          <div class="element article">
+            							
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td>          
+		<div class="titleNetwork fr">
+			<table width="100%" border="0" cellspacing="10" cellpadding="5">
+				<tr> 
+											<td> <a href="" class="increaseTextSize" style="color:#000000;">+ Chữ to</a>&nbsp;&nbsp;</td> 
+						<td> <a href="" class="decreaseTextSize" style="color:#000000;">- Chữ nhỏ</a>&nbsp;&nbsp;</td> 
+																	<td><a href="/cmlink/nhandandientu/thoisu/chinh-tri/y-kien/t-o-s-ch-ng-tieu-th-nong-s-n-1.324499?mode=print" target="_blank" style="color:#000000;">
+							<img src="/polopoly_fs/3.147!/print.gif" alt="" title="Bản in"  border="0" style="float:left"/>
+							&nbsp; Bản in</a>&nbsp;&nbsp;</td> 
+					
+											<td> 
+						<div class="articlePDF">
+
+						  						  						  
+							<form method="post" action="/pdf" id="pdfform">
+									  <input type="hidden" name="url" value="http://nhandan.com.vn/cmlink/nhandandientu/thoisu/chinh-tri/y-kien/t-o-s-ch-ng-tieu-th-nong-s-n-1.324499?mode=print"/>
+									 <input type="hidden" name="title" value="Tạo sự chủ động tiêu thụ nông sản"/>
+									 <a href="javascript:document.forms['pdfform'].submit();" style="color:#000000;"><img src="/polopoly_fs/3.147!/print.gif" border="0" style="float:left" />&nbsp; In ra PDF</a>
+							</form> 
+
+							<script type="text/javascript">
+
+
+									  $(document).ready(function() {  
+									     
+									      $(".PDFbutton").click(function() {
+
+									     var dataString = 'url='+'http://nhandan.com.vn/cmlink/nhandandientu/thoisu/chinh-tri/y-kien/t-o-s-ch-ng-tieu-th-nong-s-n-1.324499'+'&title='+'Tạo sự chủ động tiêu thụ nông sản';
+									 
+									      jQuery.ajax({
+									              type: "POST",
+									              url: "/pdf",
+									              data: dataString,
+									              success: function() {
+									              }
+									         });
+									        return false;
+									    });
+									  });
+
+
+							</script>
+						</div>
+						</td> 
+									</tr>
+			</table>
+		</div>
+	<br /><br />
+	</td>
+  </tr>
+</table>
+			
+							<div class="titleHint" style="font-style:italic;"><strong></strong></div>
+			          
+            <div class="parentfolder-lead1">
+            	            		Tạo sự chủ động tiêu thụ nông sản
+            	            </div>
+
+<div class="articleupdated">Cập nhật lúc 
+    01:08, Thứ năm, 08/12/2011 (GMT+7)
+</div>  
+          
+                        <div class="parentfolder-content">
+            
+
+            
+
+	
+							<div align="justify">
+						<b>Nếu thực hiện thu mua nông sản hàng hóa theo hợp đồng, vấn đề "đầu ra" cho nông sản và xây dựng vùng nguyên liệu cho doanh nghiệp được bảo đảm trên cơ sở liên kết "Bốn nhà", mang lại nhiều lợi ích cho cả nông dân và doanh nghiệp, Nhà nước, nhà khoa học. Nhưng nhiều năm qua, mối liên kết trong tiêu thụ hàng nông sản "rơi" vào tình trạng lỏng lẻo, thiếu bền vững.</b></div>
+				   
+		        
+		                                                
+
+			
+                          <div class="parentfolder-content">
+              <p><p>Ðầu năm nay, hàng trăm ô-tô chở dưa hấu từ miền nam ra phải chịu cảnh ùn ứ tại cửa khẩu Lạng Sơn do bị tư thương nước ngoài ép giá, không bán được. Hay như vải thiều, cam, quýt... cũng rơi vào tình trạng tương tự. Có năm, vải thiều rớt giá, người dân Lục Ngạn (Bắc Giang) không muốn thu hoạch, bởi vì tiền công thu hoạch còn lớn hơn tiền bán vải thiều. Những mô hình nông nghiệp phát triển theo kiểu liên kết "Bốn nhà" mới chỉ đếm trên đầu ngón tay, còn lại phần lớn vẫn chỉ là liên kết "Ba nhà", "Hai nhà". Tuy Chính phủ đã ban hành nhiều chính sách cho nông dân vay vốn để sản xuất, nhưng số nông dân đủ điều kiện tiếp cận các nguồn vốn quá ít ỏi. Một bộ phận không nhỏ nông dân phải vay bên ngoài với lãi suất cao, làm tăng chi phí sản xuất, còn những người không vay được vốn đành sản xuất manh mún.</p><p>Việt Nam là một trong những nước có sản lượng rau quả lớn trong khu vực, mà nhiều vùng chuyên trồng cây ăn quả vẫn loanh quanh điệp khúc "được mùa - rớt giá", "được giá - mất mùa". Không những vậy, trái cây Việt Nam có nguy cơ thua ngay trên "sân nhà" do cạnh tranh với hàng nhập khẩu. Một trong những nguyên nhân của tình trạng trên là do ngành hàng sản xuất và kinh doanh trái cây vốn gặp nhiều rủi ro, chịu sự "thất thường" của thị trường, cho nên dễ lâm vào tình cảnh bị động. Trong khi đó, phần lớn nông dân sản xuất với quy mô nhỏ lẻ, manh mún; chất lượng chưa bảo đảm yêu cầu; mẫu mã kém. Một căn bệnh cố hữu khó chữa nữa của nông dân là tự ý phá hợp đồng khi giá thị trường cao hơn giá ký kết, khiến doanh nghiệp không mặn mà "bắt tay" với nông dân.</p><p>Ðể giải quyết lợi ích giữa các bên, Nhà nước cần có chính sách hỗ trợ kinh tế hợp tác gắn với phát triển vùng sản xuất, ưu tiên đầu tư xây dựng hạ tầng kỹ thuật, từ đó hình thành các vùng nguyên liệu lớn, tập trung, thống nhất một quy trình sản xuất để tạo ra sản phẩm đồng nhất. Hình thành mối liên kết sản xuất - chế biến - tiêu thụ, trong đó, doanh nghiệp giữ vai trò trung tâm. Mặt khác, cần có những chính sách tín dụng cho vay ưu đãi, thông thoáng để nông dân cải tạo vườn tạp, mua trang thiết bị sản xuất.</p></p>
+              </div>
+
+                            
+              				<div style="clear:both;"></div>
+                <div class="parentfolder-content" style="float:right;">
+                                          <b> NGUYỄN QUANG (Cần Thơ)</b>
+                                                            
+                                    </div>
+                          
+
+	
+		
+			<div class="clearfix"></div>
+			
+			                                
+                               
+                                <div style="margin-top:-5px;">
+                   <div class="content">
+                   <table border="0" width="670">
+    				<tr>
+    					<td>                  
+            			   <div style="float:right; text-decoration:none; color:#000000;">
+                                <table border="0" cellpadding="5">
+                                    <tr>
+                                      <td style="vertical-align:top;padding-top:18px;">
+										
+       
+
+<script src="/polopoly_fs/3.139!/js/formbuilder/jquery.js"></script>
+<script src="/polopoly_fs/3.139!/js/formbuilder/formMail.js"></script>
+<script src="/polopoly_fs/3.139!/js/formbuilder/jquery.field.js"></script>
+<script src="/polopoly_fs/3.139!/js/formbuilder/jquery.field.min.js"></script>
+<script src="/polopoly_fs/3.139!/js/formbuilder/jquery-ui-1.7.2.custom.min.js"></script>
+<script type="text/javascript" src="/polopoly_fs/3.139!/js/vietuni.min.js" ></script>
+
+
+
+
+
+
+
+
+      
+            
+  
+
+
+
+
+  
+  
+  
+<div class="sendMail">
+     <form id="emailform123"> 
+     <input type="hidden" name="url" value="http://nhandan.com.vn/cmlink/nhandandientu/thoisu/chinh-tri/y-kien/t-o-s-ch-ng-tieu-th-nong-s-n-1.324499"/>
+     <a href="javascript:document.forms['emailform123'].submit();" id="email_this_article-123" style="text-decoration:none;color:#000000;">
+    
+     <img src="/polopoly_fs/3.139!/img/email.gif"  border="0"  style="display:inline;"/>
+        E-mail
+     </a>     
+     </form>
+</div>
+<script>
+
+JNewQuery().ready(function() { 
+    JNewQuery("#email_this_article-123").click(function() {
+        sendMail();
+    });
+	
+});
+
+
+function sendMail(){
+$j('.sendMail').sendMail("/cmlink/mail-configuration-17.123?sendMail=init&title=Tạo sự chủ động tiêu thụ nông sản&url=http://nhandan.com.vn/cmlink/nhandandientu/thoisu/chinh-tri/y-kien/t-o-s-ch-ng-tieu-th-nong-s-n-1.324499&locale=vi_VN");
+return false;
+}
+
+JNewQuery.fn.sendMail = function(url)
+    {
+    if(url == null) 
+    return;
+    
+    window.open(url,"_blank","Send article through email","location=0,status=0,scrollbars=0,width=300,height=400"); 
+    }
+</script> 
+
+<script type="text/javascript">
+var resetRand=false;
+var first_time_to_render_captcha_123 = true;
+      var captchaLink="";
+      function firstTimeCaptcha123() {
+        if (first_time_to_render_captcha_123) {
+            renderCaptcha123();
+            JNewQuery("#email_container-123").show();
+        }
+      }
+      
+    function renderCaptcha123() {
+     var randNum = Math.ceil(Math.random()*10000000);
+     var captchaImg = JNewQuery("#captcha_image-123");
+     
+     if(resetRand){
+         randNum = Math.ceil(Math.random()*10000000);
+     }
+     
+     captchaLink=window.location.protocol+"//"+window.location.host+"/captcha?" + randNum;
+     
+     if (captchaImg.length > 0) {
+        captchaImg.attr("src",captchaLink); 
+     } else {
+        var captcha = JNewQuery('#captcha_container-123');
+        captcha.html('<img src="' +captchaLink+'" class="captcha_img" id="captcha_image-123" name="picture"/>');
+     }
+     var img = new Image();
+     img.src=captchaLink;
+     temp="document['picture'].src =img.src;";
+     eval( temp);
+     resetRand=true;
+    
+}
+
+
+
+  	var vUni = new vietUni();
+	if (vUni) {	
+		vUni.initTyper(document.getElementById("sendermail"));
+		vUni.initTyper(document.getElementById("recipientmail"));
+		vUni.initTyper(document.getElementById("message"));
+  	}
+	
+</script>  
+
+&nbsp;&nbsp;
+                                      </td>
+                                      <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                                      <td style="vertical-align:top;">
+                                        
+
+<div class="bookmarks">
+
+      <ul>
+
+			
+	    <li class="pdSocialBookmark" >
+		<a style="text-decoration:none;" 
+    		rel="nofollow" 
+    		href="http://www.facebook.com" 
+    		onClick="window.open('http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnhandan.com.vn%2Fcmlink%2Fnhandandientu%2Fthoisu%2Fchinh-tri%2Fy-kien%2Ft-o-s-ch-ng-tieu-th-nong-s-n-1.324499&t=T%E1%BA%A1o+s%E1%BB%B1+ch%E1%BB%A7+%C4%91%E1%BB%99ng+ti%C3%AAu+th%E1%BB%A5+n%C3%B4ng+s%E1%BA%A3n'); return false;" 
+			title="FaceBook"  > 
+    	<img style="padding-bottom:1px;display:block;" src="/polopoly_fs/17.122.1322005223!/work_5420facebook.png"  alt="FaceBook" name="FaceBook" border="0" id="FaceBook" > 			
+    </a>
+	</li>
+			
+	    <li class="pdSocialBookmark" >
+		<a style="text-decoration:none;" 
+    		rel="nofollow" 
+    		href="http://twitter.com" 
+    		onClick="window.open('http://twitter.com/home?status=http%3A%2F%2Fnhandan.com.vn%2Fcmlink%2Fnhandandientu%2Fthoisu%2Fchinh-tri%2Fy-kien%2Ft-o-s-ch-ng-tieu-th-nong-s-n-1.324499'); return false;" 
+			title="Twitter"  > 
+    	<img style="padding-bottom:1px;display:block;" src="/polopoly_fs/17.122.1322005223!/work_5743twitter.GIF"  alt="Twitter" name="Twitter" border="0" id="Twitter" > 			
+    </a>
+	</li>
+			
+	    <li class="pdSocialBookmark" >
+		<a style="text-decoration:none;" 
+    		rel="nofollow" 
+    		href="http://digg.com" 
+    		onClick="window.open('http://digg.com/submit?phase=2&url=http%3A%2F%2Fnhandan.com.vn%2Fcmlink%2Fnhandandientu%2Fthoisu%2Fchinh-tri%2Fy-kien%2Ft-o-s-ch-ng-tieu-th-nong-s-n-1.324499&bodytext=&tags=&title=T%E1%BA%A1o+s%E1%BB%B1+ch%E1%BB%A7+%C4%91%E1%BB%99ng+ti%C3%AAu+th%E1%BB%A5+n%C3%B4ng+s%E1%BA%A3n'); return false;" 
+			title="Digg"  > 
+    	<img style="padding-bottom:1px;display:block;" src="/polopoly_fs/17.122.1322005223!/work_5894digg.png"  alt="Digg" name="Digg" border="0" id="Digg" > 			
+    </a>
+	</li>
+			
+	    <li class="pdSocialBookmark" >
+		<a style="text-decoration:none;" 
+    		rel="nofollow" 
+    		href="http://www.webnews.de" 
+    		onClick="window.open('http://www.webnews.de/einstellen?url=http%3A%2F%2Fnhandan.com.vn%2Fcmlink%2Fnhandandientu%2Fthoisu%2Fchinh-tri%2Fy-kien%2Ft-o-s-ch-ng-tieu-th-nong-s-n-1.324499&title=T%E1%BA%A1o+s%E1%BB%B1+ch%E1%BB%A7+%C4%91%E1%BB%99ng+ti%C3%AAu+th%E1%BB%A5+n%C3%B4ng+s%E1%BA%A3n'); return false;" 
+			title="WebNews"  > 
+    	<img style="padding-bottom:1px;display:block;" src="/polopoly_fs/17.122.1322005223!/work_5981webnews.png"  alt="WebNews" name="WebNews" border="0" id="WebNews" > 			
+    </a>
+	</li>
+		
+</ul>
+
+</div>
+<div  style="clear:both" ></div>
+                                     </td>
+                                    </tr>
+                              </table>
+            				</div>							  
+    					</td>
+    				</tr>
+    			   </table>
+                   </div>
+                </div>
+				 
+                  
+    
+        
+        
+
+
+
+<div>
+  <div class="articleComments" id="comment-279225">
+  
+
+<div id="commentsForm-279225">
+      
+   <script type="text/javascript">
+
+	var first_time_to_render_captcha_279225 = true;
+      
+      function firstTimeCaptcha279225() {
+        if (first_time_to_render_captcha_279225) {
+            renderCaptcha279225();
+            first_time_to_render_captcha_279225 = false;
+        }
+      }
+      
+      
+      
+    jQuery().ready(function() {
+    
+									  
+											  
+	
+	if (polopoly.user.isLoggedIn() && polopoly.user.screenName().length > 0) {
+        jQuery(".authorRealNameWrapper").html(polopoly.user.screenName());
+    }else{
+
+		
+		jQuery(".authorRealNameWrapper").html('<input name="comment_author" id="comment_author-279225"' + 
+                                              'value=""' + 
+                                              'class="inputField vuni" style="display: block;border-color:#ccc" type="text"/>');
+
+		//VUni.initTyper(document.getElementById("comment_author-279225"));
+    }
+
+	//VUni.initTyper(document.getElementById("comment_text"));
+	//VUni.initTyper(document.getElementById("comment_email-279225"));
+	//VUni.initTyper(document.getElementById("comment_title-279225"));
+
+    
+	    
+    });
+    </script>
+    <form id="commentform279225">
+        <input type="button" class="button submit" id="comment_this_article-279225" value="Ý kiến của bạn" style="border:0;background-color:#cccccc;color:#C00000;"/>
+
+	    	
+    </form>
+	&nbsp;
+    <div class="comment_contents form clearfix" style="display: none;" id="comments_container-279225">
+      <form action="/cmlink/nhandandientu/thoisu/chinh-tri/y-kien/t-o-s-ch-ng-tieu-th-nong-s-n-1.324499#commentsForm-279225" method="post" id="commentBlogPostForm-279225">
+        <input name="commentsId" value="7.279225" type="hidden">
+        <input type="hidden" name="action" value="CREATE_COMMENT"/>
+        
+		<table width="500px" border="0" cellspacing="0" cellpadding="0">
+			
+			<tr>
+				<td width="100px" height="40px" style="vertical-align:top;font-family:arial" >
+					Họ và tên
+				</td>
+				<td width="200px" height="40px" style="vertical-align:top;font-family:arial" >
+					<span class="authorRealNameWrapper"></span>
+				</td>
+				<td width="60px" height="40px" style="vertical-align:top;font-family:arial" >
+					Email
+				</td>
+				<td height="40px" style="vertical-align:top;font-family:arial" >
+					<input name="comment_email" id="comment_email-279225" value="" class="vuni required e-mail " style="width:170px display: block;border-color:#ccc;" type="text"/>
+				</td>	
+			</tr>
+			<tr>
+				<td height="40px" style="vertical-align:top;font-family:arial" >
+					Tiêu đề
+				</td>
+    			<td colspan="3" style="vertical-align:top;font-family:arial">
+    				<input name="comment_title" id="comment_title-279225" value="" class="inputField vuni" style="display: block;border-color:#ccc;" type="text"/>
+    			</td>
+			</tr>
+		
+		<tr>
+    <td colspan="4" style="height:35px;font-family:arial;">Mã xác nhận ( Click chuột vào ảnh để thay đổi ảnh khác )</td>  
+</tr>
+<tr>
+    <td><div id="captcha_container-279225" class="captcha_container">
+        </div></td>
+    <td colspan="3" style="vertical-align:middle;"><input name="captcha_response" id="captcha_response-279225" type="text" style="border-color:#ccc;"/></td>
+</tr>
+<tr>
+    <td colspan="4" style="font-family:arial">Mời bạn nhập ý kiến vào ô bên dưới. Xin vui lòng gõ tiếng Việt có dấu. Tòa soạn có thể biên tập lại ý kiến của bạn để phù hợp với tiêu chí chung của toàn soạn.</td>   
+</tr>
+<tr>
+    <td colspan="4"><textarea name="comment_text" id="comment_text" class="vuni" style="width:530px;border-color:#ccc;" cols="100" rows="5"></textarea></td>  
+</tr> 
+<tr>
+    <td colspan="1">
+    <input id="submitCommentBlogPost-279225" class="button submit" value="Gửi tòa soạn" type="submit" style="border:0;background-color:#cccccc;color:#C00000;" >
+		 
+    </td>
+    <td colspan="3" class="font-char" align="right" style="text-align:right;font-family:arial">
+    Gõ tiếng việt
+	
+    <input type="radio" id="typer_mode_1" name="typer_mode" class="sform" value="1" style="border-width:0;" /><label for="typer_mode_1">Telex</label>&nbsp;
+    <input type="radio" id="typer_mode_2" name="typer_mode" class="sform" value="2" style="border-width:0;" /><label for="typer_mode_2">VNI</label>&nbsp;
+    <input type="radio" id="typer_mode_3" name="typer_mode" class="sform" value="3" style="border-width:0;" /><label for="typer_mode_3">VIQR</label>&nbsp;
+    <input type="radio" id="typer_mode_0" name="typer_mode" class="sform" value="0" style="border-width:0;" checked="checked" /><label for="typer_mode_0">OFF</label>            
+	
+	</td>
+    </tr>  
+</table>
+      </form>
+    </div>
+<script type="text/javascript">
+
+    var validation = {
+      rules: {
+        comment_text: {
+          required: true
+        },
+        comment_author: {
+          required: true
+        },
+		        comment_email: {
+		        required: true,
+		        email:true
+		        },
+		        comment_title: {
+		        required: true
+		        },
+		        captcha_response: {
+          required: true
+        }
+      },
+      messages: {
+        comment_text: {
+          required: "Xin hãy nhập Ý kiến."
+        },
+        comment_author: {
+          required: "Xin hãy nhập Họ và tên."
+        },
+        comment_title: {
+          required: "Xin hãy nhập Tiêu đề."
+        },
+        captcha_response: {
+          required: "Mã xác thực không đúng. Xin hãy nhập lại."
+        },
+		        comment_email: {
+          required: "Bạn chưa nhập email hoặc email không đúng. Xin hãy nhập lại.",
+          email: "Bạn chưa nhập email hoặc email không đúng. Xin hãy nhập lại."
+        },
+        captcha_title: {
+          required: "Xin hãy nhập Tiêu đề."
+        }
+      },
+      submitHandler: function(form) {
+        jQuery("#submitCommentBlogPost-279225").css("background-color", "#ccc");
+        jQuery("#submitCommentBlogPost-279225").attr("disabled", true);
+        
+        form.submit();
+        		alert("Cảm ơn Quý vị đã đóng góp ý kiến về bài viết, chúng tôi đã nhận được ý kiến của Quý vị");
+		      }
+    };
+
+function renderCaptcha279225() {
+     var randNum = Math.ceil(Math.random()*10000000);
+     var captchaImg = jQuery("#captcha_image-279225");
+     if (captchaImg.length > 0) {
+        captchaImg.attr("src","/captcha?" + randNum); 
+     } else {
+        var captcha = jQuery('#captcha_container-279225');
+        captcha.html('<img src="/captcha?' +randNum +'" class="captcha_img" id="captcha_image-279225" />');
+        jQuery("#captcha_image-279225").click(renderCaptcha279225);
+    }
+}
+
+jQuery().ready(function() { 
+            
+    
+    //jQuery("#captcha_container-279225").click(renderCaptcha279225);
+    
+    jQuery("#comment_this_article-279225").click(function() {
+        firstTimeCaptcha279225();
+        jQuery("#comments_container-279225").slideToggle("fast");
+        jQuery("#comment_author-279225").focus();
+    });
+    
+});
+
+  jQuery().ready(function() {
+    /* "Error management" */  
+    var validator = jQuery("#commentBlogPostForm-279225").validate(validation);
+  });
+  
+</script>
+</div>
+
+  <div id="commentsField-279225" style="display: none;"></div>
+  <script type="text/javascript">
+	function showComments279225() {
+//if (jQuery("#commentsField-279225 .commentList").length == 0) {
+      		polopoly.comments.get('/cmlink/nhandandientu/thoisu/chinh-tri/y-kien/t-o-s-ch-ng-tieu-th-nong-s-n-1.324499/7.279225', 0, "#commentsField-279225",
+       		function() {
+				jQuery("#commentsField-279225").slideDown("fast"); }
+			);
+//      	}
+    }
+	
+	function doComments279225() {
+    
+		if (jQuery("#commentsField-279225 .commentList").length == 0) {
+      		polopoly.comments.get('/cmlink/nhandandientu/thoisu/chinh-tri/y-kien/t-o-s-ch-ng-tieu-th-nong-s-n-1.324499/7.279225', 0, "#commentsField-279225",
+       		function() {
+				}
+			);
+      	}
+    }
+	
+    
+    
+    jQuery("#show_comments-279225").click(showComments279225);
+    jQuery("#comment_this_article-279225").click(doComments279225);
+  </script>
+  </div>
+</div>
+
+      
+  
+                      
+				                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td class="externalTable1" >
+                     
+                    <div class="neo-category1 hlo-newsleft clearfix folder-header2"> 
+                    <div class="parentfolder-title fl ml" style="margin-left:-2px;"><a href="#"><strong>Các tin bài khác</strong></a></div>
+                    <div style="clear:both;"></div>
+                    
+					                                            														                            <div class="font-char" id="link-normal" style="margin-bottom:10px;">
+                               <div style="border: solid 1px #000000; width:15px; text-align:center; float:left; margin-right:10px;">1</div>
+                               <a href="/cmlink/nhandandientu/thoisu/chinh-tri/y-kien/i-bi-u-h-nd-khong-ne-tranh-v-n-b-c-xuc-1.324585"> Đại biểu HĐND không né tránh vấn đề bức xúc</a> (08/12)
+                            </div>
+							 														                       
+                																                            <div class="font-char" id="link-normal" style="margin-bottom:10px;">
+                               <div style="border: solid 1px #000000; width:15px; text-align:center; float:left; margin-right:10px;">2</div>
+                               <a href="/cmlink/nhandandientu/thoisu/chinh-tri/y-kien/ep-gia-thu-mua-ca-phe-con-anh-ng-i-tr-ng-th-ng-1.324498"> Ðã ép giá thu mua cà-phê, còn đánh người trọng thương</a> (08/12)
+                            </div>
+							 														                       
+                																							                       
+                																                            <div class="font-char" id="link-normal" style="margin-bottom:10px;">
+                               <div style="border: solid 1px #000000; width:15px; text-align:center; float:left; margin-right:10px;">3</div>
+                               <a href="/cmlink/nhandandientu/thoisu/chinh-tri/y-kien/b-o-v-quy-n-l-i-ng-i-tieu-dung-1.324497"> Bảo vệ quyền lợi người tiêu dùng</a> (08/12)
+                            </div>
+							 														                       
+                																                            <div class="font-char" id="link-normal" style="margin-bottom:10px;">
+                               <div style="border: solid 1px #000000; width:15px; text-align:center; float:left; margin-right:10px;">4</div>
+                               <a href="/cmlink/nhandandientu/thoisu/chinh-tri/y-kien/ki-n-ng-n-1.324053"> Ý kiến ngắn</a> (04/12)
+                            </div>
+							 														                       
+                																                            <div class="font-char" id="link-normal" style="margin-bottom:10px;">
+                               <div style="border: solid 1px #000000; width:15px; text-align:center; float:left; margin-right:10px;">5</div>
+                               <a href="/cmlink/nhandandientu/thoisu/chinh-tri/y-kien/can-b-ph-trach-t-sach-phap-lu-t-1.324030"> Cán bộ phụ trách Tủ sách pháp luật</a> (04/12)
+                            </div>
+							 														                       
+                																                            <div class="font-char" id="link-normal" style="margin-bottom:10px;">
+                               <div style="border: solid 1px #000000; width:15px; text-align:center; float:left; margin-right:10px;">6</div>
+                               <a href="/cmlink/nhandandientu/thoisu/chinh-tri/y-kien/h-n-ch-sai-sot-trong-cong-tac-xet-x-1.324029"> Hạn chế sai sót trong công tác xét xử</a> (04/12)
+                            </div>
+							 														                       
+                																                            <div class="font-char" id="link-normal" style="margin-bottom:10px;">
+                               <div style="border: solid 1px #000000; width:15px; text-align:center; float:left; margin-right:10px;">7</div>
+                               <a href="/cmlink/nhandandientu/thoisu/chinh-tri/y-kien/gi-i-quy-t-vi-c-lam-cho-ng-i-lao-ng-1.324027"> Giải quyết việc làm cho người lao động</a> (04/12)
+                            </div>
+							 														                       
+                																                            <div class="font-char" id="link-normal" style="margin-bottom:10px;">
+                               <div style="border: solid 1px #000000; width:15px; text-align:center; float:left; margin-right:10px;">8</div>
+                               <a href="/cmlink/nhandandientu/thoisu/chinh-tri/y-kien/ba-n-m-ch-a-nh-n-c-t-mua-u-gia-1.323766"> Ba năm chưa nhận được đất mua đấu giá</a> (02/12)
+                            </div>
+							 														                       
+                																                            <div class="font-char" id="link-normal" style="margin-bottom:10px;">
+                               <div style="border: solid 1px #000000; width:15px; text-align:center; float:left; margin-right:10px;">9</div>
+                               <a href="/cmlink/nhandandientu/thoisu/chinh-tri/y-kien/dan-kh-vi-nha-may-gay-o-nhi-m-ngu-n-n-c-1.323767"> Dân khổ vì nhà máy gây ô nhiễm nguồn nước</a> (02/12)
+                            </div>
+							 														                       
+                																                            <div class="font-char" id="link-normal" style="margin-bottom:10px;">
+                               <div style="border: solid 1px #000000; width:15px; text-align:center; float:left; margin-right:10px;">10</div>
+                               <a href="/cmlink/nhandandientu/thoisu/chinh-tri/y-kien/ng-i-gop-ph-n-xay-d-ng-nong-thon-m-i-1.323771"> Người góp phần xây dựng nông thôn mới</a> (02/12)
+                            </div>
+							 														                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                									                       
+                		                	</div>	
+                    </td>
+                  </tr>
+                </table>
+                				</div>	
+  </div>
+</div>	
+    								</div>
+    							 							    					</td>
+						    					<td style="vertical-align: top" bgcolor="#f0f0f0">
+                    	  <div class="borderLayoutColumn bannerColumn" id="col4">
+                                                          
+                  
+    
+        
+        
+
+
+
+  		  
+<script type="text/javascript">
+jQuery.ajaxSetup ({
+    // Disable caching of AJAX responses
+    cache: false
+});
+
+var loadlist=1;
+            function loadContent7_202532(elementSelector, sourceUrl,count) {
+            $(""+elementSelector+"").removeClass();
+            loadlist=count;
+            var teaserlist = $(""+elementSelector+"");
+            teaserlist.animate({'opacity':'0.25'},10);
+            var position = teaserlist.offset();
+            var loader = jQuery('<div id="loader" class="loader"></div>');
+            loader.appendTo(document.body);
+            var el = $('#loader');
+            var left = position.left + (teaserlist.width() - el.width()) / 2 + "px";
+            var top = position.top + 100 + "px";
+            el.css({ position: "absolute",marginLeft: 0, marginTop: 0,top: top, left: left});
+            teaserlist.load(sourceUrl, function() {
+            $(this).css('opacity','');
+            loader.remove();
+            
+            });
+            }
+
+</script>
+
+
+        
+        
+
+  
+    
+  
+    
+
+       
+                        
+            <div id="ki-n-chung-toi7_202532" class="element list custom-list ">
+        
+                            							<a href="/cmlink/nhandandientu/thoisu/chinh-tri/y-kien-chung-toi">
+    							  <h5 class="deptheader" style="display:inline;">Ý KIẾN CHÚNG TÔI</h5>
+    			  &nbsp;<img src="/polopoly_fs/3.123!/DoubleArrow.gif" style="display:inline;"/>
+                				</a>
+							            
+              <ul class="linklist">
+                                                                                                                                                                                    
+            	            	
+                                                    	 	
+                                                                                                                       <li>
+
+
+
+
+
+
+<div class="element teaser">
+	
+  
+            
+  <div class="parentfolder-content">
+      <div class="titleHint" style="font-style:italic;"><strong></strong></div>
+    
+  <div class="parentfolder-title">
+	<a href="/cmlink/nhandandientu/thoisu/chinh-tri/y-kien-chung-toi/t-ng-c-ng-quan-h-oan-k-t-h-u-ngh-truy-n-th-ng-va-h-p-tac-toan-di-n-vi-t-nam-cam-pu-chia-1.324239">
+					Tăng cường quan hệ đoàn kết, hữu nghị truyền thống và hợp tác toàn diện Việt Nam - Cam-pu-chia
+			</a>
+  </div>
+  
+ <div style="float: left;">
+    </div>
+  
+
+    	  		<div class="custom-list_newmode"><span class="time">20:39 | </span><span class="date">05/12/2011</span></div>
+  	    
+        <div><p style="font-family:arial;font-size:12px;">Nhân lời mời của Quốc vương Cam-pu-chia Nô-rô-đôm Xi-ha-mô-ni, hôm nay, Tổng Bí thư Nguyễn Phú Trọng tới Thủ đô Phnôm Pênh, bắt đầu chuyến thăm hữu nghị cấp Nhà nước Vương quốc Cam-pu-chia. Ðây là chuyến thăm Cam-pu-chia lần đầu của Tổng Bí thư Nguyễn Phú Trọng.</p></div>
+    
+</div>
+
+<div style="clear:both;"></div>
+<div class="sep-content"></div>
+</div>
+
+</li>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/chinh-tri/y-kien-chung-toi/n-l-c-hanh-ng-phong-ch-ng-hiv-aids-1.323775" class="arial" style="font-size: 12px;">Nỗ lực hành động phòng, chống HIV/AIDS</a> <span style="color:#000000;font:12px arial;">(02/12)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/chinh-tri/y-kien-chung-toi/thuc-y-quan-h-h-u-ngh-va-h-p-tac-nhi-u-m-t-gi-a-vi-t-nam-va-thai-lan-1.323406" class="arial" style="font-size: 12px;">Thúc đẩy quan hệ hữu nghị và hợp tác nhiều mặt giữa Việt Nam và Thái-lan</a> <span style="color:#000000;font:12px arial;">(30/11)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/chinh-tri/y-kien-chung-toi/neu-cao-tinh-th-n-yeu-n-c-n-l-c-ph-n-u-th-c-hi-n-th-ng-l-i-cac-ngh-quy-t-c-a-qu-c-h-i-1.322959" class="arial" style="font-size: 12px;">Nêu cao tinh thần yêu nước, nỗ lực phấn đấu thực hiện thắng lợi các nghị quyết của Quốc hội</a> <span style="color:#000000;font:12px arial;">(27/11)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    				
+                <br/>
+                <div align="center">
+                              
+            
+	    					
+              </ul>
+              
+            </div>
+           
+  
+          
+        
+
+
+
+  		  
+<script type="text/javascript">
+jQuery.ajaxSetup ({
+    // Disable caching of AJAX responses
+    cache: false
+});
+
+var loadlist=1;
+            function loadContent7_202526(elementSelector, sourceUrl,count) {
+            $(""+elementSelector+"").removeClass();
+            loadlist=count;
+            var teaserlist = $(""+elementSelector+"");
+            teaserlist.animate({'opacity':'0.25'},10);
+            var position = teaserlist.offset();
+            var loader = jQuery('<div id="loader" class="loader"></div>');
+            loader.appendTo(document.body);
+            var el = $('#loader');
+            var left = position.left + (teaserlist.width() - el.width()) / 2 + "px";
+            var top = position.top + 100 + "px";
+            el.css({ position: "absolute",marginLeft: 0, marginTop: 0,top: top, left: left});
+            teaserlist.load(sourceUrl, function() {
+            $(this).css('opacity','');
+            loader.remove();
+            
+            });
+            }
+
+</script>
+
+
+        
+        
+
+  
+    
+  
+    
+
+       
+                        
+            <div id="cung-suy-ng-m7_202526" class="element list custom-list ">
+        
+                            							<a href="/cmlink/nhandandientu/thoisu/chinh-tri/cung-suy-ngam">
+    							  <h5 class="deptheader" style="display:inline;">CÙNG SUY NGẪM</h5>
+    			  &nbsp;<img src="/polopoly_fs/3.123!/DoubleArrow.gif" style="display:inline;"/>
+                				</a>
+							            
+              <ul class="linklist">
+                                                                                                                                                                                    
+            	            	
+                                                    	 	
+                                                                                                                       <li>
+
+
+
+
+
+
+<div class="element teaser">
+	
+  
+            
+  <div class="parentfolder-content">
+      <div class="titleHint" style="font-style:italic;"><strong></strong></div>
+    
+  <div class="parentfolder-title">
+	<a href="/cmlink/nhandandientu/thoisu/chinh-tri/cung-suy-ngam/b-o-m-an-toan-th-c-ph-m-d-p-t-t-nguyen-an-1.324480">
+					<p>Bảo đảm an to&agrave;n thực phẩm dịp Tết Nguy&ecirc;n đ&aacute;n</p>
+			</a>
+  </div>
+  
+ <div style="float: left;">
+    </div>
+  
+
+    	  		<div class="custom-list_newmode"><span class="time">20:52 | </span><span class="date">07/12/2011</span></div>
+  	    
+        <div><p style="font-family:arial;font-size:12px;"><p>Kết quả thanh tra, kiểm tra năm 2011 của ng&agrave;nh y tế cho thấy số vụ việc vi phạm về an to&agrave;n vệ sinh thực phẩm (ATVSTP) c&oacute; chiều hướng giảm; số vụ ngộ độc thực phẩm tập thể giảm; nhận thức v&agrave; &yacute; thức chấp h&agrave;nh ph&aacute;p luật của người sản xuất, kinh doanh thực phẩm v&agrave; người d&acirc;n được n&acirc;ng l&ecirc;n.</p></p></div>
+    
+</div>
+
+<div style="clear:both;"></div>
+<div class="sep-content"></div>
+</div>
+
+</li>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/chinh-tri/cung-suy-ngam/chuyen-nghi-p-hoa-cac-ban-qu-n-l-d-an-1.324388" class="arial" style="font-size: 12px;">Chuyên nghiệp hóa các ban quản lý dự án</a> <span style="color:#000000;font:12px arial;">(06/12)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/chinh-tri/cung-suy-ngam/qu-n-l-ch-t-l-ng-thu-c-y-h-c-c-truy-n-1.324245" class="arial" style="font-size: 12px;">Quản lý chất lượng thuốc y học cổ truyền</a> <span style="color:#000000;font:12px arial;">(05/12)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/chinh-tri/cung-suy-ngam/b-o-m-cho-nhan-dan-on-xuan-vui-t-t-binh-yen-1.324109" class="arial" style="font-size: 12px;">Bảo đảm cho nhân dân đón xuân, vui Tết bình yên</a> <span style="color:#000000;font:12px arial;">(04/12)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    				
+                <br/>
+                <div align="center">
+                              
+            
+	    					
+              </ul>
+              
+            </div>
+           
+  
+          
+        
+
+
+
+  		  
+<script type="text/javascript">
+jQuery.ajaxSetup ({
+    // Disable caching of AJAX responses
+    cache: false
+});
+
+var loadlist=1;
+            function loadContent7_202531(elementSelector, sourceUrl,count) {
+            $(""+elementSelector+"").removeClass();
+            loadlist=count;
+            var teaserlist = $(""+elementSelector+"");
+            teaserlist.animate({'opacity':'0.25'},10);
+            var position = teaserlist.offset();
+            var loader = jQuery('<div id="loader" class="loader"></div>');
+            loader.appendTo(document.body);
+            var el = $('#loader');
+            var left = position.left + (teaserlist.width() - el.width()) / 2 + "px";
+            var top = position.top + 100 + "px";
+            el.css({ position: "absolute",marginLeft: 0, marginTop: 0,top: top, left: left});
+            teaserlist.load(sourceUrl, function() {
+            $(this).css('opacity','');
+            loader.remove();
+            
+            });
+            }
+
+</script>
+
+
+        
+        
+
+  
+    
+  
+    
+
+       
+                        
+            <div id="s-ki-n7_202531" class="element list custom-list ">
+        
+                            							<a href="/cmlink/nhandandientu/thoisu/chinh-tri/su-kien">
+    							  <h5 class="deptheader" style="display:inline;">SỰ KIỆN</h5>
+    			  &nbsp;<img src="/polopoly_fs/3.123!/DoubleArrow.gif" style="display:inline;"/>
+                				</a>
+							            
+              <ul class="linklist">
+                                                                                                                                                                                    
+            	            	
+                                                    	 	
+                                                                                                                       <li>
+
+
+
+
+
+
+<div class="element teaser">
+	
+  
+            
+  <div class="parentfolder-content">
+      <div class="titleHint" style="font-style:italic;"><strong></strong></div>
+    
+  <div class="parentfolder-title">
+	<a href="/cmlink/nhandandientu/thoisu/chinh-tri/su-kien/ho-t-ng-c-a-t-ng-bi-th-nguy-n-phu-tr-ng-t-i-v-ng-qu-c-cam-pu-chia-1.324508">
+					Hoạt động của Tổng Bí thư Nguyễn Phú Trọng tại Vương quốc Cam-pu-chia
+			</a>
+  </div>
+  
+ <div style="float: left;">
+              <img title='Photo: , License: N/A' height='96' alt='23062.jpg' width='140' class='teaser-image' src='/polopoly_fs/1.324507.1323282628!/image/3043563926.jpg_gen/derivatives/box_w140/3043563926.jpg' />
+      </div>
+  
+
+    	  		<div class="custom-list_newmode"><span class="time">01:29 | </span><span class="date">08/12/2011</span></div>
+  	    
+        <div><p style="font-family:arial;font-size:12px;">TTXVN- Tiếp tục chuyến thăm hữu nghị cấp Nhà nước Vương quốc Cam-pu-chia, sáng 7-12, Tổng Bí thư Nguyễn Phú Trọng và Ðoàn đại biểu cấp cao Việt Nam đã tới dâng hoa tại Ðài Ðộc lập. Cùng tham dự có Phó Thủ tướng, Bộ trưởng Quốc phòng Cam-pu-chia Tia Banh. Tiếp đó, Tổng Bí thư và các thành viên trong Ðoàn đã đến dâng hoa tại Tượng đài Hữu nghị Việt Nam - Cam-pu-chia. Cũng trong buổi sáng, Tổng Bí thư Nguyễn Phú Trọng và Ðoàn đã đến thăm Vua sư Tép-vông tại chùa U-na-lom; thăm Vua sư Bu-kri tại chùa Bo-tum.</p></div>
+    
+</div>
+
+<div style="clear:both;"></div>
+<div class="sep-content"></div>
+</div>
+
+</li>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/chinh-tri/su-kien/nam-nh-trao-nha-tinh-ngh-a-cho-gia-inh-li-t-s-1.324478" class="arial" style="font-size: 12px;">Nam Định: Trao nhà tình nghĩa cho gia đình liệt sĩ</a> <span style="color:#000000;font:12px arial;">(07/12)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/chinh-tri/su-kien/c-n-tinh-toan-l-ng-hoa-m-c-tieu-1.324475" class="arial" style="font-size: 12px;">Cần tính toán để lượng hóa mục tiêu</a> <span style="color:#000000;font:12px arial;">(07/12)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/chinh-tri/su-kien/ch-t-ch-qh-nguy-n-sinh-hung-th-m-chinh-th-c-v-ng-qu-c-b-ngh-vi-n-chau-au-va-v-ng-qu-c-anh-1.324004" class="arial" style="font-size: 12px;">Chủ tịch QH Nguyễn Sinh Hùng thăm chính thức Vương quốc Bỉ, Nghị viện châu Âu và Vương quốc Anh</a> <span style="color:#000000;font:12px arial;">(03/12)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    				
+                <br/>
+                <div align="center">
+                              
+            
+	    					
+              </ul>
+              
+            </div>
+           
+  
+          
+        
+
+
+
+  		  
+<script type="text/javascript">
+jQuery.ajaxSetup ({
+    // Disable caching of AJAX responses
+    cache: false
+});
+
+var loadlist=1;
+            function loadContent7_202525(elementSelector, sourceUrl,count) {
+            $(""+elementSelector+"").removeClass();
+            loadlist=count;
+            var teaserlist = $(""+elementSelector+"");
+            teaserlist.animate({'opacity':'0.25'},10);
+            var position = teaserlist.offset();
+            var loader = jQuery('<div id="loader" class="loader"></div>');
+            loader.appendTo(document.body);
+            var el = $('#loader');
+            var left = position.left + (teaserlist.width() - el.width()) / 2 + "px";
+            var top = position.top + 100 + "px";
+            el.css({ position: "absolute",marginLeft: 0, marginTop: 0,top: top, left: left});
+            teaserlist.load(sourceUrl, function() {
+            $(this).css('opacity','');
+            loader.remove();
+            
+            });
+            }
+
+</script>
+
+
+        
+        
+
+  
+    
+  
+    
+
+       
+                        
+            <div id="cu-c-thi7_202525" class="element list custom-list ">
+        
+                            							<a href="/cmlink/nhandandientu/thoisu/chinh-tri/cuoc-thi">
+    							  <h5 class="deptheader" style="display:inline;">CUỘC THI</h5>
+    			  &nbsp;<img src="/polopoly_fs/3.123!/DoubleArrow.gif" style="display:inline;"/>
+                				</a>
+							            
+              <ul class="linklist">
+                                                                                                                                                                                    
+            	            	
+                                                    	 	
+                                                                                                                       <li>
+
+
+
+
+
+
+<div class="element teaser">
+	
+  
+            
+  <div class="parentfolder-content">
+      <div class="titleHint" style="font-style:italic;"><strong></strong></div>
+    
+  <div class="parentfolder-title">
+	<a href="/cmlink/nhandandientu/thoisu/chinh-tri/cuoc-thi/vinh-quang-lang-vi-t-n-orsay-1.322298">
+					Vinh quang làng Việt đến Orsay
+			</a>
+  </div>
+  
+ <div style="float: left;">
+              <img title='Photo: , License: N/A' height='93' alt='22161.jpg' width='140' class='teaser-image' src='/polopoly_fs/1.322294.1321958397!/image/2551474284.jpg_gen/derivatives/box_w140/2551474284.jpg' />
+      </div>
+  
+
+    	  		<div class="custom-list_newmode"><span class="time">17:38 | </span><span class="date">22/11/2011</span></div>
+  	    
+        <div><p style="font-family:arial;font-size:12px;">NDĐT – Đường phố ở Orsay, một thị trấn cách Paris (Pháp) khoảng 25 km về phía nam, vào ngày chủ nhật này, 20-11, dường như vắng vẻ hơn những ngày cuối tuần khác bởi người dân ở đây dồn về nhà hát Jacques Tati để vui cùng ngày hội văn hóa Việt Nam.</p></div>
+    
+</div>
+
+<div style="clear:both;"></div>
+<div class="sep-content"></div>
+</div>
+
+</li>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/chinh-tri/cuoc-thi/i-l-k-ni-m-30-n-m-thanh-l-p-giao-h-i-ph-t-giao-vi-t-nam-1.316046" class="arial" style="font-size: 12px;">Đại lễ kỷ niệm 30 năm thành lập Giáo hội Phật giáo Việt Nam</a> <span style="color:#000000;font:12px arial;">(12/10)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/chinh-tri/cuoc-thi/th-l-gi-i-bao-chi-vi-s-nghi-p-i-oan-k-t-toan-dan-t-c-l-n-th-chin-n-m-2011-1.305762" class="arial" style="font-size: 12px;">Thể lệ Giải báo chí "Vì sự nghiệp Ðại đoàn kết toàn dân tộc" lần thứ chín - năm 2011</a> <span style="color:#000000;font:12px arial;">(30/07)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/chinh-tri/cuoc-thi/bao-nhan-dan-m-cu-c-thi-vi-t-v-tai-h-c-t-p-va-lam-theo-t-m-g-ng-o-c-h-chi-minh-1.293710" class="arial" style="font-size: 12px;">Báo Nhân Dân mở cuộc thi viết về đề tài "Học tập và làm theo tấm gương đạo đức Hồ Chí Minh"</a> <span style="color:#000000;font:12px arial;">(25/04)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              				
+                <br/>
+                <div align="center">
+                              
+            
+	    					
+              </ul>
+              
+            </div>
+           
+  
+          
+        
+
+
+
+  		  
+<script type="text/javascript">
+jQuery.ajaxSetup ({
+    // Disable caching of AJAX responses
+    cache: false
+});
+
+var loadlist=1;
+            function loadContent7_202528(elementSelector, sourceUrl,count) {
+            $(""+elementSelector+"").removeClass();
+            loadlist=count;
+            var teaserlist = $(""+elementSelector+"");
+            teaserlist.animate({'opacity':'0.25'},10);
+            var position = teaserlist.offset();
+            var loader = jQuery('<div id="loader" class="loader"></div>');
+            loader.appendTo(document.body);
+            var el = $('#loader');
+            var left = position.left + (teaserlist.width() - el.width()) / 2 + "px";
+            var top = position.top + 100 + "px";
+            el.css({ position: "absolute",marginLeft: 0, marginTop: 0,top: top, left: left});
+            teaserlist.load(sourceUrl, function() {
+            $(this).css('opacity','');
+            loader.remove();
+            
+            });
+            }
+
+</script>
+
+
+        
+        
+
+  
+    
+  
+    
+
+       
+                        
+            <div id="con-chau-l-c-h-ng7_202528" class="element list custom-list ">
+        
+                            							<a href="/cmlink/nhandandientu/thoisu/chinh-tri/con-chau-lac-hong">
+    							  <h5 class="deptheader" style="display:inline;">CON CHÁU LẠC HỒNG</h5>
+    			  &nbsp;<img src="/polopoly_fs/3.123!/DoubleArrow.gif" style="display:inline;"/>
+                				</a>
+							            
+              <ul class="linklist">
+                                                                                                                                                                                    
+            	            	
+                                                    	 	
+                                                                                                                       <li>
+
+
+
+
+
+
+<div class="element teaser">
+	
+  
+            
+  <div class="parentfolder-content">
+      <div class="titleHint" style="font-style:italic;"><strong></strong></div>
+    
+  <div class="parentfolder-title">
+	<a href="/cmlink/nhandandientu/thoisu/chinh-tri/con-chau-lac-hong/giao-l-u-thanh-nien-sinh-vien-ki-u-bao-t-i-qu-ng-ng-i-1.304326">
+					Giao lưu thanh niên, sinh viên kiều bào tại Quãng Ngãi
+			</a>
+  </div>
+  
+ <div style="float: left;">
+    </div>
+  
+
+    	  		<div class="custom-list_newmode"><span class="time">15:39 | </span><span class="date">18/07/2011</span></div>
+  	    
+        <div><p style="font-family:arial;font-size:12px;">NDĐT - Chiều 17-7, 150 thanh niên, sinh viên kiều bào đến từ 30 quốc gia và vùng lãnh thổ trên thế giới đã đến với tỉnh Quảng Ngãi. Đây là hoạt động nằm trong Chương trình “Trại hè Việt Nam 2011” do Uỷ ban Nhà nước về người Việt Nam ở nước ngoài và tỉnh Quảng Ngãi phối hợp tổ chức.</p></div>
+    
+</div>
+
+<div style="clear:both;"></div>
+<div class="sep-content"></div>
+</div>
+
+</li>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/chinh-tri/con-chau-lac-hong/cu-c-s-ng-c-a-ki-u-bao-vung-ong-b-c-thai-lan-1.298052" class="arial" style="font-size: 12px;">Cuộc sống của kiều bào vùng đông - bắc Thái-lan</a> <span style="color:#000000;font:12px arial;">(30/05)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/chinh-tri/con-chau-lac-hong/vinh-danh-gi-i-th-ng-sao-thang-gieng-cho-sinh-vien-vi-t-nam-t-i-phap-1.295169" class="arial" style="font-size: 12px;">Vinh danh giải thưởng Sao Tháng Giêng cho sinh viên Việt Nam tại Pháp</a> <span style="color:#000000;font:12px arial;">(06/05)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/chinh-tri/con-chau-lac-hong/l-a-m-trong-ngoi-nha-i-oan-k-t-toan-dan-t-c-1.283822" class="arial" style="font-size: 12px;">Lửa ấm trong “Ngôi nhà Đại đoàn kết toàn dân tộc”</a> <span style="color:#000000;font:12px arial;">(29/01)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    				
+                <br/>
+                <div align="center">
+                              
+            
+	    					
+              </ul>
+              
+            </div>
+           
+  
+          
+        
+
+
+
+  		  
+<script type="text/javascript">
+jQuery.ajaxSetup ({
+    // Disable caching of AJAX responses
+    cache: false
+});
+
+var loadlist=1;
+            function loadContent7_202530(elementSelector, sourceUrl,count) {
+            $(""+elementSelector+"").removeClass();
+            loadlist=count;
+            var teaserlist = $(""+elementSelector+"");
+            teaserlist.animate({'opacity':'0.25'},10);
+            var position = teaserlist.offset();
+            var loader = jQuery('<div id="loader" class="loader"></div>');
+            loader.appendTo(document.body);
+            var el = $('#loader');
+            var left = position.left + (teaserlist.width() - el.width()) / 2 + "px";
+            var top = position.top + 100 + "px";
+            el.css({ position: "absolute",marginLeft: 0, marginTop: 0,top: top, left: left});
+            teaserlist.load(sourceUrl, function() {
+            $(this).css('opacity','');
+            loader.remove();
+            
+            });
+            }
+
+</script>
+
+
+        
+        
+
+  
+    
+  
+    
+
+       
+                        
+            <div id="ng-i-t-t-vi-c-t-t7_202530" class="element list custom-list ">
+        
+                            							<a href="/cmlink/nhandandientu/thoisu/chinh-tri/nguoi-tot-viec-tot">
+    							  <h5 class="deptheader" style="display:inline;">NGƯỜI TỐT VIỆC TỐT</h5>
+    			  &nbsp;<img src="/polopoly_fs/3.123!/DoubleArrow.gif" style="display:inline;"/>
+                				</a>
+							            
+              <ul class="linklist">
+                                                                                                                                                                                    
+            	            	
+                                                    	 	
+                                                                                                                       <li>
+
+
+
+
+
+
+<div class="element teaser">
+	
+  
+            
+  <div class="parentfolder-content">
+      <div class="titleHint" style="font-style:italic;"><strong></strong></div>
+    
+  <div class="parentfolder-title">
+	<a href="/cmlink/nhandandientu/thoisu/chinh-tri/nguoi-tot-viec-tot/a-n-ng-bi-u-d-ng-13-t-p-th-ca-nhan-khuy-t-t-t-1.323979">
+					Đà Nẵng biểu dương 13 tập thể, cá nhân khuyết tật
+			</a>
+  </div>
+  
+ <div style="float: left;">
+              <img title='Photo: , License: N/A' height='110' alt='22882.jpg' width='140' class='teaser-image' src='/polopoly_fs/1.323978.1322901440!/image/1881552415.jpg_gen/derivatives/box_w140/1881552415.jpg' />
+      </div>
+  
+
+    	  		<div class="custom-list_newmode"><span class="time">15:36 | </span><span class="date">03/12/2011</span></div>
+  	    
+        <div><p style="font-family:arial;font-size:12px;">NDĐT - Ngày 3-12, Hội Người khuyết tật (NKT) TP Đà Nẵng đã tuyên dương 13 gương điển hình của tập thể, cá nhân NKT và tri ân tấm lòng vàng trong công tác trợ giúp NKT.</p></div>
+    
+</div>
+
+<div style="clear:both;"></div>
+<div class="sep-content"></div>
+</div>
+
+</li>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/chinh-tri/nguoi-tot-viec-tot/c-nh-sat-nam-nh-tr-30-tri-u-ng-th-t-l-c-cho-dan-1.323326" class="arial" style="font-size: 12px;">Cảnh sát Nam Định trả 30 triệu đồng thất lạc cho dân</a> <span style="color:#000000;font:12px arial;">(29/11)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/chinh-tri/nguoi-tot-viec-tot/ng-i-nong-dan-co-ngh-a-c-cao-p-1.323001" class="arial" style="font-size: 12px;">Người nông dân có nghĩa cử cao đẹp</a> <span style="color:#000000;font:12px arial;">(27/11)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                    	 	
+                                                                                                                                                                             <li><a href="/cmlink/nhandandientu/thoisu/chinh-tri/nguoi-tot-viec-tot/c-dan-tin-yeu-1.321619" class="arial" style="font-size: 12px;">Ðược dân tin yêu</a> <span style="color:#000000;font:12px arial;">(18/11)</span></li>
+    					   <div class="sep-content-list"></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    				
+                <br/>
+                <div align="center">
+                              
+            
+	    					
+              </ul>
+              
+            </div>
+           
+  
+      
+  
+                                                              
+                                                                                                                              </div>
+    					</td>
+					       				</tr>
+    			</table>
+    </div>
+    
+	
+	
+	<!-- Footer Banner -->
+	
+		<div class="footer-banner">	
+					
+                  
+    
+    
+  
+      			</div>	
+	<!-- Footer -->
+	<div class="footer-style" id="footer">
+					
+                  
+    
+        
+        <div class="sitemap">
+<link rel="stylesheet" type="text/css" href="/polopoly_fs/3.151!/SiteMap_Footer.min.css"/>
+
+
+
+
+
+
+
+<div class="mastheadover_over">
+        
+    
+    
+    
+    
+    
+    
+	
+   
+   
+		
+		
+		
+				
+			
+				
+				
+
+
+
+    
+			<div class="mastheadover">
+               <div class="ChannelSample">
+				
+				
+ 
+					    				    				    										 
+		
+    				    					<a href="/cmlink/nhandandientu/thoisu/chinh-tri" style="float: left;" class="txt_16_bold">CH&Iacute;NH TR&#7882;</a>
+										<div  style="clear:both" ></div>
+    				    				    					
+	   		
+							
+						
+					
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/chinh-tri/cuoc-thi" style="float: left;" class="color5">				
+				
+									Cu&#7897;c thi
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/chinh-tri/cung-suy-ngam" style="float: left;" class="color5">				
+				
+									C&ugrave;ng suy ng&#7851;m
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+					
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/chinh-tri/y-kien" style="float: left;" class="color5">				
+				
+									&Yacute; ki&#7871;n
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/chinh-tri/con-chau-lac-hong" style="float: left;" class="color5">				
+				
+									Con ch&aacute;u L&#7841;c H&#7891;ng
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/chinh-tri/nguoi-tot-viec-tot" style="float: left;" class="color5">				
+				
+									Ng&#432;&#7901;i t&#7889;t vi&#7879;c t&#7889;t
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/chinh-tri/su-kien" style="float: left;" class="color5">				
+				
+									S&#7921; ki&#7879;n
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/chinh-tri/y-kien-chung-toi" style="float: left;" class="color5">				
+				
+									&Yacute; ki&#7871;n ch&uacute;ng t&ocirc;i
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+					      							   </div>
+			</div>
+		
+				
+			
+				
+				
+
+
+
+        <div class="Sep">   
+    </div>
+    
+			<div class="mastheadover">
+               <div class="ChannelSample">
+				
+				
+ 
+					    				    				    										 
+		
+    				    					<a href="/cmlink/nhandandientu/thoisu/kinh-te" style="float: left;" class="txt_16_bold">KINH T&#7870;</a>
+										<div  style="clear:both" ></div>
+    				    				    					
+	   		
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/kinh-te/ng-i-vi-t-dung-hang-vi-t" style="float: left;" class="color5">				
+				
+									Ng&#432;&#7901;i Vi&#7879;t d&ugrave;ng h&agrave;ng Vi&#7879;t
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+					
+							
+						
+					
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/kinh-te/th-ng-hi-u" style="float: left;" class="color5">				
+				
+									Th&#432;&#417;ng hi&#7879;u
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/kinh-te/th-gi-i" style="float: left;" class="color5">				
+				
+									Th&#7871; gi&#7899;i
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/kinh-te/th-tr-ng" style="float: left;" class="color5">				
+				
+									Th&#7883; tr&#432;&#7901;ng
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/kinh-te/ch-ng-khoan" style="float: left;" class="color5">				
+				
+									Ch&#7913;ng kho&aacute;n
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/kinh-te/chuy-n-lam-n" style="float: left;" class="color5">				
+				
+									Chuy&#7879;n l&agrave;m &#259;n
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/kinh-te/nh-n-nh" style="float: left;" class="color5">				
+				
+									Nh&#7853;n &#273;&#7883;nh
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/kinh-te/tinmoithau" style="float: left;" class="color5">				
+				
+									Th&ocirc;ng b&aacute;o - M&#7901;i th&#7847;u
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									      							   </div>
+			</div>
+		
+				
+			
+				
+				
+
+
+
+        <div class="Sep">   
+    </div>
+    
+			<div class="mastheadover">
+               <div class="ChannelSample">
+				
+				
+ 
+					    				    				    										 
+		
+    				    					<a href="/cmlink/nhandandientu/thoisu/doi-song" style="float: left;" class="txt_16_bold">&#272;&#7900;I S&#7888;NG</a>
+										<div  style="clear:both" ></div>
+    				    				    					
+	   		
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/doi-song/dinh-d-ng" style="float: left;" class="color5">				
+				
+									Dinh d&#432;&#7905;ng
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+					
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/doi-song/du-l-ch" style="float: left;" class="color5">				
+				
+									Du l&#7883;ch
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/doi-song/giao-thong" style="float: left;" class="color5">				
+				
+									Giao th&ocirc;ng
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+					
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/doi-song/mon-n" style="float: left;" class="color5">				
+				
+									M&oacute;n &#259;n
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/doi-song/l-i-s-ng" style="float: left;" class="color5">				
+				
+									L&#7889;i s&#7889;ng
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/doi-song/phong-s-k-s" style="float: left;" class="color5">				
+				
+									Ph&oacute;ng s&#7921; - K&yacute; s&#7921;
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									      							   </div>
+			</div>
+		
+				
+			
+				
+				
+
+
+
+        <div class="Sep">   
+    </div>
+    
+			<div class="mastheadover">
+               <div class="ChannelSample">
+				
+				
+ 
+					    				    				    										 
+		
+    				    					<a href="/cmlink/nhandandientu/thoisu/suc-khoe" style="float: left;" class="txt_16_bold">S&#7912;C KH&#7886;E</a>
+										<div  style="clear:both" ></div>
+    				    				    					
+	       							   </div>
+			</div>
+		
+				
+			
+				
+				
+
+
+
+        <div class="Sep">   
+    </div>
+    
+			<div class="mastheadover">
+               <div class="ChannelSample">
+				
+				
+ 
+					    				    				    										 
+		
+    				    					<a href="/cmlink/nhandandientu/thoisu/phap-luat" style="float: left;" class="txt_16_bold">PH&Aacute;P LU&#7852;T</a>
+										<div  style="clear:both" ></div>
+    				    				    					
+	   		
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/phap-luat/chuyen-phap-lu-t" style="float: left;" class="color5">				
+				
+									Chuy&ecirc;n &#273;&#7873; ph&aacute;p lu&#7853;t
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/phap-luat/t-li-u" style="float: left;" class="color5">				
+				
+									T&#432; li&#7879;u
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/phap-luat/gi-i-ap" style="float: left;" class="color5">				
+				
+									Gi&#7843;i &#273;&aacute;p
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/phap-luat/th-i-s" style="float: left;" class="color5">				
+				
+									Th&#7901;i s&#7921;
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/phap-luat/vanbanmoi" style="float: left;" class="color5">				
+				
+									V&#259;n b&#7843;n m&#7899;i
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									      							   </div>
+			</div>
+		
+				
+			
+				
+				
+
+
+
+        <div class="Sep">   
+    </div>
+    
+			<div class="mastheadover">
+               <div class="ChannelSample">
+				
+				
+ 
+					    				    				    										 
+		
+    				    					<a href="/cmlink/nhandandientu/thoisu/khoa-hoc" style="float: left;" class="txt_16_bold">KHOA H&#7884;C</a>
+										<div  style="clear:both" ></div>
+    				    				    					
+	   		
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/khoa-hoc/chuyen-khoa-giao" style="float: left;" class="color5">				
+				
+									Chuy&ecirc;n &#273;&#7873; khoa gi&aacute;o
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+					
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/khoa-hoc/k-thu-t" style="float: left;" class="color5">				
+				
+									K&#7929; thu&#7853;t
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/khoa-hoc/khoa-h-c" style="float: left;" class="color5">				
+				
+									Khoa h&#7885;c
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/khoa-hoc/di-n-an" style="float: left;" class="color5">				
+				
+									Di&#7877;n &#273;&agrave;n
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									      							   </div>
+			</div>
+		
+				
+			
+				
+				
+
+
+
+        <div class="Sep">   
+    </div>
+    
+			<div class="mastheadover">
+               <div class="ChannelSample">
+				
+				
+ 
+					    				    				    										 
+		
+    				    					<a href="/cmlink/nhandandientu/thoisu/giao-duc" style="float: left;" class="txt_16_bold">GI&Aacute;O D&#7908;C</a>
+										<div  style="clear:both" ></div>
+    				    				    					
+	   		
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/giao-duc/1.265896" style="float: left;" class="color5">				
+				
+									Du h&#7885;c
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									      							   </div>
+			</div>
+		
+				
+			
+				
+				
+
+
+
+        <div class="Sep">   
+    </div>
+    
+			<div class="mastheadover">
+               <div class="ChannelSample">
+				
+				
+ 
+					    				    				    										 
+		
+    				    					<a href="/cmlink/nhandandientu/thoisu/tin-hoc" style="float: left;" class="txt_16_bold">TIN H&#7884;C</a>
+										<div  style="clear:both" ></div>
+    				    				    					
+	       							   </div>
+			</div>
+		
+				
+			
+				
+				
+
+
+
+        <div class="Sep">   
+    </div>
+    
+			<div class="mastheadover">
+               <div class="ChannelSample">
+				
+				
+ 
+					    				    				    										 
+		
+    				    					<a href="/cmlink/nhandandientu/thoisu/van-hoa" style="float: left;" class="txt_16_bold">V&#258;N H&Oacute;A</a>
+										<div  style="clear:both" ></div>
+    				    				    					
+	   		
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/van-hoa/goc-dien-anh" style="float: left;" class="color5">				
+				
+									G&oacute;c &#272;i&#7879;n &#7843;nh
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+					
+							
+						
+					
+							
+						
+					
+							
+						
+					
+							
+						
+					
+							
+						
+					
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/van-hoa/tho" style="float: left;" class="color5">				
+				
+									Th&#417;
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/van-hoa/truyen" style="float: left;" class="color5">				
+				
+									Truy&#7879;n
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/van-hoa/di-san" style="float: left;" class="color5">				
+				
+									Di s&#7843;n
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+					
+							
+						
+					
+							
+						
+					
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/van-hoa/chan-dung" style="float: left;" class="color5">				
+				
+									Ch&acirc;n dung
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+					      							   </div>
+			</div>
+		
+				
+			
+				
+				
+
+
+
+        <div class="Sep">   
+    </div>
+    
+			<div class="mastheadover">
+               <div class="ChannelSample">
+				
+				
+ 
+					    				    				    										 
+		
+    				    					<a href="/cmlink/nhandandientu/thoisu/the-thao" style="float: left;" class="txt_16_bold">TH&#7874; THAO</a>
+										<div  style="clear:both" ></div>
+    				    				    					
+	   		
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/the-thao/seagames26" style="float: left;" class="color5">				
+				
+									SEA Games 26
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+					
+							
+						
+					
+							
+						
+					
+							
+						
+					
+							
+						
+					
+							
+						
+					
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/the-thao/su-kien" style="float: left;" class="color5">				
+				
+									S&#7921; ki&#7879;n
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+					
+							
+						
+					
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/the-thao/tin-chung" style="float: left;" class="color5">				
+				
+									Th&#7875; thao - Tin chung
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/the-thao/guong-mat" style="float: left;" class="color5">				
+				
+									G&#432;&#417;ng m&#7863;t
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/the-thao/binh-luan" style="float: left;" class="color5">				
+				
+									B&igrave;nh lu&#7853;n
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									      							   </div>
+			</div>
+		
+				
+			
+				
+				
+
+
+
+        <div class="Sep">   
+    </div>
+    
+			<div class="mastheadover">
+               <div class="ChannelSample">
+				
+				
+ 
+					    				    				    										 
+		
+    				    					<a href="/cmlink/nhandandientu/thoisu/quocte" style="float: left;" class="txt_16_bold">QU&#7888;C T&#7870;</a>
+										<div  style="clear:both" ></div>
+    				    				    					
+	   		
+							
+						
+					
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/quocte/chuyenthoisu" style="float: left;" class="color5">				
+				
+									Chuy&#7879;n th&#7901;i s&#7921;
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/quocte/tulieuquocte" style="float: left;" class="color5">				
+				
+									T&#432; li&#7879;u qu&#7889;c t&#7871;
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/quocte/phantichnhandinh" style="float: left;" class="color5">				
+				
+									Ph&acirc;n t&iacute;ch - nh&#7853;n &#273;&#7883;nh
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/quocte/tinthegioi" style="float: left;" class="color5">				
+				
+									Tin th&#7871; gi&#7899;i
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									      							   </div>
+			</div>
+		
+				
+			
+				
+				
+
+
+
+        <div class="Sep">   
+    </div>
+    
+			<div class="mastheadover">
+               <div class="ChannelSample">
+				
+				
+ 
+					    				    				    										 
+		
+    				    					<a href="/cmlink/nhandandientu/thoisu/tranghanoi" style="float: left;" class="txt_16_bold">TRANG H&Agrave; N&#7896;I</a>
+										<div  style="clear:both" ></div>
+    				    				    					
+	   		
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/tranghanoi/tinmoinhan" style="float: left;" class="color5">				
+				
+									Tin m&#7899;i nh&#7853;n
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+					
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/tranghanoi/vanbanchinhsachmoi" style="float: left;" class="color5">				
+				
+									V&#259;n b&#7843;n - Ch&iacute;nh s&aacute;ch m&#7899;i
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/tranghanoi/sachhayvehanoi" style="float: left;" class="color5">				
+				
+									S&aacute;ch hay v&#7873; H&agrave; N&#7897;i
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/tranghanoi/tunharapho" style="float: left;" class="color5">				
+				
+									T&#7915; nh&agrave; ra ph&#7889;
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/tranghanoi/nhonhenhacnhau" style="float: left;" class="color5">				
+				
+									Nh&#7887; nh&#7865; nh&#7855;c nhau
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/tranghanoi/dethudotadanghoanghon" style="float: left;" class="color5">				
+				
+									&#272;&#7875; Th&#7911; &#273;&ocirc; ta &#273;&agrave;ng ho&agrave;ng h&#417;n
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									      							   </div>
+			</div>
+		
+				
+			
+				
+				
+
+
+
+        <div class="Sep">   
+    </div>
+    
+			<div class="mastheadover">
+               <div class="ChannelSample">
+				
+				
+ 
+					    				    				    										 
+		
+    				    					<a href="/cmlink/nhandandientu/thoisu/trang-tphcm" style="float: left;" class="txt_16_bold">TRANG TPHCM</a>
+										<div  style="clear:both" ></div>
+    				    				    					
+	   		
+							
+						
+					
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/trang-tphcm/tindocnhanh" style="float: left;" class="color5">				
+				
+									Tin &#273;&#7885;c nhanh
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/trang-tphcm/thongtinkinhte" style="float: left;" class="color5">				
+				
+									Th&ocirc;ng tin kinh t&#7871;
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/trang-tphcm/chuyenxuachuyennay" style="float: left;" class="color5">				
+				
+									Chuy&#7879;n x&#432;a chuy&#7879;n nay
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/trang-tphcm/chuyenphophuontg" style="float: left;" class="color5">				
+				
+									Chuy&#7879;n ph&#7889; ph&#432;&#7901;ng
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/trang-tphcm/ongkinhcuocsong" style="float: left;" class="color5">				
+				
+									&#7888;ng k&iacute;nh cu&#7897;c s&#7889;ng
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									
+							
+						
+						<a href="/cmlink/nhandandientu/thoisu/trang-tphcm/danbietdanban" style="float: left;" class="color5">				
+				
+									D&acirc;n bi&#7871;t d&acirc;n b&agrave;n
+							</a>
+			<div  style="clear:both" ></div>
+													
+					
+									      							   </div>
+			</div>
+		
+				
+			
+				
+				
+
+
+
+
+				
+			
+				
+				
+
+
+
+
+				
+			
+				
+				
+
+
+
+
+				
+			
+				
+				
+
+
+
+
+				
+			
+				
+				
+
+
+
+
+				
+			
+				
+				
+
+
+
+
+				
+			
+				
+				
+
+
+
+
+  </div>
+
+</div>
+          
+        
+        
+            <div class="gachchan"></div>
+
+
+
+
+        
+      
+          
+        
+        
+            <div style="color:#000000;display:block;font-family:Arial;font-size:12px;font-weight:normal;text-align:left;border:solid 0px;"><p>Tổng biên tập <strong>THUẬN HỮU</strong>. © Báo <font color="#A31C20" style="font-weight:bold;">Nhân Dân </font> thiết kế và giữ bản quyền. Mong bạn đọc góp ý kiến, phê bình.</p><p>Trụ sở Bộ biên tập: 71 Hàng Trống - Hà Nội.&nbsp;Tel: (84 4) 38254231/38254232 Fax:(84 4) 38255593/38289432.E-mail: <a href="mailto:toasoan@nhandan.org.vn" style="text-decoration:none;">toasoan@nhandan.org.vn</a></p></div><div style="background:#A31C20top
+ left 
+repeat-x;width:100%;float:left;height:3px;margin-bottom:5px;overflow:hidden;border:solid
+ 0px;margin-top:5px;" ></div>
+
+        
+      
+      
+  
+      			</div>
+	
+	
+	</div>
+	</div>
+	
+	<!-- js -->
+
+    
+
+</center>	
+
+    	    <div>
+      	        	<img src='/logger/p.gif?a=1.324499&amp;d=/2.617/2.618/2.619/2.635' alt='' />      	    </div>
+	   <script type="text/javascript" src="/js/site-min.min.js"></script>
+
+<!--  PopCalendar(tag name and id must match) Tags should not be enclosed in tags other than the html body tag. -->
+<iframe width=132 height=142 name="gToday:contrast:agenda.min.js" id="gToday:contrast:agenda.min.js" src="/DateRange/ipopeng.htm" scrolling="no" frameborder="0" style="visibility:visible; z-index:999; position:absolute; top:-500px; left:-500px;">
+</iframe>
+ </body>
+</html>

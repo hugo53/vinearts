@@ -1,0 +1,577 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />		
+		
+		<meta name="robots" content="INDEX,FOLLOW" />
+			
+		<meta name="description" content="Những lúc anh nhớ con, tôi cầm điện thoại bảo anh hãy gọi cho con, hoặc bảo anh dậy mặc quần áo chạy sang thăm con. Dù một chỉ nhìn con, ôm con vào lòng, được thơm vào má con một cái cũng đủ làm lòng anh ấm lại. (Hiền)>Có nên nuôi con riêng của chồng?" />
+			
+		<title>Tôi luôn cùng chồng lo cho con riêng của anh - VnExpress</title>
+			
+		<meta name="keywords" content="tình yêu,con riêng,động viên" />	
+		<meta http-equiv="REFRESH" content="1800" />
+
+		<link rel="stylesheet" href="/Resource/Common/default.css" type="text/css" />	
+		<link href="http://180.148.142.152/Library/AdsNov.css" rel="Stylesheet" style="text/css"> 		
+		
+		<link rel="alternate" type="application/rss+xml" title="VnExpress - RSS" href="/RSS/GL/trang-chu.rss" />
+			
+		
+		<script type="text/javascript" language="javascript" src="/Library/Common/Library.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/Vne.js"></script>		
+        <script type="text/javascript" language="javascript" src="/Library/Common/FlashMedia.js"></script>						
+        <script type="text/javascript" language="javascript" src="/Library/Common/AjaxRequest.js"></script>
+		<script type="text/javascript" language="javascript" src="/Library/Common/vietUni.js"></script>
+		<script type="text/javascript" language="javascript" src="/Resource/00/ArrMenu.js"></script>        				
+		<script type="text/javascript" language="javaScript">
+			var PAGE_SITE=0;
+			var PAGE_FOLDER=127;	
+			var PAGE_ID=1002165091;	
+			var DOMESTIC_IP=1;	
+			setTypingMode(1);
+				
+			sLoDID=sLoDID.concat('1002165091').concat(',');
+			
+		</script>
+		<script type="text/javascript" language="javascript" src="/Resource/Common/Menu.js"></script>
+		
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-249346-1']);
+		_gaq.push(['_trackPageview']);
+		
+		_gaq.push(['b._setAccount', 'UA-249346-21']);
+		_gaq.push(['b._trackPageview']);
+		
+		_gaq.push(['c._setAccount', 'UA-249346-22']);
+		_gaq.push(['c._trackPageview']);
+		
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	
+		<script src="/Library/Common/jquery-1.6.3.min.js"></script>		
+		
+<script type="text/javascript" src="/library/Common/VNEShowAds.js"></script>
+<script src="/library/common/rs.js" type="text/javascript"></script>
+
+	</head>
+	<body>	
+		
+				
+		<input type="hidden" id="CurrentBrowserWidth" value="" />
+		<input type="hidden" id="ShowBackground" value="1" />
+		<div id="divSlideResultLeft" style="background-repeat:no-repeat;background-position:right top;over-flow:hidden;cursor:pointer;text-align:right;padding:0px;position: fixed!important;position: absolute; /*ie6 and above*/;left: 0px; top: 0px;overflow:hidden;"></div>
+		<div id="divSlideResultRight" style="background-repeat:no-repeat;over-flow:hidden;cursor:pointer;text-align:left;padding:0px;position: fixed!important; position: absolute; /*ie6 and above*/;right: 0px; top: 0px;overflow:hidden;"></div>				
+		
+		<div id="outter">		
+		<div id="divMove" style="width:1000px;">
+		<div class="fpr2">
+			<div id="header">
+				<div id="logoEH" class="logo fl" >
+					
+					<a onfocus="this.blur()" hidefocus="" href="/"><img class="img-logo" src="/Images/blank.gif" alt="" /></a>
+					
+				</div>
+				<div id="topbannerEH" class="topbanner fr">
+					
+					<table border="0" cellpadding="0" cellspacing="0" style="width:100%;">
+						<tr>
+							<td style="vertical-align:middle">
+																
+									<script type="text/javascript" language="javascript">
+										Poly_ShowTopBanner();
+									</script>								
+								
+							</td>                           
+						</tr>
+					</table>				
+					
+				</div>
+			</div>			
+		</div>				
+		<div id="menu">
+	<div class="searchmenu">
+		<div class="fl icone"></div>
+		<div class="drss fl"><a href="/GL/RSS/" class="link-rss lnkrss">RSS<span></span></a></div>
+		<div id="mn-search" class="search fr">
+			<form onsubmit="return CheckValue(document.Search.s);" action="http://search.vnexpress.net/news" id="Search" name="Search">
+				<span class="fl borright"></span>
+				<input type="text" value="Từ khóa tìm kiếm" onfocus="SearchOnFocus(this)" onkeydown="" onkeyup="initTyper(this)" onblur="SearchOnBlur(this)" id="s" name="s" class="txtsearch fl">
+				<img onclick="return CheckValue(document.Search.s);" alt="" src="/images/blank.gif" class="img-search fl">
+				<input type="hidden" value="66FD8EC7-FA76-4A7C-8FE3-DB605B4C9CE0" name="g">
+				<input type="hidden" value="yes" name="butS">
+			</form>
+		</div>
+	</div>
+	<!--[if lte IE 6]><a id="lnkIE6" href="#"><table cellpadding=0 cellspacing=0 style="border: 0; margin: 0; padding: 0; width: 1000px; height: 25px;"><tr><td><![endif]-->
+	<div class="menu">
+		<ul>
+			<li><div class="fl mn-borleft"></div></li>
+			
+			<li>
+				<a href="/"><span class="pmenuL"></span><span class="pmenuM">Trang nhất</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<!--<ul style="padding: 0px; height: 16px">
+					<div class="fl icone"></div>
+					<div class="drss fl"><a href="/GL/RSS/" class="link-rss">RSS <span></span></a></div>
+				</ul>-->
+				<ul class="smenu-home">	
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+					<li class="lnknews24h"><a href="/gl/24h-qua/"></a></li>
+					<li class="ico-ct-wrap">
+						<span class="fl ico-ct"></span>
+						<p class="fl phonect"><span>0123.888.0123</span> (HN) - <span>0129.233.3555</span> (TP.HCM)</p>
+					</li>				
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/video/"><span class="pmenuL"></span><span class="pmenuM">Video</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">													
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/xa-hoi/"><span class="pmenuL"></span><span class="pmenuM">Xã hội</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li><a href="/gl/xa-hoi/giao-duc/">Giáo dục</a></li>
+					<li><a href="/gl/xa-hoi/nhip-dieu-tre/">Nhịp điệu trẻ</a></li>
+					<li><a href="/gl/xa-hoi/du-lich/">Du lịch</a></li>
+					<li><a href="/gl/xa-hoi/co-hoi-du-hoc/">Du học</a></li>												
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/the-gioi/"><span class="pmenuL"></span><span class="pmenuM">Thế giới</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->				
+				<ul class="smenu-other">					
+					<li><a href="/gl/the-gioi/cuoc-song-do-day/">Cuộc sống đó đây</a></li>
+					<li><a href="/gl/the-gioi/anh/">Ảnh</a></li>
+					<li><a href="/gl/the-gioi/nguoi-viet-5-chau/">Người Việt 5 châu</a></li>
+					<li><a href="/gl/the-gioi/phan-tich/">Phân tích</a></li>
+					<li><a href="/gl/the-gioi/tu-lieu/">Tư liệu</a></li>								
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/kinh-doanh/"><span class="pmenuL"></span><span class="pmenuM">Kinh doanh</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->					
+				<ul class="smenu-other">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/gl/ebank/">Ebank</a></li>
+					<li><a href="/gl/kinh-doanh/chung-khoan/">Chứng khoán</a></li>
+					<li><a href="/gl/kinh-doanh/bat-dong-san/">Bất động sản</a></li>
+					<li><a target="_blank" href="http://nhadep.vnexpress.net/gl/nha-dep/">Nhà đẹp</a></li>
+					<li><a href="/gl/kinh-doanh/kinh-nghiem/">Doanh nhân</a></li>
+					<li><a href="/gl/kinh-doanh/quoc-te/">Quốc tế</a></li>
+					<li><a href="/gl/doi-song/mua-sam/">Mua sắm</a></li>
+					<li><a href="/gl/kinh-doanh/doanh-nghiep-viet/">Doanh nghiệp viết</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/van-hoa/"><span class="pmenuL"></span><span class="pmenuM">Văn hóa</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">					
+					<li><a href="/gl/van-hoa/hoa-hau/">Hoa hậu</a></li>
+					<li><a href="/gl/van-hoa/guong-mat-nghe-sy/">Nghệ sỹ</a></li>
+					<li><a href="/gl/van-hoa/am-nhac/">Âm nhạc</a></li>
+					<li><a href="/gl/van-hoa/thoi-trang/">Thời trang</a></li>
+					<li><a href="/gl/van-hoa/san-khau-dien-anh/">Điện ảnh</a></li>
+					<li><a href="/gl/van-hoa/my-thuat/">Mỹ thuật</a></li>
+					<li><a target="_blank" href="http://evan.vnexpress.net/">Văn học</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/the-thao/"><span class="pmenuL"></span><span class="pmenuM">Thể thao</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smsport"><a href="/gl/the-thao/bong-da/">Bóng đá</a></li>
+					<li><a href="/gl/the-thao/tennis/">Tennis</a></li>
+					<li><a href="/gl/the-thao/chan-dung/">Chân dung</a></li>
+					<li><a href="/gl/the-thao/anh-video/">Ảnh - Video</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="http://seagames.vnexpress.net/" target="_blank"><span class="pmenuL"></span><span class="pmenuM">SEA Games 26</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">
+					<li class="smseagames26"><a href="http://seagames.vnexpress.net/tin/lich-dau/" target="_blank">Lịch đấu</a></li>
+					<li><a href="http://seagames.vnexpress.net/tin/xep-hang/" target="_blank">Bảng xếp hạng</a></li>					
+					<li><a href="http://seagames.vnexpress.net/tin/bong-da/" target="_blank">Bóng đá</a></li>					
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/phap-luat/"><span class="pmenuL"></span><span class="pmenuM">Pháp luật</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smlaw"><a href="/gl/phap-luat/hinh-su/">Hình sự</a></li>
+					<li><a href="/gl/phap-luat/ky-su/">Ký sự</a></li>
+					<li><a href="/gl/phap-luat/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/doi-song/"><span class="pmenuL"></span><span class="pmenuM">Đời sống</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smlife"><a href="/gl/doi-song/cau-chuyen-cuoc-song/">Câu chuyện cuộc sống</a></li>
+					<li><a href="/gl/doi-song/gia-dinh/">Gia đình</a></li>
+					<li><a href="/gl/suc-khoe/">Sức khỏe</a></li>
+					<li><a href="/gl/doi-song/am-thuc/">Ẩm thực</a></li>
+					<li><a href="/gl/suc-khoe/lam-dep/">Làm đẹp</a></li>
+					<li><a href="/gl/doi-song/blog/">Cửa sổ Blog</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/khoa-hoc/"><span class="pmenuL"></span><span class="pmenuM">Khoa học</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smscience"><a href="/gl/khoa-hoc/moi-truong/">Môi trường</a></li>
+					<li><a href="/gl/khoa-hoc/thien-nhien/">Thiên nhiên</a></li>
+					<li><a href="/gl/khoa-hoc/anh/">Ảnh</a></li>
+					<li><a href="/gl/khoa-hoc/ky-thuat-moi/">Công nghệ mới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/vi-tinh/"><span class="pmenuL"></span><span class="pmenuM">Vi tính</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">										
+					<li class="smmicrocalculate"><a href="/gl/vi-tinh/san-pham-moi/">Sản phẩm mới</a></li>
+					<li><a href="/gl/vi-tinh/kinh-nghiem/">Kinh nghiệm</a></li>
+					<li><a href="/gl/vi-tinh/giai-tri/">Giải trí</a></li>
+					<li><a href="/gl/vi-tinh/hoi-dap/">Hỏi đáp</a></li>
+					<li><a href="/gl/vi-tinh/hacker-virus/">Hacker &amp; Virus</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/oto-xe-may/"><span class="pmenuL"></span><span class="pmenuM">Ôtô - Xe máy</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-other">					
+					<li class="smcar"><a href="/gl/oto-xe-may/tu-van/">Tư vấn</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/ban-doc-viet/"><span class="pmenuL"></span><span class="pmenuM">Bạn đọc</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-bdv">					
+					<li><a href="/gl/ban-doc-viet/khoa-hoc/">Khoa học</a></li>						
+					<li><a href="/gl/ban-doc-viet/doi-song/">Đời sống</a></li>
+					<li><a href="/gl/ban-doc-viet/phap-luat/">Pháp luật</a></li>
+					<li><a href="/gl/ban-doc-viet/xa-hoi/">Xã hội</a></li>
+					<li><a href="/gl/ban-doc-viet/kinh-doanh/">Kinh doanh</a></li>
+					<li><a href="/gl/ban-doc-viet/the-thao/">Thể thao</a></li>
+					<li><a href="/gl/ban-doc-viet/van-hoa/">Văn hoá</a></li>
+					<li><a href="/gl/ban-doc-viet/the-gioi/">Thế giới</a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li class="active"><a href="/gl/ban-doc-viet/tam-su/"><span class="pmenuL"></span><span class="pmenuM">Tâm sự</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+			
+				<ul class="smenu-other"></ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/rao-vat/"><span class="pmenuL"></span><span class="pmenuM">Rao vặt</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-raovat">
+					<li><a target="_blank" href="http://ebank.vnexpress.net/" class="link-site ebank">Ebank<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://vieclam.vnexpress.net/" class="link-site job">Việc làm<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://gamethu.vnexpress.net/" class="link-site game">Game thủ<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://sohoa.vnexpress.net/" class="link-site digital">Số hóa<span></span><i></i></a></li>
+					<li><a target="_blank" href="http://ngoisao.net/" class="link-site star">Ngôi sao<span></span><i></i></a></li>
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li><li class="mnser"></li>
+			
+			<li><a href="/gl/cuoi/"><span class="pmenuL"></span><span class="pmenuM">Cười</span><span class="pmenuR"></span><!--[if gte IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table style="z-index: 100;"><tr><td><![endif]-->
+				<ul class="smenu-bdv">
+					<li><a href="/gl/cuoi/video/">Video</a></li>
+					<li><a href="/gl/cuoi/tieu-pham/">Tiểu phẩm</a></li>						
+				</ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+		</ul>
+	</div><!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</div>
+
+		<div id="content">			
+			
+			<div class="content-center fl">			
+			<div class="folder-header">
+	<script type="text/javascript" language="javascript">writeFolderTitle(PAGE_FOLDER);</script>
+	<div class="fr">Th&#7913; t&#432;, 7/12/2011, 18:00 GMT+7</div>
+</div>
+<div class="email-print txtr">
+	<script>
+	writeSociable('http://vnexpress.net/gl/ban-doc-viet/tam-su/2011/12/toi-luon-cung-chong-lo-cho-con-rieng-cua-anh/','Tôi+luôn+cùng+chồng+lo+cho+con+riêng+của+anh','Tôi+luôn+cùng+chồng+lo+cho+con+riêng+của+anh','sociable',1002165091);
+	</script>
+<font onClick="return EmailSubject(1002165091)"><img border="0" src="/Images/email.gif" align="bottom">&nbsp;E-mail</font>
+&nbsp;&nbsp;&nbsp;<font onClick="return PrintSubject()"><img border="0" src="/Images/print.gif" align="bottom">&nbsp;B&#7843;n In</font>
+</div>
+
+				<div class="content">
+					<div style="overflow:hidden" cpms_content="true">
+				<H1 class=Title>Tôi luôn cùng chồng lo cho con riêng của anh</H1>
+<H2 class=Lead>Những lúc anh nhớ con, tôi cầm điện thoại bảo anh hãy gọi cho con, hoặc bảo anh dậy mặc quần áo chạy sang thăm con. Dù một chỉ nhìn con, ôm con vào lòng, được thơm vào má con một cái cũng đủ làm lòng anh ấm lại. (Hiền)<BR>><A href="/gl/ban-doc-viet/tam-su/2011/12/co-nen-nuoi-con-rieng-cua-chong/" class="Lead">Có nên nuôi con riêng của chồng? </A></H2>
+<P class=Normal><I style="mso-bidi-font-style: normal">Từ: Hien Nguyen<BR>Đã gửi: 07 Tháng Mười Hai 2011 11:21 SA</I><I style="mso-bidi-font-style: normal"><BR></I><BR>Chào Cúc!</P>
+<P class=Normal>Có lẽ Cúc và tôi cũng gần nhau về tuổi tác nên tôi gọi Cúc là bạn nhé. Tôi đọc rất nhiều bài tâm sự trên diễn đàn này, nhưng đây là lần đầu tiên tôi viết tâm sự của mình, và cũng là lần đầu tiên tôi chia sẻ tâm sự với một người là bạn. Vì hoàn cảnh của tôi cũng gần giống bạn, cũng quen và yêu một người đàn ông đã qua một lần đò và cũng có bên cạnh mình những đứa con. Nhưng tôi khác bạn hơn một chút đó là thay vì bạn còn đang suy nghĩ về việc “có nên nuôi con riêng của chồng” hay không thì tôi đã là vợ của người một lần dang dở ấy. </P>
+<P class=Normal>Tổ ấm của tôi bây giờ còn có thêm một thành viên nhí nữa, và lúc nào cũng đầy ắp tiếng cười. Tôi cũng từng trải qua những giây phút phải suy nghĩ, đắn đo như bạn khi tôi và chồng có kế hoạch gắn kết lâu dài. Như Mr. Mafioso đã nói “đàn ông ly hôn thường có khuyết tật về tâm hồn”, có nghĩa là khi đến với bạn và gắn kết hạnh phúc với bạn, tâm hồn của người đàn ông bạn yêu sẽ không được tròn trĩnh như bao người đàn ông khác, vì họ sẽ không 100% toàn tâm toàn ý cho bạn đâu. Không phải họ không muốn mà bởi vì họ còn có những ràng buộc khác mà họ phải mang theo suốt cuộc đời, đó chính là con cái.</P>
+<P class=Normal>Tôi cũng không biết phải khuyên bạn thế nào, tuy rằng hoàn cảnh tôi và bạn gần giống nhau, nhưng có lẽ tôi sẽ kể cho bạn nghe những gì tôi đã trải qua, hy vọng qua đó, bạn sẽ tìm được lời khuyên đúng đắn nhất cho mình.</P>
+<P class=Normal>Tôi chưa qua tuổi 30 và ưa nhìn về mặt hình thức, công việc tốt, học vấn cao, vậy mà tôi lại gắn kết cuộc đời với một người hơn tôi những 20 năm tuổi, đã đổ vỡ và có 2 con. Bạn bè tôi khi biết tôi quen và yêu người đó, họ cho tôi biết bao nhiêu là lời khuyên, ngăn cản có, cấm đoán có, phản đối kịch liệt có và rất ít người ủng hộ cho lựa chọn của tôi. <BR><BR>Ba mẹ tôi cũng ngăn cản, cũng giải thích nhưng tôi lại thấy ba mẹ tôi khác hẳn mọi người. Ba mẹ tôi không lấy lý do là người đó đã lớn tuổi, lại gẫy gánh, lại có con để can ngăn tôi và khuyên tôi suy nghĩ lại. Lý do của ba mẹ tôi chính là tôi. Ba mẹ tôi bảo rằng, liệu tình yêu của tôi có đủ lớn để yêu hết tất cả những gì người ấy đang có, về quá khứ, về con cái và về những ràng buộc mà chồng tôi không thể chối bỏ. </P>
+<P class=Normal>Liệu tôi có đủ rộng lượng, vị tha hoặc tôi có đủ tốt để sống, để đối xử với anh ấy, với gia đình anh và với những đứa con riêng của anh ấy bằng cái tâm của một người vợ, người mẹ thật sự? Hay tôi lại trở thành một bà mẹ ghẻ kinh khủng như nhân gian vẫn hay truyền. </P>
+<P class=Normal>Khó nói lắm bạn ạ, lúc ấy tâm trạng tôi xáo trộn, tôi như bị vướng vào một mối tơ vò mà cũng chưa xác định hướng đi đúng cho tôi. Bởi vì tôi hiểu rằng, trong mối quan hệ này, đối xử của người vợ là quan trọng nhất. Và nếu tôi chưa thật sự sẵn sàng thì tôi lại làm khổ anh, khổ chính tôi và nhiều người khác liên quan. </P>
+<P class=Normal>Người ta thường bảo, yêu nhau là sẽ yêu hết tất cả những điểm tròn, điểm khuyết của người ấy nên tôi nghĩ rằng, bạn cũng như tôi, khi yêu người ấy, tôi chắc hẳn bạn đã biết rõ hoàn cảnh của người mình yêu, về những mối quan hệ, về những ràng buộc, về con cái của anh ấy. <BR><BR>Quay lại trường hợp của tôi, tôi yêu anh, ở cạnh anh tôi rất vui và hạnh phúc. Sau khi nghe hết tất cả những lời khuyên của mọi người, tôi cho tôi thời gian để kiểm chứng lại chính tình yêu của mình với anh, rằng liệu nó có đủ mạnh để giúp tôi vượt qua tất cả và liệu tôi có thật sự đem đến hạnh phúc cho anh hay không. Tôi đã đặt ra hàng loạt câu hỏi và đặt mình vào những trường hợp, tình huống khác nhau để kiểm chứng những suy nghĩ, hành động của chính mình. Từ những suy nghĩ, hành động, hoặc phản ứng của tôi về những câu hỏi, tình huống ấy sẽ là câu trả lời chắc chắn cho quyết định của tôi.</P>
+<P class=Normal>Về chăm sóc con và kinh tế gia đình: Liệu tôi có chấp nhận và đồng ý về việc chồng tôi có những khoản trích từ lương để chu cấp cho con, lo cho con riêng của anh ấy? Tôi đồng ý vì cái đó là đúng, tuy nhiên tôi sẽ đề nghị anh phải rõ ràng minh bạch, tất nhiên không phải là bắt anh kê khia ra tất cả những khoản anh cho con và lo cho con hết bao nhiêu, vào việc gì, và như thế nào. Cái đó là do anh quyết định và ở cương vị người cha, anh sẽ biết rõ thế nào là hợp lý. <BR><BR>Còn việc công khai minh bạch, tôi nghĩ đơn giản vợ chồng cùng làm, lương vợ chồng cùng góp để lo chung cho gia đình, anh còn con cái phải lo lắng, chu toàn, thì tôi và anh sẽ căn cứ vào mức thu nhập thực tế của 2 vợ chồng và sẽ đưa ra mức hợp lý để cả hai cùng góp vào quỹ chung của gia đình. Khoản tiền còn lại sau khi góp thì anh sẽ tự để chi tiêu hay lo lắng cho con một cách phù hợp.<BR><BR>Thực tế gần 2 năm sau khi chúng tôi về cùng một mái nhà, có nhiều lần anh đưa cho tôi một mà những lúc anh cần hoặc lo cho con cái riêng, tôi lại đưa anh nhiều hơn. Và tôi cảm thấy vui vì điều đó, bởi vì tôi nghĩ con cái dù riêng hay chung đều là thành viên của gia đình tôi, và mặc dù không phải con tôi nhưng tôi cũng có nghĩa vụ và trách nhiệm lo cho cháu. Và có những lúc, tôi cũng tự trích một khoản tiền của mình để làm quà cho các con của mình (con chung và riêng) những ngày như 1/6 hoặc trung thu. Thực tế tôi thấy rằng, tôi chưa hề có sự phân biệt về việc lo lắng cho ai (con của tôi và anh) hoặc con riêng của anh một cách thiên lệch, vì đó là không công bằng.</P>
+<P class=Normal>Hy sinh thời gian riêng của hai vợ chồng cho con: trước khi cưới tôi thường hỏi mình rằng, tôi sẽ thấy thế nào nếu anh dành những ngày nghỉ để đưa 2 nhóc đi chơi, dành riêng cho con riêng của mình và để một mình mình ở nhà. Tôi có ghen tị với hai cháu không, tôi có cảm thấy bức xúc khó chịu không? Và câu trả lời thực tế sau khi tôi đã là vợ anh và những lúc anh đưa con đi chơi, để tôi một mình bầu bí ở nhà: tôi vui vì tôi đã làm được một điều có ý nghĩa, rằng sự liên kết và mối liên hệ giữa cha con vẫn như ngày nào chứ không bị ảnh hưởng, rạn nứt kể từ khi có tôi trong cuộc đời anh.<BR><BR>Có những lúc tôi còn động viên anh đi thăm con, và đưa con đi chơi nhiều, thậm chí những ngày như 1/6 hay tết trung thu, tôi vẫn bảo anh hãy dành thời gian cho con. Tôi hiểu trong hoàn cảnh này, sự quan tâm của cha mẹ cho con sẽ làm cho con trẻ hiểu mình không bị bỏ rơi mặc dù cha hoặc mẹ đã có gia đình mới và con trẻ vẫn cảm thấy ấm áp và hạnh phúc để lớn lên bình thường như những đứa trẻ khác. </P>
+<P class=Normal>Đó là lúc 2 cháu chưa về ở với vợ chồng tôi, đã có nhiều đêm nằm cạnh anh, tôi thấy anh trở mình không ngủ được, anh ôm tôi vào lòng, xoa bụng tôi để cảm nhận một sinh linh bé bỏng đang tượng hình và khóc vì nhớ hai đứa trẻ, vì anh không đem lại đầy đủ hạnh phúc cho con. <BR><BR>Tôi hiểu, tôi chỉ ôm anh và cũng khóc theo vì tôi biết tình cảm cha con lớn lao biết nhường nào, cũng như tôi đang dành tình yêu thương thật nhiều cho con tôi vậy. Và những lúc anh nhớ con, tôi cầm điện thoại bảo anh hãy gọi cho con, hoặc bảo anh hãy dậy, mặc quần áo vào để chạy sang con, dù một chút thôi, dù chỉ nhìn con, ôm con vào lòng, dù chỉ được thơm vào má con một cái cũng đủ làm lòng anh ấm lại.<BR><BR>Và có những lúc anh đi sang con giữa đêm như vậy, tôi vẫn thức chờ anh về. Tôi cảm thấy tôi đã làm được cho người tôi yêu thương một điều thật nhỏ nhoi thôi nhưng lại ý nghĩa biết bao.</P>
+<P class=Normal>Khi một cháu chuyển về sống cùng vợ chồng tôi, cháu gái lớn, thì ban đầu tôi cũng lo tôi sợ trong gia đình sẽ xuất hiện những khoảng cách. Nhưng không, chúng tôi vẫn ổn, và cháu vẫn ngoan. Ở cạnh cháu rồi, tôi mới nghiệm ra một điều, không phải cái gì cũng khó khăn đâu bạn ạ. Vì nếu bạn đối xử với người đối diện bằng chính cái tâm của mình, tình cảm của mình, không hề có sự giả dối trong đó hoặc không hề có sự khiên cưỡng hoặc cưỡng ép thì mới ổn được bạn ạ.<BR><BR>Tuy nhiên, cái gì cũng có cái khó khăn của nó, và cũng tôi cũng có những cái khó khăn của mình, nhưng tôi đã vượt qua được bởi tôi nghĩ rằng tất cả đều là thành viên trong nhà, nên trong tôi không hề xuất hiện một sự miễn cưỡng hay khó chịu nào cả. </P>
+<P class=Normal>Về các mối quan hệ cũ: Tôi tin chắc rằng, ai ở trong hoàn cảnh của tôi hay của bạn thì giữa hai người đều có sự minh bạch rõ ràng. Vì chỉ có sự minh bạch rõ ràng, không hề giấu diếm mới tạo cho tôi, hoặc bạn hoặc những người phụ nữ giống mình một sự tin tưởng và không có bất cứ sự lấn cấn gì trong lòng. Tôi không biết người đàn ông của bạn thì sao, nhưng chồng tôi không hề giấu tôi bất cứ điều gì về quá khứ, về hiện tại, về cách đối xử của anh với vợ cũ.<BR><BR>Từ đó tạo cho tôi niềm tin và tạo cho chúng tôi một sự nhẹ nhàng, yên bình trong cuộc sống. Anh còn một bé trai hiện đang ở với mẹ, và với cháu, cháu chỉ biết mẹ thôi. Có những lúc anh muốn gần con, nhưng một điều bắt buộc là phải có mẹ cháu (vợ cũ anh) đi cùng hoặc bên cạnh, chứ nhất định cháu không chịu ra ngoài một mình với ba. Ban đầu tôi cũng lấn cấn vì điều này, nhưng anh đã làm tôi yên tâm rằng, tất cả chỉ vì cháu, còn đối với vợ cũ anh, chỉ như một một bạn mà thôi. <BR><BR>Đã có nhiều lần, cả gia đình cũ của anh cùng đi chơi, để anh được gần cháu, và sau những lần như vậy, tôi cảm nhận rằng tại mình suy nghĩ lung tung, suy điều nọ ra điều kia chứ không chịu thừa nhận thực tế nên mình mới tự làm mình mất cân bằng. Và sau những lần như vậy, tôi thấy lòng mình rất vui vì tôi thấy trong ánh mắt nụ cười của anh có gì đó sâu lắng hơn và thỏa nguyện hơn. <BR><BR>Cũng đã có những lúc, cả anh và tôi cùng đi sang nhà chị ấy để thăm cháu, và giữa chúng tôi không hề có sự khiên cưỡng hay khó khăn, tôi cảm thấy chúng tôi như những người bạn thật sự và mục đích của chúng tôi cũng chỉ vì những đứa con. Có lúc tôi cũng ngồi với chị, trò chuyện với chị trong lúc anh chơi với con, và cũng có lúc tôi với chị trao đổi những vấn đề khác nữa. Cũng chỉ vì những vấn đề xung quanh con cái, những việc cần thiết mà phải có sự giải quyết của anh, của tôi, chứ tuyệt nhiên không hề có gì xa hơn ngoài tính chất bạn bè. <BR><BR>Có thể mọi người sẽ nghĩ điều đó sẽ khó khăn, nhưng mọi người sẽ làm được giống tôi, nếu tình yêu của mọi người dành cho nhau đủ lớn và niềm tin đủ mãnh liệt để đơn giản hóa, bình thường hóa mọi vấn đề khúc mắc, phức tạp. <BR><BR>Bạn Cúc ạ, có thể những gì tôi đã trải qua không hoàn toàn giống bạn, vì con cái, tuổi tác, hoàn cảnh khác nhau, nhưng nó đều giống nhau ở cái bản chất. Và hãy xét lại tình yêu của bạn, niềm tin của bạn vào người đàn ông ấy có đủ lớn để giúp bạn vượt qua tất cả hay không. Bởi vì, tôi nghĩ rằng, khi tình yêu và niềm tin của bạn đủ lớn thì chắn chắc bạn sẽ giống tôi ở chỗ không ngần ngại hy sinh bản thân mình để đem hạnh phúc đến cho người mình yêu.<BR><BR>Tôi đọc nhiều bài báo của nhiều người bảo rằng nếu thấy phức tạp như vậy thì đừng kết hôn. Tôi chỉ muốn đính chính một chút ít rằng, các anh trong hoàn cảnh này hãy cứ yêu và tìm cho mình hạnh phúc vì trong cuộc sống và trong cuộc đời này vẫn có rất nhiều các chị, các em tốt sẽ yêu và đem lại hạnh phúc cho các anh. Chúc Cúc sẽ suy nghĩ và có quyết định sáng suốt. Chúc các anh trong hoàn cảnh này sẽ tìm được người tốt và có cuộc sống hạnh phúc.</P>
+<P class=Normal>Gửi riêng cho ông xã yêu: bà xã hy vọng lúc nào ông xã cũng cảm thấy bình yên khi ở bên em. Bà xã mong lúc nào cũng đem đến niềm vui và hạnh phúc cho anh và cho tất cả thành viên trong gia đình mình. Đồng vợ, đồng chồng, tát cạn biển Đông, ông xã nhé!</P>
+
+		<TABLE cellSpacing=0 cellPadding=0 width=100% border=0><tr><td id=tdTopic_6811_1002165091></td></tr></table>	
+		<script type="text/javascript" language=javascript>
+			ShowTopicJS (6811, 5, 3, 0, '', 2, 'tdTopic_6811_1002165091', 1, 1002165091);
+		</script>
+		
+			</div>
+			<div class="tag-parent"><img src='/Images/tags.gif' class="tag"><div class="tag-pos"><h3 class="tag-text"><a href='/tag/2155/tinh-yeu/'>tình yêu</a>, <a href='/tag/31605/con-rieng/'>con riêng</a>, <a href='/tag/65347/dong-vien/'>động viên</a></h3></div></div>
+			<div style="margin-top:5px;margin-bottom:5px;">							
+				<script language="javascript">					
+					Poly_ShowArticlebanner();										
+				</script>				
+			</div>
+		</div>				
+		<div class="folder-news">
+	<div class="boxnew-header">
+		<div class="boxnew-title fl">Tin mới</div>
+	</div>
+	<div class="boxnew">
+		<ul>
+		<li><a href="/gl/ban-doc-viet/tam-su/2011/12/chong-sap-cuoi-cua-cuc-muon-co-nguoi-cham-con/" class="link-othernews">Chồng sắp cưới của Cúc muốn có người chăm con</a><span style="color: #909090">&nbsp;(08/12)</span></li>
+		<li><a href="/gl/ban-doc-viet/tam-su/2011/12/anh-that-may-man-khi-chia-tay-voi-em-som/" class="link-othernews">Anh thật may mắn khi chia tay với em sớm</a><span style="color: #909090">&nbsp;(08/12)</span></li>
+		<li><a href="/gl/ban-doc-viet/tam-su/2011/12/cuc-khong-ich-ky-neu-tu-bo-nguoi-da-co-con-rieng/" class="link-othernews">Cúc không ích kỷ nếu từ bỏ người đã có con riêng</a><span style="color: #909090">&nbsp;(08/12)</span></li>
+		<li><a href="/gl/ban-doc-viet/tam-su/2011/12/rac-roi-me-ghe-con-chong-it-xay-ra-o-phuong-tay/" class="link-othernews">Rắc rối mẹ ghẻ con chồng ít xảy ra ở phương Tây</a><span style="color: #909090">&nbsp;(08/12)</span></li>
+		<li><a href="/gl/ban-doc-viet/tam-su/2011/12/hay-nho-den-anh-moi-khi-em-cam-thay-tuyet-vong/" class="link-othernews">Hãy nhớ đến anh mỗi khi em cảm thấy tuyệt vọng</a><span style="color: #909090">&nbsp;(08/12)</span></li>
+		</ul>
+	</div>
+</div>
+<div class="folder-news">
+	<div class="othernews-header">
+		<div class="othernews-title fl">C&#225;c &#253; ki&#7871;n kh&#225;c</div>
+		<div class="fr txtr" style="margin-bottom:5px;"><label onClick="history.go(-1)" class="Time" style="cursor:pointer">[<B>Tr&#7903; v&#7873;</B>]</label></div>
+	</div>
+	<div class="othernews">
+		<ul>
+		<li><a href="/gl/ban-doc-viet/tam-su/2011/12/song-voi-con-rieng-la-ca-mot-nghe-thuat/" class="link-othernews">Sống với con riêng là cả một nghệ thuật</a><span style="color: #909090">&nbsp;(07/12)</span></li>
+		<li><a href="/gl/ban-doc-viet/tam-su/2011/12/neu-biet-phuc-tap-the-nay-toi-se-khong-di-buoc-nua/" class="link-othernews">Nếu biết phức tạp thế này, tôi sẽ không đi bước nữa</a><span style="color: #909090">&nbsp;(06/12)</span></li>
+		<li><a href="/gl/ban-doc-viet/tam-su/2011/12/em-hoang-mang-voi-thuc-tai-cua-chinh-minh/" class="link-othernews">Em hoang mang với thực tại của chính mình</a><span style="color: #909090">&nbsp;(06/12)</span></li>
+		<li><a href="/gl/ban-doc-viet/tam-su/2011/12/neu-chap-nhan-con-rieng-cua-ban-trai-cuc-hay-ket-hon/" class="link-othernews">Nếu chấp nhận con riêng của bạn trai, Cúc hãy kết hôn</a><span style="color: #909090">&nbsp;(06/12)</span></li>
+		<li><a href="/gl/ban-doc-viet/tam-su/2011/12/chong-nghi-ngo-tinh-cam-cua-toi-voi-con-rieng-cua-anh/" class="link-othernews">Chồng nghi ngờ tình cảm của tôi với con riêng của anh</a><span style="color: #909090">&nbsp;(06/12)</span></li>
+		<li><a href="/gl/ban-doc-viet/tam-su/2011/12/ban-trai-toi-tha-ngheo-chu-khong-quay-lai-vo-cu/" class="link-othernews">Bạn trai tôi thà nghèo chứ không quay lại vợ cũ</a><span style="color: #909090">&nbsp;(06/12)</span></li>
+		<li><a href="/gl/ban-doc-viet/tam-su/2011/12/em-van-luon-cho-doi-anh-du-biet-la-vo-vong/" class="link-othernews">Em vẫn luôn chờ đợi anh dù biết là vô vọng</a><span style="color: #909090">&nbsp;(06/12)</span></li>
+		<li><a href="/gl/ban-doc-viet/tam-su/2011/12/vong-tay-anh-luon-rong-mo-khi-em-cam-thay-met-moi/" class="link-othernews">Vòng tay anh luôn rộng mở khi em cảm thấy mệt mỏi</a><span style="color: #909090">&nbsp;(05/12)</span></li>
+		<li><a href="/gl/ban-doc-viet/tam-su/2011/12/anh-da-bo-roi-em-roi/" class="link-othernews">Anh đã bỏ rơi em rồi</a><span style="color: #909090">&nbsp;(05/12)</span></li>
+		<li><a href="/gl/ban-doc-viet/tam-su/2011/12/cuoi-4-thang-gia-dinh-vo-khong-biet-toi-co-con-rieng/" class="link-othernews">Cưới 4 tháng, gia đình vợ không biết tôi có con riêng</a><span style="color: #909090">&nbsp;(05/12)</span></li>
+		<li><a href="/gl/ban-doc-viet/tam-su/2011/12/anh-da-vo-tinh-bat-em-lam-nguoi-thu-ba/" class="link-othernews">Anh đã vô tình bắt em làm người thứ ba</a><span style="color: #909090">&nbsp;(05/12)</span></li>
+		<li><a href="/gl/ban-doc-viet/tam-su/2011/12/nguoi-dan-ong-tot-se-chon-con-chu-khong-chon-nguoi-tinh/" class="link-othernews">Người đàn ông tốt sẽ chọn con chứ không chọn người tình</a><span style="color: #909090">&nbsp;(05/12)</span></li>
+		<li><a href="/gl/ban-doc-viet/tam-su/2011/12/dan-ong-ly-hon-thuong-bi-khuyet-tat-tam-hon/" class="link-othernews">Đàn ông ly hôn thường bị khuyết tật tâm hồn</a><span style="color: #909090">&nbsp;(05/12)</span></li>
+		<li><a href="/gl/ban-doc-viet/tam-su/2011/12/hay-de-tre-duoc-biet-truoc-viec-di-buoc-nua-cua-cha-me/" class="link-othernews">Hãy để trẻ được biết trước việc đi bước nữa của cha mẹ</a><span style="color: #909090">&nbsp;(05/12)</span></li>
+		<li><a href="/gl/ban-doc-viet/tam-su/2011/12/cuc-can-noi-chuyen-voi-gia-dinh/" class="link-othernews">Cúc cần nói chuyện với gia đình</a><span style="color: #909090">&nbsp;(04/12)</span></li>
+		</ul>
+	</div>
+</div>
+
+		</div>
+	<div class="content-left fl">		
+	<div class="linksite-box" style="padding:0px;">
+	<img alt="Link Site" src="/Images/Linksite/site2.gif" usemap="#ctmap" class="img-linksite"/>
+	<map id="ctmap" name="ctmap">
+		<area shape="rect" coords="6,0,72,28" href="http://ngoisao.net/" target="_blank" title="ngoisao.net" />
+		<area shape="rect" coords="83,0,140,28" href="http://sohoa.vnexpress.net/" target="_blank" title="sohoa.vnexpress.net" />		
+		<area shape="rect" coords="152,0,215,28" href="http://gamethu.vnexpress.net/" target="_blank" title="gamethu.vnexpress.net" />
+		<area shape="rect" coords="223,0,296,28" href="http://vieclam.vnexpress.net/" target="_blank" title="viec lam" />
+	</map>
+</div>
+	<div class="box-item">		
+		<script type="text/javascript">
+			cpms_Ap.typ = 2;
+			cpms_Ap.ste = 1;
+			cpms_Ap.reg = 0;
+			cpms_Ap.fol = 127;
+			cpms_Ap.dof = 0;
+			cpms_Ap.wdt = 300;
+			
+			cpms_Ap.itf = 2;
+			
+			cpms_Ap.ShowAd();
+		</script>
+	</div>
+	<Script language="JavaScript">Poly_ShowLogoLeft(2)</Script>
+<A href="/gl/doi-song/tinh-duc-tuoi-hoang-hon/" class="Normal"></A>
+<TABLE cellSpacing=0 cellPadding=6 width="100%" border=1>
+<TR>
+<TD bgColor=#f0fff8 class="Normal"><FONT size=2>Thông tin do bạn đọc cung cấp và chịu trách nhiệm về tính xác thực. Tòa soạn giữ quyền biên tập và thay tên, địa chỉ nếu cần. </FONT><FONT size=2>Các bài viết gửi về Tamsu@VnExpress.net.</FONT></TD></TR></TABLE>
+<TABLE cellSpacing=0 cellPadding=6 width="100%" border=1>
+<TR>
+<TD class=AdTitle bgColor=#326400><FONT color=#ffffff>Chủ đề mới</FONT></TD></TR>
+<TR>
+<TD class=BoxLink><A href="/gl/ban-doc-viet/tam-su/2011/12/co-nen-nuoi-con-rieng-cua-chong/" class="AdTitle">Có nên nuôi con riêng của chồng?<BR></A>Lúc mới yêu, anh đã chắc chắn với tôi rằng 2 đứa sẽ ở với mẹ nên tôi yên tâm rằng mình sẽ không phải làm mẹ kế. Nhưng bây giờ anh đòi sau khi cưới anh sẽ đem 2 đứa về ở chung, tôi bị sốc. Tôi biết mình chưa sẵn sàng làm mẹ của 2 đứa trẻ. (Cúc) <BR>>><A href="/GL/Topic/?ID=6811" class="BoxLink">Cùng chủ đề</A></TD></TR>
+<TR>
+<TD class=BoxLink><A href="/gl/ban-doc-viet/tam-su/2011/11/cuu-van-hon-nhan-hay-giai-thoat-cho-chong/" class="AdTitle">Cứu vãn hôn nhân hay giải thoát cho chồng?<BR></A>Trong lúc anh cần có người động viên, chia sẻ thì tôi không làm được việc đó mà lại ghen tuông ầm ĩ. Tôi đã phụ lòng tốt của anh. Mặt khác, hoàn cảnh khách quan là cuộc sống quá vất vả và bệnh tật của tôi cũng khiến anh mệt mỏi, chán nản, muốn được giải thoát. (Loan)<BR>>><A href="/GL/Topic/?ID=6790" class="BoxLink">Cùng chủ đề</A></TD></TR>
+<TR>
+<TD class=BoxLink><A href="/gl/ban-doc-viet/tam-su/2011/11/toi-muon-quen-nhung-long-lai-nho/" class="AdTitle">Tôi muốn quên, nhưng lòng lại nhớ</A><BR>Tôi không bao giờ muốn phản bội vợ và con nên đã chủ động không liên lạc hay trả lời tin nhắn. Nhưng tôi phát hiện hình như đã có tình cảm với cô ấy, tôi muốn quên nhưng lòng lại nhớ. Tôi muốn quay về tâm trạng ngày xưa, tôi chỉ muốn gìn giữ niềm hạnh phúc gia đình nhỏ của mình. (Minh)<BR>>><A href="/GL/Topic/?ID=6777" class="BoxLink">Cùng chủ đề</A></TD></TR>
+<TR>
+<TD class=BoxLink><A href="/gl/ban-doc-viet/tam-su/2011/11/co-nen-ly-hon-nguoi-vo-lang-nhang/" class="AdTitle">Có nên ly hôn người vợ lăng nhăng?</A><BR>Một tháng trước đây, khi vợ tôi chuyển sang cơ quan mới, môi trường làm việc mới, tôi phát hiện vợ thường xuyên nhắn tin với 2 người đàn ông đáng tuổi bố tôi với những dòng nhắn của cả 2 bên đều nặng về tán tỉnh, lả lướt, thể xác và tình dục. (Sơn)<BR>>><A href="/GL/Topic/?ID=6770" class="BoxLink">Cùng chủ đề</A></TD></TR>
+<TR></TR></TABLE>
+<script language="JavaScript">AddVote(127,1,376498468,'','Bạn có sẵn sàng tiến tới hôn nhân nếu bạn trai có con riêng?','#FF0000','#C0C0C0','100%',2, new Array(new Array('Có',0,0),new Array('Không',0,1)),'',1)</script>
+<div class="box-item">
+	<div class="tmp1_hot_header">
+		<div class="tmp1_hot_content">
+			<ul>	<li><a href="/gl/ban-doc-viet/tam-su/2011/12/gui-em-co-bo-kieu-hanh-cua-chong-chi/">Gửi em, cô bồ kiêu hãnh của chồng chị</a></li>
+	<li><a href="/gl/ban-doc-viet/tam-su/2011/12/hoi-han-vi-lay-chong-da-co-con-rieng/">Hối hận vì lấy chồng đã có con riêng</a></li>
+	<li><a href="/gl/ban-doc-viet/tam-su/2011/12/co-nen-nuoi-con-rieng-cua-chong/">Có nên nuôi con riêng của chồng?</a></li>
+	<li><a href="/gl/ban-doc-viet/tam-su/2011/11/hay-buong-tay-neu-anh-khong-con-yeu-em-nua/">Hãy buông tay nếu anh không còn yêu em nữa</a></li>
+	<li><a href="/gl/ban-doc-viet/tam-su/2011/11/me-oi-con-la-nguoi-dong-tinh/">Mẹ ơi, con là người đồng tính</a></li>
+	<li><a href="/gl/ban-doc-viet/tam-su/2011/11/chua-tim-thay-tinh-yeu-that-su-khi-da-trai-qua-6-moi-tinh/">Chưa tìm thấy tình yêu thật sự khi đã trải qua 6 mối tình</a></li>
+	<li><a href="/gl/ban-doc-viet/tam-su/2011/11/toi-se-khong-han-neu-chong-thuoc-the-gioi-thu-ba/">Tôi sẽ không hận nếu chồng thuộc thế giới thứ ba</a></li>
+	<li><a href="/gl/ban-doc-viet/tam-su/2011/11/thi-thoang-toi-van-co-cam-giac-voi-nguoi-cung-gioi/">Thi thoảng tôi vẫn có cảm giác với người cùng giới</a></li>
+	<li><a href="/gl/ban-doc-viet/tam-su/2011/11/em-khong-ngo-minh-mat-nhau-vi-nguoi-thu-ba/">Em không ngờ mình mất nhau vì người thứ ba</a></li>
+</ul>
+		</div>
+	</div>
+</div>
+
+<TABLE cellSpacing=0 cellPadding=3 width="100%" border=1>
+</TABLE>
+<TABLE cellSpacing=0 cellPadding=6 width="100%" border=1>
+</TABLE>
+<TABLE cellSpacing=0 cellPadding=6 width="100%" border=1>
+<TR>
+<TD bgColor=#326400 colSpan=2 class="AdTitle"><FONT color=#ffffff>Nhắn gửi người thương</FONT></TD></TR>
+<TR>
+<TD class=BoxLink bgColor=#326400 colSpan=2><FONT color=#ffffff>Bạn có thể ghi lại lời nhắn yêu thương bằng file âm thanh và gửi đến </FONT><A href="mailto:Tamsu@VnExpress.net" class="BoxLink"><FONT color=#ffffff>Tamsu@VnExpress.net</FONT></A><FONT color=#ffffff>.</FONT>  </TD></TR>
+<TR>
+<TD class=BoxLink colSpan=2>
+<P class=Normal><A href="/gl/ban-doc-viet/tam-su/2011/12/em-van-luon-cho-doi-anh-du-biet-la-vo-vong/" class="AdTitle">Em vẫn luôn chờ đợi anh dù biết là vô vọng</A> </P>
+<P class=Normal>Trước đây anh yêu em tha thiết là thế, anh có thể bỏ tất cả vì em, em la làng lên anh vẫn nhịn và chiều em. Nhưng giờ anh có gia đình rồi và anh đã chọn gia đình là điểm dừng chân cuối cùng. (Châu)</P></TD></TR>
+<TR>
+<TD class=BoxLink colSpan=2>
+<A href="/gl/ban-doc-viet/tam-su/2011/12/anh-da-bo-roi-em-roi/" class="AdTitle">Anh đã bỏ rơi em rồi</A>
+<P class=Normal>Vợ chồng lục đục, anh bỏ về ở với mẹ và nói không muốn làm đứa bất hiếu, còn em ở lại căn nhà ở thuê với nhiều nỗi niềm tâm sự. Anh trách em là đứa con dâu không khéo léo. Em trách anh là người đứng giữa không thể dung hòa được các mối quan hệ. (Hien)</P></TD></TR>
+<TR>
+<TD class=BoxLink colSpan=2>
+<P class=Normal><A href="/gl/ban-doc-viet/tam-su/2011/12/anh-van-luon-thay-em-dau-do-quanh-day/" class="AdTitle">Anh vẫn luôn thấy em đâu đó quanh đây</A> </P>
+<P class=Normal>Đã bao năm rồi, anh vẫn đi qua khu nhà em từng ở, vẫn thấy tim mình đập rộn ràng, vẫn mong thấy em chạy ùa về phía anh. Anh vẫn dạo trên con đường xưa, vẫn đi qua chỗ em ngồi, vẫn mong thấy em ngoảnh lại mỉm cười, dịu dàng, ánh mắt muốn nói rằng em yêu anh. (Nguyên)</P></TD></TR>
+<TR>
+<TD class=BoxLink colSpan=2>>><A href="/GL/Topic/?ID=6509" class="BoxLink"><STRONG>Những lời nhắn gửi khác</STRONG></A> </TD></TR></TABLE><div class="box-item">
+	<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fcongdongvnexpress&amp;width=300&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23D5d8de&amp;stream=false&amp;header=false&amp;appId=164836726924102" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:258px;" allowTransparency="true"></iframe>
+</div>
+	</div>
+	
+	<div class="content-right fl">		
+		<div class="adv-header">
+			<div class="adv-title fl">				
+				<a href="http://www.fptad.com/lienhe.aspx" target="_blank"><img style="border:0" src="/Images/Background/adv-title.gif" alt="Lien he quang cao" /></a>				
+			</div>
+		</div>
+		<div id="adgroup"  style="display:none;clear:both;"></div>
+	<Script type="text/javascript" language="JavaScript">Poly_ShowAdScrollBanner(2);</Script>
+				</div>
+				
+			</div>
+			
+			<div id="footer">
+				
+				<script type="text/javascript">Poly_ShowFooterBanner();</script>										
+				
+                <div class="fmenu-top">
+                    <div class="fl icone-footer"></div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-home" rel="nofollow" onclick="javascript:setAsHomePage(this)"><span></span>Đặt làm trang chủ</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ct" rel="nofollow" class="link-contact" href="/ContactUs/?id=tamsu@vnexpress.net"><span></span>Liên hệ tòa soạn</a>
+                    </div>
+                    <div class="sep-fmenu fl">&nbsp;</div>
+                    <div class="fmenu-other fl">
+                        <a class="lnkf-ads" rel="nofollow" class="link-contact" href="http://ads.fpt.net/lienhe.aspx" target="_blank"><span></span>Liên hệ quảng cáo</a>
+                    </div>					
+                    <div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">						
+						
+                        <span class="lnkf-hl">Đường dây nóng: 0123.888.0123 (HN) - 0129.233.3555 (TP HCM)<span></span></span>
+						
+                    </div>
+					<div class="sep-fmenu fl">&nbsp;</div>
+					<div class="fmenu-other fl">
+						 <a rel="nofollow" class="link-contact" href="http://fptad.com/qc/v/vnexpress/2011/phongvienthethao/" target="_blank"><img class="img-search" src="/Images/person.gif" alt="" style="vertical-align:top;" /> VnExpress tuyển dụng </a>
+					</div>					
+                </div>
+                <div class="fmenu-bottom">	
+					<a href="/" class="link-footermenu">Trang chủ</a><i class="sepaf"></i>
+					<a href="/gl/xa-hoi/" class="link-footermenu">Xã hội</a><i class="sepaf"></i>
+					<a href="/gl/the-gioi/" class="link-footermenu">Thế giới</a><i class="sepaf"></i>
+					<a href="/gl/kinh-doanh/" class="link-footermenu">Kinh doanh</a><i class="sepaf"></i>
+					<a href="/gl/van-hoa/" class="link-footermenu">Văn hóa</a><i class="sepaf"></i>
+					<a href="/gl/the-thao/" class="link-footermenu">Thể thao</a><i class="sepaf"></i>
+					<a href="/gl/phap-luat/" class="link-footermenu">Pháp luật</a><i class="sepaf"></i>
+					<a href="/gl/doi-song/" class="link-footermenu">Ðời sống</a><i class="sepaf"></i>
+					<a href="/gl/khoa-hoc/" class="link-footermenu">Khoa học</a><i class="sepaf"></i>
+					<a href="/gl/vi-tinh/" class="link-footermenu">Vi tính</a><i class="sepaf"></i>
+					<a href="/gl/oto-xe-may/" class="link-footermenu">Ôtô - Xe máy</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/" class="link-footermenu">Bạn đọc viết</a><i class="sepaf"></i>
+					<a href="/gl/ban-doc-viet/tam-su/" class="link-footermenu">Tâm sự</a><i class="sepaf"></i>
+					<a href="/user/rao-vat/" class="link-footermenu">Rao vặt</a><i class="sepaf"></i>
+					<a href="/gl/cuoi/" class="link-footermenu">Cuời</a>
+					
+                    <script type="text/javascript" language="javascript">
+						//writeFooterMenu();
+						Poly_ShowFixFloatBanner(0);Poly_ShowFixFloatBanner(2);Poly_ShowFixFloatBanner(1);Poly_ShowFixFloatBanner(3);
+						Poly_ShowSlideBanner();Poly_ShowBallonBanner();						
+					</script>
+					
+                    <script type="text/javascript" language="javascript">Poly_ShowPopupUnder();</script>
+					
+                </div>
+                <div class="copyright">
+                    <p><label style="font:bold 11px arial; color:#686E7A;">&#169;&nbsp;Copyright 1997-2011 VnExpress.net</label>, <label style="font:normal 11px arial; color:#686E7A;">All rights reserved <a rel="nofollow" href="/ContactUs/?id=webmaster@vnexpress.net">Contact us</a> - <label onClick="ContactUs()" style="text-decoration:underline;cursor:pointer">Th&#244;ng tin T&#242;a so&#7841;n</label></label</p>
+<p><label style="font:normal 11px arial; color:#686E7A;">&#174;&nbsp;VnExpress gi&#7919; b&#7843;n quy&#7873;n n&#7897;i dung tr&#234;n website n&#224;y.</lable><span style="color:#F4F5F6">	05 | 0.02</span></p>
+
+                </div>
+            </div>
+			</div>
+		</div>		
+		</div>		
+		<script type="text/javascript">
+		<!--//<![CDATA[
+			cpms_Ap.init();
+			cpms_Ap.typ = 1;
+			cpms_Ap.dof = 0;
+			cpms_Ap.ste = 1;
+			cpms_Ap.reg = 0;
+			cpms_Ap.fol = 127;
+			cpms_Ap.pos = 38;
+			cpms_Ap.url = encodeURIComponent(document.location.href);
+			cpms_Ap.show();
+		//]]>-->
+		</script>
+		  	
+		<div style="float:left;">
+			<script type="text/javascript" language="javasript">
+				var strHr = location.href;				
+				if(strHr.substr(0,21)=='http://vnexpress.net/' || strHr.substr(0,27)=='http://ebank.vnexpress.net/' || strHr.substr(0,28)=='http://nhadep.vnexpress.net/'){
+					document.write('<img src="http://180.148.142.10/website/vnexpress/Res.asp?vid=C2E864F6-669B-4E46-8780-19517F9733B7&ovt=0&vsd=0&pfd=127&pid=1002165091&ref=&iTime=12/8/2011 1:46:57 PM" border=0>');
+					
+				}
+			</script>
+		</div>
+		<script type="text/javascript">
+	var SERVER_ID = 3;
+</script>
+		<!--<script type="text/javascript" language="javascript" src="/Library/Common/rss.js"></script>-->
+		<script type="text/javascript" src="http://180.148.142.152/Library/VNELibraryNew.js"></script>
+
+<script src="http://180.148.142.152/Vals/1/0/127/Val.js" type="text/javascript"></script>	
+		
+<script type="text/javascript" language="javaScript">checkCookie();</script>
+
+<script type="text/javascript" language="javaScript" src="http://180.148.142.153/script/libMobile.js"></script>     
+
+
+<script type="text/javascript">      
+    Poly_ShowAds();
+</script>
+
+	</body>			
+
+</html>
